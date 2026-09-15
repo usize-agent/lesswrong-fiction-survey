@@ -1,0 +1,35 @@
+{
+  "_id": "mjRosxzqfkLBngKMs",
+  "slug": "coming-of-age-chapters-1-and-2",
+  "title": "Coming of Age: Chapters 1 and 2",
+  "postedAt": "2026-03-24T09:15:37.251Z",
+  "baseScore": 13,
+  "wordCount": 334,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Ihor Kendiukhov",
+    "slug": "ihor-kendiukhov-1"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "izp6eeJJEg9v5zcur": 2
+  }
+}

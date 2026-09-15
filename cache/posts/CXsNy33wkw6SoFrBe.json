@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "CXsNy33wkw6SoFrBe",
+        "title": "Goldilocks and the Three Optimisers",
+        "slug": "goldilocks-and-the-three-optimisers",
+        "pageUrl": "https://www.lesswrong.com/posts/CXsNy33wkw6SoFrBe/goldilocks-and-the-three-optimisers",
+        "postedAt": "2023-08-17T18:15:39.456Z",
+        "baseScore": -10,
+        "wordCount": 1505,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "dkl9",
+          "slug": "dkl9"
+        },
+        "tags": [
+          {
+            "_id": "tgJoX7PGDDh2vJNqT",
+            "name": "Acausal Trade",
+            "slug": "acausal-trade"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "nvKzwpiranwy29HFJ",
+            "name": "Optimization",
+            "slug": "optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "nvKzwpiranwy29HFJ": 1,
+          "tgJoX7PGDDh2vJNqT": 1
+        },
+        "contents": {
+          "markdown": "Once upon a time, there was a little girl, Goldilocks, so named, we suppose, for her goldy locks \u2014 er, blonde hair.\n\nA small ($n = 3$) nuclear family of anthropomorphic bears lived in a house in a forest. Goldilocks, travelling in the forest (unaccompanied, apparently?), entered this house when the family was away.\n\nUpon a dinner table, she found three bowls of porridge.\n\nGoldilocks tasted from a bowl identified as first, but stopped after a small bite, finding it to be too hot. \"This porridge was [optimised for caloric content at fixed price](https://dkl9.net/essays/heating_food.html)!\"[^nkbry909dj]\u00a0she observed, and moved on to a second bowl.\n\nThe second porridge was bland (more so than your average porridge) and induced brain-freeze, leading her to remark that \"This porridge was optimised for preservation against microbes at fixed composition!\" and convenience-sample from the third bowl.\n\nGoldilocks ended up extending her convenience sample to the entire sampling frame (i.e. the bowl's contents), enjoying the final porridge. She supposed that \"This porridge was optimised for taste at fixed nutrition.\"\n\nShe saw three armchairs, and decided to sit in one, during which she could advance her philosophy.\n\nA first chair was far too large \u2014 it pressed against the ceiling \u2014 leading Goldilocks to ignore it, as she noted \"That chair was optimised for capacity at fixed portability.\"\n\nShe skipped over the second chair \u2014 really more of a stool \u2014 upon noticing that \"That chair was optimised for the user's mobility at fixed capacity.\"\n\nThe third chair looked appealing and reasonable, if perhaps suspiciously flimsy. She sat in it, enabling her to realise that she must have either misinterpreted these optimisation criteria, or underestimated the agents' intelligence/[creativity](https://dkl9.net/essays/fake_creativity.html). The true optima of all those goals are achieved by designs radically different from porridge or chairs. (It turns out she happened to be correct anyway. Remember, the house is run by bears, not the superintelligence Omega.)\n\nAfter her shifting around in that chair, it collapsed. \"That chair was optimised for material cost at fixed comfort!\" Goldilocks realised.\n\nBy now, 'twas evening, so she looked for a bedroom \u2014 somehow completely unhesitant in her intent to sleep in a stranger's house \u2014 and found one containing three beds.\n\nShe briefly tried lying in the first bed, finding that \"This bed was optimised for resilience against heat at fixed mass!\" For it seemed to be made of ceramic, even the blankets. (How anyone actually accepted that as a place to sleep, Goldilocks never understood.)\n\nLikewise, she tried the second bed, and got out of it upon experiencing how unhelpfully soft it was. \"This bed was optimised for portability at fixed capacity!\" she mused.\n\nGoldilocks finally tried the third bed, happily falling asleep before announcing any interpretations.\n\nThen the family of bears returned.\n\n\"Someone started eating my porridge,\" declared the father \u2014 likewise, the mother.\n\n\"Someone didn't just *start* eating my porridge, but ate *all* of it!\" declared the child. \"And my chair is broken!\"\n\n\"Someone laid on my bed,\" declared the father \u2014 likewise, the mother.\n\n\"Someone laid on my bed, and is still there, asleep!\" declared the child.\n\nGoldilocks awoke to all this commotion, and panicked.\n\n\"Fool,\" spake the child bear, sounding now not like the one experiencing fear, but the one inducing it. \"You should have acausally responded to the policy I'm well-known to execute against those who interfere with my goals.\"\n\n(The child bear may be misunderstanding decision theory here. I'm here to tell the story, not advise its characters.)\n\nGoldilocks tried to run away, but what happened to her instead perhaps best remains unsaid.\n\n[^nkbry909dj]: These assumptions may look weirdly specific and underjustified, but Goldilocks has access to more information about the scene than I'm describing."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "xLhsdrnkaPNDMLeYR",
+  "slug": "aldix-and-the-book-of-life",
+  "title": "Aldix and the Book of Life",
+  "postedAt": "2024-01-01T17:23:30.698Z",
+  "baseScore": 1,
+  "wordCount": 1334,
+  "commentCount": 0,
+  "user": {
+    "displayName": "ville",
+    "slug": "ville"
+  },
+  "tags": [
+    {
+      "_id": "t7t9nW6BtJhfGNSR6",
+      "name": "Aging",
+      "slug": "aging"
+    },
+    {
+      "_id": "PvridmTCj2qsugQCH",
+      "name": "Goodhart's Law",
+      "slug": "goodhart-s-law"
+    },
+    {
+      "_id": "vmvTYnmaKA73fYDe5",
+      "name": "Life Extension",
+      "slug": "life-extension"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "PvridmTCj2qsugQCH": 1,
+    "t7t9nW6BtJhfGNSR6": 1,
+    "vmvTYnmaKA73fYDe5": 1
+  }
+}

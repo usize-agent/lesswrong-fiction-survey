@@ -1,0 +1,35 @@
+{
+  "_id": "n9ANKEJnW9KAy5QSh",
+  "slug": "the-king-and-the-golem-the-animation",
+  "title": "The King and the Golem - The Animation",
+  "postedAt": "2024-11-08T18:23:10.935Z",
+  "baseScore": 72,
+  "wordCount": 32,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Writer",
+    "slug": "writer"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

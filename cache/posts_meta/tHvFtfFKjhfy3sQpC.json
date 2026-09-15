@@ -1,0 +1,23 @@
+{
+  "_id": "tHvFtfFKjhfy3sQpC",
+  "slug": "the-soul-key",
+  "title": "The Soul Key",
+  "postedAt": "2023-11-04T17:51:53.176Z",
+  "baseScore": 114,
+  "wordCount": 2260,
+  "commentCount": 10,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

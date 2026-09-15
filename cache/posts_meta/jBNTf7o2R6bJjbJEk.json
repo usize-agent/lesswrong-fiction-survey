@@ -1,0 +1,83 @@
+{
+  "_id": "jBNTf7o2R6bJjbJEk",
+  "slug": "where-utopias-go-wrong-or-the-four-little-planets",
+  "title": "Where Utopias Go Wrong, or: The Four Little Planets",
+  "postedAt": "2022-05-27T01:24:18.729Z",
+  "baseScore": 15,
+  "wordCount": 3349,
+  "commentCount": 0,
+  "user": {
+    "displayName": "ExCeph",
+    "slug": "exceph"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "t3vNhmcpuGJmbFNvd",
+      "name": "Utopia",
+      "slug": "utopia"
+    },
+    {
+      "_id": "4CQy8rim8PGt4sfCn",
+      "name": "Complexity of value",
+      "slug": "complexity-of-value"
+    },
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "xknvtHwqvqhwahW8Q",
+      "name": "Human Values",
+      "slug": "human-values"
+    },
+    {
+      "_id": "aHjTRDkGypPqbXWpN",
+      "name": "Intellectual Progress (Society-Level)",
+      "slug": "intellectual-progress-society-level"
+    },
+    {
+      "_id": "o9aQASibdsECTfYF6",
+      "name": "Moloch",
+      "slug": "moloch"
+    },
+    {
+      "_id": "txkDg4aLmiRq8wsSu",
+      "name": "Organizational Culture & Design",
+      "slug": "organizational-culture-and-design"
+    },
+    {
+      "_id": "8uNFGxejo5hykCEez",
+      "name": "Virtues",
+      "slug": "virtues"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "4CQy8rim8PGt4sfCn": 1,
+    "8uNFGxejo5hykCEez": 1,
+    "aHjTRDkGypPqbXWpN": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "o9aQASibdsECTfYF6": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "pGqRLe9bFDX2G2kXY": 1,
+    "t3vNhmcpuGJmbFNvd": 2,
+    "txkDg4aLmiRq8wsSu": 1,
+    "xexCWMyds6QLWognu": 2,
+    "xknvtHwqvqhwahW8Q": 1
+  }
+}

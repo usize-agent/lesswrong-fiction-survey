@@ -1,0 +1,35 @@
+{
+  "_id": "7PC22HTvtEbv6tvWJ",
+  "slug": "the-human-problem",
+  "title": "The human problem",
+  "postedAt": "2010-04-01T19:41:44.735Z",
+  "baseScore": 35,
+  "wordCount": 1165,
+  "commentCount": 8,
+  "user": {
+    "displayName": "PhilGoetz",
+    "slug": "philgoetz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "pGqRLe9bFDX2G2kXY": 1
+  }
+}

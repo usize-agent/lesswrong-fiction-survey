@@ -1,0 +1,31 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "JuzXhkm3spN6egzyu",
+        "title": "Short fic about uFAI",
+        "slug": "short-fic-about-ufai",
+        "pageUrl": "https://www.lesswrong.com/posts/JuzXhkm3spN6egzyu/short-fic-about-ufai",
+        "postedAt": "2011-01-02T14:13:51.223Z",
+        "baseScore": 42,
+        "wordCount": 20,
+        "commentCount": 20,
+        "noIndex": false,
+        "user": null,
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "http://andrewhickey.info/2010/12/31/jeeves-and-the-singularity\n\nNot sure if this is appropriate here, but I thought some of you might find this story I wrote amusing..."
+        }
+      }
+    }
+  }
+}

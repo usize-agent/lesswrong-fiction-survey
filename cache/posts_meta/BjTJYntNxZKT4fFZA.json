@@ -1,0 +1,35 @@
+{
+  "_id": "BjTJYntNxZKT4fFZA",
+  "slug": "the-healing-code-of-joan",
+  "title": "The Healing Code of Joan",
+  "postedAt": "2023-03-30T21:09:31.469Z",
+  "baseScore": 6,
+  "wordCount": 3516,
+  "commentCount": 0,
+  "user": {
+    "displayName": "jdcampolargo",
+    "slug": "jdampolargo"
+  },
+  "tags": [
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

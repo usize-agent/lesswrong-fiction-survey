@@ -1,0 +1,35 @@
+{
+  "_id": "grrMAwJrELry5BhSy",
+  "slug": "littlewood-s-law-and-the-global-media",
+  "title": "Littlewood's Law and the Global Media",
+  "postedAt": "2019-01-12T17:46:09.753Z",
+  "baseScore": 37,
+  "wordCount": 1,
+  "commentCount": 3,
+  "user": {
+    "displayName": "gwern",
+    "slug": "gwern"
+  },
+  "tags": [
+    {
+      "_id": "P64rmDCvTBAehmkoi",
+      "name": "Filtered Evidence",
+      "slug": "filtered-evidence"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "MXcpQvaPGtXpB6vkM",
+      "name": "Public Discourse",
+      "slug": "public-discourse"
+    }
+  ],
+  "tagRelevance": {
+    "MXcpQvaPGtXpB6vkM": 1,
+    "P64rmDCvTBAehmkoi": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

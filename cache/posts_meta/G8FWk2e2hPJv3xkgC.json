@@ -1,0 +1,41 @@
+{
+  "_id": "G8FWk2e2hPJv3xkgC",
+  "slug": "a-brief-history-of-the-automated-corporation",
+  "title": "A brief history of the automated corporation",
+  "postedAt": "2024-11-04T14:35:04.906Z",
+  "baseScore": 26,
+  "wordCount": 1514,
+  "commentCount": 1,
+  "user": {
+    "displayName": "owencb",
+    "slug": "owencb"
+  },
+  "tags": [
+    {
+      "_id": "GDGYkF29pxEQNWjYc",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GDGYkF29pxEQNWjYc": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 3,
+    "zHjC29kkPmsdo7WTr": 2
+  }
+}

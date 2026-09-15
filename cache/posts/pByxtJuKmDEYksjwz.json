@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "pByxtJuKmDEYksjwz",
+        "title": "Twig - Fiction Review",
+        "slug": "twig-fiction-review",
+        "pageUrl": "https://www.lesswrong.com/posts/pByxtJuKmDEYksjwz/twig-fiction-review",
+        "postedAt": "2025-06-24T00:04:57.394Z",
+        "baseScore": 17,
+        "wordCount": 187,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Commander Zander",
+          "slug": "commander-zander"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "fkABsGCJZ6y9qConW": 2
+        },
+        "contents": {
+          "markdown": "*Summary*: Steampunk biotech intrigue thriller  \n*Format*: Web serial (aka a prose fiction series published for free online)  \n*Author*: Wildbow, also famous for the superhero series *Worm*  \n*Related Works*: Frankenstein, Sherlock Holmes, Ghost in the Shell\n\nReasons to read it:\n\n*   The most inventive fictional biotech of all time.\n*   'What if Victor Frankenstein had as much impact as James Watt?'\n*   Complicated relationships between 5 characters, each of whose brain has been upgraded in a different way.\n*   Wait, the British Empire is doing *what* in this timeline?\n*   The (many) superintelligent characters use strategies that are rarely seen in fiction yet often universally applicable. Fictional characters in other stories could really learn from Twig!\n*   Lots of fun stagecoach heists, spycraft shenanigans, battles of wits, & mid-battle plot twists.\n*   A unique mix of very abstract psychological plotlines & very grounded, tactile presentation.\n\nReasons to skip it:\n\n*   The whole series sums to 5,000 pages. (HPMoR is 2,000.) Perhaps start with just the first arc.\n*   Some of the monsters & exotic forms of torture are terrifically gruesome.\n*   The main character is a jerk.\n\nhttps://twigserial.wordpress.com/"
+        }
+      }
+    }
+  }
+}

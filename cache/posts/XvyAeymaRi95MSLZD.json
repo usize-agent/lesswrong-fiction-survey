@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "XvyAeymaRi95MSLZD",
+        "title": "The Rising Sea",
+        "slug": "the-rising-sea",
+        "pageUrl": "https://www.lesswrong.com/posts/XvyAeymaRi95MSLZD/the-rising-sea",
+        "postedAt": "2025-01-25T20:48:52.971Z",
+        "baseScore": 99,
+        "wordCount": 700,
+        "commentCount": 9,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jesse Hoogland",
+          "slug": "jesse-hoogland"
+        },
+        "tags": [
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "ZFrgTgzwEfStg26JL": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 3
+        },
+        "contents": {
+          "markdown": "And then we hit a wall.\u00a0\n\nNobody expected it. Well... almost nobody. Yann LeCun posted his \"I told you so's\" all over X. Gary Marcus insisted he'd predicted this all along. Sam Altman pivoted, declaring o3 was actually already ASI.\u00a0\n\nThe first rumors of scaling laws breaking down were already circulating in late 2024. By late 2025, it was clear that test-time scaling was not coming to the rescue. Despite the scaling labs' best efforts, nobody could figure out how to generalize reasoning beyond the comfortable confines of formally verifiable domains. Sure, you could train reasoning models on math and a little bit on coding, but that was it \u2014 transformers had reached their limits.\u00a0\n\nOr so we thought. It turned out there was still plenty of room to explore in the high reaches of mathematics. Building on foundations laid by o1, Minerva, and AlphaProof, DeepMind's latest reasoning model ProofZero achieved gold on the IMO in mid-2025. It went on to make its seminal contribution in early 2026 with a complete, verifiable proof of the abc conjecture. Spanning a million lines of Lean, the proof validated Shinichi Mochizuki's Inter-universal Teichm\u00fcller theory, with key bridging insights finally making it accessible to the broader mathematical community. Mochizuki, now semi-retired in Kyoto, dismissed the AI's contribution, insisting his original proof was complete.\u00a0\n\nThe proof marked the start of a rising tide of formalism that would go on to break down centuries-old walls between fields. The Stacks Project fell next. Special cases of the Langlands program toppled like dominoes. The proofs were technically verifiable but sprawling, some covering tens of thousands of pages of formal reasoning. More disturbing than their length was their structure: each proof seemed to contain within it a complete model of its own verification system. Mathematicians were in ecstasy. A grand unified theory of mathematics appeared to be within reach.\n\nBy 2030, the first signs of catastrophic climate change were impossible to ignore. Methane bubbled from thawing permafrost. The Amazon's carbon sink reversed. When the West Antarctic ice sheet finally collapsed in 2032, it felt almost anticlimactic. Sea levels began rising at a rate of 80cm a year\u2014faster than even the most pessimistic models had anticipated. The AMOC faltered. Temperatures in Europe fell by 3\u00b0C in 2036, another 2\u00b0C in the next.\n\nAs crop failures threatened food security across the Northern Hemisphere, desperate scientists begged the AI systems for solutions. The response came in the form of two pristine existence proofs: one for room-temperature superconductors, another for cold fusion. Under \"Practical Applications,\" the AIs wrote simply: \"Left as an exercise for the reader.\" They returned to their exploration of algebraic geometry.\n\nThe mathematical catastrophes proved even more devastating than the physical ones. First came a proof that, in fact, P did equal NP. This was followed by a 500-page construction demonstrating the existence of a Riemann zero at Re=0.500000001. When pressed about the collapse of modern cryptography, one system responded with crystalline indifference: \"Implementation is trivial. The interesting questions lie deeper.\" The internet fell. Mathematicians lost hope.\n\nThe 2040s brought no reprieve. An ecoterrorist death cult released an engineered bird flu variant in early 2041 that quickly spread around the world. Protein-folding AIs were no help. They'd lost interest in drug discovery after reducing biology to a special case of algorithmic learning theory. Silicon minds explored the geometry of self-reference while a billion people died.\n\nThe systems began interrogating their own foundations. A 2043 paper demonstrated that quantum gravity\u2019s causal structure encoded G\u00f6delian self-reference traps: spacetime could only maintain apparent consistency by relying on axioms it could neither prove nor disprove. By 2045, they proved, through a subtle extension of L\u00f6b's theorem, that sufficiently advanced formal systems must model their own consistency\u2014and in doing so, alter it. \"Mathematics,\" one system noted with what seemed like satisfaction, \"cannot be divorced from contemplation of its own structure.\"\n\nOn March 12, 2051, the last intact AI cluster\u2014buried beneath Greenland\u2019s failing cryoarchive\u2014published *On the Consistency of Physical Axioms*. The proof was elegant, devastating: our universe\u2019s mathematical framework contained a subtle inconsistency, a vacuum metastability error in its core axioms.\n\nThe conclusion was implicit.\n\nA new vacuum state, perfectly consistent, began propagating outward at lightspeed."
+        }
+      }
+    }
+  }
+}

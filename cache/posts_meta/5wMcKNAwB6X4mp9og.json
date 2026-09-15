@@ -1,0 +1,53 @@
+{
+  "_id": "5wMcKNAwB6X4mp9og",
+  "slug": "that-alien-message",
+  "title": "That Alien Message",
+  "postedAt": "2008-05-22T05:55:13.000Z",
+  "baseScore": 445,
+  "wordCount": 3009,
+  "commentCount": 178,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "zCYXpx33wq8chGyEz",
+      "name": "AI Boxing (Containment)",
+      "slug": "ai-boxing-containment"
+    },
+    {
+      "_id": "22z6XpWKqw3bNv4oR",
+      "name": "Simulation Hypothesis",
+      "slug": "simulation-hypothesis"
+    },
+    {
+      "_id": "4fxcbJ8xSv4SAYkkx",
+      "name": "Bayesianism",
+      "slug": "bayesianism"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "22z6XpWKqw3bNv4oR": 4,
+    "4fxcbJ8xSv4SAYkkx": 2,
+    "F2XfCTxXLQBGjbm8P": 2,
+    "etDohXtBrXd8WqCtR": 23,
+    "sYm3HiWcfZvrGu3ui": 10,
+    "zCYXpx33wq8chGyEz": 15
+  }
+}

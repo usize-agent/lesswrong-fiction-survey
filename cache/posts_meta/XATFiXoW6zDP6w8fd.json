@@ -1,0 +1,35 @@
+{
+  "_id": "XATFiXoW6zDP6w8fd",
+  "slug": "status-conscious",
+  "title": "Status conscious",
+  "postedAt": "2023-01-16T17:44:18.758Z",
+  "baseScore": 2,
+  "wordCount": 1360,
+  "commentCount": 0,
+  "user": {
+    "displayName": "avantika.mehra",
+    "slug": "avantika-mehra"
+  },
+  "tags": [
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "EY623WWCXKTvN3kmj",
+      "name": "Factored Cognition",
+      "slug": "factored-cognition"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "EY623WWCXKTvN3kmj": 1,
+    "XSryTypw5Hszpa4TS": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "RXQ5MkWkTCvLMGHrp",
+  "slug": "war-and-or-peace-2-8",
+  "title": "War and/or Peace (2/8)",
+  "postedAt": "2009-01-31T08:42:19.000Z",
+  "baseScore": 100,
+  "wordCount": 3353,
+  "commentCount": 65,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

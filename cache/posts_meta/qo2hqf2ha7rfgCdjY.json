@@ -1,0 +1,71 @@
+{
+  "_id": "qo2hqf2ha7rfgCdjY",
+  "slug": "a-bridge-to-dath-ilan-improved-governance-on-the-critical",
+  "title": "A bridge to Dath Ilan?  Improved governance on the critical path to AI alignment.",
+  "postedAt": "2022-05-18T15:51:10.293Z",
+  "baseScore": 24,
+  "wordCount": 3492,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jackson Wagner",
+    "slug": "jackson-wagner"
+  },
+  "tags": [
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sSNtcEQsqHgN8ZmRF",
+      "name": "Fun Theory",
+      "slug": "fun-theory"
+    },
+    {
+      "_id": "RGPpwYoCHrPNB86TW",
+      "name": "Futarchy",
+      "slug": "futarchy"
+    },
+    {
+      "_id": "CL9NePP9FejkQo6jn",
+      "name": "Future of Life Institute",
+      "slug": "future-of-life-institute"
+    },
+    {
+      "_id": "ipJwbLxhR83ZksN6Z",
+      "name": "Mechanism Design",
+      "slug": "mechanism-design"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "CL9NePP9FejkQo6jn": 1,
+    "RGPpwYoCHrPNB86TW": 1,
+    "YkPxg2tFDQNdaEZDJ": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "ipJwbLxhR83ZksN6Z": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sSNtcEQsqHgN8ZmRF": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "xexCWMyds6QLWognu": 1
+  }
+}

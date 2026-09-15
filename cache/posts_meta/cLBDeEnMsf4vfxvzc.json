@@ -1,0 +1,23 @@
+{
+  "_id": "cLBDeEnMsf4vfxvzc",
+  "slug": "counting-lightning",
+  "title": "Counting Lightning",
+  "postedAt": "2021-12-07T14:50:55.680Z",
+  "baseScore": 33,
+  "wordCount": 1846,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Jsevillamol",
+    "slug": "jsevillamol"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

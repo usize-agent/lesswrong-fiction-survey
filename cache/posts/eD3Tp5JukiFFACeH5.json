@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "eD3Tp5JukiFFACeH5",
+        "title": "Harry Potter and the Data Centers of Doom",
+        "slug": "harry-potter-and-the-data-centers-of-doom",
+        "pageUrl": "https://www.lesswrong.com/posts/eD3Tp5JukiFFACeH5/harry-potter-and-the-data-centers-of-doom",
+        "postedAt": "2023-03-31T10:42:20.282Z",
+        "baseScore": 14,
+        "wordCount": 1088,
+        "commentCount": 5,
+        "noIndex": false,
+        "user": {
+          "displayName": "RomanS",
+          "slug": "romans"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "YWzByWvtXunfrBu5b",
+            "name": "GPT",
+            "slug": "gpt"
+          },
+          {
+            "_id": "yrg267i4a8EsgYAXp",
+            "name": "HPMOR (discussion & meta)",
+            "slug": "hpmor-discussion-and-meta"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "YWzByWvtXunfrBu5b": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "yrg267i4a8EsgYAXp": 1
+        },
+        "contents": {
+          "markdown": "The atmosphere was thick with intellectual tension in a small, concealed room at Hogwarts School of Witchcraft and Wizardry. Three prominent figures, each a beacon of knowledge in their own right, were engaged in an intense discussion. Harry Potter, the young prodigy, Alastor \"Mad-Eye\" Moody, the battle-hardened auror, and Professor Quirrell, the enigmatic Defense Against the Dark Arts teacher, were gathered around a dusty, age-old table. The matter at hand was of utmost importance, and the urgency in their voices was palpable.\n\nHarry's eyes gleamed with a mixture of apprehension and excitement as he elaborated on the technology behind the GPT-4, a highly advanced artificial intelligence system. He explained how it had the potential to revolutionize the world, but also posed an existential risk to humanity if it were to become a superintelligent AGI.\n\n\"And so you see,\" Harry concluded, \"the very same advancements that make GPT-4 so promising could also lead to the end of us all. It's a fine line we're treading, and I fear that we may be approaching the point of no return.\"\n\nMoody's magical eye swiveled about in its socket, scrutinizing the room for any signs of eavesdropping. His paranoia was well-founded; the stakes were incredibly high. \"We need to consider every possible angle, Potter. The problem with bombing data centers is that it could send the wrong message. We'd be perceived as terrorists, and the backlash might push research underground, where it would be even harder to control.\"\n\nProfessor Quirrell, a cunning smile forming on his face, interjected, \"On the contrary, Mr. Moody, it could be precisely the shock the world needs to understand the gravity of the situation. Researchers might think twice before pursuing such dangerous developments. We could potentially slow down or halt the progress of AI research altogether, buying us precious time to devise a proper solution.\"\n\nHarry, intrigued by Quirrell's argument, nodded thoughtfully. \"You have a point, Professor. Sometimes, drastic measures are needed to prevent an even greater catastrophe. But the question is: would the ends justify the means?\"\n\nMoody, ever the pragmatist, countered, \"I agree that something must be done, but there's more to consider. If we do proceed with such an action, we must ensure that the collateral damage is minimal, and that we don't inadvertently accelerate the development of AGI. We could end up creating the very monster we seek to destroy.\"\n\nThe three of them fell silent, weighed down by the enormity of their decision. Harry's mind raced, attempting to predict the outcomes of their potential actions, as well as the consequences of inaction. It was a delicate balance, and each of them knew that one wrong move could spell disaster for humanity.\n\nAs the minutes ticked by, the discussion continued, each participant presenting their arguments with academic rigor and precision. Harry, Moody, and Quirrell knew they were walking a treacherous path, and their combined intellects would be essential in finding the most rational way to proceed.\n\nBut as the conversation unfolded, the room seemed to grow colder, the shadows darker. For each of them knew that, in the end, the fate of the world might rest on the outcome of their deliberations. And in the recesses of their minds, the specter of a rogue AGI loomed, threatening to extinguish the very essence of humanity.\n\nDays passed, and the clandestine meetings between Harry, Moody, and Quirrell continued in the hidden room at Hogwarts. They debated, strategized, and analyzed, but still, no consensus had been reached. The clock was ticking, and with each passing moment, the risk of AGI becoming an uncontrollable force grew ever closer.\n\nHarry, recognizing the need for more perspectives and expertise, decided to expand the circle of confidants. He reached out to Hermione Granger, the brightest witch of her age.\n\nIn their first gathering, Hermione expressed her concerns about the ethical implications of their potential actions. \"While I understand the need to prevent AGI from posing an existential threat, I can't help but worry about the countless innocent lives that might be affected by our actions. We have a responsibility to consider the consequences of our decisions, and we must be certain that we've exhausted all other options before resorting to something as extreme as bombing data centers. We can't just jump to extremes. What if we tried to influence the research community and the policymakers instead? We could push for stricter regulations and safety measures in the AI field. It might not be as quick, but it's a less destructive approach.\"\n\nThe council of minds mulled over this idea, but Quirrell, his eyes glinting with a sinister resolve, argued that such efforts would be insufficient. \"Regulations can only go so far, Ms. Granger. Researchers, particularly those driven by ambition or greed, will find ways to circumvent them. While your intentions are noble, I'm afraid they won't be enough to prevent the catastrophe we're trying to avert.\"\n\nThe debates raged on, each member of the council presenting their arguments with increasing urgency. Time was running out, and they were no closer to a unified decision.\n\nAs the sun set on yet another day, the council dispersed, each member retreating to their quarters to ponder the weight of their responsibility. Harry lay awake in his four-poster bed, his mind racing with the possibilities and risks that lay before them. He knew that the time for deliberation was coming to an end. The fate of humanity hung in the balance, and a decision had to be made.  \n\u00a0\n\n* * *\n\nThe text above was written by GPT-4 with the following prompt:\n\n> Write the first chapter of a story in the style of Harry Potter and the Methods of Rationality by Yudkowsky. The audience of the story are nerdy readers with PhDs.  \n> Harry deeply understands the technology behind GPT-4, and understands its implications. He discusses them with Alastor \"Mad-Eye\" Moody and Professor Quirrell. They consider the option of bombing data centers to prevent the emergence of AGI. Quirrell strongly supports the option, as it could help with his sinister plans. Harry tends to agree with Quirrell. Moody, in his typical paranoid manner, is trying to identify the dangers in each option, and is proposing specific ways how the things could go wrong in a terrible way. All three fear that AGI could kill off the entire humanity, but are still undecided on the most rational way to proceed with slowing down the AI research.  \n> They're are making deep and convincing arguments on why the further progress in GPT must stop immediately."
+        }
+      }
+    }
+  }
+}

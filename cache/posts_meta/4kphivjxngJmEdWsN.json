@@ -1,0 +1,29 @@
+{
+  "_id": "4kphivjxngJmEdWsN",
+  "slug": "transcript-tyler-cowen-on-stories",
+  "title": "[Transcript] Tyler Cowen on Stories",
+  "postedAt": "2011-12-17T05:42:39.630Z",
+  "baseScore": 96,
+  "wordCount": 2800,
+  "commentCount": 14,
+  "user": {
+    "displayName": "Grognor",
+    "slug": "grognor"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "BhfefamXXee6c2CH8",
+      "name": "Transcripts",
+      "slug": "transcripts"
+    }
+  ],
+  "tagRelevance": {
+    "BhfefamXXee6c2CH8": 1,
+    "pszEEb3ctztv3rozd": 4
+  }
+}

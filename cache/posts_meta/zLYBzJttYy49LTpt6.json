@@ -1,0 +1,41 @@
+{
+  "_id": "zLYBzJttYy49LTpt6",
+  "slug": "quantum-immortality-foiled",
+  "title": "Quantum Immortality, foiled",
+  "postedAt": "2022-10-29T11:00:01.038Z",
+  "baseScore": 30,
+  "wordCount": 625,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Ben",
+    "slug": "ben-lang"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb1c9",
+      "name": "Many-Worlds Interpretation",
+      "slug": "many-worlds-interpretation"
+    },
+    {
+      "_id": "nBCLy89Nqd8ouR6XT",
+      "name": "Quantum Mechanics",
+      "slug": "quantum-mechanics"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "nBCLy89Nqd8ouR6XT": 1,
+    "xexCWMyds6QLWognu": 2,
+    "5f5c37ee1b5cdee568cfb1c9": 1
+  }
+}

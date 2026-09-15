@@ -1,0 +1,35 @@
+{
+  "_id": "Fruv7Mmk3X5EekbgB",
+  "slug": "masterpiece",
+  "title": "Masterpiece",
+  "postedAt": "2024-02-13T23:10:35.376Z",
+  "baseScore": 178,
+  "wordCount": 1100,
+  "commentCount": 22,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "5f5c37ee1b5cdee568cfb2b1": 2
+  }
+}

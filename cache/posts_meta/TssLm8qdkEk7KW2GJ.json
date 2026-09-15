@@ -1,0 +1,23 @@
+{
+  "_id": "TssLm8qdkEk7KW2GJ",
+  "slug": "invisible-networks-goblin-marketplace",
+  "title": "[Invisible Networks] Goblin Marketplace",
+  "postedAt": "2022-04-03T11:40:04.393Z",
+  "baseScore": 12,
+  "wordCount": 838,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Kaj_Sotala",
+    "slug": "kaj_sotala"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

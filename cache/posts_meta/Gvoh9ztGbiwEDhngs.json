@@ -1,0 +1,23 @@
+{
+  "_id": "Gvoh9ztGbiwEDhngs",
+  "slug": "a-harried-meeting",
+  "title": "A Harried Meeting",
+  "postedAt": "2025-11-29T07:57:58.349Z",
+  "baseScore": 55,
+  "wordCount": 1797,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Ben Pace",
+    "slug": "benito"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

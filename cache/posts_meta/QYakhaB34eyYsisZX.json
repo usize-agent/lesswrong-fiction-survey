@@ -1,0 +1,53 @@
+{
+  "_id": "QYakhaB34eyYsisZX",
+  "slug": "could-things-be-very-different-how-historical-inertia-might",
+  "title": "Could Things Be Very Different?\u2014How Historical Inertia Might Blind Us To Optimal Solutions",
+  "postedAt": "2024-09-11T09:53:07.474Z",
+  "baseScore": 5,
+  "wordCount": 2521,
+  "commentCount": 0,
+  "user": {
+    "displayName": "James Stephen Brown",
+    "slug": "james-stephen-brown"
+  },
+  "tags": [
+    {
+      "_id": "PDJ6KqJBRzvKPfuS3",
+      "name": "Economics",
+      "slug": "economics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "PvridmTCj2qsugQCH",
+      "name": "Goodhart's Law",
+      "slug": "goodhart-s-law"
+    },
+    {
+      "_id": "nvKzwpiranwy29HFJ",
+      "name": "Optimization",
+      "slug": "optimization"
+    },
+    {
+      "_id": "FtT2T9bRbECCGYxrL",
+      "name": "Philosophy of Language",
+      "slug": "philosophy-of-language"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "FtT2T9bRbECCGYxrL": 1,
+    "PDJ6KqJBRzvKPfuS3": 1,
+    "PvridmTCj2qsugQCH": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "nvKzwpiranwy29HFJ": 1
+  }
+}

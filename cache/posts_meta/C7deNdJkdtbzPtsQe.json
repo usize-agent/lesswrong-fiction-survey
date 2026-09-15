@@ -1,0 +1,47 @@
+{
+  "_id": "C7deNdJkdtbzPtsQe",
+  "slug": "funny-anecdote-of-eliezer-from-his-sister",
+  "title": "Funny Anecdote of Eliezer From His Sister",
+  "postedAt": "2024-04-22T22:05:31.886Z",
+  "baseScore": 235,
+  "wordCount": 610,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Noah Birnbaum",
+    "slug": "noah-birnbaum"
+  },
+  "tags": [
+    {
+      "_id": "42JnNJ8fqfdCSqdmM",
+      "name": "Marriage",
+      "slug": "marriage"
+    },
+    {
+      "_id": "mip7tdAN87Jarkcew",
+      "name": "Relationships (Interpersonal)",
+      "slug": "relationships-interpersonal"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb0e0",
+      "name": "Eliezer Yudkowsky",
+      "slug": "eliezer-yudkowsky"
+    },
+    {
+      "_id": "BhfefamXXee6c2CH8",
+      "name": "Transcripts",
+      "slug": "transcripts"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "42JnNJ8fqfdCSqdmM": 3,
+    "BhfefamXXee6c2CH8": 2,
+    "mip7tdAN87Jarkcew": 3,
+    "pszEEb3ctztv3rozd": 1,
+    "5f5c37ee1b5cdee568cfb0e0": 2
+  }
+}

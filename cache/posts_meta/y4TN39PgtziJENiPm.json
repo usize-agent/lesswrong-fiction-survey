@@ -1,0 +1,23 @@
+{
+  "_id": "y4TN39PgtziJENiPm",
+  "slug": "bayeswatch-3-a-study-in-scarlet",
+  "title": "Bayeswatch 3: A Study in Scarlet",
+  "postedAt": "2021-05-07T05:29:50.834Z",
+  "baseScore": 63,
+  "wordCount": 475,
+  "commentCount": 6,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4
+  }
+}

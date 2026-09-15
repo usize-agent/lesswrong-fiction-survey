@@ -1,0 +1,29 @@
+{
+  "_id": "hHCBGXkQCbEqBEADE",
+  "slug": "launched-friendship-is-optimal",
+  "title": "Launched: Friendship is Optimal",
+  "postedAt": "2012-11-15T04:57:47.924Z",
+  "baseScore": 78,
+  "wordCount": 137,
+  "commentCount": 32,
+  "user": {
+    "displayName": "iceman",
+    "slug": "iceman"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "tKy3cbkKx47GiRWhJ",
+  "slug": "an-outline-of-an-ironic-lesswrong-post",
+  "title": "An outline of an ironic LessWrong post",
+  "postedAt": "2022-03-25T22:51:37.818Z",
+  "baseScore": -6,
+  "wordCount": 178,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "dGw7KEdcLFSvbJ7bM",
+      "name": "Humor (meta)",
+      "slug": "humor-meta"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "dGw7KEdcLFSvbJ7bM": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

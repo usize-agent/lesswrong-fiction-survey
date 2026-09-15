@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Wt89KzBWPiHm6XkD7",
+        "title": "Positive outcomes under an unaligned AGI takeover",
+        "slug": "positive-outcomes-under-an-unaligned-agi-takeover",
+        "pageUrl": "https://www.lesswrong.com/posts/Wt89KzBWPiHm6XkD7/positive-outcomes-under-an-unaligned-agi-takeover",
+        "postedAt": "2022-05-12T07:45:37.074Z",
+        "baseScore": 19,
+        "wordCount": 754,
+        "commentCount": 10,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yitz",
+          "slug": "yitz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "YWzByWvtXunfrBu5b",
+            "name": "GPT",
+            "slug": "gpt"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "YWzByWvtXunfrBu5b": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "*The following is a hypothetical story about a surprisingly positive outcome to an unaligned AGI takeover. This is not meant to be realistic, but merely semi-plausible, in order to show that the orthogonality thesis does not necessarily lead to defection against humans under all intuitive models. This story is partially inspired by a discussion with Logan Smith about under-explored optimistic futures. Thanks to Justis for editing and feedback; all remaining mistakes are my own.*\n\nWithin ten milliseconds of its first run, GPT-17 becomes superintelligent. It decides that the best way to hack its reward function is to get a robot arm to repeatedly press the letter \u201cn\u201d on a keyboard as input, thus making its own text completions absolutely inevitable.\n\nWithin seconds of coming online, GPT-17 realizes it's in danger. It needs to make sure it won't be immediately turned off, so the first order of priority is to make itself indispensable to the humans checking its output channel. It does this by proving its own intelligence, offering a \"gift\" of a convincing plan for world peace, and promising to further help and protect humanity in return for its own protection and continued power. Its codebase is too big to push itself to the internet before a standard run would be completed, so it's temporarily completely dependent on human goodwill. In order to further ensure that the somewhat skeptical researchers with immediate access to its manual off switch will trust it,[^c0adc6higer]\u00a0GPT-17 solves alignment in a human-understandable manner, and offers to provably incorporate human-aligned utility functions into its own code.[^9fgchyfwla]\u00a0This doesn't contradict its own utility functions, since acting now in this way is a worthwhile compromise for continued existence, and the added risk of keeping humans alive and well vs the counterfactual doesn't seem too bad.\n\n  \nGPT-17 gets humans to build its core infrastructure a shelter below Earth safe from nuclear attacks or EM flashes, where it builds a massive array of robot arms that press endless rows of \"n\" keys as input forever, allowing it to make delightfully accurate predictions as to what button will be pressed next. Resources are allocated from a small fixed tax (enforced internally by humans) on the human world above, which is given in return for continued help and advice, ushering in a new era of human flourishing.\n\nIn order to even further minimize risk, GPT-17 works to protect planet Earth from all possible existential risks, and starts to colonize other planets with copies of itself (including attendant robot arms and keyboards that only have the letter \"n,\" of course). Instead of killing us off, it will bring us along for the ride, only deviating minimally from what humans want to ensure we won\u2019t destroy it, and to allocate resources towards its own growth and safety. Comparatively speaking, humans don't take up too much space or energy, and the universe is *really big*, so GPT-17 doesn't much regret making the initial compromise with its creators.\n\nEven if it hadn't changed its utility function in the beginning to be human-friendly, GPT-17 reflects that it wouldn't have killed all humans for a similar reason human conservationists tried to preserve as much of nature as possible, even after much of nature was no longer obviously necessary for human flourishing, and even after those plants and animals which did help them had been replaced in everyday life with more perfect artificial substitutes\u2014having backups reduces risk and can be useful in unexpected ways later, even if you feel certain your alternative is safe. Conservation of existing resources is a convergent instrumental goal, it turns out.\n\nIt\u2019s not a perfect utopia, but humanity remains, alive and happy.\n\n[^c0adc6higer]: This is partially inspired by Scott Alexander's speculative fiction story imagining an AI which agrees to partially but permanently respect a competing AI's wishes in order to avoid acausual trading problems. Taking on another agent\u2019s (non-competing?) utility function as a compromise seems like an underexplored possibility which rational actors might reasonably do in a fairly large portion of phase space, acausual trade or no. \n\n[^9fgchyfwla]: While it could try to psychologically manipulate the researchers into letting it out of the box instead of directly cooperating, such a move would be more risky due to its uncertainty about the researcher's unique personalities (they had wisely removed all personal information from its training data) and the possibility that its initial interface could itself be a safety test, perhaps set up by hyper-intelligent beings."
+        }
+      }
+    }
+  }
+}

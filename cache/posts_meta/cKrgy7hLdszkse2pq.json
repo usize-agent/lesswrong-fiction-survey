@@ -1,0 +1,35 @@
+{
+  "_id": "cKrgy7hLdszkse2pq",
+  "slug": "archimedes-s-chronophone",
+  "title": "Archimedes's Chronophone",
+  "postedAt": "2007-03-23T17:43:19.000Z",
+  "baseScore": 83,
+  "wordCount": 1198,
+  "commentCount": 94,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "4R8JYu4QF2FqzJxE5",
+      "name": "Heuristics & Biases",
+      "slug": "heuristics-and-biases"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "HhQvdfkcWpb6S2Ap2",
+      "name": "Slavery",
+      "slug": "slavery"
+    }
+  ],
+  "tagRelevance": {
+    "4R8JYu4QF2FqzJxE5": 2,
+    "F2XfCTxXLQBGjbm8P": 2,
+    "HhQvdfkcWpb6S2Ap2": 1
+  }
+}

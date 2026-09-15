@@ -1,0 +1,59 @@
+{
+  "_id": "ppyLb3uGWFrmj4m2W",
+  "slug": "chatgpt-intimates-a-tantalizing-future-its-core-llm-is",
+  "title": "ChatGPT intimates a tantalizing future; its core LLM is organized on multiple levels; and it has broken the idea of thinking.",
+  "postedAt": "2023-01-24T19:05:47.457Z",
+  "baseScore": 5,
+  "wordCount": 1628,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bill Benzon",
+    "slug": "bill-benzon"
+  },
+  "tags": [
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "s9fuuxuzFMugAnf6r",
+      "name": "Language & Linguistics",
+      "slug": "language-and-linguistics"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "fpEBgFE7fgpxTm9BF",
+      "name": "Machine Learning  (ML)",
+      "slug": "machine-learning-ml"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "KmgkrftQuX7jmjjp5": 1,
+    "fpEBgFE7fgpxTm9BF": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "s9fuuxuzFMugAnf6r": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

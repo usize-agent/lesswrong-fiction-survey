@@ -1,0 +1,53 @@
+{
+  "_id": "fsDz6HieZJBu54Yes",
+  "slug": "zombies-the-movie",
+  "title": "Zombies: The Movie",
+  "postedAt": "2008-04-20T05:53:14.000Z",
+  "baseScore": 185,
+  "wordCount": 1035,
+  "commentCount": 82,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "uLqT8mmFiA8NeytTi",
+      "name": "Zombies",
+      "slug": "zombies"
+    },
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "KqrZ5sDEyHm6JaaKp",
+      "name": "The Hard Problem of Consciousness",
+      "slug": "the-hard-problem-of-consciousness"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "KqrZ5sDEyHm6JaaKp": 2,
+    "XSryTypw5Hszpa4TS": 3,
+    "etDohXtBrXd8WqCtR": 5,
+    "hNFdS3rRiYgqqD8aM": 2,
+    "uLqT8mmFiA8NeytTi": 4
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "eRDF3FjBgHnJHrKCC",
+        "title": "Deontological Evil",
+        "slug": "deontological-evil",
+        "pageUrl": "https://www.lesswrong.com/posts/eRDF3FjBgHnJHrKCC/deontological-evil",
+        "postedAt": "2022-07-02T06:57:18.085Z",
+        "baseScore": 51,
+        "wordCount": 594,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "nSHiKwWyMZFdZg5qt",
+            "name": "Ethics & Morality",
+            "slug": "ethics-and-morality"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "nSHiKwWyMZFdZg5qt": 2,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "It surprised Doctor Susan Connor how quickly she had gotten used to her job. At first she had qualms working for an organization literally called \"Effective Evil\" (with two capital 'E's). But her job just gave her so much autonomy, complexity and reward. Also nemeses.\n\n\"I'll never talk,\" said the spy chained to her interrogation rack.\n\n\"Technically you just did,\" said Doctor Susan Connor. \n\nThe spy closed his mouth.\n\n\"Let's drop the charade,\" said Susan, melodramatically. Susan liked melodrama. There were so few opportunities for melodrama at her previous position at a postdoc. \"You're an enemy agent. The question is: where from? Perhaps you're from the Daoist Destructivists? No. They act without acting and your action is quite obviously the regular sort.\"\n\n\"Ha! The problem with you folks at Effective Evil is that you're incapable of coordinating with the villains you should be allies of. That's the problem with taking utilitarianism too far. You have lost sight of the categorical imperative,\" said the spy.\n\nA third person entered the room. Douglas Morbus was tall and wore a spotless white labcoat. \"That's exactly the kind of thing an agent of Deontological Evil would say. Lies for the sake of lies,\" said Morbus.\n\n\"You are familiar with our ways,\" said the spy, \"What I don't comprehend is how anyone with a moral compass could work for Effective Evil.\"\n\n\"I donate 20% of my income to animal rights organizations,\" said Susan\n\n\"That's not what I mean,\" said the spy, \"I mean how can a villain work for Effective Evil? You make moral compromises left and right. You've spent so much time optimizing 'evil' you've forgotten what evil even is.\"\n\nMorbus fiddled with the surgical torture implements. \"Moral compromises are necessary to operating at scale.\"\n\n\"*Au contraire,*\" said the spy, \"To operate at the greatest scale you need everyone in the organization on the same page. You cannot micromanage everyone. They must believe in an ideal.\"\n\n\"That sounds like a utilitarian argument,\" said Susan, \"Are you not a true deontologist?\"\n\n\"The competent philosopher knows his enemies' arguments better than his enemies do,\" said the spy.\n\n\"None of this makes any sense,\" said Susan, \"Deontology is a coordination mechanism. You can't just invert it the way you can invert utilitarianism. Deontological ethics are asymmetric with respect to coordination. Good deontologists can coordinate. Evil deontologists cannot.\"\n\n\"Nonsense,\" said the spy, \"It was evil deontologists who supplied me with the resources and equipment I used to infiltrate your organization.\"\n\n\"One incident does not make a trend,\" said Morbus.\n\n\"How many of my comrades have infiltrated Effective Evil?\" said the spy.\n\nMorbus said nothing.\n\n\"It's a trend,\" the spy nodded to himself.\n\n\"I have a question,\" said Susan. The spy and the supervillain looked at her. \"Why disrupt the activities of Effective Evil? Shouldn't you be infiltrating and destroying good organizations? We're all on the same side here.\"\n\nMorbus and the spy both started to speak at the same time before silently agreeing that the spy should answer the question. \"Deontological Evil is deontological first and evil second. As a non-deontological organization, Effective Evil is our mortal enemy,\" said the spy. Morbus nodded.\n\n\"That's ridiculous,\" said Susan.\n\n\"Only to a utilitarian,\" said the Spy.\n\n\"No. I think most people would agree that it's ridiculous,\" said Susan.\n\n\"More ridiculous than working for Effective Evil and donating your income to animal rights?\" said Morbus.\n\nSusan's suspension of disbelief finally snapped. \"No,\" she said, \"I don't believe it. You\u2014\" she gestured toward the spy\"\u2014are not evil at all. You're a good person stealing resources from Deontological Evil to fight Effective Evil.\"\n\nMorbus gasped.\n\n\"You think I'm a good person,\" laughed the spy, \"I could say the same thing about both of you.\"\n"
+        }
+      }
+    }
+  }
+}

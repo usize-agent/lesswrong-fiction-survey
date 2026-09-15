@@ -1,0 +1,47 @@
+{
+  "_id": "PpdFFtxsPQK5dk4EB",
+  "slug": "chatgpt-tells-stories-and-a-note-about-reverse-engineering-a",
+  "title": "ChatGPT tells stories, and a note about reverse engineering: A Working Paper",
+  "postedAt": "2023-03-03T15:12:05.544Z",
+  "baseScore": 3,
+  "wordCount": 775,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bill Benzon",
+    "slug": "bill-benzon"
+  },
+  "tags": [
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "56yXXrcxRjrQs6z9R",
+      "name": "Interpretability (ML & AI)",
+      "slug": "interpretability-ml-and-ai"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "56yXXrcxRjrQs6z9R": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "YWzByWvtXunfrBu5b": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

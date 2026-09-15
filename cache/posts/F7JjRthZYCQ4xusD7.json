@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "F7JjRthZYCQ4xusD7",
+        "title": "Bayeswatch 13: Spaceship",
+        "slug": "bayeswatch-13-spaceship",
+        "pageUrl": "https://www.lesswrong.com/posts/F7JjRthZYCQ4xusD7/bayeswatch-13-spaceship",
+        "postedAt": "2021-10-12T21:35:45.925Z",
+        "baseScore": 80,
+        "wordCount": 310,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "\"This headquarters will be overrun in an hour. We have to evacuate,\" said Colonel Qiang.\n\n\"Not an option,\" said Trinity.\n\n\"Look. If I throw everything we've got at them\u2015and I mean everything\u2015we can hold off the Baltic forces for perhaps two hours\u2015but that would be suicide. And for what?\" said Colonel Qiang.\n\nThe intercom rang. \"It's Eitan from Jerusalem,\" said the secretary.\n\n\"Put him through,\" said Trinity.\n\n\"You have Vi's access codes but you don't sound like her,\" said Eitan over the radio.\n\n\"Hivemind,\" said Trinity.\n\n\"What do you need?\" said Eitan.\n\n\"I'm cashing in the favor you owe me for saving the Levant. I need to use your giant space laser,\" said Trinity.\n\n\"You realize you're too far away for us to provide you air defense? The curvature of the Earth gets in the way. Also, I saw those tanks and battlemechs on our satellites. Your options are defeat or Masada,\" said Eitan.\n\n\"What? No. We have our own weapons. We need you to cut a path through the Kessler debris. I'm sending you our launch trajectory,\" said Trinity.\n\n\"It shall be done,\" said Eitan.\n\nTrinity turned off the radio.\n\n\"You're good at keeping secrets. I thought the ship's life support systems wouldn't be ready for another ten years,\" said Colonel Qiang.\n\n\"They won't be ready. Ever. I scrapped the life support project months ago. It's pure propaganda,\" said Trinity.\n\n\"You mean the reason I'm here, the reason I agreed to work for you, is a lie?\" said Colonel Qiang.\n\n\"We were born on Earth. We will die on Earth. Space is for our children,\" said Trinity.\n\nColonel Qiang's eyes widened. \"You're building a von Neumann machine.\"\n\n\"Built. It'll be ready to launch in two hours,\" said Trinity.\n\n\"You will have your two hours,\" said Colonel Qiang.\n\n\"\u842c\u6b72,\" said Trinity.\n\nColonel Qiang bowed, clicked his boots, turned on his heels and left the room.\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/bayeswatch-banner.png)\n\n# Credits\n\nThis concludes *Bayeswatch*. Thank you [Dov Random](https://dov-random.blogspot.com/) for helping to come up with the original idea.\n"
+        }
+      }
+    }
+  }
+}

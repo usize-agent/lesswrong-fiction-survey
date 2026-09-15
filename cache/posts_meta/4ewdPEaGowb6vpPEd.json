@@ -1,0 +1,35 @@
+{
+  "_id": "4ewdPEaGowb6vpPEd",
+  "slug": "a-permitted-value-of-resting",
+  "title": "A permitted value of resting",
+  "postedAt": "2026-04-11T22:50:04.634Z",
+  "baseScore": 8,
+  "wordCount": 1881,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jan",
+    "slug": "jan-2"
+  },
+  "tags": [
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "EmaCLRKb4baBFq4ra": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

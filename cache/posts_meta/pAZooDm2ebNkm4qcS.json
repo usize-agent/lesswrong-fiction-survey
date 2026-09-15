@@ -1,0 +1,23 @@
+{
+  "_id": "pAZooDm2ebNkm4qcS",
+  "slug": "living-with-rats-in-college",
+  "title": "Living with Rats in College",
+  "postedAt": "2024-12-25T10:44:13.085Z",
+  "baseScore": 34,
+  "wordCount": 263,
+  "commentCount": 0,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "LnimMMzgLHpab6iMX",
+  "slug": "why-is-there-nothing-rather-than-something",
+  "title": "Why is there Nothing rather than Something?",
+  "postedAt": "2024-10-26T12:37:50.204Z",
+  "baseScore": 27,
+  "wordCount": 1299,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Logan Zoellner",
+    "slug": "logan-zoellner"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

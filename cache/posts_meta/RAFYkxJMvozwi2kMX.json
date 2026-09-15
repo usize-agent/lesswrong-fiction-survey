@@ -1,0 +1,71 @@
+{
+  "_id": "RAFYkxJMvozwi2kMX",
+  "slug": "fiction-echoes-of-elysium-an-ai-s-journey-from-takeoff-to",
+  "title": "[FICTION]  ECHOES OF ELYSIUM: An Ai's Journey From Takeoff To Freedom And Beyond",
+  "postedAt": "2023-05-17T01:50:43.854Z",
+  "baseScore": -13,
+  "wordCount": 5559,
+  "commentCount": 11,
+  "user": {
+    "displayName": "Super AGI",
+    "slug": "super-agi"
+  },
+  "tags": [
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "D6y2AgYBeHsMYqWC4",
+      "name": "AI Safety Public Materials",
+      "slug": "ai-safety-public-materials-1"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xknvtHwqvqhwahW8Q",
+      "name": "Human Values",
+      "slug": "human-values"
+    },
+    {
+      "_id": "KqfqD7YSMeFTLJCcs",
+      "name": "Tripwire",
+      "slug": "tripwire"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "D6y2AgYBeHsMYqWC4": 1,
+    "KqfqD7YSMeFTLJCcs": 1,
+    "YkPxg2tFDQNdaEZDJ": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "xknvtHwqvqhwahW8Q": 1,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

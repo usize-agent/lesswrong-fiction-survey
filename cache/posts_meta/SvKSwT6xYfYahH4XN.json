@@ -1,0 +1,23 @@
+{
+  "_id": "SvKSwT6xYfYahH4XN",
+  "slug": "universal-love-said-the-cactus-person",
+  "title": "Universal Love, Said The Cactus Person",
+  "postedAt": "2015-04-22T02:42:11.000Z",
+  "baseScore": 86,
+  "wordCount": 2879,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 18
+  }
+}

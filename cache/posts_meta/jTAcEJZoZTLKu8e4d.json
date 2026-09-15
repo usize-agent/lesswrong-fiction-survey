@@ -1,0 +1,23 @@
+{
+  "_id": "jTAcEJZoZTLKu8e4d",
+  "slug": "from-the-archives-a-story",
+  "title": "From the Archives: a story",
+  "postedAt": "2024-12-27T16:36:50.735Z",
+  "baseScore": 24,
+  "wordCount": 4796,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

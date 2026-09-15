@@ -1,0 +1,29 @@
+{
+  "_id": "r8moKsfGzqQcWeCsr",
+  "slug": "uncontrollable-super-powerful-explosives",
+  "title": "Uncontrollable Super-Powerful Explosives",
+  "postedAt": "2022-04-02T20:13:13.431Z",
+  "baseScore": 55,
+  "wordCount": 1353,
+  "commentCount": 17,
+  "user": {
+    "displayName": "Sammy Martin",
+    "slug": "sdm"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 4,
+    "sYm3HiWcfZvrGu3ui": 4
+  }
+}

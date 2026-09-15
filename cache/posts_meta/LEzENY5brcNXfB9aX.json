@@ -1,0 +1,23 @@
+{
+  "_id": "LEzENY5brcNXfB9aX",
+  "slug": "gyre",
+  "title": "Gyre",
+  "postedAt": "2026-02-17T00:38:39.389Z",
+  "baseScore": 269,
+  "wordCount": 2411,
+  "commentCount": 24,
+  "user": {
+    "displayName": "vgel",
+    "slug": "vgel"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "NZvFostjy8gu5mEnc",
+  "slug": "d-and-d-sci-fi-june-2021-the-duel-with-earwax",
+  "title": "D&D.Sci(-Fi) June 2021: The Duel with Earwax",
+  "postedAt": "2021-06-22T11:48:44.718Z",
+  "baseScore": 26,
+  "wordCount": 819,
+  "commentCount": 28,
+  "user": {
+    "displayName": "abstractapplic",
+    "slug": "abstractapplic"
+  },
+  "tags": [
+    {
+      "_id": "npoWi8AYpegPcSYcw",
+      "name": "D&D.Sci",
+      "slug": "d-and-d-sci"
+    },
+    {
+      "_id": "DWWZwkxTJs4d5WrcX",
+      "name": "Exercises / Problem-Sets",
+      "slug": "exercises-problem-sets"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "rtha3oEP5vzkvdbbD",
+      "name": "Games (posts describing)",
+      "slug": "games-posts-describing"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "DWWZwkxTJs4d5WrcX": 1,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "npoWi8AYpegPcSYcw": 2,
+    "rtha3oEP5vzkvdbbD": 1
+  }
+}

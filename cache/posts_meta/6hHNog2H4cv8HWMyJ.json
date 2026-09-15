@@ -1,0 +1,29 @@
+{
+  "_id": "6hHNog2H4cv8HWMyJ",
+  "slug": "what-if-brain-computer-interfaces-went-exponential",
+  "title": "What if Brain Computer Interfaces went exponential?",
+  "postedAt": "2025-04-30T05:07:21.811Z",
+  "baseScore": -1,
+  "wordCount": 3504,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Stephen Martin",
+    "slug": "stephen-martin"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb28c",
+      "name": "Brain-Computer Interfaces",
+      "slug": "brain-computer-interfaces"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb28c": 1
+  }
+}

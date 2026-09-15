@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "hvafERyCS4uKC7Ctc",
+        "title": "Book Review: The MANIAC",
+        "slug": "book-review-the-maniac",
+        "pageUrl": "https://www.lesswrong.com/posts/hvafERyCS4uKC7Ctc/book-review-the-maniac",
+        "postedAt": "2025-07-31T15:18:51.588Z",
+        "baseScore": 15,
+        "wordCount": 519,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "Annapurna",
+          "slug": "annapurna"
+        },
+        "tags": [
+          {
+            "_id": "4Kcm4etxAJjmeDkHP",
+            "name": "Book Reviews / Media Reviews",
+            "slug": "book-reviews-media-reviews"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "6nS8oYmSMuFMaiowF",
+            "name": "Logic & Mathematics ",
+            "slug": "logic-and-mathematics"
+          },
+          {
+            "_id": "csMv9MvvjYJyeHqoo",
+            "name": "Physics",
+            "slug": "physics"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "4Kcm4etxAJjmeDkHP": 1,
+          "6nS8oYmSMuFMaiowF": 1,
+          "csMv9MvvjYJyeHqoo": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "![The MANIAC : Labatut, Benjamin: Amazon.ca: Books](https://substackcdn.com/image/fetch/$s_!YsX0!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa1a6be54-0ee9-41b2-8a9c-7eef21b24d07_663x1000.jpeg)\n\nI spend most of my free time reading, and when it comes to books I have tended to gravitate towards business non-fiction or adventure stories. This year, I have made it a goal to read books that deviate from my typical reads. I heard about [*The* *MANIAC*](https://en.m.wikipedia.org/wiki/The_MANIAC) on a podcast and it piqued my interest when the podcast host mentioned biographical fiction. I bought the book and was immediately immersed in the story, reading it in four days.\n\n*The MANIAC* was written by Benjamin Labatut, a young Chilean author making waves in the literary world. The book was published in 2023 and it\u2019s his first novel written in English. The book focuses on the life of [John von Neumann](https://en.m.wikipedia.org/wiki/John_von_Neumann), the greatest polymath of the 20th century most people barely know anything about. If you ask any scientist, engineer, or mathematician who von Neumann was, they will probably tell you that von Neumann was the smartest person of his time.\n\n![John von Neumann - Wikiquote](https://substackcdn.com/image/fetch/$s_!vMRU!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F389769fa-b2dd-4070-870a-b2f62f942a39_2551x3200.jpeg)\n\nJohn von Neumann\n\nThe book is historically accurate. What is fiction is how Labatut weaves the story of his life, using fictional accounts of important people in his life to narrate the important events of von Neumann\u2019s short life. The way Labatut uses these voices to create a captivating narrative is nothing short of genius.\n\nThe book begins with a strong hook, narrating the tragic events of the final moments of [Paul Ehrenfest\u2019s](https://en.m.wikipedia.org/wiki/Paul_Ehrenfest) life, a great physicist who, according to the book, saw von Neumann as a historical force that brings the end to Ehrenfest\u2019s life work. After finishing that first chapter, I was immediately hooked to learn more about the way von Neumann thought and how his work was going to change the world. If you are just learning about von Neumann, the first two parts of *The* *MANIAC* will take you on a journey that will shock your worldview.\n\nThis book is fantastic until its final section. The last part begins with a brief story on Demis Hassabis, who today is the CEO of Google DeepMind, and ends with the historical narration of the Go match between AlphaGo and Lee Sedol, the greatest Go player in modern history. I found it fascinating how Labatut was able to link von Neumann\u2019s life to this match, but this is where the book lost me.\n\n![Lee Sedol vs AlphaGo: How Google's AI machine beat the 18 times World Go  Champion](https://substackcdn.com/image/fetch/$s_!9Twj!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5da9143f-b4d5-440c-a0ac-b035a7002d7c_1200x652.jpeg)\n\nAlphaGo versus Lee Sedol, March 2016\n\nAfter this part, I think you are better off watching the documentary [*AlphaGo*](https://www.youtube.com/watch?v=WXuK6gekU1Y), which provides a far more detailed account of the Go match. While the connection to von Neumann is interesting, I found that the documentary does a better job than the book at providing the emotional response that Labatut was aiming for.\n\nEven with that said, *The* *MANIAC* has been my favorite read of the 2020s. It took me through a rollercoaster of emotions that ended with more questions than answers. **I highly recommend reading this book, but not in its entirety.**\n\nYou can find the book on [Amazon](https://www.amazon.ca/MANIAC-Benjamin-Labatut/dp/0593654471) or [Audible](https://www.audible.ca/pd/The-Maniac-Audiobook/B0BVNPWC9Q)."
+        }
+      }
+    }
+  }
+}

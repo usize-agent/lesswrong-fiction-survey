@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "sGCYvefva2ADfAEJ2",
+        "title": "Will 2023 be the last year you can write short stories and receive most of the intellectual credit for writing them?",
+        "slug": "will-2023-be-the-last-year-you-can-write-short-stories-and",
+        "pageUrl": "https://www.lesswrong.com/posts/sGCYvefva2ADfAEJ2/will-2023-be-the-last-year-you-can-write-short-stories-and",
+        "postedAt": "2023-03-16T21:36:27.992Z",
+        "baseScore": 20,
+        "wordCount": 272,
+        "commentCount": 12,
+        "noIndex": false,
+        "user": {
+          "displayName": "Dean Valentine",
+          "slug": "dean-valentine"
+        },
+        "tags": [
+          {
+            "_id": "YWzByWvtXunfrBu5b",
+            "name": "GPT",
+            "slug": "gpt"
+          },
+          {
+            "_id": "KmgkrftQuX7jmjjp5",
+            "name": "Language Models (LLMs)",
+            "slug": "language-models-llms"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "KmgkrftQuX7jmjjp5": 2,
+          "YWzByWvtXunfrBu5b": 2,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "I've been worldbuilding a unique setting in my head and on paper for maybe a year now, and for quite a bit longer than that I have wanted to start publishing fiction. I've never \"found the time\" to act on these ambitions, of course, but until the advent of LLMs I always thought I would have the opportunity to work on it later, after this or that startup or video game or work thing. \n\nI might still do that, but I'd be lying if I didn't say that part of the appeal of writing fiction anything at all was to receive credit from a very small group of readers for a piece of content that they liked and found novel or creative. It seems to me like the possibility of that is either fading or has already faded; the one big barrier that I thought was preventing LLMs from writing longform content, context size limits, has been blown away. GPT-4 now has a context size well above that of most short stories, more than enough to summarize the essential beats of a novel down from ~200 or so pages, and my guess is that future people will assume that most of the words and story details are being written out of a machine. Perhaps the basic idea for a story will be the domain of humans, but then people will be left wondering exactly how much of that idea was the product of the author, and rhetorical giftedness will become commoditized. That in mind, should I get started now, or is this worrying too much, or is it already basically too late?"
+        }
+      }
+    }
+  }
+}

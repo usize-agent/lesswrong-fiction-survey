@@ -1,0 +1,35 @@
+{
+  "_id": "g5q4JiG5dzafkdyEN",
+  "slug": "every-every-bay-area-house-party-bay-area-house-party",
+  "title": "Every \"Every Bay Area House Party\" Bay Area House Party",
+  "postedAt": "2024-02-16T18:53:28.567Z",
+  "baseScore": 191,
+  "wordCount": 1203,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 5,
+    "izp6eeJJEg9v5zcur": 2
+  }
+}

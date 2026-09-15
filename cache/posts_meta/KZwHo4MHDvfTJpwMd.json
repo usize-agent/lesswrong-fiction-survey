@@ -1,0 +1,23 @@
+{
+  "_id": "KZwHo4MHDvfTJpwMd",
+  "slug": "the-eternal-labyrinth",
+  "title": "The Eternal Labyrinth",
+  "postedAt": "2026-01-14T03:19:01.250Z",
+  "baseScore": 11,
+  "wordCount": 4520,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Bridgett Kay",
+    "slug": "bridgett-kay"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

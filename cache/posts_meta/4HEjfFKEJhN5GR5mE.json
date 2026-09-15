@@ -1,0 +1,23 @@
+{
+  "_id": "4HEjfFKEJhN5GR5mE",
+  "slug": "the-connection",
+  "title": "The Connection",
+  "postedAt": "2025-07-08T10:53:28.578Z",
+  "baseScore": 23,
+  "wordCount": 7298,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Alexandre Variengien",
+    "slug": "alexandre-variengien"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "rgzAxiudL6Yp9cvYy",
+  "slug": "soul-whore",
+  "title": "Soul-Whore",
+  "postedAt": "2025-12-01T00:06:32.025Z",
+  "baseScore": 44,
+  "wordCount": 1637,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Eneasz",
+    "slug": "eneasz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

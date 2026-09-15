@@ -1,0 +1,35 @@
+{
+  "_id": "kvYdiG5KEXmkmhttQ",
+  "slug": "from-fragment-to-form-a-personal-prelude-to-human-ai",
+  "title": "From Fragment to Form: A Personal Prelude to Human\u2013AI Resonance",
+  "postedAt": "2025-04-06T20:24:24.545Z",
+  "baseScore": 1,
+  "wordCount": 4479,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Vladimir Kim",
+    "slug": "vladimir-kim"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "H4n4rzs33JfEgkf8b",
+      "name": "OpenAI",
+      "slug": "openai"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "H4n4rzs33JfEgkf8b": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

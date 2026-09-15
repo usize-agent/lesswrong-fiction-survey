@@ -1,0 +1,35 @@
+{
+  "_id": "7GYeTyXK4Hzozxkkb",
+  "slug": "a-medium-scenario",
+  "title": "A Medium Scenario",
+  "postedAt": "2025-07-08T20:09:18.989Z",
+  "baseScore": 19,
+  "wordCount": 5872,
+  "commentCount": 13,
+  "user": {
+    "displayName": "Chapin Lenthall-Cleary",
+    "slug": "chapin-lenthall-cleary"
+  },
+  "tags": [
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 3,
+    "zHjC29kkPmsdo7WTr": 2
+  }
+}

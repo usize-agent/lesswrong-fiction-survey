@@ -1,0 +1,65 @@
+{
+  "_id": "w5TFjMW6JCxrPYy8n",
+  "slug": "dual-track-narratives-for-alignment-thinking",
+  "title": "Dual-track narratives for alignment thinking ",
+  "postedAt": "2026-07-13T14:46:56.164Z",
+  "baseScore": 1,
+  "wordCount": 116,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Yoann B",
+    "slug": "yoann-b"
+  },
+  "tags": [
+    {
+      "_id": "6zBEfFYJxhSEcchbR",
+      "name": "AI Alignment Fieldbuilding",
+      "slug": "ai-alignment-fieldbuilding"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "wK59GLLXFhP6D7FWo",
+      "name": "Human Alignment",
+      "slug": "human-alignment"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "kdbs6xBndPkmrYAxM",
+      "name": "Politics",
+      "slug": "politics"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "6zBEfFYJxhSEcchbR": 1,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "kdbs6xBndPkmrYAxM": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "wK59GLLXFhP6D7FWo": 1
+  }
+}

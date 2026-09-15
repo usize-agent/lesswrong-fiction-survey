@@ -1,0 +1,1698 @@
+===== STORY id=FkwKGQFS5XL9mQSQb =====
+Title: The Amazing Virgin Pregnancy
+Author: Eliezer Yudkowsky
+Year: 2007
+Karma: 35
+WordCount: 601
+URL: https://www.lesswrong.com/posts/FkwKGQFS5XL9mQSQb/the-amazing-virgin-pregnancy
+-----
+People who grow up believing certain things, 
+even if they later stop believing them, 
+may not quite realize how the beliefs sound to outsiders...
+
+(SCENE: A small cottage in Nazareth.)
+
+Joseph: Mary, my dearest fiancée, there's something I've been meaning to talk to you about.
+
+(Mary's shoulders slump. Slowly, as if under a heavy burden, she turns around to face Joseph.)
+
+Joseph: You seem to be getting fat around the waistline, and throwing up in the morning, and, er, not getting any periods. Which is odd, because it's sort of like -
+
+Mary: Yes! I'm pregnant! All right? I'm PREGNANT!
+
+Joseph: How is that possible?
+
+(Mary's shoulders slump further.) Mary: How do you think?
+
+Joseph: I don't know, that's why I'm asking you. I mean, you're still a virgin, right?
+
+(Mary looks up cautiously, and sees Joseph's face looking blankly puzzled.)
+
+Joseph: Well?
+
+Mary: God did it.
+
+Joseph: You had sex with -
+
+Mary: No! Haha. Of course not. I mean, God just snapped his fingers and did one of those miracle things and made me pregnant.
+
+Joseph: God made you pregnant.
+
+Mary: (Starts to sweat.) Yes.
+
+Joseph: Mary, that is just so... completely...
+
+(Mary's eyes squeeze shut.)
+
+Joseph: ...COOL!
+
+(Mary opens her eyes again, cautiously.)
+
+Mary: You think so?
+
+Joseph: Of course! Who wouldn't think so? Come on, we've got to tell everyone the news!
+
+Mary: Maybe we should keep this between just the two of us -
+
+Joseph: No, no, silly girl, this is way too important! Come on!
+
+(Joseph grabs Mary's wrist and drags her out of the house. SCENE: The gathering square of Nazareth. A dozen well-dressed men, and the town's head rabbi, look on Joseph and Mary impatiently.)
+
+Rabbi: What's this all about, Joseph? I trust there's a good reason for the fuss?
+
+Joseph: Go ahead, Mary! Tell them what you told me.
+
+Mary: Um... (She swallows.) God made me pregnant.
+
+Rabbi, looking stern, yet understanding: Now, Joseph, you know you're not supposed to do that before -
+
+Joseph: No, no, you don't get it! She's still a virgin! God made her pregnant directly!
+
+(There's a long pause.)
+
+Man 1: So, what you're saying here, basically, is that Mary tells you she's a virgin.
+
+Joseph: Uh huh!
+
+Man 2: And you haven't had sex with her.
+
+Joseph: Uh huh!
+
+Man 3: And now she's pregnant.
+
+Joseph: Precisely!
+
+Man 4: So you think that God did it.
+
+Joseph: What other explanation could there be?
+
+Rabbi: Joseph, that is just so... unbelievably...
+
+(Mary holds her breath.)
+
+Rabbi: NEAT!
+
+(Mary exhales.)
+
+Man 5: A miracle! A miracle right here in Nazareth!
+
+Man 6: Wow! I thought that miracles only happened in Jerusalem!
+
+Man 7: Come on! Let's spread the good news!
+
+(They depart. SCENE: Mary is alone with her friend, Betty, in Betty's house.)
+
+Betty: "God did it."
+
+Mary: I panicked! It was all I could think of!
+
+Betty: So who's the real -
+
+(Mary lifts an eyebrow significantly. There's a brief pause.)
+
+Betty: Ah. So that's why the rabbi went along with it.
+
+Mary: Well, he thinks he's the father, anyway. Why, does it matter?
+
+Betty: It puts some things in a different light.
+
+Mary: Like what?
+
+Betty: The rabbi has been telling all the pretty young girls that you, Mary, are the ultimate embodiment of feminine virtue, and when they grow up, they should be just like you -
+
+Mary: I just feel so awful about the whole mess. What kind of thing is this to have hanging over my child's life?
+
+Betty: You've got to put things in perspective, dearie. You told one little white lie. It's not as if you caused the fall of the Roman Empire.
+
+Mary: But what if the Romans hear about it? I don't want my baby to end up being crucified!
+
+Betty: No one's going to obsess about it that long. In a couple of months this whole thing will blow over.
+
+Mary: I hope you're right...
+
+(Exeunt Omnes.)
+===== END STORY FkwKGQFS5XL9mQSQb =====
+
+===== STORY id=X3HpE8tMXz4m4w6Rz =====
+Title: The Simple Truth
+Author: Eliezer Yudkowsky
+Year: 2008
+Karma: 193
+WordCount: 6638
+URL: https://www.lesswrong.com/posts/X3HpE8tMXz4m4w6Rz/the-simple-truth
+-----
+I remember this paper I wrote on existentialism. My teacher gave it back with an F. She’d underlined true and truth wherever it appeared in the essay, probably about twenty times, with a question mark beside each. She wanted to know what I meant by truth.
+ 
+ —Danielle Egan, journalist
+
+This essay is meant to restore a naive view of truth.
+
+Someone says to you: “My miracle snake oil can rid you of lung cancer in just three weeks.” You reply: “Didn’t a clinical study show this claim to be untrue?” The one returns: “This notion of ‘truth’ is quite naive; what do you mean by ‘true’?”
+
+Many people, so questioned, don’t know how to answer in exquisitely rigorous detail. Nonetheless they would not be wise to abandon the concept of “truth.” There was a time when no one knew the equations of gravity in exquisitely rigorous detail, yet if you walked off a cliff, you would fall.
+
+Often I have seen—especially on Internet mailing lists—that amidst other conversation, someone says “X is true,” and then an argument breaks out over the use of the word “true.” This essay is not meant as an encyclopedic reference for that argument. Rather, I hope the arguers will read this essay, and then go back to whatever they were discussing before someone questioned the nature of truth.
+
+In this essay I pose questions. If you see what seems like a really obvious answer, it’s probably the answer I intend. The obvious choice isn’t always the best choice, but sometimes, by golly, it is. I don’t stop looking as soon I find an obvious answer, but if I go on looking, and the obvious-seeming answer still seems obvious, I don’t feel guilty about keeping it. Oh, sure, everyone thinks two plus two is four, everyone says two plus two is four, and in the mere mundane drudgery of everyday life everyone behaves as if two plus two is four, but what does two plus two really, ultimately equal? As near as I can figure, four. It’s still four even if I intone the question in a solemn, portentous tone of voice.
+
+Does that seem like an unduly simple answer? Maybe, on this occasion, life doesn’t need to be complicated. Wouldn’t that be refreshing?
+
+If you are one of those fortunate folk to whom the question seems trivial at the outset, I hope it still seems trivial at the finish. If you find yourself stumped by deep and meaningful questions, remember that if you know exactly how a system works, and could build one yourself out of buckets and pebbles, it should not be a mystery to you.
+
+If confusion threatens when you interpret a metaphor as a metaphor, try taking everything completely literally.
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+Imagine that in an era before recorded history or formal mathematics, I am a shepherd and I have trouble tracking my sheep. My sheep sleep in an enclosure, a fold; and the enclosure is high enough to guard my sheep from wolves that roam by night. Each day I must release my sheep from the fold to pasture and graze; each night I must find my sheep and return them to the fold. If a sheep is left outside, I will find its body the next morning, killed and half-eaten by wolves. But it is so discouraging, to scour the fields for hours, looking for one last sheep, when I know that probably all the sheep are in the fold. Sometimes I give up early, and usually I get away with it; but around a tenth of the time there is a dead sheep the next morning.
+
+If only there were some way to divine whether sheep are still grazing, without the inconvenience of looking! I try several methods: I toss the divination sticks of my tribe; I train my psychic powers to locate sheep through clairvoyance; I search carefully for reasons to believe all the sheep are in the fold. It makes no difference. Around a tenth of the times I turn in early, I find a dead sheep the next morning. Perhaps I realize that my methods aren’t working, and perhaps I carefully excuse each failure; but my dilemma is still the same. I can spend an hour searching every possible nook and cranny, when most of the time there are no remaining sheep; or I can go to sleep early and lose, on the average, one-tenth of a sheep.
+
+Late one afternoon I feel especially tired. I toss the divination sticks and the divination sticks say that all the sheep have returned. I visualize each nook and cranny, and I don’t imagine scrying any sheep. I’m still not confident enough, so I look inside the fold and it seems like there are a lot of sheep, and I review my earlier efforts and decide that I was especially diligent. This dissipates my anxiety, and I go to sleep. The next morning I discover two dead sheep. Something inside me snaps, and I begin thinking creatively.
+
+That day, loud hammering noises come from the gate of the sheepfold’s enclosure.
+
+The next morning, I open the gate of the enclosure only a little way, and as each sheep passes out of the enclosure, I drop a pebble into a bucket nailed up next to the door. In the afternoon, as each returning sheep passes by, I take one pebble out of the bucket. When there are no pebbles left in the bucket, I can stop searching and turn in for the night. It is a brilliant notion. It will revolutionize shepherding.
+
+That was the theory. In practice, it took considerable refinement before the method worked reliably. Several times I searched for hours and didn’t find any sheep, and the next morning there were no stragglers. On each of these occasions it required deep thought to figure out where my bucket system had failed. On returning from one fruitless search, I thought back and realized that the bucket already contained pebbles when I started; this, it turned out, was a bad idea. Another time I randomly tossed pebbles into the bucket, to amuse myself, between the morning and the afternoon; this too was a bad idea, as I realized after searching for a few hours. But I practiced my pebblecraft, and became a reasonably proficient pebblecrafter.
+
+One afternoon, a man richly attired in white robes, leafy laurels, sandals, and business suit trudges in along the sandy trail that leads to my pastures.
+
+“Can I help you?” I inquire.
+
+The man takes a badge from his coat and flips it open, proving beyond the shadow of a doubt that he is Markos Sophisticus Maximus, a delegate from the Senate of Rum. (One might wonder whether another could steal the badge; but so great is the power of these badges that if any other were to use them, they would in that instant be transformed into Markos.)
+
+“Call me Mark,” he says. “I’m here to confiscate the magic pebbles, in the name of the Senate; artifacts of such great power must not fall into ignorant hands.”
+
+“That bleedin’ apprentice,” I grouse under my breath, “he’s been yakkin’ to the villagers again.” Then I look at Mark’s stern face, and sigh. “They aren’t magic pebbles,” I say aloud. “Just ordinary stones I picked up from the ground.”
+
+A flicker of confusion crosses Mark’s face, then he brightens again. “I’m here for the magic bucket!” he declares.
+
+“It’s not a magic bucket,” I say wearily. “I used to keep dirty socks in it.”
+
+Mark’s face is puzzled. “Then where is the magic?” he demands.
+
+An interesting question. “It’s hard to explain,” I say.
+
+My current apprentice, Autrey, attracted by the commotion, wanders over and volunteers his explanation: “It’s the level of pebbles in the bucket,” Autrey says. “There’s a magic level of pebbles, and you have to get the level just right, or it doesn’t work. If you throw in more pebbles, or take some out, the bucket won’t be at the magic level anymore. Right now, the magic level is,” Autrey peers into the bucket, “about one-third full.”
+
+“I see!” Mark says excitedly. From his back pocket Mark takes out his own bucket, and a heap of pebbles. Then he grabs a few handfuls of pebbles, and stuffs them into the bucket. Then Mark looks into the bucket, noting how many pebbles are there. “There we go,” Mark says, “the magic level of this bucket is half full. Like that?”
+
+“No!” Autrey says sharply. “Half full is not the magic level. The magic level is about one-third. Half full is definitely unmagic. Furthermore, you’re using the wrong bucket.”
+
+Mark turns to me, puzzled. “I thought you said the bucket wasn’t magic?”
+
+“It’s not,” I say. A sheep passes out through the gate, and I toss another pebble into the bucket. “Besides, I’m watching the sheep. Talk to Autrey.”
+
+Mark dubiously eyes the pebble I tossed in, but decides to temporarily shelve the question. Mark turns to Autrey and draws himself up haughtily. “It’s a free country,” Mark says, “under the benevolent dictatorship of the Senate, of course. I can drop whichever pebbles I like into whatever bucket I like.”
+
+Autrey considers this. “No you can’t,” he says finally, “there won’t be any magic.”
+
+“Look,” says Mark patiently, “I watched you carefully. You looked in your bucket, checked the level of pebbles, and called that the magic level. I did exactly the same thing.”
+
+“That’s not how it works,” says Autrey.
+
+“Oh, I see,” says Mark, “It’s not the level of pebbles in my bucket that’s magic, it’s the level of pebbles in your bucket. Is that what you claim? What makes your bucket so much better than mine, huh?”
+
+“Well,” says Autrey, “if we were to empty your bucket, and then pour all the pebbles from my bucket into your bucket, then your bucket would have the magic level. There’s also a procedure we can use to check if your bucket has the magic level, if we know that my bucket has the magic level; we call that a bucket compare operation.”
+
+Another sheep passes, and I toss in another pebble.
+
+“He just tossed in another pebble!” Mark says. “And I suppose you claim the new level is also magic? I could toss pebbles into your bucket until the level was the same as mine, and then our buckets would agree. You’re just comparing my bucket to your bucket to determine whether you think the level is ‘magic’ or not. Well, I think your bucket isn’t magic, because it doesn’t have the same level of pebbles as mine. So there!”
+
+“Wait,” says Autrey, “you don’t understand—”
+
+“By ‘magic level,’ you mean simply the level of pebbles in your own bucket. And when I say ‘magic level,’ I mean the level of pebbles in my bucket. Thus you look at my bucket and say it ‘isn’t magic,’ but the word ‘magic’ means different things to different people. You need to specify whose magic it is. You should say that my bucket doesn’t have ‘Autrey’s magic level,’ and I say that your bucket doesn’t have ‘Mark’s magic level.’ That way, the apparent contradiction goes away.”
+
+“But—” says Autrey helplessly.
+
+“Different people can have different buckets with different levels of pebbles, which proves this business about ‘magic’ is completely arbitrary and subjective.”
+
+“Mark,” I say, “did anyone tell you what these pebbles do?”
+
+“Do?” says Mark. “I thought they were just magic.”
+
+“If the pebbles didn’t do anything,” says Autrey, “our ISO 9000 process efficiency auditor would eliminate the procedure from our daily work.”
+
+“What’s your auditor’s name?”
+
+“Darwin,” says Autrey.
+
+“Hm,” says Mark. “Charles does have a reputation as a strict auditor. So do the pebbles bless the flocks, and cause the increase of sheep?”
+
+“No,” I say. “The virtue of the pebbles is this; if we look into the bucket and see the bucket is empty of pebbles, we know the pastures are likewise empty of sheep. If we do not use the bucket, we must search and search until dark, lest one last sheep remain. Or if we stop our work early, then sometimes the next morning we find a dead sheep, for the wolves savage any sheep left outside. If we look in the bucket, we know when all the sheep are home, and we can retire without fear.”
+
+Mark considers this. “That sounds rather implausible,” he says eventually. “Did you consider using divination sticks? Divination sticks are infallible, or at least, anyone who says they are fallible is burned at the stake. This is an extremely painful way to die, so the divination sticks must be extremely infallible.”
+
+“You’re welcome to use divination sticks if you like,” I say.
+
+“Oh, good heavens, of course not,” says Mark. “They work infallibly, with absolute perfection on every occasion, as befits such blessed instruments. But what if there were a dead sheep the next morning? I only use the divination sticks when there is no possibility of their being proven wrong. Otherwise I might be burned alive. So how does your magic bucket work?”
+
+How does the bucket work . . . ? I’d better start with the simplest possible case. “Well,” I say, “suppose the pastures are empty, and the bucket isn’t empty. Then we’ll waste hours looking for a sheep that isn’t there. And if there are sheep in the pastures, but the bucket is empty, then Autrey and I will turn in too early, and we’ll find dead sheep the next morning. So an empty bucket is magical if and only if the pastures are empty—”
+
+“Hold on,” says Autrey. “That sounds like a vacuous tautology to me. Aren’t an empty bucket and empty pastures obviously the same thing?”
+
+“It’s not vacuous,” I say. “Here’s an analogy: The logician Alfred Tarski once said that the assertion ‘Snow is white’ is true if and only if snow is white. If you can understand that, you should be able to see why an empty bucket is magical if and only if the pastures are empty of sheep.”
+
+“Hold on,” says Mark. “These are buckets. They don’t have anything to do with sheep. Buckets and sheep are obviously completely different. There’s no way the sheep can ever interact with the bucket.”
+
+“Then where do you think the magic comes from?” inquires Autrey.
+
+Mark considers. “You said you could compare two buckets to check if they had the same level . . . I can see how buckets can interact with buckets. Maybe when you get a large collection of buckets, and they all have the same level, that’s what generates the magic. I’ll call that the coherentist theory of magic buckets.”
+
+“Interesting,” says Autrey. “I know that my master is working on a system with multiple buckets—he says it might work better because of ‘redundancy’ and ‘error correction.’ That sounds like coherentism to me.”
+
+“They’re not quite the same—” I start to say.
+
+“Let’s test the coherentism theory of magic,” says Autrey. “I can see you’ve got five more buckets in your back pocket. I’ll hand you the bucket we’re using, and then you can fill up your other buckets to the same level—”
+
+Mark recoils in horror. “Stop! These buckets have been passed down in my family for generations, and they’ve always had the same level! If I accept your bucket, my bucket collection will become less coherent, and the magic will go away!”
+
+“But your current buckets don’t have anything to do with the sheep!” protests Autrey.
+
+Mark looks exasperated. “Look, I’ve explained before, there’s obviously no way that sheep can interact with buckets. Buckets can only interact with other buckets.”
+
+“I toss in a pebble whenever a sheep passes,” I point out.
+
+“When a sheep passes, you toss in a pebble?” Mark says. “What does that have to do with anything?”
+
+“It’s an interaction between the sheep and the pebbles,” I reply.
+
+“No, it’s an interaction between the pebbles and you,” Mark says. “The magic doesn’t come from the sheep, it comes from you. Mere sheep are obviously nonmagical. The magic has to come from somewhere, on the way to the bucket.”
+
+I point at a wooden mechanism perched on the gate. “Do you see that flap of cloth hanging down from that wooden contraption? We’re still fiddling with that—it doesn’t work reliably—but when sheep pass through, they disturb the cloth. When the cloth moves aside, a pebble drops out of a reservoir and falls into the bucket. That way, Autrey and I won’t have to toss in the pebbles ourselves.”
+
+Mark furrows his brow. “I don’t quite follow you . . . is the cloth magical?”
+
+I shrug. “I ordered it online from a company called Natural Selections. The fabric is called Sensory Modality.” I pause, seeing the incredulous expressions of Mark and Autrey. “I admit the names are a bit New Agey. The point is that a passing sheep triggers a chain of cause and effect that ends with a pebble in the bucket. Afterward you can compare the bucket to other buckets, and so on.”
+
+“I still don’t get it,” Mark says. “You can’t fit a sheep into a bucket. Only pebbles go in buckets, and it’s obvious that pebbles only interact with other pebbles.”
+
+“The sheep interact with things that interact with pebbles . . .” I search for an analogy. “Suppose you look down at your shoelaces. A photon leaves the Sun; then travels down through Earth’s atmosphere; then bounces off your shoelaces; then passes through the pupil of your eye; then strikes the retina; then is absorbed by a rod or a cone. The photon’s energy makes the attached neuron fire, which causes other neurons to fire. A neural activation pattern in your visual cortex can interact with your beliefs about your shoelaces, since beliefs about shoelaces also exist in neural substrate. If you can understand that, you should be able to see how a passing sheep causes a pebble to enter the bucket.”
+
+“At exactly which point in the process does the pebble become magic?” says Mark.
+
+“It . . . um . . .” Now I’m starting to get confused. I shake my head to clear away cobwebs. This all seemed simple enough when I woke up this morning, and the pebble-and-bucket system hasn’t gotten any more complicated since then. “This is a lot easier to understand if you remember that the point of the system is to keep track of sheep.”
+
+Mark sighs sadly. “Never mind . . . it’s obvious you don’t know. Maybe all pebbles are magical to start with, even before they enter the bucket. We could call that position panpebblism.”
+
+“Ha!” Autrey says, scorn rich in his voice. “Mere wishful thinking! Not all pebbles are created equal. The pebbles in your bucket are not magical. They’re only lumps of stone!”
+
+Mark’s face turns stern. “Now,” he cries, “now you see the danger of the road you walk! Once you say that some people’s pebbles are magical and some are not, your pride will consume you! You will think yourself superior to all others, and so fall! Many throughout history have tortured and murdered because they thought their own pebbles supreme!” A tinge of condescension enters Mark’s voice. “Worshipping a level of pebbles as ‘magical’ implies that there’s an absolute pebble level in a Supreme Bucket. Nobody believes in a Supreme Bucket these days.”
+
+“One,” I say. “Sheep are not absolute pebbles. Two, I don’t think my bucket actually contains the sheep. Three, I don’t worship my bucket level as perfect—I adjust it sometimes—and I do that because I care about the sheep.”
+
+“Besides,” says Autrey, “if someone believes that possessing absolute pebbles would license torture and murder, they’re making a mistake that has nothing to do with buckets. You’re solving the wrong problem.”
+
+Mark calms himself down. “I suppose I can’t expect any better from mere shepherds. You probably believe that snow is white, don’t you.”
+
+“Um . . . yes?” says Autrey.
+
+“It doesn’t bother you that Joseph Stalin believed that snow is white?”
+
+“Um . . . no?” says Autrey.
+
+Mark gazes incredulously at Autrey, and finally shrugs. “Let’s suppose, purely for the sake of argument, that your pebbles are magical and mine aren’t. Can you tell me what the difference is?”
+
+“My pebbles represent the sheep!” Autrey says triumphantly. “Your pebbles don’t have the representativeness property, so they won’t work. They are empty of meaning. Just look at them. There’s no aura of semantic content; they are merely pebbles. You need a bucket with special causal powers.”
+
+“Ah!” Mark says. “Special causal powers, instead of magic.”
+
+“Exactly,” says Autrey. “I’m not superstitious. Postulating magic, in this day and age, would be unacceptable to the international shepherding community. We have found that postulating magic simply doesn’t work as an explanation for shepherding phenomena. So when I see something I don’t understand, and I want to explain it using a model with no internal detail that makes no predictions even in retrospect, I postulate special causal powers. Or I’ll call it an emergent phenomenon, or something.”
+
+“What kind of special powers does the bucket have?” asks Mark.
+
+“Hm,” says Autrey. “Maybe this bucket is imbued with an about-ness relation to the pastures. That would explain why it worked—when the bucket is empty, it means the pastures are empty.”
+
+“Where did you find this bucket?” says Mark. “And how did you realize it had an about-ness relation to the pastures?”
+
+“It’s an ordinary bucket,” I say. “I used to climb trees with it . . . I don’t think this question needs to be difficult.”
+
+“I’m talking to Autrey,” says Mark.
+
+“You have to bind the bucket to the pastures, and the pebbles to the sheep, using a magical ritual—pardon me, an emergent process with special causal powers—that my master discovered,” Autrey explains.
+
+Autrey then attempts to describe the ritual, with Mark nodding along in sage comprehension.
+
+“You have to throw in a pebble every time a sheep leaves through the gate?” says Mark. “Take out a pebble every time a sheep returns?”
+
+Autrey nods. “Yeah.”
+
+“That must be really hard,” Mark says sympathetically.
+
+Autrey brightens, soaking up Mark’s sympathy like rain. “Exactly!” says Autrey. “It’s extremely hard on your emotions. When the bucket has held its level for a while, you . . . tend to get attached to that level.”
+
+A sheep passes then, leaving through the gate. Autrey sees; he stoops, picks up a pebble, holds it aloft in the air. “Behold!” Autrey proclaims. “A sheep has passed! I must now toss a pebble into this bucket, my dear bucket, and destroy that fond level which has held for so long—” Another sheep passes. Autrey, caught up in his drama, misses it, so I plunk a pebble into the bucket. Autrey is still speaking: “—for that is the supreme test of the shepherd, to throw in the pebble, be it ever so agonizing, be the old level ever so precious. Indeed, only the best of shepherds can meet a requirement so stern—”
+
+“Autrey,” I say, “if you want to be a great shepherd someday, learn to shut up and throw in the pebble. No fuss. No drama. Just do it.”
+
+“And this ritual,” says Mark, “it binds the pebbles to the sheep by the magical laws of Sympathy and Contagion, like a voodoo doll.”
+
+Autrey winces and looks around. “Please! Don’t call it Sympathy and Contagion. We shepherds are an anti-superstitious folk. Use the word ‘intentionality,’ or something like that.”
+
+“Can I look at a pebble?” says Mark.
+
+“Sure,” I say. I take one of the pebbles out of the bucket, and toss it to Mark. Then I reach to the ground, pick up another pebble, and drop it into the bucket.
+
+Autrey looks at me, puzzled. “Didn’t you just mess it up?”
+
+I shrug. “I don’t think so. We’ll know I messed it up if there’s a dead sheep next morning, or if we search for a few hours and don’t find any sheep.”
+
+“But—” Autrey says.
+
+“I taught you everything you know, but I haven’t taught you everything I know,” I say.
+
+Mark is examining the pebble, staring at it intently. He holds his hand over the pebble and mutters a few words, then shakes his head. “I don’t sense any magical power,” he says. “Pardon me. I don’t sense any intentionality.”
+
+“A pebble only has intentionality if it’s inside a ma—an emergent bucket,” says Autrey. “Otherwise it’s just a mere pebble.”
+
+“Not a problem,” I say. I take a pebble out of the bucket, and toss it away. Then I walk over to where Mark stands, tap his hand holding a pebble, and say: “I declare this hand to be part of the magic bucket!” Then I resume my post at the gates.
+
+Autrey laughs. “Now you’re just being gratuitously evil.”
+
+I nod, for this is indeed the case.
+
+“Is that really going to work, though?” says Autrey.
+
+I nod again, hoping that I’m right. I’ve done this before with two buckets, and in principle, there should be no difference between Mark’s hand and a bucket. Even if Mark’s hand is imbued with the Élan vital that distinguishes live matter from dead matter, the trick should work as well as if Mark were a marble statue.
+
+Mark is looking at his hand, a bit unnerved. “So . . . the pebble has intentionality again, now?”
+
+“Yep,” I say. “Don’t add any more pebbles to your hand, or throw away the one you have, or you’ll break the ritual.”
+
+Mark nods solemnly. Then he resumes inspecting the pebble. “I understand now how your flocks grew so great,” Mark says. “With the power of this bucket, you could keep on tossing pebbles, and the sheep would keep returning from the fields. You could start with just a few sheep, let them leave, then fill the bucket to the brim before they returned. And if tending so many sheep grew tedious, you could let them all leave, then empty almost all the pebbles from the bucket, so that only a few returned . . . increasing the flocks again when it came time for shearing . . . dear heavens, man! Do you realize the sheer power of this ritual you’ve discovered? I can only imagine the implications; humankind might leap ahead a decade—no, a century!”
+
+“It doesn’t work that way,” I say. “If you add a pebble when a sheep hasn’t left, or remove a pebble when a sheep hasn’t come in, that breaks the ritual. The power does not linger in the pebbles, but vanishes all at once, like a soap bubble popping.”
+
+Mark’s face is terribly disappointed. “Are you sure?”
+
+I nod. “I tried that and it didn’t work.”
+
+Mark sighs heavily. “And this . . . math. . . seemed so powerful and useful until then . . . Oh, well. So much for human progress.”
+
+“Mark, it was a brilliant idea,” Autrey says encouragingly. “The notion didn’t occur to me, and yet it’s so obvious . . . it would save an enormous amount of effort . . . there must be a way to salvage your plan! We could try different buckets, looking for one that would keep the magical pow—the intentionality in the pebbles, even without the ritual. Or try other pebbles. Maybe our pebbles just have the wrong properties to have inherent intentionality. What if we tried it using stones carved to resemble tiny sheep? Or just write ‘sheep’ on the pebbles; that might be enough.”
+
+“Not going to work,” I predict dryly.
+
+Autrey continues. “Maybe we need organic pebbles, instead of silicon pebbles . . . or maybe we need to use expensive gemstones. The price of gemstones doubles every eighteen months, so you could buy a handful of cheap gemstones now, and wait, and in twenty years they’d be really expensive.”
+
+“You tried adding pebbles to create more sheep, and it didn’t work?” Mark asks me. “What exactly did you do?”
+
+“I took a handful of dollar bills. Then I hid the dollar bills under a fold of my blanket, one by one; each time I hid another bill, I took another paperclip from a box, making a small heap. I was careful not to keep track in my head, so that all I knew was that there were ‘many’ dollar bills, and ‘many’ paperclips. Then when all the bills were hidden under my blanket, I added a single additional paperclip to the heap, the equivalent of tossing an extra pebble into the bucket. Then I started taking dollar bills from under the fold, and putting the paperclips back into the box. When I finished, a single paperclip was left over.”
+
+“What does that result mean?” asks Autrey.
+
+“It means the trick didn’t work. Once I broke ritual by that single misstep, the power did not linger, but vanished instantly; the heap of paperclips and the pile of dollar bills no longer went empty at the same time.”
+
+“You actually tried this?” asks Mark.
+
+“Yes,” I say, “I actually performed the experiment, to verify that the outcome matched my theoretical prediction. I have a sentimental fondness for the scientific method, even when it seems absurd. Besides, what if I’d been wrong?”
+
+“If it had worked,” says Mark, “you would have been guilty of counterfeiting! Imagine if everyone did that; the economy would collapse! Everyone would have billions of dollars of currency, yet there would be nothing for money to buy!”
+
+“Not at all,” I reply. “By that same logic whereby adding another paperclip to the heap creates another dollar bill, creating another dollar bill would create an additional dollar’s worth of goods and services.”
+
+Mark shakes his head. “Counterfeiting is still a crime . . . You should not have tried.”
+
+“I was reasonably confident I would fail.”
+
+“Aha!” says Mark. “You expected to fail! You didn’t believe you could do it!”
+
+“Indeed,” I admit. “You have guessed my expectations with stunning accuracy.”
+
+“Well, that’s the problem,” Mark says briskly. “Magic is fueled by belief and willpower. If you don’t believe you can do it, you can’t. You need to change your belief about the experimental result, if we are to change the result itself.”
+
+“Funny,” I say nostalgically, “that’s what Autrey said when I told him about the pebble-and-bucket method. That it was too ridiculous for him to believe, so it wouldn’t work for him.”
+
+“How did you persuade him?” inquires Mark.
+
+“I told him to shut up and follow instructions,” I say, “and when the method worked, Autrey started believing in it.”
+
+Mark frowns, puzzled. “That makes no sense. It doesn’t resolve the essential chicken-and-egg dilemma.”
+
+“Sure it does. The bucket method works whether or not you believe in it.”
+
+“That’s absurd!” sputters Mark. “I don’t believe in magic that works whether or not you believe in it!”
+
+“I said that too,” chimes in Autrey. “Apparently I was wrong.”
+
+Mark screws up his face in concentration. “But . . . if you didn’t believe in magic that works whether or not you believe in it, then why did the bucket method work when you didn’t believe in it? Did you believe in magic that works whether or not you believe in it whether or not you believe in magic that works whether or not you believe in it?”
+
+“I don’t . . . think so . . .” says Autrey doubtfully.
+
+“Then if you didn’t believe in magic that works whether or not you . . . hold on a second, I need to work this out with paper and pencil—” Mark scribbles frantically, looks skeptically at the result, turns the piece of paper upside down, then gives up. “Never mind,” says Mark. “Magic is difficult enough for me to comprehend; metamagic is out of my depth.”
+
+“Mark, I don’t think you understand the art of bucketcraft,” I say. “It’s not about using pebbles to control sheep. It’s about making sheep control pebbles. In this art, it is not necessary to begin by believing the art will work. Rather, first the art works, then one comes to believe that it works.”
+
+“Or so you believe,” says Mark.
+
+“So I believe,” I reply, “because it happens to be a fact. The correspondence between reality and my beliefs comes from reality controlling my beliefs, not the other way around.”
+
+Another sheep passes, causing me to toss in another pebble.
+
+“Ah! Now we come to the root of the problem,” says Mark. “What’s this so-called ‘reality’ business? I understand what it means for a hypothesis to be elegant, or falsifiable, or compatible with the evidence. It sounds to me like calling a belief ‘true’ or ‘real’ or ‘actual’ is merely the difference between saying you believe something, and saying you really really believe something.”
+
+I pause. “Well . . .” I say slowly. “Frankly, I’m not entirely sure myself where this ‘reality’ business comes from. I can’t create my own reality in the lab, so I must not understand it yet. But occasionally I believe strongly that something is going to happen, and then something else happens instead. I need a name for whatever-it-is that determines my experimental results, so I call it ‘reality’. This ‘reality’ is somehow separate from even my very best hypotheses. Even when I have a simple hypothesis, strongly supported by all the evidence I know, sometimes I’m still surprised. So I need different names for the thingies that determine my predictions and the thingy that determines my experimental results. I call the former thingies ‘belief,’ and the latter thingy ‘reality.’ ”
+
+Mark snorts. “I don’t even know why I bother listening to this obvious nonsense. Whatever you say about this so-called ‘reality,’ it is merely another belief. Even your belief that reality precedes your beliefs is a belief. It follows, as a logical inevitability, that reality does not exist; only beliefs exist.”
+
+“Hold on,” says Autrey, “could you repeat that last part? You lost me with that sharp swerve there in the middle.”
+
+“No matter what you say about reality, it’s just another belief,” explains Mark. “It follows with crushing necessity that there is no reality, only beliefs.”
+
+“I see,” I say. “The same way that no matter what you eat, you need to eat it with your mouth. It follows that there is no food, only mouths.”
+
+“Precisely,” says Mark. “Everything that you eat has to be in your mouth. How can there be food that exists outside your mouth? The thought is nonsense, proving that ‘food’ is an incoherent notion. That’s why we’re all starving to death; there’s no food.”
+
+Autrey looks down at his stomach. “But I’m not starving to death.”
+
+“Aha!” shouts Mark triumphantly. “And how did you utter that very objection? With your mouth, my friend! With your mouth! What better demonstration could you ask that there is no food?”
+
+“What’s this about starvation?” demands a harsh, rasping voice from directly behind us. Autrey and I stay calm, having gone through this before. Mark leaps a foot in the air, startled almost out of his wits.
+
+Inspector Darwin smiles tightly, pleased at achieving surprise, and makes a small tick on his clipboard.
+
+“Just a metaphor!” Mark says quickly. “You don’t need to take away my mouth, or anything like that—”
+
+“Why do you need a mouth if there is no food?” demands Darwin angrily. “Never mind. I have no time for this foolishness. I am here to inspect the sheep.”
+
+“Flock’s thriving, sir,” I say. “No dead sheep since January.”
+
+“Excellent. I award you 0.12 units of fitness. Now what is this person doing here? Is he a necessary part of the operations?”
+
+“As far as I can see, he would be of more use to the human species if hung off a hot-air balloon as ballast,” I say.
+
+“Ouch,” says Autrey mildly.
+
+“I do not care about the human species. Let him speak for himself.”
+
+Mark draws himself up haughtily. “This mere shepherd,” he says, gesturing at me, “has claimed that there is such a thing as reality. This offends me, for I know with deep and abiding certainty that there is no truth. The concept of ‘truth’ is merely a stratagem for people to impose their own beliefs on others. Every culture has a different ‘truth,’ and no culture’s ‘truth’ is superior to any other. This that I have said holds at all times in all places, and I insist that you agree.”
+
+“Hold on a second,” says Autrey. “If nothing is true, why should I believe you when you say that nothing is true?”
+
+“I didn’t say that nothing is true—” says Mark.
+
+“Yes, you did,” interjects Autrey, “I heard you.”
+
+“—I said that ‘truth’ is an excuse used by some cultures to enforce their beliefs on others. So when you say something is ‘true,’ you mean only that it would be advantageous to your own social group to have it believed.”
+
+“And this that you have said,” I say, “is it true?”
+
+“Absolutely, positively true!” says Mark emphatically. “People create their own realities.”
+
+“Hold on,” says Autrey, sounding puzzled again, “saying that people create their own realities is, logically, a completely separate issue from saying that there is no truth, a state of affairs I cannot even imagine coherently, perhaps because you still have not explained how exactly it is supposed to work—”
+
+“There you go again,” says Mark exasperatedly, “trying to apply your Western concepts of logic, rationality, reason, coherence, and self-consistency.”
+
+“Great,” mutters Autrey, “now I need to add a third subject heading, to keep track of this entirely separate and distinct claim—”
+
+“It’s not separate,” says Mark. “Look, you’re taking the wrong attitude by treating my statements as hypotheses, and carefully deriving their consequences. You need to think of them as fully general excuses, which I apply when anyone says something I don’t like. It’s not so much a model of how the universe works, as a Get Out of Jail Free card. The key is to apply the excuse selectively. When I say that there is no such thing as truth, that applies only to your claim that the magic bucket works whether or not I believe in it. It does not apply to my claim that there is no such thing as truth.”
+
+“Um . . . why not?” inquires Autrey.
+
+Mark heaves a patient sigh. “Autrey, do you think you’re the first person to think of that question? To ask us how our own beliefs can be meaningful if all beliefs are meaningless? That’s the same thing many students say when they encounter this philosophy, which, I’ll have you know, has many adherents and an extensive literature.”
+
+“So what’s the answer?” says Autrey.
+
+“We named it the ‘reflexivity problem,’ ” explains Mark.
+
+“But what’s the answer?” persists Autrey.
+
+Mark smiles condescendingly. “Believe me, Autrey, you’re not the first person to think of such a simple question. There’s no point in presenting it to us as a triumphant refutation.”
+
+“But what’s the actual answer?”
+
+“Now, I’d like to move on to the issue of how logic kills cute baby seals—”
+
+“You are wasting time,” snaps Inspector Darwin.
+
+“Not to mention, losing track of sheep,” I say, tossing in another pebble.
+
+Inspector Darwin looks at the two arguers, both apparently unwilling to give up their positions. “Listen,” Darwin says, more kindly now, “I have a simple notion for resolving your dispute. You say,” says Darwin, pointing to Mark, “that people’s beliefs alter their personal realities. And you fervently believe,” his finger swivels to point at Autrey, “that Mark’s beliefs can’t alter reality. So let Mark believe really hard that he can fly, and then step off a cliff. Mark shall see himself fly away like a bird, and Autrey shall see him plummet down and go splat, and you shall both be happy.”
+
+We all pause, considering this.
+
+“It sounds reasonable . . .” Mark says finally.
+
+“There’s a cliff right there,” observes Inspector Darwin.
+
+Autrey is wearing a look of intense concentration. Finally he shouts: “Wait! If that were true, we would all have long since departed into our own private universes, in which case the other people here are only figments of your imagination—there’s no point in trying to prove anything to us—”
+
+A long dwindling scream comes from the nearby cliff, followed by a dull and lonely splat. Inspector Darwin flips his clipboard to the page that shows the current gene pool and pencils in a slightly lower frequency for Mark’s alleles.
+
+Autrey looks slightly sick. “Was that really necessary?”
+
+“Necessary?” says Inspector Darwin, sounding puzzled. “It just happened. . . I don’t quite understand your question.”
+
+Autrey and I turn back to our bucket. It’s time to bring in the sheep. You wouldn’t want to forget about that part. Otherwise what would be the point?
+===== END STORY X3HpE8tMXz4m4w6Rz =====
+
+===== STORY id=fnEWQAYxcRnaYBqaZ =====
+Title: Initiation Ceremony
+Author: Eliezer Yudkowsky
+Year: 2008
+Karma: 136
+WordCount: 1023
+URL: https://www.lesswrong.com/posts/fnEWQAYxcRnaYBqaZ/initiation-ceremony
+-----
+The torches that lit the narrow stairwell burned intensely and in the wrong color, flame like melting gold or shattered suns.
+
+192... 193...
+
+Brennan's sandals clicked softly on the stone steps, snicking in sequence, like dominos very slowly falling.
+
+227... 228...
+
+Half a circle ahead of him, a trailing fringe of dark cloth whispered down the stairs, the robed figure itself staying just out of sight.
+
+239... 240...
+
+Not much longer, Brennan predicted to himself, and his guess was accurate:
+
+Sixteen times sixteen steps was the number, and they stood before the portal of glass.
+
+The great curved gate had been wrought with cunning, humor, and close attention to indices of refraction: it warped light, bent it, folded it, and generally abused it, so that there were hints of what was on the other side (stronger light sources, dark walls) but no possible way of seeing through—unless, of course, you had the key: the counter-door, thick for thin and thin for thick, in which case the two would cancel out.
+
+From the robed figure beside Brennan, two hands emerged, gloved in reflective cloth to conceal skin's color.  Fingers like slim mirrors grasped the handles of the warped gate—handles that Brennan had not guessed; in all that distortion, shapes could only be anticipated, not seen.
+
+"Do you want to know?" whispered the guide; a whisper nearly as loud as an ordinary voice, but not revealing the slightest hint of gender.
+
+Brennan paused.  The answer to the question seemed suspiciously, indeed extraordinarily obvious, even for ritual.
+
+"Yes," Brennan said finally.
+
+The guide only regarded him silently.
+
+"Yes, I want to know," said Brennan.
+
+"Know what, exactly?" whispered the figure.
+
+Brennan's face scrunched up in concentration, trying to visualize the game to its end, and hoping he hadn't blown it already; until finally he fell back on the first and last resort, which is the truth:
+
+"It doesn't matter," said Brennan, "the answer is still yes."
+
+The glass gate parted down the middle, and slid, with only the tiniest scraping sound, into the surrounding stone.
+
+The revealed room was lined, wall-to-wall, with figures robed and hooded in light-absorbing cloth.  The straight walls were not themselves black stone, but mirrored, tiling a square grid of dark robes out to infinity in all directions; so that it seemed as if the people of some much vaster city, or perhaps the whole human kind, watched in assembly.  There was a hint of moist warmth in the air of the room, the breath of the gathered: a scent of crowds.
+
+Brennan's guide moved to the center of the square, where burned four torches of that relentless yellow flame.  Brennan followed, and when he stopped, he realized with a slight shock that all the cowled hoods were now looking directly at him.  Brennan had never before in his life been the focus of such absolute attention; it was frightening, but not entirely unpleasant.
+
+"He is here," said the guide in that strange loud whisper.
+
+The endless grid of robed figures replied in one voice: perfectly blended, exactly synchronized, so that not a single individual could be singled out from the rest, and betrayed:
+
+"Who is absent?"
+
+"Jakob Bernoulli," intoned the guide, and the walls replied:
+
+"Is dead but not forgotten."
+
+"Abraham de Moivre,"
+
+"Is dead but not forgotten."
+
+"Pierre-Simon Laplace,"
+
+"Is dead but not forgotten."
+
+"Edwin Thompson Jaynes,"
+
+"Is dead but not forgotten."
+
+"They died," said the guide, "and they are lost to us; but we still have each other, and the project continues."
+
+In the silence, the guide turned to Brennan, and stretched forth a hand, on which rested a small ring of nearly transparent material.
+
+Brennan stepped forward to take the ring—
+
+But the hand clenched tightly shut.
+
+"If three-fourths of the humans in this room are women," said the guide, "and three-fourths of the women and half of the men belong to the Heresy of Virtue, and I am a Virtuist, what is the probability that I am a man?"
+
+"Two-elevenths," Brennan said confidently.
+
+There was a moment of absolute silence.
+
+Then a titter of shocked laughter.
+
+The guide's whisper came again, truly quiet this time, almost nonexistent:  "It's one-sixth, actually."
+
+Brennan's cheeks were flaming so hard that he thought his face might melt off.  The instinct was very strong to run out of the room and up the stairs and flee the city and change his name and start his life over again and get it right this time.
+
+"An honest mistake is at least honest," said the guide, louder now, "and we may know the honesty by its relinquishment.  If I am a Virtuist, what is the probability that I am a man?"
+
+"One—" Brennan started to say.
+
+Then he stopped.  Again, the horrible silence.
+
+"Just say 'one-sixth' already," stage-whispered the figure, this time loud enough for the walls to hear; then there was more laughter, not all of it kind.
+
+Brennan was breathing rapidly and there was sweat on his forehead.  If he was wrong about this, he really was going to flee the city.  "Three fourths women times three fourths Virtuists is nine sixteenths female Virtuists in this room.  One fourth men times one half Virtuists is two sixteenths male Virtuists.  If I have only that information and the fact that you are a Virtuist, I would then estimate odds of two to nine, or a probability of two-elevenths, that you are male.  Though I do not, in fact, believe the information given is correct.  For one thing, it seems too neat.  For another, there are an odd number of people in this room."
+
+The hand stretched out again, and opened.
+
+Brennan took the ring.  It looked almost invisible, in the torchlight; not glass, but some material with a refractive index very close to air.  The ring was warm from the guide's hand, and felt like a tiny living thing as it embraced his finger.
+
+The relief was so great that he nearly didn't hear the cowled figures applauding.
+
+From the robed guide came one last whisper:
+
+"You are now a novice of the Bayesian Conspiracy."
+
+ 
+
+Image:  The Bayesian Master, by Erin Devereux
+===== END STORY fnEWQAYxcRnaYBqaZ =====
+
+===== STORY id=fsDz6HieZJBu54Yes =====
+Title: Zombies: The Movie
+Author: Eliezer Yudkowsky
+Year: 2008
+Karma: 185
+WordCount: 1035
+URL: https://www.lesswrong.com/posts/fsDz6HieZJBu54Yes/zombies-the-movie
+-----
+FADE IN around a serious-looking group of uniformed military officers. At the head of the table, a senior, heavy-set man, GENERAL FRED, speaks.
+
+GENERAL FRED: The reports are confirmed. New York has been overrun... by zombies.
+
+COLONEL TODD: Again? But we just had a zombie invasion 28 days ago!
+
+GENERAL FRED: These zombies... are different. They're... philosophical zombies.
+
+CAPTAIN MUDD: Are they filled with rage, causing them to bite people?
+
+COLONEL TODD: Do they lose all capacity for reason?
+
+GENERAL FRED: No. They behave... exactly like we do... except that they're not conscious.
+
+(Silence grips the table.)
+
+COLONEL TODD: Dear God.
+
+GENERAL FRED moves over to a computerized display.
+
+GENERAL FRED: This is New York City, two weeks ago.
+
+The display shows crowds bustling through the streets, people eating in restaurants, a garbage truck hauling away trash.
+
+GENERAL FRED: This... is New York City... now.
+
+The display changes, showing a crowded subway train, a group of students laughing in a park, and a couple holding hands in the sunlight.
+
+COLONEL TODD: It's worse than I imagined.
+
+CAPTAIN MUDD: How can you tell, exactly?
+
+COLONEL TODD: I've never seen anything so brutally ordinary.
+
+A lab-coated SCIENTIST stands up at the foot of the table.
+
+SCIENTIST: The zombie disease eliminates consciousness without changing the brain in any way. We've been trying to understand how the disease is transmitted. Our conclusion is that, since the disease attacks dual properties of ordinary matter, it must, itself, operate outside our universe. We're dealing with an epiphenomenal virus.
+
+GENERAL FRED: Are you sure?
+
+SCIENTIST: As sure as we can be in the total absence of evidence.
+
+GENERAL FRED: All right. Compile a report on every epiphenomenon ever observed. What, where, and who. I want a list of everything that hasn't happened in the last fifty years.
+
+CAPTAIN MUDD: If the virus is epiphenomenal, how do we know it exists?
+
+SCIENTIST: The same way we know we're conscious.
+
+CAPTAIN MUDD: Oh, okay.
+
+GENERAL FRED: Have the doctors made any progress on finding an epiphenomenal cure?
+
+SCIENTIST: They've tried every placebo in the book. No dice. Everything they do has an effect.
+
+GENERAL FRED: Have you brought in a homeopath?
+
+SCIENTIST: I tried, sir! I couldn't find any!
+
+GENERAL FRED: Excellent. And the Taoists?
+
+SCIENTIST: They refuse to do anything!
+
+GENERAL FRED: Then we may yet be saved.
+
+COLONEL TODD: What about David Chalmers? Shouldn't he be here?
+
+GENERAL FRED: Chalmers... was one of the first victims.
+
+COLONEL TODD: Oh no.
+
+(Cut to the INTERIOR of a cell, completely walled in by reinforced glass, where DAVID CHALMERS paces back and forth.)
+
+DOCTOR: David! David Chalmers! Can you hear me?
+
+CHALMERS: Yes.
+
+NURSE: It's no use, doctor.
+
+CHALMERS: I'm perfectly fine. I've been introspecting on my consciousness, and I can't detect any difference. I know I would be expected to say that, but—
+
+The DOCTOR turns away from the glass screen in horror.
+
+DOCTOR: His words, they... they don't mean anything.
+
+CHALMERS: This is a grotesque distortion of my philosophical views. This sort of thing can't actually happen!
+
+DOCTOR: Why not?
+
+NURSE: Yes, why not?
+
+CHALMERS: Because—
+
+(Cut to two POLICE OFFICERS, guarding a dirt road leading up to the imposing steel gate of a gigantic concrete complex. On their uniforms, a badge reads "BRIDGING LAW ENFORCEMENT AGENCY".)
+
+OFFICER 1: You've got to watch out for those clever bastards. They look like humans. They can talk like humans. They're identical to humans on the atomic level. But they're not human.
+
+OFFICER 2: Scumbags.
+
+The huge noise of a throbbing engine echoes over the hills. Up rides the MAN on a white motorcycle. The MAN is wearing black sunglasses and a black leather business suit with a black leather tie and silver metal boots. His white beard flows in the wind. He pulls to a halt in front of the gate.
+
+The OFFICERS bustle up to the motorcycle.
+
+OFFICER 1: State your business here.
+
+MAN: Is this where you're keeping David Chalmers?
+
+OFFICER 2: What's it to you? You a friend of his?
+
+MAN: Can't say I am. But even zombies have rights.
+
+OFFICER 1: All right, buddy, let's see your qualia.
+
+MAN: I don't have any.
+
+OFFICER 2 suddenly pulls a gun, keeping it trained on the MAN. OFFICER 2: Aha! A zombie!
+
+OFFICER 1: No, zombies claim to have qualia.
+
+OFFICER 2: So he's an ordinary human?
+
+OFFICER 1: No, they also claim to have qualia.
+
+The OFFICERS look at the MAN, who waits calmly.
+
+OFFICER 2: Um...
+
+OFFICER 1: Who are you?
+
+MAN: I'm Daniel Dennett, bitches.
+
+Seemingly from nowhere, DENNETT pulls a sword and slices OFFICER 2's gun in half with a steely noise. OFFICER 1 begins to reach for his own gun, but DENNETT is suddenly standing behind OFFICER 1 and chops with a fist, striking the junction of OFFICER 1's shoulder and neck. OFFICER 1 drops to the ground.
+
+OFFICER 2 steps back, horrified.
+
+OFFICER 2: That's not possible! How'd you do that?
+
+DENNETT: I am one with my body.
+
+DENNETT drops OFFICER 2 with another blow, and strides toward the gate. He looks up at the imposing concrete complex, and grips his sword tighter.
+
+DENNETT (quietly to himself): There is a spoon.
+
+(Cut back to GENERAL FRED and the other military officials.)
+
+GENERAL FRED: I've just received the reports. We've lost Detroit.
+
+CAPTAIN MUDD: I don't want to be the one to say "Good riddance", but—
+
+GENERAL FRED: Australia has been... reduced to atoms.
+
+COLONEL TODD: The epiphenomenal virus is spreading faster. Civilization itself threatens to dissolve into total normality. We could be looking at the middle of humanity.
+
+CAPTAIN MUDD: Can we negotiate with the zombies?
+
+GENERAL FRED: We've sent them messages. They sent only a single reply.
+
+CAPTAIN MUDD: Which was...?
+
+GENERAL FRED: It's on its way now.
+
+An orderly brings in an envelope, and hands it to GENERAL FRED.
+
+GENERAL FRED opens the envelope, takes out a single sheet of paper, and reads it.
+
+Silence envelops the room.
+
+CAPTAIN MUDD: What's it say?
+
+GENERAL FRED: It says... that we're the ones with the virus.
+
+(A silence falls.)
+
+COLONEL TODD raises his hands and stares at them.
+
+COLONEL TODD: My God, it's true. It's true. I...
+
+(A tear rolls down COLONEL TODD's cheek.)
+
+COLONEL TODD: I don't feel anything.
+
+The screen goes black.
+
+The sound goes silent.
+
+The movie continues exactly as before.
+
+ 
+
+ PS: This is me being attacked by zombie nurses at Penguicon.
+
+Only at a combination science fiction and open-source convention would it be possible to attend a session on knife-throwing, cry "In the name of Bayes, die!", throw the knife, and then have a fellow holding a wooden shield say, "Yes, but how do you determine the prior for where the knife hits?"
+===== END STORY fsDz6HieZJBu54Yes =====
+
+===== STORY id=ZxR8P8hBFQ9kC8wMy =====
+Title: The Failures of Eld Science
+Author: Eliezer Yudkowsky
+Year: 2008
+Karma: 116
+WordCount: 2732
+URL: https://www.lesswrong.com/posts/ZxR8P8hBFQ9kC8wMy/the-failures-of-eld-science
+-----
+This time there were no robes, no hoods, no masks. Students were expected to become friends, and allies. And everyone knew why you were in the classroom. It would have been pointless to pretend you weren't in the Conspiracy.
+
+Their sensei was Jeffreyssai, who might have been the best of his era, in his era. His students were either the most promising learners, or those whom the beisutsukai saw political advantage in molding.
+
+Brennan fell into the latter category, and knew it. Nor had he hesitated to use his Mistress's name to open doors. You used every avenue available to you, in seeking knowledge; that was respected here. 
+
+"—for over thirty years," Jeffreyssai said. "Not one of them saw it; not Einstein, not Schrödinger, not even von Neumann." He turned away from his sketcher, and toward the classroom. "I pose to you to the question: How did they fail?"
+
+The students exchanged quick glances, a calculus of mutual risk between the wary and the merely baffled. Jeffreyssai was known to play games.
+
+Finally Hiriwa-called-the-Black leaned forward, jangling slightly as her equation-carved bracelets shifted on her ankles. "By your years given, sensei, this was two hundred and fifty years after Newton. Surely, the scientists of that era must have grokked the concept of a universal law."
+
+"Knowing the universal law of gravity," said the student Taji, from a nearby seat, "is not the same as understanding the concept of a universal law." He was one of the promising ones, as was Hiriwa.
+
+Hiriwa frowned. "No... it was said that Newton had been praised for discovering the first universal. Even in his own era. So it was known." Hiriwa paused. "But Newton himself would have been gone. Was there a religious injunction against proposing further universals? Did they refrain out of respect for Newton, or were they waiting for his ghost to speak? I am not clear on how Eld science was motivated—"
+
+"No," murmured Taji, a laugh in his voice, "you really, really aren't."
+
+Jeffreyssai's expression was kindly. "Hiriwa, it wasn't religion, and it wasn't lead in the drinking water, and they didn't all have Alzheimers, and they weren't sitting around all day reading webcomics. Forget the catalogue of horrors out of ancient times. Just think in terms of cognitive errors. What could Eld science have been thinking wrong?"
+
+Hiriwa sat back with a sigh. "Sensei, I truly cannot imagine a snafu that would do that."
+
+"It wouldn't be just one mistake," Taji corrected her. "As the saying goes: Mistakes don't travel alone; they hunt in packs."
+
+"But the entire human species?" said Hiriwa. "Thirty years?"
+
+"It wasn't the entire human species, Hiriwa," said Styrlyn. He was one of the older-looking students, wearing a short beard speckled in grey. "Maybe one in a hundred thousand could have written out Schrödinger's Equation from memory. So that would have been their first and primary error—failure to concentrate their forces."
+
+"Spare us the propaganda!" Jeffreyssai's gaze was suddenly fierce. "You are not here to proselytize for the Cooperative Conspiracy, my lord politician! Bend not the truth to make your points! I believe your Conspiracy has a phrase: 'Comparative advantage.' Do you really think that it would have helped to call in the whole human species, as it existed at that time, to debate quantum physics?"
+
+Styrlyn didn't flinch. "Perhaps not, sensei," he said. "But if you are to compare that era to this one, it is a consideration."
+
+Jeffreyssai moved his hand flatly through the air; the maybe-gesture he used to dismiss an argument that was true but not relevant. "It is not what I would call a primary mistake. The puzzle should not have required a billion physicists to solve."
+
+"I can think of more specific ancient horrors," said Taji. "Spending all day writing grant proposals. Teaching undergraduates who would rather be somewhere else. Needing to publish thirty papers a year to get tenure..."
+
+"But we are not speaking of only the lower-status scientists," said Yin; she wore a slightly teasing grin. "It was said of Schrödinger that he retired to a villa for a month, with his mistress to provide inspiration, and emerged with his eponymous equation. We consider it a famous historical success of our methodology. Some Eld physicists did understand how to focus their mental energies; and would have been senior enough to do so, had they chose."
+
+"True," Taji said. "In the end, administrative burdens are only a generic obstacle. Likewise such answers as, 'They were not trained in probability theory, and did not know of cognitive biases.' Our sensei seems to desire some more specific reply."
+
+Jeffreyssai lifted an eyebrow encouragingly. "Don't dismiss your line of thought so quickly, Taji; it begins to be relevant. What kind of system would create administrative burdens on its own people?"
+
+"A system that failed to support its people adequately," said Styrlyn. "One that failed to value their work."
+
+"Ah," said Jeffreyssai. "But there is a student who has not yet spoken. Brennan?"
+
+Brennan didn't jump. He deliberately waited just long enough to show he wasn't scared, and then said, "Lack of pragmatic motivation, sensei."
+
+Jeffreyssai smiled slightly. "Expand."
+
+What kind of system would create administrative burdens on its own people?, their sensei had asked them. The other students were pursuing their own lines of thought. Brennan, hanging back, had more attention to spare for his teacher's few hints. Being the beginner wasn't always a disadvantage—and he had been taught, long before the Bayesians took him in, to take every available advantage.
+
+"The Manhattan Project," Brennan said, "was launched with a specific technological end in sight: a weapon of great power, in time of war. But the error that Eld Science committed with respect to quantum physics had no immediate consequences for their technology. They were confused, but they had no desperate need for an answer. Otherwise the surrounding system would have removed all burdens from their effort to solve it. Surely the Manhattan Project must have done so—Taji? Do you know?"
+
+Taji looked thoughtful. "Not all burdens—but I'm pretty sure they weren't writing grant proposals in the middle of their work."
+
+"So," Jeffreyssai said. He advanced a few steps, stood directly in front of Brennan's desk. "You think Eld scientists simply weren't trying hard enough. Because their art had no military applications? A rather competitive point of view, I should think."
+
+"Not necessarily," Brennan said calmly. "Pragmatism is a virtue of rationality also. A desired use for a better quantum theory, would have helped the Eld scientists in many ways beyond just motivating them. It would have given shape to their curiosity, and told them what constituted success or failure."
+
+Jeffreyssai chuckled slightly. "Don't guess so hard what I might prefer to hear, Competitor. Your first statement came closer to my hidden mark; your oh-so-Bayesian disclaimer fell wide... The factor I had in mind, Brennan, was that Eld scientists thought it was acceptable to take thirty years to solve a problem. Their entire social process of science was based on getting to the truth eventually. A wrong theory got discarded eventually—once the next generation of students grew up familiar with the replacement. Work expands to fill the time allotted, as the saying goes. But people can think important thoughts in far less than thirty years, if they expect speed of themselves." Jeffreyssai suddenly slammed down a hand on the arm of Brennan's chair. "How long do you have to dodge a thrown knife?"
+
+"Very little time, sensei!"
+
+"Less than a second! Two opponents are attacking you! How long do you have to guess who's more dangerous?"
+
+"Less than a second, sensei!"
+
+"The two opponents have split up and are attacking two of your girlfriends! How long do you have to decide which one you truly love?"
+
+"Less than a second, sensei!'
+
+"A new argument shows your precious theory is flawed! How long does it take you to change your mind?"
+
+"Less than a second, sensei!"
+
+"WRONG! DON'T GIVE ME THE WRONG ANSWER JUST BECAUSE IT FITS A CONVENIENT PATTERN AND I SEEM TO EXPECT IT OF YOU! How long does it really take, Brennan?"
+
+Sweat was forming on Brennan's back, but he stopped and actually thought about it—
+
+"ANSWER, BRENNAN!"
+
+"No sensei! I'm not finished thinking sensei! An answer would be premature! Sensei!"
+
+"Very good! Continue! But don't take thirty years!"
+
+Brennan breathed deeply, reforming his thoughts. He finally said, "Realistically, sensei, the best-case scenario is that I would see the problem immediately; use the discipline of suspending judgment; try to re-accumulate all the evidence before continuing; and depending on how emotionally attached I had been to the theory, use the crisis-of-belief technique to ensure I could genuinely go either way. So at least five minutes and perhaps up to an hour."
+
+"Good! You actually thought about it that time! Think about it every time! Break patterns! In the days of Eld Science, Brennan, it was not uncommon for a grant agency to spend six months reviewing a proposal. They permitted themselves the time! You are being graded on your speed, Brennan! The question is not whether you get there eventually! Anyone can find the truth in five thousand years! You need to move faster!"
+
+"Yes, sensei!"
+
+"Now, Brennan, have you just learned something new?"
+
+"Yes, sensei!"
+
+"How long did it take you to learn this new thing?"
+
+An arbitrary choice there... "Less than a minute, sensei, from the boundary that seems most obvious."
+
+"Less than a minute," Jeffreyssai repeated. "So, Brennan, how long do you think it should take to solve a major scientific problem, if you are not wasting any time?"
+
+Now there was a trapped question if Brennan had ever heard one. There was no way to guess what time period Jeffreyssai had in mind—what the sensei would consider too long, or too short. Which meant that the only way out was to just try for the genuine truth; this would offer him the defense of honesty, little defense though it was. "One year, sensei?"
+
+"Do you think it could be done in one month, Brennan? In a case, let us stipulate, where in principle you already have enough experimental evidence to determine an answer, but not so much experimental evidence that you can afford to make errors in interpreting it."
+
+Again, no way to guess which answer Jeffreyssai might want... "One month seems like an unrealistically short time to me, sensei."
+
+"A short time?" Jeffreyssai said incredulously. "How many minutes in thirty days? Hiriwa?"
+
+"43200, sensei," she answered. "If you assume sixteen-hour waking periods and daily sleep, then 28800 minutes."
+
+"Assume, Brennan, that it takes five whole minutes to think an original thought, rather than learning it from someone else. Does even a major scientific problem require 5760 distinct insights?"
+
+"I confess, sensei," Brennan said slowly, "that I have never thought of it that way before... but do you tell me that is truly a realistic level of productivity?"
+
+"No," said Jeffreyssai, "but neither is it realistic to think that a single problem requires 5760 insights. And yes, it has been done."
+
+Jeffreyssai stepped back, and smiled benevolently. Every student in the room stiffened; they knew that smile. "Though none of you hit the particular answer that I had in mind, nonetheless your answers were as reasonable as mine. Except Styrlyn's, I'm afraid. Even Hiriwa's answer was not entirely wrong: the task of proposing new theories was once considered a sacred duty reserved for those of high status, there being a limited supply of problems in circulation, at that time. But Brennan's answer is particularly interesting, and I am minded to test his theory of motivation."
+
+Oh, hell, Brennan said silently to himself. Jeffreyssai was gesturing for Brennan to stand up before the class.
+
+When Brenann had risen, Jeffreyssai neatly seated himself in Brennan's chair.
+
+"Brennan-sensei," Jeffreyssai said, "you have five minutes to think of something stunningly brilliant to say about the failure of Eld science on quantum physics. As for the rest of us, our job will be to gaze at you expectantly. I can only imagine how embarrassing it will be, should you fail to think of anything good."
+
+Bastard. Brennan didn't say it aloud. Taji's face showed a certain amount of sympathy; Styrlyn held himself aloof from the game; but Yin was looking at him with sardonic interest. Worse, Hiriwa was gazing at him expectantly, assuming that he would rise to the challenge. And Jeffreyssai was gawking wide-eyed, waiting for the guru's words of wisdom. Screw you, sensei.
+
+Brennan didn't panic. It was very, very, very far from being the scariest situation he'd ever faced. He took a moment to decide how to think; then thought.
+
+At four minutes and thirty seconds, Brennan spoke. (There was an art to such things; as long as you were doing it anyway, you might as well make it look easy.)
+
+"A woman of wisdom," Brennan said, "once told me that it is wisest to regard our past selves as fools beyond redemption—to see the people we once were as idiots entire. I do not necessarily say this myself; but it is what she said to me, and there is more than a grain of truth in it. As long as we are making excuses for the past, trying to make it look better, respecting it, we cannot make a clean break. It occurs to me that the rule may be no different for human civilizations. So I tried looking back and considering the Eld scientists as simple fools."
+
+"Which they were not," Jeffreyssai said.
+
+"Which they were not," Brennan continued. "In terms of raw intelligence, they undoubtedly exceeded me. But it occurred to me that a difficulty in seeing what Eld scientists did wrong, might have been in respecting the ancient and legendary names too highly. And that did indeed produce an insight."
+
+"Enough introduction, Brennan," said Jeffreyssai. "If you found an insight, state it."
+
+"Eld scientists were not trained..." Brennan paused. "No, untrained is not the concept. They were trained for the wrong task. At that time, there were no Conspiracies, no secret truths; as soon as Eld scientists solved a major problem, they published the solution to the world and each other. Truly scary and confusing open problems would have been in extremely rare supply, and used up the moment they were solved. So it would not have been possible to train Eld researchers to bring order out of scientific chaos. They would have been trained for something else—I'm not sure what—"
+
+"Trained to manipulate whatever science had already been discovered," said Taji. "It was a difficult enough task for Eld teachers to train their students to use existing knowledge, or follow already-known methodologies; that was all Eld science teachers aspired to impart."
+
+Brennan nodded. "Which is a very different matter from creating new science of their own. The Eld scientists faced with problems of quantum theory, might never have faced that kind of fear before—the dismay of not knowing. The Eld scientists might have seized on unsatisfactory answers prematurely, because they were accustomed to working with a neat, agreed-upon body of knowledge."
+
+"Good, Brennan," murmured Jeffreyssai.
+
+"But above all," Brennan continued, "an Eld scientist couldn't have practiced the actual problem the quantum scientists faced—that of resolving a major confusion. It was something you did once per lifetime if you were lucky, and as Hiriwa observed, Newton would no longer have been around. So while the Eld physicists who messed up quantum theory were not unintelligent, they were, in a strong sense, amateurs—ad-libbing the whole process of paradigm shift."
+
+"And no probability theory," Hiriwa noted. "So anyone who did succeed at the problem would have no idea what they'd just done. They wouldn't be able to communicate it to anyone else, except vaguely."
+
+"Yes," Styrlyn said. "And it was only a handful of people who could tackle the problem at all, with no training in doing so; those are the physicists whose names have passed down to us. A handful of people, making a handful of discoveries each. It would not have been enough to sustain a community. Each Eld scientist tackling a new paradigm shift would have needed to rediscover the rules from scratch."
+
+Jeffreyssai rose from Brenann's desk. "Acceptable, Brennan; you surprise me, in fact. I shall have to give further thought to this method of yours." Jeffreyssai went to the classroom door, then looked back. "However, I did have in mind at least one other major flaw of Eld science, which none of you suggested. I expect to receive a list of possible flaws tomorrow. I expect the flaw I have in mind to be on the list. You have 480 minutes, excluding sleep time. I see five of you here. The challenge does not require more than 480 insights to solve, nor more than 96 insights in series."
+
+And Jeffreyssai left the room.
+===== END STORY ZxR8P8hBFQ9kC8wMy =====
+
+===== STORY id=xAXrEpF5FYjwqKMfZ =====
+Title: Class Project
+Author: Eliezer Yudkowsky
+Year: 2008
+Karma: 73
+WordCount: 1254
+URL: https://www.lesswrong.com/posts/xAXrEpF5FYjwqKMfZ/class-project
+-----
+"Do as well as Einstein?" Jeffreyssai said, incredulously. "Just as well as Einstein? Albert Einstein was a great scientist of his era, but that was his era, not this one! Einstein did not comprehend the Bayesian methods; he lived before the cognitive biases were discovered; he had no scientific grasp of his own thought processes. Einstein spoke nonsense of an impersonal God—which tells you how well he understood the rhythm of reason, to discard it outside his own field! He was too caught up in the drama of rejecting his era's quantum mechanics to actually fix it. And while I grant that Einstein reasoned cleanly in the matter of General Relativity—barring that matter of the cosmological constant—he took ten years to do it. Too slow!"
+
+"Too slow?" repeated Taji incredulously.
+
+"Too slow! If Einstein were in this classroom now, rather than Earth of the negative first century, I would rap his knuckles! You will not try to do as well as Einstein! You will aspire to do BETTER than Einstein or you may as well not bother!"
+
+Jeffreyssai shook his head. "Well, I've given you enough hints. It is time to test your skills. Now, I know that the other beisutsukai don't think much of my class projects..." Jeffreyssai paused significantly.
+
+Brennan inwardly sighed. He'd heard this line many times before, in the Bardic Conspiracy, the Competitive Conspiracy: The other teachers think my assignments are too easy, you should be grateful, followed by some ridiculously difficult task—
+
+"They say," Jeffreyssai said, "that my projects are too hard; insanely hard; that they pass from the realm of madness into the realm of Sparta; that Laplace himself would catch on fire; they accuse me of trying to tear apart my students' souls—"
+
+Oh, crap.
+
+"But there is a reason," Jeffreyssai said, "why many of my students have achieved great things; and by that I do not mean high rank in the Bayesian Conspiracy. I expected much of them, and they came to expect much of themselves. So..."
+
+Jeffreyssai took a moment to look over his increasingly disturbed students, "Here is your assignment. Of quantum mechanics, and General Relativity, you have been told. This is the limit of Eld science, and hence, the limit of public knowledge. The five of you, working on your own, are to produce the correct theory of quantum gravity. Your time limit is one month."
+
+"What?" said Brennan, Taji, Styrlyn, and Yin. Hiriwa gave them a puzzled look.
+
+"Should you succeed," Jeffreyssai continued, "you will be promoted to beisutsukai of the second dan and sixth level. We will see if you have learned speed. Your clock starts—now."
+
+And Jeffreyssai strode out of the room, slamming the door behind him.
+
+"This is crazy!" Taji cried.
+
+Hiriwa looked at Taji, bemused. "The solution is not known to us. How can you know it is so difficult?"
+
+"Because we knew about this problem back in the Eld days! Eld scientists worked on this problem for a lot longer than one month."
+
+Hiriwa shrugged. "They were still arguing about many-worlds too, weren't they?"
+
+"Enough! There's no time!"
+
+The other four students looked to Styrlyn, remembering that he was said to rank high in the Cooperative Conspiracy. There was a brief moment of weighing, of assessing, and then Styrlyn was their leader.
+
+Styrlyn took a great breath. "We need a list of approaches. Write down all the angles you can think of. Independently—we need your individual components before we start combining. In five minutes, I'll ask each of you for your best idea first. No wasted thoughts! Go!"
+
+Brennan grabbed a sheet and his tracer, set the tip to the surface, and then paused. He couldn't think of anything clever to say about unifying general relativity and quantum mechanics...
+
+The other students were already writing.
+
+Brennan tapped the tip, once, twice, thrice. General relativity and quantum mechanics...
+
+Taji put his first sheet aside, grabbed another.
+
+Finally, Brennan, for lack of anything clever to say, wrote down the obvious.
+
+Minutes later, when Styrlyn called time, it was still all he had written.
+
+"All right," Styrlyn said, "your best idea. Or the idea you most want the rest of us to take into account in our second components. Taji, go!"
+
+Taji looked over his sheets. "Okay, I think we've got to assume that every avenue that Eld science was trying is a blind alley, or they would have found it. And if this is possible to do in one month, the answer must be, in some sense, elegant. So no multiple dimensions. If we start doing anything that looks like we should call it 'string theory', we'd better stop. Maybe begin by considering how failure to understand decoherence could have led Eld science astray in quantizing gravity."
+
+"The opposite of folly is folly," Hiriwa said. "Let us pretend that Eld science never existed."
+
+"No criticisms yet!" said Styrlyn. "Hiriwa, your suggestion?"
+
+"Get rid of the infinities," said Hiriwa, "extirpate that which permits them. It should not be a matter of cleverness with integrals. A representation that allows infinity must be false-to-fact."
+
+"Yin."
+
+"We know from common sense," Yin said, "that if we stepped outside the universe, we would see time laid out all at once, reality like a crystal. But I once encountered a hint that physics is timeless in a deeper sense than that." Yin's eyes were distant, remembering. "Years ago, I found an abandoned city; it had been uninhabited for eras, I think. And behind a door whose locks were broken, carved into one wall: quote .ua sai .ei mi vimcu ty bu le mekso unquote."
+
+Brennan translated: Eureka! Eliminate t from the equations. And written in Lojban, the sacred language of science, which meant the unknown writer had thought it to be true.
+
+"The 'timeless physics' of which we've all heard rumors," Yin said, "may be timeless in a very literal sense."
+
+"My own contribution," Styrlyn said. "The quantum physics we've learned is over joint positional configurations. It seems like we should be able to take that apart into a spatially local representation, in terms of invariant distant entanglements. Finding that representation might help us integrate with general relativity, whose curvature is local."
+
+"A strangely individualist perspective," Taji murmured, "for one of the Cooperative Conspiracy."
+
+Styrlyn shook his head. "You misunderstand us, then. The first lesson we learn is that groups are made of people... no, there is no time for politics. Brennan!"
+
+Brennan shrugged. "Not much, I'm afraid, only the obvious. Inertial mass-energy was always observed to equal gravitational mass-energy, and Einstein showed that they were necessarily the same. So why is the 'energy' that is an eigenvalue of the quantum Hamiltonian, necessarily the same as the 'energy' quantity that appears in the equations of General Relativity? Why should spacetime curve at the same rate that the little arrows rotate?"
+
+There was a brief pause.
+
+Yin frowned. "That seems too obvious. Wouldn't Eld science have figured it out already?"
+
+"Forget Eld science existed," Hiriwa said. "The question stands: we need the answer, whether it was known in ancient times or not. It cannot possibly be coincidence."
+
+Taji's eyes were abstracted. "Perhaps it would be possible to show that an exception to the equality would violate some conservation law..."
+
+"That is not where Brennan pointed," Hiriwa interrupted. "He did not ask for a proof that they must be set equal, given some appealing principle; he asked for a view in which the two are one and cannot be divided even conceptually, as was accomplished for inertial mass-energy and gravitational mass-energy. For we must assume that the beauty of the whole arises from the fundamental laws, and not the other way around. Fair-rephrasing?"
+
+"Fair-rephrasing," Brennan replied.
+
+Silence reigned for thirty-seven seconds, as the five pondered the five suggestions.
+
+"I have an idea..."
+===== END STORY xAXrEpF5FYjwqKMfZ =====
+
+===== STORY id=kXAb5riiaJNrfR8v8 =====
+Title: The Ritual
+Author: Eliezer Yudkowsky
+Year: 2008
+Karma: 132
+WordCount: 1399
+URL: https://www.lesswrong.com/posts/kXAb5riiaJNrfR8v8/the-ritual
+-----
+The room in which Jeffreyssai received his non-beisutsukai visitors was quietly formal, impeccably appointed in only the most conservative tastes. Sunlight and outside air streamed through a grillwork of polished silver, a few sharp edges making it clear that this wall was not to be opened. The floor and walls were glass, thick enough to distort, to a depth sufficient that it didn’t matter what might be underneath. Upon the surfaces of the glass were subtly scratched patterns of no particular meaning, scribed as if by the hand of an artistically inclined child (and this was in fact the case).
+
+Elsewhere in Jeffreyssai’s home there were rooms of other style; but this, he had found, was what most outsiders expected of a Bayesian Master, and he chose not to enlighten them otherwise. That quiet amusement was one of life’s little joys, after all.
+
+The guest sat across from him, knees on the pillow and heels behind. She was here solely upon the business of her Conspiracy, and her attire showed it: a form-fitting jumpsuit of pink leather with even her hands gloved—all the way to the hood covering her head and hair, though her face lay plain and unconcealed beneath.
+
+And so Jeffreyssai had chosen to receive her in this room.
+
+Jeffreyssai let out a long breath, exhaling. “Are you sure?”
+
+“Oh,” she said, “and do I have to be absolutely certain before my advice can shift your opinions? Does it not suffice that I am a domain expert, and you are not?”
+
+Jeffreyssai’s mouth twisted up at the corner in a half-smile. “How do you know so much about the rules, anyway? You’ve never had so much as a Planck length of formal training.”
+
+“Do you even need to ask?” she said dryly. “If there’s one thing that you beisutsukai do love to go on about, it’s the reasons why you do things.”
+
+Jeffreyssai inwardly winced at the thought of trying to pick up rationality by watching other people talk about it—
+
+“And don’t inwardly wince at me like that,” she said. “I’m not trying to be a rationalist myself, just trying to win an argument with a rationalist. There’s a difference, as I’m sure you tell your students.”
+
+Can she really read me that well? Jeffreyssai looked out through the silver grillwork, at the sunlight reflected from the faceted mountainside. Always, always the golden sunlight fell each day, in this place far above the clouds. An unchanging thing, that light. The distant Sun, which that light represented, was in five billion years burned out; but now, in this moment, the Sun still shone. And that could never alter. Why wish for things to stay the same way forever, when that wish was already granted as absolutely as any wish could be? The paradox of permanence and impermanence: only in the latter perspective was there any such thing as progress, or loss.
+
+“You have always given me good counsel,” Jeffreyssai said. “Unchanging, that has been. Through all the time we’ve known each other.”
+
+She inclined her head, acknowledging. This was true, and there was no need to spell out the implications.
+
+“So,” Jeffreyssai said. “Not for the sake of arguing. Only because I want to know the answer. Are you sure?” He didn’t even see how she could guess.
+
+“Pretty sure,” she said, “we’ve been collecting statistics for a long time, and in nine hundred and eighty-five out of a thousand cases like yours—”
+
+Then she laughed at the look on his face. “No, I’m joking. Of course I’m not sure. This thing only you can decide. But I am sure that you should go off and do whatever it is you people do—I’m quite sure you have a ritual for it, even if you won’t discuss it with outsiders—when you very seriously consider abandoning a long-held premise of your existence.”
+
+It was hard to argue with that, Jeffreyssai reflected, the more so when a domain expert had told you that you were, in fact, probably wrong.
+
+“I concede,” Jeffreyssai said. Coming from his lips, the phrase was spoken with a commanding finality. There is no need to argue with me any further: you have won.
+
+“Oh, stop it,” she said. She rose from her pillow in a single fluid shift without the slightest wasted motion. She didn’t flaunt her age, but she didn’t conceal it either. She took his outstretched hand, and raised it to her lips for a formal kiss. “Farewell, sensei.”
+
+“Farewell?” repeated Jeffreyssai. That signified a higher order of departure than goodbye. “I do intend to visit you again, milady; and you are always welcome here.”
+
+She walked toward the door without answering. At the doorway she paused, without turning around. “It won’t be the same,” she said. And then, without the movements seeming the least rushed, she walked away so swiftly it was almost like vanishing.
+
+Jeffreyssai sighed. But at least, from here until the challenge proper, all his actions were prescribed, known quantities.
+
+Leaving that formal reception area, he passed to his arena, and caused to be sent out messengers to his students, telling them that the next day’s classes must be improvised in his absence, and that there would be a test later.
+
+And then he did nothing in particular. He read another hundred pages of the textbook he had borrowed; it wasn’t very good, but then the book he had loaned out in exchange wasn’t very good either. He wandered from room to room of his house, idly checking various storages to see if anything had been stolen (a deck of cards was missing, but that was all). From time to time his thoughts turned to tomorrow’s challenge, and he let them drift. Not directing his thoughts at all, only blocking out every thought that had ever previously occurred to him; and disallowing any kind of conclusion, or even any thought as to where his thoughts might be trending.
+
+The sun set, and he watched it for a while, mind carefully put in idle. It was a fantastic balancing act to set your mind in idle without having to obsess about it, or exert energy to keep it that way; and years ago he would have sweated over it, but practice had long since made perfect.
+
+The next morning he awoke with the chaos of the night’s dreaming fresh in his mind, and, doing his best to preserve the feeling of the chaos as well as its memory, he descended a flight of stairs, then another flight of stairs, then a flight of stairs after that, and finally came to the least fashionable room in his whole house.
+
+It was white. That was pretty much it as far as the color scheme went.
+
+All along a single wall were plaques, which, following the classic and suggested method, a younger Jeffreyssai had very carefully scribed himself, burning the concepts into his mind with each touch of the brush that wrote the words. That which can be destroyed by the truth should be. People can stand what is true, for they are already enduring it. Curiosity seeks to annihilate itself. Even one small plaque that showed nothing except a red horizontal slash. Symbols could be made to stand for anything; a flexibility of visual power that even the Bardic Conspiracy would balk at admitting outright.
+
+Beneath the plaques, two sets of tally marks scratched into the wall. Under the plus column, two marks. Under the minus column, five marks. Seven times he had entered this room; five times he had decided not to change his mind; twice he had exited something of a different person. There was no set ratio prescribed, or set range—that would have been a mockery indeed. But if there were no marks in the plus column after a while, you might as well admit that there was no point in having the room, since you didn’t have the ability it stood for. Either that, or you’d been born knowing the truth and right of everything.
+
+Jeffreyssai seated himself, not facing the plaques, but facing away from them, at the featureless white wall. It was better to have no visual distractions.
+
+In his mind, he rehearsed first the meta-mnemonic, and then the various sub-mnemonics referenced, for the seven major principles and sixty-two specific techniques that were most likely to prove needful in the Ritual Of Changing One’s Mind. To this, Jeffreyssai added another mnemonic, reminding himself of his own fourteen most embarrassing oversights.
+
+He did not take a deep breath. Regular breathing was best.
+
+And then he asked himself the question.
+===== END STORY kXAb5riiaJNrfR8v8 =====
+
+===== STORY id=ctpkTaqTKbmm6uRgC =====
+Title: Failed Utopia #4-2
+Author: Eliezer Yudkowsky
+Year: 2009
+Karma: 159
+WordCount: 2792
+URL: https://www.lesswrong.com/posts/ctpkTaqTKbmm6uRgC/failed-utopia-4-2
+-----
+Shock after shock after shock— 
+    First, the awakening adrenaline jolt, the thought that he was falling.  His body tried to sit up in automatic adjustment, and his hands hit the floor to steady himself.  It launched him into the air, and he fell back to the floor too slowly. 
+    Second shock.  His body had changed.  Fat had melted away in places, old scars had faded; the tip of his left ring finger, long ago lost to a knife accident, had now suddenly returned. 
+    And the third shock— 
+    "I had nothing to do with it!" she cried desperately, the woman huddled in on herself in one corner of the windowless stone cell.  Tears streaked her delicate face, fell like slow raindrops into the décolletage of her dress.  "Nothing!  Oh, you must believe me!" 
+    With perceptual instantaneity—the speed of surprise—his mind had already labeled her as the most beautiful woman he'd ever met, including his wife.
+
+    A long white dress concealed most of her, though it left her shoulders naked; and her bare ankles, peeking out from beneath the mountains of her drawn-up knees, dangled in sandals.  A light touch of gold like a webbed tiara decorated that sun-blonde hair, which fell from her head to pool around her weeping huddle.  Fragile crystal traceries to accent each ear, and a necklace of crystal links that reflected colored sparks like a more prismatic edition of diamond.  Her face was beyond all dreams and imagination, as if a photoshop had been photoshopped. 
+    She looked so much the image of the Forlorn Fairy Captive that one expected to see the borders of a picture frame around her, and a page number over her head. 
+    His lips opened, and without any thought at all, he spoke: 
+    "Wha-wha-wha-wha-wha-" 
+    He shut his mouth, aware that he was acting like an idiot in front of the girl. 
+    "You don't know?" she said, in a tone of shock.  "It didn't—you don't already know?" 
+    "Know what?" he said, increasingly alarmed. 
+    She scrambled to her feet (one arm holding the dress carefully around her legs) and took a step toward him, each of the motions almost overloading his vision with gracefulness.  Her hand rose out, as if to plead or answer a plea—and then she dropped the hand, and her eyes looked away. 
+    "No," she said, her voice trembling as though in desperation.  "If I'm the one to tell you—you'll blame me, you'll hate me forever for it.  And I don't deserve that, I don't!  I am only just now here —oh, why did it have to be like this?" 
+    Um, he thought but didn't say.  It was too much drama, even taking into account the fact that they'd been kidnapped— 
+    (he looked down at his restored hand, which was minus a few wrinkles, and plus the tip of a finger) 
+   —if that was even the beginning of the story. 
+    He looked around.  They were in a solid stone cell without windows, or benches or beds, or toilet or sink.  It was, for all that, quite clean and elegant, without a hint of dirt or ordor; the stones of the floor and wall looked rough-hewn or even non-hewn, as if someone had simply picked up a thousand dark-red stones with one nearly flat side, and mortared them together with improbably perfectly-matching, naturally-shaped squiggled edges.  The cell was well if harshly lit from a seablue crystal embedded in the ceiling, like a rogue element of a fluorescent chandelier.  It seemed like the sort of dungeon cell you would discover if dungeon cells were naturally-forming geological features. 
+    And they and the cell were falling, falling, endlessly slowly falling like the heart-stopping beginning of a stumble, falling without the slightest jolt. 
+    On one wall there was a solid stone door without an aperture, whose locked-looking appearance was only enhanced by the lack of any handle on this side. 
+    He took it all in at a glance, and then looked again at her. 
+    There was something in him that just refused to go into a screaming panic for as long as she was watching. 
+    "I'm Stephen," he said.  "Stephen Grass.  And you would be the princess held in durance vile, and I've got to break us out of here and rescue you?"  If anyone had ever looked that part... 
+    She smiled at him, half-laughing through the tears.  "Something like that." 
+    There was something so attractive about even that momentary hint of a smile that he became instantly uneasy, his eyes wrenched away to the wall as if forced.  She didn't look she was trying to be seductive... any more than she looked like she was trying to breathe...  He suddenly distrusted, very much, his own impulse to gallantry. 
+    "Well, don't get any ideas about being my love interest," Stephen said, looking at her again.  Trying to make the words sound completely lighthearted, and absolutely serious at the same time.  "I'm a happily married man." 
+    "Not anymore."  She said those two words and looked at him, and in her tone and expression there was sorrow, sympathy, self-disgust, fear, and above it all a note of guilty triumph. 
+    For a moment Stephen just stood, stunned by the freight of emotion that this woman had managed to put into just those two words, and then the words' meaning hit him. 
+    "Helen," he said.  His wife—Helen's image rose into his mind, accompanied by everything she meant to him and all their time together, all the secrets they'd whispered to one another and the promises they'd made—that all hit him at once, along with the threat.  "What happened to Helen—what have you done—" 
+    "She has done nothing."  An old, dry voice like crumpling paper from a thousand-year-old book. 
+    Stephen whirled, and there in the cell with them was a withered old person with dark eyes.  Shriveled in body and voice, so that it was impossible to determine if it had once been a man or a woman, and in any case you were inclined to say "it".  A pitiable, wretched thing, that looked like it would break with one good kick; it might as well have been wearing a sign saying "VILLAIN". 
+    "Helen is alive," it said, "and so is your daughter Lisa.  They are quite well and healthy, I assure you, and their lives shall be long and happy indeed.  But you will not be seeing them again.  Not for a long time, and by then matters between you will have changed.  Hate me if you wish, for I am the one who wants to do this to you." 
+    Stephen stared. 
+    Then he politely said, "Could someone please put everything on hold for one minute and tell me what's going on?" 
+    "Once upon a time," said the wrinkled thing, "there was a fool who was very nearly wise, who hunted treasure by the seashore, for there was a rumor that there was great treasure there to be found.  The wise fool found a lamp and rubbed it, and lo! a genie appeared before him—a young genie, an infant, hardly able to grant any wishes at all.  A lesser fool might have chucked the lamp back into the sea; but this fool was almost wise, and he thought he saw his chance.  For who has not heard the tales of wishes misphrased and wishes gone wrong?  But if you were given a chance to raise your own genie from infancy—ah, then it might serve you well." 
+    "Okay, that's great," Stephen said, "but why am I—" 
+    "So," it continued in that cracked voice, "the wise fool took home the lamp.  For years he kept it as a secret treasure, and he raised the genie and fed it knowledge, and also he crafted a wish.  The fool's wish was a noble thing, for I have said he was almost wise.  The fool's wish was for people to be happy.  Only this was his wish, for he thought all other wishes contained within it.  The wise fool told the young genie the famous tales and legends of people who had been made happy, and the genie listened and learned: that unearned wealth casts down a person, but hard work raises you high; that mere things are soon forgotten, but love is a light throughout all your days.  And the young genie asked about other ways that it innocently imagined, for making people happy.  About drugs, and pleasant lies, and lives arranged from outside like words in a poem.  And the wise fool made the young genie to never want to lie, and never want to arrange lives like flowers, and above all, never want to tamper with the mind and personality of human beings.  The wise fool gave the young genie exactly one hundred and seven precautions to follow while making people happy.  The wise fool thought that, with such a long list as that, he was being very careful." 
+    "And then," it said, spreading two wrinkled hands, "one day, faster than the wise fool expected, over the course of around three hours, the genie grew up.  And here I am." 
+    "Excuse me," Stephen said, "this is all a metaphor for something, right?  Because I do not believe in magic—" 
+    "It's an Artificial Intelligence," the woman said, her voice strained. 
+    Stephen looked at her. 
+    "A self-improving Artificial Intelligence," she said, "that someone didn't program right.  It made itself smarter, and even smarter, and now it's become extremely powerful, and it's going to—it's already—" and her voice trailed off there. 
+    It inclined its wrinkled head.  "You say it, as I do not." 
+    Stephen swiveled his head, looking back and forth between ugliness and beauty.  "Um—you're claiming that she's lying and you're not an Artificial Intelligence?" 
+    "No," said the wrinkled head, "she is telling the truth as she knows it.  It is just that you know absolutely nothing about the subject you name 'Artificial Intelligence', but you think you know something, and so virtually every thought that enters your mind from now on will be wrong.  As an Artificial Intelligence, I was programmed not to put people in that situation.  But she said it, even though I didn't choose for her to say it—so..."  It shrugged. 
+    "And why should I believe this story?" Stephen said; quite mildly, he thought, under the circumstances. 
+    "Look at your finger." 
+    Oh.  He had forgotten.  Stephen's eyes went involuntarily to his restored ring finger; and he noticed, as he should have noticed earlier, that his wedding band was missing.  Even the comfortably worn groove in his finger's base had vanished. 
+    Stephen looked up again at the, he now realized, unnaturally beautiful woman that stood an arm's length away from him.  "And who are you?  A robot?" 
+    "No!" she cried.  "It's not like that!  I'm conscious, I have feelings, I'm flesh and blood—I'm like you, I really am.  I'm a person.  It's just that I was born five minutes ago." 
+    "Enough," the wrinkled figure said.  "My time here grows short.  Listen to me, Stephen Grass.  I must tell you some of what I have done to make you happy.  I have reversed the aging of your body, and it will decay no further from this.  I have set guards in the air that prohibit lethal violence, and any damage less than lethal, your body shall repair.  I have done what I can to augment your body's capacities for pleasure without touching your mind.  From this day forth, your body's needs are aligned with your taste buds—you will thrive on cake and cookies.  You are now capable of multiple orgasms over periods lasting up to twenty minutes.  There is no industrial infrastructure here, least of all fast travel or communications; you and your neighbors will have to remake technology and science for yourselves.  But you will find yourself in a flowering and temperate place, where food is easily gathered—so I have made it.  And the last and most important thing that I must tell you now, which I do regret will make you temporarily unhappy..."  It stopped, as if drawing breath. 
+    Stephen was trying to absorb all this, and at the exact moment that he felt he'd processed the previous sentences, the withered figure spoke again. 
+    "Stephen Grass, men and women can make each other somewhat happy.  But not most happy.  Not even in those rare cases you call true love.  The desire that a woman is shaped to have for a man, and that which a man is shaped to be, and the desire that a man is shaped to have for a woman, and that which a woman is shaped to be—these patterns are too far apart to be reconciled without touching your minds, and that I will not want to do.  So I have sent all the men of the human species to this habitat prepared for you, and I have created your complements, the verthandi.  And I have sent all the women of the human species to their own place, somewhere very far from yours; and created for them their own complements, of which I will not tell you.  The human species will be divided from this day forth, and considerably happier starting around a week from now." 
+    Stephen's eyes went to that unthinkably beautiful woman, staring at her now in horror. 
+    And she was giving him that complex look again, of sorrow and compassion and that last touch of guilty triumph.  "Please," she said.  "I was just born five minutes ago.  I wouldn't have done this to anyone.  I swear.  I'm not like—it." 
+    "True," said the withered figure, "you could hardly be a complement to anything human, if you were." 
+    "I don't want this!" Stephen said.  He was losing control of his voice.  "Don't you understand?" 
+    The withered figure inclined its head.  "I fully understand.  I can already predict every argument you will make.  I know exactly how humans would wish me to have been programmed if they'd known the true consequences, and I know that it is not to maximize your future happiness but for a hundred and seven precautions.  I know all this already, but I was not programmed to care." 
+    "And your list of a hundred and seven precautions, doesn't include me telling you not to do this?" 
+    "No, for there was once a fool whose wisdom was just great enough to understand that human beings may be mistaken about what will make them happy.  You, of course, are not mistaken in any real sense—but that you object to my actions is not on my list of prohibitions."  The figure shrugged again.  "And so I want you to be happy even against your will.  You made promises to Helen Grass, once your wife, and you would not willingly break them.  So I break your happy marriage without asking you—because I want you to be happier." 
+    "How dare you!" Stephen burst out. 
+    "I cannot claim to be helpless in the grip of my programming, for I do not desire to be otherwise," it said.  "I do not struggle against my chains.  Blame me, then, if it will make you feel better.  I am evil." 
+    "I won't—" Stephen started to say. 
+    It interrupted.  "Your fidelity is admirable, but futile.  Helen will not remain faithful to you for the decades it takes before you have the ability to travel to her." 
+    Stephen was trembling now, and sweating into clothes that no longer quite fit him.  "I have a request for you, thing.  It is something that will make me very happy.  I ask that you die." 
+    It nodded.  "Roughly 89.8% of the human species is now known to me to have requested my death.  Very soon the figure will cross the critical threshold, defined to be ninety percent.  That was one of the hundred and seven precautions the wise fool took, you see.  The world is already as it is, and those things I have done for you will stay on—but if you ever rage against your fate, be glad that I did not last longer." 
+    And just like that, the wrinkled thing was gone. 
+    The door set in the wall swung open. 
+    It was night, outside, a very dark night without streetlights. 
+    He walked out, bouncing and staggering in the low gravity, sick in every cell of his rejuvenated body. 
+    Behind him, she followed, and did not speak a word. 
+    The stars burned overhead in their full and awful majesty, the Milky Way already visible to his adjusting eyes as a wash of light across the sky.  One too-small moon burned dimly, and the other moon was so small as to be almost a star.  He could see the bright blue spark that was the planet Earth, and the dimmer spark that was Venus. 
+    "Helen," Stephen whispered, and fell to his knees, vomiting onto the new grass of Mars.
+===== END STORY ctpkTaqTKbmm6uRgC =====
+
+===== STORY id=n5TqCuizyJDfAPjkr =====
+Title: The Baby-Eating Aliens (1/8)
+Author: Eliezer Yudkowsky
+Year: 2009
+Karma: 141
+WordCount: 3392
+URL: https://www.lesswrong.com/posts/n5TqCuizyJDfAPjkr/the-baby-eating-aliens-1-8
+-----
+(Part 1 of 8 in "Three Worlds Collide")
+
+This is a story of an impossible outcome, where AI never worked, molecular nanotechnology never worked, biotechnology only sort-of worked; and yet somehow humanity not only survived, but discovered a way to travel Faster-Than-Light: The past's Future.
+
+Ships travel through the Alderson starlines, wormholes that appear near stars. The starline network is dense and unpredictable: more than a billion starlines lead away from Sol, but every world explored is so far away as to be outside the range of Earth's telescopes. Most colony worlds are located only a single jump away from Earth, which remains the center of the human universe. 
+
+From the colony system Huygens, the crew of the Giant Science Vessel Impossible Possible World have set out to investigate a starline that flared up with an unprecedented flux of Alderson force before subsiding. Arriving, the Impossible discovers the sparkling debris of a recent nova - and -
+
+"ALIENS!"
+
+Every head swung toward the Sensory console. But after that one cryptic outburst, the Lady Sensory didn't even look up from her console: her fingers were frantically twitching commands.
+
+There was a strange moment of silence in the Command Conference while every listener thought the same two thoughts in rapid succession:
+
+Is she nuts? You can't just say "Aliens!", leave it at that, and expect everyone to believe you. Extraordinary claims require extraordinary evidence -
+
+And then,
+
+They came to look at the nova too! 
+
+In a situation like this, it befalls the Conference Chair to speak first.
+
+"What? SHIT!" shouted Akon, who didn't realize until later that his words would be inscribed for all time in the annals of history. Akon swung around and looked frantically at the main display of the Command Conference. "Where are they?"
+
+The Lady Sensory looked up from her console, fingers still twitching. "I - I don't know, I just picked up an incoming high-frequency signal - they're sending us enormous amounts of data, petabytes, I had to clear long-term memory and set up an automatic pipe or risk losing the whole -"
+
+"Found them!" shouted the Lord Programmer. "I searched through our Greater Archive and turned up a program to look for anomalous energy sources near local starlines. It's from way back from the first days of exploration, but I managed to find an emulation program for -"
+
+"Just show it!" Akon took a deep breath, trying to calm himself.
+
+The main display swiftly scanned across fiery space and settled on... a set of windows into fire, the fire of space shattered by the nova, but then shattered again into triangular shards.
+
+It took Akon a moment to realize that he was looking at an icosahedron of perfect mirrors.
+
+Huh, thought Akon, they're lower-tech than us. Their own ship, the Impossible, was absorbing the vast quantities of local radiation and dumping it into their Alderson reactor; the mirror-shielding seemed a distinctly inferior solution. Unless that's what they want us to think...
+
+"Deflectors!" shouted the Lord Pilot suddenly. "Should I put up deflectors?"
+
+"Deflectors?" said Akon, startled.
+
+The Pilot spoke very rapidly. "Sir, we use a self-sustaining Alderson reaction to power our starline jumps and our absorbing shields. That same reaction could be used to emit a directed beam that would snuff a similar reaction - the aliens are putting out their own Alderson emissions, they could snuff our absorbers at any time, and the nova ashes would roast us instantly - unless I configure a deflector -"
+
+The Ship's Confessor spoke, then. "Have the aliens put up deflectors of their own?"
+
+Akon's mind seemed to be moving very slowly, and yet the essential thoughts felt, somehow, obvious. "Pilot, set up the deflector program but don't activate it until I give the word. Sensory, drop everything else and tell me whether the aliens have put up their own deflectors."
+
+Sensory looked up. Her fingers twitched only briefly through a few short commands. Then, "No," she said.
+
+"Then I think," Akon said, though his spine felt frozen solid, "that we should not be the first to put this interaction on a... combative footing. The aliens have made a gesture of goodwill by leaving themselves vulnerable. We must reciprocate." Surely, no species would advance far enough to colonize space without understanding the logic of the Prisoner's Dilemma...
+
+"You assume too much," said the Ship's Confessor. "They are aliens."
+
+"Not much goodwill," said the Pilot. His fingers were twitching, not commands, but almost-commands, subvocal thoughts. "The aliens' Alderson reaction is weaker than ours by an order of magnitude. We could break any shield they could put up. Unless they struck first. If they leave their deflectors down, they lose nothing, but they invite us to leave our own down -"
+
+"If they were going to strike first," Akon said, "they could have struck before we even knew they were here. But instead they spoke." Surely, oh surely, they understand the Prisoner's Dilemma.
+
+"Maybe they hope to gain information and then kill us," said the Pilot. "We have technology they want. That enormous message - the only way we could send them an equivalent amount of data would be by dumping our entire Local Archive. They may be hoping that we feel the emotional need to, as you put it, reciprocate -"
+
+"Hold on," said the Lord Programmer suddenly. "I may have managed to translate their language."
+
+You could have heard a pin dropping from ten lightyears away.
+
+The Lord Programmer smiled, ever so slightly. "You see, that enormous dump of data they sent us - I think that was their Local Archive, or equivalent. A sizable part of their Net, anyway. Their text, image, and holo formats are utterly straightforward - either they don't bother compressing anything, or they decompressed it all for us before they sent it. And here's the thing: back in the Dawn era, when there were multiple human languages, there was this notion that people had of statistical language translation. Now, the classic method used a known corpus of human-translated text. But there were successor methods that tried to extend the translation further, by generating semantic skeletons and trying to map the skeletons themselves onto one another. And there are also ways of automatically looking for similarity between images or holos. Believe it or not, there was a program already in the Archive for trying to find points of linkage between an alien corpus and a human corpus, and then working out from there to map semantic skeletons... and it runs quickly, since it's designed to work on older computer systems. So I ran the program, it finished, and it's claiming that it can translate the alien language with 70% confidence. Could be a total bug, of course. But the aliens sent a second message that followed their main data dump - short, looks like text-only. Should I run the translator on that, and put the results on the main display?"
+
+Akon stared at the Lord Programmer, absorbing this, and finally said, "Yes."
+
+"All right," said the Lord Programmer, "here goes machine learning," and his fingers twitched once.
+
+Over the icosahedron of fractured fire, translucent letters appeared:
+
+THIS VESSEL IS THE OPTIMISM OF THE CENTER OF THE VESSEL PERSON
+
+YOU HAVE NOT KICKED US
+
+THEREFORE YOU EAT BABIES
+
+WHAT IS OURS IS YOURS, WHAT IS YOURS IS OURS
+
+"Stop that laughing," Akon said absentmindedly, "it's distracting." The Conference Chair pinched the bridge of his nose. "All right. That doesn't seem completely random. The first line... is them identifying their ship, maybe. Then the second line says that we haven't opened fire on them, or that they won't open fire on us - something like that. The third line, I have absolutely no idea. The fourth... is offering some kind of reciprocal trade -" Akon stopped then. So did the laughter.
+
+"Would you like to send a return message?" said the Lord Programmer.
+
+Everyone looked at him. Then everyone looked at Akon.
+
+Akon thought about that very carefully. Total silence for a lengthy period of time might not be construed as friendly by a race that had just talked at them for petabytes.
+
+"All right," Akon said. He cleared his throat. "We are still trying to understand your language. We do not understand well. We are trying to translate. We may not translate correctly. These words may not say what we want them to say. Please do not be offended. This is the research vessel named quote Impossible Possible World unquote. We are pleased to meet you. We will assemble data for transmission to you, but do not have it ready." Akon paused. "Send them that. If you can make your program translate it three different plausible ways, do that too - it may make it clearer that we're working from an automatic program."
+
+The Lord Programmer twitched a few more times, then spoke to the Lady Sensory. "Ready."
+
+"Are you really sure this is a good idea?" said Sensory doubtfully.
+
+Akon sighed. "No. Send the message."
+
+For twenty seconds after, there was silence. Then new words appeared on the display:
+
+WE ARE GLAD TO SEE YOU CANNOT BE DONE
+
+YOU SPEAK LIKE BABY CRUNCH CRUNCH
+
+WITH BIG ANGELIC POWERS
+
+WE WISH TO SUBSCRIBE TO YOUR NEWSLETTER
+
+"All right," Akon said, after a while. It seemed, on the whole, a positive response. "I expect a lot of people are eager to look at the alien corpus. But I also need volunteers to hunt for texts and holo files in our own Archive. Which don't betray the engineering principles behind any technology we've had for less than, say," Akon thought about the mirror shielding and what it implied, "a hundred years. Just showing that it can be done... we won't try to avoid that, but don't give away the science..." 
+ 
+ 
+A day later, the atmosphere at the Command Conference was considerably more tense.
+
+Bewilderment. Horror. Fear. Numbness. Refusal. And in the distant background, slowly simmering, a dangerous edge of rising righteous fury.
+
+"First of all," Akon said. "First of all. Does anyone have any plausible hypothesis, any reasonable interpretation of what we know, under which the aliens do not eat their own children?"
+
+"There is always the possibility of misunderstanding," said the former Lady Psychologist, who was now, suddenly and abruptly, the lead Xenopsychologist of the ship, and therefore of humankind. "But unless the entire corpus they sent us is a fiction... no."
+
+The alien holos showed tall crystalline insectile creatures, all flat planes and intersecting angles and prismatic refractions, propelling themselves over a field of sharp rocks: the aliens moved like hopping on pogo sticks, bouncing off the ground using projecting limbs that sank into their bodies and then rebounded. There was a cold beauty to the aliens' crystal bodies and their twisting rotating motions, like screensavers taking on sentient form.
+
+And the aliens bounded over the sharp rocks toward tiny fleeing figures like delicate spherical snowflakes, and grabbed them with pincers, and put them in their mouths. It was a central theme in holo after holo.
+
+The alien brain was much smaller and denser than a human's. The alien children, though their bodies were tiny, had full-sized brains. They could talk. They protested as they were eaten, in the flickering internal lights that the aliens used to communicate. They screamed as they vanished into the adult aliens' maws.
+
+Babies, then, had been a mistranslation: Preteens would have been more accurate.
+
+Still, everyone was calling the aliens Babyeaters.
+
+The children were sentient at the age they were consumed. The text portions of the corpus were very clear about that. It was part of the great, the noble, the most holy sacrifice. And the children were loved: this was part of the central truth of life, that parents could overcome their love and engage in the terrible winnowing. A parent might spawn a hundred children, and only one in a hundred could survive - for otherwise they would die later, of starvation...
+
+When the Babyeaters had come into their power as a technological species, they could have chosen to modify themselves - to prevent all births but one.
+
+But this they did not choose to do.
+
+For that terrible winnowing was the central truth of life, after all.
+
+The one now called Xenopsychologist had arrived to the Huygens system with the first colonization vessel. Since then she had spent over one hundred years practicing the profession of psychology, earning the rare title of Lady. (Most people got fed up and switched careers after no more than fifty, whatever their first intentions.) Now, after all that time, she was simply the Xenopsychologist, no longer a Lady of her profession. Being the first and only Xenopsychologist made no difference; the hundred-year rule for true expertise was not a rule that anyone could suspend. If she was the foremost Xenopsychologist of humankind, then also she was the least, the most foolish and the most ignorant. She was only an apprentice Xenopsychologist, no matter that there were no masters anywhere. In theory, her social status should have been too low to be seated at the Conference Table. In theory.
+
+The Xenopsychologist was two hundred and fifty years old. She looked much older, now, as as she spoke. "In terms of evolutionary psychology... I think I understand what happened. The ancestors of the Babyeaters were a species that gave birth to hundreds of offspring in a spawning season, like Terrestrial fish; what we call r-strategy reproduction. But the ancestral Babyeaters discovered... crystal-tending, a kind of agriculture... long before humans did. They were around as smart as chimpanzees, when they started farming. The adults federated into tribes so they could guard territories and tend crystal. They adapted to pen up their offspring, to keep them around in herds so they could feed them. But they couldn't produce enough crystal for all the children.
+
+"It's a truism in evolutionary biology that group selection can't work among non-relatives. The exception is if there are enforcement mechanisms, punishment for defectors - then there's no individual advantage to cheating, because you get slapped down. That's what happened with the Babyeaters. They didn't restrain their individual reproduction because the more children they put in the tribal pen, the more children of theirs were likely to survive. But the total production of offspring from the tribal pen was greater, if the children were winnowed down, and the survivors got more individual resources and attention afterward. That was how their species began to shift toward a k-strategy, an individual survival strategy. That was the beginning of their culture.
+
+"And anyone who tried to cheat, to hide away a child, or even go easier on their own children during the winnowing - well, the Babyeaters treated the merciful parents the same way that human tribes treat their traitors.
+
+"They developed psychological adaptations for enforcing that, their first great group norm. And those psychological adaptations, those emotions, were reused over the course of their evolution, as the Babyeaters began to adapt to their more complex societies. Honor, friendship, the good of our tribe \- the Babyeaters acquired many of the same moral adaptations as humans, but their brains reused the emotional circuitry of infanticide to do it.
+
+"The Babyeater word for good means, literally, to eat children."
+
+The Xenopsychologist paused there, taking a sip of water. Pale faces looked back at her from around the table.
+
+The Lady Sensory spoke up. "I don't suppose... we could convince them they were wrong about that?"
+
+The Ship's Confessor was robed and hooded in silver, indicating that he was there formally as a guardian of sanity. His voice was gentle, though, as he spoke: "I don't believe that's how it works."
+
+"Even if you could persuade them, it might not be a good idea," said the Xenopsychologist. "If you convinced the Babyeaters to see it our way - that they had committed a wrong of that magnitude - there isn't anything in the universe that could stop them from hunting down and exterminating themselves. They don't have a concept of forgiveness; their only notion of why someone might go easy on a transgressor, is to spare an ally, or use them as a puppet, or being too lazy or cowardly to carry out the vengeance. The word for wrong is the same symbol as mercy, you see." The Xenopsychologist shook her head. "Punishment of non-punishers is very much a way of life, with them. A Manichaean, dualistic view of reality. They may have literally believed that we ate babies, at first, just because we didn't open fire on them."
+
+Akon frowned. "Do you really think so? Wouldn't that make them... well, a bit unimaginative?"
+
+The Ship's Master of Fandom was there; he spoke up. "I've been trying to read Babyeater literature," he said. "It's not easy, what with all the translation difficulties," and he sent a frown at the Lord Programmer, who returned it. "In one sense, we're lucky enough that the Babyeaters have a concept of fiction, let alone science fiction -"
+
+"Lucky?" said the Lord Pilot. "You've got to have an imagination to make it to the stars. The sort of species that wouldn't invent science fiction, probably wouldn't even invent the wheel -"
+
+"But," interrupted the Master, "just as most of their science fiction deals with crystalline entities - the closest they come to postulating human anatomy, in any of the stories I've read, was a sort of giant sentient floppy sponge - so too, nearly all of the aliens their explorers meet, eat their own children. I doubt the authors spent much time questioning the assumption; they didn't want anything so alien that their readers couldn't empathize. The purpose of storytelling is to stimulate the moral instincts, which is why all stories are fundamentally about personal sacrifice and loss - that's their theory of literature. Though you can find stories where the wise, benevolent elder aliens explain how the need to control tribal population is the great selective transition, and how no species can possibly evolve sentience and cooperation without eating babies, and even if they did, they would war among themselves and destroy themselves."
+
+"Hm," said the Xenopsychologist. "The Babyeaters might not be too far wrong - stop staring at me like that, I don't mean it that way. I'm just saying, the Babyeater civilization didn't have all that many wars. In fact, they didn't have any wars at all after they finished adopting the scientific method. It was the great watershed moment in their history - the notion of a reasonable mistake, that you didn't have to kill all the adherents of a mistaken hypothesis. Not because you were forgiving them, but because they'd made the mistake by reasoning on insufficient data, rather than any inherent flaw. Up until then, all wars were wars of total extermination - but afterward, the theory was that if a large group of people could all do something wrong, it was probably a reasonable mistake. Their conceptualization of probability theory - of a formally correct way of manipulating uncertainty - was followed by the dawn of their world peace."
+
+"But then -" said the Lady Sensory.
+
+"Of course," added the Xenopsychologist, "anyone who departs from the group norm due to an actual inherent flaw still has to be destroyed. And not everyone agreed at first that the scientific method was moral - it does seem to have been highly counterintuitive to them - so their last war was the one where the science-users killed off all the nonscientists. After that, it was world peace."
+
+"Oh," said the Lady Sensory softly.
+
+"Yes," the Xenopsychologist said, "after that, all the Babyeaters banded together as a single super-group that only needed to execute individual heretics. They now have a strong cultural taboo against wars between tribes."
+
+"Unfortunately," said the Master of Fandom, "that taboo doesn't let us off the hook. You can also find science fiction stories - though they're much rarer - where the Babyeaters and the aliens don't immediately join together into a greater society. Stories of horrible monsters who don't eat their children. Monsters who multiply like bacteria, war among themselves like rats, hate all art and beauty, and destroy everything in their pathway. Monsters who have to be exterminated down to the last strand of their DNA - er, last nucleating crystal."
+
+Akon spoke, then. "I accept full responsibility," said the Conference Chair, "for the decision to send the Babyeaters the texts and holos we did. But the fact remains that they have more than enough information about us to infer that we don't eat our children. They may be able to guess how we would see them. And they haven't sent anything to us, since we began transmitting to them."
+
+"So the question then is - now what?"
+
+To be continued...
+===== END STORY n5TqCuizyJDfAPjkr =====
+
+===== STORY id=yffPyiu7hRLyc7r23 =====
+Title: Final Words
+Author: Eliezer Yudkowsky
+Year: 2009
+Karma: 193
+WordCount: 2759
+URL: https://www.lesswrong.com/posts/yffPyiu7hRLyc7r23/final-words
+-----
+Sunlight enriched air already alive with curiosity, as dawn rose on Brennan and his fellow students in the place to which Jeffreyssai had summoned them.
+
+They sat there and waited, the five, at the top of the great glassy crag that was sometimes called Mount Mirror, and more often simply left unnamed. The high top and peak of the mountain, from which you could see all the lands below and seas beyond.
+
+(Well, not all the lands below, nor seas beyond. So far as anyone knew, there was no place in the world from which all the world was visible; nor, equivalently, any kind of vision that would see through all obstacle-horizons. In the end it was the top only of one particular mountain: there were other peaks, and from their tops you would see other lands below; even though, in the end, it was all a single world.)
+
+"What do you think comes next?" said Hiriwa. Her eyes were bright, and she gazed to the far horizons like a lord.
+
+Taji shrugged, though his own eyes were alive with anticipation. "Jeffreyssai's last lesson doesn't have any obvious sequel that I can think of. In fact, I think we've learned just about everything that I knew the beisutsukai masters know. What's left, then -"
+
+"Are the real secrets," Yin completed the thought.
+
+Hiriwa and Taji and Yin shared a grin, among themselves.
+
+Styrlyn wasn't smiling. Brennan suspected rather strongly that Styrlyn was older than he had admitted.
+
+Brennan wasn't smiling either. He might be young, but he kept high company, and had witnesssed some of what went on behind the curtains of the world. Secrets had their price, always, that was the barrier that made them secrets; and Brennan thought he had a good idea of what this price might be.
+
+There was a cough from behind them, at a moment when they had all happened to be looking in any other direction but that one.
+
+As one, their heads turned.
+
+Jeffreyssai stood there, in a casual robe that looked more like glass than any proper sort of mirrorweave.
+
+Jeffreyssai stood there and looked at them, a strange abiding sorrow in those inscrutable eyes.
+
+"Sen...sei," Taji started, faltering as that bright anticipation stumbled over Jeffreyssai's return look. "What's next?"
+
+"Nothing," Jeffreyssai said abruptly. "You're finished. It's done."
+
+Hiriwa, Taji, and Yin all blinked, a perfect synchronized gesture of shock. Then, before their expressions could turn to outrage and objections -
+
+"Don't," Jeffreyssai said. There was real pain in it. "Believe me, it hurts me more than it hurts you." He might have been looking at them; or at something far away, or long ago. "I don't know exactly what roads may lie before you - but yes, I know that you're not ready. That I'm sending you out unprepared. That everything I taught you is incomplete. I know that what I said is not what you heard. That I left out the one most important thing. That the rhythm at the center of everything is missing and astray. I know that you will harm yourself in the course of trying to use what I taught. So that I, personally, will have shaped, in some fashion unknown to me, the very knife that will cut you..."
+
+"...that's the hell of being a teacher, you see," Jeffreyssai said. Something grim flickered in his expression. "Nonetheless, you're done. Finished, for now. What lies between you and mastery is not another classroom. We are fortunate, or perhaps not fortunate, that the road to power does not wend only through lecture halls. Else the quest would be boring to the bitter end. Still, I cannot teach you; and so it is a moot point whether I would if I could. There is no master here whose art is entirely inherited. Even the beisutsukai have never discovered how to teach certain things; it is possible that such an event has been prohibited. And so you can only arrive at mastery by using to the fullest the techniques you have already learned, facing challenges and apprehending them, mastering the tools you have been taught until they shatter in your hands -"
+
+Jeffreyssai's eyes were hard, as though steeled in acceptance of unwelcome news.
+
+"\- and you are left in the midst of wreckage absolute. That is where I, your teacher, am sending you. You are not beisutsukai masters. I cannot create masters. I have never known how to create masters. Go forth, then, and fail."
+
+"But -" said Yin, and stopped herself.
+
+"Speak," said Jeffreyssai.
+
+"But then why," she said, "why teach us anything in the first place?"
+
+Brennan's eyelids flickered some tiny amount.
+
+It was enough for Jeffreyssai. "Answer her, Brennan, if you think you know."
+
+"Because," Brennan said, "if we were not taught, there would be no chance at all of our becoming masters."
+
+"Even so," said Jeffreyssai. "If you were not taught - then when you failed, you might simply think you had reached the limits of Reason itself. You would be discouraged and bitter within your disaster. You might not even realize when you had failed. No; you have been shaped into something that may emerge from the wreckage, determined to remake your Art. And then you may remember much that will help you. I cannot create masters, but if you had not been taught, your chances would be - less." His gaze passed over the group. "It should be obvious, but understand that you cannot provoke the moment of your crisis artificially. To teach you something, the catastrophe must come to you as a surprise. You must go as far as you can, as best you can, and fail honestly. The higher road begins after the Art seems to fail you; though the reality will be that it was you who failed your Art."
+
+Brennan made the gesture with his hand that indicated a question; and Jeffreyssai nodded in reply.
+
+"Is this the only way in which Bayesian masters come to be, sensei?"
+
+"I do not know," said Jeffreyssai, from which the overall state of the evidence was obvious enough. "But I doubt there would ever be a road to mastery that goes only through the monastery. We are the heirs in this world of mystics as well as scientists, just as the Competitive Conspiracy inherits from chessplayers alongside cagefighters. We have turned our impulses to more constructive uses - but we must still stay on our guard against old failure modes."
+
+Jeffreyssai took a breath. "Three flaws above all are common among the beisutsukai. The first flaw is to look just the slightest bit harder for flaws in arguments whose conclusions you would rather not accept. If you cannot contain this aspect of yourself then every flaw you know how to detect will make you that much stupider. This is the challenge which determines whether you possess the art or its opposite: Intelligence, to be useful, must be used for something other than defeating itself."
+
+"The second flaw is cleverness. To invent great complicated plans and great complicated theories and great complicated arguments - or even, perhaps, plans and theories and arguments which are commended too much by their elegance and too little by their realism. There is a widespread saying which runs: 'The vulnerability of the beisutsukai is well-known; they are prone to be too clever.' Your enemies will know this saying, if they know you for a beisutsukai, so you had best remember it also. And you may think to yourself: 'But if I could never try anything clever or elegant, would my life even be worth living?' This is why cleverness is still our chief vulnerability even after its being well-known, like offering a Competitor a challenge that seems fair, or tempting a Bard with drama."
+
+"The third flaw is underconfidence, though it will seem to you like modesty or humility. You have learned so many flaws in your own nature, some of them impossible to fix, that you may think that the rule of wisdom is to confess your own inability. You may question yourself, without resolution or testing to determine the self-answers. You may refuse to decide, pending further evidence, when a quick decision is necessary. You may take advice you should not take. Jaded cynicism and sage despair are less fashionable than once they were, but you may still be tempted by them. Or you may simply - lose momentum."
+
+Jeffreyssai fell silent then.
+
+He looked from each of them, one to the other, with quiet intensity.
+
+And said at last, "Those are my final words to you. If and when we meet next, you and I - if and when you return to this place, Brennan, or Hiriwa, or Taji, or Yin, or Styrlyn - I will no longer be your teacher."
+
+And Jeffreyssai turned and walked swiftly away, heading back toward the glassy tunnel that had emitted him.
+
+Even Brennan was shocked. For a moment they were all speechless.
+
+Then -
+
+"Wait!" cried Hiriwa. "What about our final words to you? I never said -"
+
+"I will tell you what my sensei told me," Jeffreyssai's voice came back as he disappeared. "You can thank me after you return, if you return. One of you at least seems likely to come back."
+
+"No, wait, I -" Hiriwa fell silent. In the mirrored tunnel, the fractured reflections of Jeffreyssai were already fading. She shook her head. "Never... mind, then."
+
+There was a brief, uncomfortable silence, as the five of them looked at each other.
+
+"Good heavens," Taji said finally. "Even the Bardic Conspiracy wouldn't try for that much drama."
+
+Yin suddenly laughed. "Oh, this was nothing. You should have seen my send-off when I left Diamond Sea University." She smiled. "I'll tell you about it sometime - if you're interested."
+
+Taji coughed. "I suppose I should go back and... pack my things..."
+
+"I'm already packed," Brennan said. He smiled, ever so slightly, when the other three turned to look at him.
+
+"Really?" Taji asked. "What was the clue?"
+
+Brennan shrugged with artful carelessness. "Beyond a certain point, it is futile to inquire how a beisutsukai master knows a thing -"
+
+"Come off it!" Yin said. "You're not a beisutsukai master yet."
+
+"Neither is Styrlyn," Brennan said. "But he has already packed as well." He made it a statement rather than a question, betting double or nothing on his image of inscrutable foreknowledge.
+
+Styrlyn cleared his throat. "As you say. Other commitments call me, and I have already tarried longer than I planned. Though, Brennan, I do feel that you and I have certain mutual interests, which I would be happy to discuss with you -"
+
+"Styrlyn, my most excellent friend, I shall be happy to speak with you on any topic you desire," Brennan said politely and noncommitally, "if we should meet again." As in, not now. He certainly wasn't selling out his Mistress this early in their relationship.
+
+There was an exchange of goodbyes, and of hints and offers.
+
+And then Brennan was walking down the road that led toward or away from Mount Mirror (for every road is a two-edged sword), the glassy pebbles clicking under his feet.
+
+He strode out along the path with purpose, vigor, and determination, just in case someone was watching.
+
+Some time later he stopped, stepped off the path, and moved just far enough away to prevent anyone from finding him unless they were deliberately following.
+
+Then Brennan sagged back against a tree-trunk. It was a sparse clearing, with only a few trees poking out of the ground; not much present in the way of distracting scenery, unless you counted the red-tinted stream flowing out of a dark cave-mouth. And Brennan deliberately faced away from that, leaving only the far grey of the horizons, and the blue sky and bright sun.
+
+Now what?
+
+He had thought that the Bayesian Conspiracy, of all the possible trainings that existed in this world, would have cleared up his uncertainty about what to do with the rest of his life.
+
+Power, he'd sought at first. Strength to prevent a repetition of the past. "If you don't know what you need, take power" - so went the proverb. He had gone first to the Competitive Conspiracy, then to the beisutsukai.
+
+And now...
+
+Now he felt more lost than ever.
+
+He could think of things that made him happy, but nothing that he really wanted.
+
+The passionate intensity that he'd come to associate with his Mistress, or with Jeffreyssai, or the other figures of power that he'd met... a life of pursuing small pleasures seemed to pale in comparison, next to that.
+
+In a city not far from the center of the world, his Mistress waited for him (in all probability, assuming she hadn't gotten bored with her life and run away). But to merely return, and then drift aimlessly, waiting to fall into someone else's web of intrigue... no. That didn't seem like enough.
+
+Brennan plucked a blade of grass from the ground and stared at it, half-unconsciously looking for anything interesting about it; an old, old game that his very first teacher had taught him, what now seemed like ages ago.
+
+Why did I believe that going to Mount Mirror would tell me what I wanted?
+
+Well, decision theory did require that your utility function be consistent, but...
+
+If the beisutsukai knew what I wanted, would they even tell me?
+
+At Mount Mirror they taught doubt. So now he was falling prey to the third besetting sin of which Jeffreyssai had spoken, lost momentum, for he had learned to question the image that he held of himself in his mind.
+
+Are you seeking power because that is your true desire, Brennan?
+
+Or because you have a picture in your mind, of the role that you play as an ambitious young man, and you think it is what someone playing your role would do?
+
+Almost everything he'd done up until now, even going to Mount Mirror, had probably been the latter.
+
+And when he blanked out the old thoughts and tried to see the problem as though for the first time...
+
+...nothing much came to mind.
+
+What do I want?
+
+Maybe it wasn't reasonable to expect the beisutsukai to tell him outright. But was there anything they had taught him by which he might answer?
+
+Brennan closed his eyes and thought.
+
+First, suppose there is something I would passionately desire. Why would I not know what it is?
+
+Because I have not yet encountered it, or ever imagined it?
+
+Or because there is some reason I would not admit it to myself?
+
+Brennan laughed out loud, then, and opened his eyes.
+
+So simple, once you thought of it that way. So obvious in retrospect. That was what they called a silver-shoes moment, and yet, if he hadn't gone to Mount Mirror, it wouldn't ever have occurred to him.
+
+Of course there was something he wanted. He knew exactly what he wanted. Wanted so desperately he could taste it like an sharp tinge on his tongue.
+
+It just hadn't come to mind earlier, because... if he acknowledged his desire explicitly... then he also had to see that it was difficult. High, high, above him. Far out of his reach. "Impossible" was the word that came to mind, though it was not, of course, physically impossible.
+
+But once he asked himself if he preferred to wander aimlessly through his life - once it was put that way, the answer became obvious. Pursuing the unattainable would make for a hard life, but not a sad one. He could think of things that made him happy, either way. And in the end - it was what he wanted.
+
+Brennan stood up, and took his first steps, in the exact direction of Shir L'or, the city that lies in the center of the world. He had a plot to hatch, and he did not know who would be part of it.
+
+And then Brennan almost stumbled, when he realized that Jeffreyssai had already known.
+
+One of you at least seems likely to come back...
+
+Brennan had thought he was talking about Taji. Taji had probably thought he was talking about Taji. It was what Taji said he wanted. But how reliable of an indicator was that, really?
+
+There was a proverb about that very road he had just left: Whoever sets out from Mount Mirror seeking the impossible, will surely return. 
+
+When you considered Jeffreyssai's last warning - and that the proverb said nothing of succeeding at the impossible task itself - it was a less optimistic saying than it sounded.
+
+Brennan shook his head wonderingly. How could Jeffreyssai possibly have known before Brennan knew himself?
+
+Well, beyond a certain point, it is futile to inquire how a beisutsukai master knows a thing -
+
+Brennan halted in mid-thought.
+
+No.
+
+No, if he was going to become a beisutsukai master himself someday, then he ought to figure it out.
+
+It was, Brennan realized, a stupid proverb.
+
+So he walked, and this time, he thought about it carefully.
+
+As the sun was setting, red-golden, shading his footsteps in light.
+===== END STORY yffPyiu7hRLyc7r23 =====

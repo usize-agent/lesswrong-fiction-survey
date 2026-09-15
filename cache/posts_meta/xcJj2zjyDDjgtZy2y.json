@@ -1,0 +1,29 @@
+{
+  "_id": "xcJj2zjyDDjgtZy2y",
+  "slug": "you-re-a-space-wizard-luke",
+  "title": "You're a Space Wizard, Luke",
+  "postedAt": "2024-08-18T05:35:39.238Z",
+  "baseScore": 58,
+  "wordCount": 481,
+  "commentCount": 6,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

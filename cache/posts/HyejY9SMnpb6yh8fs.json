@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "HyejY9SMnpb6yh8fs",
+        "title": "The danger of living a story - Singularity Tropes",
+        "slug": "the-danger-of-living-a-story-singularity-tropes",
+        "pageUrl": "https://www.lesswrong.com/posts/HyejY9SMnpb6yh8fs/the-danger-of-living-a-story-singularity-tropes",
+        "postedAt": "2010-11-14T22:39:06.691Z",
+        "baseScore": 28,
+        "wordCount": 866,
+        "commentCount": 62,
+        "noIndex": false,
+        "user": {
+          "displayName": "patrissimo",
+          "slug": "patrissimo"
+        },
+        "tags": [
+          {
+            "_id": "5f5c37ee1b5cdee568cfb125",
+            "name": "Generalization From Fictional Evidence",
+            "slug": "generalization-from-fictional-evidence"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "pszEEb3ctztv3rozd": 1,
+          "5f5c37ee1b5cdee568cfb125": 1
+        },
+        "contents": {
+          "markdown": "The following should sound familiar:\n\n*A thoughtful and observant young [protagonist](http://yudkowsky.net/) dedicates their life to fighting [a great world-threatening evil](http://wiki.lesswrong.com/wiki/UnFriendly_artificial_intelligence) [unrecognized](/lw/2l8/existential_risk_and_public_relations/) by almost all of their short-sighted elders (except perhaps for one encouraging mentor), gathering [a rag-tag band](http://tvtropes.org/pmwiki/pmwiki.php/Main/RagtagBunchOfMisfits) of [colorful misfits](http://www.acceleratingfuture.com/michael/blog/2006/08/visiting-siai/) along the way and forging them into a [team](http://intelligence.org/aboutus/team) by accepting their idiosyncrasies and making the most of their unique abilities, winning over previously neutral allies, ignoring [those who just don't get it](http://multiverseaccordingtoben.blogspot.com/2010/10/singularity-institutes-scary-idea-and.html), obtaining or creating [artifacts of great power](http://en.wikipedia.org/wiki/Friendly_artificial_intelligence), growing and [changing along the way](http://tvtropes.org/pmwiki/pmwiki.php/Main/ComingOfAgeStory) to [become more powerful](http://en.wikipedia.org/wiki/Intelligence_amplification), fulfilling the potential seen by their [mentors](http://tvtropes.org/pmwiki/pmwiki.php/Main/Mentors)/[supporters](http://en.wikipedia.org/wiki/Peter_Thiel)/early adopters, while becoming more human (greater empathy, connection, humility) as they collect resources to prepare for their [climactic battle](http://tvtropes.org/pmwiki/pmwiki.php/Main/FinalBattle) [against the inhuman enemy](http://tvtropes.org/pmwiki/pmwiki.php/Main/RobotWar).*\n\nHmm, sounds a bit like [SIAI](/singinst.org)! (And while I'm throwing stones, let me make it clear that I live in a glass house, since the same story could just as easily be adapted to [TSI](/seasteading.org), my organization, as well as many others)\n\nThis story is related to Robin's [Abstract/Distant Future Bias](http://www.overcomingbias.com/2008/11/abstractdistant.html):\n\n> Regarding distant futures, however, we\u2019ll be too confident, focus too much on unlikely global events, rely too much on trends, theories, and loose abstractions, while neglecting details and variation. We\u2019ll assume the main events take place far away (e.g., space), and uniformly across large regions. We\u2019ll focus on untrustworthy consistently-behaving globally-organized social-others. And we\u2019ll neglect feasibility, taking chances to achieve core grand symbolic values, rather than ordinary muddled values.\n> \n> More bluntly, we seem primed to confidently see history as an inevitable march toward a theory-predicted global conflict with an alien united them determined to oppose our core symbolic values, making infeasible overly-risky overconfident plans to oppose them. We seem primed to neglect the value and prospect of trillions of quirky future creatures not fundamentally that different from us, focused on their simple day-to-day pleasures, mostly getting along peacefully in vastly-varied uncoordinated and hard-to-predict local cultures and life-styles.\n\nLiving a story is potentially risky, for example [Tyler Cowen warns us to be cautious of stories](http://patrissimo.livejournal.com/1371198.html) as there are far fewer stories than there are real scenarios, and so stories must oversimplify. Our view of the future may be colored by a [\"fiction bias\"](http://www.overcomingbias.com/2010/10/the-future-seems-shiny.html#comment-457372), which leads us to expect outcomes like those we see in movies (climactic battles, generally interesting events following a single plotline). Thus stories threaten both epistemic rationality (we assume the real world is more like stories than it is) and instrumental rationality (we assume the best actions to effect real-world change are those which story heroes take).\n\nYet we'll tend to live stories anyway because it is fun - it inspires supporters, allies, and protagonists. The marketing for \"we are an alliance to fight a great unrecognized evil\" can be quite emotionally evocative. Including in our own self-narrative, which means we'll be tempted to buy into a story whether or not it is correct. So while living a fun story is a utility benefit, it also means that story causes are likely to be over-represented among all causes, as they are memetically attractive. This is especially true for the story that there is risk of great, world-threatening evil, since those who believe it are inclined to shout it from the rooftops, while those who don't believe it get on with their lives. (There are, of course, [biases in the other direction as well](http://intelligence.org/upload/cognitive-biases.pdf)).\n\nWhich is not to say that all aspects of the story are wrong - advancing an original idea to greater prominence (scaling) will naturally lead to some of these tropes - most people disbelieving, a few allies, winning more people over time, eventual recognition as a visionary. And Michael Vassar [suggests](http://patrissimo.livejournal.com/1412351.html?thread=13046783#t13046783) that some of the tropes arise as a result of \"trying to rise in station beyond the level that their society channels them towards\". For these aspects, the tropes may contain evolved wisdom about how our ancestors negotiated similar situations.\n\nAnd whether or not a potential protagonist believes in this wisdom, the fact that others do will surely affect marketing decisions. If Harry wishes to not be seen as Dark, he must care what others see as the signs of a Dark Wizard, whether or not he agrees with them. If potential collaborators have internalized these stories, skillful protagonists will invoke them in recruiting, converting, and team-building. Yet the space of story actions is constrained, and the best strategy may sometimes lie far outside them.\n\nSince this is not a story, we are left with no simple answer. Many aspects of stories are false but resonate with us, and we must guard against them lest they contaminate our rationality. Others contain wisdom about how those like us have navigated similar situations in the past - we must decide whether the similarities are true or superficial. The most universal stories are likely to be the most effective in manipulating others, which any protagonist must due to amplify their own efforts in fighting for their cause. Some of these universal stories are true and generally applicable, like scaling techniques, yet the set of common tropes seems far too detailed to reflect universal truths rather than arbitrary biases of humanity and our evolutionary history.\n\nMay you live happily ever after (vanquishing your inhuman enemy with your team of true friends, bonded through a cause despite superficial dissimilarities).\n\nThe End."
+        }
+      }
+    }
+  }
+}

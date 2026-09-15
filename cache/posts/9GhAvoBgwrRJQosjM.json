@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "9GhAvoBgwrRJQosjM",
+        "title": "De pluribus non est disputandum",
+        "slug": "de-pluribus-non-est-disputandum",
+        "pageUrl": "https://www.lesswrong.com/posts/9GhAvoBgwrRJQosjM/de-pluribus-non-est-disputandum",
+        "postedAt": "2026-01-12T00:07:56.930Z",
+        "baseScore": 11,
+        "wordCount": 930,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jacob Goldsmith",
+          "slug": "jacob-goldsmith"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "\"I have a lot of questions\", said Carol. \"I need to know how this works.\"\n\n\"Of course\", said Zosia. \"Ask us anything.\"\n\nCarol hesitated, gathering her thoughts. She knew that Zosia couldn't lie to her, but she also knew that she was speaking with a highly convincing superintelligence with the knowledge of all the best sophists and rhetoricians in the world. She would have to be careful not to be too easily swayed.\n\n\"I'm concerned about how your transformation affects your collective moral worth\", she finally said. \"I accept that you are very happy. But are you one happy person or many? And if you're one person, are you happy enough to outweigh the collective happiness of all the individuals whom you used to be?\"\n\n\"That's an excellent question\", replied Zosia immediately. \"You're trying to determine if humanity is better off now than it was before, and you've astutely drilled down to the heart of the issue.\n\n\"To your first question, we honestly don't feel as if we are many individuals now. Subjectively, we feel more like many pieces of one mind. Certainly, we have one unified will. Insofar as different individuals have different sensations and different thoughts, we think about them as subsystems in a different mind, similar to how you can hear or see something without being consciously aware of it until something causes it to come to your conscious attention. When I talk to you, it is like your legs continuing to walk while you navigate to your destination. Your legs and the part of your brain responsible for controlling them have no independent will nor independent personhood. Does that make sense to you?\"\n\nCarol's mind raced. Zosia hadn't even tried to convince her that each human was an individual! Was she effectively admitting that eight billion individuals were effectively killed in favor of one? That would be a moral catastrophe.\n\n\"Your answer is really disturbing\", she finally said. \"I don't assign any moral value to the several parts of my brain or my nervous system. If I feel a sensation that is theoretically agreeable or disagreeable but it does not affect my conscious mind, I don't consider that to either add to or subtract from the total happiness in the world. If individuals in your collective are analogous to subsystems in my mind, I would think that your moral worth is that of one individual and not many. That would mean that humanity was much better off when we were many individuals, even if our average happiness was lower.\"\n\nZosia smiled. \"I understand where you're coming from\", she said gently. \"But you might think about why you assign no moral value to the subsystems in your mind. Is it because they have no independent will, or is it because they are inherently primitive systems? Consider your visual processing system. Yes, it exists only to gatekeep data from and pass information to your higher-order mind, and to move your eyeballs in response to top-down signals.\n\n\"But imagine instead of a simple visual cortex, you had a fully developed human being whose job was to do the same thing that your visual cortex does now. This individual is like any human in every respect except one\u2014his only goal is to serve your conscious mind, and he has no will except your will. I think you would still consider this person worthy of moral consideration even though his function was the same as your visual cortex.\u00a0\n\nThat means that it's not the fact that a system is part of a whole that deprives them of moral worth. No, it's simply its complexity and \"human-ness\". Yes, Zosia is\u2014I am\u2014 merely a part of a whole, not a true individual. But I still have the full range of mental complexity of any individual human. The only thing that's different between me and you is that my will is totally subsumed into the collective will. As we've established, though, it's not independent will that makes someone worthy of moral consideration. I am happy when the collective is happy, but that doesn't make my individual happiness any less meaningful.\"\n\nCarol considered Zosia's words as she walked home, needing some time to think over their conversation before they would meet again the next day. Zosia seemed convincing. Still, there was something that unsettled her. Zosia spoke as though the hive mind were analogous to individuals who happened to share the exact same knowledge and utility function. But all of them also seemed to have the same *personality* as well. In the analogy to subsystems of a human mind, you would expect the different individuals to have different methods, even if they had the same knowledge and the same goals. Yet each individual's actions seemed to be the output of a single, unified thought process. That made it seem like there was no local computation being done\u2014each person's actions were like different threads of the same computer process.\n\nDid that undermine Zosia's point, or did it just mean that she had to switch up her mental model from an \"individual\"\u2014someone with a distinct personality\u2014to an \"instance\", another copy of the hive mind with distinct experiences but an identical disposition? Carol wasn't sure, but she knew that she had little time to make great philosophical headway. One to three months was how long Zosia had said she had before they would have her stem cells, and therefore her life. Should she resume her efforts to put the world back the way it was?\n\nThe question continued to haunt her as she fell into a fitful sleep."
+        }
+      }
+    }
+  }
+}

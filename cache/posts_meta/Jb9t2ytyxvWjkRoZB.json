@@ -1,0 +1,23 @@
+{
+  "_id": "Jb9t2ytyxvWjkRoZB",
+  "slug": "chapter-51-title-redacted-pt-1",
+  "title": "Chapter 51: Title Redacted, Pt 1",
+  "postedAt": "2015-03-14T19:00:56.175Z",
+  "baseScore": 25,
+  "wordCount": 3065,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

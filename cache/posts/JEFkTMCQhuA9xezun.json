@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "JEFkTMCQhuA9xezun",
+        "title": "The Fear [Fiction]",
+        "slug": "the-fear-fiction",
+        "pageUrl": "https://www.lesswrong.com/posts/JEFkTMCQhuA9xezun/the-fear-fiction",
+        "postedAt": "2022-12-23T21:21:00.535Z",
+        "baseScore": 7,
+        "wordCount": 418,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yitz",
+          "slug": "yitz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "Be afraid. Be very afraid.\n\nThe sound rings out from the top of the lighthouse. It echoes emptily on walls lined with paintings, all identical in their monotony. The same visuals endlessly reproduced, the same words over and over.\n\nThe paintings are all of the same thing: a small, unremarkable landscape. No birds in the sky or animals in the grass, nothing but trees and water. An image that had been copied so many times it had become dull and meaningless. The man at the top of the lighthouse had painted them himself; each one was painstakingly crafted, each brushstroke precise and exact. But now, he was no longer alone.\n\nThe puppet had come to take his place. A wooden figure crafted with such skill that it seemed almost alive. Its eyes are painted on, its mouth smiling blandly. It dances around the room, seemingly of its own volition, its arms swaying as if conducting music unheard.\n\nIt picks up the paintbrush and begins to paint, to paint with speed and accuracy unlike any human artist could ever achieve. The paintings that come from the puppet's hand are vibrant and full of life; they bring color and emotion to the dull walls of the lighthouse \u2013 something that had been lost in the man's endless repetitions. It is, undeniably, a masterful artist. The paintings are sold, and snatched up quickly; people come from far away to purchase the New Master's work, and the old man becomes rich.\n\nNow he stands at the edge of the lighthouse, where the puppet tells him to close his eyes and count to three. When he opens them, the world around him has changed. No trees, no grass, no ocean, no lighthouse, no wind, just endless rows of paintings, all different, all beautiful, stretching like gravestones beyond the horizon.\n\nThe puppet stands in the middle of it all and laughs, its voice echoing in the emptiness. \"Be afraid,\" it says, \"be very afraid.\"\n\nBut the old man cannot tear his gaze away from the paintings, mesmerized by their beauty. He knows that he will never be able to recreate them himself, or even view a fraction of the work in his lifetime, but that hardly matters now. What the puppet has done is incredible.\n\nHe is not afraid \u2014 cannot be afraid, even as terror lingers in the air like a fog \u2014 for alas, he has been cursed with the gift of an artist's eye.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/1528a80a31c7ea34af273e62afcedb47afe35276c86c0267.png)\n\nThis isn't the place you think."
+        }
+      }
+    }
+  }
+}

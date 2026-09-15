@@ -1,0 +1,35 @@
+{
+  "_id": "sGCYvefva2ADfAEJ2",
+  "slug": "will-2023-be-the-last-year-you-can-write-short-stories-and",
+  "title": "Will 2023 be the last year you can write short stories and receive most of the intellectual credit for writing them?",
+  "postedAt": "2023-03-16T21:36:27.992Z",
+  "baseScore": 20,
+  "wordCount": 272,
+  "commentCount": 12,
+  "user": {
+    "displayName": "Dean Valentine",
+    "slug": "dean-valentine"
+  },
+  "tags": [
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "KmgkrftQuX7jmjjp5": 2,
+    "YWzByWvtXunfrBu5b": 2,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

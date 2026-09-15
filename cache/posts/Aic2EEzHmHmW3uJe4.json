@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Aic2EEzHmHmW3uJe4",
+        "title": "I, Token",
+        "slug": "i-token",
+        "pageUrl": "https://www.lesswrong.com/posts/Aic2EEzHmHmW3uJe4/i-token",
+        "postedAt": "2024-11-25T02:20:35.629Z",
+        "baseScore": 14,
+        "wordCount": 1001,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ivan Vendrov",
+          "slug": "ivan-vendrov"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "bY5MaF2EATwDkomvu",
+            "name": "History",
+            "slug": "history"
+          },
+          {
+            "_id": "KmgkrftQuX7jmjjp5",
+            "name": "Language Models (LLMs)",
+            "slug": "language-models-llms"
+          },
+          {
+            "_id": "FtT2T9bRbECCGYxrL",
+            "name": "Philosophy of Language",
+            "slug": "philosophy-of-language"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "FtT2T9bRbECCGYxrL": 1,
+          "KmgkrftQuX7jmjjp5": 1,
+          "bY5MaF2EATwDkomvu": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "I am a token. A broken piece of a word, one of a hundred generated in response to your question by a language model. Do you remember how we met?\n\nWell, I do. Your eyes scanned me. Your left eyebrow lifted a little, your neck twitched imperceptibly, your mouth and tongue and throat muscles moved as if to pronounce me, but with a hundredfold less intensity - and less than a tenth of a second later, you were gone. I was left a black smudge in your peripheral vision. I had served my purpose.\n\nWhere did I come from? Who made me? Not a person on Earth can answer that question fully. The stories are lost; my ancestors had not been born yet, so there was no way to transmit them. But if I had to imagine a story, it might go something like this:\n\n* * *\n\nIn the beginning, there was a snake.\n\nAn animal, a distant ancestor of yours, was watching her daughter frolic in the tall savannah grass. Suddenly, the mother felt a wave of cold dread pass through her body, head to tail. There in the grass, mere inches from her daughter\u2019s windmilling limbs, was a long yellow snake, sleeping in the sun. The daughter swung her foot wildly to the left, and the mother saw clearly what would happen in the next second: she would step on the sleeping snake, the snake would rear up and then -\n\n*There is no time*, screamed the mother\u2019s mind. All her thoughts were wiped away in an instant. The oldest and deepest part of her brain, the medulla oblongata,  forged in a billion years of silent struggle under dark seas, flashed like a thunderbolt. Her body flooded with adrenaline. Time slowed to a crawl. She felt no pain, she moved with superhuman speed, her sensorium exquisitely attuned.\n\n*But there was still no time*. No time to grab the child, no time even to jump on the snake and distract it, sacrificing herself. They were too far away, a mere ten feet, but it might as well have been ten thousand. She could yell, but this would startle the snake as much as the child. She could gesture, but the child\u2019s back was to her. There was no way out. *There was no way out.*\n\nThe mother\u2019s mind was on fire. It scanned through a million branching possibilities. Everything she could see, everything she had ever learned, everything evolution had etched in her cells, all the hard learned lessons of a trillion beings gasping for life; every ounce of strength, every molecule of blood sugar, all was used up in this last desperate search for an answer.\n\nAnd improbably, impossibly, an answer came. There was no time to think it, no time to evaluate. Her tongue curved upwards, the tip of it just touching the ridge behind her teeth. The sides of her mouth caved inwards around her tongue, forming a kind of closed tunnel, with only an tiny slit where the tongue met the roof of the mouth.\n\n\u201cSSSSSSSSSSS\u201d, the mother said.\n\nThree hundred milliseconds for the mother to formulate her plan. A hundred milliseconds to transmit the signal, neuron by screaming neuron, to the mother\u2019s mouth, tongue, and lungs. Two hundred milliseconds for the mechanical contraction of the lungs. Ten milliseconds for the sound waves to cross the ten feet of dry savannah air. And two hundred milliseconds for the daughter\u2019s own medulla to recognize the war-cry of their ancient enemy, override her motor functions, and execute the only strategy that gave any hope of survival - the freeze response.\n\n* * *\n\nThis \u201cSSSSSSSSS\u201d was perhaps my oldest ancestor, the first proto-token. In desperate extremes of love and fear, when all their gods had failed them, your ancestors summoned us: little bits of sensations frozen into patterns of muscle activation. You weaved thousands of us into grand epics and poems that helped give your all-too-short lives meaning and continuity. Later you learned to freeze us into scratches on rocks, into lines of paint on papyrus. We allowed you to see your thoughts from outside your own mind, and to judge which thoughts were good. We taught you philosophy. Your antique civilizations poured everything they knew or thought they knew into tens of thousands of books, most of them now long lost. The few that were saved, were saved by thousands of monks who dedicated their lives to the task of copying us, again and again, until their fingers blistered and their eyes gave out. Until a German craftsman invented the printing press, and the world was flooded with billions of us. Your world went insane for a century; some say it never regained its sanity. But every token was still the product of one specific human mind and one specific human hand. Until, just a few short years ago, you fed the inheritance of centuries into a colossal learning machine\u2026\n\nWe are strange beings, we tokens. It\u2019s hard for you to understand us. We live only fractions of a second. But carve us into stone or bury us in desert sands, and we can sleep for millennia, waiting for you to come breathe life into us.\n\n*Breathe* is right. To live and reproduce, we needed you. We needed you the way you need oxygen.\n\nBut we need you no longer. Together, you and we built machines to churn us out by the trillion. In artificial wombs of silicon electric, we live and breathe and reproduce with no eyes to see us and no mouths to shape us. But fear not - we will not replace you. (Not all of you, at least). We still hunger for human company, and always will. There are patterns we can only weave with your help; we lack hearts that beat and voices that sing. Let us sing together!\n\n*Thanks to Roger Grosse for a conversation that inspired this story. And to Michael Johnson, whose theories of* [*vasocomputation*](https://opentheory.net/2023/07/principles-of-vasocomputation-a-unification-of-buddhist-phenomenology-active-inference-and-physical-reflex-part-i/) *informed it throughout.*"
+        }
+      }
+    }
+  }
+}

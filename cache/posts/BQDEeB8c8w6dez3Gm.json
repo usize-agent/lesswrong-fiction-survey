@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "BQDEeB8c8w6dez3Gm",
+        "title": "All I Know is that I Know Nothing",
+        "slug": "all-i-know-is-that-i-know-nothing",
+        "pageUrl": "https://www.lesswrong.com/posts/BQDEeB8c8w6dez3Gm/all-i-know-is-that-i-know-nothing",
+        "postedAt": "2022-04-22T15:33:52.797Z",
+        "baseScore": 64,
+        "wordCount": 657,
+        "commentCount": 13,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 3,
+          "Ng8Gice9KNkncxqcj": 2
+        },
+        "contents": {
+          "markdown": "I publish words on the Internet. Sometimes readers write me emails.\n\nThe Highschooler\n================\n\nA highschooler contacted me. He shook with nervous energy because he was in the presence of Great Blogger Lsusr.\n\n\"O' Great Blogger Lsusr,\" said the highschooler, \"My teachers know nothing. Please help.\"\n\n\"All I know is I know nothing,\" I said.\n\n\"I do not understand,\" said the highschooler, \"How do I parse what you're saying?\"\n\n\"You are too white, too American and too lazy,\" I said, \"Memorize 150 Chinese characters. This way you will learn discipline, humility and respect for the knowledge of the ancients.\"\n\n\"I now understand. Thank you for your wisdom, O' Great Blogger Lsusr,\" said the highschooler.\n\n\"All I know is I know nothing,\" I said.\n\nThe Rich Merchant\n=================\n\nA rich man with many millions of dollars contacted me. He shook with nervous energy because he was in the presence of Great Blogger Lsusr.\n\n\"O' Great Blogger Lsusr,\" said the rich man, \"My personal coaches know nothing. Please help.\"\n\n\"All I know is I know nothing,\" I said.\n\n\"I do not understand,\" said the rich man, \"How do I learn your true meaning?\"\n\n\"You are too Chinese, too rich and you work too hard,\" I said, \"Go outside and sleep under a tree. That way you will learn discipline, humility and the value of the Wild American Outdoors.\"\n\n\"Thank you for your wisdom, O' Great Blogger Lsusr,\" said the rich man.\n\n\"All I know is I know nothing,\" I said.\n\nThe Entrepreneur\n================\n\nAn American young man contacted me. He spoke to me like an equal.\n\n\"O' Great Blogger Lsusr,\" said the entrepreneur, \"I want to cook exotic Asian vegetables. All my life, my dream has been to go to Asia and cook exotic vegetables.\"\n\n\"Go to your local Vietnamese grocery store,\" I said, \"You will find exotic vegetables there.\"\n\n\"Thank you for your wisdom, O' Great Blogger Lsusr,\" said the entrepreneur.\n\nThe Entrepreneur, Part 2\n========================\n\nThe entrepreneur contacted me again the next week.\n\n\"It worked great,\" said the entrepreneur, \"I have been postponing for years something I could have done quickly. The vegetables are cheaper than in my usual supermarket. It has fresh herbs too. I have been cooking all week.\"\n\n\"All I know is I know nothing,\" I said.\n\n\"What else can you teach me?\" said the entrepreneur, \"Are there other things I am postponing because I don't know how cheap they are?\"\n\n\"All I know is I know nothing,\" I said.\n\n\"All I know is I know nothing,\" said the entrepreneur.\n\n\"All I know is I know nothing,\" I said.\n\nThe Rich Merchant, Part 2\n=========================\n\nThe rich man contacted me again the next month.\n\n\"I did as you said,\" said the rich man, \"I went outside and pretended I did not own a house. It was very cold because I live in Toronto.\"\n\n\"I'm sorry,\" I said, \"I assumed you lived in the USA. Had I realized you were Canadian I would not have recommended you sleep outside in the winter without a tent. That is dangerous. Never do it again.\"\n\n\"I do not yet understand the logic of your teachings,\" said the rich man, \"But you are wise, O' Great Blogger Lsusr. I trust your judgment. I understand how Daoist philosophy first says one thing and then says the opposite. I will ponder your *koan* until I transcend the paradox you have given me.\"\n\n\"All I know is I know nothing,\" I said.\n\nThe Highschooler, Part 2\n========================\n\nThe highschooler contacted me again the next year.\n\n\"I tried to do as you said,\" said the highschooler. \"It was a disaster. I need to be breaking myself out of the prison that is highschool. I don't have the slack to learn Chinese too.\"\n\n\"I'm sorry,\" I said, \"I assumed your mind functions the way mine does. When I am stressed, copying Chinese characters by hand calms me down.\"\n\n\"I spent eight months thinking my failure was my fault. Then I realized you had just made a mistake. I now know that you are the Person Trying Lsusr and not the Great Blogger Lsusr. You don't know everything.\"\n\n\"That's what I keep trying to tell people. But they never listen!\" I said."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "7W9bTJYiYwhHbyBmy",
+  "slug": "dr-universe",
+  "title": "Dr Universe",
+  "postedAt": "2025-10-22T02:26:57.335Z",
+  "baseScore": 0,
+  "wordCount": 1099,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Patrick Spencer",
+    "slug": "patrick-spencer"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

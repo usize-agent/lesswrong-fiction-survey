@@ -1,0 +1,41 @@
+{
+  "_id": "o4RFp7rwfrn9bn6Lo",
+  "slug": "bayes-theorem-in-search-of-gold-lesson-1",
+  "title": "Bayes' Theorem: In Search of Gold (Lesson 1)",
+  "postedAt": "2024-06-28T08:39:16.638Z",
+  "baseScore": 3,
+  "wordCount": 811,
+  "commentCount": 0,
+  "user": {
+    "displayName": "bayesyatina",
+    "slug": "bayesyatina"
+  },
+  "tags": [
+    {
+      "_id": "LhX3F2SvGDarZCuh6",
+      "name": "Bayes' Theorem",
+      "slug": "bayes-theorem"
+    },
+    {
+      "_id": "4fxcbJ8xSv4SAYkkx",
+      "name": "Bayesianism",
+      "slug": "bayesianism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "4fxcbJ8xSv4SAYkkx": 1,
+    "LhX3F2SvGDarZCuh6": 1,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

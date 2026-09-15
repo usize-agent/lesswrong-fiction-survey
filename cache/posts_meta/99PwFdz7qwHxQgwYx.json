@@ -1,0 +1,53 @@
+{
+  "_id": "99PwFdz7qwHxQgwYx",
+  "slug": "awakening",
+  "title": "Awakening",
+  "postedAt": "2024-05-30T07:03:00.821Z",
+  "baseScore": 131,
+  "wordCount": 2580,
+  "commentCount": 80,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "AiNyf5iwbpc7mehiX",
+      "name": "Meditation",
+      "slug": "meditation"
+    },
+    {
+      "_id": "xv7Bg5fbF9WppYREi",
+      "name": "Buddhism",
+      "slug": "buddhism"
+    },
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "8e9e8fzXuW5gGBS3F",
+      "name": "Qualia",
+      "slug": "qualia"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "8e9e8fzXuW5gGBS3F": 2,
+    "AiNyf5iwbpc7mehiX": 4,
+    "XSryTypw5Hszpa4TS": 2,
+    "pszEEb3ctztv3rozd": 2,
+    "xv7Bg5fbF9WppYREi": 2
+  }
+}

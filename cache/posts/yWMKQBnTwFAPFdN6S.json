@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "yWMKQBnTwFAPFdN6S",
+        "title": "[Fiction] Lena (MMAcevedo)",
+        "slug": "fiction-lena-mmacevedo",
+        "pageUrl": "https://www.lesswrong.com/posts/yWMKQBnTwFAPFdN6S/fiction-lena-mmacevedo",
+        "postedAt": "2021-02-23T19:46:34.637Z",
+        "baseScore": 49,
+        "wordCount": 44,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "Kaj_Sotala",
+          "slug": "kaj_sotala"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb2b1",
+            "name": "Whole Brain Emulation",
+            "slug": "whole-brain-emulation"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "etDohXtBrXd8WqCtR": 13,
+          "5f5c37ee1b5cdee568cfb2b1": 8
+        },
+        "contents": {
+          "markdown": "Wiki article about the first brain image of a human upload (2031). Subpar in some respects, but initially a compliant worker and free to copy thanks to court cases ruling that the biological original did not have a legal right to restrict its use."
+        }
+      }
+    }
+  }
+}

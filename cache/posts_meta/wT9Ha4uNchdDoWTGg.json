@@ -1,0 +1,53 @@
+{
+  "_id": "wT9Ha4uNchdDoWTGg",
+  "slug": "parfit-s-escape-filk",
+  "title": "Parfit's Escape (Filk)",
+  "postedAt": "2019-03-29T02:31:42.981Z",
+  "baseScore": 41,
+  "wordCount": 353,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Gordon Seidoh Worley",
+    "slug": "gordon-seidoh-worley"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "AXhEhCkTrHZbjXXu3",
+      "name": "Poetry",
+      "slug": "poetry"
+    },
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "aLB9evWFYtfyS3WJg",
+      "name": "Music",
+      "slug": "music"
+    },
+    {
+      "_id": "WnnwytvzpKqJ3YChY",
+      "name": "Newcomb's Problem",
+      "slug": "newcomb-s-problem"
+    }
+  ],
+  "tagRelevance": {
+    "AXhEhCkTrHZbjXXu3": 2,
+    "KDpqtN3MxHSmD4vcB": 2,
+    "WnnwytvzpKqJ3YChY": 1,
+    "X8JsWEnBRPvs5Y99i": 1,
+    "aLB9evWFYtfyS3WJg": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

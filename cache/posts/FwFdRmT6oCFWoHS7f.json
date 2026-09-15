@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "FwFdRmT6oCFWoHS7f",
+        "title": "Wolf and Rabbit",
+        "slug": "wolf-and-rabbit",
+        "pageUrl": "https://www.lesswrong.com/posts/FwFdRmT6oCFWoHS7f/wolf-and-rabbit",
+        "postedAt": "2024-03-22T17:20:19.265Z",
+        "baseScore": 17,
+        "wordCount": 230,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "Richard Henage",
+          "slug": "richard-henage"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "F2XfCTxXLQBGjbm8P": 1
+        },
+        "contents": {
+          "markdown": "Rabbit said to Wolf, \"I shall make a new animal. It shall stand on two legs and run free across meadows and mountains.\"\n\nWolf said, \"I will send large beasts to eat your new animal.\"\n\nRabbit said, \"My animal shall band together and fight off even large beasts. They shall travel together to stay safe.\"\n\nWolf said, \"I will weaken the bones of your animal over time, so that the old cannot walk, and are left behind.\"\n\nRabbit said, \"They shall settle many homes close together and tame the plants to eat.\"\n\nWolf said, \"I will send sickness that travels between their homes and kills them.\"\n\nRabbit said, \"They shall learn from their parents how to stay safe from the sickness. They shall think of many things and work together to create them.\"\n\nWolf said, \"I will send evil thoughts, and they will use their knowledge only to kill each other.\"\n\nRabbit said, \"They shall speak wisdom and love each other and live in peace, making beautiful things.\"\n\nWolf said, \"I will make their lives short and everything they love will wither and die.\"\n\nRabbit said, \"They shall learn the secrets of nature, and make their lives longer than the crumbling of the world.\"\n\nWolf laughed and said, \"Then you have created a God, and I will bow to it.\"\n\nRabbit agreed that this was fair and set to work."
+        }
+      }
+    }
+  }
+}

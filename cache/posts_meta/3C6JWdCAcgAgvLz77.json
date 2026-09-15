@@ -1,0 +1,59 @@
+{
+  "_id": "3C6JWdCAcgAgvLz77",
+  "slug": "the-end-of-the-world-party",
+  "title": "The End-of-the-World Party",
+  "postedAt": "2025-09-18T07:49:08.174Z",
+  "baseScore": 2,
+  "wordCount": 15712,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jakub Growiec",
+    "slug": "jakub-growiec"
+  },
+  "tags": [
+    {
+      "_id": "F5gRQdEQHzi3tQ5Ay",
+      "name": "AI Control",
+      "slug": "ai-control"
+    },
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "AGgktgYb72PPjET9r",
+      "name": "Multipolar Scenarios",
+      "slug": "multipolar-scenarios"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "AGgktgYb72PPjET9r": 1,
+    "F5gRQdEQHzi3tQ5Ay": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

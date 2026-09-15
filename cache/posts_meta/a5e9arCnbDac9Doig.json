@@ -1,0 +1,59 @@
+{
+  "_id": "a5e9arCnbDac9Doig",
+  "slug": "it-looks-like-you-re-trying-to-take-over-the-world",
+  "title": "It Looks Like You're Trying To Take Over The World",
+  "postedAt": "2022-03-09T16:35:35.326Z",
+  "baseScore": 419,
+  "wordCount": 143,
+  "commentCount": 121,
+  "user": {
+    "displayName": "gwern",
+    "slug": "gwern"
+  },
+  "tags": [
+    {
+      "_id": "QH4LhvnyR4QkW9MG8",
+      "name": "Squiggle Maximizer (formerly \"Paperclip maximizer\")",
+      "slug": "squiggle-maximizer-formerly-paperclip-maximizer"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "QH4LhvnyR4QkW9MG8": 9,
+    "YkPxg2tFDQNdaEZDJ": 2,
+    "ZFrgTgzwEfStg26JL": 2,
+    "etDohXtBrXd8WqCtR": 8,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "sYm3HiWcfZvrGu3ui": 6,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

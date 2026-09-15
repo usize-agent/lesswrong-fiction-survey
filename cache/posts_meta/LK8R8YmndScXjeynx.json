@@ -1,0 +1,47 @@
+{
+  "_id": "LK8R8YmndScXjeynx",
+  "slug": "chatgpt-tells-20-versions-of-its-prototypical-story-with-a",
+  "title": "ChatGPT tells 20 versions of its prototypical story, with a short note on method",
+  "postedAt": "2023-10-14T15:27:58.408Z",
+  "baseScore": 7,
+  "wordCount": 1508,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bill Benzon",
+    "slug": "bill-benzon"
+  },
+  "tags": [
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "56yXXrcxRjrQs6z9R",
+      "name": "Interpretability (ML & AI)",
+      "slug": "interpretability-ml-and-ai"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "56yXXrcxRjrQs6z9R": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "KmgkrftQuX7jmjjp5": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

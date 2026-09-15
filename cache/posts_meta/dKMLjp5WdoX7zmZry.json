@@ -1,0 +1,35 @@
+{
+  "_id": "dKMLjp5WdoX7zmZry",
+  "slug": "llms-and-literature-where-value-actually-comes-from",
+  "title": "LLMs and Literature: Where Value Actually Comes From",
+  "postedAt": "2026-02-21T13:16:31.810Z",
+  "baseScore": 13,
+  "wordCount": 1060,
+  "commentCount": 13,
+  "user": {
+    "displayName": "derelict5432",
+    "slug": "derelict5432"
+  },
+  "tags": [
+    {
+      "_id": "urxWzbi9PBW3GdiG6",
+      "name": "AI Art",
+      "slug": "ai-art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "urxWzbi9PBW3GdiG6": 1
+  }
+}

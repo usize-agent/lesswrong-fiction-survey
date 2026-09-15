@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "2gWs8SScqeDFidqyv",
+        "title": "The Logician And The God-Emperor",
+        "slug": "the-logician-and-the-god-emperor",
+        "pageUrl": "https://www.lesswrong.com/posts/2gWs8SScqeDFidqyv/the-logician-and-the-god-emperor",
+        "postedAt": "2013-12-05T01:54:07.000Z",
+        "baseScore": 62,
+        "wordCount": 283,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Scott Alexander",
+          "slug": "scottalexander"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2
+        },
+        "contents": {
+          "markdown": "Once upon a time a logician accomplished a great deed, and the God-Emperor offered him a choice of rewards. \u201cYou may,\u201d said the God-Emperor \u201chave the hand of my eldest daughter, who is the heir to the throne, yet plain to look upon. Or you may take my youngest daughter, who is beautiful beyond words, but without inheritance.\u201d\n\nThe next day, the God-Emperor caught the logician in bed with *both* his daughters. Enraged, he hurled threats and abuse at the scholar, who responded with a grin: \u201cGuess someone never learned the difference between \u2018or\u2019 and \u2018xor\u2019.\u201d\n\nThe God-Emperor ordered the logician brought to the throne room in chains, and told him \u201cYou have offended me and betrayed my generosity, so you will be subjected to trial by ordeal. I have placed in front of you seven chests. Six of the chests contain skulls. One of the chests contains the key to your chains. I have asked the most devious minds in my kingdom to prepare a logic puzzle giving hints as to which chest is which. You may open a single chest. If you do not find the chest with the key on your first try, you will be slathered in barbecue sauce and thrown to the wolves.\u201d\n\nThe logician approached the chests, and upon each was written a clue in complicated logical notation. He examined all seven, and then stood a while, deep in thought. Finally, he opened the third chest. Inside was a golden key.\n\n\u201cVery impressive!\u201d said the God-Emperor. Then he yelled \u201cGuards! Slather this man in barbecue sauce and throw him to the wolves!\u201d\n\n\u201cBut\u2026but!\u201d babbled the terrified logician \u201c\u2026but you said\u2026!\u201d\n\nThe God-Emperor grinned. \u201cGuess someone never learned the difference between \u2018if\u2019 and \u2018iff\u2019.\u201d"
+        }
+      }
+    }
+  }
+}

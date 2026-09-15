@@ -1,0 +1,23 @@
+{
+  "_id": "GW7t5XN3uXuLazEY5",
+  "slug": "chapter-27-empathy",
+  "title": "Chapter 27: Empathy",
+  "postedAt": "2015-03-14T19:00:50.578Z",
+  "baseScore": 38,
+  "wordCount": 8830,
+  "commentCount": 10,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

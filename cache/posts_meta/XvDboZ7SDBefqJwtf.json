@@ -1,0 +1,29 @@
+{
+  "_id": "XvDboZ7SDBefqJwtf",
+  "slug": "don-t-jump-or-i-ll",
+  "title": "Don't Jump or I'll...",
+  "postedAt": "2023-03-02T02:58:43.058Z",
+  "baseScore": 14,
+  "wordCount": 1251,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Double",
+    "slug": "double"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    }
+  ],
+  "tagRelevance": {
+    "X8JsWEnBRPvs5Y99i": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "NiTuqw6LRFifqzRRH",
+  "slug": "excerpts-from-a-reader-s-manifesto",
+  "title": "Excerpts from \"A Reader's Manifesto\"",
+  "postedAt": "2024-09-06T22:37:40.254Z",
+  "baseScore": 72,
+  "wordCount": 4014,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Arjun Panickssery",
+    "slug": "arjun-panickssery"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "7mTviCYysGmLqiHai",
+      "name": "Writing (communication method)",
+      "slug": "writing-communication-method"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "4Kcm4etxAJjmeDkHP": 2,
+    "7mTviCYysGmLqiHai": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "vvgBhkJZvnA6LBapt",
+  "slug": "avoid-news-part-2-what-the-stock-market-taught-me-about-news",
+  "title": "Avoid News, Part 2: What the Stock Market Taught Me about News",
+  "postedAt": "2021-06-14T20:54:05.386Z",
+  "baseScore": 42,
+  "wordCount": 1576,
+  "commentCount": 2,
+  "user": {
+    "displayName": "PeterMcCluskey",
+    "slug": "petermccluskey"
+  },
+  "tags": [
+    {
+      "_id": "EnFKSZYiDHqMJuvJL",
+      "name": "Social Reality",
+      "slug": "social-reality"
+    },
+    {
+      "_id": "tPfh8oYyG8Wgkkg8X",
+      "name": "Journalism",
+      "slug": "journalism"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "EnFKSZYiDHqMJuvJL": 2,
+    "pszEEb3ctztv3rozd": 1,
+    "tPfh8oYyG8Wgkkg8X": 1
+  }
+}

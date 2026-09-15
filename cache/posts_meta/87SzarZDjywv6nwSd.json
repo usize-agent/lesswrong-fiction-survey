@@ -1,0 +1,29 @@
+{
+  "_id": "87SzarZDjywv6nwSd",
+  "slug": "intellectual-property",
+  "title": "Intellectual Property",
+  "postedAt": "2026-07-29T15:55:38.178Z",
+  "baseScore": 108,
+  "wordCount": 1186,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Nina Panickssery",
+    "slug": "nina-panickssery"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

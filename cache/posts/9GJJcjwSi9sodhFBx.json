@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "9GJJcjwSi9sodhFBx",
+        "title": "The Lazarus Project - TV Review",
+        "slug": "the-lazarus-project-tv-review",
+        "pageUrl": "https://www.lesswrong.com/posts/9GJJcjwSi9sodhFBx/the-lazarus-project-tv-review",
+        "postedAt": "2025-06-23T23:53:23.849Z",
+        "baseScore": 6,
+        "wordCount": 168,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Commander Zander",
+          "slug": "commander-zander"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "fkABsGCJZ6y9qConW": 2
+        },
+        "contents": {
+          "markdown": "*   [The Lazarus Project](https://en.wikipedia.org/wiki/The_Lazarus_Project_\\(TV_series\\)) is a very cool show that many scifi fans here would enjoy.\n*   All spoiler text in this post is actually extremely mild spoilers.\n*   Has a very rationalist-esque tone: characters working to stop...\u00a0\n\n>! ...global catastrophic risk that the mainstream is totally ignorant of.\n\n*   The scifi premise is simple, but explored very well to create high-stakes drama.\n*   Good interweaving of romance-in-thriller & thriller-in-romance plots.\n*   Every episode expands the premise, implications, or themes in a interesting way. (In season 1 anyway; i haven't watched further yet.)\n*   It's my 2nd-favorite scifi thriller in a present-day setting:\n\n>! *   \u00a0I rank it below the Matrix but above Everything Everywhere All At Once & the Terminator series.\n\n*   To give you a idea of the tone, it's also somewhat similar to these:\u00a0\n\n>! *   \u00a0Jason Bourne, Inception, Tenet, The Old Guard (2020).\n\n*   On the intense side - definitely not a relaxing show. Lots of suffering!\n*   Best episodes are 1, 2, & 8 (season finale)."
+        }
+      }
+    }
+  }
+}

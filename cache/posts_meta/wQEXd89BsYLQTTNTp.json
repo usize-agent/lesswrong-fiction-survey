@@ -1,0 +1,29 @@
+{
+  "_id": "wQEXd89BsYLQTTNTp",
+  "slug": "the-worthy-inheritor",
+  "title": "The Worthy Inheritor",
+  "postedAt": "2026-02-14T19:10:37.654Z",
+  "baseScore": -1,
+  "wordCount": 2278,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bridgett Kay",
+    "slug": "bridgett-kay"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

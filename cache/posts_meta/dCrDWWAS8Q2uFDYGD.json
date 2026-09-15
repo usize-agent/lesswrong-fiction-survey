@@ -1,0 +1,35 @@
+{
+  "_id": "dCrDWWAS8Q2uFDYGD",
+  "slug": "caelum-est-conterrens-i-frankly-don-t-see-how-this-is-a",
+  "title": "Caelum est Conterrens: I frankly don't see how this is a horror story",
+  "postedAt": "2013-03-06T10:31:48.001Z",
+  "baseScore": 38,
+  "wordCount": 201,
+  "commentCount": 49,
+  "user": {
+    "displayName": "chaosmage",
+    "slug": "chaosmage"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb2b1": 2
+  }
+}

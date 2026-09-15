@@ -1,0 +1,29 @@
+{
+  "_id": "XD6BCyenoiy8329E8",
+  "slug": "the-pearly-gates",
+  "title": "The Pearly Gates",
+  "postedAt": "2024-05-30T04:01:14.198Z",
+  "baseScore": 141,
+  "wordCount": 865,
+  "commentCount": 6,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "nSHiKwWyMZFdZg5qt": 2
+  }
+}

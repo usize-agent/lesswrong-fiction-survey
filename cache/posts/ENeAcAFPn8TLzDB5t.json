@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "ENeAcAFPn8TLzDB5t",
+        "title": "Narrative Structure And The Principle Of Least Action",
+        "slug": "narrative-structure-and-the-principle-of-least-action",
+        "pageUrl": "https://www.lesswrong.com/posts/ENeAcAFPn8TLzDB5t/narrative-structure-and-the-principle-of-least-action",
+        "postedAt": "2025-09-27T01:31:21.977Z",
+        "baseScore": 1,
+        "wordCount": 944,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "sonicrocketman",
+          "slug": "sonicrocketman"
+        },
+        "tags": [
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "kCrvmjZhsAZANnZL6",
+            "name": "Philosophy",
+            "slug": "philosophy-1"
+          },
+          {
+            "_id": "csMv9MvvjYJyeHqoo",
+            "name": "Physics",
+            "slug": "physics"
+          }
+        ],
+        "tagRelevance": {
+          "csMv9MvvjYJyeHqoo": 1,
+          "kCrvmjZhsAZANnZL6": 1,
+          "pszEEb3ctztv3rozd": 1
+        },
+        "contents": {
+          "markdown": "I love reading and watching non-fiction because it never answers a question without raising many more. The process of learning and discovery is a never ending quest to slay the hydra. Every severed head\u2014every answered question\u2014only brings with it more heads to slay. This all brings me to an insight that occurred to me the other day after rewatching a [Veritasium video](https://www.youtube.com/watch?v=Q10_srZ-pbs&embeds_referring_euri=https%3A%2F%2Fwww.veritasium.com%2F) on the discovery of the Principle of Least Action\u2014for like the fifteenth time.\n\nPerhaps narrative structures, stories, also obey this same principle.\n\nAction, Briefly Explained\n-------------------------\n\nFor those who don't know about the Principle of Least Action, you should watch the video\u2014it's great. But in short, Action is a concept in physics. Specifically, it's the combination of mass, distance, and velocity, the minimization of which seems to underpin the motion of all objects in the universe. Action alone seems to determine the trajectory of objects in space, that is the path they take as they move.^1^ In our modern theories of physics Action is fundamental, and Nature seems to do her best to minimize the expense of it.\n\n![A picture of a set of possible curves between two points on a 2-d plane.](https://brianschrader.com/images/blog/action/all-paths.jpg)\n\nA visualization of all possible paths a particle might take as it moves. Photo credit: Veritasium\n\nOf all the possible paths that an object *could* take as it moves, it seems that objects in free-fall motion *always* move along the specific trajectory which minimizes the Action.\n\nNarration viewed as Action\n--------------------------\n\nIn writing there is a principle called [Chekhov's gun](https://en.wikipedia.org/wiki/Chekhov's_gun), which states simply that:\n\n> If in the first act you have hung a pistol on the wall, then in the following one it should be fired. Otherwise don't put it there.\n\nThe point is to rid your story of extraneous elements. Detail must serve a narrative purpose; it *must* be justified. In a way, this is similar to the [Principle of Parsimony (a.k.a. Occam's Razor)](https://en.wikipedia.org/wiki/Occam%27s_razor) which is commonly paraphrased as, \"of two competing theories, the simpler explanation of an entity is to be preferred.\" As a writer, your job is to craft a world and a narrative that fits disparate information together into a seamless whole. The better story is the one which requires fewer assumptions by the reader and omits extraneous information. This might be otherwise phrased as crafting a \"tight\" story. A tight story with a good ending is one that minimizes the information required for a reader to find the narrative and its completion engaging, one that ties up loose ends, and one that gives the reader the feeling of satisfaction and closure.\n\n![A picture of a set of books on physics together with several good stories and a hint that they are related.](https://brianschrader.com/images/blog/action/unification.jpg)\n\nGrand Unification?\n\nStories exist in an abstract space with many more dimensions than our familiar 3-D space would allow me to depict. However the story is still singular, it follows a well-defined path traced by its words through this space and my argument is that the \"ideal path\", the one which the author ought to prefer when writing, is the one which minimizes the Action in that space.\n\nTo be clear, I do not have a rigorous formulation for this idea, it's an idle musing after all, but upon reflection it seems to comport with my intuition about good writing. Perhaps a thought experiment will help.\n\nA (Totally Rigorous) Proof\n--------------------------\n\nConsider two points on [the Plane](https://brianschrader.com/archive/the-mysterious-potential-of-the-plane/) with the X & Y dimensions quantifying some range of values for narrative structure: say the amount of world-building in a scene vs the progression of the story over all. Moving \"up\" on this chart means adding more backstory, while moving \"right\" is progressing the story.\n\n![A picture of two points on the 2-D plane connected by a single trajectory and a slightly different trajectory which quote uses endquote more action](https://brianschrader.com/images/blog/action/true-path.jpg)\n\nA point in the story begins at point A (at page \u03b1) and moves to point B (at page \u03b2). Photo credit: Veritasium\n\nNow, the story will likely have many, *many* more dimensions than this, but stay with me.\n\nThe story itself then is a curve which connects the two points at a given page count. This curve, or the path of the story as it moves through pages, can take many forms. However the one it *should* take under the principle above is the one which minimizes the Narrative Action (which we have not, and will not, formally define).^2^\n\nNow consider altering this curve by adding additional detail about the world. This detail is *by definition* unnecessary to the story because the minimal path exists from point A to point B as defined above. Therefore that detail would only increase the total Narrative Action and should be removed.^3^\n\nIn this way, the writer should emulate Nature in her effort to minimize all information in their story which is not required to attain the desired effect. Obviously the hard part is actually *intuiting* the true path that does this, but I'm not here to tell you how to be a good writer, that's too hard. Still, these ideas do seem connected, or perhaps that's just me.\n\n### Endnotes\n\n^1.^ Yes, curvature is also a thing. Also Quantum. Ignore it.\n\n^2.^ Out of scope for this conversation.\n\n^3.^ Associated with this is the idea that a story should create stresses, that is ask questions, which are relaxed or resolved by later sections. That tension is critical, but the path followed from the author's insertion of that tension (akin to the throwing of a ball which disturbs it from free-fall motion) and the resolution of it (the ball's final destination) should still follow this principle."
+        }
+      }
+    }
+  }
+}

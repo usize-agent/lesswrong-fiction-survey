@@ -1,0 +1,23 @@
+{
+  "_id": "5Awp4m8HZgdTiuiMo",
+  "slug": "fiction-a-question-of-perspective",
+  "title": "[fiction]A Question of Perspective",
+  "postedAt": "2022-05-23T15:06:55.650Z",
+  "baseScore": 17,
+  "wordCount": 1005,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Elias",
+    "slug": "eliyoole"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

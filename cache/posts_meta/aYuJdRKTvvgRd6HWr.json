@@ -1,0 +1,29 @@
+{
+  "_id": "aYuJdRKTvvgRd6HWr",
+  "slug": "i-ve-written-a-fantasy-novel-to-promote-effective-altruism",
+  "title": "I\u2019ve written a Fantasy Novel to Promote Effective Altruism",
+  "postedAt": "2022-09-12T12:14:57.082Z",
+  "baseScore": 23,
+  "wordCount": 3975,
+  "commentCount": 21,
+  "user": {
+    "displayName": "Timothy Underwood",
+    "slug": "timothy-underwood-1"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

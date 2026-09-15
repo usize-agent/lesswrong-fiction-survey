@@ -1,0 +1,35 @@
+{
+  "_id": "vqnpx8L6TYqzHW2ad",
+  "slug": "test-of-the-bene-gesserit",
+  "title": "Test of the Bene Gesserit",
+  "postedAt": "2025-02-23T11:51:10.279Z",
+  "baseScore": 19,
+  "wordCount": 907,
+  "commentCount": 3,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "AiNyf5iwbpc7mehiX",
+      "name": "Meditation",
+      "slug": "meditation"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "AiNyf5iwbpc7mehiX": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "kDEWtGopQKQFJCFZX",
+        "title": "The boat",
+        "slug": "the-boat",
+        "pageUrl": "https://www.lesswrong.com/posts/kDEWtGopQKQFJCFZX/the-boat",
+        "postedAt": "2024-11-22T12:56:45.050Z",
+        "baseScore": 6,
+        "wordCount": 492,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "RomanS",
+          "slug": "romans"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "pGqRLe9bFDX2G2kXY",
+            "name": "Futurism",
+            "slug": "futurism"
+          },
+          {
+            "_id": "vmvTYnmaKA73fYDe5",
+            "name": "Life Extension",
+            "slug": "life-extension"
+          },
+          {
+            "_id": "rHQ3xncraAyC8kqtX",
+            "name": "Lifelogging as life extension",
+            "slug": "lifelogging-as-life-extension"
+          },
+          {
+            "_id": "jiuackr7B5JAetbF6",
+            "name": "Transhumanism",
+            "slug": "transhumanism"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb2b1",
+            "name": "Whole Brain Emulation",
+            "slug": "whole-brain-emulation"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "jiuackr7B5JAetbF6": 1,
+          "pGqRLe9bFDX2G2kXY": 1,
+          "rHQ3xncraAyC8kqtX": 1,
+          "vmvTYnmaKA73fYDe5": 1,
+          "xexCWMyds6QLWognu": 1,
+          "5f5c37ee1b5cdee568cfb2b1": 1
+        },
+        "contents": {
+          "markdown": "> *A short science fiction story about our ancestors and the ethical responsibility we have towards them.*\n\nOld Ana's legs fought against her now, but still she led her granddaughter up the mountain path. The girl's torch made shadows dance on the rocks. The river sang in the distance \u2013 the same river that had shown Ana her great making many moons ago.\n\n\"Look, Kaya. When I was young like you, I watched the fallen trees in water. They floated, always. One day I saw a big log and thought \u2013 what if we made it hollow, like a nest?\"\n\nKaya knew this tale well \u2013 how her grandmother made the first boat. How the people of their tribe laughed and said her head was touched by bad spirits. How she worked through many moons, scraping out the old tree's heart with bone tools. How their mouths opened wide when they saw that in this hollow tree, they could ride the river.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/e1f03033eaf831e2a3e56db1051e42cb11fecf24badfb0ca.jpg)\n\n\"But listen, little one,\" \u2013 Ana stopped to draw breath. \u2013 \"One day our people will make boats that float up there,\" she pointed to the night sky. \"They will go between the bright spots that shine in the dark, will cross the sky river.\"\n\nKaya looked at her grandmother with big eyes: \"But how?\"\n\n\"I do not know,\" \u2013 Ana smiled. \u2013 \"But our people are clever. They will find the way. And maybe...\" \u2013 she touched her chest where her heart beat \u2013 \"maybe one day they will be so clever they can bring back to life those who have long gone. They'll read our traces as I read animal tracks in the snow. With the traces, they'll track down our spirits among the sand grains.\"\n\nAt last, they came to the cave. Inside, the torch showed the walls of their ancestors \u2013 hundreds of hands marked in earth-red.\n\n\"Now it's your turn, Kaya,\" \u2013 Ana took out a small pot of red ochre. \u2013 \"Place your hand next to mine. Let those who come here many, many moons from now see us together, so they don't forget about bringing us back.\"\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/68f4c9b4a701904634f0cb4a5fbebd180b0e5f51f7cfa5dd.jpg)\n\nThe awakening was gentle. Ana opened her eyes to an unfamiliar cave of smooth blue walls. Next to her, Kaya was already sitting up, exactly as she remembered her.\n\n\"Welcome back,\" said a spirit, the voice like many voices together. \"It will take a while to iterate over all possible human minds. Luckily, you two left some data to narrow down the search\".\n\nAna looked at her own hands - they were strong again, not gnarled by age. She could feel every part of her body singing with life.\n\n\"Your boat,\" the voice continued, \"we found it too, fossilized, preserved in the deep mud. Now our boats do sail between stars, just as you dreamed. Would you like to see them?\"\n\n\\*\\*\\*\n\nSee also:\n\n*   [Resurrecting all humans ever lived as a technical problem](https://romanplusplus.github.io/technological-resurrection/eng/text.html)"
+        }
+      }
+    }
+  }
+}

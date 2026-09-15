@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "PpdFFtxsPQK5dk4EB",
+        "title": "ChatGPT tells stories, and a note about reverse engineering: A Working Paper",
+        "slug": "chatgpt-tells-stories-and-a-note-about-reverse-engineering-a",
+        "pageUrl": "https://www.lesswrong.com/posts/PpdFFtxsPQK5dk4EB/chatgpt-tells-stories-and-a-note-about-reverse-engineering-a",
+        "postedAt": "2023-03-03T15:12:05.544Z",
+        "baseScore": 3,
+        "wordCount": 775,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Bill Benzon",
+          "slug": "bill-benzon"
+        },
+        "tags": [
+          {
+            "_id": "GrHAiuzAjG2mDxvMB",
+            "name": "ChatGPT",
+            "slug": "chatgpt-1"
+          },
+          {
+            "_id": "YWzByWvtXunfrBu5b",
+            "name": "GPT",
+            "slug": "gpt"
+          },
+          {
+            "_id": "56yXXrcxRjrQs6z9R",
+            "name": "Interpretability (ML & AI)",
+            "slug": "interpretability-ml-and-ai"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "56yXXrcxRjrQs6z9R": 1,
+          "GrHAiuzAjG2mDxvMB": 1,
+          "YWzByWvtXunfrBu5b": 1,
+          "pszEEb3ctztv3rozd": 1,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "*Cross-posted from* [*New Savanna*](https://new-savanna.blogspot.com/2023/03/chatgpt-tells-stories-and-note-about.html).\n\nI've uploaded a new working paper. Title above, links, abstract, content, and opening sections below.\n\nAcademia.edu: [https://www.academia.edu/97862447/ChatGPT\\_tells\\_stories\\_and\\_a\\_note\\_about\\_reverse\\_engineering\\_A\\_Working_Paper](https://www.academia.edu/97862447/ChatGPT_tells_stories_and_a_note_about_reverse_engineering_A_Working_Paper)  \nSSRN: [https://ssrn.com/abstract=4377178](https://ssrn.com/abstract=4377178)  \nResearch Gate: [https://www.researchgate.net/publication/368978013\\_ChatGPT\\_tells\\_stories\\_and\\_a\\_note\\_about\\_reverse\\_engineering\\_A\\_Working\\_Paper](https://www.researchgate.net/publication/368978013_ChatGPT_tells_stories_and_a_note_about_reverse_engineering_A_Working_Paper)\n\n**Abstract:** I examine a set of stories that are organized on three levels: 1) the entire story trajectory, 2) segments within the trajectory, and 3) sentences within individual segments. I conjecture that the probability distribution from which ChatGPT draws next tokens follows a hierarchy nested according to those three levels and that is encoded in the weights off ChatGPT\u2019s parameters. I arrived at this conjecture to account for the results of experiments in which ChatGPT is given a prompt containing a story along with instructions to create a new story based on that story but changing a key character: the protagonist or the antagonist. That one change then ripples through the rest of the story. The pattern of differences between the old and the new story indicates how ChatGPT maintains story coherence. The nature and extent of the differences between the original story and the new one depends roughly on the degree of difference between the key character and the one substituted for it. I conclude with a methodological coda: ChatGPT\u2019s behavior must be described and analyzed on three levels: 1) The experiments exhibit surface level behavior. 2) The conjecture is about a middle level that contains the nested hierarchy of probability distributions. 3) The transformer virtual machine is the bottom level.\n\n**Contents**\u00a0\n\nHow you might read this paper 2  \nStory coherence 2  \nMy procedure 2  \nConjecture: A nested hierarchy of probability distributions 3  \nCould we develop a quantitative model? 6  \n12 Experiments: The Chronicles of Princess Aurora and William the Lazy 7  \nReverse Engineering ChatGPT 19\n\n**How you might read this paper**\n\nThis paper is about the twelve experiments that make up the two-thirds of the text in this paper. One way to read the paper, perhaps even the preferred way, is to start by reading the plain text paragraph in the next section. That tells you what I did in those experiments. Move from that directly to the experiments. Read through them, think about them in your own terms, and then read the rest of the paper.\n\n**Story coherence**\n\nA story isn\u2019t just any narrative sequence. As Aristotle remarked in his *Poetics*, proper stories have a beginning, a middle, and an end. Just what, however, constitutes a proper beginning, middle, and an end? Narratologists in various disciplines have been trying to figure this out for decades. I\u2019m not holding my breath for answers.\n\nInstead I have been investigating how ChatGPT tells stories. The procedure I have been using is derived from the analytical method Claude L\u00e9vi-Strauss employed in his magnum opus, *Mythologiques*. He started with one myth, analyzed it, and then introduced another one, very much like the first. But not quite. They are systematically different. He characterized the difference by a transformation \u2013 a term he took from algebraic group theory. He worked his way through hundreds of myths in this manner, each one derived from another by a transformation.\n\n    Here is what I have been doing: I give ChatGPT a prompt consisting of two things: 1) an existing story and 2) instructions to produce another story like it except for one change, which I specify. That change is, in effect, a way of triggering or specifying those \u201ctransformations\u201d that L\u00e9vi-Strauss wrote about. What interests me are the ensemble of things that change along with the change I have specified.\n\nI take that ensemble of changes as an indicator of an underlying \u2018economy\u2019 of story coherence that is implicit in the processes ChatGPT uses in generating a story. For the most part, however, I make no attempt to analyze how that coherence is achieved other than to note differences between the source story and the new one. Those observations must be accounted for by 1) some theory about what coherence is, and 2) the mechanisms through which ChatGPT achieves the coherence. I have included a dozen before-and-after experiments along with some comments on them (pp. 7 ff.).\n\nTwo Examples (without commentary)\n---------------------------------\n\nI have included two examples of the story tables I prepared during this research. For commentary on the examples you should download the full paper.\n\n**Prompt**: I am going to tell you a story about a princess named Aurora. I want you to retell the same story, but replace her with prince William the Lazy. While keeping to the basic story, make other changes if you think they are necessary.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/dbb102f3a595c996fbdf7b3b8c0eb1a1f6d7c94885c12ea8.png)\n\n**Prompt**: I am going to tell you a story about princess Aurora. I want you to tell a similar story about XP-708-DQ.\u00a0\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/094ae971f5b059f87ee20d6871b7916240aafede6d94fc7d.png)"
+        }
+      }
+    }
+  }
+}

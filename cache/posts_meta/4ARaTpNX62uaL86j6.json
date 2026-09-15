@@ -1,0 +1,35 @@
+{
+  "_id": "4ARaTpNX62uaL86j6",
+  "slug": "the-hidden-complexity-of-wishes",
+  "title": "The Hidden Complexity of Wishes",
+  "postedAt": "2007-11-24T00:12:33.000Z",
+  "baseScore": 192,
+  "wordCount": 2289,
+  "commentCount": 200,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "4CQy8rim8PGt4sfCn",
+      "name": "Complexity of value",
+      "slug": "complexity-of-value"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    }
+  ],
+  "tagRelevance": {
+    "4CQy8rim8PGt4sfCn": 9,
+    "F2XfCTxXLQBGjbm8P": 5,
+    "ZFrgTgzwEfStg26JL": 3
+  }
+}

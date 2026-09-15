@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "C7deNdJkdtbzPtsQe",
+        "title": "Funny Anecdote of Eliezer From His Sister",
+        "slug": "funny-anecdote-of-eliezer-from-his-sister",
+        "pageUrl": "https://www.lesswrong.com/posts/C7deNdJkdtbzPtsQe/funny-anecdote-of-eliezer-from-his-sister",
+        "postedAt": "2024-04-22T22:05:31.886Z",
+        "baseScore": 235,
+        "wordCount": 610,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "Noah Birnbaum",
+          "slug": "noah-birnbaum"
+        },
+        "tags": [
+          {
+            "_id": "42JnNJ8fqfdCSqdmM",
+            "name": "Marriage",
+            "slug": "marriage"
+          },
+          {
+            "_id": "mip7tdAN87Jarkcew",
+            "name": "Relationships (Interpersonal)",
+            "slug": "relationships-interpersonal"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb0e0",
+            "name": "Eliezer Yudkowsky",
+            "slug": "eliezer-yudkowsky"
+          },
+          {
+            "_id": "BhfefamXXee6c2CH8",
+            "name": "Transcripts",
+            "slug": "transcripts"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "42JnNJ8fqfdCSqdmM": 3,
+          "BhfefamXXee6c2CH8": 2,
+          "mip7tdAN87Jarkcew": 3,
+          "pszEEb3ctztv3rozd": 1,
+          "5f5c37ee1b5cdee568cfb0e0": 2
+        },
+        "contents": {
+          "markdown": "This comes from a podcast called 18Forty, of which the main demographic of Orthodox Jews. Eliezer's sister (Hannah) came on and talked about her Sheva Brachos, which is essentially the marriage ceremony in Orthodox Judaism. People here have likely not seen it, and I thought it was quite funny, so here it is:\u00a0\n\n[https://18forty.org/podcast/channah-cohen-the-crisis-of-experience/](https://18forty.org/podcast/channah-cohen-the-crisis-of-experience/)\n\n**David Bashevkin:**\n\nSo I want to shift now and I want to talk about something that full disclosure, we recorded this once before and you had major hesitation for obvious reasons. It\u2019s very sensitive what we\u2019re going to talk about right now, but really for something much broader, not just because it\u2019s a sensitive personal subject, but I think your hesitation has to do with what does this have to do with the subject at hand? And I hope that becomes clear, but one of the things that has always absolutely fascinated me about you and really increased my respect for you exponentially, is that you have dedicated much of your life and the focus of your research on relationships and particularly the crisis of experience in how people find and cultivate relationships. And your personal background on this subject to me really provides a lot of contexts of how I see you speaking. I\u2019m mentioning this for two reasons. Your maiden name is?\n\n**Channah Cohen:**\n\nYudkowsky.\n\n**David Bashevkin:**\n\nYudkowsky. And many of our listeners, though not all of our listeners will recognize your last name. Your older brother is world famous. It\u2019s fair to say, world famous researcher in artificial intelligence. He runs a blog that I don\u2019t know if they\u2019re still posting on it was called LessWrong. He wrote like a massive gazillion page fan fiction of Harry Potter. Your brother is Eliezer Yudkowsky.\n\n**Channah Cohen:**\n\nYes.\n\n**David Bashevkin:**\n\nYou shared with me one really beautiful anecdote about Eliezer that I insist on sharing because it\u2019s so sweet. He spoke at your sheva brachos.\n\n**Channah Cohen:**\n\nYes.\n\n**David Bashevkin:**\n\nAnd I would not think it was not think that Eliezer Yudkowsky would be the best sheva brachos speaker, but it was the most lovely thing that he said. What did Eliezer Yudkowsky say at your *sheva brachos*?\n\n**Channah Cohen:**\n\nYeah, it\u2019s a great story because it was mind-blowingly surprising at the time. And it is, I think the only thing that anyone said at a sheva brachos that I actually remember, he got up at the first *sheva brachos* and he said, when you die after 120 years, you\u2019re going to go up to *shamayim \\[this means heaven\\]* and *Hakadosh Baruch Hu \\[this means God\\]*. And again, he used these phrases\u2014\n\nPART 3 OF 4 ENDS \\[01:18:04\\]\n\n**Channah Cohen:**\n\nYeah. *Hakadosh Baruch Hu* will stand the man and the woman in front of him and he will go through a whole list of all the arguments you ever had together, and he will tell you who was actually right in each one of those arguments. And at the end he\u2019ll take a tally, and whoever was right more often wins the marriage. And then everyone kind of chuckled and Ellie said, \u201cAnd if you don\u2019t believe that, then don\u2019t act like it\u2019s true.\u201d\n\n**David Bashevkin:**\n\nWhat a profound\u2026 If you don\u2019t believe that, then don\u2019t act like it\u2019s true. Don\u2019t spend your entire marriage and relationship hoping that you\u2019re going to win the test to win the marriage. What a brilliant-\n\n**Channah Cohen:**\n\nWhat a great piece of advice.\n\n**David Bashevkin:**\n\nWhat a brilliant presentation. I never would\u2019ve guessed that Eliezer Yudkowsky would enter into my sheva brachos wedding lineup, but that is quite beautiful and I can\u2019t thank you enough for sharing that."
+        }
+      }
+    }
+  }
+}

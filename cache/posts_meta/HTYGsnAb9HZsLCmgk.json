@@ -1,0 +1,29 @@
+{
+  "_id": "HTYGsnAb9HZsLCmgk",
+  "slug": "bayeswatch-9-zombies",
+  "title": "Bayeswatch 9: Zombies",
+  "postedAt": "2021-09-11T05:57:38.997Z",
+  "baseScore": 56,
+  "wordCount": 826,
+  "commentCount": 15,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

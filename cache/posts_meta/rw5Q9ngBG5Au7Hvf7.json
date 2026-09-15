@@ -1,0 +1,41 @@
+{
+  "_id": "rw5Q9ngBG5Au7Hvf7",
+  "slug": "man-in-the-arena",
+  "title": "Man in the Arena",
+  "postedAt": "2023-06-26T21:57:45.353Z",
+  "baseScore": 66,
+  "wordCount": 2382,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "KADf7NFiAr9DAaQxN",
+      "name": "Social Media",
+      "slug": "social-media"
+    },
+    {
+      "_id": "2EFq8dJbxKNzforjM",
+      "name": "Social Status",
+      "slug": "social-status"
+    }
+  ],
+  "tagRelevance": {
+    "2EFq8dJbxKNzforjM": 2,
+    "KADf7NFiAr9DAaQxN": 2,
+    "etDohXtBrXd8WqCtR": 3,
+    "pGqRLe9bFDX2G2kXY": 2
+  }
+}

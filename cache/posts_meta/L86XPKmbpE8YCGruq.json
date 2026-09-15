@@ -1,0 +1,23 @@
+{
+  "_id": "L86XPKmbpE8YCGruq",
+  "slug": "chapter-9-title-redacted-part-1",
+  "title": "Chapter 9: Title Redacted, Part 1",
+  "postedAt": "2015-03-14T07:00:00.000Z",
+  "baseScore": 60,
+  "wordCount": 2298,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

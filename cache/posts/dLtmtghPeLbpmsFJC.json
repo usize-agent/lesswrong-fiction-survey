@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "dLtmtghPeLbpmsFJC",
+        "title": "Mortal: A Transponyist Fanfiction",
+        "slug": "mortal-a-transponyist-fanfiction",
+        "pageUrl": "https://www.lesswrong.com/posts/dLtmtghPeLbpmsFJC/mortal-a-transponyist-fanfiction",
+        "postedAt": "2013-05-01T01:23:36.464Z",
+        "baseScore": 21,
+        "wordCount": 319,
+        "commentCount": 65,
+        "noIndex": false,
+        "user": {
+          "displayName": "ModusPonies",
+          "slug": "modusponies"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "I recently published [Mortal](http://www.fimfiction.net/story/95424/mortal), a novella-length My Little Pony fanfiction meant to introduce anti-death concepts to an unfamiliar audience. Short description:\n\n> Twilight Sparkle's friends have lived long and happy lives. Now their time is coming to an end, but Rainbow Dash, at least, will not go gently. Twilight has the power to save her friend's life. Is it worth violating the natural order?\n\nThis is a character-driven melodrama. It's not particularly rationalist, but it's very, very transhumanist. Unlike, say, [Friendship is Optimal](/lw/fi8/launched_friendship_is_optimal/), I wouldn't necessarily recommend this one to people who don't already know the source. It assumes familiarity with the characters and the world.\n\nI am going to talk about how I put together the story and how people reacted to it. This will contain spoilers.\n\nThis line exists so you can break out of the automatic \"read everything on the page\" mode if you want to avoid the spoilers.\n\nThis story was structured as something of a bait-and-switch. I watched the [reaction](/lw/efo/a_my_little_pony_fanfic_allegedly_but_not_mainly/) to a previous transhumanist horsefic (yes, there's more than one), and I was struck by how easily readers matched the *explicitly anti-death* narrative to the \"immortality is a curse\" trope. Rather than fight against this trend, I decided to work with it. The first act is meant to look like a story about learning to accept the inevitability of death. Starting in chapter 3, I break further and further away from that mold until the protagonists finally rebel against the status quo.\n\nThe first chapters got a lot of people invested who I suspect would've been turned off by a less familiar opening. Once I was into the third act, I stopped being subtle and used every trick in the book to make the pro-death characters look like the unreasonable ones. Judging by the comments, there's no shortage of readers who were angry at having their expectations flouted, but quite a few seem thoughtful, and some explicitly changed their mind on the subject."
+        }
+      }
+    }
+  }
+}

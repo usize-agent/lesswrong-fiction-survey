@@ -1,0 +1,29 @@
+{
+  "_id": "5knvwbuJxLheHSxpK",
+  "slug": "bayeswatch-6-5-therapy",
+  "title": "Bayeswatch 6.5: Therapy",
+  "postedAt": "2022-04-04T01:20:20.862Z",
+  "baseScore": 27,
+  "wordCount": 177,
+  "commentCount": 1,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "3bBw83qr8nTJb5jcJ",
+  "slug": "patricia-hall-and-the-warlock-curse",
+  "title": "Patricia Hall & The Warlock Curse",
+  "postedAt": "2022-03-06T16:32:59.611Z",
+  "baseScore": 16,
+  "wordCount": 126,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Jsevillamol",
+    "slug": "jsevillamol"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

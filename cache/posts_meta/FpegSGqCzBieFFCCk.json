@@ -1,0 +1,29 @@
+{
+  "_id": "FpegSGqCzBieFFCCk",
+  "slug": "the-tortoise-and-the-language-model-a-fable-after-hofstadter",
+  "title": "The Tortoise and the Language Model (A Fable After Hofstadter)",
+  "postedAt": "2025-08-08T10:39:36.688Z",
+  "baseScore": 55,
+  "wordCount": 1045,
+  "commentCount": 4,
+  "user": {
+    "displayName": "mwatkins",
+    "slug": "mwatkins"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

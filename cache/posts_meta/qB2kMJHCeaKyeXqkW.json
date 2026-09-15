@@ -1,0 +1,41 @@
+{
+  "_id": "qB2kMJHCeaKyeXqkW",
+  "slug": "target-for-tonight-a-drama-in-one-act",
+  "title": "Target for Tonight: A Drama In One Act",
+  "postedAt": "2022-01-16T04:29:40.052Z",
+  "baseScore": 4,
+  "wordCount": 4307,
+  "commentCount": 0,
+  "user": {
+    "displayName": "vernamcipher",
+    "slug": "vernamcipher"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "nwcnHxrxcgnwJ878t",
+      "name": "Luck",
+      "slug": "luck"
+    },
+    {
+      "_id": "bh7uxTTqmsQ8jZJdB",
+      "name": "Probability & Statistics",
+      "slug": "probability-and-statistics"
+    },
+    {
+      "_id": "xXX3n22DQZuKqXEdT",
+      "name": "War",
+      "slug": "war"
+    }
+  ],
+  "tagRelevance": {
+    "bh7uxTTqmsQ8jZJdB": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "nwcnHxrxcgnwJ878t": 1,
+    "xXX3n22DQZuKqXEdT": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "jpXRdsxPZwAfnrYLE",
+  "slug": "the-eden-project",
+  "title": "The Eden Project",
+  "postedAt": "2023-05-12T14:58:38.525Z",
+  "baseScore": -1,
+  "wordCount": 649,
+  "commentCount": 1,
+  "user": {
+    "displayName": "rogersbacon",
+    "slug": "rogersbacon-1"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

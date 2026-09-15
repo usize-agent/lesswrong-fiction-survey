@@ -1,0 +1,35 @@
+{
+  "_id": "mLFQPtKWSCC5qLy5J",
+  "slug": "the-agent",
+  "title": "The Agent",
+  "postedAt": "2022-03-02T22:43:58.676Z",
+  "baseScore": 17,
+  "wordCount": 244,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Ideopunk",
+    "slug": "ideopunk"
+  },
+  "tags": [
+    {
+      "_id": "xXX3n22DQZuKqXEdT",
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "xXX3n22DQZuKqXEdT": 2
+  }
+}

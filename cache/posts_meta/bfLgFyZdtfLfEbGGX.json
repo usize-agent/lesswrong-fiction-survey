@@ -1,0 +1,29 @@
+{
+  "_id": "bfLgFyZdtfLfEbGGX",
+  "slug": "causal-undertow-a-work-of-seed-fiction",
+  "title": "Causal Undertow: A Work of Seed Fiction",
+  "postedAt": "2024-12-08T21:41:48.132Z",
+  "baseScore": 41,
+  "wordCount": 866,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Daniel Murfet",
+    "slug": "daniel-murfet"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

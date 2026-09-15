@@ -1,0 +1,47 @@
+{
+  "_id": "bBc9kfpXpyAnYDMLH",
+  "slug": "a-kindness-or-the-inevitable-consequence-of-perfect",
+  "title": "A Kindness, or The Inevitable Consequence of Perfect Inference (a short story)",
+  "postedAt": "2023-12-12T23:03:03.690Z",
+  "baseScore": 6,
+  "wordCount": 2637,
+  "commentCount": 0,
+  "user": {
+    "displayName": "samhealy",
+    "slug": "samhealy"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xHjy88N2uJvGdgzfw",
+      "name": "Health / Medicine / Disease",
+      "slug": "health-medicine-disease"
+    },
+    {
+      "_id": "Dw5Z6wtTgk4Fikz9f",
+      "name": "Inner Alignment",
+      "slug": "inner-alignment"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2c7",
+      "name": "Regulation and AI Risk",
+      "slug": "regulation-and-ai-risk"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "Dw5Z6wtTgk4Fikz9f": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xHjy88N2uJvGdgzfw": 1,
+    "5f5c37ee1b5cdee568cfb2c7": 1
+  }
+}

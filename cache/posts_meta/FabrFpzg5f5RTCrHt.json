@@ -1,0 +1,41 @@
+{
+  "_id": "FabrFpzg5f5RTCrHt",
+  "slug": "book-review-sorceror-s-apprentice-by-tahir-shah",
+  "title": "[Book Review] \"Sorceror's Apprentice\" by Tahir Shah",
+  "postedAt": "2021-11-20T11:29:21.361Z",
+  "baseScore": 96,
+  "wordCount": 2105,
+  "commentCount": 11,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "4Kcm4etxAJjmeDkHP": 2,
+    "fkABsGCJZ6y9qConW": 2,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

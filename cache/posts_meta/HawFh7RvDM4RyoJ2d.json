@@ -1,0 +1,29 @@
+{
+  "_id": "HawFh7RvDM4RyoJ2d",
+  "slug": "three-worlds-collide-0-8",
+  "title": "Three Worlds Collide (0/8)",
+  "postedAt": "2009-01-30T12:07:52.000Z",
+  "baseScore": 110,
+  "wordCount": 124,
+  "commentCount": 99,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "oooqkNGqAHPGsfgdA",
+      "name": "Metaethics",
+      "slug": "metaethics-1"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 30,
+    "oooqkNGqAHPGsfgdA": 2
+  }
+}

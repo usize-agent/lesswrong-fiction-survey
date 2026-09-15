@@ -1,0 +1,29 @@
+{
+  "_id": "itRfxQtJjYAis2dgb",
+  "slug": "book-reviews-zoolitude-and-the-void",
+  "title": "Book Reviews: Zoolitude and the Void",
+  "postedAt": "2017-09-09T15:32:17.000Z",
+  "baseScore": 3,
+  "wordCount": 2335,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jacob Falkovich",
+    "slug": "jacob-falkovich"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "4Kcm4etxAJjmeDkHP": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "Yig8bzTeizKmPYi6y",
+  "slug": "so-you-want-to-be-a-witch",
+  "title": "So you want to be a witch",
+  "postedAt": "2024-12-31T04:31:52.196Z",
+  "baseScore": -32,
+  "wordCount": 8442,
+  "commentCount": 3,
+  "user": {
+    "displayName": "lucid_levi_ackerman",
+    "slug": "lucid_levi_ackerman"
+  },
+  "tags": [
+    {
+      "_id": "zJsG4caBHv3kSdT2a",
+      "name": "Conversations with AIs",
+      "slug": "conversations-with-ais"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "xexCWMyds6QLWognu": 1,
+    "zJsG4caBHv3kSdT2a": 1
+  }
+}

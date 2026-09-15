@@ -1,0 +1,35 @@
+{
+  "_id": "L6zqL76XnmwLtq7Nd",
+  "slug": "the-simplest-good",
+  "title": "The Simplest Good",
+  "postedAt": "2025-02-02T19:51:14.155Z",
+  "baseScore": 76,
+  "wordCount": 1376,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Jesse Hoogland",
+    "slug": "jesse-hoogland"
+  },
+  "tags": [
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "YkPxg2tFDQNdaEZDJ": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

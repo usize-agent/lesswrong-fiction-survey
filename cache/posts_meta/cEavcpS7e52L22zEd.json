@@ -1,0 +1,29 @@
+{
+  "_id": "cEavcpS7e52L22zEd",
+  "slug": "anti-mmacevedo-protocol",
+  "title": "Anti MMAcevedo Protocol",
+  "postedAt": "2024-04-16T22:32:28.629Z",
+  "baseScore": 1,
+  "wordCount": 2509,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Logan Zoellner",
+    "slug": "logan-zoellner"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "5f5c37ee1b5cdee568cfb2b1": 2
+  }
+}

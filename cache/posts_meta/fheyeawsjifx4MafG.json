@@ -1,0 +1,23 @@
+{
+  "_id": "fheyeawsjifx4MafG",
+  "slug": "trojan-sky",
+  "title": "Trojan Sky",
+  "postedAt": "2025-03-11T03:14:00.681Z",
+  "baseScore": 263,
+  "wordCount": 3704,
+  "commentCount": 40,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

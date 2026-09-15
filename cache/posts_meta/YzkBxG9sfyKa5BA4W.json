@@ -1,0 +1,29 @@
+{
+  "_id": "YzkBxG9sfyKa5BA4W",
+  "slug": "the-garden-of-eden",
+  "title": "The Garden of Eden",
+  "postedAt": "2024-07-22T16:07:42.509Z",
+  "baseScore": 23,
+  "wordCount": 2750,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Alexander Turok",
+    "slug": "alexander-turok"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

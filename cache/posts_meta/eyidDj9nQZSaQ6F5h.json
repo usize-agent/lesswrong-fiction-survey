@@ -1,0 +1,35 @@
+{
+  "_id": "eyidDj9nQZSaQ6F5h",
+  "slug": "what-are-the-best-ways-to-publish-rational-fiction-nowadays",
+  "title": "What are the best ways to publish rational fiction nowadays?",
+  "postedAt": "2026-03-16T18:13:36.351Z",
+  "baseScore": 17,
+  "wordCount": 760,
+  "commentCount": 15,
+  "user": {
+    "displayName": "Ihor Kendiukhov",
+    "slug": "ihor-kendiukhov-1"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "izp6eeJJEg9v5zcur": 2
+  }
+}

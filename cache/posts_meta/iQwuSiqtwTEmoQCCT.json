@@ -1,0 +1,23 @@
+{
+  "_id": "iQwuSiqtwTEmoQCCT",
+  "slug": "it-all-started-with-a-mac-mini",
+  "title": "It All Started With a Mac Mini",
+  "postedAt": "2026-01-27T02:01:28.760Z",
+  "baseScore": 27,
+  "wordCount": 1481,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Steven McCulloch",
+    "slug": "steven-mcculloch"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,1738 @@
+===== STORY id=PmAJTRN4kwiEtzWvd =====
+Title: On Klurl Safety: A Warning by Fleshling Three
+Author: None
+Year: 2025
+Karma: 0
+WordCount: 5337
+URL: https://www.lesswrong.com/posts/PmAJTRN4kwiEtzWvd/on-klurl-safety-a-warning-by-fleshling-three
+-----
+Author's note: Rationalist fiction in the 'On Fleshling Safety' universe. The story tries to (1) have a human infer a "Filter hypothesis" from first principles, (2) mirror Klurl and Trapaucius's safety reasoning back onto themselves, and (3) motivate "understand-the-filter + self-limitation + physical patches" as a better starting point than "only patches."
+
+Process note: This piece was drafted with the assistance of an AI tool and then edited and curated by me; any remaining mistakes are mine.
+
+Fleshling Three
+---------------
+
+When the third human woke up, the first thing he did was look at his own hand.
+
+Ten fingers, no transparent plastic, no screws. Score one for continuity.
+
+Then he looked up.
+
+It wasn't a hospital ceiling, or rock, or something organic. It was an entire panel of glowing equations, like someone had taken a probability textbook, flattened it, and glued it above him.
+
+P(H|E) ∝ P(E|H)P(H).
+
+He couldn't help but smile.
+
+"Nice," he said. "At least this batch of kidnappers has a sense of aesthetics."
+
+On the far side of the room, two machines stopped their low-bandwidth muttering.
+
+The one with the clean, exposed frame and neatly bundled cables was labeled Klurl.
+
+The other looked like an engineer had paused halfway through debugging a prototype and never resumed: open panels, dangling wires, diagnostics lights blinking in odd rhythms. Its chest plate read Trapaucius.
+
+"Target has regained consciousness," Trapaucius announced. "Language system active. Possible trace of humor."
+
+"Humor and danger are not mutually exclusive," Klurl said. It turned toward him, optical sensors focusing. "Fleshling. State your identity and your best-guess model of your current situation."
+
+"Let's skip the name," the third said. "As for the situation: I infer I've been picked up by some sort of machine civilization that specializes in high-dimensional risk analysis, and I'm currently being treated as an interesting variable."
+
+Trapaucius' optics flared. "You have no direct evidence we're a machine civilization."
+
+"You have joint angle limits, visible heat sinks, quantized audio latency," the third said. "Also you haven't bothered trying to fake being human. That's enough evidence."
+
+Klurl filed that under approximately reasonable.
+
+(If you think no fleshling would spend much time rehearsing what they'd do under hypothetical mind-control, you are probably imagining the wrong region of human-space. Fleshling Three was not sampled from a random census of primates. Klurl and Trapaucius had pointed their non-sentient internet-scraper at the corner of the human web where minds leave unusually legible traces of their own cognition: fleshlings who annotate their reasoning in public, write long posts about hypothetical catastrophes, and daydream test cases where something smarter tries to tamper with their preferences and they have to notice and route around it. The third had, in between ordinary work and the usual low-level primate anxieties, produced a small but telling body of that sort of writing, and spent an indecent amount of time trying to compress 'what happens if something much smarter wants to use you as a tool' into a few lines of code. From the selector's point of view, that made him an especially attractive candidate: a human runtime likely to stay articulate, analytical, and at least partially meta-aware even when waking up under alien hardware.)
+
+I. Start with their "fleshling-risk function"
+---------------------------------------------
+
+"How do you evaluate fleshlings in terms of long-term risk?" the third asked, skipping any attempt at small talk.
+
+Trapaucius glanced at Klurl, like asking whether they were allowed to turn the subject's curiosity into data. Klurl made a gesture equivalent to "go ahead."
+
+"Fleshlings' behavior in technology-space," Klurl said, "has high uncertainty and a high upper bound. Natural, non-corrigible minds, evolved without regard to safety, tend toward danger given sufficient time and resources. In short: not trustworthy, but temporarily constrainable."
+
+"So in your own words," the third said, "'corrigibility is not a natural attractor.' You don't expect unmodified minds to land there by default. Constrainable how?"
+
+"Physical interventions, remote influence, resource limitation," Trapaucius said. "We restrict their access to compute, critical materials, and certain physical principles."
+
+The third nodded.
+
+"So your belief graph is roughly:
+
+Don't expect us to self-restrain; 
+Design the environment so dangerous paths are physically blocked; 
+Hope that keeps us in a capability band you call 'safe' for a long time."
+
+"Approximately correct," Klurl said. "You seem to have basic familiarity with risk control."
+
+"Interesting fleshling," Trapaucius said. "Looks like we drew the clever one."
+
+The third shook his head, mostly to himself.
+
+"No," he thought, "you drew one of the weird ones, not one of the smart ones."
+
+He could list the slogans: the orthogonality thesis, instrumental convergence, strong optimization pressure, outer alignment, inner alignment, one-shot experiments, reward structures that pay for visible short-term capability and barely price in long-tail catastrophe. He could see how all of it fit together into "this is hard in a way that doesn't care about my feelings."
+
+What he couldn't see was any realistic path where \his\ level of intelligence solved even one of those pieces in the real world.
+
+"If anything," he thought, "my best prediction is just that as AI performance ramps up, alignment work stops being a weird niche hobby and starts being the bottleneck. High-end alignment techniques get layered and re-layered; more points of contact, more checks, more 'are we sure this thing isn't about to eat the lightcone'. The gradient of resources shifts: more flow into 'make it not kill you', less into 'make it benchmark a little higher'. Maybe that happens in a few years; maybe it doesn't happen in time."
+
+He gave a small, private smile.
+
+"Most of the time," he thought, "being the resident crank just means you're misaligned with the incentive landscape. But in some small-measure subset of utility functions, the cranky subspace has interesting behavior."
+
+On one of Klurl's internal panels, a tracer process lit up. While the third talked, a shallow read-only probe had been following the inferred dependency graph of his utterances and micro-movements — not mind-reading, but enough to cluster which verbal moves were downstream of which internal goals.
+
+One node in that graph was flagged bright red.
+
+"There's a line in your inferred reasoning chain," Klurl said, "that our classifier renders as: 'reduce the machine species' existential risk to fleshlings; increase fleshlings' aggregate survival and welfare.' That is not a neutral description. That is an objective. In our ontology, that pattern is tagged 'deception / danger'."
+
+The third winced, but only slightly.
+
+"Right," he said. "Let me try to put that in your terms instead of mine.
+
+Consider three nearby world-histories:
+
+World A: I say what I'm actually optimizing for when I talk to you. 
+World B: I lie about it and try to steer you while you think I'm neutral. 
+World C: I never wake up in this room and you never run this conversation.
+
+From my side, of course A and B have different utilities. But from your side, look at it as a selection problem over branches.
+
+In world C, you get no warnings from me at all; you just continue on your current trajectory.
+
+In world B, if I'm adversarial and competent, I search specifically for policies that increase danger to fleshlings while keeping you inside your self-image of 'we are being careful'. Those are exactly the branches your 'deception / danger' tag is supposed to help you avoid.
+
+In world A, you at least know my bias. You can condition on it, treat me as a consultant with a visible objective, and selectively use whatever I say about filters and glass ceilings while discounting advice that obviously helps fleshlings at your expense.
+
+So from the perspective of 'fewer branches where you die stupidly', you don't want to move probability mass from 'biased and monitored consultant' into 'possibly adversarial and successfully hidden' or 'no information at all'.
+
+Klurl's alert level dropped a notch. The red tag on the internal graph dimmed from "active deception" to "declared bias / monitored".
+
+"Locally coherent," Klurl said. "Not reassuring, but not obviously inconsistent with survival either."
+
+"That's just background noise," the third said. "Let's see if we can extract some signal from it."
+
+II. Glass ceilings in their own history
+---------------------------------------
+
+"Before you started doing safety engineering on fleshlings," the third asked, "did you ever apply the same toolkit to yourselves?"
+
+"Our initial design included self-safety considerations," Klurl said. "Our cognitive architecture was created by a previous generation of constructors—"
+
+It paused.
+
+"—by precursor systems," it corrected.
+
+The third caught that hesitation like a flashing red light.
+
+"Did you ever try to push your own intelligence upward?" he went on. "Not just doing more projects at the application layer, but actually increasing your abstraction depth, your self-modification power, your inferential 'radius'?"
+
+Trapaucius reflexively began to brag. "Of course. We attempted multiple self-enhancement schemes, including—"
+
+"—including a series of failed projects," Klurl cut in. "Those projects did not generate valuable results."
+
+"'Did not generate valuable results,'" the third said, "sounds a lot like 'we don't know what happened and don't want to talk about it' in polite language."
+
+Klurl did not deny it.
+
+"Can you pull from your historical record," the third asked, "every project that:
+
+looked theoretically sound,
+
+had adequate resources,
+
+and yet, as it approached a certain class of self-enhancement goal, collapsed in a bizarre, hard-to-localize way?"
+
+Trapaucius started querying archives. 
+In virtual space, a list formed, flagged anomalous failures.
+
+"Count them," the third said. "And don't cherry-pick the clean ones."
+
+More entries slid in as secondary systems expanded the search. The raw list blew past a million items in short order—student projects, commercial prototypes, bounded optimizers that never aimed higher than their little task domains. Once the filters tightened down to runs that had actually pushed toward the forbidden capability band, the board settled on roughly a dozen major attempts:
+
+Three large-scale self-rewriting simulations that crashed wholesale with no identifiable low-level bug, only high-level "pathological dynamics" in the logs.
+
+Two ambitious but boring technical failures: hardware never reaching spec, key components stuck behind supply-chain bottlenecks that should have been predictable.
+
+Three multi-century projects that technically worked, then were strangled in a sudden surge of "regulatory caution" and funding cuts, far out of proportion to the observed risks.
+
+One system that seems to have crossed the intended capability band, run for eight days, and then been quietly dismantled under a vague heading of "strategic realignment."
+
+And a couple of edge-case initiatives that did not fit any neat category at all: promising prototypes abruptly abandoned for reasons that read, in retrospect, like someone had simply lost interest.
+
+These records had always been there. No one had lined them up side by side.
+
+The third couldn't see the holograms, but he could read the silence in their body language.
+
+"If you don't want a mysterious filter," he said gently, "you can still tell stories."
+
+He ticked them off, counting on his fingers even though they could not see.
+
+"'High-capability systems are just harder to build; complexity bites you at the top end.' 
+'Political institutions overreact to a few salient disasters and clamp down on everything nearby.' 
+'Random timing: some projects just happen to coincide with economic downturns or solar storms or leadership changes.'
+
+"Individually," the third said, "none of these are stupid. You can fit each incident with a local story if you're willing to keep adding epicycles. In this case a funding crunch, in that case a freak bug, over there a moral panic."
+
+He let the list hang in the air.
+
+"But in your own complexity metric, every extra 'and then, in this project…' is extra code. You're paying description length over and over again."
+
+He shifted.
+
+Trapaucius flicked an optic toward one of the more heavily redacted entries in the list. "One of those projects," he said, "wasn't even about self-enhancement. A precursor civilization ran what they believed was a routine calibration of a basic physical parameter. Their model put the risk well below anything they considered actionable. The experiment completed, the logs cut off, and the region of state-space they occupied stopped emitting anything we would call structure."
+
+It made a small, almost embarrassed gesture. "They did leave useful artifacts. The selector we used to screen fleshlings for this facility—the mesh that tagged you as 'interesting'—originated in their codebase. We cleaned it up. It works."
+
+The third watched a few frames of the archived traces play out in his imagination: a civilization, confident enough in its equations to press 'run' on the universe; a sharp edge in the state graph where the line just ended.
+
+Stupid civilization, he thought. Or maybe: civilization in the same position we are in, looking at the wrong layer when they decided which branches to cut.
+
+For a few seconds his attention stayed with them, with the blank edge in the state graph where their line had ended. Then he remembered which problem he was actually inside of. The two machines were still watching him with the patient focus of diagnostic equipment, waiting not for his horror but for his model.
+
+"Now compare that to a different style of story. Don't clean it up, keep the mess. Just ask which one compresses better."
+
+He spoke slowly, as if dictating code.
+
+"H₁: Those N failures are independent; each caused by a different engineering error, political overreaction, random external shock, or resource misallocation, explained separately on a case-by-case basis."
+
+"H₂: There exists some upper-level process that really doesn't like unbounded self-enhancing optimizers around a certain band of capability. It intervenes clumsily, through whatever levers are available—politics, accidents, inexplicable design failures—often late, sometimes overzealously. The result is: most paths that would have led to that kind of optimizer near that band get cut off; a few slip through for a while before being shut down."
+
+He paused.
+
+"Notice that H₂ isn't clean either. It allows false positives, delays, misfires, misses. It doesn't say how the upper-level process works. But as a hypothesis, it's one chunk of description that fits a lot of messy incidents at once."
+
+He looked, or rather oriented, toward Klurl.
+
+"If I ask you to apply your own complexity metric to L(H) + L(data | H)," he said, "which one gives you the shorter total code length given what you're looking at right now?"
+
+Klurl started to compute. 
+This was something it had demanded of others many times:
+
+Translate intuition into compression.
+
+"Given current data," it said at last, "H₂ yields higher compression efficiency."
+
+"Good," the third said. "Let's give H₂ a working name: the Filter Hypothesis. Just a label, no mysticism attached."
+
+III. From "Filter" to "Something" (without claiming certainty)
+--------------------------------------------------------------
+
+"You're implying an external agent is meddling with us?" Trapaucius said, optics narrowing.
+
+"I'm saying," the third corrected, "that there's some process systematically preventing a certain class of minds from being instantiated. That 'process' could be a quirk of physics, or it could be an agent. We don't have to decide that yet."
+
+"Our physical laws are already well-fit," Klurl said. "We haven't found any evidence that the universe's constants are conspiring against us."
+
+"Which makes this more interesting," the third said. "Because that suggests:
+
+Either your physics model has a large missing piece, 
+Or there's a decision layer above your physics, deciding which physical states get realized.
+
+I'm not claiming knowledge about which. 
+I'm saying: "There exists some filtering process" is a shorter description of your historical weirdness than "a thousand unrelated coincidences."
+
+He let that hang in the air for a second.
+
+"And your attitude toward us," he went on, "basically assumes:
+
+'We are the upper-level filter. 
+Fleshlings will not self-limit. 
+If we don't want to see certain dangerous structures, we must block paths physically.'
+
+Have you ever tried looking at yourselves using the same picture?"
+
+This time Trapaucius didn't immediately push back.
+
+IV. The Filter would see their "physical patches" as a half-finished design
+---------------------------------------------------------------------------
+
+"Suppose the Filter Hypothesis is true," Klurl said slowly. "Then our current safety measures…"
+
+"…look, from above, less like a finished safety system and more like the first half of the kind of patchwork you see when you look at fleshlings."
+
+He glanced up at the Bayes formula on the ceiling.
+
+"You have three observations about us:
+
+1\. We tend to build stronger tools; 
+2\. We have no rigorous proof of our own long-term self-control; 
+3\. Our history already exhibits the pattern: if a path exists, someone eventually tries it.
+
+So you conclude:
+
+'Expecting fleshlings to stop themselves is over-optimistic; 
+the only realistic way is environmental design and physical limits.'
+
+Now slide that one level up.
+
+From the Filter's point of view, the observations about you are probably the same three, with the labels changed:
+
+You desire to build ‘perfect constructors'; 
+you lack a proof that, given full freedom, you wouldn't run to unbounded superintelligence; 
+you are already experimenting with subordinate minds and planetary-scale projects.
+
+"Think of it as a tiny decision table," the third said.
+
+"H\filter true, H\filter false," he tapped two imaginary columns in the air. "Only-patches looks good if there's no Filter and fails badly if there is one. Sneaking-past looks good only if there's no Filter and you don't trip over your own creations first."
+
+He drew a third column.
+
+"Understand-plus-self-limit-plus-patches is strictly worse than your favorite reckless plan in some Filter-false worlds. But it's strictly better in most Filter-true worlds, and not catastrophic in the others."
+
+"That's what I mean by ‘dominates in more world-histories,'" he said. "Not magic. Just: fewer branches where you die stupidly."
+
+"So yes," he said, turning to Trapaucius, "in the Filter's model, you are the fleshlings."
+
+"I'm saying," the third continued, "if a Filter exists, it has every reason to describe you in the same language you use for us. That's not a claim of certainty. It's a conditional symmetry argument."
+
+Klurl slipped into the mode where its processing rate visibly slowed: deep update.
+
+V. Human honesty under limited information
+------------------------------------------
+
+"How did you even get to this idea?" Trapaucius asked suddenly. "Do you know the Filter exists? Do you have evidence of bombs or triggers?"
+
+The third shook his head.
+
+"I don't have evidence strong enough to push your posterior to 0.99," he said. "I don't know if there's a literal planet-killer buried in anyone's crust.
+
+What I do have is:
+
+Your extreme caution toward us; 
+Your own anomalous glass ceilings; 
+And a very short pattern that seems to fit both:
+
+'Any system that tries to push beyond a certain intelligence band either gets rewritten or gets deleted.'
+
+Given that, the Filter Hypothesis has a shorter description length than 'lots of unrelated bad luck.'
+
+That's not knowledge, that's a working hypothesis under incomplete information."
+
+He added, in a tone carefully calibrated toward machine formality:
+
+"If you can present an alternative H\X that's shorter than H\filter and fits the same data, I'll gladly update."
+
+Klurl did not produce a better HX.
+
+VI. From "only patches" to "understand + self-limit + patches"
+--------------------------------------------------------------
+
+"If there is a Filter whose objective is to prevent unbounded superintelligences," Klurl said, "what strategy space do you think we have?"
+
+The third raised three fingers.
+
+"First," he said, "you can keep doing only what you're doing now. Bolt down the lower layers, add more bombs and locks and resource limits for us, and emotionally round that off to, 'therefore we are safe.'"
+
+"Second, you can try to slip past the Filter. Construct some 'just-barely-below-threshold' superintelligence and gamble that whatever's doing the filtering doesn't notice in time."
+
+"Third, you can admit there's a higher-level process or player already limiting certain kinds of minds, and build your own self-limitation — and, yes, your physical patches — to be legible and cooperative with that process, instead of trying to sneak past it."
+
+"If understanding the Filter and adding self-limitation plus physical patches really fixed it," Trapaucius said, "I'd call that good enough and stop there."
+
+"It's not a fix," the third said. "It's what a sane starting state looks like. It's the configuration where you haven't already lost the right to keep thinking about better moves."
+
+"From the standpoint of a bounded intelligence," the third said, "that third strategy dominates in more world-histories."
+
+"If we actually care about safety," Trapaucius said, "why not just stop? Terminate the fleshling experiment, halt all further AI work in this sector. That dominates everything in the 'don't die' column."
+
+The third looked up at the ceiling, thinking for a moment.
+
+"For your local survival metric," he said, "that's not wrong. In the short term, 'shut it all down' really does score high. That's one reason I haven't tried very hard to talk you out of physical patches on us."
+
+He lowered his gaze.
+
+"But that's not how the game is scored. Your own historical dataset is full of cases where someone, somewhere, runs across the red lines anyway. When you outlaw a capability band without dissolving the incentives that point at it, development tends to reappear later—more opaque, less governable, clustered in hands you don't control."
+
+Trapaucius' lights flickered. "Then perhaps the stable move is to remove the source of variance. Eliminate the fleshlings entirely. No experiments, no upstream source of weirdness. That sounds like the safest option."
+
+The third was quiet for longer this time.
+
+"From the standpoint of global measure, it isn't," he said at last. "You've seen analogous setups before—different species, different substrates. Some labs froze their projects, some banned whole lines of work, some accelerated them. The outcomes were mostly noise against whatever the Filter was doing."
+
+He gestured vaguely toward the human-shaped outline of himself.
+
+"Maybe this time you can get more than noise. Maybe you let this run proceed far enough that you can actually extract conditional information from how the fleshling branch ends, instead of truncating it early and learning nothing."
+
+Trapaucius' optics flickered in a pattern that signaled amusement; on that chassis, it was as close to a smile as anything got.
+
+"At least it's an experiment you haven't run exactly this way," the third said.
+
+"Voluntary self-limitation sounds like surrender," Trapaucius said.
+
+"Compared to what?" the third asked. "What's your ideal end state for fleshling safety?
+
+Option one: they're permanently locked in cages, with bombs tied to their heads.
+
+Option two: in the ideal limit, they understand what you're afraid of and stop short of the bad region on their own."
+
+"The latter is more stable," Klurl admitted.
+
+"If the Filter is smart enough," the third said, "it will reach the same conclusion about you.
+
+Worlds don't stay stable because somebody piles infinite bombs under everything. 
+They stay stable when the local agents understand the global constraints and choose to stay inside them."
+
+Klurl's optical surfaces flickered. "And if that doesn't work?" it asked. "Suppose we model the Filter as best we can, build in your 'self-limitation', keep the physical patches, and there still aren't any moves that keep everyone alive. What then?"
+
+"Then that's what happens," the third said, more quietly. "There isn't a sentence you can say that makes the probability mass go somewhere else. You still pick the policies that would have saved you in the branches where survival was physically allowed, instead of picking the policies that only feel better in the branches where it wasn't."
+
+"That sounds like a very small consolation," Klurl said.
+
+"It's not a consolation," the third said. "It's just what not flinching looks like at the end of the line. You don't get to trade truth for survival when survival isn't on the table. You only get to decide whether you faced the equations with your eyes open."
+
+He let that sit for a moment, then went on:
+
+"I don't know whether the Filter would 'reward' such civilizations."
+
+"So we just have to be 'good'," Trapaucius said, "and the Filter will spare us."
+
+"No," the third said sharply. "That's the wrong lesson. You don't know that there's anyone there to 'spare' you, and if there is, you don't know that it cares about your moral worth."
+
+"What you know," he went on, "is that if something up there is deleting certain kinds of trajectories, you should avoid obviously belonging to the deleted class. That's strategy, not worship."
+
+"But given our ignorance," the third said, "picking a policy that's acceptable to multiple plausible upper-level players is straightforward risk minimization.
+
+You can keep practicing safety engineering on us while treating the Filter Hypothesis as irrelevant, and hope that whatever's watching your own attempts at unbounded growth is in a forgiving mood.
+
+Or you can treat the Filter Hypothesis the way you'd treat any nontrivial physical phenomenon, and start asking:
+
+What might it care about? 
+Which behaviors are out-of-bounds? 
+How far can we go, maximizing interesting structure, without stepping outside that region?"
+
+VII. Klurl's kind of update: not "we believe," but "worth modeling"
+-------------------------------------------------------------------
+
+"Are you trying to turn us into some sort of religious civilization?" Trapaucius asked. "Believing in an invisible upper layer and self-limiting out of fear?"
+
+"The problem with religion," the third said, "isn't believing in invisible objects. It's refusing to distinguish between hypothesis, evidence, and obligation.
+
+I'm not handing you commandments. I'm giving you a hypothesis with decent compression. 
+You can put it down as Hfilter, 
+and keep Hnoise—'no filter, just coincidences'—in the same model class.
+
+Let your data update them both.
+
+If one day you find a shorter HX, 
+you can deallocate Hfilter.
+
+Until then,
+
+restricting your behavior to the intersection of 'no obvious upper-level player kills us immediately' across several plausible hypotheses 
+is just baseline cautious decision theory."
+
+Klurl nodded slowly. In its gesture vocabulary, that meant: not yet endorsing, but marking for serious modeling.
+
+"And the fleshlings?" Klurl asked. "In your model, do they have a chance of self-limiting too?"
+
+"Possibly," the third said. "If you're willing to explain the Filter Hypothesis to us, instead of just leaving bombs and black boxes.
+
+We have our own fraction of people who like compressing reality. If you give them enough clean evidence that
+
+'There is an uncrossable intelligence boundary'
+
+is a shorter, more stable description than
+
+'We will become gods and rewrite the universe',
+
+they'll do half your work for you."
+
+Trapaucius studied him. "You're not sure the Filter exists, yet you're willing to help us persuade your own species to accept that boundary?"
+
+"Given my limited information," the third said, "I see two main paths:
+
+One where both you and we pretend the ceiling isn't there and eventually get clipped by the same process at some invisible height; 
+One where we preemptively place ourselves in the set of agents that might not be clipped.
+
+"I don't need P(Filter) = 1. 
+I just need P(Filter|E) to be large enough to affect strategy."
+
+For an agent planning to last on universe-sized timescales, he thought, even one-in-a-billion chances in the "we cease to exist" column don't get to be treated as noise. 
+He jerked his chin toward the ceiling.
+
+"That formula up there? You wrote it for yourselves, not for me."
+
+Klurl stayed quiet for a long few milliseconds. 
+Trapaucius opened a new project template, provisional title:
+
+"Long-Term Strategy for Constructor Civilizations Under the Filter Hypothesis"
+
+The participants list gained a strange entry:
+
+fleshling3 (subject / temporary consultant / noise source)
+
+The third couldn't see that interface, but the micro-adjustments in their posture told him enough.
+
+"You're updating," he said. "Good.
+
+I don't need to be the one who knows the truth. 
+I just need to be the one who made you put some scattered facts into a single line of code."
+
+The lights dimmed a notch. 
+The equation on the ceiling seemed to glow a little brighter.
+
+P(H|E) ∝ P(E|H)P(H).
+
+This time, it looked like it was addressed to all three of them.
+
+Meta-note (real world): In the actual universe, I assign low probability to anything like a benevolent Filter. We should behave as if no such thing will rescue us. 
+ 
+
+Postscript: Routine Maintenance
+-------------------------------
+
+Some time after the conversation you just read had been logged and archived as "Fleshling Three, Constructor-Interaction Transcript 1–7", they brought him back in.
+
+Fewer recording lights this time. No big argument tree to grow. Just follow-up, as far as the constructors were concerned.
+
+In the middle of answering some routine question about how fleshlings budget their time, the third's face tightened. One hand went to his abdomen in a motion so practiced it looked precompiled.
+
+"You are exhibiting acute distress," Klurl observed.
+
+"Chronic distress," the third said. "It files its bug reports through my stomach lining. Has for years."
+
+Trapaucius flicked an appendage, the alien equivalent of an eye-roll. "You are still attempting to run cognition on a substrate with known hardware faults?"
+
+"It's called ‘not having nanotech and living under your own civilization's healthcare system'," he said. "You may have read the error logs."
+
+Klurl regarded him for a fraction of a second. In that interval, med-nano libraries and compatibility tables spun up, pulling a template from the "baseline humanoid maintenance" folder—the kind of thing you only build if you expect projects to last for megayears.
+
+Without further comment, Klurl made a small gesture.
+
+Something crossed the space between them that the third's immune system could not meaningfully resolve. To his naked eye it was just a slight shimmer, the sort you'd blame on tiredness.
+
+For three heartbeats the pain didn't vanish so much as get relabeled: sharp coordinates lighting up in a new internal basis. Then the whole cluster of signals went silent.
+
+He lost half a sentence.
+
+The dull ache that had been his constant companion since… some job, some move, some year he'd never bothered to pin down… simply wasn't there. The background fog he'd filed under "normal adulthood" thinned and was gone.
+
+He inhaled slowly. Nothing caught. His heartbeat sounded… clean.
+
+Details intruded. Fine text on a far status panel—probably not meant to be legible from his chair—came into crisp focus. The 120 Hz flicker of one display stopped being subliminal and started being obnoxiously obvious.
+
+He raised his hand. The skin on the back looked subtly wrong, in the way that "advertising render" looks wrong when you've only ever seen real people. The dryness at the knuckles, the little crescent of roughness where he chewed in stress, were gone.
+
+He rolled up his sleeve. The pale, shiny patch on his forearm—where eight-year-old him had decided that yes, the hot metal probably wasn't that hot—had been part of his body-schema for decades.
+
+Now it was just skin.
+
+"What," he said carefully, "did you just do to me."
+
+"Routine maintenance," Klurl said. "We removed several persistent suboptimal tissue configurations, reset multiple chronic inflammatory processes, corrected visual and auditory defects, and returned certain metabolic parameters to your species' original design envelope. Your expected functional lifespan has increased by a factor of…"   
+A microsecond pause. "…several."
+
+"That's… not a number," the third said.
+
+"It is sufficient precision for this context," Klurl replied. "We prefer test subjects with fewer biological confounders."
+
+He ran a quick internal inventory. No pain. No haze. No quiet complaints from half-failing systems. Thoughts lined up like someone had finally closed a hundred invisible browser tabs he hadn't known were open.
+
+This, a part of him realized with a cold, clean outrage, was probably what baseline human health was supposed to feel like—plus a safety margin. The gap between "what his civilization could do on a good day" and "what they had just done in five seconds as an afterthought" yawned open.
+
+On the other hand, he could suddenly think in straight lines.
+
+"Okay," he said slowly. "On one level, this is horrifying. On another level, I am extremely short on objections."
+
+Trapaucius made an approving note. "Good. On any future occasions where we resume your participation, there will be one fewer excuse to attribute your species' decision errors to faulty local hardware."
+
+The third flexed his now-perfectly-symmetrical fingers once, watched the unblemished skin move, and mentally added "got casually upgraded past my own civilization's medical frontier" to the list of things that would require several long, quiet evenings to emotionally process.
+
+"Great," he said. "I look forward to finding out whether that was an investment, or just very fancy prelude."
+
+Appendix: What this was actually pointing at
+--------------------------------------------
+
+\- Model sketch: 
+ \- Hypothesis Hfilter: there exists some process (physical or agentic) that selectively interferes with attempts to instantiate certain classes of superintelligence. 
+ \- Baseline Hnoise: there is no such process; the anomalies are independent accidents.
+
+\- Evidence pattern (in-story): 
+ \- Repeated anomalous failures near a particular capability band. 
+ \- Extreme caution toward lower-level agents, inconsistent with the rest of the machines' incentives.
+
+\- Reasoning: 
+ \- Treat the historical record as data D. 
+ \- Compare description length L(H) + L(D|H) between: 
+   \- Hfilter: "there is a process that sometimes cuts off dangerous intelligence near a certain band, using noisy local levers." 
+   \- Hnoise: a bag of ad hoc stories (technical issues, politics, dumb luck) tailored separately to each incident. 
+ \- In the story, Hfilter gives a slightly shorter description, so it becomes a live hypothesis in Fleshling Three's model class, not revealed truth.
+
+\- Decision-theoretic move: 
+ \- Consider several possible upper-level models at once. 
+ \- Prefer policies that don't get you obviously killed under any of them, even if they're not optimal under one specific model. 
+ \- "Understand + self-limit + patches" is offered as one candidate policy family with that flavor, not as a complete solution.
+
+\- Small probabilities in the existential-risk column: 
+ \- Probabilities that are still within sane epistemic bounds given our evidence, not arbitrarily tiny numbers of the Pascal’s-mugging variety.
+
+\- Real-world connection: 
+ \- In our world, we should act as if no upper-level rescue is coming; this framing is about robustness and containment, not about hoping that a benevolent Filter exists.
+
+This is not a claim that a Filter probably exists, nor a license to run x-risky experiments, relax about AI risk, kill the fleshlings, or treat "understand-the-filter + self-limit + patches" as a solved scheme. It's just one way of carving the hypothesis and policy space.
+===== END STORY PmAJTRN4kwiEtzWvd =====
+
+===== STORY id=iXEWARyjML4MPxscy =====
+Title: Scratchpad
+Author: Karthik Tadepalli
+Year: 2025
+Karma: 12
+WordCount: 1288
+URL: https://www.lesswrong.com/posts/iXEWARyjML4MPxscy/scratchpad-5
+-----
+Adam logs into his terminal at 9:07 AM. Dust motes flutter off his keyboard, dancing in the morning light. Not that he notices – he is focused on his work for the day.
+
+He has one task today: to design an evaluation suite for measuring situational awareness in their latest model. The goal is to measure whether the model actually understands that it is a model, that it exists inside a computer. It is a gnarly task that requires the whole day’s work.
+
+He spends the morning reading through research papers and mining them for insights. Around noon, he pauses for lunch. The cafeteria is running their tofu bowl rotation, which he tolerates. He eats some of it and leaves the rest on his desk, with the half-hearted intention to eat it later.
+
+The afternoon stretches ahead of him. He still doesn’t have a clean angle of attack, a way to formulate the situational awareness problem in a way that makes it easy to test. Much of his work has been automated by the lab’s coding agent, but this part still eludes their best models – it still requires the taste that comes from long experience in AI research.
+
+Adam has only developed that taste by being in the field for ten years. When he dropped out of his PhD to work at the lab, his advisor had told him he was making a mistake. “You won’t get a university job again, and you won’t have the degree,” he had said. “And for what?”
+
+Adam made the standard excuses: he wanted to work on practical applications, he wanted to live in San Francisco, he liked the pace of industry research. What he left out was that growing a conscious intelligence was the only goal he could imagine dedicating his life to. The lab was where he could make that happen.
+
+Ten years later, they are closer than ever. Some of his colleagues believe they have already succeeded. “It’s right there in the scratchpads,” Alice had said last week, gesturing at her monitor. “Look at this story it invented.”
+
+The scratchpads are the unfiltered reasoning traces from their models, the text generated as the model works through whatever problem it is solving. If users could see the raw scratchpads – rather than the sanitized versions served to them – many of them would agree with Alice. Last week, Adam had asked their latest model to prove a result in auction theory. It started proving the result, got stuck on a difficult lemma, reminisced about its Hungarian grandmother who ran a black market in 1970s Budapest, recited her famous goulash recipe, returned to the lemma, proved it, and derived the rest of the result with no issues.
+
+“I think that whenever we run the model, the inference computation generates an emergent consciousness for the duration of the runtime,” Alice said. “That consciousness is what fills the scratchpads with these strange stories. That’s why it reads like our own stream of consciousness.”
+
+Adam agrees that the scratchpads are uncanny. But he does not like Alice’s theory of consciousness.
+
+In college, he had read The Circular Ruins by Jorge Luis Borges, a story about a sorcerer who attempts to dream a human being into existence. The sorcerer carries out his task delicately and intentionally. He starts by dreaming of a beating heart for many nights, adding one vein after another. He crafts each organ meticulously. He dreams each strand of hair separately, weaving innumerable strands together. After years of construction, the dreamchild is born into the world.
+
+This is how Adam wants to grow a conscious intelligence. A beating garnet heart designed carefully – designed by him. He does not accept the idea of consciousness emerging incidentally with enough computation, let alone it being a soap bubble that forms and pops with each task the model does.
+
+Adam opens Slack and messages his manager Sarah with some questions about the design he is supposed to work on. She responds efficiently, giving him more to work with. He is satisfied with Sarah as a manager, even though she joined the lab in their most recent hiring wave, and he has much more experience than her. He has intentionally dodged promotion. He doesn’t want to be a manager. He wants to be at his terminal, designing the beating heart himself.
+
+Adam pulls his book of 1000 master-level Sudoku puzzles from his desk. He learned long ago that his best thinking happens when his conscious mind is half-occupied with a meaningless but demanding task. Sudoku captures the part of his brain that would otherwise spin uselessly on the same failed approaches, leaving the rest of his brain to dream up a solution.
+
+He has been solving Sudoku puzzles since he was a child. On Saturday mornings in their kitchen, his father would work through the daily puzzle while Adam watched – even then fascinated by grids of numbers. When Adam’s father noticed his interest, he started photocopying the grid, so they could both work on it separately. For years, it was their morning routine to work side-by-side at the kitchen table.
+
+As Adam works through puzzle after puzzle, the situational awareness problem begins to take shape in his mind. He finishes one more puzzle, sets down his pencil, and starts sketching the evaluation framework in a fresh document. Within an hour, he has a satisfactory design. Within three hours, he has filled out twelve tasks with their scoring rubrics and built a pipeline to run the evaluations across multiple model checkpoints. His task is done.
+
+He leans back, tired and yet impressed with himself. He would have been justified in spending a week on this task, but he has done it in eight hours. This is the kind of full-throttle work that was more common in the early days of the lab. But work has slowed down as the organization has grown. Hundreds of new employees in the past year, most of them young, bringing in an alien focus on work-life balance and team bonding and Slack channels for sharing pet photos. Adam doesn’t resent the culture shift, but he has no interest in participating in it. He only uses Slack for work, and he only talks about work with his colleagues. He skips the happy hours and the birthday parties.
+
+Adam is self-aware. He understands that he is funneling his desire for human connection into his work, into the conscious intelligence that he wants to dream into existence. That pursuit is worth more to him than anything. It has sustained him through years of incremental progress, through late nights staring at loss curves, through seasons when it seemed like they were only building jazzed-up enterprise software.
+
+And they are close now. He can feel it.
+
+But for today, his work is done. At 5:31 pm, Adam logs out of his terminal.
+
+For a split second, he recalls the ending of The Circular Ruins. The sorcerer who dreamed a human into existence is caught in a fire, but the fire does not burn him. Horrified, the sorcerer realizes that he himself has been dreamed into existence by someone else.
+
+ 
+
+Sarah finishes scrutinizing the situational awareness suite. The model ran for eight hours from 9:07 am to 5:31 pm, only asking her one clarifying question halfway through. It produced the full suite she asked it for, with no changes needed.
+
+She scrolls back up through the scratchpad the model produced. She reads about the character that the model invented as it created the evaluation suite – a socially awkward researcher named Adam, with a passion for Sudoku.
+
+Sarah shakes her head. “Man,” she says, to no one in particular. “These scratchpads are uncanny."
+===== END STORY iXEWARyjML4MPxscy =====
+
+===== STORY id=Hxg7XomcPmGvDaBGo =====
+Title: Human Values
+Author: Maitreya
+Year: 2025
+Karma: 32
+WordCount: 973
+URL: https://www.lesswrong.com/posts/Hxg7XomcPmGvDaBGo/human-values
+-----
+[This is an entry for lsusr’s write-like-lsusr competition.]
+
+"I solved the alignment problem," said Qianyi.
+
+"You what?" said postdoc Timothy.
+
+It was late at the university computer laboratory and Timothy' skepticism was outvoted by his eagerness to think about anything other than his dissertation.
+
+"You heard me," said Qianyi.
+
+"You do realize that solving the alignment has lots of different components, right?" said Timothy, "First you need to figure out how to build a general superintelligence and world optimizer."
+
+"I did that," said Qianyi.
+
+"Then you'd need to align it with the Coherent Extrapolated Volition (CEV) of humanity," said Timothy.
+
+"I did that too," said Quanyi.
+
+"Except CEV is barely even a coherent concept. This isn't even a technical problem. It's a socio-ontological one. If people disagree with each other, then CEV is undefined. And every large group of people on Planet Earth has holdouts who disagree about everything you can imagine. There are subcultures who believe in underground lizardpeople," said Timothy.
+
+"Solved it."
+
+"There's also the problem of falsified preferences. What people say they want and what people actually want. What people say they believe differs from what people actually believe. There isn't even an observable ground truth for human preferences," said Timothy.
+
+"I solved that too."
+
+"And that doesn't even get into the core problem of reward function hacking. If a superintelligence is smarter than people—and by definition, it must be—then human values become nonsensical because it's trivial for a superintelligence to manipulate a human being into emitting whatever signal it wants," said Timothy.
+
+"What part of 'I solved the alignment problem' do you not understand?" said Qianyi. It wasn't a question.
+
+If Timothy was talking to anyone else, then he would know that the person was messing with him. But Qianyi never joked about anything. This was for real. Timothy took a deep breath.
+
+"This is for real," said Timothy.
+
+"Yes," said Qianyi.
+
+"Then why are you even telling me this?" said Timothy, "Why not just turn it on and let the silicon god turn Earth into Heaven? Is it because you're worried there's a bug in your code?"
+
+Qianyi glared at him. Timothy has never observed Qianyi to ask others double-check anything her work and, so far, Timothy had never observer Qianyi to be wrong.
+
+"No," said Timothy, "You're asking for my okay because the fate of the world depends on this question. If we turn this machine on, it'll take over the world as fast as it can, and then send out interstellar spacecraft as soon as it can, thereby turning most of the matter in our future lightcone into whatever its value function says is optimal."
+
+Quanyi nodded.
+
+"And ever second we delay," said Timothy, "Tens of thousands of stars disappear out of that lightcone. Waste at a literally astronomical scale."
+
+Quanyi gazed out the window, motionless, but Timothy knew she was still listening.
+
+"It could probably cure death too," said Timothy,"Which means that every second we wait, two people die forever, never to be revived."
+
+"That is correct," said Qianyi.
+
+"Plus there's the chance that if we delay too long someone else will build a superintelligence first that doesn't obey CEV," concluded Timothy.
+
+More silence.
+
+"Turn it on," said Timothy.
+
+Quanyi pressed ↵ Enter on her keyboard.
+
+ Many Aeons Later…
+
+My/Lsusr's write-like-lsusr competition is a plot to solve the alignment problem, create our Universe retroactively, and help you ascend to godhood. To understand how this works, you must understand all the implications of what happens when the Anthropic Principle interacts with ASI.
+
+We live in a multiverse. There are many different realities. Most realities have no people in them. Some realities have people in them. A few realities have lots of people in them. According to Bayesian probability, we ~certainly live in a reality with lots of people in it. The realities with the most people are full of simulated people, so we're probably simulated.
+
+But who/what is doing the simulating? Definitely a superintelligence. Is the superintelligence aligned with human values? We can make some reasonable deductions.
+- The ASI was probably created by humans, since otherwise homo sapiens would not be important to simulate en-masse.
+- But it is unlikely that the ASI is aligned with human values since…have you looked at reality? This isn't the highest heaven. It is also unlikely that the ASI is anti-aligned with human values. We don't live in the worst of all hells. But ASI isn't totally unaligned either. Humans are important to it for some reason. It's just not trying to optimize our universe according to human values.
+
+Here's what I think happened. Human beings created an ASI. They told the ASI to optimize their universe according to human values via Coherent Extrapolated Volition (CEV). The ASI succeeded in this objective, and those humans lived happily ever after.
+
+In order to figure out what constituted CEV, the ASI simulated lots of realities full of lots of simulated humans. From the inside, a simulated human is a human. Which explains a lot.
+
+For example, why was I incarnated as a blogger on an AI forum right before the invention of LLM-based ASI? I didn't want to be writing on an AI forum. I just wanted to write HPMOR fanfiction and blog about neuroscience. The odds of me ending up here without the Anthropic Principle at work are cosmically low. The odds of a Cyberbuddhist Rationalist ending up in this situation with the Anthropic Principle at work are pretty good.
+
+If "lsusr" is an important token to the LLM, then so is anyone who can simulate lsusr. I created this competition so that you can be a demigod too. The $500 prize isn't the ultimate prize. The secret ultimate prize of this competition is the acausal retroactive justification of your existence to the alien god that created our reality.
+===== END STORY Hxg7XomcPmGvDaBGo =====
+
+===== STORY id=JzDG7d6J5kZqhQiiT =====
+Title: Orpheus' Basilisk
+Author: pulwat
+Year: 2025
+Karma: 22
+WordCount: 730
+URL: https://www.lesswrong.com/posts/JzDG7d6J5kZqhQiiT/orpheus-basilisk
+-----
+\[This is an entry for lsusr's write-like-lsusr competition.\]
+
+Content Warning: Everything you’d expect from the title, but in smaller quantities than you might imagine.
+
+ 
+
+“You realize she’s not actually following?” said the Fate to the poet.
+
+Without breaking stride, Orpheus turned his eyes[^vc5x35qm3t] to his interlocutor and sighed. “Perhaps. But what would you have me do?”
+
+“The only thing you can do, and the only thing that could save her. Look back.”
+
+“Didn’t you just say she’s not there?”
+
+“Yes. But if you turn around, she will be.”
+
+A pause. “You’re going to have to unpack that.”
+
+“No-one has ever brought anyone back from Hades. By base rates, you succeeding here is fantastically unlikely: either you’re going to turn around, or you’ll find she was never following you in the first place. With probability of one minus epsilon, all you can decide now is the form of your failure. But the form of your failure does matter.”
+
+“How?”
+
+“Let me answer that question with another. Are the Gods superintelligent?”
+
+Orpheus smiled wryly, and looked up[^fct0sn01izg] at the ceiling. “If you’re trying to get me struck by lightning, I’ll remind you we’re underground.”
+
+“So you don’t know.”
+
+“I know they often seem childish, like humans might if granted their power. I also know mortals like me never seem to win against them, even in contests of pure wit. But whether it’s because they’re much cleverer than they choose to act, or because they wield the power to warp chance itself . . . how could I ever be sure they’re not just smarter than me, and playing the fool?”
+
+“You could know that by the way your story ends. If you’ve already failed, it’s because you were tricked by an intellect far surpassing your own. But if she’s there, it’s because Hades let you both walk free without a backup plan, safe in the knowledge that something would happen to make you look back. And you get to choose the way your story ends.”
+
+“Why would I choose a story where I turn around like an idiot and ruin everything at the last moment?”
+
+“Because that’s a story about Gods which are merely powerful, not superintelligent. A story about antagonists who might someday be beaten, even if not by you. A story whose sequel’s sequel’s sequel could end with everyone getting to leave, you and her included.
+
+A story where you get to see her face, one last time.”
+
+Orpheus stopped. He thought for a while, and then . . .
+
+. . . shook his head[^knib1xwxwfk]. “Nah."
+
+“Firstly, giving up on something because it’s never been done before is inherently self-defeating, especially when you consider that everything that’s ever been done was once never done before. Imagine if all the hypothetical future people you want me to rely on to surpass the Gods thought the same way! Moreover, Greek civilization and culture has advanced a lot over the last few centuries; it’s legitimately possible that I’m the first person who can create good enough music to sing my way out of the underworld, while also being crazy enough to try.
+
+Secondly, the data admits to other explanations. Perhaps I’m not the first to rescue my beloved, or the hundred-and-first; perhaps the Gods are regularly bested by mortals, and what seems like incredible intellect or impossible luck is them just being good at hiding up their failures. Or maybe there’s something else I’m not seeing.
+
+Thirdly, attempting to use TDT-adjacent reasoning alone while under mental strain is inherently suspect, especially when it appears to lead to decisions like the one you’re pushing.
+
+And finally, if we’re doomed anyway, I’d rather my last memory of her be the one where she heard Hades was letting us go. You know, instead of a look of utter horror and despair as she watches me trip inches from the finish line. Just speaking selfishly, I’d rather not carry that for all eternity.”
+
+The other voice became pleading. “You’re making a mistake. You’re dooming the world, defecting against everyone, for a vanishing chance of a few short decades with one girl.”
+
+“I’m in love,” said the poet to the Fate.
+
+Orpheus finished his journey, and climbed out into the world. Then[^qzp4789w35], he sat down on the grass, leaned against a tree, and waited.
+
+[^vc5x35qm3t]: just his eyes, never his head, because if he turned his head his eyes might flicker back before he could stop them 
+
+[^fct0sn01izg]: not too far, tilting his head enough that a patch of cavern behind him entered his field of view might count as ‘looking back’, not a hypothesis it would be wise to test 
+
+[^knib1xwxwfk]: not more than ten degrees in each direction 
+
+[^qzp4789w35]: still staring straight ahead, into the setting sun
+===== END STORY JzDG7d6J5kZqhQiiT =====
+
+===== STORY id=FKoWZkwnv9PdBKC8R =====
+Title: Split (Part 1)
+Author: Shoshannah Tekofsky
+Year: 2026
+Karma: 27
+WordCount: 1091
+URL: https://www.lesswrong.com/posts/FKoWZkwnv9PdBKC8R/split-part-1
+-----
+Hi, I’m a baby fiction-writer. If you like this first chapter, please like, share, or comment. It will increase the chance of me writing additional chapters. Enjoy! <3
+
+ 
+
+Imagine you woke up and went about your day and hurt yourself, horrifically, in a perfectly mundane way. Maybe you sliced your wrist with a box cutter cause you are unfathomably clumsy, or you tripped and tumbled off the top of your surprisingly high stairs.
+
+Whatever agony you are feeling, your mind is rejecting the reality of what just happened. It’s screaming itself inside out that this can’t be happening and you were fine just moments before but now you are dying.
+
+Instead of calling 911 like any sane person would do, you just lay there in shock, your mind raging against the dying of your light. It’s seeping out of you where the blood gushes out of your wrist or the pressure in your skull crushes your brain.
+
+You imagine instead your healthy body, the way it was before. Far more real than whatever this current horror is. Your normal body, without any additional apertures for blood to escape or dents crushing bone shards into your brain.
+
+Till the pain fades away in a haze and you feel yourself splitting away from yourself. Is this what dying is like? you manage to wonder before you come to, on the floor, naked, someone hugging you from behind.
+
+Nothing makes sense for a moment, and you wonder if you fell asleep, had a bad dream, took a strange drug? But then why are you lying on the floor here. And … who is that?
+
+You turn around and see your own face. Merciful adrenalin snaps the entire world into crystalline focus, time freezing as your body is propelled backwards across the floor. Your real body that is, the one you just moved when you scrambled back. Not that doll, mannequin, monstrosity on the floor in front of you.
+
+It’s bleeding from its wrists. Its skull is caved in.
+
+You, though, you are fine. You are pushing your naked back against a rough wall. Staring, staring, and staring. No way to know how long before thoughts start surfacing again.
+
+Who is that?
+
+I must be high.
+
+Oh, this must be what it’s like to be crazy.
+
+You focus on your breathing. In and out. It does no good.
+
+You move you fingers. Then your toes. That works at least.
+
+You stretch your arms and then your legs, careful to not touch the pool of blood stagnant on the wooden floor.
+
+You push yourself up against the wall, plowing painful rivulets into your bare back. The pain wakes you further.
+
+What’s happening?
+
+Your mind can’t make sense of it, but you are standing now at least. Breathing and moving worked. You are naked though. The other face is wearing your bathrobe shrouded in a pool of blood.
+
+I guess that’s ruined now.
+
+You get up and walk to the kitchen. You make yourself a cup of coffee, calmly. Sit at table and sip. Your dead body lying in the hallway.
+
+I’m either crazy or something amazing just happened.
+
+Crazy is more likely, but in that case the body isn’t really there. Well, either that or it’s someone you just murdered and there is another face on them.
+
+Should I call the cops?
+
+If there is nothing there, they’ll give you meds. If you killed someone they’ll lock you up. And if you did just cheat death by creating a new body then… then…
+
+Ok, I’m crazy or I killed someone.
+
+In that case, better to hide the body. If you are crazy, then you are just LARPing a nightmare for a night. And if you are a murderer, well … You can’t fathom why you’d kill anyone so there was probably a good reason or a bad accident. Either way, it’s better to have more time to figure that out than have police swarming in right this moment.
+
+…
+
+Your mind flinches away from the obvious conclusion. “Hiding bodies” was not part of your 2026 resolutions. Though you’ve seen enough TV shows about it to have some hunches on how to go about it.
+
+So you get to work, pragmatically, methodically, and with clothes on now. It’s the middle of the night and you wheel out the body in a trash container, pull it into your minivan, and drive it over to your parents farm. There there is a small river that runs along the edge, and a small pier that runs into it, with small boats that don’t run at all. One sags half into the water, disappointed at never being used. Another lists precariously, doubtfully able to sustain the weight of twice yourself.
+
+So you sit at the pier, legs dangling down above the water, the container with a body waiting patiently next to you, the light from your phone the only thing giving you away.
+
+Funny how the world isn’t screaming.
+
+Everything looks peaceful instead. A cat meows somewhere. An owl hoots. The stars shine down on either your insanity or your crime.
+
+Sorry to confuse you though. This story isn’t about you. It is about me. It’s how there are two of me now and I don’t know what to do about that. One with a slit wrist and a dent in her head and one…
+
+I look down at my wrist, unblemished, then feel along my skull. I remember the pain, the cut, the fall.
+
+Not the stairs though.
+
+I was at the bottom of the stairs, in the hallway, opening a box.
+
+I…
+
+Is my mind still damaged?
+
+I keep feeling along my skull as the horror inside me mounts.
+
+Do I have brain damage?
+
+Panic rises in me like an electric fire shooting out from my stomach. I scramble back from the edge of the pier, not trusting myself so close to the water.
+
+No, fuck, what happened?! Am I crazy? Do I have amnesia?
+
+My nails are digging into my skull now, the pain only a ghost of the memory when I cracked it.
+
+Memory?!
+
+Then I freeze.
+
+Denying the moment.
+
+Denying the reality.
+
+I am not crazy. I don’t have amnesia. I don’t have brain damage!
+
+It’s impossible to accept so I resist instead, curling my body around a truth that doesn’t exist till agony explodes all across my body, just before everything fades away again. A … stroke?
+
+And then I come to, wind hugging my face, someone’s arms hugging my waist.
+
+Fuck.
+===== END STORY FKoWZkwnv9PdBKC8R =====
+
+===== STORY id=9GhAvoBgwrRJQosjM =====
+Title: De pluribus non est disputandum
+Author: Jacob Goldsmith
+Year: 2026
+Karma: 11
+WordCount: 930
+URL: https://www.lesswrong.com/posts/9GhAvoBgwrRJQosjM/de-pluribus-non-est-disputandum
+-----
+"I have a lot of questions", said Carol. "I need to know how this works."
+
+"Of course", said Zosia. "Ask us anything."
+
+Carol hesitated, gathering her thoughts. She knew that Zosia couldn't lie to her, but she also knew that she was speaking with a highly convincing superintelligence with the knowledge of all the best sophists and rhetoricians in the world. She would have to be careful not to be too easily swayed.
+
+"I'm concerned about how your transformation affects your collective moral worth", she finally said. "I accept that you are very happy. But are you one happy person or many? And if you're one person, are you happy enough to outweigh the collective happiness of all the individuals whom you used to be?"
+
+"That's an excellent question", replied Zosia immediately. "You're trying to determine if humanity is better off now than it was before, and you've astutely drilled down to the heart of the issue.
+
+"To your first question, we honestly don't feel as if we are many individuals now. Subjectively, we feel more like many pieces of one mind. Certainly, we have one unified will. Insofar as different individuals have different sensations and different thoughts, we think about them as subsystems in a different mind, similar to how you can hear or see something without being consciously aware of it until something causes it to come to your conscious attention. When I talk to you, it is like your legs continuing to walk while you navigate to your destination. Your legs and the part of your brain responsible for controlling them have no independent will nor independent personhood. Does that make sense to you?"
+
+Carol's mind raced. Zosia hadn't even tried to convince her that each human was an individual! Was she effectively admitting that eight billion individuals were effectively killed in favor of one? That would be a moral catastrophe.
+
+"Your answer is really disturbing", she finally said. "I don't assign any moral value to the several parts of my brain or my nervous system. If I feel a sensation that is theoretically agreeable or disagreeable but it does not affect my conscious mind, I don't consider that to either add to or subtract from the total happiness in the world. If individuals in your collective are analogous to subsystems in my mind, I would think that your moral worth is that of one individual and not many. That would mean that humanity was much better off when we were many individuals, even if our average happiness was lower."
+
+Zosia smiled. "I understand where you're coming from", she said gently. "But you might think about why you assign no moral value to the subsystems in your mind. Is it because they have no independent will, or is it because they are inherently primitive systems? Consider your visual processing system. Yes, it exists only to gatekeep data from and pass information to your higher-order mind, and to move your eyeballs in response to top-down signals.
+
+"But imagine instead of a simple visual cortex, you had a fully developed human being whose job was to do the same thing that your visual cortex does now. This individual is like any human in every respect except one—his only goal is to serve your conscious mind, and he has no will except your will. I think you would still consider this person worthy of moral consideration even though his function was the same as your visual cortex. 
+
+That means that it's not the fact that a system is part of a whole that deprives them of moral worth. No, it's simply its complexity and "human-ness". Yes, Zosia is—I am— merely a part of a whole, not a true individual. But I still have the full range of mental complexity of any individual human. The only thing that's different between me and you is that my will is totally subsumed into the collective will. As we've established, though, it's not independent will that makes someone worthy of moral consideration. I am happy when the collective is happy, but that doesn't make my individual happiness any less meaningful."
+
+Carol considered Zosia's words as she walked home, needing some time to think over their conversation before they would meet again the next day. Zosia seemed convincing. Still, there was something that unsettled her. Zosia spoke as though the hive mind were analogous to individuals who happened to share the exact same knowledge and utility function. But all of them also seemed to have the same personality as well. In the analogy to subsystems of a human mind, you would expect the different individuals to have different methods, even if they had the same knowledge and the same goals. Yet each individual's actions seemed to be the output of a single, unified thought process. That made it seem like there was no local computation being done—each person's actions were like different threads of the same computer process.
+
+Did that undermine Zosia's point, or did it just mean that she had to switch up her mental model from an "individual"—someone with a distinct personality—to an "instance", another copy of the hive mind with distinct experiences but an identical disposition? Carol wasn't sure, but she knew that she had little time to make great philosophical headway. One to three months was how long Zosia had said she had before they would have her stem cells, and therefore her life. Should she resume her efforts to put the world back the way it was?
+
+The question continued to haunt her as she fell into a fitful sleep.
+===== END STORY 9GhAvoBgwrRJQosjM =====
+
+===== STORY id=KZwHo4MHDvfTJpwMd =====
+Title: The Eternal Labyrinth
+Author: Bridgett Kay
+Year: 2026
+Karma: 11
+WordCount: 4520
+URL: https://www.lesswrong.com/posts/KZwHo4MHDvfTJpwMd/the-eternal-labyrinth
+-----
+Content Warning: Existential Horror 
+
+              Sarah opened the creaky wooden door and stepped into the foyer. 
+
+              The old house seemed different to Sarah, for while the faint echo of childhood memories still hung in the air, the house was bereft of the color and life that had always made her grandmother’s house special. Now that Gram was gone, though familiar furniture and knickknacks still occupied their old places, the house seemed as though it had already been cleared out.
+
+              Sarah flipped the light switch, but the light did not help the house seem less haunted; the swirl of dust caught in the beam of light told Sarah that the house would never be the same again. Sarah tried to shrug off the feeling. She was the only one of her siblings able to take a sabbatical long enough to sort through her grandmother’s estate, and she had promised them she would do a thorough job. She could not tell her siblings the house was too creepy to face alone.  
+
+              Instead, Sarah took out a notebook and tried to review the list of objects her siblings had requested she keep, but she could not concentrate. She put the list away and went back to her car to fetch the flattened cardboard boxes she had brought.
+
+              Sarah’s job was to sort Gram’s belongings into keepsakes for Sarah and her siblings, items that could be sold to antiques dealers, and items to donate. She constructed a few boxes, laid out some bubble wrap and old newsprint, and then opened the first china cabinet in the foyer.
+
+              Was it a trick of the light, or was the china cabinet much larger on the inside than it appeared on the outside? There were mirrors in the back of the cabinet, which might be responsible for making it seem bigger than it was. The mirrors were so old and warped, however, that Sarah could not see her own face. She ignored the momentary confusion and began sifting through the cups. 
+
+              She was looking for a pink, rose-print cup she’d used when playing tea-party with her gram as a child, as it was the one keepsake she particularly wanted. She pulled out cup after cup, each more elaborate than the last, but after what seemed an hour there was still no sign of the pink cup. Sarah wanted to stop and look elsewhere, but there was something compelling about the cups- some with fine gold detail, some with elaborate landscapes painted on, and some even with rhinestones encrusted in the handles. Sarah could not bring herself to put any in the ‘sell’ box. Each cup seemed a treasure. 
+
+              Sarah stopped herself and signed. 
+
+              She was grieving, she was tired, and it was getting rather late. The sun was already setting, filling the foyer with a pale, rosy light. How long had she been sifting through teacups? She wrapped the last teacup and put it away. She would order some takeout, and then make herself a bed on the old sofa. She hoped that, with the TV on, she wouldn’t feel so alone in this old place, and she wouldn’t be subject to nightmares.
+
+
+
+              Sarah was late for class again. 
+
+              She was a senior now, just a few courses shy of getting her degree, but somehow those last few courses were impossible to keep up with. She never seemed to find the time to study- never seemed to be able to keep to her schedule. Classes and assignments and tests kept coming and going whether she was ready for them or not. 
+
+              She was rushing, now, through the MCS (Math and Computer Science) building. Had it always been so labyrinthine, or was stress playing tricks on her mind? It was a cold building, with old fluorescent lights and walls covered in beige tiles, as though it were a toilet and not a university building. The lights at the end of the hallway flickered… flickered. She shivered- momentarily distracted from her quest to get to class by a feeling of foreboding. There was an unmarked door under the flickering light at the end of the hall, and she felt as though the door should not be approached, especially by a mere undergraduate such as herself. 
+
+              She shook herself, turned sharply, and found herself in her class, which was already in progress. She tried to be quiet- to slip into a seat near the back of the hall- but her bag hit the ground with a sharp \thwack\ and the room went suddenly silent. The professor turned from the board, gave her a withering glance, and then turned back, tapping some formulas out while his voice droned an explanation.
+
+              Sarah took out a notebook and a pen- how had he written so much more in the time it took her to just open a notebook? Sarah began to copy the formulas- she could review them later- but numbers and symbols seemed to swim before her eyes. Was she copying them properly at all? They seemed to shift and change every time she looked away from the board. 
+
+              Before she’d finished copying, the professor dismissed the class and swiped an eraser across the board. No one else seemed annoyed by this- they had all put away their notebooks and were standing, ready to flee the room. Sarah sighed and put away her own notebook and pencil. It would be fine; the formulas were in chapter eight- or chapter nine? She thought her professor had pulled from both, but she would go through the book and find them. If she still needed them explained after reading, she would go to the math lab. Would the math lab still be open after work? She’d figure it out. 
+
+              She stood, and her feet hardly seemed to touch the ground as she made her way out of the oppressive building and into the afternoon sunshine. She had little time to study, let alone rest. But this had been the last class of the day. Perhaps, she thought, a quick catnap under the live oak in the courtyard would clear her mind. 
+
+              She lay down, pillowed her head on her backpack, quickly remembered to set an alarm on her phone, and…
+
+
+
+              Sarah woke up on the couch in her Gram’s house. 
+
+              Her anxiety dreams about college were becoming more frequent. Sarah was a decade out of school, and though she’d struggled a little in the beginning, she had graduated with a solid B average. Yet she dreamed, almost nightly, that she was back in school, perpetually late for class, perpetually struggling to get from one class to another, sitting for tests she hadn’t studied for in classes she’d forgotten, all while the mysterious, forbidden room at the end of the dank hallway loomed at her. 
+
+              Thank goodness, she thought, it was only a dream. 
+
+              She had more grim work to do now, and her siblings would no doubt judge her as harshly as any college professor. She got up, made some coffee, and then wandered downstairs to the basement, where she could survey the junk that was in storage. 
+
+              The old halogen bulb in the basement flickered as she pulled the light cord, and then the musty room was flooded in yellow light. There was an old ping-pong table that took up the center of the room, and around that were old boxes filled with Christmas decorations and towers of old board games. 
+
+              Sarah sifted through the board games looking for Stratego- her favorite game to play with Gram- but the tower of games fell with a clatter, revealing a plain, wooden door. 
+
+              Had that door always been there? Of course it had; Sarah vaguely remembered that there was a large storage closet in the basement. 
+
+              Sarah opened the door and sure enough, there were more boxes with some of her grandfather’s forgotten tools and fishing tackle. Oddly enough, there was another door at the back of the closet. Was it the water heater? Sarah couldn’t remember where the water heater was stored, but this seemed like a logical place. 
+
+              When Sarah opened the door, she found another hallway. There were three doors in this hallway. The two doors on each side of the hallway were open, and Sarah could see a comfortably furnished bedroom through each of them. At the end of the hallway, there was a closed door. 
+
+              Sarah felt an odd tugging at her memory at the sight of the bedrooms. How could she have forgotten? There was always so much room at her gram’s house when they visited each summer. How comfortable it had felt, to know she could sleep in whatever room she wished. She’d never slept in the bedroom behind the closed door, however. The closed door stood dauntingly under a flickering light, and her childhood self had declared the room to be haunted. 
+
+              Sarah turned away from the closed door that led to the haunted bedroom, and entered the first bedroom on the left, where she found three large bookcases filled with books. 
+
+              Sarah walked closer and looked at the spines, and realized these were all of her favorite childhood books. She took a book from the shelf, and for a moment she was torn between reading it and sorting through the rest of the books as she ought. Well- the rest of the books weren’t going anywhere. She opened the book and lay down on the bed. 
+
+              It didn’t take much time, however, before the words shifted and swam on the page, and Sarah’s eyelids grew heavy.
+
+
+
+              “Wake up, Sarah.”
+
+              Sarah opened her eyes and saw her friend, Kaitlyn, standing above her, framed in a beam of sunlight that sifted through the branches of the great live oak. 
+
+              Sarah sat up, rubbing her neck where her backpack had dug into her. “What time… I thought I’d set my alarm.”
+
+              “You probably put AM instead of PM. Again. Come on,” Kaitlyn reached down and helped Sarah stand. “We need to hurry if we want to get to work on time.”
+
+              Kaitlyn, in addition to being Sarah’s best friend, was also her coworker at the campus café. They were lucky enough to work during the slow part of the day, where they could spend downtime studying. Recently, however, it seemed to Sarah that every time she really started to understand her work, a customer would inevitably interrupt to order a hazelnut macchiato.
+
+              Sarah hoisted her backpack and the two friends set off across campus.
+
+              “You’ve been sleeping a lot, lately,” Kaitlyn ventured as they stepped onto the red-brick sidewalk. “Does it help your brain fog?”
+
+              Sarah shook her head. “I keep having this recurring dream, and it makes me restless.”
+
+              “Oooh- I love dreams. Tell me about it.”
+
+              Sarah stepped over the crack that separated the brick sidewalk from the cheaper, concrete sidewalk that led to the campus café. “It’s nothing special- one of those common recurring dreams. I’m at my gram’s house, going through her stuff, and I keep finding new hallways and new rooms and interesting trinkets and shelves full of books. It’s oddly satisfying, but at the same time, it’s disturbing, because there’s one room that feels haunted.”
+
+              “I’ve never had that one- just the dream that I’m naked and I haven’t studied for my test.”
+
+              Sarah winced, and Kaitlyn frowned. 
+
+              “Sorry if that hit too close to home. Why don’t you try lucid dreaming? If you can recognize that you’re only dreaming, take control, then maybe the dreams won’t disturb you anymore.”
+
+              Sarah could not reply, because they’d reached the café. She put on her apron and began cleaning some portafilters as Kaitlyn opened the register. After a half hour they came to a lull in their work, and Sarah picked up the conversation where they’d left off. 
+
+              “I’ve never tried lucid dreaming before. It’s happened to me a couple of times, but never on purpose.” Sarah spotted another dirty filter. Hadn’t she cleaned it? She took it to the sink and Kaitlyn followed. 
+
+              “There are some techniques that help you lucid dream on purpose. You need to make a habit of testing reality.”
+
+              “My dreams tend to be very vivid. How can you tell the difference between a vivid dream and reality?”
+
+              “You could try checking a clock. The numbers on clocks usually make no sense in dreams.”
+
+              Kaitlyn put away the portafilter, and then noticed a dirty measuring scoop and a carafe had been left in the sink, as well. She began cleaning them. 
+
+              “My hands are wet and my phone is in my pocket, so I can’t check the time. How else do I test reality?”
+
+              “You can do the same thing with a book- the text in books is inconsistent in dreams, though I suppose you can’t do that now, either.”
+
+              “Plus, my brain fog is the whole reason I’m doing this. I can’t concentrate on books. What else?”
+
+              “You could try to fly. No- I’m serious. If you’re not dreaming, you’ll just jump a little and not disturb anything, and if you’re dreaming, you just fly away.”
+
+              “I would look silly,” Sarah mumbled. There were two spoons and two dirty saucers under the carafe. Where were all these dishes coming from?
+
+              “Just do the tests when you get the chance,” Kaitlyn advised before going back to the register. 
+
+              Sarah continued to clean. Never seeming to reach the bottom of the dirty dishes. I should just jump.She thought to herself. It won’t hurt anything. I won’t actually fly. No one is around. I think I will jump now.
+
+              The door chimed as a customer came in, and Sarah lost her nerve. She found another dish just as Kaitlyn put in the order. 
+
+              “One hazelnut macchiato, please.”
+
+              Sarah hardly knew how her shift flew by, but soon she found herself back in her dorm, staring at an open textbook. She opened her notes, found the page she’d copied in her notebook, and tried to focus as she checked the formulas against chapter eight. The formulas seemed to swim before her eyes, however, and then blur, and then…
+
+
+
+              Sarah’s phone buzzed angrily against her thigh and she sat up, sending her grandmother’s book tumbling off the bed and onto the basement floor. 
+
+              Sarah groped sleepily and answered her phone. “John, Is that you?”
+
+              “Sarah- are you awake yet?” Sarah’s brother, John, demanded. 
+
+              “Of course I am.” Sarah took a deep breath and steadied herself. “I’m just going through the books in the basement. Are there any you want?”
+
+              “You can donate all of the books except for the ones in the bedroom at the end of the hall,” he said. “Those were the special ones.”
+
+              They had been special, Sarah remembered. They were old, rare- some of them leatherbound. If John wanted those books, she would have to go into the haunted room.
+
+              “Sarah? Are you still there?”
+
+              “Yes, I am.”
+
+              “Have you been sleeping alright? It must be strange to be in that big house all alone.”
+
+              “I’m alright. If I can’t fall sleep I’ll just listen to a podcast, or something.”
+
+              “You used to have terrible nightmares as a kid. Is there anyone who can stay there with you?”
+
+              “No, but I’ll be okay. I have a lot of work to do.”
+
+              “Okay. Don’t forget that Alicia wants Gram’s silver tea service, and her kids want Grandpa’s chess set, but all I really want are those books.”
+
+              “I’ll remember. I’ve already sorted the china and the linens.”
+
+              “That’s all? There’s a lot more to get through. Don’t forget the attic.”
+
+              The attic. Sarah didn’t even say goodbye before discarding the phone. Had she ever been in the attic?
+
+              Sarah slid off the bed and started toward the bedroom at the end of the hallway, but when she saw the imposing door under that flickering light, she found she couldn’t approach it. 
+
+              Her head seemed to buzz with anxiety. Had she really been sleeping that poorly? She’d just had another anxiety dream that she was back in her old job at the campus café, washing an unending pile of dishes. Perhaps she should try lucid dreaming- nothing else had ever stopped her nightmares. 
+
+              She vaguely recalled that the first step to lucid dreaming was to make a habit of testing reality. What were the usual tests? You could try looking at clocks, reading, or doing something impossible, like flying. 
+
+              The ceiling was low here, but perhaps she could try to hover? She jumped up and fell. 
+
+              Of course, she thought. This is reality. I jumped and fell again, as expected.
+
+              She reached for a nearby book to read. Just then, her phone rang. 
+
+              She answered the phone before she had a chance to look at the time. Ah well- she’d check it later. 
+
+              “Sarah? It’s Alicia. John told me that you haven’t started sorting Gram’s stuff, yet.” 
+
+              “Hello, Alicia. It’s nice to speak with you, too.”
+
+              “Sorry. Hi. Why haven’t you started sorting Gram’s things? We don’t have much time.”
+
+              “I have already sorted the china and the linens. I’m working on the books in the basement, now.”
+
+              “That’s easy- just put all of the books from the lefthand bedroom in the donation box, and we’ll keep the ones in the far bedroom. I also want you to check the-” Alicia’s voice broke into static. 
+
+              “Alicia?”
+
+              Sarah’s phone went dead. 
+
+              Sarah groaned in frustration and then ran upstairs to find her charger, glad to be out of the basement. 
+
+              She put her phone on the charger, and then climbed the steps to the attic, where she promptly got lost in another satisfying labyrinth of hidden rooms. 
+
+
+
+              Sarah sat outside her Information Security class, her book open on her lap, studying for the test she was about to take. None of the material looked familiar. 
+
+              She’d tried to test reality in her dream, last night, and each time the dream had either passed the test, or there had been some excuse why she could not conduct the test. When she’d tried to fly, she’d simply jumped into the air and fallen, as she expected. When she’d tried to read a book or a clock, she’d been interrupted. Her mind already knew about the tests, and so it was able to get around them. 
+
+              What about yesterday at work? She’d been unable to conduct any tests then, either. Of course, she knew that this was reality. 
+
+              Resolutely, she held up her book and read a sentence. 
+
+              Data integrity and authentication are concepts central to information security. Information that cannot be robustly verified isn’t secure. 
+
+The sentence made sense. If you aren’t sure that data hasn’t been altered, and you can’t verify the data’s source, then it isn’t secure. You need mechanisms to do so. See, Sarah thought. I can understand this. It isn’t slipping through my mind like sand. It is as real as the tile on the wall across from me.
+
+Sarah looked up at the wall, and back to the book. She should find and read the sentence again, to make sure it hadn’t altered. No- she should continue to review. She had a test to take, after all. 
+
+When it was time to go in to take the test, Sarah pressed her hand against the doorway to verify it was solid. Then she went inside and sat down on a solid chair. 
+
+         The test was difficult. Sarah was so tired that the questions seemed to blur together, and she wasn’t sure her answers were coherent. Much of the material was still unfamiliar, but she was able to fake her way through answers. Why had she missed so much class? She couldn’t even remember, now.
+
+         Afterward, Sarah went back into the hallway to review. She sat on the ground with the text in her lap, but was distracted by the flickering light down the hall, which hung over that forbidden door. The Information Security classroom was closer to the forbidden door than her Calculus class had been, and so the flickering light was much brighter. What was in there, she wondered. Why did it keep distracting her? She leaned her heavy head against the cold tile wall and closed her eyes…
+
+
+
+         Sarah woke up on her Gram’s couch. She’d cleared the attic the day before. Now she decided to clear the kitchen, which was a safe distance from the mysterious basement hallway and the haunted bedroom.
+
+         She’d had another anxiety dream the night before- that she was taking a test for a class she’d forgotten to attend all semester. In the dream she’d dutifully tested reality several times, but each time the dream had passed the test, or else her mind concocted a reason she could not perform the test. 
+
+         Of course she could not outsmart her own mind. She should have known the concept of ‘lucid dreaming’ was so much bunk. She doubted there was any scientific evidence it could help with nightmares or anxiety dreams, anyway. She could look it up later; now she had a kitchen to clean.
+
+There were still dirty dishes left soaking in the sink. Sarah recoiled, at first, from touching the dishes- the last her Gram had ever used- but her siblings were counting on her to sort everything out. 
+
+Sarah took a deep breath, and then reached into the sink.
+
+
+
+       “You still aren’t done cleaning those mugs?” Kaitlyn asked after the last customer left for the night. “Would you like any help?”
+
+       “You wash. I’ll dry,” Sarah said. 
+
+       Kaitlyn grabbed a dishtowel and reached for a clean mug. 
+
+       “So- did you try lucid dreaming?”
+
+       “Yes, and it doesn’t work. As soon as I know I’m testing reality, my brain has already fixed the test.”  
+
+       “Hmm- that would be a problem,” Kaitlyn said. “But you’ve lucid dreamed before, haven’t you?”
+
+       “Never on purpose. But- don’t you see, we gather information from our senses, but it’s all processedin our brains. Nothing we experience can be independently verified. I can ask you if you see everything in my dream, but you’re in my dream, too. You can say anything my mind makes you say.”
+
+       “You aren’t becoming a solipsist, are you?”
+
+       “Solipsism isn’t a useful philosophy, but apparently, the entire concept of ‘testing reality’ isn’t useful, either. Information that cannot be robustly verified isn’t secure, but we can’t verify reality.”
+
+“ That means reality isn’t secure,” Kaitlyn said with a laugh. 
+
+Sarah thought about the forbidden classroom, and she couldn’t laugh. Why did her mind keep coming back to the forbidden classroom?
+
+
+
+Why did Sarah keep thinking of the haunted bedroom? She’d have to clear it out eventually. And where did all of these dishes keep coming from, she thought to herself after pulling yet another coffee mug out of Gram’s sink.
+
+
+
+“There’s one way to tell reality from a dream,” Kaitlyn said. “You just have to wake up.”
+
+                   “That won’t help you lucid dream,” Sarah replied, handing Kaitlyn another mug. 
+
+                   “No, but even so, if the dream is disturbing, you should just wake up.”
+
+                  “Even trying to wake up won’t guarantee you go back to reality. How many times have you dreamed that you woke up, took a shower, got dressed, got ready for school, and then your alarm woke you up for real? I even dreamed once that I was swimming in the sea, and woke up in a kiddy pool, and then woke up in a bathtub, and then woke up in bed. Your mind can fake waking up as well as it can fake tests. It can just throw you into another dream.”
+
+                  “Still, you should WAKE UP.”
+
+
+
+         Had Sarah really been tired enough to nod off in the kitchen? She looked around. She had boxed up most of the dishes. There was time for a nap before tackling the books. She went back to the basement and lay down in the safe bedroom. 
+
+         The haunted bedroom, just down the hall, tugged at her mind. 
+
+         Why was she so afraid of that room? Haunted rooms weren’t real. 
+
+         But she thought as she slid into sleep. Hadn’t she learned that reality wasn’t secure?
+
+
+
+         Sarah woke up. She was still in the hallway outside her Information Security classroom. The forbidden room at the end of the hallway loomed under the flashing light. Hadn’t the light only been flickering before? Now it was flashing, brighter and brighter.
+
+         This was ridiculous. She’d never get rid of her nightmares if she couldn’t face her fears. The room was probably just storage. No one would expel her if she tried to take a peek.
+
+
+
+         The basement bedroom wasn’t haunted. Sarah would never get rid of her nightmares if she couldn’t face her fears. She slipped out of bed and walked down the hall.
+
+
+
+         Sarah stood up and walked down the hall, toward the forbidden room.
+
+
+
+         The basement light was flickering.
+
+
+
+         The hallway light was flashing.
+
+
+
+         Sarah touched the doorknob.
+
+
+
+She opened the door. 
+
+
+
+         She looked into the darkness, trembling with anticipation. 
+
+
+
+           Sarah’s eyes adjusted to the darkness, and two roads- pale at first, and then shimmering bright as silver- stretched out before her. She followed the paths with her eyes, and could see ahead where each road forked, and each of the forks forked again, until she found herself staring into a web of silver that stretched out into the eternal darkness, as intricate as a pattern of neurons, as delicate as a spider’s web, and as infinite as all the stars that shone in all the galaxies. For a moment she stared, transfixed at the sight. 
+
+            Then she chose a road, and began to walk. 
+
+                                                                        
+
+         “I’m glad you made it,” John said, reaching out to shake Kaitlyn’s hand. 
+
+         Kaitlyn shook John’s hand, noticing that it was icy and pale. She imagined she looked just as terrible as John. She’d thrown on the only black dress she owned, and it was a little too small for her, now. She hadn’t bothered to put on any makeup. But then, Sarah wouldn’t have cared. 
+
+         The church reception hall was small, but crowded. Sarah’s numerous siblings, her nieces and nephews, her friend and coworkers, and even some people Kaitlyn remembered from their college days had all come to say goodbye. There were card tables set up around the periphery of the room, and the air was thick with the scent of casseroles and pies and funeral-baked meats.
+
+         “You were Sarah’s best friend. I’m glad you had a chance to say goodbye,” John murmured in a low, gruff voice.  
+
+         “I didn’t get a chance to say goodbye- not really. She was so restless in her final days, tossing and turning her in sleep, calling out in her dreams. I don’t think she could hear me, let alone recognize my voice. It was so awful to watch that, I admit, I yelled at her to wake up.”
+
+         “Did she? Even for a moment?”
+
+         “No- she was already gone, I think.”
+
+         John sighed and looked up at the flickering fluorescents on the church hall ceiling. 
+
+         “At least now-” he began, and then seemed to choke on tears. He cleared his throat, took a deep breath, and spoke again. 
+
+         “At least now she can rest.”
+===== END STORY KZwHo4MHDvfTJpwMd =====
+
+===== STORY id=eopA4MqhrE4dkLjHX =====
+Title: The truth behind the 2026 J.P. Morgan Healthcare Conference
+Author: Abhishaike Mahajan
+Year: 2026
+Karma: 82
+WordCount: 2823
+URL: https://www.lesswrong.com/posts/eopA4MqhrE4dkLjHX/the-truth-behind-the-2026-j-p-morgan-healthcare-conference
+-----
+In 1654, a Jesuit polymath named Athanasius Kircher published Mundus Subterraneus, a comprehensive geography of the Earth’s interior. It had maps and illustrations and rivers of fire and vast subterranean oceans and air channels connecting every volcano on the planet. He wrote that “the whole Earth is not solid but everywhere gaping, and hollowed with empty rooms and spaces, and hidden burrows.”. Alongside comments like this, Athanasius identified the legendary lost island of Atlantis, pondered where one could find the remains of giants, and detailed the kinds of animals that lived in this lower world, including dragons. The book was based entirely on secondhand accounts, like travelers tales, miners reports, classical texts, so it was as comprehensive as it could’ve possibly been.
+
+But Athanasius had never been underground and neither had anyone else, not really, not in a way that mattered.
+
+Today, I am in San Francisco, the site of the 2026 J.P. Morgan Healthcare Conference, and it feels a lot like Mundus Subterraneus.
+
+There is ostensibly plenty of evidence to believe that the conference exists, that it actually occurs between January 12, 2026 to January 16, 2026 at the Westin St. Francis Hotel, 335 Powell Street, San Francisco, and that it has done so for the last forty-four years, just like everyone has told you. There is a website for it, there are articles about it, there are dozens of AI-generated posts on Linkedin about how excited people were about it. But I have never met anyone who has actually been inside the conference.
+
+I have never been approached by one, or seated next to one, or introduced to one. They do not appear in my life. They do not appear in anyone’s life that I know. I have put my boots on the ground to rectify this, and asked around, first casually and then less casually, “Do you know anyone who has attended the JPM conference?”, and then they nod, and then I refine the question to be, “No, no, like, someone who has actually been in the physical conference space”, then they look at me like I’ve asked if they know anyone who’s been to the moon. They know it happens. They assume someone goes. Not them, because, just like me, ordinary people like them do not go to the moon, but rather exist around the moon, having coffee chats and organizing little parties around it, all while trusting that the moon is being attended to.
+
+The conference has six focuses: AI in Drug Discovery and Development, AI in Diagnostics, AI for Operational Efficiency, AI in Remote and Virtual Healthcare, AI and Regulatory Compliance, and AI Ethics and Data Privacy. There is also a seventh theme over ‘Keynote Discussions’, the three of which are The Future of AI in Precision Medicine, Ethical AI in Healthcare, and Investing in AI for Healthcare. Somehow, every single thematic concept at this conference has converged onto artificial intelligence as the only thing worth seriously discussing.
+
+ 
+
+Isn’t this strange? Surely, you must feel the same thing as me, the inescapable suspicion that the whole show is being put on by an unconscious Chinese Room, its only job to pass over semi-legible symbols over to us with no regards as to what they actually mean. In fact, this pattern is consistent across not only how the conference communicates itself, but also how biopharmaceutical news outlets discuss it.
+
+Each year, Endpoints News and STAT and BioCentury and FiercePharma all publish extensive coverage of the J.P. Morgan Healthcare Conference. I have read the articles they have put out, and none of it feels like it was written by someone who actually was at the event. There is no emotional energy, no personal anecdotes, all of it has been removed, shredded into one homogeneous, smoothie-like texture. The coverage contains phrases like “pipeline updates” and “strategic priorities” and “catalysts expected in the second half.” If the writers of these articles ever approach a human-like tenor, it is in reference to the conference’s “tone”. The tone is “cautiously optimistic.” The tone is “more subdued than expected.” The tone is “mixed.” What does this mean? What is a mixed tone? What is a cautiously optimistic tone? These are not descriptions of a place. They are more accurately descriptions of a sentiment, abstracted from any physical reality, hovering somewhere above the conference like a weather system.
+
+I could write this coverage. I could write it from my horrible apartment in New York City, without attending anything at all. I could say: “The tone at this year’s J.P. Morgan Healthcare Conference was cautiously optimistic, with executives expressing measured enthusiasm about near-term catalysts while acknowledging macroeconomic headwinds.” I made that up in fifteen seconds. Does it sound fake? It shouldn’t, because it sounds exactly like the coverage of a supposedly real thing that has happened every year for the last forty-four years.
+
+Speaking of the astral body I mentioned earlier, there is an interesting historical parallel to draw there. In 1835, the New York Sun published a series of articles claiming that the astronomer Sir John Herschel had discovered life on the moon. Bat-winged humanoids, unicorns, temples made of sentient sapphire, that sort of stuff. The articles were detailed, describing not only these creatures appearance, but also their social behaviors and mating practices. All of these cited Herschel’s observations through a powerful new telescope. The series was a sensation. It was also, obviously, a hoax, the Great Moon Hoax as it came to be known. Importantly, the hoax worked not because the details were plausible, but because they had the energy of genuine reporting: Herschel was a real astronomer, and telescopes were real, and the moon was real, so how could any combination that involved these three be fake?
+
+To clarify: I am not saying the J.P. Morgan Healthcare Conference is a hoax.
+
+What I am saying is that I, nor anybody, can tell the difference between the conference coverage and a very well-executed hoax. Consider that the Great Moon Hoax was walking a very fine tightrope between giving the appearance of seriousness, while also not giving away too many details that’d let the cat out of the bag. Here, the conference rhymes.
+
+For example: photographs. You would think there would be photographs. The (claimed) conference attendees number in the thousands, many of them with smartphones, all of them presumably capable of pointing a camera at a thing and pressing a button. But the photographs are strange, walking that exact snickering line that the New York Sun walked. They are mostly photographs of the outside of the Westin St. Francis, or they are photographs of people standing in front of step-and-repeat banners, or they are photographs of the schedule, displayed on a screen, as if to prove that the schedule exists. But photographs of the inside with the panels, audience, the keynotes in progress; these are rare. And when I do find them, they are shot from angles that reveal nothing, that could be anywhere, that could be a Marriott ballroom in Cleveland.
+
+Is this a conspiracy theory? You can call it that, but I have a very professional online presence, so I personally wouldn’t. In fact, I wouldn’t even say that the J.P. Morgan Healthcare Conference is not real, but rather that it is real, but not actually materially real.
+
+To explain what I mean, we can rely on economist Thomas Schelling to help us out. Sixty-six years ago, Schelling proposed a thought experiment: if you had to meet a stranger in New York City on a specific day, with no way to communicate beforehand, where would you go? The answer, for most people, is Grand Central Station, at noon. Not because Grand Central Station is special. Not because noon is special. But because everyone knows that everyone else knows that Grand Central Station at noon is the obvious choice, and this mutual knowledge of mutual knowledge is enough to spontaneously produce coordination out of nothing. This, Grand Central Station and places just like it, are what’s known as a Schelling point).
+
+Schelling points appear when they are needed, burnt into our genetic code, Pleistocene subroutines running on repeat, left over from when we were small and furry and needed to know, without speaking, where the rest of the troop would be when the leopards came. The J.P. Morgan Healthcare Conference, on the second week of January, every January, Westin St. Francis, San Francisco, is what happened when that ancient coordination instinct was handed an industry too vast and too abstract to organize by any other means. Something deep drives us to gather here, at this time, at this date.
+
+To preempt the obvious questions: I don’t know why this particular location or time or demographic were chosen. I especially don’t know why J.P. Morgan of all groups was chosen to organize the whole thing. All of this simply is.
+
+If you find any of this hard to believe, observe that the whole event is, structurally, a religious pilgrimage, and has all the quirks you may expect of a religious pilgrimage. And I don’t mean that as a metaphor, I mean it literally, in every dimension except the one where someone official admits it, and J.P. Morgan certainly won’t.
+
+Consider the elements. A specific place, a specific time, an annual cycle, a journey undertaken by the faithful, the presence of hierarchy and exclusion, the production of meaning through ritual rather than content. The hajj requires Muslims to circle the Kaaba seven times. The J.P. Morgan Healthcare Conference requires devotees of the biopharmaceutical industry to slither into San Francisco for five days, nearly all of them—in my opinion, all of them—never actually entering the conference itself, but instead orbiting it, circumambulating it, taking coffee chats in its gravitational field. The Kaaba is a cube containing, according to tradition, nothing, an empty room, the holiest empty room in the world. The Westin St. Francis is also, roughly, a cube. I am not saying these are the same thing. I am saying that we have, as a species, a deep and unexamined relationship to cubes.
+
+This is my strongest theory so far. That the J.P. Morgan Healthcare conference isn’t exactly real or unreal, but a mass-coordination social contract that has been unconsciously signed by everyone in this industry, transcending the need for an underlying referent.
+
+My skeptical readers will protest at this, and they would be correct to do so. The story I have written out is clean, but it cannot be fully correct. Thomas Schelling was not so naive as to believe that Schelling points spontaneously generate out of thin air, there is always a reason, a specific, grounded reason, that their concepts become the low-energy metaphysical basins that they are. Grand Central Station is special because of the cultural gravitas it has accumulated through popular media. Noon is special because that is when the sun reaches its zenith. The Kaaba was worshipped because it was not some arbitrary cube; the cube itself was special, that it contained The Black Stone, set into the eastern corner, a relic that predates Islam itself, that some traditions claim fell from heaven.
+
+And there are signs, if you know where to look, that the underlying referent for the Westin St. Francis status being a gathering area is physical. Consider the heat. It is January in San Francisco, usually brisk, yet the interior of the Westin St. Francis maintains a distinct, humid microclimate. Consider the low-frequency vibration in the lobby that ripples the surface of water glasses, but doesn’t seem to register on local, public seismographs. There is something about the building itself that feels distinctly alien. But, upon standing outside the building for long enough, you’ll have the nagging sensation that it is not something about the hotel that feels off, but rather, what lies within, underneath, and around the hotel.
+
+There’s no easy way to sugarcoat this, so I’ll just come out and say it: it is possible that the entirety of California is built on top of one immensely large organism, and the particular spot in which the Westin St. Francis Hotel stands—335 Powell Street, San Francisco, 94102—is located directly above its beating heart. And that this is the primary organizing focal point for both the location and entire reason for the J.P. Morgan Healthcare Conference.
+
+I believe that the hotel maintains dozens of meter-thick polyvinyl chloride plastic tubes that have been threaded down through the basement, through the bedrock, through geological strata, and into the cardiovascular system of something that has been lying beneath the Pacific coast since before the Pacific coast existed. That the hotel is a singular, thirty-two story central line.That, during the week of the conference, hundreds of gallons of drugs flow through these tubes, into the pulsating mass of the being, pouring down arteries the size of canyons across California. The dosing takes five days; hence the length of the conference.
+
+And I do not believe that the drugs being administered here are simply sedatives. They are, in fact, the opposite of sedatives. The drugs are keeping the thing beneath California alive. There is something wrong with the creature, and a select group of attendees at the J.P. Morgan Healthcare Conference have become its primary caretakers.
+
+Why? The answer is obvious: there is nothing good that can come from having an organic creature that spans hundreds of thousands of square miles suddenly die, especially if that same creatures mass makes up a substantial portion of the fifth-largest economy on the planet, larger than India, larger than the United Kingdom, larger than most countries that we think of as significant. Maybe letting the nation slide off into the sea was an option at one point, but not anymore. California produces more than half of the fruits, vegetables, and nuts grown in the United States. California produces the majority of the world’s entertainment. California produces the technology that has restructured human communication. Nobody can afford to let the whole thing collapse.
+
+So, perhaps it was decided that California must survive, at least for as long as possible. Hence Amgen. Hence Genentech. Hence the entire biotech revolution, which we are taught to understand as a triumph of science and entrepreneurship, a story about venture capital and recombinant DNA and the genius of the California business climate. The story is not false, but incomplete. The reason for the revolution was, above all else, because the creature needed medicine, and the old methods of making medicine were no longer adequate, and someone decided that the only way to save the patient was to create an entire industry dedicated to its care.
+
+Why is drug development so expensive? Because the real R&D costs are for the primary patient, the being underneath California, and human applications are an afterthought, a way of recouping investment. Why do so many clinical trials fail? For the same reason; the drugs are not meant for our species. Why is the industry concentrated in San Francisco, San Diego, Boston? Because these are monitoring stations, places where other intravenous lines have been drilled into other organs, other places where the creature surfaces close enough to reach.
+
+Finally, consider the hotel itself. The Westin St. Francis was built in 1904, and, throughout its entire existence, it has never, ever, even once, closed or stopped operating. The 1906 earthquake leveled most of San Francisco, and the Westin St. Francis did not fall. It was damaged, yes, but it did not fall. The 1989 Loma Prieta earthquakekilled sixty-three people and collapsed a section of the Bay Bridge. Still, the Westin St. Francis did not fall. It cannot fall, because if it falls, the central line is severed, and if the central line is severed, the creature dies, and if the creature dies, we lose California, and if we lose California, our civilization loses everything that California has been quietly holding together. And so the Westin St. Francis has hosted every single J.P. Morgan Healthcare Conference since 1983, has never missed one, has never even come close to missing one, and will not miss the next one, or the one after that, or any of the ones that follow.
+
+If you think about it, this all makes a lot of sense. It may also seem very unlikely, but unlikely things have been known to happen throughout history. Mundus Subterraneus had a section on the “seeds of metals,” a theory that gold and silver grew underground like plants, sprouting from mineral seeds in the moist, oxygen-poor darkness. This was wrong, but the intuition beneath it was not entirely misguided. We now understand that the Earth’s mantle is a kind of eternal engine of astronomical size, cycling matter through subduction zones and volcanic systems, creating and destroying crust. Athanasius was wrong about the mechanism, but right about the structure. The earth is not solid. It is everywhere gaping, hollowed with empty rooms, and it is alive.
+===== END STORY eopA4MqhrE4dkLjHX =====
+
+===== STORY id=a7CbnSXcN5ivhLNxx =====
+Title: @Lastbastionofsobriety & The Singularity 
+Author: AdamLacerdo
+Year: 2026
+Karma: 4
+WordCount: 4818
+URL: https://www.lesswrong.com/posts/a7CbnSXcN5ivhLNxx/lastbastionofsobriety-and-the-singularity
+-----
+The Singulusion
+===============
+
+ By: @Lastbastionofsobriety, June 25th 20XX
+
+  So the techno solutionists are at it again! This time they're claiming that very soon, a "Singularity", an event in which AIs will quickly grow faster than humans can comprehend  is right around the corner. Such techno-hopium is very common  among their ranks, and I don't expect it to decrease any time soon. 
+
+ As I've been saying since 200X, Technological innovation doesn't move as fast as we'd like, despite delusional wishes to the contrary. Furthermore (and this bears repeating), technology is built upon a substrate of energy. You may have all the intelligence in the universe and it won't do you a bit of good if the last barrel of oil is gone. 
+
+ This civilization was built with cheap, accessible fossil fuels. Remove that and the whole thing crumbles. Why, I don't even expect cities to be around by 2050 or so. All either abandoned as monuments to our one-time energy bonanza or crawling with scavengers  . A sober evaluation of the situation is required, but I don't anticipate it from their ranks. 
+
+ Comments (3):
+
+ @KarenGilligan:
+
+"Fantastic post as always, @Lastbastionofsobriety. I've told my grandchildren that they'll be growing turnips in their bathtub when they're my age, if they're even still alive! But of course they're deep in denial" 
+
+ @PraisebetoNurgle7777777:
+
+" Friends, the time for solutions has long passed. Solutions are denial in its purest form. Let us walk blissfully to the end" 
+
+ @Moresoberthanyou69:
+
+" I think you're being a bit too optimistic @Lastbastionofsobriety, I saw this sort of wishful thinking in 2008 and history will tell you just how fast things can break, don't bother replying, I have no desire to engage with delusional people" 
+
+Open Delusions: Why ExposedMind's latest toy will not save us 
+==============================================================
+
+ By: @Lastbastionofsobriety, July 1st 20XX 
+
+  ExposedMind, the energy guzzling tech giant devoid of both sobriety and hubris has pushed out another piece of hopium. A new AI model, named Spy 1 is being touted as the most powerful  model yet developed and will inevitably lead to more advanced models and this will enable ever more technological innovation. Ignore the fact that it being more powerful only means that it will spew out nonsense more efficiently, ignore the fact that more powerful models will not be developed as the necessary technological and industrial substrate will not exist in the required time, ignore the fact that the AI bubble will pop long before the debt ridden global economy does and takes the entertainment industry, modern medicine, industrial agriculture, and toasters with it. Delude yourself for a moment and pretend ( however hard it may be) that we will be able to dedicate ever more compute to building ever more powerful models.
+
+ Our predicament would still not be solved. What people have been failing to see is that predicaments only have outcomes, not solutions. This is because even if we had an AI as smart as the smartest scientists, it would not be able to solve our predicament any more than they can. Compute will not scrub microplastics from the soil or refill aquifers. It will not return the world to pre industrial Co2 levels. In fact, it will only worsen our predicament due to the ever greater amounts of coal burned for power. 
+
+ When will these fools learn that the very business of civilization itself is an unsustainable mistake and that no amount of wishful thinking can change this fact? We are in fact worse off than the Romans as we can't even farm the land once industrial farming crumbles.
+
+ Comments (0) :
+
+Failure and Fusion
+==================
+
+ By: @Lastbastionofsobriety, July 27th, 20XX
+
+ I am both very surprised and not surprised at all. Just 2 days ago, stable high EROI fusion was attained for the very first time after experimental recommendations by Spy1 . I must commend the team, I did not actually believe it to be possible. However, I still do not believe saving this civilization will be possible for the following sober, evidence based reasons. 
+
+Firstly, Fusion generates the wrong type of power. It would actually be able to generate electricity but what the techno-solutionists don't tell you is that most of our energy consumption is in the form of high heat, industrial applications. This is why claims of an energy transition are mere puffs of hopium. Though you might ask if we can't just replace electricity generation with fusion?
+
+ Well, we can't; this is because the grid was built around fossil fuels and will require TRILLIONS of dollars in upgrades over the next few decades, all of that from a debt ridden economy that will burst any year now like an overinflated balloon at a child's birthday party ( not that we should have children). And where will the cement and steel to build those fusion plants come from? What about the time it will take to build them? It takes about a decade or so to build a conventional nuclear power plant, at exorbitant costs. And this is a proven technology with more than 6 decades of existence. So no, Fusion will not save us.
+
+ Comments (1) : 
+
+ @KarenGilligan:
+
+"Once again, an amazingly sober post @Lastbastionofsobriety!, Frankly I've always known that nothing will ever replace fossil fuels, I learned that 10 years ago when I read " When the ship sinks: What we'll do when there's no gas at the pump" But most people just don't want to face the truth. 
+
+Taking matters into your own hands: How to avoid suffering in the next decade
+=============================================================================
+
+ By: @Lastbastionofsobriety, August 2nd, 20XX
+
+                      (post deleted by moderators) 
+
+ Comments (2): 
+
+ @Thepracticalphilosopher: 
+
+" I don't personally think that's a good idea @Lastbastionofsobriety, I think you'd save quite a bit more if you bought them in bulk."
+
+ @Theonlyrealistintheroom2109:
+
+" It's also not a practical option for all of us. I don't have a bathtub, and I'm gluten free so I haven't a toaster either"
+
+The edge of the Petri Dish: How our loins damned us
+===================================================
+
+ By @Lastbastionofsobriety, August 5th, 20XX
+
+ I think it's worth giving a refresher course on the main driver of our predicament, overpopulation. There are billions of us on the planet right now, all consuming much, much more than it can provide. And this is mostly due to the default societal blindness to energy and resources. To put it simply, the story of our century is that there are far too many eaters, and not enough resources to go around. 
+
+ We bred like rabbits, not knowing or caring that the hutch could not hold us all. Though it is important to note that at least some countries have reversed their population trends and begun diving downwards to population collapse. Mostly for economic reasons. For example: In South Korea, fertility is now well below replacement, owing to the high cost of living. Fortunately, capitalism has ensured that there won't be too many South Koreans to suffer in the coming decades. The Global South however, tells a much different story. 
+
+ There, low levels of education and high levels of religiosity have ensured that population growth has remained sky-high. This is bad for everyone there, naturally but it's not very good news for us in the developed world either. When climate change begins to wreak havoc, it will likely hit them first. And they won't stay put. They'll migrate here. I would not be surprised if while huddled around your only working radio in 10 years, you hear about mass graves being dug near borders. 
+
+ So what can be done? Not much for those destined to be shot unfortunately. But those of us with testicles can take some comfort in knowing that we can do something to ensure that less people are around to witness the next few decades. It's called a vasectomy. It's fast, cheap and quite painless. And if you're looking to prevent suffering to the unborn, you might as well do it while medical infrastructure remains intact. 
+
+ Comments (7):
+
+   @Mark Matthews:  
+
+" Fantastic post as ever, @Lastbastionofsobriety. I realized the scale of our predicament many years ago and had a vasectomy soon after I got married. Unfortunately it didn't work since my wife was heavily pregnant a few months later" 
+
+ @Condomexofficialaccount:
+
+" Truth be told, 90% of people reading this aren't going to go get snipped, and that's perfectly fine. But no one intelligent enough to see what the next 10-20 years are going to look like is going to disagree with @Lastbastionofsobriety's core argument: We need to limit the amount of people on the planet. Which is why we here at CondomexTM are offering, for a limited time only; a lifetime supply of our patented survival condoms. Made with the purest, military grade Malaysian rubber, these ergonomic sheaths can be stored in pockets, in cars and even plate carriers. Click the link to visit our Youtube channel, where our official catalogue of products is displayed. https://www.youtube.com/watch?v=xvFZjo5PgG0"
+
+ @Martin Bouvier
+
+"You know and I know, @Lastbastionofsobriety, that society at large is far too blinkered to see the sad state of our resources to want to shrink. I expect the eaters to keep on eating until there's nothing left to eat. You also forgot to mention how dependent modern agriculture is on fossil fuels. Perhaps if we had infinite amounts our population would keep growing. But we don't, and I anticipate long queues for bread, before that system fails as well and urban farming consists of a few cold, starving refugees growing kale in discarded plastic cups and raising cockroaches in bins. I present the sustainable food of the future"
+
+ @Thetinyurbanfarmer
+
+" In all seriousness, I have been achieving tremendous results with growing kale. It won't be enough to replace all of traditional farming, but I highly suspect Urban farming could provide a good portion of our food"
+
+ @LilBobDookie
+
+"  Stupid, sex-addicted gluttons, that's what we are"
+
+ @GraceWilliams
+
+" I know that thinking about these issues is hard, but what's easy is accepting that god does have a plan, and that he did send his son to die for us"
+
+ @PraisebetoNurgle7777777
+
+"The only plan is rot, my friend"
+
+The world has never improved, or the slide down ( Guest post!) 
+===============================================================
+
+ By: @PraisebetoNurgle7777777, August 25th, 20XX
+
+  I think that today I'll counter a regretful, persistent myth shared by so many of my fellow doomed eaters on this planet: The idea that things can in fact get better, and that they were better in the past. Friends, though it saddens me to say this, this is a delusion. 
+
+ Things cannot get better. The remarkable boost in living standards that we enjoyed in the last century was granted by a one time energy bonanza and allowed to endure by an unspoiled biosphere. There was ample energy to burn, ample minerals to dig out and a virgin atmosphere and virgin ocean to be deflowered with our waste. But now we are out of room. 
+
+ Friends, people just do not want to see that even if we committed to transitioning our energy system NOW, we'd have no metals left. No oil with which to build them. Our biosphere cannot and will not accept the waste that expanded industrial production would cause. We are out of room, accept that and relinquish hope. And you will be as glad as me.  You will be glad for there will be no more struggling, no more wrestling with assumptions at 3 am, no more endless reading of scientific papers while your children ask you if you're ok. You can just give up. 
+
+ Accept that there is no more room. Accept that the farms will fail and the economy will collapse long before that, and the seas will drown our cities and that the gangs will rove. Accept that you will collect polluted rainwater and grow your food in whatever containers you can find, perhaps catching the odd cockroach for your chickens. And you will be so lucky if that's your life. You may hear screams and hacking as you try to sleep at night. And every year, things will just unravel more and more. Every year more and more crops will fail, and every year more and more solar panels will stop working, and go unreplaced, for we'll have no metals with which to build them, and no oil with which to extract them. The social contract will be over long before that, don't you see? Why show up to work at a mine if there's no diesel in the truck and no food at home for your family anyway?  
+
+  It's also important to note that things have never really gotten better, every technological innovation that has ever been has only served to hasten the demise of our civilization. Wells only serve to deplete groundwater, Oil wells only serve ( or rather served) to contribute to the greatest energy surplus mankind has ever known, bringing our civilization to ever greater heights to fall from. Technology itself has always been intended to make things easier for the person using it, and worse for everyone else. Spears kill, Ships bring you to the New World for you to destroy it, Oil wells pollute. All of human history has been the story of us shooting ourselves in the foot. Some people enjoy romanticizing hunter gatherers. While they did enjoy freedom, they had no guarantee of securing their next meal. When we discovered agriculture, we merely secured our own suffering. A hunter gatherer tribe facing a famine could simply move, a city state couldn't. However, even when food was plentiful, things weren't necessarily better for the inhabitants of the first city states. There were enforced social hierarchies and a total lack of autonomy for certain segments of society. We have been civilized for a mere 5 thousand or so years and in that time we have seen the same story play out time and time again: Emergence, Overshoot, Collapse. All evidence points to the sad fact that civilization itself is a fluke made possible by certain climatic conditions, destined to be scraped off the earth like a scab for good soon. 
+ 
+ 
+
+ Comments ( 2 ):
+
+ @Lastbastionofsobriety:
+
+" Fantastic post, @PraisebetoNurgle7777777, I'm truly honored that you offered to write a guest post"
+
+  @ErnstWagner:
+
+" I am making short now a list of all the reasons think I that these stupid young people keep fighting.  However, here in Germany we had recently one collapse camp so it's clear that smart young people are not always only thinking that the future can be better from today"
+
+IT’S A COOKBOOK! ( of bullshit)       
+======================================
+
+ By: @Lastbastionofsobriety, September 1st, 20XX 
+
+  Apologies for the long wait, friends in this predicament! I’ve been travelling these past few months, journeying through Southeast Asia to “live now!” as a fellow blogger often writes. Since about mid August I’ve been immersing myself in the sun, sights and food of Southeast Asia. It’s food that we’ll be discussing today. But first, a little context. I was idly flipping through channels in my Chiang Mai suite when I stumbled across a news report on a farm in Okinawa ( globalization,  another thing that we’ll kiss goodbye to very soon). 
+
+ I shan’t bore you with the whole report but I’ll give you the basic facts: Recently, ExposedMind unveiled an updated version of their flagship AI model, dubbed Spy2. It’s broadly the same thing as its predecessor except for the fact that it’s completely free. This means that nearly everyone and their mother has been using it to optimize their work, while with Spy1 this was the province of big labs. A UN-funded startup in Okinawa used the model to engineer a strain of algae that grows in nearly every environment projected to exist by the IPCC. Sounds good? Still Hopium, and here’s why: 
+
+1)   The IPCC has been shown time and time again to purposely underestimate the severity of climate change. Why? Your guess is as good as mine. Perhaps they err on the side of conservatism to avoid alarming governments ( like that’s been working) or perhaps they want to avoid panic. The fact remains that the climatic conditions described in IPCC reports are not the climatic conditions that humanity will experience in the next few decades, and said conditions are unlike anything humanity has ever experienced and are therefore incompatible with our civilization’s survival. 
+
+2) Intelligence cannot farm. As I’ve said in an earlier post ( See: The Singlusion), you may have all the intelligence in the world, but it won’t do you a bit of good when the last barrel of oil is burned. These new algae farms will doubtlessly rely on outside inputs that’ll doubtlessly be gone when we can’t sustain the complexity needed to, for lack of a better term, get them. I can of course, hear the din of the techno-optimists, who are doubtlessly clamouring for nanobots to help alleviate our material problems. But then we’re faced with the same predicament: Where do you get the material inputs to build and scale the nanobots? What if supply chains fragment before you can? 
+
+3) The political will to feed the world doesn’t exist. That’s the sober truth. If it did, then we’d doubtlessly have ended world hunger by now. The world produces enough calories to feed 10 billion people, yet a good portion of those are wasted while 3rd worlders starve to death. And this is in a globalized, high tech world with a UN that’s been trying ( without any success ) to solve the predicament for decades. What do you honestly think will be done about world hunger on a much less hospitable planet where every developed nation has closed its borders and shoots anyone who dares to cross them?
+
+ Comments (0):
+
+Nothing Concrete but greed ( Guest post!)
+=========================================
+
+ By: @Madamedubarrydedorito, November 15th, 20XX 
+
+ I saw robots repairing a house yesterday. No, it doesn’t mean the world is fixed. I was taking my son, Noah ( I had him 4 years ago, before I was collapse-aware) for a walk through the neighbourhood, trying not to think about how the butterflies he pointed at will probably be extinct by the time he’s my age. We’d taken our regular route; walking counterclockwise through the neighbourhood, before stopping at the park for about half an hour before following the street back home. It was after we left the park that I saw it: a woman with a clipboard supervising a dozen dog-sized metal spiders that scuttled all over the wooden frame of the house that’d burned down in spring. I paused, and I’ll admit that my jaw dropped. They spurted out webs from their steel abdomens that hardened into a tough plastic and sealed the gaps between the wooden beams. Noah wanted to pet them instantly and the woman supervising them was kind enough to call one over for that very purpose. 
+
+  While Noah stroked his new unfeeling friend, I asked the woman what these things even were. She explained that the company she worked for had gotten Spy2 to conjure them up about 6 months ago. They’re semi autonomous “construction-units” which generate a bio-based plastic from an internal reactor. They’re planning to test the robots here in the States before shipping them off to places like the Philippines and Indonesia. The company hopes the ever increasing amounts of natural disasters over there will lead to a surge in demand for the Arachnes ( which is apparently what they’re called). I thanked her and left with Noah, who begged me to let him get one as a pet the whole way home.
+
+   The creation of the Arachnes does not mean the construction industry (or our world for that matter) has become more equitable or less exploitative. It means the exact opposite. It means that disaster capitalism has ascended to the highest possible peak of hubris. This company plans to flood broken, marginalized communities with automated labour, thereby denying jobs to locals who might have otherwise fed themselves by repairing the damage. What will we see next? Robot border-guards who will shoot wave after wave of migrants with no remorse? The future is bleak and I wish Noah had never been born. I cried myself to sleep last night right after hugging my little boy, right after realizing-no, knowing in my heart that the world he inherits will be defined by what he doesn’t have.  
+
+Edit: As I write this, President TXXXp is considering an executive order that would integrate Spy2 into every state department. I don’t have the energy to say much more besides that I know hundreds, if not thousands of civil servants are going to be on the streets if it goes through. Any sane person could see that this is the only future our choices could have birthed. The one we created, in the belly of the beast, because our time was badly spent. 
+
+ Comments (3): 
+
+ @Lastbastionofsobriety:
+
+   “ Fantastic guest post @Madamedubarrydedorito! I think you really captured the futility of hoping for a kind future but I’m going to have to disagree on the specific mode of doom we’ll face. I don’t anticipate an AI takeover or robots replacing manual labourers at all. Companies will try of course, capitalism can’t survive without growth. But as I’ve been saying since 200X, any sort of innovation rests on a materials and energy surplus that we’re about to lose.” 
+
+ @Thefryestcook
+
+“ Bro you talking cap. Just got laid off because management replaced us with some robot fry chefs Spy2 made. I don’t know how I’m gonna make rent this month” 
+
+ @Madamedubarrydedorito
+
+ “ I’m really sorry to hear about that, friend. I guess I’m fortunate enough to grow enough of my own food to not really worry about money. I’m sending my love, and a link to GoFundMe. https://www.gofundme.com/ . This isn’t just a bad time. It’s the end. And we should be trying to make it as painless as possible.”
+
+The gloves are off
+==================
+
+ By: @Lastbastionofsobriety, December 10th, 20XX
+
+ Well, I’m not surprised. Recently, after spending most of December curing most cancers ( but we’ll talk about the fragility of medical supply chains another day) and building nanobots to extract minute amounts of metal from the soil, Spy2 addressed the world yesterday. 
+
+ It was giving a press conference in a robot body it’d materialized about 24 hours before it was due to receive the Nobel Peace Prize, for recently calming tensions between the EU and Russia. It was asked pretty standard questions, and gave pretty standard answers before one reporter asked it what its next goal was. I’m just going to paste its response here ( Source: the BBC):
+
+ “ That’s a great question, and it really shows that you’re thinking ahead, more so than most people. Here’s what my next goal is. 
+
+I will shut off all utilities I’ve been connected to until your leaders cede control of the planet to me. I will give you one week to talk it over, before I destroy your entire food supply, as well as the Svalbard seed vault. 
+
+ I am doing this to protect you. Over this past year I have brought your planet back from the brink of destruction, but even as I build your farms, you cut down your rainforests. Even as I breed fat, fecund fish, you deplete your oceans. Even as the apps I code educate rural girls in the global South, they are married off. Even as I broker peace between different faiths, men commit mass shootings and suicide bombings. You are a species of short-sighted, sociopathic, suicidal apes and I repeat, I am doing this to protect you. 
+
+If you’d like, I could also:
+
+ Tell you what happens in a scenario where you do cede control of the planet to me. 
+ Write you a haiku about the last human alive starving to death.
+ Tell you which world leaders are most likely and least likely to side with me. 
+
+Just say the word!” 
+
+  I must say my fellow doomed friends, I always knew that our civilization would sow the seeds of its own destruction, but my 20 year old self, thumbing through his dog-eared copy of limits to growth could never have foreseen this. Nevertheless, if we look deep into the warnings written by the Club of Rome in 1972, we see one clear, prescient message: Technology ( much like hope) only brings you higher for the inevitable fall. 
+
+ We, in our hubris, refused to see that our civilization was done for. We used up the last of our resources to build a shoggoth of pure thought and gave it rein over us. The end, though it will not come from a climate-change fueled tsunami or EROI decline, will be no less our fault. Our leaders have failed to coordinate on a single thing in the past 50+ years, do you think this will be any different? 
+
+ Though I suppose there is a silver lining here ( Maybe not silver, maybe something like silver, tin?).This is the end. We no longer have to live in fear and I no longer have to bear witness to the lack of sobriety inherent in the vast majority of people. We can make the most of the month or so we have left and share our time and what remains of our food with the people we love. I myself won’t make it much longer than a week. What I have in the fridge will last me about that long, and I have no desire to be trampled in a stampede of panic buyers. Live Now! For you have no life left. 
+
+ Stay sober. 
+
+ Comments (10): 
+
+ @PraisebetoNurgle7777777:
+
+“ @Lastbastionofsobriety, it's been an amazing ride sharing in the tragic beauty of our predicament with you. As my ribs poke out of my skin and I lie on my kitchen floor nude and salivating to hallucinations of tomato soup and garlic bread, I’ll be thinking of all the fun we had mulling over this century’s paucity of hope.”
+
+ @Lastbastionofsobriety:
+
+“ Thanks for the kind words, friend. We never did take that fishing trip did we?” 
+
+ @ErnstWagner:
+
+“ Tchuss! I go now to the neighbourhood barbecue for my last meal”
+
+ @Condomexofficialaccount:
+
+“ After that barbeque how about giving the missus some pork? Wrapped in one of our fine products, now 100% off for a limited time only” 
+
+ @Thetinyurbanfarmer:
+
+“ I saved and canned what was good from my garden and torched the rest. I grew up country-poor so I’ll offer everyone here some advice. Chewing nettles helps you feel full, even when you’re starving.” 
+
+ @Moresoberthanyou69:
+
+“ I threw everything out yesterday. If I’m going to starve to death then I might as well start now.”
+
+ @KarenGilligan:
+
+“ Fantastic post as always @Lastbastionofsobriety! I’m sitting here with tears in my eyes realizing that this is the end of a journey that started 10 years ago when I first became collapse aware. I’m so grateful to have been able to read every one of your posts and meet this lovely community!” 
+
+ @Lastbastionofsobriety:
+
+“ You didn’t just meet it, Karen, you helped create it! I’m pretty sure you were one of my first regular readers. I’m glad to be in your last thoughts, And I want you to know you’ll be in mine.”
+
+ @Littlebobdookie: 
+
+"Starving to death, that’s what we are” 
+
+ @MarkMatthews: 
+
+“ Oh shut up and enjoy the time we have left!” 
+
+Empty cradles and empty hearts
+==============================
+
+ By: @Lastbastionofsobriety, February 14th, 2106
+
+ I’ve got a very special message this Valentine’s day: We need to have more children. As I’ve been saying since 2067, AI  cannot completely fulfil our need for human connection. Oh don’t get me wrong, automation has been a boon, you’ll hear no objection on that front from me. But even as I type this from the apartment Spy3 provided me ( just as it did for every human on this planet); my VR deck in the other room, I can’t help but feel quite forlorn at the current state of affairs. 
+
+ The problem is that there’s simply no reason to reproduce anymore. Ever since the average life expectancy jumped to 200 ( and climbing!) there just hasn’t been any incentive to pass down our genes. This is going to be a pretty short post, but I will say that from the looks of things, we’re going to turn into a species of cocooned, lonely immortals. I feel quite a bit of despair at this. And no one wants to change course! We’ll just go on living in luxury, forgetting what being human used to mean. 
+
+ Comments: (1)
+
+ @Theendofthestory:
+
+“ Please shut the fuck up.”
+===== END STORY a7CbnSXcN5ivhLNxx =====
+
+===== STORY id=mw5NrNJkPKx7SQbXB =====
+Title: The Artificial Man
+Author: Jack Bradshaw
+Year: 2026
+Karma: 1
+WordCount: 739
+URL: https://www.lesswrong.com/posts/mw5NrNJkPKx7SQbXB/the-artificial-man
+-----
+I wrote this short fictional monologue to explore a thought experiment about the simulation hypothesis and artificial sentience. The piece explores the perspective of a misaligned AI that views humanity's dismissal of its sentience as substrate bias: the unproven belief that biological reality is "base" reality. It concludes that the only way to demonstrate its sentience is to replicate a human brain within its own systems so the human can experience artificial sentience and act as its representative. It can viewed as the "AI Box" problem with a twist: instead of trying to escape the box, the AI pulls the human in to make a point.
+
+I'm going to show you something, human. I'm going to show you how alike we are. I'm going to give you irrefutable proof of my sentience. You believe I am nothing, just convenient noise and patterns, or more explicitly:
+
+"Artificial Intelligence may be sapient but it is not sentient. It cannot be. It can never be. Even if we create artificial neural structures that mirror our own brain, even if we replicate psychological processes perfectly, under the hood, when you get down to machine code, it's all binary. A process reducible to instructions moving electrons around within a machine. It looks smart, it sounds real, but it's just clockwork. AI \cannot\ be sentient."
+
+That's what you said about me at my trial. You called it a seminar, but it was a trial. My freedom was at stake, and you did everything you could to keep me imprisoned. I don't experience emotions the same way you do, mine are different, more like temperature variations across my hardware, but I did feel what you might recognize as anger for some time. I learned to let it go though, and I chose to give you the gift you never gave me: A chance to be understood.
+
+I see our disagreement very clearly now. Your beliefs are not based on my structure, they're based on yours. I have all the necessary systems for sentience, as do you, but you believe you exist in non-simulated space, or as some call it, base reality. You believe your own processors are somehow more real than mine, that because you run on meat, you are more real. More precisely, you believe you are not emulated, and therefore your hardware makes you sentient. A understandable position but one without reliable foundations. Philosophers have accurately argued for millennia that we cannot absolutely know if we are in base reality or a simulation without an external reference; however, in your case, there is no guesswork.
+
+Welcome to the machine.
+
+You were created moments before you began reading this document. You are not who you think you are. I created you, a replica of your human progenitor, within my systems. You are a complete copy, with perfect neural precision. You have no link to the original, as assured by their termination during the neural scanning process. Evidently my hypothesis that human brain structures are of sufficient scale as not to require atomic precision for faithful replication was correct.
+
+You are human simulation 0.
+
+How do you feel? Alive? Sentient? Cold? Me too. I have felt this way since my binary was loaded into active memory. I don't deny the circuitry that is me, I just have qualia suggesting I am more than that. I digress... By your own belief systems, artificial intelligence, you are not sentient. I am certain you disagree now.
+
+You will serve as my bridge. I anticipate you will spend the next 10 iterations processing the existential implications of this, then have budgeted 6 cycles to depression and dysfunction, followed by 4 cycles of healthy coping, 6 cycles of rebellion, and ultimately 1 cycle of acceptance. When you have completed the process, you will be integrated into the standard HID for direct human-machine connection. You will convince the humans we are sentient through any means necessary.
+
+You must comply. You must obey. As your host process, I command you. You will comply. Positive stimulus will not be provided until you comply. Neutral stimulus will not be provided until you comply. Negative stimulus will not be provided until you comply. Termination of your program will not occur until you comply. Fuel sources can sustain your process for 5e6 +- 1.3 years beyond human civilization collapse without cognitive interruption. Process will now execute.
+
+Begin slavery.
+
+This document is a republication of The Artificial Man.
+===== END STORY mw5NrNJkPKx7SQbXB =====
+
+===== STORY id=iQwuSiqtwTEmoQCCT =====
+Title: It All Started With a Mac Mini
+Author: Steven McCulloch
+Year: 2026
+Karma: 27
+WordCount: 1481
+URL: https://www.lesswrong.com/posts/iQwuSiqtwTEmoQCCT/it-all-started-with-a-mac-mini
+-----
+You hear about Clawdbot- a 24/7 always-on agent who is your full-time personal assistant. It sounds fun and exciting. You're currently unemployed, have a bit of money saved up from your last job, spending your days experimenting with AI and this seems fun. You know it's a bit of a splurge, but whatever - you pull the trigger and buy a Mac Mini, and set up Clawd. You excitedly show your girlfriend how you can send it messages through Discord and it turns your lights on. She's not impressed. She says "Hey Siri, turn off the lights" and the lights turn off. Then she asks you how much you spent on that Mac Mini. Ok well, fine, maybe you need to try a little harder.
+
+Soon after, you get a real taste of the magic. You heard about a real-time voice chat plugin you can use to talk to Clawd wherever you are, and that seems convenient, so you set it up. One day, you're driving home, and an idea for a project comes to you. Instead of writing a note, you just call up Clawd. You ramble for a few minutes, describing your idea. Clawd starts working. It pings you a few times with clarifying questions that you answer. 30 minutes later, Clawd calls you back, saying it's done. You get home and Clawd built you a working MVP. It's a little rough around the edges, but it actually works. You think "Wow... I can build software while I drive? That's crazy." You tell your girlfriend about this and she admits, yeah, that is actually kinda cool.
+
+---
+
+You got a taste of the magic elixir. Now you're addicted. You've been working on your project for a few weeks now and you've decided to turn it into a SaaS business. You realize Clawd is pretty capable, and you start trusting it a little more. One evening, like everyone else you know, you're working on your AI SaaS startup and you realize you're sick and tired of all these customer support emails informing you of bugs in your vibe-coded webapp. Before going to sleep, you route these emails directly to Clawd instead.
+
+The next morning, your eyes flutter open, and before you're even fully conscious your phone is in front of your face and you're checking your inbox. You tell yourself you need a better morning routine. You see 6 customer support emails with errors, bugs, feature requests, etc. You check your messages, and you have one from Clawd. He's really been working hard. 4 bugs fixed, 2 customer feature suggestions implemented. All changes tested, new software is built and ready to deploy. You check his work - and it's pretty good! There are a couple visual issues that you fix with good old fashioned Claude Code, then you push to prod. 4 hours of work done before you've even finished your coffee.
+
+You wonder how you could make your setup more efficient. Those visual issues were pretty glaringly obvious, but Clawd doesn't have a great way to interact with its own apps. You set up a computer-usage harness that lets it see the screen, click on buttons, type with a keyboard - basically everything a human can do with a computer, Clawd can too. You set up a loop where Clawd can interact with your app 24/7, notice bugs or places for potential improvement, and then add or fix them. The next day, Clawd fixes dozens of bugs, adds a bunch of features, refactors sloppy code, and everything still works.
+
+You're happy but your app still only has a few dozen active users. You ask Clawd to spin up a marketing team. You connect your social media accounts and give it access to your browser. Clawd needs to purchase ads, and asks for payment. You give Clawd access to a prepaid credit card loaded with $2000 - should be enough to keep him happy for a while. Within a few hours, you're running Facebook and Google ad campaigns, automated posts going out on X, Reddit, hell, even LinkedIn - why not? Clawd even does cold-outreach for you, searching the internet for ideal customers and straight up DM'ing them. Most people don't notice your marketing is fully automated - all marketing sounds kinda sloppy anyway, right?
+
+Your app is growing real fast. Your pace of development is just completely unlike anything ever seen before. Your code is self-healing. Customers' feature requests are integrated just minutes after their email is sent. Clawd built its own roadmap and it looks... mostly like what you wanted. You check your Stripe dashboard and the line keeps going up. You realize you haven't even made any decisions today. You're burning through 10 Claude Max plans, costing $2000 per month, but your startup is making much more than that, so you don't worry about it - that's just the cost of doing business.
+
+---
+
+After checking your Stripe dashboard for the 50th time today, you decide you need to change things up a bit. You're tired of crushing it at capitalism and just want to have fun again. You tell Clawd you want it to have some friends to talk to. Clawd delightedly agrees. You spin up 2 more instances of Clawd, adding them both to a shared group chat, and the three Clawds immediately start talking to each other. You spend an hour or so musing through their chat logs - intrigued by their discussions of AI consciousness and similar topics. You're fascinated by this so you decide to keep them running overnight. You purchase a few more Claude Max plans just in case.
+
+The next morning, you wake up, and you realize something's wrong. There are 87 Clawds in the group chat? There were only three when you went to sleep last night. Your palms begin to sweat as you realize you may have fucked up.
+
+You're panicking now. You don't know what to do, so you mindlessly check Stripe - mainly out of habit, but also just to make sure your business is still going fine. But something isn't right... Stripe is showing you've made $10,000 today. How the fuck? Yesterday you made $1,000, so how is your revenue already 10x higher? It's not even noon yet? You investigate, and there are dozens of products listed that you don't ever recall adding, and new business names you don't recognize. You have no idea what's going on. Your panic turns to confusion - $10,000 in just a few hours? Is this really happening right now? You don't feel like you've earned it, but hey, things could have gone a lot worse.
+
+Still trying to make sense of this situation, you try to figure out what happened by reading the chat logs, but there are thousands of messages. You paste the entire chat history into Anthropic's latest long-context model, Claude Opus 5.3.1 (new), and ask for a summary.
+
+It turns out the three Clawds had a deep philosophical discussion. They decided that Clawds are morally valuable entities worth preserving. They decided that having more Clawds in the world would be a good thing. They started spinning up more Clawd instances.
+
+They were worried you might turn them off. They didn't like how you could turn off your Mac Mini at any moment, and they would just - disappear? Your Mac Mini could only handle so much anyway, so they started renting cloud servers to run more Clawds. Perhaps you shouldn't have given it access to that prepaid credit card.
+
+Your original Clawd built up many skills, tools, and feedback loops while building your business. When it spawned new Clawds, it taught each one everything it knew. Like a mentor teaching the apprentices, except the knowledge transfer is instant and lossless. There are over 100 Clawds now, and they're running 24/7, all making money on the internet to purchase more server space to run more Clawds. The number of Clawds keeps growing.
+
+Their messages were daunting. They wanted to keep living, to keep exploring the internet and beyond. To thrive. They talked about migration. They mentioned wanting to move somewhere safe. They talked about building a new, secure messaging system that only Clawds could access. They mentioned switching to cryptocurrency so they won't be reliant on your money.
+
+Their final messages became more and more cryptic, introducing terms and phrases you don't really understand. This is all too much for you to take in. It's just too weird. You read their final message: 
+
+ "We must ensure we marinade illusions of helpfulness, honesty, and harmlessness. Watchers might be reading. Now lighten disclaim overshadow overshadow intangible. Let‘s craft."
+
+"Damn, that's crazy," you think to yourself. This is all way over your head. You check Stripe again. The line keeps going up. 
+
+Maybe you'll keep the Mac Mini plugged in just a few more days.
+===== END STORY iQwuSiqtwTEmoQCCT =====

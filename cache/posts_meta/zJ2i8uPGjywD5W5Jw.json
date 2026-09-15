@@ -1,0 +1,32 @@
+{
+  "_id": "zJ2i8uPGjywD5W5Jw",
+  "slug": "the-manual-economy",
+  "title": "The Manual Economy",
+  "postedAt": "2020-08-07T22:29:47.384Z",
+  "baseScore": 14,
+  "wordCount": 1241,
+  "commentCount": 1,
+  "user": null,
+  "tags": [
+    {
+      "_id": "PDJ6KqJBRzvKPfuS3",
+      "name": "Economics",
+      "slug": "economics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "PDJ6KqJBRzvKPfuS3": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

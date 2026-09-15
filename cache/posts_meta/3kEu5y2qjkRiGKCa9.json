@@ -1,0 +1,23 @@
+{
+  "_id": "3kEu5y2qjkRiGKCa9",
+  "slug": "fiction-my-alternate-earth-story",
+  "title": "Fiction: My alternate earth story.",
+  "postedAt": "2022-04-16T19:06:18.798Z",
+  "baseScore": 25,
+  "wordCount": 1351,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Donald Hobson",
+    "slug": "donald-hobson"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

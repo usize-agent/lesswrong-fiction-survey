@@ -1,0 +1,35 @@
+{
+  "_id": "Afwaj6sGfxcQZrmYF",
+  "slug": "chapter-4-the-efficient-market-hypothesis",
+  "title": "Chapter 4: The Efficient Market Hypothesis",
+  "postedAt": "2015-03-14T19:00:18.930Z",
+  "baseScore": 91,
+  "wordCount": 1835,
+  "commentCount": 9,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "pnSDArjzAjkvAF5Jo",
+      "name": "Efficient Market Hypothesis",
+      "slug": "efficient-market-hypothesis"
+    },
+    {
+      "_id": "jgcAJnksReZRuvgzp",
+      "name": "Financial Investing",
+      "slug": "financial-investing"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "jgcAJnksReZRuvgzp": 3,
+    "pnSDArjzAjkvAF5Jo": 3
+  }
+}

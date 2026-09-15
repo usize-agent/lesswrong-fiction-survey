@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "wd6cug64wsMnPc2eg",
+        "title": "The most important step",
+        "slug": "the-most-important-step",
+        "pageUrl": "https://www.lesswrong.com/posts/wd6cug64wsMnPc2eg/the-most-important-step",
+        "postedAt": "2018-03-24T12:34:01.643Z",
+        "baseScore": 19,
+        "wordCount": 397,
+        "commentCount": 5,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jsevillamol",
+          "slug": "jsevillamol"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "8uNFGxejo5hykCEez",
+            "name": "Virtues",
+            "slug": "virtues"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "8uNFGxejo5hykCEez": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "I have a penchant for the stories of the old, in the era before the Bayesian Enlightment and before the Singers and Cantors surfaced, the days when the students of the Art of Rationality met underground, away from prying eyes.\n\nWithout the Sacred Texts to guide them, the disciples of Rationality spent long times discussing and refining the Art. 'Twas an arduous task, yet they persevered, guided by the promise of Light and Truth, the glimpse of Polaris that decided their course.\n\nIn this story in particular, two disciples of the Temple of the Bay discussed about the most important step in a quest.\n\n-Surely - said one of them - the most important step must be first; for no quest has come to fruition without going through the first step.\n\n-But you forget - said the other - the same reasoning applies to the last. No quest is complete without its last step.\n\n-What about the value of the journey? It is infinitely more valuable to get halfway through a sacred quest, and then fail the last step, than to never have embarked upon it to begin with.\n\n-In the Art, all that matters is victory. We do not embark in the path of Rationality to try, but to reach that which really matters. One does not get points for effort. Only conclusions matter.\n\n-How can you even talk about the last step? In the quests that really matter, we should not see the end. Those quests, like the pursue of the Art, are powerful, alive things. To seek to end them is to mean their death.\n\nBoth kept arguing about both things for ten days and ten nights, until the master of the Temple came back from a journey of sacred meditation, to find both her disciples in heated conversation.\n\n-Silence! - said the master - You both have brought dishonor to this sacred house! You have unattended your tasks while talking about abstract things, and thus you have lost sight of the Enemy.\n\n-But master - protested one disciple - this is important theory to be crafted! Our quests must wait, for as you taught us, a strike without purpose is a wasted motion.\n\n-Had you really understood the lesson - said the master - you would clearly see how to [dissolve this silly question](https://www.lesswrong.com/posts/Mc6QcrsbH5NRXbCRX/dissolving-the-question). No step, nor the first one nor the last, is as important as the next one!\n\nAnd the students were Enlightened."
+        }
+      }
+    }
+  }
+}

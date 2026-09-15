@@ -1,0 +1,23 @@
+{
+  "_id": "rhRwSvxi6gkzKRjPL",
+  "slug": "meeting-with-the-makers",
+  "title": "Meeting with the makers",
+  "postedAt": "2026-04-19T07:47:10.434Z",
+  "baseScore": -4,
+  "wordCount": 529,
+  "commentCount": 0,
+  "user": {
+    "displayName": "sig",
+    "slug": "sig"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

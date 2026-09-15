@@ -1,0 +1,35 @@
+{
+  "_id": "Hxg7XomcPmGvDaBGo",
+  "slug": "human-values",
+  "title": "Human Values",
+  "postedAt": "2025-12-23T21:08:52.812Z",
+  "baseScore": 32,
+  "wordCount": 973,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Maitreya",
+    "slug": "maitreya"
+  },
+  "tags": [
+    {
+      "_id": "PbShukhzpLsWpGXkM",
+      "name": "Anthropics",
+      "slug": "anthropics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "PbShukhzpLsWpGXkM": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

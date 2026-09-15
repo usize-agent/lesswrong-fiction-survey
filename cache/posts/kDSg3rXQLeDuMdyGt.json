@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "kDSg3rXQLeDuMdyGt",
+        "title": "An Epistemological Nightmare",
+        "slug": "an-epistemological-nightmare",
+        "pageUrl": "https://www.lesswrong.com/posts/kDSg3rXQLeDuMdyGt/an-epistemological-nightmare",
+        "postedAt": "2024-11-21T02:08:56.942Z",
+        "baseScore": 6,
+        "wordCount": 527,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ariel Cheng",
+          "slug": "ariel-cheng"
+        },
+        "tags": [
+          {
+            "_id": "EdRnMXBRbY5JDf5df",
+            "name": "Epistemology",
+            "slug": "epistemology"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "kCrvmjZhsAZANnZL6",
+            "name": "Philosophy",
+            "slug": "philosophy-1"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "EdRnMXBRbY5JDf5df": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "kCrvmjZhsAZANnZL6": 1
+        },
+        "contents": {
+          "markdown": "A short story by Raymond M. Smullyan, written in 1982.\n\n> ...(A few weeks later.) Frank is in a laboratory in the home of an experimental epistemologist. (You will soon find out what that means!) The epistemologist holds up a book and also asks, \"What color is this book?\" Now, Frank has been earlier dismissed by the eye doctor as \"cured.\" However, he is now of a very analytical and cautious temperament, and will not make any statement that can possibly be refuted. So Frank answers, \"It seems red to me.\"\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 Wrong!\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 I don't think you heard what I said. I merely said that it seems red to me.\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 I heard you, and you were wrong.\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 Let me get this clear; did you mean that I was wrong that this book is red, or that I was wrong that it seems red to me?\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 I obviously couldn't have meant that you were wrong in that it is red, since you did not say that it is red. All you said was that it seems red to you, and it is this statement which is wrong.\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 But you can't say that the statement \"It seems red to me\" is wrong.\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 If I can't say it, how come I did?\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 I mean you can't mean it.\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 Why not?\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 But surely I know what color the book seems to me!\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 Again you are wrong.\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 But nobody knows better than I how things seem to me.\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 I am sorry, but again you are wrong.\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 But who knows better than I?\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 I do.\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 But how could you have access to my private mental states?\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 Private mental states! Metaphysical hogwash! Look, I am a practical epistemologist. Metaphysical problems about \"mind\" versus \"matter\" arise only from epistemological confusions. Epistemology is the true foundation of philosophy. But the trouble with all past epistemologists is that they have been using wholly theoretical methods, and much of their discussion degenerates into mere word games. While other epistemologists have been solemnly arguing such questions as whether a man can be wrong when he asserts that he believes such and such, I have discovered how to settle such questions experimentally.\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 How could you possibly decide such things empirically?\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 By reading a person's thoughts directly.\n> \n> **Frank:**  \n> \u00a0\u00a0\u00a0 You mean you are telepathic?\n> \n> **Epistemologist:**  \n> \u00a0\u00a0\u00a0 Of course not. I simply did the one obvious thing which should be done, viz. I have constructed a brain-reading machine--known technically as a cerebroscope--that is operative right now in this room and is scanning every nerve cell in your brain. I thus can read your every sensation and thought, and it is a simple objective truth that this book does not seem red to you..."
+        }
+      }
+    }
+  }
+}

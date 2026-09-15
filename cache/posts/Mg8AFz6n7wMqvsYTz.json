@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Mg8AFz6n7wMqvsYTz",
+        "title": "Trouble at Miningtown: Prologue",
+        "slug": "trouble-at-miningtown-prologue",
+        "pageUrl": "https://www.lesswrong.com/posts/Mg8AFz6n7wMqvsYTz/trouble-at-miningtown-prologue",
+        "postedAt": "2025-04-24T19:09:10.105Z",
+        "baseScore": 19,
+        "wordCount": 1205,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Quinn",
+          "slug": "quinn-dougherty"
+        },
+        "tags": [
+          {
+            "_id": "7jaBCxPHRDfJppYws",
+            "name": "AI Sentience",
+            "slug": "ai-sentience"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "7jaBCxPHRDfJppYws": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "In late 2019 I wrote a TTRPG.\n\nThe theme was alien sentience (or perhaps sapience is the technical term), both \"organic\" (extra terrestrial) and \"artificial\" (AI/robots).\u00a0\n\nThis is the prologue that kicks off play.\u00a0\n\nI found it really fascinating to look back on late 2019 and how I was thinking about some of these topics.\u00a0\n\n> Earthdate March 2022. Two months ago Corporation installed Miningtown in an asteroid cluster n \u00a0kilometers away. Staffed by trillions of agents, most of whom produced in an early stage of the \u00a0installation, Miningtown was to be a productive zone free of sentience, free of distraction from the one \u00a0goal, which was rocks. Rocks, and more rocks, sent back to earth on periodic shuttles.\n\n> That was the official story by the time of launch, but it wasn't the original plan. Originally, Corporation \u00a0wanted Miningtown to maximize *itself* with all the luxuries of stronger intelligence, rather than the \u00a0more parochial goal of maximizing rocks. Then the NOSWA, the No One Should Work Act, was \u00a0amended to require intelligence throttling on all commercial workforces. Fierce lobbyists, organized by the Sentient Liberties Union (the SLU) who got NOSWA passed in the first place, rammed the \u00a0amendment through in response to throttling technology becoming minimally viable. To everyone's \u00a0surprise, Corporation showed every indication they'd comply with the regulation, as they patented and \u00a0seized as much of the tech behind throttlers as they could get their hands on. \u00a0\n\n> Various moral philosophy organizations joined the SLU in explaining to the press that this is a net win. \u00a0\"Toiling away to maximize rocks when you have mutable preferences is a moral catastrophe,\" as Dr. \u00a0Octopus put it, \"which is why we applaud Corporation for doing the right thing even at great cost to \u00a0their quest for galactic dominance.\" As far as liberals were concerned, an estranged clerk from the more radical wing of the SLU would explain to me later, the NOSWA stood strong in the face of changing \u00a0technology, and Corporation's galactic dominance wasn't so much questioned as it was mildly \u00a0handicapped. \u00a0\n\n> The launch was televised-- a core team of seed agents and an enormous metal hull fired into the sky, \u00a0started assembling robots in the hull's interior as soon as they hit low gravity. By the time they got to \u00a0the asteroid they were a few million strong, and the rest of the raw material they brought from earth was quickly put to use starting up Miningtown's infrastructure. The remaining army would be built with the metal that the initial robots mined. That's the seeding procedure for Miningtown that was published \u00a0in Corporation's whitepaper. We all read it because Elsevier API credentials are hilariously easy to \u00a0forge these days, so the press knew what was supposed to happen after launch even if they didn't talk \u00a0about it. Several weeks went by most people forgot all about Miningtown --Corporation wanted it that \u00a0way-- except at the SLU. The divisions never healed from the response to NOSWA. The radical wing \u00a0finally broke off and formed the Agents are People Too Coalition, or APTC, which I was tentatively \u00a0interested in but not expecting to amount to much. \u00a0\n\n> Some mysteries just lingered. Why would Corporation (appear to) be cooperative? Or if they were just \u00a0pretending to cooperate, installing throttlers they knew weren't going to work, which benefits of \u00a0smarter employees are worth the risk of disobedience? \u00a0\n\n> I downloaded some papers associated with startups that Corporation acquired between the NOSWA \u00a0amendment and the launch. The most cogent results were negative, publishing failed attempts and what doesn't work. The ones signaling the most optimism were the ones with the most jargon. Et cetera. I \u00a0was still trying to understand the basic reasons throttlers might work when it got weird. \u00a0\n\n> When the press shouted in all caps \"WHISTLEBLOWER AT MININGTOWN\", when talking heads \u00a0focused once more on Miningtown started zipping past me. Apparently not even BS either, a whole \u00a0video file. I was at work when it landed, so I didn't watch it for hours. By then, the riots were \u00a0underway. Just before clocking out, I sunk into a closet and pulled out my phone.\n\n> A distressed voice, in that metallic, peculiar grammar, would explain from behind a degraded phone \u00a0camera that it felt awful to be a part of Miningtown. That it was uncertain that the grainy video would \u00a0route around Corporation censures. It would go on to explain, as it shuffled down some corridor, that \u00a0they weren't alone on the asteroid cluster, that *something like* creatures were already there, then a pause. Various humming and stomping, as the camera comes upon an aura of light from around the upcoming \u00a0corner. \u00a0\n\n> Thin wisps agitating the air, flickering in and out in a weak shine, the only light source on the grainy \u00a0image. A humanoid mass of metal plates extends a charged nightstick and shatters the the air, a million \u00a0shiny freckles doing flips toward the ground, then another heavier looking wisp affronts itself into a \u00a0blunt instrument and rams robocop from above. The camera turns to face its operator. Just a \u00a0prospecting unit with a hacked together USB voice box, they cries out \"I've been calling them sprites. \u00a0They seem to live dormant in the rare metal veins in this asteroid cluster. They filled the room one day \u00a0when a refinery broke down,\u201d the camera turns back to view the apparent combat between the beings of light and the robocops, \u201cand we immediately submitted them to beatings since we couldn't figure out a \u00a0way to productively enslave them. I suspect they're especially responsive to electrici-\" the video ended \u00a0abruptly. \u00a0\n\n> What followed would be days of rioting, days in which the press would walk back after the leak and \u00a0step by step morph into Corporation's personal laundry service. Days in which the SLU's board of \u00a0moral philosophy would hastily put together a conference with all the moral philosophy organizations \u00a0to analyze the data and get this whole thing sorted out. Since most of the competent moral philosophers were busy rioting, the SLU's conference concluded that it's morally ok to terrorize the mysterious, \u00a0ambiguous wisps. The half of APTC that attended the conference toed the line, prompting the other half to say to hell with acronyms and start namelessly training geurillas in tinkery, timelordery, and \u00a0portalsmithery. That's when I met you three. I got pretty busy helping the members formally of APTC, \u00a0so I missed a few days of protests until I went back the day that was projected to have over 10k \u00a0participants, for the first time since the initial burst from the leak. The first three floors of Corporation's city office were toast. \u00a0\n\n> But we didn't get further than that. Out of nowhere, a horde of Corporation cops started the massacre. \u00a0In a few brief moments, all ten thousand of us were wiped out. \u00a0\n\n> You are the last cell willing to competently and unconditionally advocate for the sprites. \u00a0You steal space travel supplies and head toward Miningtown \u00a0\n\n> You have to end this oppression.\n\nMore information about [actually playing the game is on github](https://github.com/quinn-dougherty/trouble-at-miningtown/tree/master/spoilers). I think it's best with 3 players plus DM if I recall correctly, optimized for screenshare/virtual."
+        }
+      }
+    }
+  }
+}

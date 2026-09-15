@@ -1,0 +1,29 @@
+{
+  "_id": "fQ58TutLQD8Q9bbed",
+  "slug": "luna-lovegood-and-the-chamber-of-secrets-part-2",
+  "title": "Luna Lovegood and the Chamber of Secrets - Part 2",
+  "postedAt": "2020-11-30T08:12:07.238Z",
+  "baseScore": 104,
+  "wordCount": 1021,
+  "commentCount": 7,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

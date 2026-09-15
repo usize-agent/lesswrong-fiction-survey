@@ -1,0 +1,23 @@
+{
+  "_id": "wP2BJJnJKD6gow58L",
+  "slug": "rationalist-seder-a-story-of-war",
+  "title": "Rationalist Seder: A Story of War",
+  "postedAt": "2017-06-03T20:17:10.163Z",
+  "baseScore": 13,
+  "wordCount": 527,
+  "commentCount": 14,
+  "user": {
+    "displayName": "Raemon",
+    "slug": "raemon"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2
+  }
+}

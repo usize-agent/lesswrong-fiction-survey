@@ -1,0 +1,29 @@
+{
+  "_id": "HWMSCkZ7NG8ctEo5C",
+  "slug": "hatching-the-cosmic-egg-hymn-to-dionysus",
+  "title": "Hatching the Cosmic Egg (Hymn to Dionysus)",
+  "postedAt": "2024-01-17T18:34:30.251Z",
+  "baseScore": 7,
+  "wordCount": 2642,
+  "commentCount": 0,
+  "user": {
+    "displayName": "rogersbacon",
+    "slug": "rogersbacon-1"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "KDpqtN3MxHSmD4vcB": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

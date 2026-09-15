@@ -1,0 +1,23 @@
+{
+  "_id": "m58gEMXtbaj6L23Jj",
+  "slug": "patient-zero",
+  "title": "Patient Zero",
+  "postedAt": "2026-08-07T18:12:43.830Z",
+  "baseScore": 1,
+  "wordCount": 3561,
+  "commentCount": 0,
+  "user": {
+    "displayName": "LoopGameScrollMonkey",
+    "slug": "loopgamescrollmonkey"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "oCPPAoTFFHk9SGfrc",
+        "title": "New Ratfic: Nyssa in the Realm of Possibility",
+        "slug": "new-ratfic-nyssa-in-the-realm-of-possibility",
+        "pageUrl": "https://www.lesswrong.com/posts/oCPPAoTFFHk9SGfrc/new-ratfic-nyssa-in-the-realm-of-possibility",
+        "postedAt": "2018-12-09T05:00:41.749Z",
+        "baseScore": 41,
+        "wordCount": 34,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Alicorn",
+          "slug": "alicorn"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "For NaNoWriMo, I decided to do a rationality themed pastiche of the Phantom Tollbooth. It is complete and serializing at [http://nyssa.elcenia.com](http://nyssa.elcenia.com) on Saturdays and Wednesdays. There are three chapters up as of this posting."
+        }
+      }
+    }
+  }
+}

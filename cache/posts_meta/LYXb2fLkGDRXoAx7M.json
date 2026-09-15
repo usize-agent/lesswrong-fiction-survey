@@ -1,0 +1,29 @@
+{
+  "_id": "LYXb2fLkGDRXoAx7M",
+  "slug": "timothy-chu-origins-chapter-1",
+  "title": "Timothy Chu Origins Chapter 1",
+  "postedAt": "2018-04-13T18:40:00.586Z",
+  "baseScore": 19,
+  "wordCount": 1892,
+  "commentCount": 2,
+  "user": {
+    "displayName": "alkjash",
+    "slug": "alkjash"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1
+  }
+}

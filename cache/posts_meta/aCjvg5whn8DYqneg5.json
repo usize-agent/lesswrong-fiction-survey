@@ -1,0 +1,41 @@
+{
+  "_id": "aCjvg5whn8DYqneg5",
+  "slug": "rationalist-horror-movies",
+  "title": "Rationalist horror movies",
+  "postedAt": "2023-10-15T07:42:14.509Z",
+  "baseScore": 46,
+  "wordCount": 128,
+  "commentCount": 35,
+  "user": {
+    "displayName": "Elizabeth",
+    "slug": "elizabeth-1"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "4Kcm4etxAJjmeDkHP": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "fkABsGCJZ6y9qConW": 2
+  }
+}

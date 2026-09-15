@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "ZK4s5kB6YBhsHrNHf",
+        "title": "October The First Is Too Late",
+        "slug": "october-the-first-is-too-late",
+        "pageUrl": "https://www.lesswrong.com/posts/ZK4s5kB6YBhsHrNHf/october-the-first-is-too-late",
+        "postedAt": "2025-05-13T21:45:56.179Z",
+        "baseScore": 61,
+        "wordCount": 5,
+        "commentCount": 10,
+        "noIndex": false,
+        "user": {
+          "displayName": "gwern",
+          "slug": "gwern"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "xknvtHwqvqhwahW8Q",
+            "name": "Human Values",
+            "slug": "human-values"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "xexCWMyds6QLWognu": 2,
+          "xknvtHwqvqhwahW8Q": 2
+        },
+        "contents": {
+          "markdown": "Clarity didn't work, trying mysterianism"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "H4kadKrC2xLK24udn",
+  "slug": "the-maker-of-mind",
+  "title": "The Maker of MIND",
+  "postedAt": "2021-11-20T16:28:56.327Z",
+  "baseScore": 160,
+  "wordCount": 3284,
+  "commentCount": 21,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sSNtcEQsqHgN8ZmRF",
+      "name": "Fun Theory",
+      "slug": "fun-theory"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 10,
+    "sSNtcEQsqHgN8ZmRF": 5
+  }
+}

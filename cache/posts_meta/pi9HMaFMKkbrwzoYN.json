@@ -1,0 +1,23 @@
+{
+  "_id": "pi9HMaFMKkbrwzoYN",
+  "slug": "the-queen-of-the-damned",
+  "title": "The Queen of the Damned",
+  "postedAt": "2020-06-22T04:50:02.730Z",
+  "baseScore": 4,
+  "wordCount": 1381,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Slimepriestess",
+    "slug": "hivewired"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

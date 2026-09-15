@@ -1,0 +1,23 @@
+{
+  "_id": "6qgtqD6BPYAQvEMvA",
+  "slug": "love-stays-loved-formerly-skin",
+  "title": "Love stays loved (formerly \"Skin\")",
+  "postedAt": "2025-07-18T19:17:34.142Z",
+  "baseScore": 289,
+  "wordCount": 8841,
+  "commentCount": 13,
+  "user": {
+    "displayName": "Swimmer963 (Miranda Dixon-Luinenburg) ",
+    "slug": "swimmer963-miranda-dixon-luinenburg"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

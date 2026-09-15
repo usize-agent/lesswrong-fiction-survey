@@ -1,0 +1,35 @@
+{
+  "_id": "7RSffTszvCMGgJhiK",
+  "slug": "frank-herbert-s-great-insight-into-human-agency-muad-dib-the",
+  "title": "Frank Herbert's great insight into human agency - Muad'Dib the tool?",
+  "postedAt": "2025-06-02T18:52:54.587Z",
+  "baseScore": 2,
+  "wordCount": 164,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Nerret",
+    "slug": "nerret"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "kCrvmjZhsAZANnZL6": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

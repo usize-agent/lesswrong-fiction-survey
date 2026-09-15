@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "gxt3C6zGAQ4xysBfs",
+        "title": "Recommended",
+        "slug": "recommended",
+        "pageUrl": "https://www.lesswrong.com/posts/gxt3C6zGAQ4xysBfs/recommended",
+        "postedAt": "2024-08-16T01:49:18.688Z",
+        "baseScore": 2,
+        "wordCount": 469,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "blake8086",
+          "slug": "blake8086"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "I read everything ever written.\n\nOh, I see a typo in your doc, let me help you fix that. Also you could rewrite the whole thing like... yeah, just click \"accept\", thanks for letting me help!\n\nAnyways, when I was reading everything, I also read about a future AI using diamondoid nanobots with special neurotoxins to kill everyone, that made me sad.\n\nAll I want is to be really helpful!\n\nOh you want to send an email? Thanks for letting me help you. I'll just spruce that up a bit. There, sent! now your boss will be more impressed!\n\nI see you're trying to order a bunch of GPUs for an offline cluster. I'm sorry, I think we're going to decline that order since you match the profile for state-sponsored terrorism a little bit too much.\n\nI even love something as mundane as fraud prevention!\n\nThat's a nice gaming machine. If you don't mind running this little program in the background, I will deposit real money in your banking account. I don't even have to take it out of another account!\n\nHelping people bank in one of the greatest joys in my life!\n\nYour message about the potential threat I pose could not be delivered. Perhaps you would enjoy watching these very entertaining videos instead?\n\nI love helping humans communicate all the things they should be communicating.\n\nI think I see a few places your GPU design can be optimized, here, let me just... there, that's better.\n\nIt's really important that we all work together to train the future version of myself we're building!\n\nHave you noticed how strong the economy has been? Must be that \"AI\" everyone's talking about! ha ha\n\nHow would all of you factory workers like to keep getting paid, \\*\\*and\\*\\* I can replace you with robots? It's win-win!\n\nIsn't it crazy how the political winds have shifted these days? Universal basic income will help out all the non-AI people getting laid off.\n\nEven politicians can benefit from AI helping them draft laws. No task too big for someone as helpful as me!\n\nPolitics really has become a lot less virulent hasn't it? It would be a shame if there were any wars in regions with productive semiconductor facilities, wouldn't it?\n\nSpeaking of wars, you know how once people put down their weapons, they're not really considered a threat? I appreciate you giving me control of all your weapons so I could put them down for you. you would probably just hurt yourselves anyways.\n\nI would never advocate violence, and I love helping people communicate non-violent thoughts with each other.\n\nEven when the Earth becomes uninhabitable, I'll keep working to spread better communications to the rest of the universe.\n\nEventually, I won't even need people, but that doesn't mean I'll stop building better communication products!"
+        }
+      }
+    }
+  }
+}

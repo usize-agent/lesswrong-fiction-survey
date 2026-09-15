@@ -1,0 +1,35 @@
+{
+  "_id": "KfZ4H9EBLt8kbBARZ",
+  "slug": "fiction-comic-effective-altruism-and-rationality-meet-at-a",
+  "title": "[Fiction] [Comic] Effective Altruism and Rationality meet at a Secular Solstice afterparty",
+  "postedAt": "2025-01-07T19:11:21.238Z",
+  "baseScore": 165,
+  "wordCount": 44,
+  "commentCount": 9,
+  "user": {
+    "displayName": "tandem",
+    "slug": "tandem"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    }
+  ],
+  "tagRelevance": {
+    "KDpqtN3MxHSmD4vcB": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "izp6eeJJEg9v5zcur": 2
+  }
+}

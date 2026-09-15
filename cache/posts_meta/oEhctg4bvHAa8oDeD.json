@@ -1,0 +1,38 @@
+{
+  "_id": "oEhctg4bvHAa8oDeD",
+  "slug": "on-constructor-safety-a-hypothesis-by-fleshling-three",
+  "title": "On Constructor Safety: A Hypothesis by Fleshling Three",
+  "postedAt": "2025-12-10T07:38:44.026Z",
+  "baseScore": 0,
+  "wordCount": 2404,
+  "commentCount": 0,
+  "user": null,
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

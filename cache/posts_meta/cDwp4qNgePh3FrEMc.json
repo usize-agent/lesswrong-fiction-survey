@@ -1,0 +1,23 @@
+{
+  "_id": "cDwp4qNgePh3FrEMc",
+  "slug": "the-origami-men",
+  "title": "The Origami Men",
+  "postedAt": "2025-10-06T15:25:06.694Z",
+  "baseScore": 193,
+  "wordCount": 4787,
+  "commentCount": 14,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 5
+  }
+}

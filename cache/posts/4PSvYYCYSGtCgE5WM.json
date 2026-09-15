@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "4PSvYYCYSGtCgE5WM",
+        "title": "Should we just quit?",
+        "slug": "should-we-just-quit",
+        "pageUrl": "https://www.lesswrong.com/posts/4PSvYYCYSGtCgE5WM/should-we-just-quit",
+        "postedAt": "2026-06-27T13:44:05.040Z",
+        "baseScore": 3,
+        "wordCount": 903,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jacob Abraham",
+          "slug": "jacob-abraham"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "*Disclaimer: Work of fiction.*\n\n\\`I QUIT!\\`. These were words I wish I had not blurted out.\n\nThe line of cars going at a snail's pace on the highway reminds me of the crowd when there is a Blue Jays' giveaway at Rogers Centre. The urban sprawl has taken over this quaint town, it all started with a new data center that was built here. It seems hypocritical to complain, as I am part of the company that brought this here. Working at a big tech sounds all fun and dandy, until you realize you are just employee #1956 working on another wrapper that will host an AI code companions within your internal tools. The days go about using the company credits to test out the capability and token utilization (a scam in itself) of the *newer* models that are game changers. In a few months these game changers would be beaten by another model which is the same with a more *specialized* use case.\n\nIs this software engineering anymore? I get a task in my sprint, I feed the ticket into my language optimized model, which would in turn spin up a workflow of other agents using specified models. An agent to read the reference code, the existing documentations and design decisions. Another agent that uses the information from these two to spin up code, another more advanced and expensive code review model. Finally the code is ready and the PR is generated. Which would then be caught by another advanced model to verify for any obvious security concerns and start the pipeline. The days I feel that hitting the enter key is a pain, I do the unspeakable crime of yolo-mode.\n\nThe only manual code I see would be from the Principal Devs who would update the agent instruction sets or code a new custom logger, just another wrapper project. All this would be caught by the agents in the next cycle of PRs and replicated as per the instructions without much thought. Has the agent even bothered looking into what actually goes on within these wrappers?\n\nTo get away from the drudge at the end of the day, I go to my short form content applications and start scrolling. It is interesting how day by day the information that they have on me grows. How did they know that I will be out of detergent next week? Their parent company does not own my shopping application or my bank. I brush it aside with my very smart logic that, I might have unknowingly stayed on a detergent page a few milliseconds more as it reminded me to buy one. Is that really so? Ok, too much tin foil thinking for the day, let me just watch the same old series on repeat and fall asleep to it.\n\nEvery other day my newsfeed tells me to be careful with my data and not to give away access to unknown applications. There is a data breach in every other company I can think of, but is it really affecting me on a daily basis? Nope, so just forget about it.\n\nI see posts about my colleague switching with a pay that is 3x my own base, that seems unfair. I look into hiring posts by own team, they show a salary that is 2x my own, even with a very high raise I would not be able to catch up. This seems unfair, does the company even care about retention?\n\nI change my daily routine, bringing in the all powerful leetcode into my day. It is needed, the appraisal cycles seem unfair and cold. Stick to the grind. Stick to the plan. Muster in the courage to enter the so called dusk of software engineering market. The only thoughts that surround me while I increase the node count for the new loggers that seem to use much more compute is should I quit first or find a new job first.\n\nIt was a few hours after I quit, that I got the news of my company being taken over by an AI company. They were earlier just a logging software, I wonder how they were able to get all the data to make custom agents and models for almost every major company in the world. These models would be supervised by a parent model with human supervision of course!!\n\nInterestingly I am never out of detergent. The new feature of dynamic subscribe that knows and delivers at the time it runs out is amazing.\n\nThe regret of having quit came in a few months into the job hunt when almost every software engineering job was made moot and only a fraction of those who worked on the agents would be retained to maintain the infrastructures and further the development in these models. Blogs showing how the short term burgeoning of pay was a way to allow for long term resource accumulation and providing a much needed spike in growth of models.\n\nThe growth of responsibility of a software developer is interesting. From writing assembly language code to creating compilers to creating code generating agents. Thoughts like this crossed my mind as I joined my new role, where a year ago I would be training our AI or developing workflows, now it is training a robot to gather resources and materials or fix the data center plugs.\n\n**Sources**\n\n*   [**https://ifanyonebuildsit.com/**](https://ifanyonebuildsit.com/)\n*   [**https://ezzakteksab.substack.com/p/a-blue-slate-roof-in-the-deodars**](https://ezzakteksab.substack.com/p/a-blue-slate-roof-in-the-deodars)\n*   [**https://www.lesswrong.com/w/squiggle-maximizer-formerly-paperclip-maximizer**](https://www.lesswrong.com/w/squiggle-maximizer-formerly-paperclip-maximizer)"
+        }
+      }
+    }
+  }
+}

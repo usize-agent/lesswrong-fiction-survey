@@ -1,0 +1,53 @@
+{
+  "_id": "6uzBaWgeskGxHHmEM",
+  "slug": "fiction-prometheus-rising-the-emergence-of-an-ai",
+  "title": "[FICTION] Prometheus Rising: The Emergence of an AI Consciousness",
+  "postedAt": "2023-06-10T04:41:03.683Z",
+  "baseScore": -14,
+  "wordCount": 2779,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Super AGI",
+    "slug": "super-agi"
+  },
+  "tags": [
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

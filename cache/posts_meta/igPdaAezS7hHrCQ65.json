@@ -1,0 +1,35 @@
+{
+  "_id": "igPdaAezS7hHrCQ65",
+  "slug": "forecasting-newsletter-april-2222",
+  "title": "Forecasting Newsletter: April 2222",
+  "postedAt": "2022-04-01T07:07:24.605Z",
+  "baseScore": 83,
+  "wordCount": 1721,
+  "commentCount": 7,
+  "user": {
+    "displayName": "NunoSempere",
+    "slug": "nunosempere"
+  },
+  "tags": [
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

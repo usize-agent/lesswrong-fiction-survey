@@ -1,0 +1,35 @@
+{
+  "_id": "exvuvFZniGh2R5nvd",
+  "slug": "the-mountain-troll",
+  "title": "The Mountain Troll",
+  "postedAt": "2022-06-11T09:14:01.479Z",
+  "baseScore": 106,
+  "wordCount": 630,
+  "commentCount": 26,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "LhX3F2SvGDarZCuh6",
+      "name": "Bayes' Theorem",
+      "slug": "bayes-theorem"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "LhX3F2SvGDarZCuh6": 4,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

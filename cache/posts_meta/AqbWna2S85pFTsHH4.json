@@ -1,0 +1,65 @@
+{
+  "_id": "AqbWna2S85pFTsHH4",
+  "slug": "the-intelligent-social-web",
+  "title": "The Intelligent Social Web",
+  "postedAt": "2018-02-22T18:55:36.414Z",
+  "baseScore": 259,
+  "wordCount": 3681,
+  "commentCount": 115,
+  "user": {
+    "displayName": "Valentine",
+    "slug": "valentine"
+  },
+  "tags": [
+    {
+      "_id": "EnFKSZYiDHqMJuvJL",
+      "name": "Social Reality",
+      "slug": "social-reality"
+    },
+    {
+      "_id": "x6evH6MyPK3nxsoff",
+      "name": "Identity",
+      "slug": "identity"
+    },
+    {
+      "_id": "mip7tdAN87Jarkcew",
+      "name": "Relationships (Interpersonal)",
+      "slug": "relationships-interpersonal"
+    },
+    {
+      "_id": "gHCNhqxuJq2bZ2akb",
+      "name": "Social & Cultural Dynamics",
+      "slug": "social-and-cultural-dynamics"
+    },
+    {
+      "_id": "2EFq8dJbxKNzforjM",
+      "name": "Social Status",
+      "slug": "social-status"
+    },
+    {
+      "_id": "gjAqazn7JTsG4CAbt",
+      "name": "Egregores",
+      "slug": "egregores"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "2EFq8dJbxKNzforjM": 3,
+    "EnFKSZYiDHqMJuvJL": 7,
+    "Ng8Gice9KNkncxqcj": 2,
+    "gHCNhqxuJq2bZ2akb": 3,
+    "gjAqazn7JTsG4CAbt": 2,
+    "mip7tdAN87Jarkcew": 3,
+    "pszEEb3ctztv3rozd": 2,
+    "x6evH6MyPK3nxsoff": 3
+  }
+}

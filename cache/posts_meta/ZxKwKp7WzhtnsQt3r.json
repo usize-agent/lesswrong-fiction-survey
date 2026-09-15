@@ -1,0 +1,35 @@
+{
+  "_id": "ZxKwKp7WzhtnsQt3r",
+  "slug": "a-day-in-utopia",
+  "title": "A Day in Utopia",
+  "postedAt": "2017-11-22T16:57:26.982Z",
+  "baseScore": 27,
+  "wordCount": 1601,
+  "commentCount": 10,
+  "user": {
+    "displayName": "ozymandias",
+    "slug": "ozymandias"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "t3vNhmcpuGJmbFNvd",
+      "name": "Utopia",
+      "slug": "utopia"
+    },
+    {
+      "_id": "sSNtcEQsqHgN8ZmRF",
+      "name": "Fun Theory",
+      "slug": "fun-theory"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sSNtcEQsqHgN8ZmRF": 1,
+    "t3vNhmcpuGJmbFNvd": 2
+  }
+}

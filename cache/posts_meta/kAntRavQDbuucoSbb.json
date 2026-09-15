@@ -1,0 +1,29 @@
+{
+  "_id": "kAntRavQDbuucoSbb",
+  "slug": "reinforcement-learning-by-ai-punishment",
+  "title": "Reinforcement Learning by AI Punishment ",
+  "postedAt": "2025-01-28T00:57:51.715Z",
+  "baseScore": 29,
+  "wordCount": 2325,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Abhishaike Mahajan",
+    "slug": "abhishaike-mahajan"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

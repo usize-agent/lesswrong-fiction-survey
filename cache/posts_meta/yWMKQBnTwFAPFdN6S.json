@@ -1,0 +1,35 @@
+{
+  "_id": "yWMKQBnTwFAPFdN6S",
+  "slug": "fiction-lena-mmacevedo",
+  "title": "[Fiction] Lena (MMAcevedo)",
+  "postedAt": "2021-02-23T19:46:34.637Z",
+  "baseScore": 49,
+  "wordCount": 44,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Kaj_Sotala",
+    "slug": "kaj_sotala"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 13,
+    "5f5c37ee1b5cdee568cfb2b1": 8
+  }
+}

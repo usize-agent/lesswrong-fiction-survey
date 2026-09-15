@@ -1,0 +1,35 @@
+{
+  "_id": "5tXiw9PBCqFLHs2Mp",
+  "slug": "chapter-6-the-planning-fallacy",
+  "title": "Chapter 6: The Planning Fallacy",
+  "postedAt": "2015-03-14T19:00:42.516Z",
+  "baseScore": 87,
+  "wordCount": 9716,
+  "commentCount": 10,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb105",
+      "name": "Planning Fallacy",
+      "slug": "planning-fallacy"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "KoXbd2HmbdRfqLngk",
+      "name": "Planning & Decision-Making",
+      "slug": "planning-and-decision-making"
+    }
+  ],
+  "tagRelevance": {
+    "KoXbd2HmbdRfqLngk": 3,
+    "etDohXtBrXd8WqCtR": 3,
+    "5f5c37ee1b5cdee568cfb105": 9
+  }
+}

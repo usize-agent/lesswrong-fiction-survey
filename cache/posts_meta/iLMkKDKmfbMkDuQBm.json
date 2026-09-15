@@ -1,0 +1,23 @@
+{
+  "_id": "iLMkKDKmfbMkDuQBm",
+  "slug": "the-lizard-people-of-alpha-draconis-1-decided-to-build-an",
+  "title": "The Lizard People Of Alpha Draconis 1 Decided To Build An Ansible",
+  "postedAt": "2017-08-10T00:33:54.000Z",
+  "baseScore": 48,
+  "wordCount": 1589,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

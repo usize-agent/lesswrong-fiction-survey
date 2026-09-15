@@ -1,0 +1,47 @@
+{
+  "_id": "3q8uu2k6AfaLAupvL",
+  "slug": "the-tale-of-the-top-tier-intellect",
+  "title": "The Tale of the Top-Tier Intellect",
+  "postedAt": "2025-11-03T20:21:39.226Z",
+  "baseScore": 140,
+  "wordCount": 10406,
+  "commentCount": 68,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "PDJ6KqJBRzvKPfuS3",
+      "name": "Economics",
+      "slug": "economics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "PDJ6KqJBRzvKPfuS3": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "yXNtYNHJB54T3bGm3": 2
+  }
+}

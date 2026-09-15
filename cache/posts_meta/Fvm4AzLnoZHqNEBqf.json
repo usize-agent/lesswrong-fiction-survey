@@ -1,0 +1,35 @@
+{
+  "_id": "Fvm4AzLnoZHqNEBqf",
+  "slug": "dark-ilan",
+  "title": "dark ilan",
+  "postedAt": "2026-04-04T18:06:05.624Z",
+  "baseScore": 182,
+  "wordCount": 3173,
+  "commentCount": 10,
+  "user": {
+    "displayName": "ozymandias",
+    "slug": "ozymandias"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "EmaCLRKb4baBFq4ra": 1,
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

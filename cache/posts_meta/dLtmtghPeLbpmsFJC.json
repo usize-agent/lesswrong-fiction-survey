@@ -1,0 +1,23 @@
+{
+  "_id": "dLtmtghPeLbpmsFJC",
+  "slug": "mortal-a-transponyist-fanfiction",
+  "title": "Mortal: A Transponyist Fanfiction",
+  "postedAt": "2013-05-01T01:23:36.464Z",
+  "baseScore": 21,
+  "wordCount": 319,
+  "commentCount": 65,
+  "user": {
+    "displayName": "ModusPonies",
+    "slug": "modusponies"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

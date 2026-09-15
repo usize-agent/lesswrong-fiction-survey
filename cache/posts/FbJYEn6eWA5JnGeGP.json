@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "FbJYEn6eWA5JnGeGP",
+        "title": "Parable of the Dammed",
+        "slug": "parable-of-the-dammed",
+        "pageUrl": "https://www.lesswrong.com/posts/FbJYEn6eWA5JnGeGP/parable-of-the-dammed",
+        "postedAt": "2020-12-10T00:08:44.493Z",
+        "baseScore": 121,
+        "wordCount": 709,
+        "commentCount": 29,
+        "noIndex": false,
+        "user": {
+          "displayName": "johnswentworth",
+          "slug": "johnswentworth"
+        },
+        "tags": [
+          {
+            "_id": "chuP2QqQycjD8qakL",
+            "name": "Coordination / Cooperation",
+            "slug": "coordination-cooperation"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "F2XfCTxXLQBGjbm8P": 3,
+          "chuP2QqQycjD8qakL": 5,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "Once upon a time, two families fought a bloody feud over the border of their properties. After many years of escalation, neither family could afford to continue the fight. They both wanted to negotiate a truce, but the original issue still had to be settled: where was the border of their lands to be drawn? They needed a [Schelling point](https://www.lesswrong.com/posts/yJfBzcDL9fBHJfZ6P/nash-equilibria-and-schelling-points), so they settled on a river which ran roughly through the middle of their territories.\n\nFor a short time, there was peace.\n\nSoon, though, a clever couple from one of the families hatched an idea. Each morning, they walked down to the river and dropped a few large stones into it. Before long, half a dam had built up on their side of the river. The water was driven toward the opposite bank, which was steadily washed away. Over time, as the river ate away the opposite bank, the couple extended their dam further, and so the river\u2019s course was gradually pushed sideways. The couple\u2019s family gained territory, while the opposed family lost it.\n\nAt this point, the story diverges, and many versions of the tail are told.\n\nIn one version, the couple push too fast. Soon the river has moved deep into the territory of the other family, and the family responds by attempting to break the dam. Violence escalates, and the feud breaks out anew - but peace is even harder to come by, now, since the river has been permanently destroyed as a Schelling point.\n\nIn another version, the push is slow. The couple bequeaths the task of dam-building to their children, and to their childrens\u2019 children, and the river shifts slowly over the course of generations. With each generation, the resources of the couple\u2019s descendants grow, and their family grows with it - while the resources of the opposed family slowly dwindle. Nobody ever takes much note of the river\u2019s slow drift, until eventually the opposed family dies out altogether.\n\nIn most versions of the tale, the river\u2019s movement is quickly noticed, but a return to violence is deemed unacceptable. Instead, the opposed family begins dropping rocks of their own. Soon both families are dumping rocks on their respective sides of the river, building up dams, aiming to drive the water against the opposite bank. This bloodless but expensive feud escalates. Along some sections of the river, each side expands until the two dams clash in the middle, blocking the flow of the whole river, and water backs up and bursts the banks. That doesn\u2019t stop the dam-building - rather, each side builds tall walls alongside their dams, in hopes of flooding the other family\u2019s land while preserving their own. The two families quickly bankrupt themselves in an arms race to build the tallest walls along their respective riverbanks.\n\nWord goes out of the strange practices, the two families pouring all their resources into a competition of great dams and flood-walls. Travellers passing through town stare in bemusement, and wonder what strange force would lead the families to waste so much resources on a minor stream through the woods.\n\nMoral(s) of the Story\n---------------------\n\nI see two main takeaways to this parable. First, Schelling points can be moved by changing the underlying territory. The river's course can be physically moved. This generally costs some real resources (e.g. building the dams); modifying the world is rarely free.\n\nSecond, when players compete to move a Schelling point, they often end up in an all-pay auction: all players spend the resources required to move the river, but only the player with the \"highest bid\" (i.e. tallest dam) gains anything from the competition. In general, all-pay auctions often lead to all players spending more than the value of winning: at any point, either family can gain by building their dam just a bit taller, even long after their dam-building expenditures far exceed the value of the land.\n\nThis applies to most of the \"strategic negotiation\"-style situations where Schelling points play a prominent role, and in particular I see the parable of the dammed as a prototypical model of politics. Politics is an all-pay auction, in which \"bidders\" (i.e. anyone spending time/resources on political influence) compete to move Schelling points. The Schelling points which people compete to move include obvious things like laws, but also more subtle Schelling points like social norms."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "HjQrRiJeYFFSEfSKX",
+        "title": "Effective Evil",
+        "slug": "effective-evil",
+        "pageUrl": "https://www.lesswrong.com/posts/HjQrRiJeYFFSEfSKX/effective-evil",
+        "postedAt": "2021-11-02T00:26:29.910Z",
+        "baseScore": 119,
+        "wordCount": 763,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "nSHiKwWyMZFdZg5qt",
+            "name": "Ethics & Morality",
+            "slug": "ethics-and-morality"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "hNFdS3rRiYgqqD8aM": 3,
+          "nSHiKwWyMZFdZg5qt": 2,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "Many years ago, a blogger made a post advocating for an evil Y-Combinator which subsidized the opposite of Effective Altruism. Everyone (including the blogger) thought the post was a joke except the supervillains. The organization they founded celebrated its 10th anniversary this year. An attendee leaked to me a partial transcript from one of its board meetings.\n\n---\n\n**Director:** Historically, public unhealth has caused the most harm per dollar invested. How is the Center for Disease Proliferation doing?\n\n**CDP Division Chief:** Gain-of-function research remains\u2014in principle\u2014incredibly cheap. All you have to do is infect ferrets with the flu and let them spread it to one another. We focus on maximizing transmission first and then, once we have a highly-transmissible disease, select for lethality (ideally after a long asymptomatic infectious period).\n\n**CFO:** You say gain-of-function research is cheap but my numbers say you're spending billions of dollars on gain-of-function research. Where is all that money going?\n\n**CDP Division Chief:** Volcano lairs, mostly. We don't want an artificial pandemic to escape our labs by accident.\n\n**Director:** Point of order. Did the CDP have anything to do with COVID-19?\n\n**CDP Division Chief:** I wish. COVID-19 was a work of art. Dangerous enough to kill millions of people and yet not dangerous enough to get most world governments to take it seriously. After we lost smallpox and polio I thought any lethal disease for which there was an effective vaccine would be eradicated within a year but COVID-19 looks like it would have turned endemic even without the zoonotic vectors. We have six superbugs more lethal than COVID-19 sitting around in various island fortresses. We had planned to launch them this year but with all the COVID-19 data coming in I'm questioning whether that's really the right way to go. *Primum non boni.* If we release a disease too deadly, governments will stamp it down immediately. We'll kill few people while also training governments in how to stop pandemics. It'd be like vaccinating the planet. We don't want a repeat of SARS.\n\n**Director:** Good job being quick to change your mind in the face of evidence. What's the status of our AI misalignment program?\n\n**Master Roboticist:** For several years we've been working on mind control algorithms, but we cancelled that initiative in the face of competition with Facebook. I don't like Facebook. They're not optimally evil. There are many ways they could be worse for the world. But their monopoly is unassailable. The network effects are too great.\n\n**Director:** Where are our AI misalignment funds going instead?\n\n**Master Roboticist:** For a while our research was going into autonomous weapons. Autonomous weapons make it easier to start a war since leaders can attack deep within enemy territory without risking the lives of their own soldiers. Predator drones also cause lots of collateral damage. A drone strike by the Biden administration killed seven children.\n\n**Director:** If the program's going so well then why stop it?\n\n**Master Roboticist:** Competition. China is [revamping its military around autonomous warfare](https://www.lesswrong.com/posts/SuGR3k37WtZXY66ov/postmodern-warfare). We have extraordinary resources, but even we can't compete with the world's biggest economy.\n\n**Director:** Perhaps we can co-opt their work. Is there no way to start a nuclear WWIII?\n\n**Strategos:** Starting a nuclear war is easy. It's so easy that our efforts are actually dedicated to postponing nuclear war by reducing accidents. There's more to evil than just causing the greatest harm. We must cause the greatest harm to the greatest number. Our policy is that we shouldn't start a nuclear war while the world population is still increasing.\n\n**Master Roboticist:** Moreover, a nuclear war would stop us from summoning Roko's basilisk.\n\n**Director:** How's the AGI project going by the way?\n\n**Master Roboticist:** Slow. Building an optimally evil AI is harder than building an aligned one because you can't just tell it to copy human morals. Human beings frequently act ethically. Tell a computer to copy a human being and the computer will act ethically too. We need to solve the alignment problem. Alas, the alignment research we produce is often used for good.\n\n**Director:** Oh no! Can we just keep it secret?\n\n**Master Roboticist:** Open dialogue is foundational to scientific progress. We experimented with what would happen if we keep our research secret but the do-gooders rapidly outpaced us.\n\n**Director:** What about fossil fuels? Those are usually a source of villainous news.\n\n**Uncivil Engineer:** Building solar power plants is cheaper than building coal power plants.\n\n**Director:** That sounds insurmountable.\n\n**Uncivil Engineer:** You'd think so. But we got a major news outlet to print a quote about how using coal power plants to mine cryptocurrency for a private equity firm \"can have a positive emissions impact if it\u2019s run the right way\".\n\n**Director:** You're kidding.\n\n**Uncivil Engineer:** [I'm not.](https://arstechnica.com/tech-policy/2021/09/old-coal-plant-is-now-mining-bitcoin-for-a-utility-company/)\n"
+        }
+      }
+    }
+  }
+}

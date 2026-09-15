@@ -1,0 +1,29 @@
+{
+  "_id": "JEFkTMCQhuA9xezun",
+  "slug": "the-fear-fiction",
+  "title": "The Fear [Fiction]",
+  "postedAt": "2022-12-23T21:21:00.535Z",
+  "baseScore": 7,
+  "wordCount": 418,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

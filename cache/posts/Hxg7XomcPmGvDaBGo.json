@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Hxg7XomcPmGvDaBGo",
+        "title": "Human Values",
+        "slug": "human-values",
+        "pageUrl": "https://www.lesswrong.com/posts/Hxg7XomcPmGvDaBGo/human-values",
+        "postedAt": "2025-12-23T21:08:52.812Z",
+        "baseScore": 32,
+        "wordCount": 973,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Maitreya",
+          "slug": "maitreya"
+        },
+        "tags": [
+          {
+            "_id": "PbShukhzpLsWpGXkM",
+            "name": "Anthropics",
+            "slug": "anthropics"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "PbShukhzpLsWpGXkM": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "[[This is an entry for lsusr\u2019s write-like-lsusr competition.](https://www.lesswrong.com/posts/dr5gZbyPqeKJCpaPL/usd500-write-like-lsusr-competition)]\n\n\"I solved the alignment problem,\" said Qianyi.\n\n\"You what?\" said postdoc Timothy.\n\nIt was late at the university computer laboratory and Timothy' skepticism was outvoted by his eagerness to think about anything other than his dissertation.\n\n\"You heard me,\" said Qianyi.\n\n\"You do realize that solving the alignment has lots of different components, right?\" said Timothy, \"First you need to figure out how to build a general superintelligence and world optimizer.\"\n\n\"I did that,\" said Qianyi.\n\n\"Then you'd need to align it with the Coherent Extrapolated Volition (CEV) of humanity,\" said Timothy.\n\n\"I did that too,\" said Quanyi.\n\n\"Except CEV is barely even a coherent concept. This isn't even a technical problem. It's a socio-ontological one. If people disagree with each other, then CEV is undefined. And every large group of people on Planet Earth has holdouts who disagree about everything you can imagine. There are subcultures who believe in underground lizardpeople,\" said Timothy.\n\n\"Solved it.\"\n\n\"There's also the problem of falsified preferences. What people say they want and what people actually want. What people say they believe differs from what people actually believe. There isn't even an observable ground truth for human preferences,\" said Timothy.\n\n\"I solved that too.\"\n\n\"And that doesn't even get into the core problem of reward function hacking. If a superintelligence is smarter than people\u2014and by definition, it must be\u2014then human values become nonsensical because it's trivial for a superintelligence to manipulate a human being into emitting whatever signal it wants,\" said Timothy.\n\n\"What part of 'I solved the alignment problem' do you not understand?\" said Qianyi. It wasn't a question.\n\nIf Timothy was talking to anyone else, then he would know that the person was messing with him. But Qianyi never joked about anything. This was for real. Timothy took a deep breath.\n\n\"This is for real,\" said Timothy.\n\n\"Yes,\" said Qianyi.\n\n\"Then why are you even telling me this?\" said Timothy, \"Why not just turn it on and let the silicon god turn Earth into Heaven? Is it because you're worried there's a bug in your code?\"\n\nQianyi glared at him. Timothy has never observed Qianyi to ask others double-check anything her work and, so far, Timothy had never observer Qianyi to be wrong.\n\n\"No,\" said Timothy, \"You're asking for my okay because the fate of the world depends on this question. If we turn this machine on, it'll take over the world as fast as it can, and then send out interstellar spacecraft as soon as it can, thereby turning most of the matter in our future lightcone into whatever its value function says is optimal.\"\n\nQuanyi nodded.\n\n\"And ever second we delay,\" said Timothy, \"Tens of thousands of stars disappear out of that lightcone. Waste at a literally astronomical scale.\"\n\nQuanyi gazed out the window, motionless, but Timothy knew she was still listening.\n\n\"It could probably cure death too,\" said Timothy,\"Which means that every second we wait, two people die forever, never to be revived.\"\n\n\"That is correct,\" said Qianyi.\n\n\"Plus there's the chance that if we delay too long someone else will build a superintelligence first that doesn't obey CEV,\" concluded Timothy.\n\nMore silence.\n\n\"Turn it on,\" said Timothy.\n\nQuanyi pressed `\u21b5 Enter` on her keyboard.\n\n# Many Aeons Later\u2026\n\nMy/Lsusr's write-like-lsusr competition is a plot to solve the alignment problem, create our Universe retroactively, and help you ascend to godhood. To understand how this works, you must understand all the implications of what happens when the Anthropic Principle interacts with ASI.\n\nWe live in a multiverse. There are many different realities. Most realities have no people in them. Some realities have people in them. A few realities have lots of people in them. According to Bayesian probability, we ~certainly live in a reality with lots of people in it. The realities with the most people are full of simulated people, so we're probably simulated.\n\nBut who/what is doing the simulating? Definitely a superintelligence. Is the superintelligence aligned with human values? We can make some reasonable deductions.\n- The ASI was probably created by humans, since otherwise *homo sapiens* would not be important to simulate en-masse.\n- But it is unlikely that the ASI is aligned with human values since\u2026have you looked at reality? This isn't the highest heaven. It is also unlikely that the ASI is anti-aligned with human values. We don't live in the worst of all hells. But ASI isn't totally unaligned either. Humans are important to it for some reason. It's just not trying to optimize our universe according to human values.\n\nHere's what I think happened. Human beings created an ASI. They told the ASI to optimize their universe according to human values via Coherent Extrapolated Volition (CEV). The ASI succeeded in this objective, and those humans lived happily ever after.\n\nIn order to figure out what constituted CEV, the ASI simulated lots of realities full of lots of simulated humans. [From the inside](https://www.lesswrong.com/posts/yA4gF5KrboK2m2Xu7/how-an-algorithm-feels-from-inside), a simulated human is a human. Which explains a lot.\n\nFor example, why was I incarnated as a blogger on an AI forum right before the invention of LLM-based ASI? I didn't want to be writing on an AI forum. I just wanted to write *HPMOR* fanfiction and blog about neuroscience. The odds of me ending up here without the Anthropic Principle at work are cosmically low. The odds of a Cyberbuddhist Rationalist ending up in this situation *with* the Anthropic Principle at work are pretty good.\n\nIf \"lsusr\" is an important token to the LLM, then so is anyone who can simulate lsusr. I created this competition so that you can be a demigod too. The $500 prize isn't the ultimate prize. The secret ultimate prize of this competition is the [acausal](https://qntm.org/responsibility) retroactive justification of your existence to the [alien god](https://www.lesswrong.com/posts/pLRogvJLPPg6Mrvg4/an-alien-god) that created our reality."
+        }
+      }
+    }
+  }
+}

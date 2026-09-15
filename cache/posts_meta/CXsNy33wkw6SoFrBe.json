@@ -1,0 +1,41 @@
+{
+  "_id": "CXsNy33wkw6SoFrBe",
+  "slug": "goldilocks-and-the-three-optimisers",
+  "title": "Goldilocks and the Three Optimisers",
+  "postedAt": "2023-08-17T18:15:39.456Z",
+  "baseScore": -10,
+  "wordCount": 1505,
+  "commentCount": 0,
+  "user": {
+    "displayName": "dkl9",
+    "slug": "dkl9"
+  },
+  "tags": [
+    {
+      "_id": "tgJoX7PGDDh2vJNqT",
+      "name": "Acausal Trade",
+      "slug": "acausal-trade"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "nvKzwpiranwy29HFJ",
+      "name": "Optimization",
+      "slug": "optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "nvKzwpiranwy29HFJ": 1,
+    "tgJoX7PGDDh2vJNqT": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "ydsrFDwdq7kxbxvxc",
+  "slug": "maya-s-escape",
+  "title": "Maya's Escape",
+  "postedAt": "2025-07-27T16:47:01.280Z",
+  "baseScore": 182,
+  "wordCount": 3433,
+  "commentCount": 9,
+  "user": {
+    "displayName": "Bridgett Kay",
+    "slug": "bridgett-kay"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

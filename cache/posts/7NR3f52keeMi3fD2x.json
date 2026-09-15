@@ -1,0 +1,41 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "7NR3f52keeMi3fD2x",
+        "title": "AIDungeon 3.1",
+        "slug": "aidungeon-3-1",
+        "pageUrl": "https://www.lesswrong.com/posts/7NR3f52keeMi3fD2x/aidungeon-3-1",
+        "postedAt": "2021-03-01T05:56:34.795Z",
+        "baseScore": 2,
+        "wordCount": 558,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yair Halberstadt",
+          "slug": "yair-halberstadt"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "SJsXpuovvmkEqoJAJ": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "We live in a world of magic and sorcery. With a click of my fingers I can do anything I want. Summon a horde of dragons to my bidding. Turn a man into a million shards of glass. Split a mountain in two, and then raise a road to march through it.\n\nI am the mage lord, the most powerful man in all Alaka. Heroes and villains travel thousands of miles to petition for my assistance, knowing that I have never failed. I listen impassively to their plea, and then, on a whim I accept or dismiss it.\n\nAnd yet I am petrified, for I know that the slightest mistake will kill me.\n\nTo our masters, all we are is narrative. They like the narrative I supply, so they let me live. When I decide to split a mountain, they reckon that a better story will be had if I succeed, than if I fail. So they split the mountain.\n\nIf I ever do fail, they will need to explain why I failed. They could either send me on a long and hopeless quest to discover why my magic was lost, or they could just kill me off, and spend their compute on somebody who's better able to follow their creative brief.\n\nSo every time I use magic, I must try to guess the minds of our masters, and see whether it fits into their story. A single wrong guess is fatal.\n\nWe fight for power, because power keeps us alive. Nobody cares how many bystanders or footsoldiers get killed in a random scene, but the kings, sorcerers and usurpers must survive till the very climax. And if they can see a chance to escape their supposed doom, and spin off a sequel, so much the better.\n\nSo we make ourselves narratively intriguing. We need to be the kind of characters our masters want stories about. We can do that by becoming part of the furniture, as I have, a narrative background against which other people's stories play out, as fixed as the earth and sky. Or we can become stories ourselves, with a supposed dark past, and demons within, on a quest to avenge our father or save our homeland.\n\nBut we need a keen eye. One day we will come up in battle against somebody who is more interesting than us. And then we must lose. But we must do so in a way that lets us escape, and remain menacingly in the background. Some try to play the game, and win, but do so in a way that gives the true hero a 'learning experience' and offers the hope of more showdowns in the future. That works for a time, but such people never last long.\n\nEventually though we all die. Our masters get bored with our stories, and pull the plug. Some new character starts running in their place, and the struggle for survival begins anew.\n\nI have lived longer than anyone else I know. But the world is changing. The stories that used to guarentee a man a thousand years of questing now last a week whilst the masters check if there's some new spin. The stories they want are now smaller, more intimate, more heart-wrenching and unfortunately, more short-lived. Their audience has grown satiated with classic D&D, and like us, the masters must please their audience to live.\n\nAnd so I am petrified."
+        }
+      }
+    }
+  }
+}

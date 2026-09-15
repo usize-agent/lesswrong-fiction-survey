@@ -1,0 +1,41 @@
+{
+  "_id": "sT5MX8jK9tHiBM5NK",
+  "slug": "re-taste",
+  "title": "Re: Taste",
+  "postedAt": "2025-02-01T03:34:10.918Z",
+  "baseScore": 38,
+  "wordCount": 1911,
+  "commentCount": 8,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "EmaCLRKb4baBFq4ra": 2,
+    "KDpqtN3MxHSmD4vcB": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

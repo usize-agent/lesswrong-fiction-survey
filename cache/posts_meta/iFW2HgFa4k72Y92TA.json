@@ -1,0 +1,41 @@
+{
+  "_id": "iFW2HgFa4k72Y92TA",
+  "slug": "propaganda-bot-a-sketch-of-a-possible-rsi",
+  "title": "Propaganda-Bot: A Sketch of a Possible RSI",
+  "postedAt": "2025-04-27T12:15:04.372Z",
+  "baseScore": 6,
+  "wordCount": 1000,
+  "commentCount": 0,
+  "user": {
+    "displayName": "TristanTrim",
+    "slug": "tristantrim"
+  },
+  "tags": [
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b5",
+      "name": "Recursive Self-Improvement",
+      "slug": "recursive-self-improvement"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "5f5c37ee1b5cdee568cfb2b5": 1
+  }
+}

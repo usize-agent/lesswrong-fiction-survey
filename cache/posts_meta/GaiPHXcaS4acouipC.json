@@ -1,0 +1,29 @@
+{
+  "_id": "GaiPHXcaS4acouipC",
+  "slug": "jackpot-an-ai-vignette",
+  "title": "Jackpot! An AI Vignette",
+  "postedAt": "2021-07-08T20:32:22.528Z",
+  "baseScore": 13,
+  "wordCount": 675,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Ben Goldhaber",
+    "slug": "bgold"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

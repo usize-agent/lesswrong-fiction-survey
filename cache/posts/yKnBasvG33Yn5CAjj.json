@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "yKnBasvG33Yn5CAjj",
+        "title": "[Link] [Fiction] Ted Chiang: The Lifecycle of Software Objects",
+        "slug": "link-fiction-ted-chiang-the-lifecycle-of-software-objects",
+        "pageUrl": "https://www.lesswrong.com/posts/yKnBasvG33Yn5CAjj/link-fiction-ted-chiang-the-lifecycle-of-software-objects",
+        "postedAt": "2011-02-24T22:56:58.482Z",
+        "baseScore": 2,
+        "wordCount": 132,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Kaj_Sotala",
+          "slug": "kaj_sotala"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "http://www.subterraneanpress.com/index.php/magazine/fall-2010/fiction-the-lifecycle-of-software-objects-by-ted-chiang/\n\nA well-written novella about a company that has a proto-AI engine they use to make teachable virtual pets for sale in a cyberspace environment. Then the interest for the pets begins to decline and the company making them goes out of business. This makes for increasingly hard times for pet enthusiasts who've grown attached to theirs and refuse to just suspend them.\n\nQuite good, even though I find some elements a bit implausible. I find the premise particularly interesting because the \"let's build an AI engine to make virtual pets\" approach is what the OpenCog folks were planning on doing at one point. The story also touches on a number of other transhumanist themes.\n\nBesides, I cannot dislike a story that has the line, \"the demand for sex with Lojban-speaking tripods would be microscopic\"."
+        }
+      }
+    }
+  }
+}

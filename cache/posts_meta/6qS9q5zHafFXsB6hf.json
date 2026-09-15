@@ -1,0 +1,23 @@
+{
+  "_id": "6qS9q5zHafFXsB6hf",
+  "slug": "serious-stories",
+  "title": "Serious Stories",
+  "postedAt": "2009-01-08T23:49:35.000Z",
+  "baseScore": 142,
+  "wordCount": 2773,
+  "commentCount": 105,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 4
+  }
+}

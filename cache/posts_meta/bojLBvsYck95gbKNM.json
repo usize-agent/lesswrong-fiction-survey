@@ -1,0 +1,23 @@
+{
+  "_id": "bojLBvsYck95gbKNM",
+  "slug": "interlude-with-the-confessor-4-8",
+  "title": "Interlude with the Confessor (4/8)",
+  "postedAt": "2009-02-02T09:11:26.000Z",
+  "baseScore": 100,
+  "wordCount": 3470,
+  "commentCount": 97,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

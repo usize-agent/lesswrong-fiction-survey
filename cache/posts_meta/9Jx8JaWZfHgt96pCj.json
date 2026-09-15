@@ -1,0 +1,41 @@
+{
+  "_id": "9Jx8JaWZfHgt96pCj",
+  "slug": "please-don-t",
+  "title": "Please Don't",
+  "postedAt": "2026-02-11T17:51:48.677Z",
+  "baseScore": 1,
+  "wordCount": 3525,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jtewen",
+    "slug": "jtewen"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Dw5Z6wtTgk4Fikz9f",
+      "name": "Inner Alignment",
+      "slug": "inner-alignment"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "Dw5Z6wtTgk4Fikz9f": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

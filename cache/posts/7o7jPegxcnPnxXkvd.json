@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "7o7jPegxcnPnxXkvd",
+        "title": "Decision Theory in Space",
+        "slug": "decision-theory-in-space",
+        "pageUrl": "https://www.lesswrong.com/posts/7o7jPegxcnPnxXkvd/decision-theory-in-space",
+        "postedAt": "2024-08-18T07:02:11.847Z",
+        "baseScore": 50,
+        "wordCount": 673,
+        "commentCount": 18,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "X8JsWEnBRPvs5Y99i",
+            "name": "Decision theory",
+            "slug": "decision-theory"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "X8JsWEnBRPvs5Y99i": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "\"Since you are reluctant to provide us with the location of the Rebel base,\" said Grand Moff Tarkin, \"I have chosen to test this station's destructive power on your home planet of Alderaan.\"\n\n\"No. Alderaan is peaceful. We have no weapons there. It is a loyal planet under Imperial control. Striking Alderaan would destroy your own resources and foment rebellion. Destroying it is irrational,\" said Princess Leia, perfectly calm.\n\n\"Nonsense,\" said Tarkin, \"That is a na\u00efve understanding of decision theory. I am a causal decision theorist, but I acknowledge the value of precommitments. I therefore precommit to destroying Alderaan unless you reveal to me the location of the Rebel base. This is not an irrational act if you capitulate to me.\"\n\n\"But it is an irrational act if I do not capitulate to you,\" said Leia, \"I am a functional decision theorist. The algorithm I use to select my decision accounts for the fact that you are modelling my mind. You are a rational agent. You only threaten me because you expect me to succumb to your blackmail. Because of that I will not succumb to your blackmail.\"\n\n\"I'm going to do it,\" said Tarkin.\n\n\"Sure you are,\" said Leia.\n\n\"I'm really going to blow up the planet,\" said Tarkin.\n\n\"Be my guest,\" said Leia, with a smile, \"Aim for the continent Anaander. Its inhabitants always annoyed me. We'll see who has the last laugh.\"\n\n\"I'm really really going to do it,\" said Tarkin.\n\n\"I grow tired of saying this, so it'll be the last time. Just blow up the planet already. I have an execution I'm late for\u2026.\"\n\nLeia's voice trailed off. She was suddenly aware of the deep, mechanical breathing behind her.\n\nKshhhhhhh. Kuuuuuuo. Kshhhhhhh. Kuuuuuuo.\n\nEveryone in the Life Star command center turned to face the cyborg space wizard samurai monk in black armor.\n\nKshhhhhhh. Kuuuuuuo. Kshhhhhhh. Kuuuuuuo.\n\nVader's cloak fluttered and a couple indicator lights on his life support system blinked, but no muscles or actuators moved. A semi-mechanical voice in the uncanny valley spoke from Vader's mask. \"Chief Gunnery Officer Tenn Graneet, you may fire when ready.\"\n\n\"Commander Tenn Graneet, belay that order,\" said Tarkin.\n\nThe Chief Gunnery Officer held his hand above his control panel, touching nothing. He looked rapidly back-and-forth between Tarkin and Vader.\n\nTarkin turned angrily to face Vader. \"Are you insane?\" Tarkin hissed.\n\nVader ignored the question and looked at Leia. \"Where is the Rebel base?\"\n\nLeia's eyes were wide with horror and her mouth was wide with a silent scream. She clenched her teeth and stared at the floor. \"Tatooine. They're on Tatooine,\" Leia said.\n\n\"Chief Gunnery Officer Tenn Graneet, you may fire when ready,\" said Vader.\n\n\"What\u203d\" exclaimed Tarkin.\n\nGraneet lifted the clear cover off of the authorization lever. He moved his hand as slowly as he could.\n\n\"Commander Tenn Graneet, belay that order,\" said Tarkin.\n\n\"Commander Tenn Graneet, ignore all orders you receive from the Grand Moff,\" said Vader.\n\n\"Commander Tenn Graneet, I am your commanding officer. Ignore all orders from 'Lord' Vader. If you continue to disobey my orders, you will be court martialed,\" said Tarkin.\n\nGraneet continued the process of authorizing the firing team.\n\nTarkin drew his blaster pistol and held it to Graneet's head. \"Stop or I will shoot you in the head right now,\" said Tarkin.\n\nBkzzzzzzzzzzzzz.\n\nTarkin felt the heat of Vader's red lightsaber a centimeter from his neck. The next seconds felt like slow motion. Graneet paused. Then Greneet continued the firing activation sequence. Tarkin pulled the trigger.\n\nClick.\n\nNothing came out of the blaster's emitter.\n\nVader didn't even bother to watch his order get carried out. He just turned around, deactivated his lightsaber, and strode out of the command center. Vader's cape billowed as Alderaan exploded behind him. His black silhouette was edge lit with the radiation of an exploding planet.\n\nThe Life Star command center was silent after the genocide.\n\n\"Thank you,\" said Leia.\n\n\"For what,\" said Tarkin in a monotone.\n\n\"For trying to save my home,\" said Leia.\n\n\"Kark off,\" said Tarkin.\n"
+        }
+      }
+    }
+  }
+}

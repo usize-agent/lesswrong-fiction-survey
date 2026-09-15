@@ -1,0 +1,29 @@
+{
+  "_id": "jSTus7okunuyTuEbr",
+  "slug": "murphy-s-quest-ch-4-noticing-confusion",
+  "title": "Murphy\u2019s Quest Ch 4: Noticing Confusion",
+  "postedAt": "2018-03-05T07:20:01.112Z",
+  "baseScore": 21,
+  "wordCount": 1043,
+  "commentCount": 8,
+  "user": {
+    "displayName": "alkjash",
+    "slug": "alkjash"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1
+  }
+}

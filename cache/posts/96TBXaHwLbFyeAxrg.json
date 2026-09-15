@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "96TBXaHwLbFyeAxrg",
+        "title": "Guardians of Ayn Rand",
+        "slug": "guardians-of-ayn-rand",
+        "pageUrl": "https://www.lesswrong.com/posts/96TBXaHwLbFyeAxrg/guardians-of-ayn-rand",
+        "postedAt": "2007-12-18T06:24:05.000Z",
+        "baseScore": 133,
+        "wordCount": 1576,
+        "commentCount": 122,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "5f5c37ee1b5cdee568cfb0cb",
+            "name": "Affective Death Spiral",
+            "slug": "affective-death-spiral"
+          },
+          {
+            "_id": "Kj9q8FXoauL7mQDWt",
+            "name": "Affect Heuristic",
+            "slug": "affect-heuristic"
+          },
+          {
+            "_id": "ALwRRZqvhaop8gxkT",
+            "name": "Groupthink",
+            "slug": "groupthink"
+          },
+          {
+            "_id": "bY5MaF2EATwDkomvu",
+            "name": "History",
+            "slug": "history"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "NSMKfa8emSbGNXRKD",
+            "name": "Religion",
+            "slug": "religion"
+          }
+        ],
+        "tagRelevance": {
+          "ALwRRZqvhaop8gxkT": 1,
+          "Kj9q8FXoauL7mQDWt": 1,
+          "NSMKfa8emSbGNXRKD": 1,
+          "bY5MaF2EATwDkomvu": 1,
+          "pszEEb3ctztv3rozd": 1,
+          "5f5c37ee1b5cdee568cfb0cb": 3
+        },
+        "contents": {
+          "markdown": "> \"For skeptics, the idea that reason can lead to a cult is absurd. The characteristics of a cult are 180 degrees out of phase with reason. But as I will demonstrate, not only can it happen, it has happened, and to a group that would have to be considered the unlikeliest cult in history. It is a lesson in what happens when the truth becomes more important than the search for truth...\"  \n> \u2014Michael Shermer, \"[The Unlikeliest Cult in History](http://www.2think.org/02_2_she.shtml)\"\n\nI think Michael Shermer is over-explaining Objectivism. I'll get around to amplifying on that.\n\nAyn Rand's novels glorify technology, capitalism, individual defiance of the System, limited government, private property, [selfishness](/lw/ky/fake_morality/). Her ultimate fictional hero, John Galt, was <SPOILER>a scientist who invented a new form of cheap renewable energy; but then refuses to give it to the world since the profits will only be stolen to prop up corrupt governments.</SPOILER>\n\nAnd then\u2014somehow\u2014it all turned into a moral and philosophical \"closed system\" with Ayn Rand at the center. The term \"closed system\" is not my own accusation; it's the term the Ayn Rand Institute uses to describe Objectivism. Objectivism is defined by the works of Ayn Rand. Now that Rand is dead, Objectivism is closed. If you disagree with Rand's works in any respect, you cannot be an Objectivist.\n\nMax Gluckman once said: \"A science is any discipline in which the fool of this generation can go beyond the point reached by the genius of the last generation.\" Science moves forward by slaying its heroes, as Newton fell to Einstein. Every young physicist dreams of being the new champion that future physicists will dream of dethroning.\n\nAyn Rand's philosophical idol was Aristotle. Now maybe Aristotle was a hot young math talent 2350 years ago, but math has made noticeable progress since his day. Bayesian probability theory is the quantitative logic of which Aristotle's qualitative logic is a special case; but there's no sign that Ayn Rand knew about Bayesian probability theory when she wrote her magnum opus, *Atlas Shrugged.* Rand wrote about \"rationality\", yet failed to familiarize herself with the modern research in heuristics and biases. How can anyone claim to be a master rationalist, yet know nothing of such elementary subjects?\n\n\"Wait a minute,\" objects the reader, \"that's not quite fair! *Atlas Shrugged* was published in 1957! Practically nobody knew about Bayes back then.\" Bah. Next you'll tell me that Ayn Rand died in 1982, and had no chance to read *Judgment Under Uncertainty: Heuristics and Biases,* which was published that same year.\n\nScience isn't fair. That's sorta the point. An aspiring rationalist in 2007 starts with a huge advantage over an aspiring rationalist in 1957. It's how we know that progress has occurred.\n\nTo me the thought of voluntarily embracing a system explicitly tied to the beliefs of one human being, who's *dead*, falls somewhere between the silly and the suicidal. A computer isn't five years old before it's obsolete.\n\nThe vibrance that Rand admired in science, in commerce, in every railroad that replaced a horse-and-buggy route, in every skyscraper built with *new* architecture\u2014it all comes from the principle of *surpassing the ancient masters.* How can there be science, if the most knowledgeable scientist there will ever be, has already lived? Who would raise the New York skyline that Rand admired so, if the tallest building that would ever exist, had already been built?\n\nAnd yet Ayn Rand acknowledged no superior, in the past, or in the future yet to come. Rand, who began in admiring reason and individuality, ended by ostracizing anyone who dared contradict her. [Shermer](http://www.2think.org/02_2_she.shtml): \"\\[Barbara\\] Branden recalled an evening when a friend of Rand's remarked that he enjoyed the music of Richard Strauss. 'When he left at the end of the evening, Ayn said, in a reaction becoming increasingly typical, 'Now I understand why he and I can never be real soulmates. The distance in our sense of life is too great.' Often she did not wait until a friend had left to make such remarks.\"\n\nAyn Rand changed over time, one suspects.\n\nRand grew up in Russia, and witnessed the Bolshevik revolution firsthand. She was granted a visa to visit American relatives at the age of 21, and she never returned. It's easy to hate authoritarianism when you're the victim. It's easy to champion the freedom of the individual, when you are yourself the oppressed.\n\nIt takes a much stronger constitution to fear authority when *you* have the power. When people are looking to *you* for answers, it's harder to say \"What the hell do I know about music? I'm a writer, not a composer,\" or \"It's hard to see how liking a piece of music can be [untrue](/lw/hp/feeling_rational/).\"\n\nWhen *you're* the one crushing those who dare offend you, the exercise of power somehow seems much more *justifiable* than when you're the one being crushed. All sorts of [excellent justifications](/lw/kz/fake_optimization_criteria/) somehow leap to mind.\n\nMichael Shermer goes into detail on how he thinks that Rand's philosophy ended up descending into cultishness. In particular, Shermer says (it seems) that Objectivism failed because Rand thought that certainty was possible, while science is never certain. I can't back Shermer on that one. The atomic theory of chemistry is pretty damned certain. But chemists haven't become a cult.\n\nActually, I think Shermer's falling prey to [correspondence bias](/lw/hz/correspondence_bias/) by supposing that there's any particular correlation between Rand's philosophy and the way her followers formed a cult. [Every cause wants to be a cult](/lw/lv/every_cause_wants_to_be_a_cult/).\n\nAyn Rand fled the Soviet Union, wrote a book about individualism that a lot of people liked, got plenty of compliments, and formed a coterie of admirers. Her admirers found nicer and nicer things to say about her ([happy death spiral](/lw/lm/affective_death_spirals/)), and she enjoyed it too much to tell them to shut up. She found herself with the power to crush those of whom she disapproved, and she didn't resist the temptation of power.\n\nAyn Rand and Nathaniel Branden carried on a secret extramarital affair. (With permission from both their spouses, which counts for a lot in my view. If you want to turn that into a \"problem\", you have to specify that the spouses were *unhappy*\u2014and then it's still not a matter for outsiders.) When Branden was revealed to have \"cheated\" on Rand with yet another woman, Rand flew into a fury and excommunicated him. Many Objectivists broke away when news of the affair became public.\n\nWho stayed with Rand, rather than following Branden, or leaving Objectivism altogether? Her *strongest* supporters. Who departed? The previous voices of moderation. ([Evaporative cooling of group beliefs.](/lw/lr/evaporative_cooling_of_group_beliefs/)) Ever after, Rand's grip over her remaining coterie was absolute, and no questioning was allowed.\n\nThe only extraordinary thing about the whole business, is how ordinary it was.\n\nYou might think that a belief system which praised \"reason\" and \"rationality\" and \"individualism\" would have gained some kind of special immunity, somehow...?\n\nWell, it didn't.\n\nIt worked around as well as putting a sign saying \"Cold\" on a refrigerator that wasn't plugged in.\n\nThe active effort required to resist the slide into entropy wasn't there, and decay inevitably followed.\n\nAnd if you call that the \"unlikeliest cult in history\", you're just [calling reality nasty names](/lw/hs/think_like_reality/).\n\nLet that be a lesson to all of us: [Praising](/lw/ir/science_as_attire/) \"rationality\" counts for nothing. Even saying \"You must justify your beliefs through Reason, not by agreeing with the Great Leader\" just runs a little automatic program that takes whatever the Great Leader says and generates a justification that your fellow followers will view as Reason-able.\n\nSo where is the true art of rationality to be found? Studying up on the math of probability theory and decision theory. Absorbing the cognitive sciences like evolutionary psychology, or heuristics and biases. Reading history books...\n\n\"Study science, not just me!\" is probably the most important piece of advice Ayn Rand should've given her followers and didn't. There's no one human being who ever lived, whose shoulders were broad enough to bear *all* the weight of a true science with many contributors.\n\nIt's noteworthy, I think, that Ayn Rand's fictional heroes were architects and engineers; John Galt, her ultimate, was a physicist; and yet Ayn Rand herself wasn't a great scientist. As far as I know, she wasn't particularly good at math. She could not aspire to rival her own heroes. Maybe that's why she began to lose track of [Tsuyoku Naritai](/lw/h8/tsuyoku_naritai_i_want_to_become_stronger/).\n\nNow me, y'know, I admire [Francis Bacon's audacity](/lw/ln/resist_the_happy_death_spiral/), but I retain my ability to bashfully confess, \"If I could go back in time, and somehow make Francis Bacon understand the problem I'm [currently working on](http://intelligence.org/AIRisk.pdf), his eyeballs would pop out of their sockets like champagne corks and explode.\"\n\nI admire Newton's accomplishments. But my attitude toward a woman's right to vote, bars me from accepting Newton as a moral paragon. Just as my knowledge of Bayesian probability bars me from viewing Newton as the ultimate unbeatable source of mathematical knowledge. And my knowledge of Special Relativity, paltry and little-used though it may be, bars me from viewing Newton as the ultimate authority on physics.\n\nNewton couldn't realistically have discovered any of the ideas I'm lording over him\u2014*but progress isn't fair! That's the point!*\n\nScience has heroes, but no gods. The great Names are not our superiors, or even our rivals, they are passed milestones on our road; and the most important milestone is the hero yet to come.\n\nTo be one more milestone in humanity's road is the best that can be said of anyone; but this seemed too lowly to please Ayn Rand. And that is how she became a mere Ultimate Prophet."
+        }
+      }
+    }
+  }
+}

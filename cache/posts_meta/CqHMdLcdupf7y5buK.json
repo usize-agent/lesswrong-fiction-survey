@@ -1,0 +1,53 @@
+{
+  "_id": "CqHMdLcdupf7y5buK",
+  "slug": "an-optimistic-2027-timeline",
+  "title": "An \u201cOptimistic\u201d 2027 Timeline",
+  "postedAt": "2025-04-06T16:39:36.554Z",
+  "baseScore": 13,
+  "wordCount": 2777,
+  "commentCount": 16,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "rjEZWSbSffhaWYRvo",
+      "name": "Hypotheticals",
+      "slug": "hypotheticals"
+    },
+    {
+      "_id": "kdbs6xBndPkmrYAxM",
+      "name": "Politics",
+      "slug": "politics"
+    },
+    {
+      "_id": "AKvmQFvDjxJNetTuk",
+      "name": "Scaling Laws",
+      "slug": "scaling-laws"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "AKvmQFvDjxJNetTuk": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "kdbs6xBndPkmrYAxM": 2,
+    "rjEZWSbSffhaWYRvo": 2,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "zHjC29kkPmsdo7WTr": 2
+  }
+}

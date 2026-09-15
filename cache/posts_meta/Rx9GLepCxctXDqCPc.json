@@ -1,0 +1,41 @@
+{
+  "_id": "Rx9GLepCxctXDqCPc",
+  "slug": "a-dialogue-on-rationalist-activism",
+  "title": "A Dialogue on Rationalist Activism",
+  "postedAt": "2018-09-10T18:30:01.130Z",
+  "baseScore": 107,
+  "wordCount": 2643,
+  "commentCount": 24,
+  "user": {
+    "displayName": "moridinamael",
+    "slug": "moridinamael"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "JsJPrdgRGRqnci8cZ",
+      "name": "Altruism",
+      "slug": "altruism"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "JsJPrdgRGRqnci8cZ": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 5,
+    "izp6eeJJEg9v5zcur": 5
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "2mLZiWxWKZyaRgcn7",
+        "title": "Selling Nonapples",
+        "slug": "selling-nonapples",
+        "pageUrl": "https://www.lesswrong.com/posts/2mLZiWxWKZyaRgcn7/selling-nonapples",
+        "postedAt": "2008-11-13T20:10:58.000Z",
+        "baseScore": 77,
+        "wordCount": 2008,
+        "commentCount": 78,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "fuZZ64fNz24BLrXnY",
+            "name": "Robotics",
+            "slug": "robotics"
+          },
+          {
+            "_id": "Z5A4c4kjTgLSFEr3h",
+            "name": "Autonomous Vehicles",
+            "slug": "autonomous-vehicles"
+          },
+          {
+            "_id": "GY5kPPpCoyt9fnTMn",
+            "name": "Computer Science",
+            "slug": "computer-science"
+          },
+          {
+            "_id": "N3CqcPdCZNspF9bFb",
+            "name": "Emergent Behavior ( Emergence )",
+            "slug": "emergent-behavior-emergence"
+          },
+          {
+            "_id": "fpEBgFE7fgpxTm9BF",
+            "name": "Machine Learning  (ML)",
+            "slug": "machine-learning-ml"
+          },
+          {
+            "_id": "HFou6RHqFagkyrKkW",
+            "name": "Programming",
+            "slug": "programming"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "GY5kPPpCoyt9fnTMn": 1,
+          "HFou6RHqFagkyrKkW": 1,
+          "N3CqcPdCZNspF9bFb": 1,
+          "Z5A4c4kjTgLSFEr3h": 1,
+          "fpEBgFE7fgpxTm9BF": 1,
+          "fuZZ64fNz24BLrXnY": 2,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "**Previously in series**: [Worse Than Random](/lw/vp/worse_than_random/)\n\n*A tale of two architectures...*\n\nOnce upon a time there was a man named Rodney Brooks, who could justly be called the King of Scruffy Robotics. (Sample paper titles: \"Fast, Cheap, and Out of Control\", \"Intelligence Without Reason\"). Brooks invented the \"subsumption architecture\" - robotics based on many small modules, communicating asynchronously and without a central world-model or central planning, acting by reflex, responding to interrupts. The archetypal example is the insect-inspired robot that lifts its leg higher when the leg encounters an obstacle - it doesn't model the obstacle, or plan how to go around it; it just lifts its leg higher.\n\nIn Brooks's paradigm - which he labeled *nouvelle AI* \\- intelligence [emerges](/lw/iv/the_futility_of_emergence/) from \"situatedness\". One speaks not of an intelligent system, but rather the intelligence that emerges from the interaction of the system and the environment.\n\nAnd Brooks wrote a programming language, the *behavior language,* to help roboticists build systems in his paradigmatic subsumption architecture - a language that includes facilities for asynchronous communication in networks of reflexive components, and programming finite state machines.\n\nMy understanding is that, while there are still people in the world who speak with reverence of Brooks's subsumption architecture, it's not used much in commercial systems on account of being nearly impossible to program.\n\nOnce you start stacking all these modules together, it becomes more and more difficult for the programmer to decide that, yes, an asynchronous local module which raises the robotic leg higher when it detects a block, and meanwhile sends asynchronous signal X to module Y, will indeed produce effective behavior as the outcome of the whole intertwined system whereby intelligence emerges from interaction with the environment...\n\nAsynchronous parallel decentralized programs are harder to write. And it's *not* that they're a better, higher form of sorcery that only a few exceptional magi can use. It's more like the difference between the two business plans, \"sell apples\" and \"sell nonapples\".\n\nOne noteworthy critic of Brooks's paradigm in general, and subsumption architecture in particular, is a fellow by the name of Sebastian Thrun.\n\nYou may recall the 2005 DARPA Grand Challenge for the driverless cars. How many ways was this a *fair challenge* according to the tenets of Scruffydom? Let us count the ways:\n\n*   The challenge took place in the real world, where sensors are imperfect, random factors intervene, and macroscopic physics is only approximately lawful.\n*   The challenge took place outside the laboratory - not even on paved roads, but 212km of desert.\n*   The challenge took place in real time - continuous perception, continuous action, using only computing power that would fit on a car.\n*   The teams weren't told the specific race course until 2 hours before the race.\n*   You could write the code any way you pleased, so long as it worked.\n*   The challenge was competitive: The prize went to the *fastest* team that completed the race. Any team which, for ideological reasons, preferred elegance to speed - any team which refused to milk every bit of performance out of their systems - would surely lose to a less principled competitor.\n\nAnd the winning team was Stanley, the Stanford robot, built by a team led by Sebastian Thrun.\n\nHow did he do it? If I recall correctly, Thrun said that the key was being able to integrate probabilistic information from many different sensors, using a common representation of uncertainty. This is likely code for \"we used Bayesian methods\", at least if \"Bayesian methods\" is taken to include algorithms like particle filtering.\n\nAnd to heavily paraphrase and summarize some of Thrun's criticisms of Brooks's subsumption architecture:\n\nRobotics becomes pointlessly difficult if, for some odd reason, you insist that there be no central model and no central planning.\n\nIntegrating data from multiple uncertain sensors is a lot easier if you have a common probabilistic representation. Likewise, there are many potential tasks in robotics - in situations as simple as navigating a hallway - when you can end up in two possible situations that look highly similar and have to be distinguished by reasoning about the history of the trajectory.\n\nTo be fair, it's not as if the subsumption architecture has never made money. Rodney Brooks is the founder of iRobot, and I understand that the Roomba uses the subsumption architecture. The Roomba has no doubt made more money than was won in the DARPA Grand Challenge... though the Roomba might not seem quite as impressive...\n\nBut that's not quite today's point.\n\nEarlier in his career, Sebastian Thrun also wrote a programming language for roboticists. Thrun's language was named CES, which stands for C++ for Embedded Systems.\n\nCES is a language extension for C++. Its types include probability distributions, which makes it easy for programmers to manipulate and combine multiple sources of uncertain information. And for differentiable variables - including probabilities - the language enables automatic optimization using techniques like gradient descent. Programmers can declare 'gaps' in the code to be filled in by training cases: \"Write me this function.\"\n\nAs a result, Thrun was able to write a small, corridor-navigating mail-delivery robot using 137 lines of code, and this robot required less than 2 hours of training. As Thrun notes, \"Comparable systems usually require at least two orders of magnitude more code and are considerably more difficult to implement.\" Similarly, a 5,000-line robot localization algorithm was reimplemented in 52 lines.\n\nWhy can't you get that kind of productivity with the subsumption architecture? Scruffies, ideologically speaking, are supposed to believe in learning - it's only those evil logical Neats who try to program everything into their AIs in advance. Then why does the subsumption architecture require so much sweat and tears from its programmers?\n\nSuppose that you're trying to build a wagon out of wood, and unfortunately, the wagon has a problem, which is that it keeps catching on fire. Suddenly, one of the wagon-workers drops his wooden beam. His face lights up. \"I have it!\" he says. \"We need to build this wagon from *nonwood materials!*\"\n\nYou stare at him for a bit, trying to get over the shock of the new idea; finally you ask, \"What kind of nonwood materials?\"\n\nThe wagoneer hardly hears you. \"Of *course*!\" he shouts. \"It's all so obvious in retrospect! Wood is simply the *wrong material for building wagons!* This is the dawn of a new era - the *nonwood* era - of wheels, axles, carts all made from nonwood! Not only that, instead of taking apples to market, we'll take *nonapples*! There's a huge market for nonapples - people buy far more nonapples than apples - we should have no trouble selling them! It will be the era of the *nouvelle wagon!*\"\n\nThe set \"apples\" is much narrower than the set \"not apples\". Apples form a [compact cluster in thingspace](/lw/nl/the_cluster_structure_of_thingspace/), but nonapples vary much more widely in price, and size, and use. When you say to build a wagon using \"wood\", you're giving much more concrete advice than when you say \"not wood\". There are different kinds of wood, of course - but even so, when you say \"wood\", you've narrowed down the range of possible building materials a whole lot more than when you say \"not wood\".\n\nIn the same fashion, \"asynchronous\" - literally \"not synchronous\" - is a much larger design space than \"synchronous\". If one considers the space of all communicating processes, then synchrony is a very strong constraint on those processes. If you toss out synchrony, then you have to pick some other method for preventing communicating processes from stepping on each other - synchrony is *one way* of doing that, a *specific answer* to the question.\n\nLikewise \"parallel processing\" is a much huger design space than \"serial processing\", because serial processing is just a special case of parallel processing where the number of processors happens to be equal to 1. \"Parallel processing\" reopens all sorts of design choices that are premade in serial processing. When you say \"parallel\", it's like stepping out of a small cottage, into a vast and echoing country. You have to stand someplace *specific,* in that country - you can't stand in the whole place, in the noncottage.\n\nSo when you stand up and shout: \"Aha! I've got it! We've got to solve this problem using *asynchronous processes!*\", it's like shouting, \"Aha! I've got it! We need to build this wagon out of nonwood! Let's go down to the market and buy a ton of nonwood from the nonwood shop!\" You've got to choose some *specific* alternative to synchrony.\n\nNow it may well be that there are other building materials in the universe than wood. It may well be that wood is not the best building material. But you still have to come up with some specific thing to use in its place, like iron. \"Nonwood\" is not a building material, \"sell nonapples\" is not a business strategy, and \"asynchronous\" is not a programming architecture.\n\nAnd this is strongly reminiscent of - arguably a special case of - the dilemma of [inductive bias](/lw/hg/inductive_bias/). There's a tradeoff between the strength of the assumptions you make, and how fast you learn. If you make stronger assumptions, you can learn faster when the environment matches those assumptions well, but you'll learn correspondingly more slowly if the environment matches those assumptions poorly. If you make an assumption that lets you learn faster in one environment, it must always perform more poorly in some other environment. Such laws are known as the \"no-free-lunch\" theorems, and the reason they don't prohibit intelligence entirely is that the real universe is a low-entropy special case.\n\nProgrammers have a phrase called the \"Turing Tarpit\"; it describes a situation where everything is possible, but nothing is easy. A Universal Turing Machine can simulate any possible computer, but only at an immense expense in time and memory. If you program in a high-level language like Python, then - while most programming tasks become much simpler - you may occasionally find yourself banging up against the walls imposed by the programming language; sometimes Python won't let you do certain things. If you program directly in machine language, raw 1s and 0s, there are no constraints; you can do anything that can possibly be done by the computer chip; and it will probably take you around a thousand times as much time to get anything done. You have to do, all by yourself, everything that a compiler would normally do on your behalf.\n\nUsually, when you adopt a program architecture, that choice takes work *off* your hands. If I use a standard container library - lists and arrays and hashtables - then I don't need to decide how to implement a hashtable, because that choice has already been made for me.\n\nAdopting the subsumption paradigm means *losing* order, instead of *gaining* it. The subsumption architecture is not-synchronous, not-serial, and not-centralized. It's also not-knowledge-modelling and not-planning.\n\nThis absence of solution implies an immense design space, and it requires a correspondingly immense amount of work by the programmers to reimpose order. Under the subsumption architecture, it's the *programmer* who decides to add an asynchronous local module which detects whether a robotic leg is blocked, and raises it higher. It's the programmer who has to make sure that this behavior plus other module behaviors all add up to an (ideologically correct) emergent intelligence. The lost structure is not replaced. You just get tossed into the Turing Tarpit, the space of all other possible programs.\n\nOn the other hand, CES creates order; it adds the structure of probability distributions and gradient optimization. This narrowing of the design space takes so much work off your hands that you can write a learning robot in 137 lines (at least if you happen to be Sebastian Thrun).\n\nThe moral:\n\nQuite a few AI architectures aren't.\n\nIf you want to generalize, quite a lot of policies aren't.\n\nThey aren't choices. They're just protests.\n\n**Added**: Robin Hanson [says](http://www.overcomingbias.com/2008/11/selling-nonappl.html#comment-139043986), \"Economists have to face this in spades. So many people say standard econ has failed and the solution is to do the opposite - non-equilibrium instead of equilibrium, non-selfish instead of selfish, non-individual instead of individual, etc.\" It seems that selling nonapples is a full-blown Standard Iconoclast Failure Mode."
+        }
+      }
+    }
+  }
+}

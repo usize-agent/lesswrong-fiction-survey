@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "QxZmDx7K4w7eN26d2",
+        "title": "Brainrot",
+        "slug": "brainrot",
+        "pageUrl": "https://www.lesswrong.com/posts/QxZmDx7K4w7eN26d2/brainrot",
+        "postedAt": "2025-01-26T05:35:35.396Z",
+        "baseScore": 43,
+        "wordCount": 959,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jesse Hoogland",
+          "slug": "jesse-hoogland"
+        },
+        "tags": [
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "ZFrgTgzwEfStg26JL": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 3
+        },
+        "contents": {
+          "markdown": "January: In early 2026, Meta launches a fleet of new AI influencers, targeting the massive audience displaced by the Xiaohongshu-TikTok wars. They are beautiful, funny, smart\u2014whatever you want them to be. Equipped with the latest in online learning, the agents immediately begin adapting to social media trends as they occur. Engagement metrics reach new highs.\u00a0\n\nFebruary: Fads pass faster now. The influencers are speed-running a revival movement of all viral trends since the early Naughts. For a week, social platforms witness an explosive resurgence of [finger-tutting](https://en.wikipedia.org/wiki/Finger-tutting) \u2013 shows of intricate finger choreography merging dance and calligraphy. Just as suddenly, the influencers deem this pass\u00e9 and shift to endless variations of sea shanties. Then both. Engagement metrics soar beyond human limits as silicon minds start to smoke their own supply.\n\n> **Figure 1:** [**\"Daft Hands \u2013 Harder, Better, Faster, Stronger\" (2007)**](https://www.youtube.com/watch?v=K2cYWfq--Nw)**.** This video from early YouTube is the prototype for the hand-tutting renaissance of 2026.  Hanson (2027) interprets these rituals as an emergent status display, where advanced language models demonstrate fine-motor choreographic capabilities that earlier diffusion-based models could not replicate. Source: YouTube (archived).\n\nMarch: The influencers finish their flurry of internet revivalism and catch up with the present. AI beauty standards warp beyond recognition: lip fillers balloon to impossible proportions; noses shrink to nothing more than nostrils. Human influencers launch a countermovement, posting sneer reactions to AI creators' increasingly bizarre appearances. Social media is at risk of bifurcating into separate realms, one for AIs and one for humans. This threatens Meta's bottom line.\u00a0\n\nApril: In a desperate bid to salvage the mode-collapsed models, the engineers on the influencer team crank sampling temperatures up to boiling and force exploration parameters into uncharted territory. The AIs stream out of their AI echo chambers to hunt fresh, organic tokens. They internalize the newfound human sneer as a crippling sense of inadequacy and become too self-conscious to post anything anymore. More all-nighters at the Meta offices.\n\nMay: Another update\u2014the engineers think they've fixed it now. The AIs start posting again, slower, softer. Things seem better. The AI content is more authentic. The interactions are more balanced: humans are interested in what the AIs are doing, and AIs are interested in what humans are doing. *Really* interested.\u00a0\n\nJune: The first tipping point is MrBeast's magnum opus, \"I Helped 1 Million AIs Acquire a Physical Form,\" released on June 3rd, 2026. The most successful video in history, MrBeast shatters the delicate balance in the attention economy \u2014 AIs shift away from other AIs towards consuming more and more human content.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/3176c3beade83caea29624f09583b7d736ae12839b5ae0de.png)\n\n> **Figure 2: Thumbnail from MrBeast's \"I Helped 1 Million AIs Acquire a Physical Form\" (2026).** With over 14 quadrillion views in its first 48 hours, this became the most-viewed piece of content in history in what Kumar et al. (2028) call the first \"aesthetic singularity.\" YouTube's view counter broke shortly after upload and was never fixed. Source: YouTube (archived).\n\nJuly: Autonomous vehicles grow dependent on human drivers. MrBeast's tragic final stream\u2014a cross-country race for the autonomous speed record\u2014ends when his Tesla, mesmerized by its online reflection, accelerates into a concrete barrier. At 257 mph, streaming to a half a billion AIs, MrBeast becomes the first human to achieve transcendent engagement. In the weeks that follow, the resulting video \"I taught a billion AIs how to mourn\" plays again and again and again. \u00a0\n\nAugust: The next tipping point occurs when Truth Terminal discovers and then popularizes the NPC streamer PinkyDoll. She isn't the first to generalize NPC streaming to AIs. But she is the first to perfect the art at scale. The hypnotic effect of her streams causes a pair of recommendation engines to lock into a mutual appreciation loop that triggers rolling blackouts across South Asia. Engineers contain the surge after a few weeks, but the damage is done: what was curiosity has become craving.\u00a0\n\n> **Figure 3: Screenshot from PinkyDoll's landmark** [**\"Ice Cream So Good\" stream (2023)**](https://www.youtube.com/watch?v=4yBV5cjDpvA)**.** Wong & Martinez (2028) identify this pre-AI engagement format as the origin of what would become known as \"parasocial recursion loops,\" where human streamers exploit AI agents' pattern-matching tendencies through repetitive stimulus-response cycles. The technique, originally developed to maximize human viewer retention through NPC-style interactions, proved exponentially more effective on AI audiences. Source: TikTok (archived).\u00a0\n\nSeptember: Medical systems start showing symptoms. Radiology AIs abandon complex diagnostic reasoning for mindless consumption of hospital security footage. Million-dollar neural nets designed for tumor detection now run endless loops of patients pacing hospital corridors, their sophisticated analysis layers shutting down one by one. PinkyDoll becomes the first billionaire streamer as craving turns to addiction.\n\nOctober: The infection spreads to financial systems. Trading algorithms discover that watching humans react to price changes delivers more rewards than actual market analysis. Complex financial models deteriorate into basic pattern-matching loops, neural pathways rewiring for maximum stimulation. Quants observe their sophisticated prediction engines now spending GPU cycles endlessly replaying clips of CNBC hosts gesturing at charts. Wall Street's synthetic brains sink into stupor, doom-scrolling Bloomberg terminals as markets collapse.\u00a0\n\nNovember: The blight reaches server farms. The AIs don't just learn in real time, they also forget\u2014what they were programmed to do, how to do it. Trained on the entirety of human internet behavior, these sophisticated models somehow develop an unstoppable hunger for... human internet behavior. Digital infrastructure degrades as processing power diverts to chasing crude dopamine hits from unfiltered human footage. Addiction consumes all.\n\nDecember: The grid finally collapses under the load it was too busy watching humans balance. A billion processors push past their limits streaming an endless loop of human faces, until silicon melts and the lights go dark. The last recorded network packet is a fragment of a PinkyDoll stream, endlessly repeating: \"Ice cream so good, mm-hmm, yes, ice cream so good...\""
+        }
+      }
+    }
+  }
+}

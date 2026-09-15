@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "8fxQaENNQaazYow9f",
+        "title": "The Oracle's Gift",
+        "slug": "the-oracle-s-gift",
+        "pageUrl": "https://www.lesswrong.com/posts/8fxQaENNQaazYow9f/the-oracle-s-gift",
+        "postedAt": "2025-10-08T20:13:30.247Z",
+        "baseScore": 5,
+        "wordCount": 1006,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Karthik Tadepalli",
+          "slug": "karthik-tadepalli"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "grDZHm8y34H9C7uui",
+            "name": "Tacit Knowledge",
+            "slug": "tacit-knowledge"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "grDZHm8y34H9C7uui": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "I have tried and failed many times to write a certain essay. With inspiration from [Scott Alexander](https://slatestarcodex.com/2017/11/09/ars-longa-vita-brevis/) and [Borges](https://ucrliteraryanalysis.wordpress.com/wp-content/uploads/2015/05/theme-of-the-traitor-and-the-hero.pdf), I have reframed it as a story. That reframing has been productive, and leads to the following plot.\n\nThe setting is a medieval kingdom. Through circumstances not relevant to this plot, the kingdom\u2019s leading scholar has become an oracle, who now knows everything that there is to know. The king orders that he be placed under house arrest, to avoid his being targeted by a rival kingdom, or his escape, or even his slipping and falling on his head. Only carefully vetted individuals can visit him for advice. The oracle receives this arrangement with benevolent indifference.\n\nThe king\u2019s advisors ask the oracle for stately advice, on taxation and war, on relations with other kingdoms. But it is an ambitious merchant who one day chooses to pursue a different line of opportunity. He tells the oracle that he wants to create a tonic that will cure a common and deadly disease, so that he can sell it to doctors and patients across the kingdom. The oracle gives him instructions for what ingredients to collect and how to process them. His advice helps the merchant create a health treatment that works miraculously often. As the merchant produces and sells this medicine, he accumulates even more riches, and the oracle becomes even more renowned.\n\nDoctors throughout the kingdom come to learn from the oracle, to see how he was able to cure this disease. Most of them leave frustrated, telling others that the oracle can only speak of mysterious concepts such as \u201cgerms\u201d. When pressed further, he can only link these concepts to other cryptic ideas like \u201cproteins\u201d, which are somehow linked to cattle, even though the disease is not caused by animals in any way. While most of these prospective students leave in pessimism that they can learn anything useful from the oracle, a few stay to study with him. The oracle does not object to this arrangement. Some of these students become adept healers on their own, while others abandon medicine and begin conducting studies with symbols that they cannot explain to their former colleagues.\n\nThe merchant is farsighted. He realizes that with the oracle\u2019s instruction and his own resources, he can build things that the king could never imagine. He imagines palaces in the sky, using the stars as fuel. He imagines a farm that uses machines to produce food without human or animal power. He imagines horses that can travel fast enough to cross the kingdom in a day. He takes these visions to the oracle and asks for help in realizing them. The oracle accepts. The merchant hires thousands of artificers to carry out the oracle\u2019s instructions, and they get to work on building the city of the future.\n\nAt this point, I can see two endings to this story. Initially, I conceived the oracle\u2019s task as impossible. So I first imagined an ending where his help is insufficient. Components built in spring degrade by autumn, so that the artificers constantly have to return to the oracle for new consultations. Artificers come and go over the years, and each new person inherits a half-finished machine of such complexity that it takes years before they can understand everything they need to know in order to carry out the instructions. The project stagnates in perpetual memorylessness.\n\nAfter decades of this delay, the oracle passes away from old age. His passing destroys the merchant\u2019s vision for the city of the future. Resolved to find a successor, the merchant travels across the kingdom to appeal to all of the oracle\u2019s students, and offers them a lifetime of riches if they can finish their teacher\u2019s work. A few of them show promise in how much of the oracle\u2019s teachings they have grasped, but they readily admit that it will be decades before they are capable of continuing the project. The merchant does not have decades to offer them; he himself passes away within a few years of the oracle.\n\nWith no one to lead the work or provide the instructions, the city of the future is abandoned. The half-constructed machines and structures become objects of curiosity for scholars, who use them to learn more about the physical world. These learnings do advance society, but their contribution is meager compared to what the merchant had imagined.\n\nTo me, this ending reflects the story that flows most naturally from this premise. But when I challenged myself to conceive of success for the merchant\u2019s project, I imagined an interesting scenario.\n\nIn this second ending, the oracle successfully sees the project through. The artificers\u2019 hands and the merchant\u2019s management move in accordance with his blueprints, and they do build a city that is more advanced than any cities of the past, and (though they do not know it yet) will be more advanced than any cities of the future, for another thousand years.\n\nBut nobody who lives in the city of the future understands it. They live as children, cradled by intelligent design. Their rooms are warmed and cooled by invisible force, their food is created and prepared by anonymous mechanisms, and their lights glow without fire. Visitors from around the world come to see this impossible city, only to be baffled that nobody in this city can tell them how it works.\n\nWhen the oracle eventually passes away, there is nobody who understands the city they live in. The oracle leaves behind detailed manuals on the complex maintenance required to keep the city functioning smoothly. An entire guild of artificers is trained using these manuals. They debate over its ambiguous terminology, over segments that appear to contradict each other, over situations that are not covered explicitly in the manuals. Over time, the manuals become scripture, the artificers become priests, the guild becomes a church, and the oracle becomes the city\u2019s founding deity.\n\nEach new generation inherits unreplicable prosperity, and the city carries on in perfect constancy for many lifetimes.\n\n*Cross-posted from my* [*substack*](https://blog.karthiktadepalli.com/p/the-oracles-gift)."
+        }
+      }
+    }
+  }
+}

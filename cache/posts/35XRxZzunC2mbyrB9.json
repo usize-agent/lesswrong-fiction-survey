@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "35XRxZzunC2mbyrB9",
+        "title": "Three Stories about not Thinking too Hard",
+        "slug": "three-stories-about-not-thinking-too-hard",
+        "pageUrl": "https://www.lesswrong.com/posts/35XRxZzunC2mbyrB9/three-stories-about-not-thinking-too-hard",
+        "postedAt": "2021-02-05T19:51:47.260Z",
+        "baseScore": 35,
+        "wordCount": 933,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "ejacob",
+          "slug": "ejacob"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1
+        },
+        "contents": {
+          "markdown": "I.\n\n5 pirates split a treasure of 100 gold coins. The crew splits their booty according to sacred pirate tradition: The oldest pirate proposes how to share the coins, and ALL pirates (including the oldest) vote for or against it. If at least half vote for it, then the coins will be shared according to the proposal. Otherwise, the eldest pirate is thrown overboard and the process is repeated with the pirates that remain.\n\nAs pirates tend to be a bloodthirsty bunch, if a pirate would get the same number of coins if he voted for or against a proposal, he will vote \u201cno\u201d so that the pirate who proposed the plan will be thrown overboard.\n\nLarry the Logical Pirate is the 3rd oldest pirate. He opens the treasure chest, gives 98 coins to Eric the Eldest Pirate, one coin to himself, and 1 coin to Yuval the Youngest Pirate. Patrick the Practical Pirate and Barry the Bystander Pirate, 2nd and 4th oldest, respectively, receive no coins. He proudly announces that this is the equilibrium solution, which has the added benefit of keeping everyone alive.\n\nThe other four pirates briefly exchange glances and then throw Larry the Logical overboard. They agree to give each remaining pirate one share of the treasure; Eric the Elder Pirate, now appointed captain, receives one extra share for his leadership, and Patrick the Practical Pirate, now appointed quartermaster, receives an extra half-share for handling the logistics of booty-splitting.\n\nII.\n\nA large number of prisoners are held in a prison run by a sadistic Logician-Warden. One day the Logician-Warden tells the prisoners he will be forcing them to participate in a game. There is a room in the prison that contains two switches, one red and one blue, that can be set \u201cON\u201d or \u201cOFF\u201d. One by one, prisoners will be brought into the room and required to flip exactly one of the switches. Prisoners will be sampled with replacement, that is, each prisoner has a chance of being selected for each trip as long as the game continues (however, the probabilities are not necessarily the same for all prisoners, nor are they necessarily stable over time). The game ends when one of the prisoners tells the warden that every prisoner has visited the room at least once. If the prisoner is correct, everyone is freed. Otherwise, everyone is killed. The switches can start in any configuration. Once the game begins, the prisoners will not be allowed any communication. The Logician-Warden leaves the room and allows them to strategize.\n\nOne prisoner is a former evil genius and thinks for only a few minutes before she has solved the game. She quickly counts the number of prisoners in the room, N. \u201cWhen you go into the room, if the red switch is OFF, turn it ON. Otherwise, flip the blue switch. Once you\u2019ve turned the red switch ON once, if you ever go back to the room, just flip the blue switch. When I go into the room, I will turn the red switch OFF if it is ON, and increase my count by 1. When my count reaches N-1, I will know everyone has visited the room,\u201d she explains.\n\nOne of her henchmen is also a prisoner. His role as a henchman was to point out possible flaws in his mistress\u2019 evil plans. \u201cBut the switches can start in any position. What if the red switch happens to start ON?\u201d He asks. \u201cYou will count someone as visiting the room even though nobody has. You might say that everyone has visited even though one of us still hasn\u2019t.\u201d\n\nThe evil genius concedes her henchman had found a possible point of failure. \u201cOkay. Loyal henchman, you will flip the red switch to ON twice, instead of once, and I will count to N, instead of N-1. That should work.\u201d\n\nThe henchman isn\u2019t satisfied. \u201cWhat if the same situation occurs where you count the red switch in its initial ON position, and I happen to turn the red switch ON twice before another prisoner visits the room at all? Everybody needs to flip the red switch twice, and you have to count to at least 2N-1, not just N.\u201d The evil genius and her henchman agree they have solved the problem and look to the rest of the prisoners to make sure they understand the plan.\n\nInstead, they find that while they were solving the Logician-Warden\u2019s riddle, the other prisoners had taken apart the furniture in the room and fashioned crude weapons. When the Logician-Warden comes back into the room to start the game, they kill him and take his keys.\n\nIII.\n\nOn a street there are five houses of different colors. Each is inhabited by a person with a different nationality, who drinks a different beverage, owns a different pet, and smokes a different brand of cigar. A sign at either end of the street contains a list of hints like \u201cThe Englishman lives in the Red House,\u201d and \u201cThe Swede owns a Dog.\u201d\n\nTrainee monks from a nearby Logical Monastery visit the neighborhood and spend many days and nights solving the puzzle, walking up and down the block in deep meditation, before they are permitted to advance to the next level of their studies.\n\nInitiate monks from a slightly farther away Bayesian Monastery are also sent there to solve the riddle. They usually walk up and down the block only one or two times before they notice that boxes of fish food have been delivered on the doorstep of one of the houses. This package is addressed to \u201cHerr und Frau Schmidt\u201d and the Volkswagen in the driveway has a German flag bumper sticker."
+        }
+      }
+    }
+  }
+}

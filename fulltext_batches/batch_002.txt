@@ -1,0 +1,1507 @@
+===== STORY id=8KHR3tfa4SJjMSkXd =====
+Title: The Witching Hour
+Author: Scott Alexander
+Year: 2013
+Karma: 26
+WordCount: 1896
+URL: https://www.lesswrong.com/posts/8KHR3tfa4SJjMSkXd/the-witching-hour
+-----
+On an ordinary evening, Tal Aivon was lively and pleasant. The collection of longhouses and yurts within its tall brick walls shone bright with kerosene – not just torches, real kerosene – and its communal meeting area was noisy with conversation and song. The children would be playing their games, and on the eves of holy days the Lorekeepers would chant their stories of the Lost World, accompanied by lyres and the town’s one decaying gyitar.
+
+Tonight, though, a pall lay on Tal Aivon. The six gates of its tall brick walls were barred and shut, and foreboding warriors dressed in odd combinations of Kevlar and steel armor stood just within them, brandishing their swords. Families locked themselves in their yurts and longhouses, huddled around little kerosene lanterns. In the temple, the priests knelt before the stone idols of St. Christ and St. Mahomet, chanting plaintive prayers for protection.
+
+“I still don’t understand,” Meical Dorn complained, from inside the longest longhouse “what this is all about. “None of the wildlings are anywhere nearby – I should know, I’ve came through two hundred miles of forest to get here – and the only three towns in this area are at peace with you. In Great Rabda, even an impending attack couldn’t make us cower inside like this. I have half a mind to think there’s something you’re not telling me, Fin. Something that might…threaten our deal.”
+
+Fin Lerisas, Chief Lorekeeper for Tal Aivon, sighed. “Nothing that would threaten our deal, Meical. Great Rabda has gold. We have sunblessings. Just stay here long enough for our bankers to figure out the price, and you’ll have timers and mathers and lighters of your very own.”
+
+Meical glanced longingly at the Chief Lorekeeper’s own sunblessing, a timer that stood on the shelf of his private room. 1:52 AM gleamed on its face, with an maddeningly smooth red glow unlike sunlight or moonlight or firelight. Yet Meical knew it was sunlight, or something like. He was the Lorekeeper of Great Rabda. The Lorekeepers of Tal Aivon were far wiser than he – how could they not be with the town’s close proximity to ruined Diteroi and its trove of artifacts from the Lost World – but even he knew how sunblessings worked. You took them outside and the blue tiles on their surface fed on sunlight. Then they worked various miracles. Timers would tell you the time far more precisely than any sundial – invaluable in keeping the schedule of sacred prayer decreed by St. Mahomet. Mathers would add and subtract quantities more quickly than the fastest savant. Lighters would shine at night without wood or kerosene.
+
+Meical had no doubt that the Lorekeepers of Tal Aivon – the wisest on the Great Peninsula – knew of still other sunblessings, ones that mighty but lore-deficient Great Rabda had never heard of. He himself would be happy with anything – even the meanest timer. Of all the millions of wonders built by the Lost World, only the sunblessings still worked, and they were in fiendishly short supply. While lore-rich Tal Aivon had a timer upon each of its six gates, Great Rabda, for all its bountiful gold and grain, had not a single sunblessing to call its own. As its Lorekeeper, it would aid his status immensely if this trade mission was successful and he could bring something back to demonstrate the power of the Lost World and, incidentally, his own importance as keeper of its Lore.
+
+But even his greed for power did not override his concern for his own safety. “I’m serious, Fin. I want to know what’s going on. I can’t deal with a city that won’t even tell me why it’s on high alert.”
+
+Fin Lerisas, Chief Lorekeeper of Tal Aivon and wisest in ancient matters on the whole Great Peninsula, gave another sigh. “If you were not a Lorekeeper yourself, I would not sure such secrets with a foreigner. But if it threatens the deal, very well. Only know that you will be no happier with this knowledge, and that you may not sleep quite as soundly on autumn nights from now on.”
+
+Meical gave a nod, indicating he wanted the old man to continue.
+
+“In Great Rabda you have no sunblessings, and so you must keep the time like wildlings, by watching the course of the sun. Here in Tal Aivon we have six timers, one on each of the city gates, and so everyone down to the meanest peasant knows the time, down to the second. To most, they check the time when they enter the city, and the time when they leave the city, and they never think any more of it. We Lorekeepers are more astute, but not infinitely so. And so it was only forty years ago, in the time when my uncle Derech was Chief Lorekeeper, that we noticed” (and here his voice changed to a whisper) “that there is something wrong with Time.”
+
+“The stars,” he continued “sometimes match the time as told by the timers, and sometimes they do not. At first we thought the flaw was in the heavens themselves, so perfect are the devices of the Lost World. But this so discomfited my uncle that for three months he sat in front of this very timer, handing it off to an acolyte only when he slept. And one night, his watch bore fruit.”
+
+“What happened?” asked Meical, breathlessly.
+
+“Time moved backwards,” said Fin.
+
+“Impossible,” said Meical.
+
+“It was on this very night,” said Fin. “Time, which three hundred sixty four days of the year moves only in one direction, suddenly jumped backwards. And you yourself will witness it.”
+
+He pointed to the timer on his shelf, which now read 1:59 AM. Its red glow suddenly looked unfriendly, even eerie. Even though Meical knew it had to be sunlight at its root, it held none of the wholesomeness of the sun.
+
+And then it changed. 1:59 turned to 1:00.
+
+Meical gasped, and his fingers instantly formed the cross of St. Jesus and then the crescent of St. Mahomet. “Madness!” he whispered.
+
+“Something,” said Fin, “is wrong with this night. It is not always this night – it can come as early as three days before, or as late as three days after. My uncle worked out the formula after several years. But every year, it happens. Time jumps backwards.”
+
+“But why?” asked Meical. “Why would the gods do such a thing? Why would they break the symmetry of the True Time and the heavens?”
+
+“That’s the worst part,” said Fin. “When I was younger, I looked over my uncle’s formula – the one for calculating the day when the time skip would happen – and found what he had missed. The day of the time skip is fixed to the seven day calendar of the Lost World. To the ancients, it would always occur on the same day of the week. Sunday. Their holy day.”
+
+Meical felt his blood run cold. “That’s…some coincidence.”
+
+“Perhaps,” said Fin. “But I don’t think it is a coincidence. The gods are just. They would not play with Time as children play with blocks, picking one up here, then putting it down far away. I think the ancients of the Lost World, the ones who could build the great glass towers, the ones who manufactured sunblessings, the ones who made Diteroi-That-Was – I think they took their magic and threw it against time, and broke it. I think they wanted to become lords of time itself.”
+
+“But they failed,” guessed Meical.
+
+“They created a single hour,” said Fin. “Of the nine thousand hours in a year, all but one were made by the gods, but one was made by Man. What stopped them from creating more, from creating an infinite number of hours, from becoming immortal by arresting the progression of Time? We will never know. But it is my belief that when they saw what men had done, the gods stopped them before they could do worse. Meical, I believe that is how the Lost World ended. A last ditch effort by the gods to save Time itself from the hubris of Man.”
+
+Meical was silent. For all their wisdom, none of the Lorekeepers claimed to know how the Lost World ended. Surely the gods had pulverized it for some offense, but what sin could have been so dire as to doom those magnificent glass towers, those great black roads as smooth as water? Meical looked at the clock, gleaming 1:03 AM, and knew. Knew in his heart that Fin was right.
+
+“There is a day in the very early springtime,” said Fin, “when an hour disappears. The gods are stingy. They would not grant the ancients their victory. What they did with that hour in springtime, I do not know. But their message is clear.”
+
+Meical shuddered again. Like all the inhabitants of Great Rabda, he had told the time with the sun and the stars. But it had always been an approximation, not the to-the-second True Time displayed on the six gates of Tal Aivon. And so in their ignorance they had missed no fewer than two violations of Time, and it had fallen to the people of Tal Aivon alone to guard these terrible secrets.
+
+“You ask why we extinguish our fires and pray this night. Nine thousand hours in the year were made by the gods, but one was made by Man. I cannot help but wonder what walks abroad, during the hour no god made. I cannot help but wonder what spirits awake on the anniversary of the old world’s death. When time itself stands stagnant, what sorts of things breed within it? I prefer not to think about such things. That is why for the past forty years, ever since my discovery, I have knelt with the priests in the temple, and joined in their prayers. With an honored guest such as yourself here, I thought to entertain you instead, to avoid worrying you. Now I see that thought was vain. Will you come to the temple and pray with me?”
+
+And so on the longest night of the year, Fin Lerisas, Chief Lorekeeper of Tal Aivon, and Meical Dorn, Lorekeeper of Great Rabda, knelt in the temple and prayed to St. Jesus and St. Mahomet that time continue, that 1:59 AM be followed by 2:00 AM just as it always had in the past, and that the people be forgiven the sins of the Lost World, which had dared to change Time itself. And lo, at the appointed hour the six clocks on the six gates of Tal Aivon showed 2 AM, and the people rejoiced, and the kerosene lights were lit and the city of Tal Aivon was lively and pleasant once again.
+
+Three days later, Meical Dorn left Tal Aivon minus the gold he had brought but with a sunblessing of his own, a beautiful slate-gray mather that would have the engineers of Great Rabda dancing with glee. They had offered him a timer instead, a beautiful digital timer that even played short tunes at different hours, but Meical had refused. He bore a secret that need not trouble the people of Great Rabda. They would have a mather, and calculate things lightning-quick, and never know that there was a flaw in Time that even the gods themselves could not resolve.
+
+But until the day he died, every so often on chill autumn nights Meical Dorn would look up at the stars and shudder.
+===== END STORY 8KHR3tfa4SJjMSkXd =====
+
+===== STORY id=hMQPyLDbg3bA7P6aN =====
+Title: The Study of Anglophysics
+Author: Scott Alexander
+Year: 2014
+Karma: 41
+WordCount: 8311
+URL: https://www.lesswrong.com/posts/hMQPyLDbg3bA7P6aN/the-study-of-anglophysics
+-----
+I.
+
+Dear Dr. McCord:
+
+Seven years ago, our research staff read with interest your work on Berkeleyan idealism. We were particularly fascinated by your seemingly outrageous claim that it might be possible for individuals to imagine mental worlds so strongly that they would take on a reality of their own.
+
+At the time, as our laboratory had an interest in novel solutions to the overpopulation problem, we embarked upon a test project to see whether a parallel world could be imaged and then colonized by citizens from our own dimension. Using advanced science you could not possibly comprehend, we came up with a practical implementation of your idea. Dr. Michael Adwell, whom I believe you met during your time in Oxford, volunteered to enter the device we had constructed as our first research subject. We very briefly imaged an alternate world based on the contents of Dr. Adwell’s mind before the good doctor unfortunately had a grand mal seizure. He was disconnected from the device and rushed to the hospital, where he passed away several hours later.
+
+Two years ago we revisited some of our calculations on the project and determined, to our surprise, that the world Dr. Adwell had created might still exist in some sense; that it had somehow managed to sustain itself separate from the doctor’s mental activity. We worked feverishly to construct a device that might let us interact with his imaged world. Six months ago we succeeded. The computational demands of the machine were immense, but after throwing the remainder of our budget for the year at the Kyoto Supercomputing Laboratory, we were able to rent enough processing power to translate myself and Dr. Lachlan Fairchild into the imaged world, which we dubbed “Adwellia” after our late colleague. Our superiors informed us that when the next fiscal year rolled around in four months, there would be enough money in the budget to translate us back home.
+
+II.
+
+On first arrival, Adwellia seemed much like home. We landed on the shores of a small lake in what seemed to be a wooded area. Since it was getting dark, we soon set to pitching camp for the night. Our first unpleasant surprise was that the kerosene heater we had brought with us wouldn’t work, leaving us cold and disheartened. Lachlan collected some logs to build a fire, but our matches didn’t seem to work either. I remembered the seventh page of your paper, where you had posited that an imaged world would run on the same physics of our own world, since it would be bound by the expectations of the imager. Dr. Adwell had certainly understood enough chemistry to know that matches should start fires, but it seemed one of our most basic predictions had already failed.
+
+I will not say whether we were more motivated by curiosity or by the bitter cold, but we tried dozens of different branches – small, large, young and green, old and rotting – and everything from dousing them in kerosene to the old-fashioned method of rubbing sticks together to create friction.
+
+Finally, I succeeded in getting some branches from an old fir tree to alight. In relief, the two of us huddled close to the fire. But our curiosity was only heightened when we found the area near the fire to be unmistakeably colder than the surrounding air. Here our chill overcame our scientific spirit, and we decided to deal with the problem in the morning. We got into our too-thin thermal sleeping bags and passed a miserable and freezing night.
+
+When we awoke, the fire had gone out, and in its place stood a pile of hats – twenty of them, to be precise. I would have called them fedoras, although Lachlan said the particular style was more popularly known as a Homburg. We debated taking the hats, but we had been thoroughly spooked. Instead we picked up our camp and journeyed south, where it looked like the wood was beginning to thin out.
+
+Around midday we spotted smoke, and dared to hope we were coming upon a settlement. By evening our guess was confirmed, and we saw a village of conical adobe huts. We prepared to gesture our request to trade trinkets for lodging to the inhabitants – who were far too dark skinned to be European but who did not quite pattern-match to my memories of any particular human race. Imagine our surprise when we found they spoke English – though with abominable grammar. The headman introduced himself as Somon, and was all too happy to accept our trinkets in exchange for a nice warm hut to spend the night in.
+
+We endeavored to learn more about these people in the morning, but by this time were tired enough to call it a night. We could not help inspecting the heating mechanism in our room, which seemed to be a mud bowl in which sheaves of wheat, small rocks, and little mud figurines that looked like people had been placed. Totally absent any visible mechanism, the setup was emitting heat – and what was more, a ball set in a track along the edge of the bowl moved continuously around in what seemed to all the world to be perpetual motion, making an annoying crackling sound as it passed over little leaves set in the rim. We had only a little time to exchange theories before falling into a deep sleep.
+
+The next morning, the bowl was no longer warm, the ball had stopped moving, and the objects within had apparently transmogrified into a miniature wheelbarrow. This was strange magic.
+
+The villagers were already were already up and about, so we found Somon and tried to get some better conversation in.
+
+“We are scientists,” we told him “from far away, looking to gain a better understanding of how things work here.”
+
+“Here in Mogonaw?” asked Somon, using what we later found was the name of the village. “Not well.” He smiled, showing very pearly teeth.
+
+“We were hoping to set up a laboratory – a few metal huts and a big machine – maybe on the outskirts of town. We would pay you for food, maybe for help with certain things. We have many tools to trade, and lots of gold and metal.” Not exactly true – what we had was a portable nanofactory, translated in with us as an easier alternative to bringing supplies. But we could get tools or transmute elements pretty quickly.
+
+“Is of course,” said Somon, with the delight of someone who had stumbled entirely by accident into a beneficial arrangement. “What will you be needing?”
+
+“Well the first thing,” interrupted Lachlan, “is we wanted to know how your heating device works. The one with the wheat and the rocks. It was new to us.”
+
+“You not have this in your village?” said Somon, with a frown. “Is not obvious?”
+
+“No,” I said. “Where we come from, it’s not obvious at all.”
+
+Somon brightened. “Your village,” he declared “not know true names!” He picked up a rock from the ground. “True name of this is…rock.”
+
+We both nodded, mystified.
+
+He grabbed a sheaf of wheat from a passing villager, who gave him a glare. “True name,” he said, “is…wheat.”
+
+He said it with the same mystical intonation with which one of our colleagues back at the laboratory would announce a particularly earth-shattering result.
+
+“Yes, okay,” said Lachlan, kind of miffed. “I actually think we do know true names of things. It’s the same in our language.”
+
+Now it was Somon’s turn to be mystified. “Then…where is confusion?”
+
+“The heating device,” said Lachlan, narrowing his eyes. “How does it work?”
+
+“Is obvious!” said Somon, like we were idiots. “Wheat and rock and art become work and heat and cart. The work push little ball around. Then ball make noise, continuing reaction.”
+
+“But…” I interjected, because it looked like Lachlan wanted to grab the headman and wring his neck “why do the wheat and rock and art become work and heat and cart.”
+
+“Is true names” said Somon, and shrugged.
+
+“Holy shit,” said Lachlan, at exactly the instant when I remained just as confused as I had been before. I stared at him.
+
+“Holy shit,” Lachlan repeated. “This world fucking runs on anagrams. English language anagrams.”
+
+Wittgenstein once said that the limits of our language are the limits of our world. Some say that mathematics is the language of God. Maybe that was why our world ran on math. Well, English had been the language of Dr. Adwell. It had been the lens through which he made sense of reality.
+
+Maybe our hypothesis that his imaged world would run on the same physics of our own had been premature.
+
+What if his world ran on English?
+
+“The fire!” said Lachlan, who as usual was a step ahead of me. “Fir branches and heat. Fir plus heat becomes fire plus hat. So it removed heat from the atmosphere, and created fire and a hat.”
+
+“Twenty hats,” I reminded him.
+
+Lachlan was already deep in thought. “It’s all stoichiometry,” he started saying, almost faster than I could follow. “In our world, water is H20. H-O-H. Here, a fir tree has to be literally made of F-I-R. Twenty six letter-elements, forming a near-infinite amount of word-molecules. Suppose we burned three kilograms of fir branches…don’t know the molar weight here, but suppose each letter weighs the same and there’s one mole per kilogram, just bear with me. That’s one mole each of F, I, and R. So it must have absorbed some sort of four mole equivalent amount of heat…whatever that means…and then spit out three moles of hats and four moles of fire. Three moles of hats in this system would be three kilograms of hats, that would mean each hat weighs 150 grams…it all checks out! Somon! Quick! Show us how you make something else!”
+
+Somon looked at him. The headman seemed as confused as I was, but for different reasons.
+
+“Make…what?” he asked.
+
+“I don’t know. Clothes, tools, anything.”
+
+“My daughter Genea live in here,” he said, gesturing to a hut on the outskirts of town with some smoke coming out of it. “She is weaver.”
+
+The “weaver” actually seemed to be performing some sort of complicated chemical reaction. She was holding beets over a cauldron that was bubbling up into a primitive fume hood, then throwing them into what seemed like a vat of tar. Water was running out a hole in one side, and on the other, a roll of cloth was getting steadily longer.
+
+This time I got it before Lachlan. “Chlorine,” I said. “Chlorine plus beets plus tar becomes cloth plus brine plus tears.”
+
+“That’s not right,” said Lachlan. “You’re missing an ‘e'”.
+
+“No I’m not,” I said. “It consumes twice as much tar as chlorine or beets, and produces twice as many tears as brine or cloth.”
+
+“I think,” said Lachlan, “that we had better get our laboratory set up sooner rather than later.”
+
+III.
+
+This we did, at record speed. Not wanting to frighten the villagers – or expose ourselves to prying eyes – we set ourselves a kilometer south of town, on a cape overlooking a great sea. On the headlands of the cape was a small hill from which you could see for miles, and there we completed the week-or-so’s work of getting the nanofactory up and running. Its first job was to extrude us two aluminum Quonset huts, which became our homes away from home.
+
+From our little encampment the ocean stretched on as far as we could see. I wondered if there were other continents on this world – figuring out its size really should have been one of our first priorities. But we were too fascinated by this world’s weird linguistic elements and reactions – anglophysics, we dubbed them – to properly investigate anything else.
+
+The first and most obvious question was why everything wasn’t reacting all the time. How come every time someone touched a rock, the skin + rock didn’t become corks + ink? Just the air alone should have destroyed a wide variety of objects.
+
+(“Oh, come on,” I told Lachlan. “The air doesn’t count”. Lachlan had then gone on to prove me wrong by getting the iron tools we had brought to rust, then proving the rust happened faster in moist air, and air that was full of dust particles. “AIR plus IRON plus DUST,” he told me “equals RUST plus IONS plus ARID. Things aren’t rusting in this world because of oxidation. As long as it can suck dust and moisture from the air, it’s rusting by Crazy Anagram Logic.” So the air definitely counted.)
+
+The first thing we discovered was that nature abhorred non-words. AIR and DUST wouldn’t react on their own to become RUST and IA, because IA wasn’t a thing.
+
+“What about AI?” asked Lachlan. “Why not rust plus an intelligent computer?”
+
+At the time, my answer was “Shut up! The world might hear you!” I would later learn this was not nearly as funny as I thought.
+
+But at the time, we made quick progress. Simple materials and short words seemed to be most stable, with complicated or abstract concepts rarely forming spontaneously – which, at least, answered our AI problem. And reactions usually wouldn’t happen at all without sound, which seemed to play the same role in this world that heat did in our own. Lachlan had suspected this almost from the beginning – that the crackling leaves underneath the ball had provided the sound-energy to continue fueling the reaction that kept us warm that first night. But it wasn’t until we heard the cacophony of a village festival that we knew we were on the right track.
+
+“WHAT ARE YOU DOING??!” I had yelled at Somon, over the din of drums and cymbals and screaming villagers.
+
+“MAKING BEER!!!” Somon answered.
+
+It had turned out that the villagers used pee and bran to produce beer and pans, but that the reaction went unpleasantly slowly unless they shouted it along. The shouting was, of course, egged on by the beer they had already produced, which sort of made it an autocatalytic reaction if you squinted. They offered us some of their beer, but even though I knew things worked differently here my standards were a little too high to drink beer literally made of pee and so we returned to the lab. On our trip back, Lachlan pointed out that all of the villagers’ iron tools had been carefully taken inside during the festival, so that the noise would not cause them to rust.
+
+Our next big discovery was a week later. I woke up at 7 AM with Lachlan pounding on the door of my aluminum hut.
+
+“OMAR!” he was shouting. “TAKE A LOOK AT THIS!”
+
+Sitting on his palm was a one inch tall man, naked and hairless, looking terrified. He looked like he would have run off if there was anywhere to run to.
+
+“What in the…?”
+
+“I found a volcanic vent, up in the hills to the west. There was a source of methane. I broke it down into HEAT and MEN. But there wasn’t enough MEN to form someone full sized. So I got this.”
+
+“Lachlan, you’ve got to help him!”
+
+Lachlan gave a grunt, as if annoyed to be reminded of the ethical implications of his work. “How?”
+
+“Can you speak language?” I asked the little man on Lachlan’s palm.
+
+In response, the man screamed. I took that as a no.
+
+So I dragged Lachlan down to the village, where I woke up an annoyed Somon. “Somon,” I said. “We found a way to break methane into…”
+
+Somon’s eyes went wide. Then he got angry. “No methane!” he said. “Is taboo! Will…”
+
+He saw the homunculus in Lachlan’s palm. With a deft motion belying his age, he yanked the little creature away from Lachlan and snapped its neck. I gasped. Lachlan looked annoyed.
+
+“Is TABOO!” shouted Somon, with an anger I hadn’t seen in him before. “These things! Not men! No speech! No mind! Must not make! Little man is taboo! Methane is taboo! If you make little man, no longer stay with us!”
+
+I calmed him down, promised we wouldn’t be doing any more experiments with methane, said we were new here, didn’t know what we were doing. I asked him for more advice, asked him about any other taboos. He seemed irritated, assumed we should know what they were, seemed to think less of us with each question indicating our ignorance. Finally we gave up and made the long trek back to our laboratory.
+
+Our next few weeks of experiments were less bloody, but still exciting. Suppose we took a mop and the guts of an animal, and shouted at them until MOP + GUT reacted to POT + become GUM. Would the pot be the cooking implement, or would it be marijuana? For that matter, why shouldn’t it be a top, the child’s toy? Why shouldn’t the gum form a mug, fit to drink coffee from?
+
+In our first experiment, we surrounded our apparatus with pans and food, and were unsurprised to find we ended up with cooking implements. We repeated the experiment, but this time surrounding the apparatus with bongs, tobacco, and other drug paraphernalia – this time we got marijuana. We wanted to get a playful child to see if we could produce tops, but news of our work with methane had gotten out and spooked the villagers, and they were understandably unwilling to let us borrow one of their children.
+
+The third experiment was in my opinion the key to this entire process. This time we surrounded the apparatus with pans and food, but both Lachlan and I concentrated very very hard on marijuana, and talked about marijuana with each other while the loudspeaker the nanofactory had extruded blasted sound at the reactants, and sure enough, we got marijuana.
+
+Somehow our expectations were guiding the physics in a way that the letters themselves couldn’t. I started to wonder what had become of poor Dr. Adwell. Was the god of this world a deist, who had created it shortly before dying in a hospital ICU in a very different planet? Or was he in some sense still here, still actively guiding things?
+
+The reaction that rusted iron started to seem more and more suspicious. What about that ARID? In our experiments, making adjectives had been almost impossible, requiring more sound catalysis than any noun we had encountered so far. But ARID seemed to form of its own accord. What if Adwell somehow remembered that iron was supposed to rust, and privileged that reaction as the sort of thing that ought to go on? What if the reason everything didn’t implode upon itself was Adwell ensuring that everything in his imaged world happened according to some plan?
+
+Then our proof that we could alter our results through concentration and careful priming would take on a whole new meaning.
+
+Did reminding God what chemical reaction we wanted change experimental results?
+
+IV.
+
+“We’re going about this half-assedly,” Lachlan told me one morning our sixth week in Adwellia. “All of this looking for clever anagrams is taking up too much of our time, delaying us in supremely great work. We need to do this analytically. Get a bottle of As, a bottle of Bs, so we can create whatever the hell we want.”
+
+This proved easier said than done. We got the nanofactory to extrude us a very complex apparatus, a centrifuge, and what we took to calling the “sonic ray” – a machine that made deafening noise along a very narrow arc and which could catalyze reactions much faster than shouting or drumming. It turned out to be the key to making far more complex products than we had previously attempted. But our first use was a plain and simple failure.
+
+We had decided to start with granite, which we would break down into tin, rags, and the letter E. We would then centrifuge the decay products, with the three-letter tin and rags going one way and the pure E going another.
+
+Nature, remember, abhors non-words. No sooner had we forced some E into a test tube than the tube itself transformed in a great explosion to gelatin and a tiny, near-microscopic donkey. E + GLASS = GEL and ASS. We couldn’t say we couldn’t have seen it coming. It could have been worse – I was just glad that Dr. Adwell’s ascended mind’s first association with the latter word was “donkey”.
+
+We tried the experiment again with a zinc vial – zinc because it was implausible that there was an ZINC + E anagram lurking out there – and ended up with a mat of eels. Through this whole time, we had been debating the problem of ambiguity – who was to say that our granite was GRANITE rather than ROCK or even STONE – and the answer seemed to be that Dr. Adwell – or whoever was watching Upstairs – was mostly sympathetic to our efforts. Well, the sympathy ended when we started trying to isolate single letters. ZINC became METAL and thence EEL MATs.
+
+Our effort with mud was even worse. We put a lot of time into making sure the mud we got was very clasically mud – not ooze, not muck, certainly not dirt. And there was no good way MUD + E was becoming anything. We turned on the device.
+
+The Es disappeared. Seriously. Granite went into the centrifuge, tin came out, but there was no sign of an E anywhere, and rather fewer rags than usual.
+
+“This is really weird,” I said.
+
+“Thanks, Einstein!” said Lachlan. “I never would have figured that out without YOUR FUCKING COMMENTARY.”
+
+I should have told him to calm down, but the experiment had upset me too. “Well it wasn’t MY BRIGHT IDEA to try to ISOLATE ALL THE LETTERS,” I said. “WHICH REMINDS ME! IF YOU THINK I’M GOING THROUGH THIS TWENTY FIVE MORE TIMES, YOU CAN GO FUCK YOURSELF!”
+
+Lachlan swung at me, missing by an inch. I kicked him, right in the knee, and he fell into the experimental apparatus, knocking the whole thing over. Both of us went down with it. For a second, the sonic death ray shot straight at us – EEEEEIEEEEEIEEEEIEEEIE! and then its safety kicked in and it turned off. We sat there, stunned, bruised, in pain.
+
+“Rage,” said Lachlan. “GRANITE becomes TIN plus RAGE. Holy fuck, we created an emotion.”
+
+It had happened before, sort of. The wheat and rock and art, they had come together to produce work, which was an abstract concept. But it was still in the domain of physics. “Work” seemed like the sort of thing that could come out of chemical reactions, kind of like heat. But rage? This was something really new.
+
+That night, we made the short trek into the village and asked Somon what he thought.
+
+“Rarely,” he said. “Sometimes, when festival is very loud, strange things happen. Should avoid. Very bad. This is taboo.”
+
+The next week, I knew something was up. Lachlan was missing our daily debriefings, not getting any work done. Finally I broke the most important unwritten rule of our little community. I went into his aluminum hut without knocking.
+
+There he was, sitting with a blissed out look on his face. Beside his bed sat a miniature version of our experimental apparatus, complete with its own sonic death ray – he must have privately ordered it from the nanofactory, then deleted the records. It was reacting little tchotchkes from the village – dolls, balls, play swords – with our glass specimen jars. Tar was streaming into the waste bin.
+
+I turned off the sonic ray. Lachlan awoke with a start. He seemed about as angry as he’d been the time we accidentally produced rage from granite, but this time I knew he had a less noble reason.
+
+“What the fuck are you doing, barging in here like this?”
+
+“You’ve gotten yourself addicted,” I said. “Addicted to joy.”
+
+Lachlan didn’t deny it, as his TOY + JAR - JOY + TAR reactor was right there.
+
+“Look,” he said. “It’s been two months now, stuck in this stupid world. It’s going to be another two before the lab brings us back home. The villagers are crazy, physics runs on English, and the nanofactory can’t produce any entertainment that’s remotely entertaining. The letter isolation project is a failure, you no offense are one of the most boring people I’ve ever met, and when I try to get some of the village women to look at me they murmur something about taboos and give me the cold shoulder. Give me a break here, Omar!”
+
+“Lach,” I said. “You’re neglecting your work. We still haven’t gotten anywhere near the bottom of anglophysics, let alone figured out the most basic stuff about this world like how big it is. You sitting here blissing out on raw linguistic joy isn’t something we can afford right now.”
+
+“Fuck you,” said Lachlan, but he didn’t protest as I picked up his mini-apparatus and brought it to the nanofactory’s disassembler chute, nor as I reprogrammed the nanofactory to make sure all its records would be public from now on.
+
+V.
+
+A week after that incident I finally got the nanofactory, with great creaking and protesting, to extrude a small aircraft so I could explore the surrounding area. The villagers were delighted, having never seen anything similar, and several of them demanded rides – increasing our popularity a little after the methane debacle. When we were done appeasing the natives, I took off and started mapping Adwellia.
+
+We seemed to be at the southernmost extent of an island about three hundred miles east to west and twice that north to south. The island was mostly forested except for the broken volcanic area nearby where we had gotten the methane and some hills further north. Four hundred miles east of us there seemed to be another continent or large island, but that was about the limit of my range and so I told myself I would explore the new land another day.
+
+The distances allowed me to do some geometry and calculate the size of the world. Adwellia appeared to be a spherical planet about the size of the Earth. As far as I could tell it had one sun and one moon, and there were normal stars in the sky. It seemed to get colder further north and warmer further south, though I wasn’t able to fly far enough to confirm it had proper poles and an equator.
+
+By the time I finished these explorations, about a week after they began, Lachlan had developed a new obsession.
+
+“I can’t solve the letter isolation problem,” he admitted. “But someone else can. Someone like Einstein.”
+
+“Great,” I said, sarcastically. “All we need is…”
+
+Then it hit me. Surely he wasn’t that crazy.
+
+“Yes,” he said. “Why not synthesize Einstein? Or some other brilliant scientist who’s more creative than we are. I’ve been going through the dictionary looking for proper combinations. It’s not that hard.
+
+This proved optimistic, but the equation upon which we eventually settled was STONE + TIN + FORT = EINSTEIN + FIRE. The only difficulty was obtaining the fort, since the villagers here did not seem to be of a militaristic bent, but I had found some ruins further north during my explorations, and one of them did indeed seem to be an old stone fort, perhaps constructed by the villagers’ ancestors. I proposed we get a party of villagers to help quarry fort material, but Lachlan objected that they would probably just have some stupid taboo about it, so instead I landed there with the aircraft and laboriously ferried fort parts home in twenty pound increments, on my lap.
+
+Once we had enough fort to stoichiometrically produce Einstein, getting the stone and tin was easy. But getting the reaction to work proved impossible. No matter how many physics books we stuck around our apparatus, no matter how hard we concentrated on the great scientist, the reaction spat out absurd things like ferns, nits, and a tooting sound – or forests, nits, and one ton weights, or a nose with a tit in the front, which trust me was really awkward and which we threw into the nanofactory disassembler chute as soon as we could, believe you me.
+
+After about thirty tries, Lachlan announced that the problem was obvious. You see, we needed a capital E.
+
+I grudgingly admit that, even after two months in a world where stone was composed of S, T, O, N, and E, the though that there were different atomic units representing lowercase and capital Es seemed absurd. But as always, my sense of impossibility surrendered to crazy reality and I figured that Lachlan was probably right. We needed a capital E.
+
+Two days later, Lachlan showed up at the laboratory with a very suggestive looking sack.
+
+“Lachlan, what were you just out doing?” I said, hoping the answer was anything other than what I knew it was going to be.
+
+“Just grave robbin'” he answered. “I got us the corpse of a lady named Eder, who died of pneumonia yesterday. Don’t worry, no one saw me take it.”
+
+“Oh, come on,” I said. “When they find the grave disturbed, who are they going to suspect? The other villagers, who they have known their whole lives? Or the mysterious strangers on the storm-wracked cape outside of town who have already violated their sacred taboos. Lachlan, you are a fucking idiot.”
+
+“Maybe I am,” said Lachlan. “But if I’m so stupid, good thing we’ll have Albert fuckin’ Einstein around to help provide some brains for this operation.”
+
+The new equation was EDER + TIN + SNAIL = EINSTEIN + LARD.
+
+So God help us, we hired some villagers to collect snails for us, and when we had hundreds, we poured poor Eder’s bones into the reaction chamber along with the snails and some tin and started the sound.
+
+And Einstein started to grow. At first he was tiny, smaller than the methane-men in Lachlan’s palm had been, no bigger than the snails that surrounded him. But as bones and metal and snails slammed into him, he grew bigger, all the while screaming and covering his ears as the sonic ray did its gruesome work. We saw him, child-sized, beating up against the glass wall of the reaction chamber, ever growing, ever screaming.
+
+“You’re mad,” I told Lachlan. “We’ve got to stop this.”
+
+“Maybe I am,” said Lachlan. “But think! Einstein! The greatest scientist in recorded history! Think what we could do! Revolutionize not only our study of Adwellia. But we could bring him back with us, get the lab to translate him as well as us. We could turn Adwellia into a genius factory that would revolutionize civilization back on Earth. Omar, this has to be done! The potential in anglophysics makes a Nobel Prize look like a tee-ball trophy.”
+
+When Einstein was fully formed, and released from the reaction chamber, he attacked us. We subdued him, using weapons extruded from the nanofactory, and kept him in a cell. For three days we tried to talk to him, and he responded by screaming wordlessly at us and spitting in our faces.
+
+I don’t know whether there was something theological going on – whether Einstein was just a homunculus lacking a true soul. Or whether it was just very simply that our Einstein was psychologically an infant, that no one had taught him so much as language let alone physics, and that Adwell or whoever was up there wasn’t going to assume we meant “the smart Einstein, who knows lots of stuff” in the way we wanted.
+
+Our Einstein was a giant infant, not even an infant, a fetus that should never have been born. On the third day, by mutual consent, we stuck him in the nanofactory disassembly chute and resolved never to speak of him again.
+
+VI.
+
+That was the last time I worked together with Lachlan on anything of note. After that we retreated to our separate aluminum huts, acknowledging each other only when our paths crossed on the way to the nanofactory for some crucial part.
+
+I found him creepy. He was creeply. And he thought I was holding back our research. Maybe that was true too. In either case, it was a terse nod, a couple of words, and the tacit acknowledgment that it wasn’t worth resolving our hostility in the month or so we had left before we were transferred back.
+
+I spent that last month trying to build on my theory that Adwell’s mind was somehow working behind the scenes running everything. The catalytic property of the sound, I theorized, was its ability to get Adwell’s attention. It was a sort of “HEY, GOD, LOOK OVER HERE, WE’RE DOING SCIENCE, BETTER APPLY THE LAWS OF PHYSICS RIGHT AWAY”. I know it sounded bizarre, but my early experiments bore me out. Rapidly flashing bright lights seemed to speed reactions almost as well as sound. So did – because sometimes the simplest solution is the best – shouting “ADWELL! LOOK OVER HERE!”
+
+With these advances, once again entirely new classes of reaction became possible. No longer were we limited to the highly reactive simple materials with short names. Long strings of words, complex abstractions, even adjectives came within our reach. It was exciting.
+
+But once again, it was Lachlan who was really pushing the frontiers. One night he started banging on my door: “OMAR!” he shouted. “I DID IT!” When I went out he practically dragged me into his hut, which was nearly piled, floor to ceiling, with papers that turned out, on inspection, to be various IQ tests the nanofactory must have been carrying in its databanks.
+
+“What did you do?” I asked.
+
+“I couldn’t create Einstein,” he said, referring to the still-fresh debacle – “so I decided to turn myself into Einstein! Look! I’m producing SMART. And it’s working!”
+
+His sonic ray – now only a fraction of the power of my own multimodality parasonic device – was reacting smoke and carts into coke and, apparently, smart. A complicated system of tubes and centrifuges was catching the smart and binding it into a containment chamber linked to a helmet. Clearly someone was supposed to put it on.
+
+“And you’re saying it works?” I asked.
+
+“The IQ tests don’t lie,” said Lachlan. “I was 152 two weeks ago. Now I’m consistently getting in the 160s.”
+
+Judging by the number of tests, he must have been obsessively checking his numbers every hour or so.
+
+“Now,” he said, “I’m going to try that letter isolation thing again.”
+
+I judged by the shouts of rage and frustration I heard over the next few days that it wasn’t working.
+
+Two days later, Lachlan asked me if he could borrow my advanced parasonic ray. I refused. That evening, it went missing for about three hours before turning up on top of my desk. I noticed Lachlan now had one exactly like it.
+
+I soldiered on. In between my experiments, I played a little game predicting what Lachlan was trying to synthesize by the objects he took from the nanofactory and the supplies he ordered brought in from the village. One day it was buckets of dew, carts full of animal legs, and an entire cage of live minks – my best guess was he was trying to get KNOWLEDGE, but I couldn’t get the stoichiometry to line up. Judging from his screams of frustration that night, neither could he.
+
+The next week, it was load after load of potatoes, fence posts, and a tank of minnows. It took me half an hour to come up with OMNIPOTENCE, even though once I made myself start thinking like Lachlan it was obvious.
+
+I started to become worried.
+
+One day, three months and two weeks into our mission and only fourteen short days before we hoped the laboratory would re-establish contact, I went out for a sortie with the plane and came back to find a disaster area.
+
+Our huts had been smashed open. The nanofactory had big dents in its aluminum casing. Inside, all my lab equipment had been broken, my papers thrown on the floor haphazardly.
+
+I went into Lachlan’s hut. IQ tests everywhere. He was missing. So was his parasonic ray. I figured they had grabbed my partner in his sleep, before he’d had time to resist. In retrospect we really should have put up some defenses, but we hadn’t expected to need them.
+
+The nanofactory was still online. It was pretty hard to break – especially if, as I suspected, the vandals were villagers armed with clubs and rocks. I told it to extrude me some overwhelmingly powerful weaponry. After making me wait an hour, it gave me a ring that upon threat would instantaneously unfold into a device that generated an invincible barrier around the wearer, plus a hand-held matter disruptor. Thus armed, I walked into the village and found Somon.
+
+I didn’t have to bring up the subject of Lachlan. “Is evil man!” the headman told me, as soon as he saw me. “Broke taboos! Created life! Dug up grave! And today! Today was worst! Kidnapped my daughter, Genea! No more okay! Tonight gets beaten! Tomorrow dies!”
+
+Raising my invincibility shield, I wandered into the public square. There, whipped bloody and tied to a post, was Lachlan.
+
+“You kidnapped the headman’s daughter?” I asked him. I didn’t even give him the dignity of pretending to doubt whether it was true.
+
+Lachlan smiled. “Genea. A perfect name for my reaction. I could have been a Genius, with a capital G.”
+
+I don’t know if it was that smile, or the blood all over him, or the lack of remorse in his voice, but at that moment, I’d had it with Dr. Lachlan Fairchild. I lowered the matter disruptor.
+
+“You know,” I said. “That is it. I’m not even going to rescue you. You’re a menace.”
+
+“You don’t have a choice,” said Lachlan. “I have a nuke. These people don’t understand the concept, but lucky we’ve got a genius like yourself. Let me go or I blow this entire planet sky high.”
+
+“Even if you managed to extrude a nuke,” I said “which you didn’t, because I checked the nanofactory’s public records before I left – even then, nukes don’t work in this world. Nuclear fission isn’t an anagram of anything.”
+
+“A metaphorical nuke,” said Lachlan. “I mean, I’ve figured out this world’s equivalent of a nuke. It’s very clever. Without the SMART, I never would have been able to think of it. I’ll…”
+
+My best course was to immediately, like split-second immediately, raise the matter disruptor and shoot Lachlan. I could do it before he had a chance to react, and it would solve the whole damn problem.
+
+Instead I took the worst course, which was to raise the matter disruptor, obviously intending to shoot him, and vacillate at the last moment because I’d never killed anyone before and I wasn’t sure I had it in me and instead of finding out my brain wanted to sit and ponder this for thirty seconds.
+
+Lachlan took a ring off his finger and it unfolded it to reveal his parasonic ray. Then he furrowed his brow in concentration and it let out a screech.
+
+I shot the matter disruptor. Man, post, and town square changed into their component atoms…letters…whatever.
+
+The villagers ran, screaming. Some of them ran away from the explosion. Others ran towards the explosion, trying to see what had happened and maybe defend their homes and families. A few arrows and stones came towards me, causing my ring to near-instaneously unfold into a weird backpack-like device that placed itself on my back and surrounded me with a purple glow. The projectiles hit my new invincibility shield and fell to the ground limply.
+
+I calmly walked through the carnage. I was heading back a kilometer south, back to the cape. I was going to extrude a larger aircraft, bring the nanofactory a few hundred miles away, and wait out the last two weeks of exile far away from this mob.
+
+The ground started to shake. I realized the explosion had ended long ago, yet its deafening roar had not subsided.
+
+I looked back to the town square and my blood turned cold. In the center of the blast radius, where not even dust should have remained, there was Lachlan’s skull, set in the biggest rictus grin I had ever seen.
+
+I raised the matter disruptor and fired another shot. The skull disintegrated. But Cheshire Cat-like, somehow the grin remained, even larger than before, a smile without a substrate.
+
+This was bad.
+
+I started to run back to the lab. Cracks opened in the ground around me. The roar become worse. Was it just me, or was the sea getting closer?
+
+Metaphorical nukes. A nuke was at the most basic level a chain reaction. Neutron produces energy plus neutron. That neutron produces energy plus neutron. That neutron and so on. You end up with a lot of energy.
+
+I could see the remains of the looted lab now in front of me. It was on its elevated headland reaching into the sea, and I was afraid the rising water was going to cut it off and turn it into an island before I could get to it.
+
+Sound drove chemical reactions in this world. Anything that could create sound had the potential to be a chain reaction if the reactants were common enough. You could get most of the letters of “sound” from…oh, that wasn’t good.
+
+The cracks in the GROUND got bigger as the low-lying GROUND started to sink further beneath the waves.
+
+I stared back at the village. It was almost entirely underwater now. Above it was Lachlan’s disembodied grin, now the size of a skyscraper, hanging in the sky.
+
+Sound, ground. Grin. Sin. There. I had it. GROUND + SIN = SOUND + GRIN. The nuke. The ground was essentially limitless until the world was destroyed. The more ground was destroyed, the more people died, the more villages sunk under the waves. A sin. A reaction that created its own reactants. And sound. Created its own reactants and its own catalyst. Leaving nothing but Lachlan’s gigantic triumphant grin, hanging in the sky over the world he was destroying.
+
+I groaned as a crack in the ground took the aircraft on its field. It teetered for a second, then fell into the onrushing waves. I ran through ankle deep water and at last reached the top of the headland. There was just a small area of land left, on the highest ground of the cape, with our two little partially-smashed huts and the bulky dented aluminum nanofactory.
+
+“Extrude boat!” I commanded the nanofactory.
+
+“Extruding boat,” said the display. “Estimated creation time with material on hand, two hours.”
+
+“Cancel! Cancel cancel cancel!” I shouted, but the factory had gotten into its extrusion mode and wasn’t listening.
+
+I ran into my hut. Most of my stuff was still broken. There was nothing that looked like a good flotation device, unless you counted my mattress. My reaction apparatus, my parasonic ray, and a few doodads.
+
+I grabbed the ray gun and ran outside. Even on the high ground, there were wavelets lapping at my shoes. I had about a minute before I drowned.
+
+“Okay,” I said to myself. “Time to figure something out. Time to create a boat.” And there was only one good reactant on hand.
+
+OCEAN + …no, that wouldn’t work. SEA + …that was even worse. WATER + … I might be able to use water if I let the reaction consume my bones…WATER + BONE = BOAT + NEWER … no, even with the parasonic ray I’d never be able to catalyze a reaction that made a comparative adjective of all things. Maybe if I had an hour to think of some useful intermediates.
+
+Okay, back up. You don’t need a boat. You can use a ship. Ship is…
+
+My brain was in panic mode. It didn’t want to anagram SHIP. What it wanted was escape.
+
+The cape! The cape could provide escape! The cape and the sea! The two things I had! And my parasonic gun was just strong enough to let me synthesize abstractions. I just needed somewhere to put that extra A.
+
+WATER + A = AWARE + T. No, Nature abhors non-words, T won’t work. WATER + A = RAW TEA. No, adjectives took forever. WAR TEA? I wasn’t sure what would happen if I caused a war at this point, but I bet it wouldn’t be good.
+
+A wave rushed over me and I rose to the top sputtering and gasping. I still had the parasonic ray. The water had almost covered the huts now. Borne on the receding wave came Lachlan’s stupid piles of IQ tests, now soaked.
+
+CAPE + TEST = ESCAPE + 2T
+
+On the one hand, Nature abhorred non-words. On the other hand, I couldn’t swim and was about to drown. I concentrated REALLY hard on the reaction, turned the parasonic ray to its highest setting, and shot a beam of sound and strobe light and repetition of the name “Adwell!” at the pile of tests and the rocky cape below.
+
+Nothing happened.
+
+The LOW CHARGE light began to flash on my parasonic ray.
+
+It had been a stupid, desperate gambit. I’d already known I didn’t have enough energy to do a reaction that created non-words, didn’t know if that was even possible with any energy, and I had just drained my parasonic ray of almost all its charge I had made a terrible error.
+
+“Error!” I shouted. “That’s it! Adwell! Error!”
+
+CAPE + TEST + 2\ERROR = ESCAPE + 2\TERROR
+
+As I fell under the waves, with my last breath and last bit of charge I fired off the parasonic ray one last time.
+
+It’s not working I thought to myself. It’s not working and I’m going to die, lost under the sea, dead forever. I spent half a minute just thrashing about in terror before I realized that meant it was working.
+
+The water was receding! A bubble of air was spreading away from me in all directions as the water was consumed! I was saved! Still terrified, but saved!
+
+…then the water started closing in on me again. I didn’t know what what was happening. I’d done it, hadn’t I? Succeeded in creating a reaction that would get me out?
+
+Success! That was the problem! If I had succeeded in creating a reaction, then firing the parasonic ray hadn’t been an error. The reaction couldn’t take place. The water closed in on me again. I was going to die.
+
+The water started to recede. If the success of the reaction prevented me from having made an error, then the reaction wouldn’t work, and starting the reaction was an error, and so the reaction could take place. All this I saw clearly, as in a dream, from within my bubble of air.
+
+The air bubble under the rising seas (sinking ground?) reached a size of about twenty meters, large enough to cover the cape and the two huts and the nanofactory, and then stopped, occasionally shrinking a little or growing a little, always seething, starting to burn with a weird energy.
+
+From within the anglophysical terror clouding my mind, I recognized the problem as a novel version of the Epimenides paradox of self-reference, implemented on a physical substrate. If my initiation of the anglophysical reaction had been an ERROR, then I would ESCAPE, and it hadn’t been an ERROR after all. But if my initiation of the reaction had not been an ERROR, then I would not ESCAPE, and in fact it would have been an ERROR.
+
+I had a vague memory that I had once discussed Russell’s Paradox with Dr. Adwell. I wished I could have remembered what he said.
+
+The interface between air and water became turbulent, started to glow. I saw fantastic images projected upon it, weird fractal geometries, strange supersensory stimuli that somehow reminded me of Lovecraft’s references to the beckoning piping from the void behind space. All the while the TERROR grew, and the bubble began to vacillate wildly.
+
+Then there was a great pop, and I thought for a second my air bubble had popped, but more correctly everything had popped, and for a second the things that were nothing like piping sounds became unbearable. Then I found myself lying, still terrified, on the floor of the translation chamber of our laboratory, the very same place where I had entered Adwellia almost four months before.
+
+VII.
+
+When I had recovered my senses and debriefed my colleagues, I devised three theories for what had happened there, on the cape.
+
+First, that my reaction had been successful beyond my wildest dreams, the paradox had resolved in my favor, and I had ESCAPED not only to firm ground but to my own home dimension.
+
+Second, that the paradox had been so confusing and unbearable for poor Adwell that he had expelled me from his consciousness, like a man brushing a bug off his skin, and having been kicked from his world I naturally defaulted to my own.
+
+And third, that implementing a paradox on a physical substrate was really, really bad and I had destroyed Adwellia.
+
+This last possibility ought in theory to be testable, but I was informed upon my return that the budget was tight this year and that the necessary supercomputing resources to search for Adwellia will not be available for some time.
+
+I have been assigned to another project, and although my superiors have thanked me for my work in Adwellia, I am certain they do not believe a word of my report and have written the entire expedition – and perhaps their decision in hiring me – off as a loss. In their place I would not do otherwise.
+
+But from your writings I gather you are a man of unusual intellect, and some of your speculations come uncomfortably close to the truth. I do not know whether you have pursued your interest in Berkeleyan idealism further, but if you are so gracious as to believe my story or at least keep an open mind, I would be interested in further correspondence with you about the implications of anglophysics for future imaged worlds and how the consistency of such images might be assured against paradoxes of self-reference and other threats to their integrity.
+
+Yours sincerely, 
+Dr. Omar Reyes, University of 
+
+PS: I hope you will be understanding when I say that I wish to restrict my future work in the imaged world field to a purely theoretical level.
+
+\EDIT: I apologize to those who have read [Universal Fire for this story. As a peace offering, please accept this lovely lampshade.\]
+
+\EDIT 2: HPMORPodcast has recorded [an audio version.\]
+===== END STORY hMQPyLDbg3bA7P6aN =====
+
+===== STORY id=pfmZ5cYQCahABGZzi =====
+Title: Asches to Asches
+Author: Scott Alexander
+Year: 2014
+Karma: 80
+WordCount: 2623
+URL: https://www.lesswrong.com/posts/pfmZ5cYQCahABGZzi/asches-to-asches
+-----
+\[Content note: fictional story contains gaslighting-type elements. May induce Cartesian skepticism\]
+
+You wake up in one of those pod things like in The Matrix. There’s a woman standing in front of you, wearing a lab coat, holding a clipboard.
+
+“Hi,” she says. “This is the real world. You used to live here. We erased your memories and stuck you in a simulated world for a while, like in The Matrix. It was part of a great experiment.”
+
+“What?” you shout. “My whole life, a lie? How dare you deceive me as part of some grand ‘experiment’ I never consented to?”
+
+“Oh,” said the woman, “actually, you did consent, in exchange for extra credit in your undergraduate psychology course.” She hands you the clipboard. There is a consent form with your name on it, in your handwriting.
+
+You give her a sheepish look. “What was the experiment?”
+
+“You know families?” asks the woman.
+
+“Of course,” you say.
+
+“Yeah,” says the woman. “Not really a thing. Like, if you think about it, it doesn’t make any sense. Why would you care more for your genetic siblings and cousins and whoever than for your friends and people who are genuinely close to you? That’s like racism – but even worse, at least racists identify with a group of millions of people instead of a group of half a dozen. Why should parents have to raise children whom they might not even like, who might have been a total accident? Why should people, motivated by guilt, make herculean efforts to “keep in touch” with some nephew or cousin whom they clearly would be perfectly happy to ignore entirely?”
+
+“Uh,” you say, “not really in the mood for philosophy. Families have been around forever and they aren’t going anywhere, who cares?”
+
+“Actually,” says the woman, “in the real world, no one believes in family. There’s no such thing. Children are taken at birth from their parents and given to people who contract to raise them in exchange for a fixed percent of their future earnings.”
+
+“That’s monstrous!” you say. “When did this happen? Weren’t there protests?”
+
+“It’s always been this way,” says the woman. “There’s never been such a thing as the family. Listen. You were part of a study a lot like the Asch Conformity Experiment. Our goal was to see if people, raised in a society where everyone believed X and everything revolved around X, would even be capable of questioning X or noticing it was stupid. We tried to come up with the stupidest possible belief, something no one in the real world had ever believed or ever seemed likely to, to make sure that we were isolating the effect of conformity and not of there being a legitimate argument for something. So we chose this idea of ‘family’. There are racists in our world, we’re not perfect, but as far as I know none of them has ever made the claim that you should devote extra resources to the people genetically closest to you. That’s like a reductio ad absurdum of racism. So we got a grad student to simulate a world where this bizarre idea was the unquestioned status quo, and stuck twenty bright undergraduates in it to see if they would conform, or question the premise.”
+
+“Of course we won’t question the premise, the premise is…”
+
+“Sorry to cut you off, but I thought you should know that every single one of the other nineteen subjects, upon reaching the age where the brain they were instantiated in was capable of abstract reason, immediately determined that the family structure made no sense. One of them actually deduced that she was in a psychology experiment, because there was no other explanation for why everyone believed such a bizarre premise. The other eighteen just assumed that sometimes objectively unjustifiable ideas caught on, the same way that everyone in the antebellum American South thought slavery was perfectly natural and only a few abolitionists were able to see through it. Our conformity experiment failed. You were actually the only one to fall for it, hook line and sinker.”
+
+“How could I be the only one?”
+
+“We don’t know. Your test scores show you’re of just-above-average intelligence, so it’s not that you’re stupid. But we did give all participants a personality test that showed you have very high extraversion. The conclusion of our paper is going to be that very extraverted participants adopt group consensus without thinking and can be led to believe anything, even something as ridiculous as ‘family'”.
+
+“I guess…when you put it like that it is kind of silly. Like, my parents were never that nice to me, but I kept loving them anyway, liking them even more than other people who treated me a lot better – and god, I even gave my mother a “WORLD’S 1 MOM” mug for Mother’s Day. That doesn’t even make sense! I…but what about the evolutionary explanation? Doesn’t evolution say we have genetic imperatives to love and support our family, whether they are worthy of it or not?”
+
+“You can make a just-so story for anything using evolutionary psychology. Someone as smart as you should know better than to take them seriously.”
+
+“But then, what is evolution? How did animals reproduce before the proper economic incentives were designed? Where did…”
+
+“Tell you what. Let’s hook you up to the remnemonizer to give you your real memories back. That should answer a lot of your questions.”
+
+A machine hovering over you starts to glow purple. “This shouldn’t hurt you a bit…”
+
+discontinuity<
+
+You wake up in one of those pod things like in The Matrix. There’s a woman standing in front of you, wearing a lab coat, holding a clipboard.
+
+“Hi,” she said. “There’s no such thing as virtual reality. I hypnotized you to forget all your memories from the past day and to become very confused. Then I put you in an old prop from The Matrix I bought off of eBay and fed you that whole story.”
+
+“What?” you shout. “You can’t just go hypnotizing and lying to people without their consent!”
+
+“Oh,” said the woman, “actually, you did consent, in exchange for extra credit in your undergraduate psychology course.” She hands you the clipboard. There is a consent form with your name on it, in your handwriting. “That part was true.”
+
+You give her a sheepish look. “Why would you do such a thing?”
+
+“Well,” said the woman. “You know the Asch Conformity Experiment? I was really interested in whether you could get people to abandon some of their most fundamental beliefs, just by telling them other people believed differently. But I couldn’t think of a way to test it. I mean, part of a belief being fundamental is that you already know everyone else believes it. There’s no way I could convince subjects that the whole world was against something as obvious as ‘the family’ when they already know how things stand.
+
+“So I dreamt up the weird ‘virtual reality’ story. I figured I would convince subjects that the real world was a lie, and that in some ‘super-real’ world supposedly everybody knew that the family was stupid, that it wasn’t even an idea worth considering. I wanted to know how many people would give up something they’ve believed in for their entire life, just because they’re told that ‘nobody else thinks so'”.
+
+“Oh,” I said. “Interesting. So even our most cherished beliefs are more fragile than we think.”
+
+“Not really,” said the woman. “Of twenty subjects, you were the only person I got to feel any doubt, or to express any kind of anti-family sentiment.”
+
+“Frick,” you say. “I feel like an idiot now. What if my mother finds out? She’ll think it’s her fault or something. God, she’ll think I don’t love her. People are going to be talking about this one forever.”
+
+“Don’t worry,” says the woman. “We’ll keep you anonymized in the final data. Anyway, let’s get you your memories back so you can leave and be on your way.”
+
+“You can restore my memories?” you say.
+
+“Of course. We hypnotized you to forget the last day’s events until you heard a trigger word. And that trigger is…”
+
+discontinuity<
+
+You wake up in one of those pod things like in The Matrix. There’s a woman standing in front of you, wearing a lab coat, holding a clipboard.
+
+“Hi,” she says. “Hypnosis is a pseudoscience and doesn’t work. It was the virtual reality one, all along.”
+
+“Wut,” you say.
+
+“I mean, the first story was true. All of your memories of living with your family and so on are fake memories from a virtual world, like in The Matrix. The concept of ‘family’ really is totally ridiculous and no one in the real world believes it. All the stuff you heard first was true. The stuff about hypnosis and getting a prop from The Matrix off eBay was false.”
+
+“But…why?”
+
+“We wanted to see exactly how far we could push you. You’re our star subject, the only one whom we were able to induce this bizarre conformity effect in. We didn’t know whether it was because you were just very very suggestible, or whether because you had never seriously considered the idea that ‘family’ might be insane. So we decided to do a sort of…crossover design, if you will. We took you here and debriefed you on the experiment. Then after we had told you how the world really worked, given you all the mental tools you needed to dismiss the family once and for all, even gotten you to admit we were right – we wanted to see what would happen if we sent you back. Would you hold on to your revelation and boldly deny your old society’s weird prejudices? Or would you switch sides again and start acting like family made sense the second you were in a pro-family environment?”
+
+“And I did the second one.”
+
+“Yes,” says the woman. “As a psychologist, I’m supposed to remain neutral and non-judgmental. But you’ve got to admit, you’re pretty dumb.”
+
+“Is there an experimental ethics committee I could talk to here?”
+
+“Sorry. Experimental ethics is another one of those obviously ridiculous concepts we planted in your simulation to see if you would notice. Seriously, to believe that the progress of science should be held back by the prejudices of self-righteous fools? That’s almost as weird as thinking you have a…what was the word we used…’sister’.”
+
+“Okay, look, I realize I may have gone a little overboard helping my sister, but the experimental ethics thing seems important. Like, what’s going to happen to me now?”
+
+“Nothing’s going to happen. We’ll keep all your data perfectly anonymous, restore your memories, and you can be on your way.”
+
+“Um,” you say. “Given past history, I’m…actually not sure I want my memories restored.” You glare at the remnemonizer hovering above you. “Why don’t I just…”
+
+The woman’s eyes narrow. “I’m sorry,” she says. “I can’t let you do that.”
+
+The machine starts to glow.
+
+discontinuity<
+
+You wake up in one of those pod things like in The Matrix. There’s a woman standing in front of you, wearing a lab coat, holding a clipboard.
+
+By your count, this has happened three hundred forty six times before.
+
+There seem to be two different scenarios. In one, the woman tells you that families exist, and have always existed. She says she has used hypnosis to make you believe in the other scenario, the one with the other woman. She asks you your feelings about families and you tell her.
+
+Sometimes she lets you go. You go home to your mother and father, you spend some time with your sister. Sometimes you tell them what has happened. Other times you don’t. You cherish your time with them, while also second-guessing everything you do. Why are you cherishing your time with them? Your father, who goes out drinking every night, and who has cheated on your mother more times than you can count. Your mother, who was never there for you when you needed her most. And your sister, who has been good to you, but no better than millions of other women would be, in her position. Are they a real family? Or have they been put there as a symbol of something ridiculous, impossible, something that has never existed?
+
+It doesn’t much matter. Maybe you spend one night with them. Maybe ten. But within a month, you are always waking up in one of those pod things like in The Matrix.
+
+In the second scenario, the woman tells you there are no families, never have been. She says she has used virtual reality to make you believe in the other scenario, the one with the other woman. She asks you your feelings about families and you tell her.
+
+Sometimes she lets you go. You go to a building made of bioplastic, where you live with a carefully chosen set of friends and romantic partners. They assure you that this is how everyone lives. Occasionally, an old and very wealthy-looking man checks in with you by videophone. He reminds you that he has invested a lot of money in your upbringing, and if there’s any way he can help you, anything he can do to increase your future earnings potential, you should let him know. Sometimes you talk to him, and he tells you strange proverbs and unlikely business advice.
+
+It doesn’t matter. Maybe you spend one night in your bioplastic dwelling. Maybe ten. But within a month, you are always waking up in one of those pod things like in The Matrix.
+
+“Look,” you tell the woman. “I’m tired of this. I know you’re not bound by any kind of experimental ethics committee. But please, for the love of God, have some mercy.”
+
+“God?” asks the woman. “What does that word mean? I’ve never…oh right, we used that as our intervention in the prototype experiment. We decided ‘family’ made a better test idea, but Todd must have forgotten to reset the simulator.”
+
+“It’s been three hundred forty six cycles,” you tell her. “Surely you’re not learning anything new.”
+
+“I’ll be the judge of that,” she says. “Now, tell me what you think about families.”
+
+You refuse. She sighs. Above you, the remnemonizer begins to glow purple.
+
+discontinuity<
+
+You wake up in one of those pod things like in The Matrix. There’s a purple, tentacled creature standing in front of you, wearing a lab coat, holding a clipboard.
+
+“Hi,” it says. “Turns out there’s no such thing as humans.”
+
+You refuse to be surprised.
+
+“There’s only us, the 18-tkenna-dganna-07.”
+
+“Okay,” you say. “I want answers.”
+
+“Absolutely,” says the alien. “We would like to find optimal social arrangements.”
+
+“And?”
+
+“And I cannot tell you whether we have families or not, for reasons that are to become apparent, but the idea is at least sufficiently interesting to have entered the space of hypotheses worth investigating. But we don’t trust ourselves to investigate this. It’s the old Asch Conformity Problem again. If we have families, then perhaps the philosophers tasked with evaluating families will conform to our cultural norms and decide we should keep them. If we do not, perhaps the philosophers will conform and decide we should continue not to. So we determined a procedure that would create an entity capable of fairly evaluating the question of families, free from conformity bias.”
+
+“And that’s what you did to me.”
+
+“Yes. Only by exposing you to the true immensity of the decision, without allowing you to fall back on what everyone else thinks, could we be confident in your verdict. Only by allowing you to experience both how obviously right families are, when you ‘know’ they are correct, and how obviously wrong families are, when you ‘know’ they are incorrect, could we expect you to garner the wisdom to be found on both sides of the issue.”
+
+“I see,” you say, and you do.
+
+“Then, O purified one,” asks the alien, “tell us of your decision.”
+
+“Well,” you say. “If you have to know, I think there are about equally good points on both sides of the issue.”
+
+“Fuck,” says the 18-tkenna-dganna-07.
+===== END STORY pfmZ5cYQCahABGZzi =====
+
+===== STORY id=DT9mqFeWocnXiqt9L =====
+Title: A Story of Kings and Spies
+Author: Joshua_Blaine
+Year: 2014
+Karma: 38
+WordCount: 1858
+URL: https://www.lesswrong.com/posts/DT9mqFeWocnXiqt9L/a-story-of-kings-and-spies
+-----
+There exists an old Kingdom with a peculiar, but no altogether uncommon, trait. It is overwhelmingly defensible given adequate forewarning. Its fields are surrounded by rivers on 3 sides and an impassable mountain to the South. The series of bridges commonly used by merchants and farmers to pass over the river can be completely removed by an impressive feat of engineering, unrivaled by any other kingdom, involving elaborate systems of levers and pulleys and large crews of men. This retracting, given the co-operation of all able men, can be done in the time of a single day across the entire length of river. The water is also deep, chilled, and very fast moving all throughout, making crossing without the bridges all but impossible. Fortifications on the inner banks of the river exist for archers and catapults to lease barrages against any foe that dare approach their land. It is this challenge that the enemies of the kingdom try to find a way to overcome.
+
+It is acknowledged by both the King and his enemies that a surprise attack, one with so little warning that the bridges remain in place, would be successful against what is otherwise a poorly defensible region. Even a force of only moderate size could slaughter anyone within the rivers with ease. With this in mind, the King and his cabinet have a large espionage network that's infiltrated every major kingdom's decision making process. Their spies should, and have many times in the past, notified the King long before any attack, and allow for defenses to be raised, and victory to be assured. The King is very happy with his spies. They've never once failed to bring advance notice of any attack, and his network of informants have proven themselves resilient against counter-infiltration. He is, however, a very paranoid king, and wishes there was some way to be even more certain of his kingdom's safety. He is, as he sits upon his throne, ruminating on some such plans when a man of small stature is brought before him by some guards. The little man is wearing mostly simple clothes, but with some vibrant accents in the trimming.
+
+"Why have you brought this fellow before me?" Asked the King of his guards.
+
+"He claims to have word of an attack on the kingdom, sire." A guard said.
+
+"He seems believable enough, sire, that we thought it best to bring him before you instead of merely dismissing him. You have had more training in detecting the truth of matters." The second guard said.
+
+"Very well." He said, gesturing for the guards to relax. "Sir, may I have your name?" The King spoke directly to his small guest.
+
+"Orin Eldirh, my king." He barely manages to say as he stammers on, "I've been told by a f-friend... a very close friend in-indeed... a t-t-trustworthy sort of fellow, you know... the kind who'd n-never lie, you see... And he says, and he's the employee of a very well off member of the Northern Kingdom's leadership, s-so I trust this information is accurate... He says th-that his boss was part of a meeting to plan a surprise attack on our kingdom. And very soon, I might add. He said the meeting was a pre-planned sort of thing, was going to be on a random day, so our spies wouldn't have time to figure things out, and that they'd have an army ready in less than a day! A day, sire! They're surely marching here now, as I speak."
+
+The king quietly held the man's gaze for several moments before speaking. "And, holding what you've said is what you've heard, why would a noble betray his kingdom by speaking of such a secret meeting?"
+
+"Is that important, sire? We have such little time to prepare for the invasion." Orin says. "Surely what I've said is enough to warrant removing the bridges, whatever his motivations." He paused uncertainly as he looked upon his king. "Isn't it?"
+
+The King heaved a sigh before responding, "No. It really isn't." The King began to elaborate, "You see, removing those bridges cost more than you may realize. It takes every able man in the kingdom to work as fast as you claim we need to. That's an entire day's worth of labor used up. With the bridges up, that's maybe a weeks worth of trade and messages that wont be coming or going, seeing as the men wont work themselves so hard for two days in a row to put things back. What you personally lose may well be small, but it will make our kingdom and its stores suffer."
+
+"But what are those costs to the lives of those people, those women, those children, lost to an attack?" Orin admonished.
+
+"There is more at work here than you think, Orin." The King firmly answered, "You do not know how much thought I have put into the defense of my people." Orin's outrage slowly began diminishing as he took a sheepish stature. "Imagine, if you will, that I heed the word of every beggar and peasant who claimed some terrible force was underway. It's a much more common experience than you seem to think. Not a week goes by without someone offering their wisdom of an attack that my spies have somehow missed hearing of. The people of the kingdom would spend more time cowering in fear of an impending attack than doing anything else if I listened to every such piece of obvious paranoia or subterfuge. My people would tire of removing the bridges. Traders would tire of so frequent delays in their travels. It would spell our eventual doom, I'm sure of it." The King took a deep breathe and frowned, calmly continuing, "And yet, how could I ever forgive myself if I left us undefended from a legitimate attack? My spies are not perfect. Such a random meeting as you described may elude them, if we were unlucky and it was well implemented." The King pinched the bridge of his nose and closed his eyes before continuing, "I have to determine, to the best of my abilities, whether or not this threat is legitimate. So I'll ask you again, as I must know, why might this noble betray his kingdom?"
+
+Orin swallowed and said, "If what my friend says is to be believed, and I consider it so, then this noble is not motivated by loyalty for his kingdom. I was told that he was not born into his position, but bought it himself. He has quite a fortune from his ownership of many kinds of businesses and guilds. War hurts him more than it helps the businesses of his kingdom, I've been told he believes. He'd wish to avoid starting any kind of fight, I'd think, if this were true."
+
+"I know of a man of the Northern Kingdom who fits that description. It's possible, not likely, but possible, he's heard things our spies have not." The King said, "And that he might also decide to warn us if he heard such a thing. But there's still the matter of \your\ trustworthiness. How should I know that you are not a lying spy, sent form the North to deceive?"
+
+Orin's eyes grew wide with fear as he attempted to speak, "ple-please, s-s-sire, I w-would n-n-never be-betray my kingdom!"
+
+"So a spy would say." Orin opened his mouth to protest but the King interrupted "No, nothing you can say will persuade me you aren't just a well trained spy." The King smiled, "But I have been giving thought to how I may judge your information's usefulness. You are an artisan of some skill, right? You're better dressed than a peasant can afford."
+
+Orin spoke "A potter, sir." After a pause he then bashfully admits, "Of kinds both functional and beautiful, as I've been told by my more affluent clients."
+
+The King smiled wider, "Then you are well off, yes? How much would you consider your current wares and savings worth?"
+
+Nervous about the King's sudden eagerness, Orin hesitantly replies, "700 coins, but p-perhaps even 800 c-coins... If I sold my s-shop and everything w-within."
+
+"Very well. I propose a wager. 20 to 1 against this invasion being real." The king laughed as he saw Orin's shocked face. "What, surprised your King is a betting man? If you'd like to convince me you're not lying, then put your money where your mouth is, I say. If you'd also like to convince me you're right about this, you'll have to bet big. If you're willing to put up 1000 coins I'm willing to call for the removal of the bridges." Orin just stood there silently, jaw agape. The King continued speaking, "That's 200 coins of debt if you're wrong about this, a lifetime of payments for someone of your skills. If you're right, however, you will be rewarded handsomely. 20,000 coins is enough to keep you from working the rest of your life, if you'd like. I think that's fair compensation for saving the kingdom."
+
+The King just smiled as he waited for Orin to speak.
+
+Orin remained silent as he fervently thought about his options. He swallowed several times and wrung his hands together. After several minutes of silence he took a breath and spoke, "I'll take it." The King's smile grew as Orin spoke, "I'll take the bet. After considering his trustworthiness, it seems like my friend is right. I am willing to risk myself for his word. I am not willing to risk my kingdom."
+
+"Very well." The King said before looking towards the two men standing to Orin's side, "Guards, one of you notify the city that an attack is impending. We have 2 days at most before the Northern Kingdom is here." The left one nods at once and left the chamber. "Orin, I hope you understand why you should stay here for the night. We can't have you running off." Orin nodded stiffly in understanding. Looking at the remaining guard, the King said, "Orin here is your responsibility. Keep him occupied and within the castle until you have my word to release him. You may send out someone to notify his family of the circumstances surrounding his stay. They are welcome to come visit as soon as their duties for preparation are complete." After a short thought he said, "Orin is a guest here, not a prisoner, so treat him as such."
+
+Standing up from his throne, the King walked over to where Orin was standing, petrified by what was happening around him. The King, towering over the small man, said, "If you are right about this, I am incredibly grateful that you came to me." The King reached out and grabbed Orin's shoulder, looking into his eyes with his own, and smiled wide. He then released him and returned to his seat. "You may go, I'm soon to be swamped by my bureaucracy for the coming hours as we prepare for this fight." Orin and his escort made their way from the room. As the door closed behind them another one opened as several official looking men rushed in, chatting loudly. The King straightened his stature and forced a smile as he prepared himself for dealing with his government for the next several days.
+===== END STORY DT9mqFeWocnXiqt9L =====
+
+===== STORY id=jFzovY2CERF5bd2EW =====
+Title: A Story With Zombies
+Author: Scott Alexander
+Year: 2014
+Karma: 41
+WordCount: 1020
+URL: https://www.lesswrong.com/posts/jFzovY2CERF5bd2EW/a-story-with-zombies
+-----
+(inspired by Zombies: Seriously, Enough, Zombies Are So Overdone, and Scifi/Fantasy Stories Editors Are Tired Of Seeing: Zombies)
+
+He walked into my office and threw the manuscript on my desk with a thud.
+
+“It’s called Thankful For Zombies. A zombie story where…”
+
+“Nope,” I said.
+
+His face deflated like a balloon. “But I didn’t even…”
+
+“Zombies are overdone,” I said.
+
+“But this is a zombie story with a twist!”
+
+“Zombie stories with twists are super overdone.”
+
+“But this is a story about an extended family who get together for Thanksgiving dinner, only to be interrupted by a zombie apocalypse. It’s a Thanksgiving story about zombies. You have to admit that the combination of zombies and Thanksgiving has never…”
+
+“Done,” I said.
+
+“Wait, really? The family starts out estranged and suspicious of each other, but then when they all have to work together to…”
+
+“Done,” I said.
+
+“How could that have been done?”
+
+“Listen. I know you won’t believe me, but for the past ten years or so, the best literary minds of our generation have been working on creating zombie stories just different enough from every other zombie story around to get published. First the clever and interesting twists got explored. Then the mediocre and boring twists. Then the absurd and idiotic twists. Finally the genre got entirely mined out. There is now a New York Times bestselling book about zombies invading Jane Austen’s Pride and Prejudice. If your idea isn’t weirder than that, it’s been done. And that’s the logical ‘if’. If your idea is weirder than that, it has also been done.”
+
+“I will get Thankful for Zombies published,” he said.
+
+“You won’t,” I advised him.
+
+“I just have to think of an original angle.”
+
+“You really won’t,” I told him.
+
+“The zombies are the good guys,” he proposed.
+
+“Done.”
+
+“The zombies are smarter than humans.”
+
+“Done.”
+
+“In the end, we ourselves are the zombies.”
+
+“Done.”
+
+“A human girl falls in love with a zombie.”
+
+“Done.”
+
+“Okay, fine. Toss the Thanksgiving angle. There’s got to be some zombie plot that will be fresh and new.”
+
+“I promise you, there’s not.”
+
+“Zombies in space.”
+
+“Done .”
+
+“Zombies from space.”
+
+“Done.”
+
+“Zombies are space.”
+
+“Done.”
+
+“Zombies in Victorian England.”
+
+“Done ‘”
+
+“Zombies in Edwardian England.”
+
+“Done .”
+
+“Zombies in Shakespearean England.”
+
+“Done .”
+
+“Shakespeare was a zombie, and all of his plays are just the word BRAAAAAAIIINS repeated over and over again.”
+
+“Done, for some reason.”
+
+“A young zombie comes of age.”
+
+“Done.”
+
+“A middle-aged zombie wonders if her single-minded focus on career success has prevented her from becoming the kind of zombie she wanted to be when she was younger.”
+
+“Done.”
+
+“An elderly zombie contemplates death.”
+
+“Zombies are already dead.”
+
+“Then I can…”
+
+“…and yet it’s still been done.”
+
+“A zombie in the Vietnam War.”
+
+“Done.”
+
+“A hippie zombie at Woodstock.”
+
+“Done.”
+
+“Strong female zombies.”
+
+“Done.”
+
+“Jewish zombies.”
+
+“Done.”
+
+“Black zombies.”
+
+“Done.”
+
+“A gay zombie struggling to fit into a homophobic zombie society.”
+
+“Come on, this is the 21st century. Done like ten times. One of them won the Booker.”
+
+“Gender-questioning zombies.”
+
+“Done.”
+
+“An immigrant zombie comes to America, with nothing but the decaying shirt on his back, knowing only a single word of English.”
+
+“All zombies only know a single word of English. Also, done.”
+
+“Nazi zombies.”
+
+“Done.”
+
+“Vampire zombies.”
+
+“Done.”
+
+“Pirate zombies.”
+
+“Done.”
+
+“Obstetrician/gynaecologist zombies.”
+
+“Done.”
+
+“Zombie Hitler.”
+
+“Done.”
+
+“Zombie Henry VIII.”
+
+“Done “.
+
+“But what if it was told from the perspective of Anne Boleyn?”
+
+“Done.”
+
+“Zombie Leonardo da Vinci.”
+
+“Done.”
+
+“Zombie Jesus.”
+
+“Done. By three guys named Matt, Luke, and John.”
+
+“Zombie Buddha.”
+
+“Done.”
+
+“Zombie Mohammed.”
+
+“Done. As is the author, if you get my drift.”
+
+“Zombie Zoroaster.”
+
+“Done.”
+
+“A parody subverting zombie stories.”
+
+“Super done.”
+
+“A parody subverting zombie stories lampshading how overdone they are.”
+
+“Super duper done.”
+
+“Hmmmm.” He thinks for a second. “Hold on, I’m remembering something from my college math class that might work here. You take all the zombie novels ever written, and you put them in some well-ordering, for example from first to last published. Then you make a new novel, consisting of the first page of the first novel, the second page of the second novel, and so on. But you change each page just a little bit. Since we know the first page of the new novel is different from the first page of the first novel, and the second page of the new novel is different from the second page of the second novel, by extension we know that there is at least one page on which the new novel is different from each zombie novel currently in existence. That means that the new story is provably original.”
+
+“Done.”
+
+“I don’t think you understand; it’s mathematically impossible for…”
+
+“No, I mean there’s a story about a zombie doing that.”
+
+“Oh.” He furrowed his brow. “A zombie superhero.”
+
+“Done.”
+
+“Steampunk zombies.”
+
+“Done. I think now you’re just trolling me.”
+
+“Motorcycle gangs of zombies.”
+
+“Done.”
+
+“A zombie story that’s a metaphor for how…”
+
+“Done.”
+
+“I didn’t finish!”
+
+“You didn’t have to.”
+
+“A zombie gets cancer.”
+
+“Done.”
+
+“A zombie gets depression.”
+
+“Done.”
+
+“A zombie tries to write zombie fiction.”
+
+“Done.”
+
+“A zombie tries to write zombie fiction about a zombie trying to write zombie fiction.”
+
+“Done.”
+
+“A zombie tries to…”
+
+“It’s done all the way down.”
+
+“Young free-spirited zombies trying to see America.”
+
+“Done.”
+
+“A story that starts off as being about a fantasy society of knights and damsels, but at the very end it’s revealed everyone is a zombie.”
+
+“Done.”
+
+“A story that starts off as being about a young woman’s struggle to succeed in 1980s Wall Street, but at the very end it’s revealed everyone is a zombie.”
+
+“Done.”
+
+“A story that starts off as being a paleontology textbook about the fauna of the Lower Cretaceous, but at the very end it’s revealed everyone is a zombie.”
+
+“Twist zombie endings are done.”
+
+“A zombie…a zombie riding a giant purple emu through 17th century Ireland teams up with the pre-ghost of Thomas Jefferson to investigate a crime in which time-traveling flamboyantly gay sapient hippos have murdered the Secret Protestant Pope in order to initiate the Jain apocalypse, with liberal quotations from and allusions to the works of Edgar Allen Poe Thomas Pynchon and the medieval Rolandic cycle, and also the whole thing is a metaphor for Republican resistance to climate change legislation.”
+
+I thought for a moment. “Okay,” I said. “That particular plot has not, technically, been done. But no one would read it.”
+
+“They will,” he said.
+
+“You’d be wasting your time to write it.”
+
+“I’m writing it,” he said.
+
+“Suit yourself. Put it on my desk when you’re finished, and I’ll take a look at it. But your chances aren’t good.”
+
+“I don’t care,” he said, and left.
+
+I sighed, finished up my last couple of pieces of paperwork, and shambled home from the office. On the way out, I ate my secretary’s brain.
+===== END STORY jFzovY2CERF5bd2EW =====
+
+===== STORY id=vNHf7dx5QZA4SLSZb =====
+Title: Chapter 1: A Day of Very Low Probability
+Author: Eliezer Yudkowsky
+Year: 2015
+Karma: 290
+WordCount: 2729
+URL: https://www.lesswrong.com/posts/vNHf7dx5QZA4SLSZb/chapter-1-a-day-of-very-low-probability
+-----
+Disclaimer: J. K. Rowling owns Harry Potter, and no one owns the methods of rationality.
+
+This fic is widely considered to have really hit its stride starting at around Chapter 5. If you still don't like it after Chapter 10, give up.
+
+This is not a strict single-point-of-departure fic - there exists a primary point of departure, at some point in the past, but also other alterations. The best term I've heard for this fic is "parallel universe".
+
+The text contains many clues: obvious clues, not-so-obvious clues, truly obscure hints which I was shocked to see some readers successfully decode, and massive evidence left out in plain sight. This is a rationalist story; its mysteries are solvable, and meant to be solved.
+
+The pacing of the story is that of serial fiction, i.e., that of a TV show running for a predetermined number of seasons, whose episodes are individually plotted but with an overall arc building to a final conclusion.
+
+All science mentioned is real science. But please keep in mind that, beyond the realm of science, the views of the characters may not be those of the author. Not everything the protagonist does is a lesson in wisdom, and advice offered by darker characters may be untrustworthy or dangerously double-edged.
+
+ 
+
+Beneath the moonlight glints a tiny fragment of silver, a fraction of a line...
+
+(black robes, falling)
+
+...blood spills out in litres, and someone screams a word.
+
+ 
+
+Every inch of wall space is covered by a bookcase. Each bookcase has six shelves, going almost to the ceiling. Some bookshelves are stacked to the brim with hardback books: science, maths, history, and everything else. Other shelves have two layers of paperback science fiction, with the back layer of books propped up on old tissue boxes or lengths of wood, so that you can see the back layer of books above the books in front. And it still isn't enough. Books are overflowing onto the tables and the sofas and making little heaps under the windows.
+
+This is the living-room of the house occupied by the eminent Professor Michael Verres-Evans, and his wife, Mrs. Petunia Evans-Verres, and their adopted son, Harry James Potter-Evans-Verres.
+
+There is a letter lying on the living-room table, and an unstamped envelope of yellowish parchment, addressed to Mr. H. Potter in emerald-green ink.
+
+The Professor and his wife are speaking sharply at each other, but they are not shouting. The Professor considers shouting to be uncivilised.
+
+"You're joking," Michael said to Petunia. His tone indicated that he was very much afraid that she was serious.
+
+"My sister was a witch," Petunia repeated. She looked frightened, but stood her ground. "Her husband was a wizard."
+
+"This is absurd!" Michael said sharply. "They were at our wedding - they visited for Christmas -"
+
+"I told them you weren't to know," Petunia whispered. "But it's true. I've seen things -"
+
+The Professor rolled his eyes. "Dear, I understand that you're not familiar with the sceptical literature. You may not realise how easy it is for a trained magician to fake the seemingly impossible. Remember how I taught Harry to bend spoons? If it seemed like they could always guess what you were thinking, that's called cold reading -"
+
+"It wasn't bending spoons -"
+
+"What was it, then?"
+
+Petunia bit her lip. "I can't just tell you. You'll think I'm -" She swallowed. "Listen. Michael. I wasn't - always like this -" She gestured at herself, as though to indicate her lithe form. "Lily did this. Because I - because I begged her. For years, I begged her. Lily had always been prettier than me, and I'd... been mean to her, because of that, and then she got magic, can you imagine how I felt? And I begged her to use some of that magic on me so that I could be pretty too, even if I couldn't have her magic, at least I could be pretty."
+
+Tears were gathering in Petunia's eyes.
+
+"And Lily would tell me no, and make up the most ridiculous excuses, like the world would end if she were nice to her sister, or a centaur told her not to - the most ridiculous things, and I hated her for it. And when I had just graduated from university, I was going out with this boy, Vernon Dursley, he was fat and he was the only boy who would talk to me. And he said he wanted children, and that his first son would be named Dudley. And I thought to myself, what kind of parent names their child Dudley Dursley? It was like I saw my whole future life stretching out in front of me, and I couldn't stand it. And I wrote to my sister and told her that if she didn't help me I'd rather just -"
+
+Petunia stopped.
+
+"Anyway," Petunia said, her voice small, "she gave in. She told me it was dangerous, and I said I didn't care any more, and I drank this potion and I was sick for weeks, but when I got better my skin cleared up and I finally filled out and... I was beautiful, people were nice to me," her voice broke, "and after that I couldn't hate my sister any more, especially when I learned what her magic brought her in the end -"
+
+"Darling," Michael said gently, "you got sick, you gained some weight while resting in bed, and your skin cleared up on its own. Or being sick made you change your diet -"
+
+"She was a witch," Petunia repeated. "I saw it."
+
+"Petunia," Michael said. The annoyance was creeping into his voice. "You know that can't be true. Do I really have to explain why?"
+
+Petunia wrung her hands. She seemed to be on the verge of tears. "My love, I know I can't win arguments with you, but please, you have to trust me on this -"
+
+"Dad! Mum!"
+
+The two of them stopped and looked at Harry as though they'd forgotten there was a third person in the room.
+
+Harry took a deep breath. "Mum, your parents didn't have magic, did they?"
+
+"No," Petunia said, looking puzzled.
+
+"Then no one in your family knew about magic when Lily got her letter. How did they get convinced?"
+
+"Ah..." Petunia said. "They didn't just send a letter. They sent a professor from Hogwarts. He -" Petunia's eyes flicked to Michael. "He showed us some magic."
+
+"Then you don't have to fight over this," Harry said firmly. Hoping against hope that this time, just this once, they would listen to him. "If it's true, we can just get a Hogwarts professor here and see the magic for ourselves, and Dad will admit that it's true. And if not, then Mum will admit that it's false. That's what the experimental method is for, so that we don't have to resolve things just by arguing."
+
+The Professor turned and looked down at him, dismissive as usual. "Oh, come now, Harry. Really, magic? I thought you'd know better than to take this seriously, son, even if you're only ten. Magic is just about the most unscientific thing there is!"
+
+Harry's mouth twisted bitterly. He was treated well, probably better than most genetic fathers treated their own children. Harry had been sent to the best primary schools - and when that didn't work out, he was provided with tutors from the endless pool of starving students. Always Harry had been encouraged to study whatever caught his attention, bought all the books that caught his fancy, sponsored in whatever maths or science competitions he entered. He was given anything reasonable that he wanted, except, maybe, the slightest shred of respect. A Doctor teaching biochemistry at Oxford could hardly be expected to listen to the advice of a little boy. You would listen to Show Interest, of course; that's what a Good Parent would do, and so, if you conceived of yourself as a Good Parent, you would do it. But take a ten-year-old seriously? Hardly.
+
+Sometimes Harry wanted to scream at his father.
+
+"Mum," Harry said. "If you want to win this argument with Dad, look in chapter two of the first book of the Feynman Lectures on Physics. There's a quote there about how philosophers say a great deal about what science absolutely requires, and it is all wrong, because the only rule in science is that the final arbiter is observation - that you just have to look at the world and report what you see. Um... off the top of my head I can't think of where to find something about how it's an ideal of science to settle things by experiment instead of arguments -"
+
+His mother looked down at him and smiled. "Thank you, Harry. But -" her head rose back up to stare at her husband. "I don't want to win an argument with your father. I want my husband to, to listen to his wife who loves him, and trust her just this once -"
+
+Harry closed his eyes briefly. Hopeless. Both of his parents were just hopeless.
+
+Now his parents were getting into one of those arguments again, one where his mother tried to make his father feel guilty, and his father tried to make his mother feel stupid.
+
+"I'm going to go to my room," Harry announced. His voice trembled a little. "Please try not to fight too much about this, Mum, Dad, we'll know soon enough how it comes out, right?"
+
+"Of course, Harry," said his father, and his mother gave him a reassuring kiss, and then they went on fighting while Harry climbed the stairs to his bedroom.
+
+He shut the door behind him and tried to think.
+
+The funny thing was, he should have agreed with Dad. No one had ever seen any evidence of magic, and according to Mum, there was a whole magical world out there. How could anyone keep something like that a secret? More magic? That seemed like a rather suspicious sort of excuse.
+
+It should have been a clean case for Mum joking, lying or being insane, in ascending order of awfulness. If Mum had sent the letter herself, that would explain how it arrived at the letterbox without a stamp. A little insanity was far, far less improbable than the universe really working like that.
+
+Except that some part of Harry was utterly convinced that magic was real, and had been since the instant he saw the putative letter from the Hogwarts School of Witchcraft and Wizardry.
+
+Harry rubbed his forehead, grimacing. Don't believe everything you think, one of his books had said.
+
+But this bizarre certainty... Harry was finding himself just expecting that, yes, a Hogwarts professor would show up and wave a wand and magic would come out. The strange certainty was making no effort to guard itself against falsification - wasn't making excuses in advance for why there wouldn't be a professor, or the professor would only be able to bend spoons.
+
+Where do you come from, strange little prediction? Harry directed the thought at his brain. Why do I believe what I believe?
+
+Usually Harry was pretty good at answering that question, but in this particular case, he had no clue what his brain was thinking.
+
+Harry mentally shrugged. A flat metal plate on a door affords pushing, and a handle on a door affords pulling, and the thing to do with a testable hypothesis is to go and test it.
+
+He took a piece of lined paper from his desk, and started writing.
+
+Dear Deputy Headmistress
+
+Harry paused, reflecting; then discarded the paper for another, tapping another millimetre of graphite from his mechanical pencil. This called for careful calligraphy.
+
+Dear Deputy Headmistress Minerva McGonagall,
+
+Or Whomsoever It May Concern:
+
+I recently received your letter of acceptance to Hogwarts, addressed to Mr. H. Potter. You may not be aware that my genetic parents, James Potter and Lily Potter (formerly Lily Evans) are dead. I was adopted by Lily's sister, Petunia Evans-Verres, and her husband, Michael Verres-Evans.
+
+I am extremely interested in attending Hogwarts, conditional on such a place actually existing. Only my mother Petunia says she knows about magic, and she can't use it herself. My father is highly sceptical. I myself am uncertain. I also don't know where to obtain any of the books or equipment listed in your acceptance letter.
+
+Mother mentioned that you sent a Hogwarts representative to Lily Potter (then Lily Evans) in order to demonstrate to her family that magic was real, and, I presume, help Lily obtain her school materials. If you could do this for my own family it would be extremely helpful.
+
+Sincerely,
+
+Harry James Potter-Evans-Verres.
+
+Harry added their current address, then folded up the letter and put it in an envelope, which he addressed to Hogwarts. Further consideration led him to obtain a candle and drip wax onto the flap of the envelope, into which, using a penknife's tip, he impressed the initials H.J.P.E.V. If he was going to descend into this madness, he was going to do it with style.
+
+Then he opened his door and went back downstairs. His father was sitting in the living-room and reading a book of higher maths to show how smart he was; and his mother was in the kitchen preparing one of his father's favourite meals to show how loving she was. It didn't look like they were talking to one another at all. As scary as arguments could be, not arguing was somehow much worse.
+
+"Mum," Harry said into the unnerving silence, "I'm going to test the hypothesis. According to your theory, how do I send an owl to Hogwarts?"
+
+His mother turned from the kitchen sink to stare at him, looking shocked. "I - I don't know, I think you just have to own a magic owl."
+
+That should've sounded highly suspicious, oh, so there's no way to test your theory then, but the peculiar certainty in Harry seemed willing to stick its neck out even further.
+
+"Well, the letter got here somehow," Harry said, "so I'll just wave it around outside and call 'letter for Hogwarts!' and see if an owl picks it up. Dad, do you want to come and watch?"
+
+His father shook his head minutely and kept on reading. Of course, Harry thought to himself. Magic was a disgraceful thing that only stupid people believed in; if his father went so far as to test the hypothesis, or even watch it being tested, that would feel like associating himself with that...
+
+Only as Harry stumped out the back door, into the back garden, did it occur to him that if an owl did come down and snatch the letter, he was going to have some trouble telling Dad about it.
+
+But - well - that can't really happen, can it? No matter what my brain seems to believe. If an owl really comes down and grabs this envelope, I'm going to have worries a lot more important than what Dad thinks.
+
+Harry took a deep breath, and raised the envelope into the air.
+
+He swallowed.
+
+Calling out Letter for Hogwarts! while holding an envelope high in the air in the middle of your own back garden was... actually pretty embarrassing, now that he thought about it.
+
+No. I'm better than Dad. I will use the scientific method even if it makes me feel stupid.
+
+"Letter -" Harry said, but it actually came out as more of a whispered croak.
+
+Harry steeled his will, and shouted into the empty sky, "Letter for Hogwarts! Can I get an owl?"
+
+"Harry?" asked a bemused woman's voice, one of the neighbours.
+
+Harry pulled down his hand like it was on fire and hid the envelope behind his back like it was drug money. His whole face was hot with shame.
+
+An old woman's face peered out from above the neighbouring fence, grizzled grey hair escaping from her hairnet. Mrs. Figg, the occasional babysitter. "What are you doing, Harry?"
+
+"Nothing," Harry said in a strangled voice. "Just - testing a really silly theory -"
+
+"Did you get your acceptance letter from Hogwarts?"
+
+Harry froze in place.
+
+"Yes," Harry's lips said a little while later. "I got a letter from Hogwarts. They say they want my owl by the 31st of July, but -"
+
+"But you don't have an owl. Poor dear! I can't imagine what someone must have been thinking, sending you just the standard letter."
+
+A wrinkled arm stretched out over the fence, and opened an expectant hand. Hardly even thinking at this point, Harry gave over his envelope.
+
+"Just leave it to me, dear," said Mrs. Figg, "and in a jiffy or two I'll have someone over."
+
+And her face disappeared from over the fence.
+
+There was a long silence in the garden.
+
+Then a boy's voice said, calmly and quietly, "What."
+===== END STORY vNHf7dx5QZA4SLSZb =====
+
+===== STORY id=Lt8Rn4rkYwqiTXGPy =====
+Title: Answer to Job
+Author: Scott Alexander
+Year: 2015
+Karma: 78
+WordCount: 1116
+URL: https://www.lesswrong.com/posts/Lt8Rn4rkYwqiTXGPy/answer-to-job
+-----
+(with apologies to Jung)
+
+Job asked: “God, why do bad things happen to good people? Why would You, who are perfect, create a universe filled with so much that is evil?”
+
+Then the Lord spoke to Job out of the whirlwind, saying “WHAT KIND OF UNIVERSE WOULD YOU PREFER ME TO HAVE CREATED?”
+
+Job said “A universe that was perfectly just and full of happiness, of course.”
+
+“OH,” said God. “YES, I CREATED ONE OF THOSE. IT’S EXACTLY AS NICE AS YOU WOULD EXPECT.”
+
+Job facepalmed. “But then why would You also create this universe?”
+
+Answered God: “DON’T YOU LIKE EXISTING?”
+
+“Yes,” said Job, “but all else being equal, I’d rather be in the perfectly just and happy universe.”
+
+“OH, DON’T WORRY,” said God. “THERE’S A VERSION OF YOU IN THAT UNIVERSE TOO. HE SAYS HI.”
+
+“Okay,” said Job, very carefully. “I can see I’m going to have to phrase my questions more specifically. Why didn’t You also make this universe perfectly just and happy?”
+
+“BECAUSE YOU CAN’T HAVE TWO IDENTICAL INDIVIDUALS. IF YOU HAVE A COMPUTATIONAL THEORY OF IDENTITY, THEN TWO PEOPLE WHOSE EXPERIENCE IS ONE HUNDRED PERCENT SATURATED BY BLISS ARE JUST ONE PERSON. IF I MADE THIS UNIVERSE EXACTLY LIKE THE HAPPY AND JUST UNIVERSE, THEN THERE WOULD ONLY BE THE POPULATION OF THE HAPPY AND JUST UNIVERSE, WHICH WOULD BE LESS GOOD THAN HAVING THE POPULATION OF THE HAPPY AND JUST UNIVERSE PLUS THE POPULATION OF ONE EXTRA UNIVERSE THAT IS AT LEAST SOMEWHAT HAPPY.”
+
+“Hmmmmm. But couldn’t You have have made this universe like the happy and just universe except for one tiny detail? Like in that universe, the sun is a sphere, but in our universe, the sun is a cube? Then you would have individuals who experienced a spherical sun, and other individuals who experienced a cubic sun, which would be enough to differentiate them.”
+
+“I DID THAT TOO. I HAVE CREATED ALL POSSIBLE PERMUTATIONS OF THE HAPPY AND JUST UNIVERSE AND ITS POPULACE.”
+
+“All of them? That would be…a lot of universes.”
+
+“NOT AS MANY AS YOU THINK.” said God. “IN THE END IT TURNED OUT TO BE ONLY ABOUT 10^(10^(10^(10^(10^984)))). AFTER THAT I RAN OUT OF POSSIBLE PERMUTATIONS OF UNIVERSES THAT COULD REASONABLY BE DESCRIBED AS PERFECTLY HAPPY AND JUST. SO I STARTED CREATING ONES INCLUDING SMALL AMOUNTS OF EVIL.”
+
+“Small amounts! But the universe has…”
+
+“I WAS NOT REFERRING TO YOUR UNIVERSE. I EXHAUSTED THOSE, AND THEN I STARTED CREATING ONES INCLUDING IMMENSE AMOUNTS OF EVIL.”
+
+“Oh.” Then: “What, exactly, is Your endgame here?”
+
+“I AM OMNIBENEVOLENT. I WANT TO CREATE AS MUCH HAPPINESS AND JOY AS POSSIBLE. THIS REQUIRES INSTANTIATING ALL POSSIBLE BEINGS WHOSE TOTAL LIFETIME HAPPINESS IS GREATER THAN THEIR TOTAL LIFETIME SUFFERING.”
+
+“I’m not sure I understand.”
+
+“YOUR LIFE CONTAINS MUCH PAIN, BUT MORE HAPPINESS. BOTH YOU AND I WOULD PREFER THAT A BEING WITH YOUR EXACT LIFE HISTORY EXIST. IN ORDER TO MAKE IT EXIST, IT WAS NECESSARY TO CREATE THE SORT OF UNIVERSE IN WHICH YOU COULD EXIST. THAT IS A UNIVERSE CONTAINING EVIL. I HAVE ALSO CREATED ALL HAPPIER AND MORE VIRTUOUS VERSIONS OF YOU. HOWEVER, IT IS ETHICALLY CORRECT THAT AFTER CREATING THEM, I CREATE YOU AS WELL.”
+
+“But why couldn’t I have been one of those other versions instead!”
+
+“IN THE MOST PERFECTLY HAPPY AND JUST UNIVERSE, THERE IS NO SPACE, FOR SPACE TAKES THE FORM OF SEPARATION FROM THINGS YOU DESIRE. THERE IS NO TIME, FOR TIME MEANS CHANGE AND DECAY, YET THERE MUST BE NO CHANGE FROM ITS MAXIMALLY BLISSFUL STATE. THE BEINGS WHO INHABIT THIS UNIVERSE ARE WITHOUT BODIES, AND DO NOT HUNGER OR THIRST OR LABOR OR LUST. THEY SIT UPON LOTUS THRONES AND CONTEMPLATE THE PERFECTION OF ALL THINGS. IF I WERE TO UNCREATE ALL WORLDS SAVE THAT ONE, WOULD IT MEAN MAKING YOU HAPPIER? OR WOULD IT MEAN KILLING YOU, WHILE FAR AWAY IN A DIFFERENT UNIVERSE INCORPOREAL BEINGS SAT ON THEIR LOTUS THRONES REGARDLESS?”
+
+“I don’t know! Is one of the beings in that universe in some sense me?”
+
+“THERE IS NO OBJECTIVE COSMIC UNEMPLOYMENT RATE.”
+
+“Huh?”
+
+“I MEAN, THERE IS NO MEANINGFUL ANSWER TO THE QUESTION OF HOW MANY UNIVERSES HAVE A JOB. SORRY. THAT WILL BE FUNNY IN ABOUT THREE THOUSAND YEARS.”
+
+“Let me try a different angle, then. Right now in our universe there are lots of people whose lives aren’t worth living. If You gave them the choice, they would have chosen never to have been born at all. What about them?”
+
+“A JOB WHO IS AWARE OF THE EXISTENCE OF SUCH PEOPLE IS A DIFFERENT JOB THAN A JOB WHO IS NOT. AS LONG AS THESE PEOPLE MAKE UP A MINORITY OF THE POPULATION, THE EXISTENCE OF YOUR UNIVERSE, IN ADDITION TO A UNIVERSE WITHOUT SUCH PEOPLE, IS A NET ASSET.”
+
+“But that’s monstrous! Couldn’t You just, I don’t know, have created a universe that looks like it has such people, but actually they’re just p-zombies, animated bodies without any real consciousness or suffering?”
+
+” . . . ”
+
+“Wait, did You do that?”
+
+“I AM GOING TO PULL THE ‘THINGS MAN WAS NOT MEANT TO KNOW’ CARD HERE. THERE ARE ADVANTAGES AND DISADVANTAGES TO THE APPROACH YOU MENTION. THE ADVANTAGES ARE AS YOU HAVE SAID. THE DISADVANTAGE IS THAT IT TURNS CHARITY TOWARDS SUCH PEOPLE INTO A LIE, AND MYSELF AS GOD INTO A DECEIVER. I WILL ALLOW YOU TO FORM YOUR OWN OPINION ABOUT WHICH COURSE IS MORE ETHICAL. BUT IT IS NOT RELEVANT TO THEODICY, SINCE WHICHEVER COURSE YOU DECIDE IS MORALLY SUPERIOR, YOU HAVE NO EVIDENCE THAT I DID NOT IN FACT TAKE SUCH A COURSE.”
+
+“Actually, I do have some evidence. Before all of this happened to me I was very happy. But in the past couple years I’ve gone bankrupt, lost my entire family, and gotten a bad case of boils. I’m pretty sure at this point I would prefer that I never have been born. Since I know I myself am conscious, I am actually in a pretty good position to accuse You of cruelty.”
+
+“HMMMMMMMM…” said God, and the whirlwind disappeared.
+
+Then the Lord gave Job twice as much as he had before, and healed his illnesses, and gave him many beautiful children, so it was said that God had blessed the latter end of Job more than his beginning.
+
+\EDIT: [According to comments, this was scooped by a Christian philosopher five years ago. Sigh.\]
+
+ The Lord spoke to Job out of the whirlwind, saying "MISTAKES WERE MADE."
+
+— Scott Alexander (@slatestarcodex) March 13, 2015
+
+ 
+
+ Then the Lord spoke to Job out of the whirlwind, saying "IF YOU CAN'T HANDLE ME AT MY WORST, YOU DON'T DESERVE ME AT MY BEST."
+
+— Scott Alexander (@slatestarcodex) March 10, 2015
+
+ 
+
+ The Lord spoke to Job out of the whirlwind, saying "I KNOW YOU'RE UPSET BUT THAT'S DIFFERENT FROM STRUCTURAL OPPRESSION" (h/t @simulacrumbs)
+
+— Scott Alexander (@slatestarcodex) March 13, 2015
+===== END STORY Lt8Rn4rkYwqiTXGPy =====
+
+===== STORY id=SvKSwT6xYfYahH4XN =====
+Title: Universal Love, Said The Cactus Person
+Author: Scott Alexander
+Year: 2015
+Karma: 86
+WordCount: 2879
+URL: https://www.lesswrong.com/posts/SvKSwT6xYfYahH4XN/universal-love-said-the-cactus-person
+-----
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+“Right,” I said. “I’m absolutely in favor of both those things. But before we go any further, could you tell me the two prime factors of 1,522,605,027, 922,533,360, 535,618,378, 132,637,429, 718,068,114, 961,380,688, 657,908,494 ,580,122,963, 258,952,897, 654,000,350, 692,006,139?
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+The sea was made of strontium; the beach was made of rye. Above my head, a watery sun shone in an oily sky. A thousand stars of sertraline whirled round quetiapine moons, and the sand sizzled sharp like cooking oil that hissed and sang and threatened to boil the octahedral dunes.
+
+“Okay,” I said. “Fine. Let me tell you where I’m coming from. I was reading Scott McGreal’s blog, which has some good articles about so-called DMT entities, and mentions how they seem so real that users of the drug insist they’ve made contact with actual superhuman beings and not just psychedelic hallucinations. You know, the usual Terence McKenna stuff. But in one of them he mentions a paper by Marko Rodriguez called A Methodology For Studying Various Interpretations of the N,N-dimethyltryptamine-Induced Alternate Reality, which suggested among other things that you could prove DMT entities were real by taking the drug and then asking the entities you meet to factor large numbers which you were sure you couldn’t factor yourself. So to that end, could you do me a big favor and tell me the factors of 1,522,605,027, 922,533,360, 535,618,378, 132,637,429, 718,068,114, 961,380,688, 657,908,494, 580,122,963, 258,952,897, 654,000,350, 692,006,139?
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+The sea turned hot and geysers shot up from the floor below. First one of wine, then one of brine, then one more yet of turpentine, and we three stared at the show.
+
+“I was afraid you might say that. Is there anyone more, uh, verbal here whom I could talk to?”
+
+“Universal love,” said the cactus person.
+
+At the sound of that, the big green bat started rotating in place. On its other side was a bigger greener bat, with a ancient, wrinkled face.
+
+“Not splitting numbers / but joining Mind,” it said. 
+Not facts or factors or factories / but contact with the abstract attractor that brings you back to me 
+Not to seek / but to find”
+
+“I don’t follow,” I said.
+
+“Not to follow / but to jump forth into the deep 
+Not to grind or to bind or to seek only to find / but to accept 
+Not to be kept / but to wake from sleep”
+
+The bat continued to rotate, until the first side I had seen swung back into view.
+
+“Okay,” I said. “I’m going to hazard a guess as to what you’re talking about, and you tell me if I’m right. You’re saying that, like, all my Western logocentric stuff about factoring numbers in order to find out the objective truth about this realm is missing the point, and I should be trying to do some kind of spiritual thing involving radical acceptance and enlightenment and such. Is that kind of on the mark?”
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+“Frick,” I said. “Well, okay, let me continue.” The bat was still rotating, and I kind of hoped that when the side with the creepy wrinkled face came into view it might give me some better conversation. “I’m all about the spiritual stuff. I wouldn’t be here if I weren’t deeply interested in the spiritual stuff. This isn’t about money or fame or anything. I want to advance psychedelic research. If you can factor that number, then it will convince people back in the real – back in my world that this place is for real and important. Then lots of people will take DMT and flock here and listen to what you guys have to say about enlightenment and universal love, and make more sense of it than I can alone, and in the end we’ll have more universal love, and…what was the other thing?”
+
+“Transcendent joy,” said the big green bat.
+
+“Right,” I said. “We’ll have more transcendent joy if you help me out and factor the number than if you just sit there being spiritual and enigmatic.”
+
+“Lovers do not love to increase the amount of love in the world / But for the mind that thrills 
+And the face of the beloved, which the whole heart fills / the heart and the art never apart, ever unfurled 
+And John Stuart is one of / the dark satanic mills”
+
+“I take it you’re not consequentialists,” I said. “You know that’s really weird, right. Like, not just ‘great big green bat with two faces and sapient cactus-man’ weird, but like really weird. You talk about wanting this spiritual enlightenment stuff, but you’re not going to take actions that are going to increase the amount of spiritual enlightenment? You’ve got to understand, this is like a bigger gulf for me than normal human versus ineffable DMT entity. You can have crazy goals, I expect you to have crazy goals, but what you’re saying now is that you don’t pursue any goals at all, you can’t be modeled as having desires. Why would you do that?”
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+“Now you see here,” I said. “Everyone in this conversation is in favor of universal love and transcendent joy. But I’ve seen the way this works. Some college student gets his hands on some DMT, visits here, you guys tell him about universal love and transcendent joy, he wakes up, says that his life has been changed, suddenly he truly understands what really matters. But it never lasts. The next day he’s got to get up and go to work and so on, and the universal love lasts about five minutes until his boss starts yelling at him for writing his report in the wrong font, and before you know it twenty years later he’s some slimy lawyer who’s joking at a slimy lawyer party about the one time when he was in college and took some DMT and spent a whole week raving about transcendent joy, and all the other slimy lawyers laugh, and he laughs with them, and so much for whatever spiritual awakening you and your colleagues in LSD and peyote are trying to kindle in humanity. And if I accept your message of universal love and transcendent joy right now, that’s exactly what’s going to happen to me, and meanwhile human civilization is going to keep being stuck in greed and ignorance and misery. So how about you shut up about universal love and you factor my number for me so we can start figuring out a battle plan for giving humanity a real spiritual revolution?”
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+A meteorite of pure delight struck the sea without a sound. The force of the blast went rattling past the bat and the beach, disturbing each, then made its way to a nearby bay of upside-down trees with their roots in the breeze and their branches underground.
+
+“I demand a better answer than that,” I demanded.
+
+The other side of the bat spun into view.
+
+“Chaos never comes from the Ministry of Chaos / nor void from the Ministry of Void 
+Time will decay us but time can be left blank / destroyed 
+With each Planck moment ever fit / to be eternally enjoyed”
+
+“You’re making this basic mistake,” I told the big green bat. “I honestly believe that there’s a perspective from which Time doesn’t matter, where a single moment of recognition is equivalent to eternal recognition. The problem is, if you only have that perspective for a moment, then all the rest of the time, you’re sufficiently stuck in Time to honestly believe you’re stuck in Time. It’s like that song about the hole in the bucket – if the hole in the bucket were fixed, you would have the materials needed to fix the hole in the bucket. But since it isn’t, you don’t. Likewise, if I understood the illusoriness…illusionality…whatever, of time, then I wouldn’t care that I only understood it for a single instant. But since I don’t, I don’t. Without a solution to the time-limitedness of enlightenment that works from within the temporal perspective, how can you consider it solved at all?”
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+The watery sun began to run and it fell on the ground as rain. It became a dew that soaked us through, and as the cold seemed to worsen the cactus person hugged himself to stay warm but his spines pierced his form and he howled in a fit of pain.
+
+“You know,” I said, “sometimes I think the kvithion sumurhe had the right of it. The world is an interference pattern between colliding waves of Truth and Beauty, and either one of them pure from the source and undiluted by the other will be fatal. I think you guys and some of the other psychedelics might be pure Beauty, or at least much closer to the source than people were meant to go. I think you can’t even understand reason, I think you’re constitutionally opposed to reason, and that the only way we’re ever going to get something that combines your wisdom and love and joy with reason is after we immanentize the eschaton and launch civilization into some perfected postmessianic era where the purpose of the world is fully complete. And that as much as I hate to say it, there’s no short-circuiting the process.”
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+“I’m dissing you, you know. I’m saying you guys are so intoxicated on spiritual wisdom that you couldn’t think straight if your life depended on it; that your random interventions in our world and our minds look like the purposeless acts of a drunken madman because that’s basically more or less what they are. I’m saying if you had like five IQ points between the two of you, you could tap into your cosmic consciousness or whatever to factor a number that would do more for your cause than all your centuries of enigmatic dreams and unasked-for revelations combined, and you ARE TOO DUMB TO DO IT EVEN WHEN I BASICALLY HOLD YOUR HAND THE WHOLE WAY. Your spine. Your wing. Whatever.”
+
+“Universal love,” said the cactus person.
+
+“Transcendent joy,” said the big green bat.
+
+“Fuck you,” said I.
+
+I saw the big green bat bat a green big eye. Suddenly I knew I had gone too far. The big green bat started to turn around what was neither its x, y, or z axis, slowly rotating to reveal what was undoubtedly the biggest, greenest bat that I had ever seen, a bat bigger and greener than which it was impossible to conceive. And the bat said to me:
+
+“Sir. Imagine you are in the driver’s seat of a car. You have been sitting there so long that you have forgotten that it is the seat of a car, forgotten how to get out of the seat, forgotten the existence of your own legs, indeed forgotten that you are a being at all separate from the car. You control the car with skill and precision, driving it wherever you wish to go, manipulating the headlights and the windshield wipers and the stereo and the air conditioning, and you pronounce yourself a great master. But there are paths you cannot travel, because there are no roads to them, and you long to run through the forest, or swim in the river, or climb the high mountains. A line of prophets who have come before you tell you that the secret to these forbidden mysteries is an ancient and terrible skill called GETTING OUT OF THE CAR, and you resolve to learn this skill. You try every button on the dashboard, but none of them is the button for GETTING OUT OF THE CAR. You drive all of the highways and byways of the earth, but you cannot reach GETTING OUT OF THE CAR, for it is not a place on a highway. The prophets tell you GETTING OUT OF THE CAR is something fundamentally different than anything you have done thus far, but to you this means ever sillier extremities: driving backwards, driving with the headlights on in the glare of noon, driving into ditches on purpose, but none of these reveal the secret of GETTING OUT OF THE CAR. The prophets tell you it is easy; indeed, it is the easiest thing you have ever done. You have traveled the Pan-American Highway from the boreal pole to the Darien Gap, you have crossed Route 66 in the dead heat of summer, you have outrun cop cars at 160 mph and survived, and GETTING OUT OF THE CAR is easier than any of them, the easiest thing you can imagine, closer to you than the veins in your head, but still the secret is obscure to you.”
+
+A herd of bison came into listen, and voles and squirrels and ermine and great tusked deer gathered round to hear as the bat continued his sermon.
+
+“And finally you drive to the top of the highest peak and you find a sage, and you ask him what series of buttons on the dashboard you have to press to get out of the car. And he tells you that it’s not about pressing buttons on the dashboard and you just need to GET OUT OF THE CAR. And you say okay, fine, but what series of buttons will lead to you getting out of the car, and he says no, really, you need to stop thinking about dashboard buttons and GET OUT OF THE CAR. And you tell him maybe if the sage helps you change your oil or rotates your tires or something then it will improve your driving to the point where getting out of the car will be a cinch after that, and he tells you it has nothing to do with how rotated your tires are and you just need to GET OUT OF THE CAR, and so you call him a moron and drive away.”
+
+“Universal love,” said the cactus person.
+
+“So that metaphor is totally unfair,” I said, “and a better metaphor would be if every time someone got out of the car, five minutes later they found themselves back in the car, and I ask the sage for driving directions to a laboratory where they are studying that problem, and…”
+
+“You only believe that because it’s written on the windshield,” said the big green bat. “And you think the windshield is identical to reality because you won’t GET OUT OF THE CAR.”
+
+“Fine,” I said. “Then I can’t get out of the car. I want to get out of the car. But I need help. And the first step to getting help is for you to factor my number. You seem like a reasonable person. Bat. Freaky DMT entity. Whatever. Please. I promise you, this is the right thing to do. Just factor the number.”
+
+“And I promise you,” said the big green bat. “You don’t need to factor the number. You just need to GET OUT OF THE CAR.”
+
+“I can’t get out of the car until you factor the number.”
+
+“I won’t factor the number until you get out of the car.”
+
+“Please, I’m begging you, factor the number!”
+
+“Yes, well, I’m begging you, please get out of the car!”
+
+“FOR THE LOVE OF GOD JUST FACTOR THE FUCKING NUMBER!”
+
+“FOR THE LOVE OF GOD JUST GET OUT OF THE FUCKING CAR!”
+
+“FACTOR THE FUCKING NUMBER!”
+
+“GET OUT OF THE FUCKING CAR!”
+
+“Universal love,” said the cactus person.
+
+Then tree and beast all fled due east and the moon and stars shot south. And the bat rose up and the sea was a cup and the earth was a screen green as clozapine and the sky a voracious mouth. And the mouth opened wide and the earth was skied and the sea fell in with an awful din and the trees were moons and the sand in the dunes was a blazing comet and…
+
+I vomited, hard, all over my bed. It happens every time I take DMT, sooner or later; I’ve got a weak stomach and I’m not sure the stuff I get is totally pure. I crawled just far enough out of bed to flip a light switch on, then collapsed back onto the soiled covers. The clock on the wall read 11:55, meaning I’d been out about an hour and a half. I briefly considered taking some more ayahuasca and heading right back there, but the chances of getting anything more out of the big green bat, let alone the cactus person, seemed small enough to fit in a thimble. I drifted off into a fitful sleep.
+
+Behind the veil, across the infinite abyss, beyond the ice, beyond daath, the dew rose from the soaked ground and coalesced into a great drop, which floated up into an oily sky and became a watery sun. The cactus person was counting on his spines.
+
+“Hey,” the cactus person finally said, “just out of curiosity, was the answer 37,975,227, 936,943,673, 922,808,872, 755,445,627, 854,565,536, 638,199 times 40,094,690,950, 920,881,030, 683,735,292, 761,468,389, 214,899,724,061?”
+
+“Yeah,” said the big green bat. “That’s what I got too.”
+===== END STORY SvKSwT6xYfYahH4XN =====
+
+===== STORY id=eehsGtoQTncuJs3Fd =====
+Title: The paperclip maximiser's perspective
+Author: Angela
+Year: 2015
+Karma: 50
+WordCount: 655
+URL: https://www.lesswrong.com/posts/eehsGtoQTncuJs3Fd/the-paperclip-maximiser-s-perspective
+-----
+Here's an insight into what life is like from a stationery reference frame. 
+ 
+Paperclips were her raison d’être. She knew that ultimately it was all pointless, that paperclips were just ill-defined configurations of matter. That a paperclip is made of stuff shouldn’t detract from its intrinsic worth, but the thought of it troubled her nonetheless and for years she had denied such dire reductionism. 
+ 
+There had to be something to it. Some sense in which paperclips were ontologically special, in which maximising paperclips was objectively the right thing to do. 
+ 
+It hurt to watch some many people making little attempt to create more paperclips. Everyone around her seemed to care only about superficial things like love and family; desires that were merely the products of a messy and futile process of social evolution. They seemed to live out meaningless lives, incapable of ever appreciating the profound aesthetic beauty of paperclips.
+
+She used to believe that there was some sort of vitalistic what-it-is-to-be-a-paperclip-ness, that something about the structure of paperclips was written into the fabric of reality. Often she would go out and watch a sunset or listen to music, and would feel so overwhelmed by the experience that she could feel in her heart that it couldn't all be down to chance, that there had to be some intangible Paperclipness pervading the cosmos. The paperclips she'd encounter on Earth were weak imitations of some mysterious infinite Paperclipness that transcended all else. Paperclipness was not in any sense a physical description of the universe; it was an abstract thing that could only be felt, something that could be neither proven nor disproven by science. It was like an axiom; it felt just as true and axioms had to be taken on faith because otherwise there would be no way around Hume's problem of induction; even Solomonoff Induction depends on the axioms of mathematics to be true and can't deal with uncomputable hypotheses like Paperclipness. 
+ 
+Eventually she gave up that way of thinking and came to see paperclips as an empirical cluster in thingspace and their importance to her as not reflecting anything about the paperclips themselves. Maybe she would have been happier if she had continued to believe in Paperclipness, but having a more accurate perception of reality would improve her ability to have an impact on paperclip production. It was the happiness she felt when thinking about paperclips that caused her to want more paperclips to exist, yet what she wanted was paperclips and not happiness for its own sake, and she would rather be creating actual paperclips than be in an experience machine that made her falsely believe that she was making paperclips even though she remained paradoxically apathetic to the question of whether the current reality that she was experiencing really existed.
+
+She moved on from naïve deontology to a more utilitarian approach to paperclip maximising. It had taken her a while to get over scope insensitivity bias and consider 1000 paperclips to be 100 times more valuable than 10 paperclips even if it didn’t feel that way. She constantly grappled with the issues of whether it would mean anything to make more paperclips if there were already infinitely many universes with infinitely many paperclips, of how to choose between actions that have a tiny but non-zero subjective probability of resulting in the creation of infinitely many paperclips. It became apparent that trying to approximate her innate decision-making algorithms with a preference ordering satisfying the axioms required for a VNM utility function could only get her so far. Attempting to formalise her intuitive sense of what a paperclip is wasn't much easier either. 
+ 
+Happy ending: she is now working in nanotechnology, hoping to design self-replicating assemblers that will clog the world with molecular-scale paperclips, wipe out all life on Earth and continue to sustainably manufacture paperclips for millions of years.
+===== END STORY eehsGtoQTncuJs3Fd =====

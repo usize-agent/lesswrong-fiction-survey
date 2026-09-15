@@ -1,0 +1,35 @@
+{
+  "_id": "bteq4hMW2hqtKE49d",
+  "slug": "the-king-and-the-golem",
+  "title": "The King and the Golem",
+  "postedAt": "2023-09-25T19:51:22.980Z",
+  "baseScore": 212,
+  "wordCount": 1472,
+  "commentCount": 19,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

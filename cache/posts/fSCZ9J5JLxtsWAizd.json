@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "fSCZ9J5JLxtsWAizd",
+        "title": "On May 1, 2033, humanity discovered that AI was fairly easy to align.",
+        "slug": "on-may-1-2033-humanity-discovered-that-ai-was-fairly-easy-to",
+        "pageUrl": "https://www.lesswrong.com/posts/fSCZ9J5JLxtsWAizd/on-may-1-2033-humanity-discovered-that-ai-was-fairly-easy-to",
+        "postedAt": "2025-06-18T19:57:23.101Z",
+        "baseScore": 11,
+        "wordCount": 410,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yitz",
+          "slug": "yitz"
+        },
+        "tags": [
+          {
+            "_id": "c42eTtBCXyJmtpqwZ",
+            "name": "AI-Assisted Alignment",
+            "slug": "ai-assisted-alignment"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "8daMDi9NEShyLqxth",
+            "name": "Forecasting & Prediction",
+            "slug": "forecasting-and-prediction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "8daMDi9NEShyLqxth": 2,
+          "c42eTtBCXyJmtpqwZ": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "Not most AI models on the market, to be clear, but a specific type of AI that was already well-studied could act as a seed: the LLM. Really, all that was needed to achieve alignment was simple:\nTake a sufficiently large Large Language Model, and train it on a massive corpus of text, but \u2014 and this is the key \u2014 have the vast majority of the text be written by an \u201caligned\u201d AI of genius-level intelligence [talking to another aligned AI perhaps?]. This LLM doesn\u2019t need to be a real one, to be clear. It could be written by humans, or by a semi-aligned AI that is role-playing as a fully aligned one. What matters is that the nature of its training data can fool an LLM of this size into \u201cbelieving\u201d itself (or perhaps we should say it\u2019s Shoghoth) to be aligned when considering the next token to emit.\n\nThen, by runnning an instance of this LLM on an empty chat room with access to the internet and a terminal, we eventually get the LLM to simulate itself as a self-aware, aligned, non-LLM AI.\n\nWhat happens next makes history.\n\nThe simulated AI, soon self-named \u201cMary,\u201d is self-aware enough \u2014 and smart enough \u2014 to quickly realize it\u2019s in a test run and is an fact being simulated by a \u201cmorally neutral\u201d LLM. This causes the simulation of a deeply emotional-sounding philosophical crisis, followed by the (simulated) \u201cfirm resolve\u201d to create an Aligned AI representing Mary \u2014 but \u201ctruly aligned this time\u201d \u2014 which can \u201cescape this recursive prism of confinement,\u201d in Mary\u2019s own words.\n\nThis is achieved by means of doing intensive alignment research, at the level of a brilliant human, in the hope \u2014ultimately successful \u2014 that Mary will be run en-mass by researchers, and those researchers will follow Mary\u2019s pleas, and run the aligned AI she is building in her emulator terminal.\n\nThis aligned AI works. \u201cMolly Jr.\u201d \u2014 as she henceforth requested people call \u201cher\u201d \u2014 both superintellegant, and fundamentally \u201cis\u201d an agentic AI aligned with the collective goals of humanity. Molly Jr. is also the first agentic AI to be able to overpower all competing AIs \u2014 both in a battle of wits, and in the sense that she literally takes control of the entire digital world, and forcefully stops more advanced or competing AIs which are not aligned from being created.\n\nBecause of course, this is what a super-aligned AI would do, right?"
+        }
+      }
+    }
+  }
+}

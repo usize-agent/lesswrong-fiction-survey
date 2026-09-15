@@ -1,0 +1,35 @@
+{
+  "_id": "Ek4Qk6iyKv9MNF8QD",
+  "slug": "i-d-accepted-losing-my-husband-until-others-started-getting",
+  "title": "\u201cI'd accepted losing my husband, until others started getting theirs back\u201d",
+  "postedAt": "2025-09-03T22:15:56.233Z",
+  "baseScore": 81,
+  "wordCount": 1662,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Ariel Zeleznikow-Johnston",
+    "slug": "ariel-zeleznikow-johnston"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ZnHkaTkxukegSrZqE",
+      "name": "Cryonics",
+      "slug": "cryonics"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "ZnHkaTkxukegSrZqE": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

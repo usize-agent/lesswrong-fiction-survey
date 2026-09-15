@@ -1,0 +1,29 @@
+{
+  "_id": "ziAhnFrWqePEq8qKj",
+  "slug": "20-minutes-of-work-as-an-artist-in-one-future",
+  "title": "20 minutes of work as an artist in one future",
+  "postedAt": "2024-03-27T06:49:53.418Z",
+  "baseScore": 10,
+  "wordCount": 1287,
+  "commentCount": 0,
+  "user": {
+    "displayName": "worse",
+    "slug": "worse"
+  },
+  "tags": [
+    {
+      "_id": "urxWzbi9PBW3GdiG6",
+      "name": "AI Art",
+      "slug": "ai-art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "urxWzbi9PBW3GdiG6": 1
+  }
+}

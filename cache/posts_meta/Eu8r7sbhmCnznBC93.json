@@ -1,0 +1,29 @@
+{
+  "_id": "Eu8r7sbhmCnznBC93",
+  "slug": "the-accord",
+  "title": "The Accord",
+  "postedAt": "2021-04-06T15:44:28.797Z",
+  "baseScore": 25,
+  "wordCount": 243,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Timothy Underwood",
+    "slug": "timothy-underwood-1"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "pGqRLe9bFDX2G2kXY": 2
+  }
+}

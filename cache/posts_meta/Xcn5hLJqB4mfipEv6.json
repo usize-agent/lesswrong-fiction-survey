@@ -1,0 +1,35 @@
+{
+  "_id": "Xcn5hLJqB4mfipEv6",
+  "slug": "unnatural-abstractions",
+  "title": "Unnatural abstractions",
+  "postedAt": "2024-08-10T22:31:42.949Z",
+  "baseScore": 3,
+  "wordCount": 1257,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Aprillion",
+    "slug": "aprillion-peter-hozak"
+  },
+  "tags": [
+    {
+      "_id": "GDGYkF29pxEQNWjYc",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GDGYkF29pxEQNWjYc": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

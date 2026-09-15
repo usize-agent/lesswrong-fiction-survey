@@ -1,0 +1,35 @@
+{
+  "_id": "P6BCRfusJefJw6Bei",
+  "slug": "interview-what-it-s-like-to-be-a-bat",
+  "title": "Interview: What it's like to be a bat",
+  "postedAt": "2025-12-01T09:35:55.367Z",
+  "baseScore": 77,
+  "wordCount": 1283,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Saul Munn",
+    "slug": "saul-munn"
+  },
+  "tags": [
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "XSryTypw5Hszpa4TS": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

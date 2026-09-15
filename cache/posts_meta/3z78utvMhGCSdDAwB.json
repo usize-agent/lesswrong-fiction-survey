@@ -1,0 +1,23 @@
+{
+  "_id": "3z78utvMhGCSdDAwB",
+  "slug": "chapter-99-roles-aftermath",
+  "title": "Chapter 99: Roles, Aftermath",
+  "postedAt": "2015-03-14T19:00:56.252Z",
+  "baseScore": 22,
+  "wordCount": 13,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

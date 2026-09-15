@@ -1,0 +1,23 @@
+{
+  "_id": "ujtuuSaRygMhSN7Kk",
+  "slug": "the-liberty-tractor",
+  "title": "The Liberty Tractor",
+  "postedAt": "2025-10-10T00:52:08.840Z",
+  "baseScore": -4,
+  "wordCount": 2824,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Taylor G. Lunt",
+    "slug": "taylor-g-lunt"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

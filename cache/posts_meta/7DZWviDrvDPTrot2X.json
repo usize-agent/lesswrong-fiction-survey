@@ -1,0 +1,29 @@
+{
+  "_id": "7DZWviDrvDPTrot2X",
+  "slug": "fiction-the-boy-in-the-glass-dome",
+  "title": "[Fiction] The boy in the glass dome",
+  "postedAt": "2023-03-03T07:50:03.578Z",
+  "baseScore": 28,
+  "wordCount": 569,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Kaj_Sotala",
+    "slug": "kaj_sotala"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "JYop2jAsbabADLCkm",
+  "slug": "the-goddess-of-everything-else-the-animation",
+  "title": "The Goddess of Everything Else - The Animation",
+  "postedAt": "2023-07-13T16:26:25.552Z",
+  "baseScore": 153,
+  "wordCount": 19,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Writer",
+    "slug": "writer"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "KDpqtN3MxHSmD4vcB": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

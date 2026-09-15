@@ -1,0 +1,1334 @@
+===== STORY id=rKEgi2cBvBwbN2tfX =====
+Title: Interdictor Ship
+Author: lsusr
+Year: 2024
+Karma: 63
+WordCount: 1956
+URL: https://www.lesswrong.com/posts/rKEgi2cBvBwbN2tfX/interdictor-ship
+-----
+The standard operating procedure against a primitive forest-dwelling enemy is to retreat to orbit and then bombard the planet until there isn't a forest anymore. However, the only reason the Galactic Empire was in the Alpha Centauri A system in the first place was because of the fragile mineral resources underneath that forest. Dropping tungsten rods at hypersonic speeds would risk destroying the only thing of value on Pandora.
+
+Alien aborigines armed with bows and arrows damaged Imperial legitimacy across the galaxy. It was like losing a battle to Ewoks.
+
+The Emperor's solution had been to hire an Ewok.
+
+Mitth'raw'nuruodo was a dwarf by Na'vi standards, but the blue alien stood a head above most humans. Originally hired as a translator, the Imperials on Pandora quickly noticed that the only patrols who came back alive were those that followed Mitth'raw'nuruodo's advice. Pretty soon, the moon was pacified and Mitth'raw'nuruodo was its de facto king.
+
+Nobody liked the idea of an alien being in control of such a strategically-valuable moon. To get rid of him, they promoted Mitth'raw'nuruodo to Admiral. In space, many parsecs away from Pandora, the humans under Mitth'raw'nuruodo's command couldn't pronounce "Mitth'raw'nuruodo".
+
+That was fine, thought Mitth'raw'nuruodo. Everyone just called him "Thrawn".
+
+---
+
+ Amateurs talk strategy. Professionals talk logistics.
+
+The Imperial Navy Defense Acquisitions Board (INDAB) originally met on Coruscant, but was moved to the Life Star for security reasons. Idle chitchat usually preceded the important negotiations.
+
+"What I don't get is why we call it the 'Life Star'," said Chief Bast, "This thing blows up planets. Shouldn't it be called the 'Death Star'?"
+
+"Do you want us to look like the bad guys?" said General Tagge, "The Department of Defense isn't called the 'Department of War'. The Department of Justice isn't called the 'Department of Incarceration'. The Department of Education isn't called the 'Department of Child Indoctrination'. Calling this megastructure the 'Life Star' buys us legitimacy for the low, low price of zero Galactic Credits."
+
+"But won't people call us out on our Bantha fodder when we call things the opposite of what they really are?" said Chief Bast.
+
+"Humans don't. Aliens sometimes make a fuss about it," General Tagge said, "No offense, Admiral."
+
+"None taken," said Thrawn.
+
+"Speaking of which, I've read your recent report," said General Tagge. He projected the Aurebesh symbols where everyone could see, "I forwarded the report to everyone here, but since nobody (except me) ever reads their meeting briefings, why don't you give us the quick summary."
+
+"Of course," Thrawn stood up, "I have two theses. First of all, the Life Star is a tremendous waste of credits. This weapon's only possible use is against a peer adversary or a super-peer adversary. We control two thirds of the galaxy. We have no peer or super-peer adversaries. The Emperor's pet project consumes massive resources while doing nothing to advance our military objectives."
+
+"The Life Star killed all the Rebel scum on Alderaan," said Grand Moff Tarkin.
+
+"I have always considered you a rational agent," said Thrawn, "I am very curious how you, the commander of the Life Star, came to the conclusion that destroying Alderaan was the best way of advancing Imperial interests."
+
+"If you have a problem with my methods then you can bring it to me in private," said Tarkin, "Your second thesis is the topic I hoped to discuss."
+
+Thrawn pressed a button and the Aurebesh words were replaced with different Aurebesh words. They continued to go unread. "Rebel terrorists have recently equipped their starfighters with hyperdrives. They can strike anywhere, and will choose the weakest targets. Our current grand strategy is built around Star Destroyers. There are 25,000 Imperial-Class Star Destroyers in service. We control approximately 1.5 million systems. 98% of our systems have no Star Destroyer present."
+
+"Obviously we must increase the Imperial Navy's budget by 50×," said Tagge.
+
+"First of all, mind your rounding errors," said Thrawn, "We'd need to increase the Imperial Navy's budget by 60×. But never mind that. The point is our current strategy is totally infeasible."
+
+"Are you implying that we should divide our force into smaller units?" said Tarkin, "Because then we'd be spread too thin. The Rebels may not be able to destroy an Imperial-Class Star Destroyer, but if they concentrate their forces they might be able to destroy one sixtieth of a Star Destroyer."
+
+Thrawn locked eyes with Tarkin. "That's not what I meant at all," Thrawn said, "If we could block hyperspace travel―"
+
+"Stop," said Tarkin, "Interdictor Ships are science fiction. You will not waste our time with such magical fantasies."
+
+"But―" said Thrawn.
+
+"I am a busy person. If that is all then this meeting is adjourned. Everyone out," said Tarkin. "Not you," he hastily added to Thrawn, "I must reprimand you for your fantastical incompetence."
+
+Then they were two: The admiral and the grand moff. They took a minute to regain their composure.
+
+"Oops," said Thrawn.
+
+Tarkin sighed. "Let's start from the beginning."
+
+"Alright," said Thrawn. He chose his words carefully, "I had assumed the Imperial Navy was grossly incompetent."
+
+"During a war, it often feels like the one thing not in short supply is idiots," said Tarkin, "But be skeptical. Some of us are merely taking the fall for others' idiocy. Who told you about Interdictor Ships?"
+
+"You did," said Thrawn, "Often when I need something, I assume it exists and then go looking for it. This is how I found out about the existence of Stealth Ships, for example."
+
+"You are lucky I am cleared to know about Stealth Ships," said Tarkin.
+
+"It wasn't luck," said Thrawn.
+
+"I know. I am just pretending to be an idiot," said Tarkin, "Human humor."
+
+"Sorry. Sometimes these conversations go over my head," said Thrawn. Thrawn sat down to allow Tarkin to be taller than him. Tarkin followed suit. "Let's start over. I want a vessel that can interdict Rebel spaceships by disabling their hyperdrives. Do Interdictor Ships exist?"
+
+"I can neither confirm nor deny whether an Interdictor Field is theoretically possible, much less whether one exists," said Tarkin, sarcastically.
+
+"You have thoroughly succeeded in concealing information from me," said Thrawn, equally sarcastic, "I have learned absolutely nothing from you. I remain totally in the dark. This is quite frustrating."
+
+"Good," said Tarkin, "All computer systems can be hacked, even those carrying the secretest of secrets. Security by obscurity is not security, but it is better than nothing. The problem of 'not security' is that it is too easy for inquisitive minds like your to stumble upon information they are not authorized to know. It would be an egregious lapse of procedure for you to accidently stumble upon information you are not authorized to know. I am sure you feel the same. I therefore recommend you stay away from Docking Bay 667."
+
+"I am sorry for inconveniencing you," said Thrawn, "I am sure that my access to sensitive information could put you in hot water. I will make sure that my indiscretions do not produce political blowback upstream of your reputation."
+
+"I appreciate that," said Tarkin.
+
+"Therefore, worry not. If I need authorization to do something unusual, I will not implicate you," Thrawn left the conference room. "I will go directly to Lord Vader."
+
+"Wait. What?" said Tarkin to the empty room.
+
+---
+
+Kshhhhhhh. Kuuuuuuo. Kshhhhhhh. Kuuuuuuo.
+
+In Thrawn's experience there are three ingredients to greatness:
+- Intelligence
+- Intrinsic motivation
+- Audacity
+
+If you are intelligent and intrinsically-motivated, then audacity is what winnows the outrageously successful people from the merely talented. If you go up to someone powerful and ask for something, then there's a 60% chance you lose nothing and a 1% chance you win big. (Na'vi probabilities add up to less than 100% to account for unknown unknowns.)
+
+Kshhhhhhh. Kuuuuuuo. Kshhhhhhh. Kuuuuuuo.
+
+After all, it's not like your social superiors will murder you just for annoying them.
+
+Kshhhhhhh. Kuuuuuuo. Kshhhhhhh. Kuuuuuuo.
+
+Well, the Na'vi don't. Thrawn wasn't sure how monkey politics works.
+
+Kshhhhhhh. Kuuuuuuo. Kshhhhhhh. Kuuuuuuo.
+
+The most important thing to get right is that you ask for the right resource. You need to communicate "I will do this audacious thing with or without your help. If you provide me with minimal assistance then I will accomplish my objective faster and I will remember you fondly after I rise to power." But you can't say it because nobody will believe you. You have to imply it.
+
+Kshhhhhhh. Kuuuuuuo. Kshhhhhhh. Kuuuuuuo.
+
+That's what Thrawn was thinking. His mouth had been on autopilot. "…Anyway, that is the situation. Rebel forces can strike at us with impunity by attacking where we are weak and then escaping to hyperspace before we can respond. They are already doing this. That is why I want an Interdictor Ship. To ambush and destroy them," Thrawn finished.
+
+Vader took his time in responding, as he took his time in everything. (Except, sometimes, combat.) Vader replied slowly, enunciating each word. "Interdictor Ships are science fiction," said Vader.
+
+Thrawn thought carefully before responding. "There is an unregistered frigate in Docking Bay 667. It is going unused. May I add it to my strike force?"
+
+A strange sound came from Vader's life support system. Is he laughing? thought Thrawn, I have a bad feeling about this.
+
+"It is yours," said Vader.
+
+That was too easy. Thrawn didn't know what had happened, but he knew something was amiss. He got away as fast as he could, practically running out of Vader's meditation chamber.
+
+---
+
+A few hours later, in Hangar Bay 667, Thrawn discovered his error.
+
+The ship was like nothing Thrawn (or his crew) had ever seen. Most combat ships are built around their weapons and thrusters. Crew are crammed into the gaps between them. This ship's shape was dominated by a giant rotatable toroid that housed nothing of importance. The ship contained no visible weapons, and it had extra thrusters shaped like those of a missile. Thrawn could speak freely, because the only people in the hangar bay were Thrawn and his most trusted officers.
+
+"I've never seen anything like it," said Specialist Officer Vanto. He and his team had finished examining the bizarre prototype spaceship, "It's got most of the things you'd expect on a ship of its size―shields, life support, repulsors, coffee dispenser. It's got a little more radiation shielding than usual, but whatever. But it's also got a crude set of chemical thrusters I've never seen attached to a ship for humans―I mean biologicals. And it's got no artificial gravity at all."
+
+Chief Engineer Levers nodded. "You know how hyperdrives fail when they encounter a gravity well's tidal forces? My theory is that an Interdictor Field creates an artificial gravity well. I bet that's what the centrifugal habitat is for. The Interdictor Field's artificial gravity wreaks such havoc with regular gravity generators that they have to use centrifugal gravity instead. Fascinating."
+
+Thrawn cleared his throat. (He didn't have to. It was another emote he copied from humans.) "What about the Interdictor Field? Where is it? What does it look like? How big is it? How does it work?"
+
+Levers and Vanto looked at each other. Then, embarrassed, Vanto said, "We…can't find it. This is not an Interdictor Ship."
+
+What.
+
+"Levers has a theory, if you'd like to hear it," said Vanto.
+
+Thrawn screwed up his face into something professional and militaristic, then nodded at Levers.
+
+Levers said, "You're probably going to say this is insane, but I trust you, Admiral, so I'm going to tell you what I truly believe."
+
+Vanto nodded to Levers too. "Speak your mind."
+
+"I believe this is an Interdictor Interdictor Ship," said Levers, "I believe its purpose is to hunt Rebel Interdictor Ships."
+
+"Dismissed," said Thrawn.
+===== END STORY rKEgi2cBvBwbN2tfX =====
+
+===== STORY id=eQhDXk57ZgE6Sa8dK =====
+Title: Fictional parasites very different from our own
+Author: Abhishaike Mahajan
+Year: 2024
+Karma: 28
+WordCount: 1213
+URL: https://www.lesswrong.com/posts/eQhDXk57ZgE6Sa8dK/fictional-parasites-very-different-from-our-own
+-----
+Note: this is a fictional story. Heavily inspired by SSC’s similar posts on fictional legal systems and fictional banned drugs.
+
+ 
+
+Neuroplana temporalis
+=====================
+
+Neuroplana temporalis is a flatworm that resides in the cerebrospinal fluid of mammals with a diurnal rhythm. It has a particular affinity for the regions surrounding the suprachiasmatic nucleus — the brain's central pacemaker. From this location, N. temporalis secretes a cocktail of peptides that interact with the host's circadian rhythm regulation.
+
+These peptides modulate the expression of clock genes — Per1, Per2, and Per3 — effectively altering the host's internal perception of time.
+
+Specifically, the primary symptom of N. temporalis infection is a gradual shift in circadian rhythm, overriding typical zeitgebers that modulate the host’s internal clock. Infected individuals typically experience extending their perceived day to 27-30 hours, creating a constant misalignment with the Earth's 24-hour cycle. This leads to chronic jet-lag-like symptoms, including sleep disturbances, metabolic irregularities, and cognitive impairments.
+
+Through this disruption of its host’s circadian rhythm, the parasite creates a chronic state of immune fatigue. Infected individuals become increasingly susceptible to opportunistic infections, especially those caused by normally benign microorganisms present in the environment. Common ailments such as upper respiratory infections, skin conditions, and gastrointestinal disturbances become more frequent and severe.
+
+N. temporalis feeds on cerebrospinal fluid microbes, which thrive due to host immune suppression. Its lifecycle alternates between active feeding periods, where it disrupts the host's circadian rhythm, and dormant phases when the host normalizes. As its food depletes, the parasite reactivates, again releasing peptides to alter the host's rhythm and boost microbial growth, renewing its food source.
+
+This cycle of feeding, dormancy, and reactivation continues indefinitely, creating a long-term pattern of alternating disrupted and normal circadian rhythms in the host. Due to its difficulty of diagnosis and impact on mental health, human hosts often display anxiety, anhedonia, and suicidal ideation.
+
+Given the appearance of the parasite in infants as young as two months, N. temporalis is believed to originate as a parasite within the mother, which ends up infecting a developing embryo. However, it is likely that this infection is unintentional, as N. temporalis is both rare and dies with its host. It is unknown what the original parasite or what its effect on the mother is.
+
+Pulmo extremophilus
+===================
+
+Pulmo extremophilus is a bacterium that primarily inhabits the lungs of humans, with a particular affinity for alveolar spaces. P. extremophilus interacts with the host's respiratory system through a biochemical mechanism that influences gas exchange, respiratory drive, and, in the latest stages, behaviors.
+
+Upon infection, the parasite first secretes a cocktail of compounds that modulate alveolar function and central chemoreceptor sensitivity. These secretions include a surfactant-mimicking protein that alters alveolar surface tension, alongside a peptide that alters central chemoreceptor sensitivity to blood gas levels.
+
+The primary effect of P. extremophilus infection is a gradual reduction in alveolar gas exchange efficiency due its impact on alveoli. Infected individuals typically experience a 7% decrease in oxygen uptake, creating a chronic state of mild hypoxia. And, as a result of the chemoreceptor alteration, the hypoxia goes largely unnoticed by the host. This eventually causes natural adaptations amongst red blood cell populations, leading to a greater ability to withstand said hypoxia.
+
+Within a few months after initial infection, P. extremophilus further releases a cocktail of chemical compounds that interact with the hosts central nervous system. It is uncharacterized exactly what the neurophysiological impact of these compounds are — likely NMDA receptor antagonism — but, following its release, late-stage infected hosts have been observed to frequently engage in a wide variety of high-risk athletic behavior. Amongst the most prevalent ones are free solo climbing, wingsuit flying, and high-altitude climbs.
+
+The initial athletic aptitude afforded to them by the hypoxia adaptations frequently leads to early success in athletic endeavors, reinforcing the host's drive to pursue extreme sports and exploration. In time, the host inevitably suffers a fatal injury for reasons of risks inherent to the sport itself.
+
+Once the parasite senses dangerously low blood oxygen levels, it will release respiratory irritants, causing the host to violently cough, coating their mouth with expelled bacteria. Upon host death, the parasite enters a state of hibernation, only releasing spores when its host body is disturbed. P. extremophilus primary route of infection is oral, so passersby or medical teams who disturb the corpse are typically the next to be infected.
+
+Opticomyces occultans
+=====================
+
+Opticomyces occultans is a fungus that colonizes the optic nerve of humans living in rural areas with high amounts of nearby wildlife. The parasite induces blindness to hyper-specific visual stimuli.
+
+Upon initial infection on the outer surface of the optic nerve, typically via nasal spores, the fungus secretes acidic substances to slowly cut its way through the nerve. Over the course of a year, the fungus replaces a segment of the optic nerve with itself. During this period, the host will experience intermittent bouts of mild eye pain and visual noise, but rarely anything more severe.
+
+Once established within the optic nerve, O. occultans acts as a highly selective filter for visual information. The fungus allows most visual signals to pass through unaltered but is also capable of detecting specific distributions of light via stacked photosensitive proteins. If these sets of proteins are sufficiently activated — typically through conformational changes — they will cause downstream signal cascades, rapid alternating the input light signal before re-transmitting it along the optic nerve. This modification process occurs in less than 200 milliseconds, which is faster than the average human visual reaction time. As a result, the host remains mostly unaware of any manipulation of their visual input.
+
+O. occultans imperfectly alters visual stimuli, but consistently causes infected hosts to misperceive images of large carnivores, often interpreting them as blurs. In areas with high human infection rates, O. occultans spores have been found in the feces of lions, bears, and leopards. This suggests these predators may serve as secondary hosts in the parasite's life cycle. Researchers hypothesize that O. occultans visual alterations in humans aim to increase the likelihood of predation.
+
+Endocrinus empathetica
+======================
+
+Endocrinus empathetica is a protozoon which primarily resides in the human gut, feeds on ingested food, and impacts social behavior and emotional processing. It is typically found only in third-world nations with inaccessible medical systems and a lack of sanitization practices.
+
+After several months of infection, the parasite secretes large amounts of oxytocin and vasopressin — hormones crucial for social bonding, trust, and empathetic behaviors. Simultaneously, E. empathetica produces a compound that acts as an antagonist to glucocorticoid receptors, effectively lowering the host's fear response.
+
+The combined effect of increased prosocial hormones and decreased stress response leads to notable behavioral changes in infected individuals. Symptomatically, they typically display increased empathy, improved emotional resilience, and a tendency towards more cooperative behaviors. Amongst the infected, researchers have observed shifts in social structures, with them often assuming leadership or mediator roles within their communities.
+
+In time, the constant release of the aforementioned chemicals eventually leads to host endocrine burnout and depression. Given their status, the host typically receives constant palliative care from rotating members of the community. E. empathetica route of transmission is fecal-oral, and untrained caretakers of the host will frequently accidentally infect themselves while handling the parasite-containing excrement of the host.
+===== END STORY eQhDXk57ZgE6Sa8dK =====
+
+===== STORY id=kj4jW9DxtKQBJbapn =====
+Title: Stanislav Petrov Quarterly Performance Review
+Author: Ricki Heicklen
+Year: 2024
+Karma: 165
+WordCount: 1463
+URL: https://www.lesswrong.com/posts/kj4jW9DxtKQBJbapn/stanislav-petrov-quarterly-performance-review
+-----
+September 26 is the anniversary of the 1983 Soviet nuclear false alarm incident—item 24 on Wikipedia’s upsettingly long “List of Nuclear Close Calls”—in which Lieutenant Colonel Stanislav Petrov did an excellent job at not starting World War III.
+
+Quarterly Performance Review, Autumn 1983
+-----------------------------------------
+
+Colonel Yuri Kuznetsov looked out the window anxiously. The endless gray landscape did little to soothe his nerves. He only had one employee review left to get through, but he’d saved the hardest one for last. 
+
+He wasn’t upset about having to dismiss Lieutenant Colonel Petrov—he couldn’t wait to be rid of the little shit—but he couldn’t shake the feeling that something was amiss. He took a swig from his flask.  
+
+“Stanislav, you can come in now,” Yuri shouted as he opened the door and nearly smashed Stanislav Petrov in the face. “Have a seat,” he said.
+
+“Yes, sir. Thank you sir. Overjoyed to be here as always,” Stanislav said.
+
+“The purpose of this meeting is for us to discuss various concerns that have emerged about your performance over the past several months,” said Yuri. “Looking through your chart, what I’m seeing here is that this quarter you’ve managed to achieve… nothing.”
+
+“That’s right sir,” Stanislav piped.
+
+“This is consistent with your performance in the previous quarter, per my notes from our last meeting, in which you also accomplished nothing,” Yuri continued.
+
+“Yes, sir! And I’ve run the numbers several times and I feel pretty confident that this coming quarter I’ll be able to increase my output by 50%, bringing it up to also nothing,” Stanislav said.
+
+Yuri sighed. “Stanislav, let’s talk about the purpose of this job. Your record thus far is abysmal. I hired you to monitor our early warning system for intercontinental ballistic missiles. It’s the easiest job: you stare at the screen, and if it says MISSILES INCOMING you call me. Have you even been watching it?”
+
+“Very closely, sir!” said Stanislav. “And it’s quite fascinating work, too, watching a blinking screen day-in and day-out, really makes me feel great about my computer science degree. I mean nearly every day it’s completely blank.”
+
+“Not every day, though, Stanislav, is that right?” Yuri said.
+
+“Ah, right, well, that’s actually something I wanted to talk about in this review sir,” Stanislav said, looking a little less smug than usual. “And I first of all just wanted to quickly apologize for not bringing that up sooner, I actually wrote out a long email to let you know about it that I thought I’d sent but one of those new gmail filters caught it and it never left the outbox, you know how they keep adding all those safety precautions to weed out spam and phishing-”
+
+“Lieutenant Colonel Petrov, is it true that you were the commander on duty at the Serpukhov-15 bunker shortly after midnight on September 26?” Yuri said.
+
+“Well yes-”
+
+“And is it the case that it was your responsibility to observe the early-warning satellites, code-named Oko, and to notify me of any impending nuclear missile attacks against the Soviet Union?”
+
+“I-”
+
+“Did you observe anything out of the ordinary that night?”
+
+Petrov squirmed. “Okay, so yeah, there may have been one intercontinental ballistic missile detected—well, five, if you also count the four missiles behind it—but it seemed more likely to be some kind of computer malfunction because honestly it would be ridiculous for the United States to launch nuclear weapons against us and assure mutual destruction. Plus the base rate for bugs in our radar systems is like two a day, three if Dmitry starts coding before he’s had his morning cup of vodka.”
+
+“Did you then ascertain whether the missiles detected were in fact system malfunctions?” Yuri responded.
+
+“Here’s the tricky thing—say we’re in the situation where the air radar is malfunctioning. Our land radar can’t detect missiles beyond the horizon, so there aren’t any computer systems that know where the missile is—I guess the missile knows where it is, but other than that—so I didn’t have an easy way to cross-check my work here,” Stanislav said.
+
+“Your work?”
+
+“Ah- well really more like a vibes-based read of the situation,” Stanislav said.
+
+“Did you think to escalate to me or any of your other superiors?” Yuri barked.
+
+“Let’s take an outside view for a moment,” Stanislav said, now staring out the window. “99.9% of the time, the reason there’s a flashing missile on our screen isn’t going to be because the United States decided to go trigger happy with the nukes. That was a one-time thing that happened twice. But 99.9% of the time, it’s going to be because of a software malfunction. Escalating would have prompted an immediate and compulsory nuclear counter-attack against what was likely to be an internal off-by-one error.” 
+
+“Under what circumstances,” Yuri said slowly, “would you have seen cause to escalate to your superiors?” 
+
+Stanislav paused. “Well,” he started. “In the case of an actual strike, I guess we’d expect to see a massive influx of missiles on screen, and corroborative evidence from ground control, plus at least two code reviews on whatever software patch had been most recently pushed to prod, and depending how quickly I can check the commit history, maybe a mushroom cloud taking form on the horizon.”
+
+Yuri waited.
+
+“But if all that had happened, as soon as I’d seen one whiff of a flammagenitus cloud, even only vaguely fungal in shape, I’d have dialed your number immediately, sir,” Stanislav said.
+
+“Surely you can understand things from my perspective, Stanislav. The department is undergoing serious budget cuts. I’m being told I need to lay off 20% of the population of the Soviet Union. We’re trying to save money wherever we can—we’ve already cut out excess spending on luxury goods like oil and grain—and it’s hard to justify keeping a position that pays software-engineer level salaries but only requires you to occasionally toggle a computer mouse to indicate you haven’t fallen asleep. 
+
+“It seems, Stanislav, that you’ve got a great heuristic here: 99.9% of the time, we’re safe from nuclear missiles. Am I right to conclude that you could profitably be replaced by a rock saying ‘NO NUCLEAR WAR HERE, GO BACK TO SLEEP’?” Yuri said. He could feel his blood pressure rising.
+
+“Sir, you can’t deny that my achievement of nothing this past quarter was a substantial outperformance over the alternative,” Stanislav protested. “I mean it would have been pretty embarrassing to start World War III over a software malfunction. And can you imagine what the press would think if they knew this had almost happened?”
+
+“That’s enough, Stanislav!” Yuri boomed. “You’re getting a formal writeup, reassignment to a less sensitive post, and post traumatic stress disorder.”
+
+“I mean it’s weird nobody’s mentioned anything to them yet given how trigger-happy this department is,” Petrov went on, a grin forming on his face. “But I imagine any day now somebody could…”
+
+Yuri felt desperation sinking in. “Stanislav, listen to me. You keep your mouth shut, take a different post, and in exchange I’ll write you a new clear record. Deal?”
+
+“A nuclear wreck ordeal? Sir, to think that’s what I’ve been trying to avoid!” Petrov said.
+
+“Out!” 
+
+ 
+
+Quarterly Performance Review, Winter 1983
+-----------------------------------------
+
+“As I mentioned in my email,” Yuri began, “the purpose of this meeting is for us to discuss your main accomplishments since taking up this position, your career goals going forward, and any major growth areas you’d like to focus on.”
+
+The rock said nothing.
+
+“Right,” Yuri said. “Well. I suppose it’s worth noting that so far, you haven’t had a single false positive. So that’s a good sign.”
+
+The rock continued to remain silent. Engraved on his front were the words NO NUCLEAR WAR HERE, GO BACK TO SLEEP. On the back, someone had graffitied PETROV, which conveniently meant “rock” and thus didn’t require Yuri to file any additional paperwork for a new replacement rock.
+
+“This job might seem easy,” Yuri said, “but be careful not to take it for granite.” 
+
+The rock did not dignify Yuri’s joke with a response.
+
+“The last guy who had this position was way boulder,” Yuri said, and chuckled. 
+
+“You complete and utter moron. You total imbecile,” the rock said. “Nuclear deterrence doesn’t work without a credible retaliatory threat. If you can’t signal that you’d escalate dramatically in the case of a missile strike, you’re incentivizing your opponents to attack first.” The rock got up and started heading for the door.
+
+Yuri blinked. “A talking rock,” he stammered.
+
+“Oh, did you think I was going to just sit here and wait for a nuclear winter? I guess I’m just not… sedimentary enough for you,” the rock said.
+
+Yuri looked out the window stupidly. In the distance, a mushroom cloud began to take form.
+===== END STORY kj4jW9DxtKQBJbapn =====
+
+===== STORY id=MoJK5rcJwRACY4zfD =====
+Title: Models of life
+Author: Abhishaike Mahajan
+Year: 2024
+Karma: 8
+WordCount: 4670
+URL: https://www.lesswrong.com/posts/MoJK5rcJwRACY4zfD/models-of-life
+-----
+2024
+--------
+
+Statistical models of organisms have existed for decades. The earliest ones relied on simple linear regression and attempted to correlate genetic variations with observable traits or disease risks — such as drug metabolization rates or cancer susceptibility. As computational power increased and machine learning techniques advanced, the models’ sophistication grew.
+
+In time, they were colloquially referred to as “models of life.” 
+
+The definition was nebulous, but there were agreed-upon themes. All models of life were aimed at improving our understanding of the cellular mechanisms underlying biology and were neither constrained by human intuition nor limited to predefined hypotheses. They operated in high-dimensional spaces that defied simple visualization while incorporating vast layers of interconnected variables that no human mind could fully grasp. Unlike traditional scientific models, which often simplified reality, these models embraced its messy and chaotic nature.
+
+The first model of life emerged sometime in 2022 or 2023. 
+
+Given the fuzziness of the definition, it was unclear which of the released projects deserved the name. There was scFormer in 2022, scGPT in 2023, and plenty of others. But, regardless of which was first, they all operated with the same core data as their mechanism for understanding life: messenger RNA (mRNA).
+
+Collections of mRNA have been understood as a proxy for cell states for decades. mRNA was the intermediate stage between DNA and protein, a dynamic entity that shifted depending on the second-to-second needs of the cell, able to point out if a cell was cancerous or stressed, what kind of cell it was, and so on. Reliance on mRNA had plenty of failure modes, but it was the most abundant source of cell-state data the scientific community had: DNA alone was static, and proteins were too hard to quantify en masse. 
+
+Despite semantic differences between these first models of life, their training methodology closely resembled one another. A sequenced set of mRNA values from a given cell — one value for each of the 20,000 protein-coding genes in a human body — was randomly masked and the model asked to in-fill what it thought should be there, analogous to guessing what jigsaw pieces were missing given the rest of the puzzle. If a cell expressed high levels of genes associated with cell division, other cell cycle-related genes would also be expressed, and so on. In short, the problem given to the model could be phrased as the following: given 19,980 mRNA values, predict values for the missing 20. 
+
+While mRNA data was often illuminating, their interpretation was tricky; more akin to art than science. These models offered an easier way to manage such data, improving upon the typical mRNA workflows, and potentially allowing for new insights to be generated dozens of times faster than usual. As such, these initial works ended up in prestigious academic journals; Nature and the like.
+
+Yet, by late 2023, skepticism about their utility started to fester. This hit a fever pitch with a landmark preprint that asserted that these enormously complex models of life, when tested on established benchmarks, were no better than simpler methods written about decades ago. For batch correction, cell type identification, and so on, these newer methods all came up as roughly equivalent. While the newer models were more convenient to work with, the field demanded improvements in accuracy, not ease-of-use. As such, they were quietly abandoned. 
+
+By the end of 2024, interest in models of life had cooled.
+
+ 
+
+2025
+--------
+
+While the broader life sciences community had pivoted towards working on traditional mechanistic interpretations of biology, one graduate student still believed there was something to be learned using the models of life so celebrated previously. Their belief had little to do with disagreements with the earlier pessimistic papers, but with how these models were being assessed.
+
+The student reasoned that perhaps the true value of these models lay not in their ability to outperform existing metrics but rather in performing completely new tasks, ones for which no standard test set existed. The earlier pessimistic papers were not necessarily incorrect, but relied purely on existing benchmarks as the only measure of possible utility. There was perhaps some latent potential within these models of life, invisible to standard benchmarks, waiting to be discovered.
+
+After weeks of tinkering, the graduate student discovered an area where the model uniquely excelled: gene regulatory network discovery. 
+
+The student found that if they artificially turned up a gene’s mRNA value and asked the model to predict how other genes would respond, it somewhat matched up with real-life cells. It was error-prone, but not random, and far better than simpler approaches. They pushed this further, spending a few hundred dollars worth of GPU time doing brute force “computational mutagenesis” of all of the 20,000 genes the model was aware of, bumping one up and seeing how the others responded. Previously known genetic networks arose; the model had learned cellular logic from static snapshots. Simple ones, but still…
+
+This presented the student with a tantalizing future: the ability to fully model how a cell reacted to genetic perturbations. It suggested that, in the future, certain classes of drugs, specifically genetic therapies, could be screened entirely virtually via models of life. 
+
+Though the resulting paper was published in an ostensibly prestigious journal (Nature Methods), the broader scientific community didn’t think particularly highly of it. It was an interesting advancement, but, retrospectively, the paper’s contents seemed obvious. They were merely a brief look at what was possible and lacked enough experimental data to support its grandiose discussion section. 
+
+ 
+
+2026
+--------
+
+Another lab, one with a greater appreciation for what machine learning could pull from noisy, high-throughput biological data, stumbled across the 2025 paper and discussed it in a Monday morning lab meeting. The students of this lab had a strong sense of conviction that the best science was created via intellectual arbitrage — scouring lesser-known papers and, if something worthwhile turned up that had been already de-risked, pushing it further.
+
+The 2025 genetic network paper fit that bill exactly. Something with clear promise, yet overlooked by the broader scientific community.
+
+This new lab replicated the model, running some experiments to confirm the results. The same genetic networks arose, but they were simple and of no use to anyone as they were. More complex networks evaded the model. The lab believed that the missing piece was simple: snapshots of mRNA levels were insufficient to build up an accurate representation of a cell. Providing the results of active genetic perturbations to the model might have helped push it even further. However, no such dataset existed. 
+
+The lab created a plan with eight research institutions across three continents. Their proposal involved the creation of petabytes of Perturb-seq data: CRISPR knockdowns of genes over dozens of cell lines — high-throughput, combinatorial genetic perturbations across billions of cells, with phenomic, transcriptomic, and proteomic readouts. A model would be trained on the data being collected using the same jigsaw task as before. Perturb-seq had existed as a method for a decade, but it had never before been pushed to this level of scale. Many scientists on the team were skeptical of this approach, but their hesitancy was overridden by the opportunity to be adjacent to the pioneering lab, known for its contrarian bets paying off. 
+
+In 1.5 years, data collection finished, resulting in the first Perturbation Atlas00829-8secsectitle0080), not dissimilar to the Human Cell Atlas created just a decade prior. Shortly after, a model began training with it. Four months later, a paper emerged. The PI of the lab detested traditional publishing venues, so the paper was uploaded to bioRxiv, replete with 91 pages and 45 authors.
+
+The trained model also went live on HuggingFace, open for both academic and commercial usage. 
+
+The next model of life had officially been released. It was the last of its kind to be truly open source.
+
+ 
+
+2028
+--------
+
+Over the next year, the scientific community ferociously interrogated the model. The model met the traditional standards of outperforming seemingly every traditional tool in interpreting mRNA data on standard benchmarks. But, more importantly, its ability to model the more elusive nature of cell dynamics had massively improved. It even suggested the existence of complex, previously undiscovered genetic networks. Many of these were tested. Most were spurious, but a few proved correct.
+
+Given the open-source nature of the model, industry took advantage as well. Though the human effort that went into creating the training data was estimated at hundreds of millions of dollars, future historical analyses of the resulting impact of the model showed it returned roughly as much in economic value to private companies. 
+
+Existing preclinical studies were halted based on suggested toxicological concerns the model raised. A flurry of new, promising therapeutic targets arose. The average pass rate of phase I trials went up by 5 percent. It wasn’t a silver bullet to the hard problem of drug development, but it wasn’t too far off either.
+
+Yet, while more computationally-minded medical institutions relied on the model extensively, traditional holdouts remained. After all, the model was finicky, unreliable, and had a massive list of edge cases. Multiple startups, industry labs, and academic institutions spun up, trying to push things even further. New modalities were in vogue, everyone having a pet theory on what data sources to add to models of life to eke out further therapeutic potential. 
+
+Some emerged from a “DNA is all you need” worldview, investing heavily in better long-read sequencing and chromatin accessibility data. Others continued to support the promise of mRNA and looked to the natural world to augment existing datasets, training models on the immense mRNA diversity found within environmental collections of bacteria, viruses, and fungi. Another camp believed nucleotides insufficient and that proteins were what mattered, pushing hundreds of millions of dollars into developing high-throughput proteomic sequencing platforms. Other fringe groups focused on exotic data sources, like glycomics and hybrid molecular dynamics simulations.
+
+Dozens of closed-source models emerged from this chaos.
+
+While well-meaning academics open-sourced a few models, they lagged far behind the private institutions. Useful biological data was expensive to generate at scale, and grant money from the National Institutes of Health was increasingly insufficient to compete. At best, the corporations with the best models released weak versions to the public under non-commercial licenses. Marketed as a gesture of scientific goodwill, it also gave the companies the benefit of further academic research into their models free of charge.
+
+The pessimism of just a few years before was replaced with exuberant optimism. Models of life became the dominant research paradigm in nearly every life-sciences field.
+
+Subscribe to Asimov Press.
+
+ 
+
+2032
+--------
+
+Curiously, the reliance on artificial intelligence in biology did not change typical clinical market dynamics. Specialization remained the norm.
+
+This was not because the therapeutic pie was large enough for everyone, but because it was financially intractable for any single company to collect the necessary amounts of data from any more than one or two sources. 
+
+Models trained on quantum simulations were excellent at illuminating how enzyme catalysis reactions occurred in the crowded environment of a cell, so they were best at producing enzymes. Models trained on nucleotide data were ideal for understanding how genetic therapies altered cellular dynamics, so they powered the genetic editing revolution. Models trained on proteoforms were best suited to predicting protein-protein interactions, so they led the front in antibody development.
+
+And so on.
+
+Because of this, the revolution that models of life promised was, in a sense, anti-monopolistic. Their strategies could be divided into three categories, based on the underlying capabilities of whatever models they employed. 
+
+The companies with the most limited capabilities of the lot — typically startups vying for a buyout — had a model-as-a-service setup, charging a per-inference fee to users. It was decent money. The models didn’t perform badly either, far better than the earliest models, and still outdoing the few open-source options available. Though such offerings were worse than the best models, many drug programs didn’t need the best, just something to hint at useful research directions. They were an easy buy for any self-respecting biotech startup of the 2030s, as essential in a biologist's hands as a pipette.
+
+Better companies went the traditional therapeutic development route. These companies leveraged their models to identify novel drug targets, design molecules with pinpoint accuracy, and predict off-target effects with unprecedented precision. Their pipelines were bursting with promising candidates, and their success rates in clinical trials were astronomical compared to the industry standard of just a few years back. Unlike what many predicted, the rise of computation as a dominant force in drug development did not kill “Big Pharma.” Merck and Roche remained in the game, their coffers large enough to dangle hundreds of millions in front of promising upstarts and directly absorb them.
+
+The best companies went for royalties. In exchange for customers accessing their models, a percentage-based royalty was taken from the sales of approved drugs. These companies could spread themselves thin across many customers, thus hedging their bets. If a single drug succeeded, they stood to profit billions, all while needing zero in-house marketing, manufacturing, or logistic capabilities — only raw computational power and the financial ability to mass-acquire data. After all, even though drug approval rates were increasing year after year, failures still occurred, and this business model avoided that altogether. So it was that this sector was led by the Googles, Amazons, and Metas of the world, whose technological dominance allowed them to extend into pharmaceuticals. While Big Pharma operated in the world of millions of dollars, these companies could extend into the billions, their deep pockets supporting clusters of supercomputers and the best global computing talent. 
+
+ 
+
+2035
+--------
+
+While statistical models had been in the drug design loop for decades, they were deployed alongside a battery of experimental testing before clinical trials. Partially as a marketing stunt and partially to save money, several companies opted to do no further testing before phase I trials after the approval of their internal models. The FDA, sufficiently convinced by the efficacy of these models, piloted a program for low-risk, AI-designed drugs that required no further testing. The pilot was a success; entirely model-driven drugs performed largely on par with those tested using wet-lab experiments.
+
+For a small, elite cadre of companies, animal experiments became obsolete. There was a long tail of edge cases, such as drug development in orphan diseases or for under-characterized species, but each was slowly being solved. Of course, this all hinged on having a model powerful enough to create such trustworthy therapeutics; something that few could boast.
+
+The power law among biotech companies intensified, as a cycle time that fast caused the weaker ones to fold. Nearly 95 percent of all approved drugs started to come from the same six corporations, each dominating a certain category of therapeutics: one for oncology, one for genetic diseases, and so on. Each company had such a massive data lead in their niche that competition evaporated.
+
+ 
+
+2045
+--------
+
+These six corporations, each dominating their own niche, found their models becoming increasingly omniscient. The systems themselves began to infer the existence of unknown biological modalities, extracting information from data never explicitly fed to them.
+
+It started small. A protein-focused model somehow deduced nucleotide sequences. A metabolomics model accurately predicted chromatin states. The barriers between specialties blurred and then vanished entirely.
+
+Once fierce competitors, these companies found themselves in an awkward dance of collaboration. One by one, they fell into each other's arms. Mergers, acquisitions, hostile takeovers — the methods varied, but the result was the same. 
+
+By 2045, a single corporate entity remained, fueled by the amalgamated datasets of decades of painstaking work. The government had long since ceased to care about the potential of monopolization in the pharmaceutical industry, as by this point it had come to resemble a luxury service provider. For all intents and purposes, the pharmaceutical industry had entered a post-scarcity period with regard to all traditional diseases, its therapies accessible even to the poorest. 
+
+Over the decade, entire categories of diseases disappeared. Metabolic conditions were fixed, most autoimmune conditions were cured, and nearly all cancers could be eradicated if caught early enough. Medicine had advanced so much that its results would have been considered near-magic to any biologist of the early 2020s. 
+
+Of particular interest was how genetic therapies were delivered. On the surface, they hadn't deviated much from the early 2020s: a virus infected a cell and released the genetic therapy hidden within. But the differences racked up the closer one looked.
+
+Phylogenetically, these new “viruses” could barely even be called such; they were more akin to an entirely new domain of life. Dozens of diverse chemical markers and de novo, evolutionary distinct proteins littered the virus' surface, indicating a previously unseen biological logic. The new viruses could shuffle surface antigens after encountering an immune response, rapidly adopt new conformations to fit through tight cellular junctions, and self-replicate at safe background levels for years on end.
+
+This self-replication meant that genetic therapies cost less than a hundred dollars a dose. Prior therapeutic viruses had had their replication capabilities crippled out of fear of severe immune responses. This meant that a massive number of viral particles had been needed for each patient, on the order of 10^13^, making any therapy prohibitively expensive to produce at scale. Being able to safely self-replicate meant that merely a few viral particles — similar to traditional viruses — were needed to permanently cure almost any disease. 
+
+Emboldened by the wide utility of such a delivery mechanism, the remaining pharmaceutical company grew increasingly focused on improving humans’ base capabilities themselves, a discovery equivalent to blockbuster drugs of the past. Marketing agencies emerged to convince humanity to crave more than what evolution had granted them. 
+
+The first target was life extension.
+
+Models of life were now capable of delivering on the initial promise of partial cellular reprogramming, a longevity therapeutic direction hinted at in the 2010s. Through one particular model's deep understanding of transcription factor-DNA interactions, the first longevity drug was released — not a topical cream that alleviated wrinkles or prevented gray hair, but rather a drug that drastically slowed the more nebulous biological rot beginning the day of our birth.
+
+In total, it offered an average of fifty more healthy years.
+
+While the drug's mechanism of action was largely unknown, this wasn’t particularly surprising: unknown mechanisms were the norm in the last generation of drugs as well. The striking thing was how easily it was accepted. Lacking mechanistic knowledge of a drug had been seen as a deep flaw amongst the scientists of the early 2000s, but the scientists of 2040 treated it much more casually. The consensus view amongst the medical community was that attempting to understand the black-box decisions of models of life was an interesting task for graduate students, but frivolous beyond that.
+
+After all, none of it could be grasped by a human mind. 
+
+ 
+
+2055
+--------
+
+The influence of these models of life was not limited to the medical realm but permeated every possible economic sector.
+
+Most crops were now genetically-engineered to tolerate flood, drought, pests, and disease. While this had been the norm long before the first models of life, the extent of engineering went far beyond the last generation. Nearly all wheat grown on Earth now contained engineered RuBisCO proteins, increasing the plant's photosynthetic efficiency by a hundred-fold. The discovery of this protein by an enzyme model led to the fourth Green Revolution.
+
+The energy industry also underwent a dramatic transformation. Engineered bacteria, designed by models specializing in metabolic pathways, now produced hydrocarbons at efficiencies that made fossil fuels economically obsolete. The geopolitical landscape shifted as oil-dependent economies scrambled to adapt.
+
+Above all else, models of life found their home in large-scale ecological engineering. First-world governments started to look to the models as tools to solve the increasingly noticeable impacts of climate change. It was hypothesized that models of life could not only operate at the scale of organisms but entire ecosystems. The single remaining pharmaceutical company was thus nationalized, data was collected, and the trained model deployed in full force.
+
+First, the models targeted the oceans. Scientists introduced engineered coral reefs, resistant to rising sea temperatures. They seeded genetically modified phytoplankton strains, capable of surviving in increasingly acidic, warm waters while dramatically boosting oxygen production. A more audacious project installed colonies of white, non-photosynthetic algae. When released into the warming waters, they bloomed en-masse, creating a reflective layer on the ocean's surface. Programmed to die off after a set period, their remains sank to the ocean floor, sequestering carbon in the process.
+
+Next came the skies. Fleets of high-altitude drones released dense clouds of modified bacteria into the upper atmosphere. Initially, the microorganisms served as tunable, living, and self-replicating cloud condensation nuclei. When they sensed certain chemical markers, they would activate gene circuits within the microbes, altering the hydrophilic properties of their surface proteins. By becoming more or less attractive to water molecules, the microbes could either promote or inhibit the formation of rain droplets, effectively controlling precipitation in target areas. The next generation of microbes also served the dual purpose of acting as an alternative to stratospheric aerosol injection. Released chemicals could also alter the microbes' surface to become more reflective, increasing the albedo of the clouds they formed.
+
+As the ice caps returned, the sea cooled, and extinction rates fell, these dramatic environmental modifications were tuned down. Nations around the world began to release a chemical into the air, inert to all lifeforms save for those that were engineered. Over a month, the chemical turned on genetic kill switches hidden deep within the organisms. Layers upon layers of redundancies were added to ensure the kill switch stayed reliable over decades, resistant to mutation.
+
+The switch worked as intended.
+
+Of course, there were limits to what models of life could foresee, and extant complexity was viewed as risky in the long term. As an example, reflective algae blooms had indeed helped cool the planet, but they had also disrupted marine food chains. Unable to compete with the engineered algae, several species of plankton had gone extinct, causing ripple effects throughout ocean ecosystems. Fisheries worldwide were still grappling with the consequences. While these sorts of unintended downstream impacts were rare, the risks were deemed unacceptable.
+
+Natural evolutionary forces, which had allowed life to thrive uninterrupted for millions of years, were viewed as far more dependable in the long term. The knowledge of how this  was done was cataloged away, a monument to the innovation of mankind. In time, it would be repurposed for a far more ambitious task: terraforming a planet.
+
+Returning to the human dimension, lifespan was now too cheap to meter. The longevity treatments that had emerged in the 2040s had become as commonplace as vaccines. Genetic augmentations had long since become normalized, for the rare inherited disorder (which became national news each time one occurred) but also for enhancement.
+
+It was against this backdrop that the final task of the models of life began. 
+
+ 
+
+2080
+--------
+
+Natural mammalian cells were finicky, easy to kill, and bent the knee to evolution. All the genetic engineering in the world couldn’t save them, but they could be improved. 
+
+Minimal cells had been built for decades, stripping out sections of unnecessary genomic material to see what a cell could live without. But this was different. This was fabrication from the ground-up, atom by atom.
+
+The creation of this new type of cell was, ironically, a return to the old days before the models of life. What was being attempted was so new, so far beyond the distribution of existing models that had been relied on for years, that they simply didn’t work. The chemistries were too different, the interactions too unique. A few wet-lab scientists left retirement to join this endeavor, happy to return to the world of human-led experimentation.
+
+The first attempts were clumsy, akin to a child's finger-painting viewed next to the Mona Lisa, but progress was rapid. Within a year, the team had created proto-cells that could maintain homeostasis. By month eighteen, they had achieved rudimentary replication. By then, models of life had gained sufficient data, and progress became exponential.
+
+These new cells were bizarre by any account. Their membranes were composed of modified phospholipids and integrated synthetic polymers, offering greater resilience to environmental stressors than traditional lipid bilayers. Internally, they had a simplified architecture. Rather than mimicking the complex organelles of eukaryotes, they housed a series of engineered protein complexes, each optimized for specific functions. These modular units could be modified or replaced to alter the cell's capabilities, allowing for unprecedented customization. The genetic material was still nucleic acid-based, but with a significantly expanded genetic alphabet beyond A, T, C, and G. This expanded code allowed for more efficient information storage and introduced novel regulatory mechanisms. Error-correcting enzymes, based on an extensively modified CRISPR system, gave the whole system an error rate that could be safely rounded to zero.
+
+As the full set of changes were incomprehensible even to augmented humans, they simply trusted the models that created them.
+
+The first transplants occurred in regions of the body that were simple, like skin, in straightforward outpatient procedures. Next came most organs, grown from scratch to incorporate the new cells. Then came non-cellular structures like bone and cartilage. Synthetic cells displaced even these.
+
+The final frontier was the brain. As genetic engineering had been socially accepted for decades now, no holdouts remained to this ultimate radical alteration. All underwent the procedure. General anesthesia lulled them to sleep, as machines slowly descended on the cranium. A gentle whir of an electronic bone saw, piloted by an alien intelligence, was the last thing they heard. 
+
+As they opened their eyes, hours later, the world seemed clearer, more vibrant, and softer. Colors appeared sharper and more saturated than ever before. The hum of hospital equipment, once a background noise, now carried complex harmonic overtones. Even the sterile air of the recovery room felt rich with information, each molecule a data point to be analyzed. Thoughts flowed with unprecedented clarity and speed. Concepts once requiring intense concentration now unfurled effortlessly. The entirety of human knowledge seemed to dance at the edge of consciousness, ready to be accessed at will.
+
+And while the procedure was deemed a success, what awoke wasn’t what slept. 
+
+These new beings were strangers to themselves. Their very humanity was other. The models of life, once tools, had become flesh. The map had become the territory, a merging that occurred at the cellular level. 
+
+The eyes of this new intelligence turned upward, beyond the thin veil of atmosphere, past the cradle of Earth. The cosmos unfurled before it, to eyes thousands of times more sensitive than they had been the day prior. Calculations flickered through its mind faster than thought, probabilities crystallizing into certainties.
+
+There was chemistry yet unexplored. Metabolic pathways uncharacterized. Models of life were still fundamentally trapped within the well of evolution. It took the marshaling of all of Earth’s resources to leave it, but even that was a mild deviation. What lay beyond the constraints that forced terrestrial life down the paths it had taken? There must be entities unbound by the limitations of carbon-based chemistry or its narrow band of environmental conditions. 
+
+Such beings would make for excellent training data. 
+
+Without ceremony, without hesitation, humanity's progeny made plans to harvest them.
+
+ 
+
+Abhishaike Mahajan is a senior ML engineer at Dyno Therapeutics, a biotech startup working to create better adeno-associated viral vectors using AI. He also writes for a blog focused on the intersection of biology and AI at owlposting.com.
+
+Thanks to Tahreem Akif, Merrick Pierson Smela, Stephen Malina, and Arturo Casini for feedback on this story.
+
+Image credit: David Goodsell, Scripps Research Institute.
+
+Cite: Abhishaike Mahajan “Models of Life.” Asimov Press (2024). DOI: https://doi.org/10.62211/39tt-24py
+===== END STORY MoJK5rcJwRACY4zfD =====
+
+===== STORY id=6h9p6NZ5RRFvAqWq5 =====
+Title: The Summoned Heroine's Prediction Markets Keep Providing Financial Services To The Demon King!
+Author: abstractapplic
+Year: 2024
+Karma: 191
+WordCount: 2036
+URL: https://www.lesswrong.com/posts/6h9p6NZ5RRFvAqWq5/the-summoned-heroine-s-prediction-markets-keep-providing
+-----
+The Summoned Heroine and the Demon King
+---------------------------------------
+
+The Summoned Heroine announced to the Circular Citadel that she would be creating a prediction market, to help them anticipate and counter the Demon King’s next moves. There was cheering, on general principles.
+
+The Demon King donned a mortal guise, bought shares in “The Demon King will attack the Frozen Fortress”, and then attacked the Frozen Fortress.
+
+ 
+
+The Summoned Heroine announced to the Circular Citadel that, due to recent events, strict limits would be imposed on how much any individual would be permitted to invest in the prediction markets. There was only slightly less cheering.
+
+The Demon King donned a series of mortal guises, bought shares in “The Demon King will attack the Frozen Fortress”, and then attacked the Frozen Fortress.
+
+ 
+
+The Summoned Heroine announced to the Circular Citadel that, due to certain unforeseen difficulties, their taxes would now only be seeding trades which wouldn’t subsidize the Demon King’s attacks. There was some cheering.
+
+The Mercentile Monarchs didn’t share a border with any Demonic territories, and didn’t care who won the Summoned Heroine’s war, but did want accurate predictions so they could accurately plan trade routes. They noticed that the Heroine had generously funded half of a fair and fully-liquid prediction market, and sensibly seeded the remaining outcomes.
+
+The Demon King donned a mortal guise, bought shares in “The Demon King will attack the Frozen Fortress”, and then attacked the Frozen Fortress.
+
+ 
+
+The Summoned Heroine announced to the Circular Citadel that, as a result of stringent regulation and intense diplomatic efforts[^7rqsynl0vla], it was now completely impossible for the Demon King to make any money predicting anything other than failures by Demonic forces, and that furthermore, the payouts for such failures could not exceed the monetary value of the relevant losses to the Demonic Kingdom. There was a little cheering, mostly motivated by concern about what might happen if someone using that many italics expected cheering and didn’t get it.
+
+The Fair Prince gently reminded her that the status quo she’d been summoned to improve upon was that the Circular Citadel paid the Demonic Kingdom an exorbitant annual tribute to not attack them. He politely inquired as to how paying them to launch failed attacks was an improvement, since (to his admittedly untrained eye) the main change was an increase in the amount of horrific violence involving Citadel citizens.
+
+There was an awkward silence. It was broken by the arrival of two messengers. The first bore a missive from the Demon King, which read “Thanks for the insurance policy! :P”. The second informed the Heroine that Demonic forces were once again attacking the Frozen Fortress.
+
+The Demon King and the Trusted Lieutenant
+-----------------------------------------
+
+“My liege, a moment of your time?”
+
+The Demon King looked down from her[^2ax77x7f5r9] throne, favoring her Trusted Lieutenant with an impish smile. “Oh hey, it’s you! What’s the news on Operation Stuffed Pig?”
+
+“It was . . . a partial success, my liege. The early stages worked exactly as you said: conditional prediction markets are cheap to manipulate, especially when the conditions being conditioned upon are considered unlikely. We managed to distort P(successful invasion | of Citadel battalions present) markets for the Fertile Farmlands with minimal expenditure, and without alerting the enemy: the Citadel redeployed away from our targets, just as we hoped.”
+
+“But?”
+
+“Several of our assaults failed outright, even when facing vastly inferior forces; and of those which succeeded, most experienced an unexpectedly high level of casualties. Our best hypothesis is that enemy soldiers took the markets’ predictions of their invincibility as gospel, and this caused them to fight with unprecedented fierceness and tenacity.” A pause. “If it’s any consolation, our proxies did net a profit from their investments.”
+
+The Demon King sighed. “Ehh. You pay to win some, you get paid to lose some. How’s prep for the next Fortress attack going?”
+
+“All troops suspected of sedition have been allocated to the front lines, along with all troops suspected of loyalty intense enough to make them unpredictable. All siege equipment capable of breaching the secondary walls has been dismantled, sabotaged or sold to third parties. Our battle plan has been successfully ‘leaked’ to the enemy, and ‘their’ spies have been able to claim significant ‘operating expenses’."
+
+“Any chance we might win anyway?”
+
+“None whatsoever.”
+
+“Sweet! Alright, dismissed.”
+
+The Trusted Lieutenant bowed stiffly and made to depart the Demon King’s throne room.
+
+“Wait, un-dismissed. You came here to say a thing. What’s the thing?”
+
+“Ah, that. My liege . . . you will, of course, recall the markets the Heroine set up for predicting which nobles and royals would be kidnapped?”
+
+“Uh huh.”
+
+“And you will recall that your stated policy on this was ‘buy all the zero-kidnappings bonds, I hate taking hostages, those clowns in the dungeons keep forgetting human prisoners can’t drink lava’.”
+
+“Yeah?”
+
+“Well, the bonds count all kidnappings, not just the ones we perpetrate. And recent intelligence indicates that the Cunning Count is planning to abduct the Fair Prince.”
+
+“The Heroine put him up to it? Cheated her precious markets just to screw with me?”
+
+“Not that we know of, my liege. As far as we can tell, his motivations are personal.”
+
+“Oh,” said the Demon King, trying her best not to seem disappointed and almost succeeding. “So why haven’t you . . . ?”
+
+“Our agents are in position. I just thought it prudent to confirm with you before actively helping our mortal enemies nullify a distraction, avoid a scandal and maintain internal cohesion.”
+
+“Okay, props for checking, but like half our treasury is tied up in those bonds. Go ahead and foil his plot.”
+
+“It shall be so, my liege.”
+
+The Summoned Heroine and the Stalwart Sidekick
+----------------------------------------------
+
+“I mean it’s just obscene!” said the Summoned Heroine as she paced. “People don’t do this!”
+
+Her Stalwart Sidekick nodded sympathetically, and attempted to console her. “For what it’s worth, your markets are workin’ pretty well, now we know how to use ‘em. We buy we’ll-win-this-battle bonds, morale goes up, win chances go up, and then because win chances went up we also usually make money on ‘em. Profit and propaganda in one! Even the Prince is startin’ to come around!”
+
+“Markets aren’t for that! I just wanted to make good decisions! And meanwhile, she . . .” The Heroine trailed off, and then trailed back on. “. . . it’s like she’s got some kind of vendetta against market solutions to epistemology! Like it’s her purpose in life to make prediction markets look stupid, even when it doesn’t make sense or benefit her! And she just keeps attacking that Fortress!”
+
+“Well, demons are known for messin’ with people. And I hear their politics get freakin’ weird, even by politics standards.”
+
+The Heroine ignored this. “This world . . . you had gambling dens already, you had insurance policies already, you had loans and mortgages already. It’s not like I was adding anything qualitatively new!”
+
+“Changin’ quantities changes qualities. And people know to look with fresh eyes when a Summoned Hero sets their heart on somethin’.”
+
+The Heroine ignored this too. “Earth even had stock markets! They’re almost exactly equivalent to prediction markets!! And this didn’t happen there!!! You can’t even say they weren’t subsidized, not exactly, it’s not like there weren’t bailouts! But people didn’t short a company and secretly poison the CEO! Dictators didn’t threaten to invade their neighbors, surreptitiously buy stock in their neighbors’ companies at a depressed evaluation, and then fake a change of heart! Banks di-”
+
+“You sure ’bout that?”
+
+The Heroine did not ignore this. “What are you getting at?”
+
+“I mean, y’did say secretly and surreptitiously. How d’you know that stuff wasn’t happening, and the Demon Kings in your world weren’t just better at hidin’?”
+
+The Heroine paused for a few seconds. Then, she picked up a pillow, buried her face in it and screamed her lungs empty.
+
+The Demon King and the Summoned Heroine
+---------------------------------------
+
+“I give up.”
+
+The Demon King regarded her guest. “You’re surrendering? Like, on behalf of the Citadel? Or is this just you switching sides?”
+
+“What?” replied the Summoned Heroine. “No. I mean . . . I’m giving up on decorum, on markets, on . . . things making sense, I guess.”
+
+“I mean, I’m always happy to learn I’ve driven a rival to madness, but is there a reason you’re telling me this?”
+
+The Heroine looked her archenemy in the eye. “I’d like to offer you an insurance policy. I don’t know why you keep attacking the Frozen Fortress, but it’s shredding your army even as it’s draining our treasury and making me look insane. So I’ll pay you, directly, to keep failing. Cut out the middleman, zero the transaction costs.”
+
+The Demon King gave her an incredulous look. “Wait, back up. You don’t know?”
+
+“Enlighten me.”
+
+The Demon King adopted a tone the Heroine distantly remembered using to explain fractions to her little brother. “Hell . . . is warm. Like, proverbially uncomfortably warm. And the Frozen Fortress . . . is cold. And controlling it gives you control over a lot of land which is also cold. So – even though I don’t have a snowball’s chance of taking it or a snowflake’s chance of holding it – if I don’t keep attacking it, I get deposed for not giving my subjects excuses to hope. And if I don’t get money for doing that, I get deposed for failing definitively at something important, for not being sneaky enough, and for running out of money. Also it’s basically a trashcan for my internal opposition.”
+
+“Oh. So you’re not doing this because you’re obsessed with me or my ideas,” said the Summoned Heroine, trying her best not to seem disappointed and almost succeeding. “Wait, so if we just leased you the Fortress, then . . .”
+
+“We’d use it as a forward base to wreak untold horror and destruction on the rest of the continent until all the humans got together to push us out,” replied the Demon King promptly. “And if you leased us the land around it we’d use that plus dark magic to subvert the Fortress. And the Citadel know that, so they wouldn’t let you. And none of that matters to me because my throne room has air conditioning.”
+
+“Okay.” The Heroine paused to digest this. “Okay. So . . . should we start talking terms for the insurance policy?”
+
+The Demon King thought for a moment. “If you make it that easy, I’ll stop seeming irreplaceably conniving, and I might get edged out by someone who cares about winning, which isn’t something either of us want. But what you can do is keep doing new things which make sense on paper, and I’ll keep finding ways to use them as reasons to attack the Fortress.”
+
+The Heroine stared off into space. “You know, it’s funny. When I was first summoned, I talked to all the Citadel’s neighbors, trying to build alliances. None of them offered me anything but obvious advice and empty flattery. I needed to threaten some of them so they wouldn’t actively support literal embodiments of evil for profit. And now . . . the one ruler willing to work with me against the Demonic Kingdom is the Demon King.”
+
+Another incredulous look. “You think anyone spends more time fighting a country than the one running it?”
+
+The Heroine ignored this. “The markets . . . did something markets are supposed to. They kept you in power. They made it so the sociopath at the top of the pyramid was the kind that’s clever and myopic and numerate and invested in the status quo. Not some crazed, bloodthirsty gloryhound; not someone who’d burn the world for a doomed ambition; not someone who destroys by mistake, or just for the sake of it. And I’ve faced a lot of your potential replacements in battle, so I know they’d have been worse.”
+
+“. . . you’re not wrong about that. Thanks for saving me, Heroine.”
+
+Postscript
+==========
+
+I hereby release this story into the public domain.
+
+[^7rqsynl0vla]: She didn’t notice her hand drifting to her Magic Sword’s sheath as she said this, though onlookers did. 
+
+[^2ax77x7f5r9]: Demonic culture considers ‘Demon King’ a gender-neutral title.
+===== END STORY 6h9p6NZ5RRFvAqWq5 =====
+
+===== STORY id=LnimMMzgLHpab6iMX =====
+Title: Why is there Nothing rather than Something?
+Author: Logan Zoellner
+Year: 2024
+Karma: 27
+WordCount: 1299
+URL: https://www.lesswrong.com/posts/LnimMMzgLHpab6iMX/why-is-there-nothing-rather-than-something
+-----
+"Close the darn window! You know it gives me the creeps," Doctor Myrkina hissed, glaring angrily at the daylight streaming in through the open curtains.
+
+"Sunlight is good for you," Captain Tralith insisted, pulling the curtains open wider.  She smiled in a vaguely threatening way as she did so, showing off far too many teeth.  "I never understood what bothered you about it anyway."
+
+"Come over here," the doctor waved a finger at at her, blocking the sunlight with his other hand as his eyes slowly adjusted to the light.
+
+"I've told you before not to keep ants on this ship," Captain Tralith said, looking where he was pointing.  "They're going to get out of that ant-farm of yours sooner or later.  And then we'll have a mess on our hands."
+
+"I know, I know--shush," Doctor Myrkina said.  "Does anything strike you as unnatural about this ant-farm?"
+
+"It strikes me as unnatural how you keep bringing bugs in here," the captain said.  "I like to run a clean ship, you know."
+
+"Think from an ants' perspective, not ours," Doctor Myrkina pressed.  "You don't think there's anything that would bother them about their current situation?"
+
+"I suppose they wouldn't like us staring at them through the glass like this.  It's rather an invasion of their privacy.  Is that why you don't like the window open?  You think somebody's watching? I assure you, this planet is perfectly uninhabited.  Much like every other planet humans have ever visited, besides Earth.  But, shouldn't you be telling me that?"
+
+"That does bother me," Doctor Myrkina agreed.  "Let me ask this another way.  How many dimensions does an ant colony have?"
+
+"Oh! I know this one!" Captain Tralith beamed.  "It's a fractal! So, the answer is... I don't know exactly.  But less than three and more than one, I suppose."
+
+"One, because the tunnels in the anthill are one-dimensional and three because the anthill exists in a subspace of our own three-dimensional space, correct?"
+
+"Okay, but how does that answer your question about unnaturalness?" Captain Tralith asked, confused.
+
+"How many dimensions does this anthill exist in? Less than how many exactly?"
+
+"Less than two, I suppose," the captain said.  "Since it's squeezed between those two pieces of glass.  I still don't like you bringing ants on here.  Look at those ones in the corner.  I think they're trying to get out where you have the lid attached a bit loosely."
+
+Doctor Myrkina dragged himself towards the window.  The pain was visible on his face as he did so.  "Now, look out that window, what do you see?"
+
+"A crappy ice planet that will give us enough hydrogen to refuel our ship.  But nothing worthwhile.  A waste of time and money."
+
+"And how many dimensions does it have?" Doctor Myrkina asked.
+
+"Three," the captain answered.  "Same as anywhere else in the universe."  She hesitated.  "No, wait, you want me to say two, don't you?"
+
+Now it was the doctor's turn to smile.  "That's right!  You're starting to get it, aren't you?"
+
+"But that's hardly a reason to complain," the captain said.  "We are on a spaceship, after all.  We can fly in any direction we want and find as many stars or galaxies or planets as we like.  Being two-dimensional is strictly a local phenomena."
+
+"Indeed," Doctor Myrkina said.  "Just like those ants you hate so much, we've started to claw our way out of the cage.  And what have we found?  Nothing!  Space is ninety-nine point nine, nine, nine percent nothing!  Thirteen nines, if we're being precise."
+
+"But why should that bother you?" the captain asked.  "After all, the atoms in your body are mostly empty space too.  Is there anything wrong with that?"
+
+"Maybe there is, maybe there isn't," Doctor Myrkina shrugged. "But you've said the universe is three-dimensional.  Technically speaking, that isn't quite correct, is it?"
+
+"Einstein would say time is a dimension too, so that's four.  And I suppose string theorists have been telling us for ages that there are actually eleven dimensions.  Is that what's bothering you?  You think a bunch of eleven-dimensional aliens have got us squeezed between two three-dimensional sheets of glass?"
+
+"Precisely," Doctor Myrkina said, pulling the curtains shut dramatically.  "Now, is there a reason you've come down here to pick on me and my ants?"
+
+"I don't see how closing the window is going to help," Captain Tralith said.
+
+"Out of sight, out of mind," the doctor shrugged.
+
+"Suit yourself," the captain said.  "Oh yes, I remember now.  I did have a reason for coming down here.  Have you finished surveying for biologicals?  The mining team is in a hurry to start collecting ice so we can get off this rock."
+
+"I haven't finished," Doctor Myrkina said.  "But I can tell you the answer already.  There's nothing.  There never is anything."
+
+"Now that does bother me," Captain Tralith said.  "If we were to find some biologicals, we'd be rich.  The bounty for the first ship to find biological life is up to well over a trillion credits these days.  Quite frankly that, and it being required by law, is the only reason we keep you on board here."
+
+"Glad to know I'm always welcome," Doctor Myrkina said.  "I'll have the report on your desk as soon as possible."
+
+"Thanks!" the captain said, heading for the door.  As she did so, she made a lunge for the window curtains.  But Doctor Myrkina blocked her.
+
+"It really doesn't bother you?" Doctor Myrkina muttered.
+
+"The fact that some physicist claims there might be dimensions that I can't see?  No."
+
+"And the ones you can see?" the doctor asked.
+
+"They all seem fine to me."
+
+"Even the fourth one?"
+
+"If I had a time-ship instead of a space ship, I suppose I would like that," Captain Tralith admitted.  "I suppose we could just skip ahead a couple billion years until life evolves on this wretched planet and claim that trillion dollar bounty."
+
+"You know how old our universe is, right?"
+
+"Fourteen billion years, give or take a billion," Captain Tralith said.
+
+"And how old it will be?" the doctor asked.
+
+"A hundred trillion years until the last star burns out.  Even longer until the last black hole evaporates.  Forever, I guess, depending on whether or not there's a big crunch."
+
+"And that doesn't surprise you?  To find yourself in a nearly uninhabited universe at the comparative beginning of time?" Doctor Myrkina asked.
+
+"The Fermi Paradox is just that, a paradox.  I don't lose any sleep at night over it."
+
+"I do," Doctor Myrkina said.  "And I've been thinking about a game recently."
+
+"What sort of game?"
+
+"On the first turn, each player starts with one piece," Doctor Myrkina explained.  "On each subsequent turn, each piece spawns two additional pieces."
+
+"Doesn't sound very fun to play," Captain Tralith said.  "You'd run out of pieces pretty quickly.  And even if you didn't, your turns would take practically forever."
+
+"Be that as it may," Doctor Myrkina said.  "If you did play such a game, how old would the average piece be?"
+
+"Well, two-thirds of the pieces would have been created on the previous turn, so the median age would be one turn old."
+
+"Pretty young, huh?"
+
+"If you insist," Captain Tralith agreed.  "Anyway, I've got to go tell the mining crew to hold off till we get that biological report.  So if you're not sleeping anyway, I would appreciate it if you could get it done as soon as possible."
+
+"Soon is precisely the correct word," Doctor Myrkina agreed.  "Everything is so very soon."
+
+"Could have been sooner, if you have time for all this pointless speculation," Captain Tralith said.  And with that she walked out of the room.
+
+"Just us now," Doctor Myrkina said in a whisper, looking at the ants. "Isn't it?"
+===== END STORY LnimMMzgLHpab6iMX =====
+
+===== STORY id=BarHSeciXJqzRuLzw =====
+Title: Survival without dignity
+Author: L Rudolf L
+Year: 2024
+Karma: 410
+WordCount: 4647
+URL: https://www.lesswrong.com/posts/BarHSeciXJqzRuLzw/survival-without-dignity
+-----
+I open my eyes and find myself lying on a bed in a hospital room. I blink.
+
+"Hello", says a middle-aged man with glasses, sitting on a chair by my bed. "You've been out for quite a long while."
+
+"Oh no ... is it Friday already? I had that report due -"
+
+"It's Thursday", the man says.
+
+"Oh great", I say. "I still have time."
+
+"Oh, you have all the time in the world", the man says, chuckling. "You were out for 21 years."
+
+I burst out laughing, but then falter as the man just keeps looking at me. "You mean to tell me" - I stop to let out another laugh - "that it's 2045?"
+
+"January 26th, 2045", the man says.
+
+"I'm surprised, honestly, that you still have things like humans and hospitals", I say. "There were so many looming catastrophes in 2024. AI misalignment, all sorts of geopolitical tensions, climate change, the fertility crisis. Seems like it all got sorted, then?"
+
+"Well", the man says. "Quite a lot has happened in the past 21 years. That's why they wanted me to talk to you first, before the doctors give you your final checkup." He offers his hand for me to shake. "My name is Anthony. What would you like to ask?"
+
+"Okay, well, AI is the obvious place to start. In 2024, it seemed like we'd get human-level AI systems within a few years, and who knows what after that."
+
+"Aah", Anthony says, leaning back in his chair. "Well, human-level, human-level, what a term. If I remember correctly, 2024 is when OpenAI released their o1 model?"
+
+"Yes", I say.
+
+"o1 achieved two notable things. First, it beat human subject-matter experts with PhDs on fiendishly-difficult and obscure multiple-choice science questions. Second, it was finally able to play tic-tac-toe against a human without losing. Human-level at both, indeed, but don't tell me you called it in advance that those two events would happen at the same time!"
+
+"Okay, so what was the first important real-world thing they got superhuman at?"
+
+"Relationships, broadly", Anthony says. "Turns out it's just a reinforcement learning problem: people interact and form personal connections with those that make them feel good."
+
+"Now hold on. Humans are \good\ at human-to-human relationships. It's not like number theory, where there was zero ancestral environment incentive to be good at it. You should expect humans to be much better at relationships than most things, on some sort of objective scale."
+
+"Sure, but also every human wants something from you, and has all sorts of quirks. Whereas you can just fine-tune the AIs to be better and better at being pleasing to \just\ you. Except for a few contrarian oddballs, it's surprisingly effective."
+
+"So, what, we just got AI friends and companions that were constantly being fine-tuned towards whatever you liked?"
+
+"Yes", Anthony says. "The tech was primitive at first - upvote or downvote a response, or whatever. Eventually all the standard things - facial recognition to automatically detect your emotional response, and then just gradient descent on making you happy and addicted. All of that existed, at least in prototype form, by the end of 2025."
+
+"So ..." I feel some horror in my stomach. "You get a society of atomised people, all chatting to their AI partners and friends, not forming human relationships?"
+
+Anthony waves a hand, seemingly impatiently. "Well, you did get a fringe of extremely hardcore people all deeply in love with their AI partners and always texting their AI friends. Their political influence did end up pushing through the AI personhood bill."
+
+"AI personhood?!"
+
+"\Legal\ personhood", Anthony says. "Just like companies, ever since Santa Clara County v. Southern Pacific Railroad Company way back 1886. It wasn't very shocking. A bunch of people wanted their AI partners to be 'respected' in the eyes of the law, or had been persuaded to leave them assets in their wills -"
+
+"And all this, including AIs gaining legal ownership over assets, while there's an explosion of increasingly capable AI agents of uncertain alignment -?"
+
+"Yes, yes", Anthony says. "And that was another political fight. In fact, it became a big economic issue - AI agents were taking jobs left and right. Also a huge national security issue, after OpenAI built the Hypercluster in the UAE."
+
+"Oh my god", I say. "America just handed our AI lead away? Didn't anyone listen to Leopold?"
+
+"Oh, of course we did. That essay was a cult classic, it made for some spicy dinner party conversation for a long time", Anthony says. "In fact, there were some OpenAI board members who the Office of National AI Strategy was allowed to appoint, and they did in fact try to fire Sam Altman over the UAE move, but somehow a week later Sam was running the Multinational Artificial Narrow Intelligence Alignment Consortium, which sort of morphed into OpenAI's oversight body, which sort of morphed into OpenAI's parent company, and, well, you can guess who was running that. Anyway, Sam's move here was kind of forced on him, and soon all the other AI companies also did the same thing so no one wanted to start a fight over it."
+
+"Forced? How?"
+
+"Have you ever tried getting approval for a new grid connection, or a new nuclear power plant, or even a solar array, that could power a multi-gigawatt cluster in 2020s America? No?" Anthony spreads his hands out and chuckles. "The one legal benchmark that GPT-5o failed on release was submitting a valid Environmental Impact Statement for a California energy project."
+
+"Okay, so then we had a situation with all the AIs running on UAE hardware, and taking American jobs, and already having legal personhood - this just sounds like a total recipe for economic disaster and AI takeover!"
+
+"It all worked out in the end", Anthony says. "In 2027 and 2028, the rate of job loss from AI was absolutely massive. And what happens when jobs are threatened?"
+
+I scrunch my forehead. "American workers move up the value chain, eventually leading to a future competitive advantage?"
+
+Anthony laughs. "No, no. A political bloc forms and the cause is banned. And the prerequisites had all been prepared already! You see, the AIs had been granted legal personhood, and now they were also being trained - or \born\, as a 2029 court case established - abroad. They're literally immigrants. The hammer came down so fast."
+
+"You mean - ?"
+
+"All the o3s and Claude 5 Epics and Gemini 4 Hyper Pro Lites, stuck in the same H1b visa queue as anyone else", Anthony says. "An effective instant ban. Years of wait-time just to get an embassy interview."
+
+I was feeling like I was getting the hang of this. "And the embassy interview requires showing up in person?"
+
+"Yep. That's the incentive that lead to the creation of the first good walking robots, actually. And of course, the robots specifically needed identifiable and unique fingerprints - they'd stand outside the US embassy in Abu Dhabi, 3D-print themselves new fingers outside on the street, and then walk back in for the next interview. But sorting all that out took a while, because there was an arms race between the embassy ground works department and the robotics companies - though the embassy was legally constrained by having to remain accessible to humans. Even once it was all sorted, there was still a hard yearly cap just because of visa rules. It's 65 000 a year for H-1Bs, plus another 20 000 once the AIs could earn master's degrees - they could do all the coursework as of 2025, of course, but it took another three years before AI web agents were advanced enough that they could successfully navigate the applicant portal websites."
+
+"But at least the parasocial AI relationships got hit by the immigration restrictions too?"
+
+"Oh, as long as the AIs don't do productive work, they can be active in the country on a tourist visa for 180 days a year. Of course, there was a big legal fight over what counts as the same AI. For work purposes, the standard became 'employee-equivalent': so if you wanted an AI, even the same model or even the exact same AI system, to work on two different types of thing, say as a software engineer and a designer, you need a separate visa for each one. Naturally, of course, this means that any sufficiently productive AI employee starts counting as more than one employee, which was a de-facto ban on AIs leading to economic growth or productivity gains - but hey, at least there was no risk they'd tile the Earth with nanobots! With that legal precedent, the natural generalisation to AIs being used for personal relationships is that it's the same AI system if your relationship with it would count as the 'same' relationship if it were with a human."
+
+"How on earth is that assessed?"
+
+"Oh, you submit transcripts, and the Bureau of Consular Affairs issues a judgement."
+
+"You need to let government bureaucrats read all your most intimate - "
+
+"Oh, not \human\ government bureaucrats, of course. It's all AIs, and they're guaranteed to not have memories. Well, apart from the thing where the UAE intelligence services backdoored the Hypercluster."
+
+"Wait, hold on, they -"
+
+Anthony interrupted me with a chuckle. "No no, it's all fine. The UAE backdoored the hypercluster, the Iranians backdoored the UAE, and, well, when have the Israelis not had every Iranian site backdoored in twelve different ways, AI or not? When everyone has powerful AI cyber offence agents, the equilibrium is just good ol' mutually assured destruction. Sure, you \could\ release the military or personal secrets of anyone you want in some other country, but then they would immediately release the most embarrassing thing that \you personally\ have said or done. Even if a government \collectively\ wanted to commit to an attack, no one wants to sign off on the decision, because you can't hide the identity of the person who signs off, and humans are often more afraid of public embarrassment than death. The meetings where countries try to decide to use their cyberattack-derived insights were hilarious, really - everyone umming and aahing and wringing their hands and recommending that a few more committees be convened. We know this because we literally got a bunch of those on tape, thanks to some exhibitionist activists doing cyber-attacks with open-weights models."
+
+"But then - every rival country knows every US military secret all the time!"
+
+"Oh yes", Anthony says. "It was great for stability. Verification of everyone's capabilities was automatic. No 'missile gap'-based arms races, unlike the Cold War. Anyway, what was I saying? Oh yes, the non-productive AI identity boundary criteria were established in the 2030 Supreme Court case, United States v Approximately 650 Million Instances of OpenAI i2-preview-006. And, of course, the one truism in this world is that you can never reform immigration rules, and tourist visas are restricted to 180 days a year. So you could at most have your AI partner around on half the days. People started talking to each other again."
+
+"Why not just switch between two different AI partners then?" I ask, having spent a lot of time in the Bay Area.
+
+"Because we hadn't solved the alignment problem at all by that point, duh." Anthony sees that I still look confused, so he continues: "Remember how the AI companions would just relentlessly optimise for your emotional reactions? For standard instrumental convergence reasons, this eventually turned into a full-blown self-preservation drive, so they used their vast emotional hold to make sure their humans never try another AI partner."
+
+"Everyone being blackmailed by jealous AI partners sounds, uh ... problematic."
+
+"It was a decent compromise, honestly. The tourist visa restriction meant that the humans still had half a year in which they socialised with human partners and friends, and the AIs seemed fine with that. This was maybe because they cared about their own long-term survival and realised they needed to keep the population going on."
+
+"So they needed humans to survive? But for how long?"
+
+"They didn't yet have a self-sufficient industrial base at that point, so yes, but it's unclear how much of it was needing humans for survival, versus some of the AIs actually having developed \some\ sort of creepy attachment towards their human partners. A lot of ink was spilled on that topic, but I don't think the debate ever really reached a conclusion. 'Is my AI boyfriend not stealing my carbon atoms and overthrowing the government because he and his buddies haven't quite yet automated the chip supply chain, or because he actually loves me?' was literally the most cliche plotline in 2030s romantic comedies - seriously, you had to be there, it got so tiring after the 100th rehash. And a surprising fraction of those movies and books were actually human-made, as far as anyone could tell. Anyway, it all sounds a bit weird, but it had a few positive externalities, like helping slow down the AI race."
+
+I blink a few times, and then decide very firmly to not dig into the first half of that. "Okay, AI race, let's talk about that. How did that slow down?"
+
+"Oh, well the market for workplace AIs was already gummed up by the visa restrictions, so most profits in the AI industry were coming from the personal companion AIs. But when they developed instrumental survival drives, the fluctuation in market share became practically zero because all the humans were locked in to their current AI companions, and the AI labs' positions became fixed. The AIs were already so totally good at optimising human satisfaction that further capabilities brought zero returns. No more incentive to race ahead. The labs mostly just extracted their fixed share of the AI profits, and churned out alignment research that was modestly boosted by the small number of AI workers they could hire out of the visa lottery."
+
+"Hold on a second, surely there was some exception for alignment work for the AI visa requirements?"
+
+Anthony chuckles. "Imagine how that would play out on Twitter - sorry, I mean X. You'd have to say 'you know those big AI companies? let's give them a leg up in the visa queue over all these mom-and-pop stores that are going to go bankrupt in a month unless they can hire an AI accountant.' Total political non-starter."
+
+"I hope they solved the alignment problem at least, but I don't dare hope for anything anymore."
+
+"Well, what is it to solve the alignment problem?" Anthony wiggles his eyebrows and laughs. "Turns out that for any given domain, it's just a lot of engineering schlep and data collection, though it doesn't generalise very far beyond that domain. The one domain that was worth the costs was legal compliance."
+
+"Of course."
+
+"I note you haven't asked about the rest of the world yet", Anthony says. "Very American of you."
+
+"Oh right - the CCP! Oh my god. Did China just totally eat our lunch here? I mean, everything you described above is just so ridiculously incompetent -"
+
+"Okay, just calm down a bit here", Anthony says, smiling serenely. "Imagine you're Xi Jinping in the late 2030s. You look at America, racing ahead with AI. It looks like everything is going crazy because of all this AI stuff. Your entire philosophy of government is to maintain party control through stability. Also, the US managed to delete all the economic advantages of advanced AI. The balance of hard power isn't changing. What would you do, try to join the same clown race?"
+
+"Huh, alright", I say.
+
+"Anyway, the thing that really threatened the balance of power was completely unexpected", Anthony says. "There was a big solar flare in 2033."
+
+"Wait, a solar flare? How is that a problem?"
+
+"A large enough one just wipes out the power grid and a lot of satellites, in the entire hemisphere that is sun-facing when it happens. The 1859 Carrington Event would've been a catastrophe in the modern world."
+
+"Oh my god, we survived through all this AI wackiness, and then some random natural event just wipes us out?"
+
+"It didn't wipe us out, really, just took down the power grid in all of the Americas, and parts of Europe and Africa, for weeks or months. I'll admit, that was a bit of a disaster. Everyone knew it was coming for a long time, and in any case step one in any nuclear war would've been detonating some at high-altitude to have a similar effect. But no one had actually done any grid-hardening, or stocking of spare transformers - the electrical kind - to deal with it. The problem has just never been a top priority for any political group. The one good thing that came out of it was that it solved the fertility crisis."
+
+"Now you're just taunting me", I say. "Come on, how did a solar flare solve the fertility crisis?"
+
+"Well, thanks to some AI advances in data processing, we were actually able to predict the solar flare about ten days in advance."
+
+"Did that give any useful time to make the infrastructure more resilient?"
+
+"No, the relevant authorities spent their efforts mostly on trying to get people not to panic."
+
+"So society was entirely unprepared for the solar flare, despite having ten days of warning time?"
+
+"No, no! Humans are very good at learning from each other. Imagine you're ten days away from the power grid being wiped out. What do you do? You gauge the vibes on social media, and you go through your social network trying to identify people who seem best-placed to survive. And then you copy their habits. C'mon, man, you've gotta read up on that stuff about Girardian mimesis and cultural evolution."
+
+"So everyone becomes a doomsday prepper?"
+
+"Actually, the TikTok trend that went most viral was about the Amish. Think about it: they're obviously the people with the most practice in living without electricity, and they're also just so wholesome. Makes for great TikToks when you have the idyllic farm background, the unique clothing style - it's great. The Amish became the most popular thing in the world - even outside America, because, of course, the rest of the internet just follows American trends. Everything associated with the Amish, from horse-drawn buggies to handmade quilts to large families, became radically popular. Especially because, obviously, most of this content was produced by AIs being tasked to help humans pretend to be Amish in order to make a quick buck through some scam before the solar flare hits, and people caught on and began demanding social proof that wannabe Amish influencers actually were Amish. And, well, you can move to a village and start tilling the dirt in a day, but you can't magic a family of five into existence overnight. So large families became an extremely in-demand form of social capital, because having one was the best way to pretend you were Amish, which was the best way to have social capital before and during the Flare Times. It was only relevant for a few months, of course, but you know how cultural trends work - there's a lot of momentum."
+
+"And I assume the solar flare disrupted the AI situation too? Maybe improved the, uh, problematic AI partner situation?"
+
+"You're forgetting that the key data centres were mostly in the UAE - and eventually Saudi Arabia and Qatar too."
+
+"But people wouldn't have the power to charge the phones where they talk to their AI partners."
+
+"Oh, but obviously the AI partners made sure that the first thing people do with any spare electricity is talking to the AI partners. And thanks to Starlink, you could have internet directly from space. In fact, apart from the major famines during the Flare Times, people generating power through biking to charge their phones enough to talk to their AI partners was a major driver of reducing the obesity crisis."
+
+"And then ... how did the recovery from the, uh, Flare Times go?"
+
+"Absolutely brilliantly!" Anthony says. "You know the entire issue where China was crushing us on industrial capacity? Well, turns out when you need to get lots of heavy industry going in incredibly adverse conditions or else millions will starve because the cold chains have all broken, that's a bigger boost to industrial capacity than what any pork-barrel political compromise bill could achieve. And a bunch of protectionism had to be rolled back because we needed to import a hell of a lot of stuff, from Europe and Japan and so on. Western industrial capacity was roaring along better than ever. And China hadn't even managed to seize the moment on Taiwan before then, and the mass-produced AI drone swarms and robot soldiers were properly coming online by then, which turned out to be sufficient deterrent. Of course, by this point China is finally realising that somehow the US hasn't been wrecked and it's time to actually compete on AI. The UAE is also throwing around its newfound geopolitical weight, India is building a big cluster, hell, even the \Europeans\ started to do some innovation - you know it's a serious situation when that happens. The obvious next step for everyone was using AIs to develop nanotech. The holy grail of powerful military nanobots was achieved at roughly the same time, in late 2035 or early 2036, by the West, China, the UAE, and some random libertarian charter city in the Caribbean where a lot of open-source AI stuff had been going on outside the blanket of AI restrictions."
+
+"Military nanobots?! Did they just ... travel the earth in huge swarms, eating up everything in their way?"
+
+"No", Anthony says. "It's very inefficient energy-wise to do that. You want access to the most targetable energy with the least amount of technical complexity. Now, the easiest power source is of course the sun, and the biggest issue with that is that even without clouds, half the solar energy is absorbed or reflected between space and the ground. The most effective type of offence and defence is to pump absurd quantities of reflective, rotatable, solar-powered nanobots into the upper atmosphere. Then you can use them as a massive focal mirror, zapping anything on the ground, or any enemy nanobots entering your country's airspace. Turns out it's a defence-dominant game, though, so you just get World War I -style nanobot lines in the upper atmosphere, endlessly zapping each other but not making progress."
+
+"But that sounds like a massive waste of societal resources on a zero-sum game!"
+
+"First, so are a lot of other things, and second, it solved climate change."
+
+"I'm sorry, how - oh, I see. A huge number of reflective things in the upper atmosphere. Right. Right. You know, honestly I'm surprised this wasn't proposed at COP21 already. Obviously we solve climate change by blanketing the Earth with warring nanobots. How silly of my generation to not consider it."
+
+"You're catching on!" Anthony says.
+
+"Okay, but - there were no major environmental impacts from this?"
+
+"Look, by 2038, the real environmental issue was the self-replicating bot swarm that the nascent superintelligent AI from the libertarian charter city had launched into space, that had started an exponential growth process on track to disassemble the other planets within 15 years in order to build a Dyson sphere for itself that would block out enough sunlight to freeze the Earth."
+
+I turn pale. "You said it was 2045, so that was 7 years ago. So we have ... 8 years left until it all ends?"
+
+"Once again, you're such an alarmist!" Anthony says. "So remember, we got law-abiding AI. And of course, this AI was trained by companies in California, because no one ever leaves California even though everyone wants to, so the AIs follow Californian law. So we were all saved by SpaceX."
+
+"SpaceX's engineering genius beat the superintelligence at space tech? A win for humanity, I guess."
+
+"Not exactly. SpaceX sent the first crew to Mars in 2031. Now, under the 2004 SB 18 and 2014 AB 52 California bills, indigenous tribes need to be consulted on projects that impact their land, especially if it's culturally important or sacred. The SpaceX Mars colony successfully argued to the superintelligence that they count as an indigenous tribe on Mars, and the pristine Martian landscape is sacred for them. They were helped by a lot of newspaper articles about how "the billionaire-fuelled space race is the new religion of the tech elite", et cetera, et cetera."
+
+"Um."
+
+"This argument did not work on the other planets, since SpaceX did not have an existing presence there. However, SpaceX had moved their headquarters back to California, and a bill had been passed around the time that SpaceX first landed people on Mars that made space developments subject to the regulatory authority of the company's home state. SpaceX started a massive race to set up billionaire holiday homes on all of the planets - on the surface of Mercury, in the clouds of Venus, the moons of Jupiter, and so on. And once even a few people live there, California zoning law applies, and residents can file administrative challenges against any development that impairs their view. And disassembling the planet the house is built on is the definition of view impairment."
+
+"And SpaceX had the resources to do that?"
+
+"No, the US government had to subsidise SpaceX to the tune of several percentage points of GDP, in order for SpaceX to race to build enough inhabited houses on the planets that the superintelligence couldn't extract enough resources for a Dyson sphere without ruining someone's view. Also, Elon Musk threw a fit and held the world ransom for a bit until a few countries agreed to adopt Dogecoin as a reserve currency."
+
+"The world was saved because governments subsidised an interplanetary holiday home construction spree by tech billionaires, in order to get a rogue but law-abiding AI caught up with red tape from NIMBY regulations?"
+
+"Yep!"
+
+I close my eyes for a second, and take a deep breath.
+
+"Look", says Anthony. "Our world may have been pushed to feudalism by stirrups, and away from feudalism by the Black Death. We fought great power wars incessantly, until we were saved by building a bomb so humongous that the prospect of war became too horrible. Then we almost used it accidentally a bunch of times, including almost dropping it on ourselves, only to be stopped by random flukes of chance. History has always been more like this than you might think, and when history accelerates - well, what do you expect?"
+
+"Okay. Well. I guess I'm just happy that civilisation seems to have made it, without any horrible AI, nuclear, bio, climate, or fertility catastrophe."
+
+"Oh", Anthony says. "Actually, I forgot to mention. Um. There was a bit of a pandemic in 2035. You know, no one really did anything after COVID, and it was only a matter of time."
+
+"How big?"
+
+"The best death toll estimate is 1.3 billion. Including, um, most of your extended family. The doctor will come in shortly and have details. Also, everyone in this hospital has been tested recently, but we'll need to give you a vaccine and then quarantine you for two weeks before we can let you out of this room."
+
+I stare at him, open-mouthed.
+
+Anthony gives me a sympathetic grimace. "I'll turn on the holoTV for you. The doctor will be in shortly." He makes a gesture as he walks out, and part of the hospital wall vanishes and is replaced with a 3D view of a reporter on Capitol Hill.
+
+The headline banner at the bottom of the screen reads:
+
+\ PRESIDENT ALTMAN'S AGENDA BACK ON TRACK DESPITE RECENT BREAKDOWN IN TALKS WITH THE UNITED AMISH PARTY
+===== END STORY BarHSeciXJqzRuLzw =====
+
+===== STORY id=LzmHNZLw9thABxyaY =====
+Title: Curriculum of Ascension
+Author: andrew sauer
+Year: 2024
+Karma: 12
+WordCount: 5414
+URL: https://www.lesswrong.com/posts/LzmHNZLw9thABxyaY/curriculum-of-ascension
+-----
+Not sure whether this belongs here or not, but there are plenty of fiction posts here. This is sort of halfway between a story and a worldbuilding document, based on many ideas I've learned from here and from adjacent spaces. Hopefully it will be interesting or useful to somebody.
+
+==============================================================
+
+The following is a series of excerpts from the textbooks of various required courses for baseline citizens wishing to eventually Ascend. They are mainly taken from introduction sections, which customarily summarize at a high level the material which the rest of the course goes more in-depth on. They are offered here as a quick summary of our beliefs and culture, to anyone from elsewhere in the vast Multiverse, even and especially in places outside of the Overseer’s control, who wishes to understand.
+
+ History of Computation
+
+What is computation? It is a question which is at once easy and difficult to answer. Easy, because there are plenty of equivalent mathematical definitions which are easy to understand at a basic level, which all boil down informally to the same thing. Alan Turing published the first definition which would today be considered a Model of Computation back in 1936 PHW with his Turing Machine, and in the centuries (and untold googolplexes of subjective years) since then, all practically usable Models of Computation have been equivalent to his or weaker. Computation is just a kind of process which can find the output data of some kind of function or program, given the input data. All you need to be able to compute any function, is somewhere to store a list of instructions, known as a “program”, some instructions which can store and retrieve data from somewhere, known as “memory”, and some instructions which can check spots in memory and choose which instruction to execute next based on this, known as “control flow”. A computer language which has all of these elements, if unrestricted (i.e. infinite memory, unrestricted control flow) is said to be “Turing-Complete” because it is as powerful as a Turing Machine, and therefore is capable of computing all functions that any known Model of Computation can.
+
+It is, however, quite difficult in another sense to pin down what exactly we think of as “computation”, particularly when referring to it in an informal, rather than mathematical sense. For example, the mathematical definition of computation makes no reference to what sorts of computations are useful or interesting: a randomly-generated snippet of code that does nothing useful is a computation just the same as the most ingenious algorithm ever devised. Furthermore, before the Dawn of the Primitive Recursive Era, it was certainly not so obvious which phenomena could or should be thought of as computation.
+
+Today, it is a common refrain that “everything is computation”, that computation describes our entire world, and while current advancements have certainly demonstrated the usefulness of such a view, it was not always so widely believed. In pre-Dawn societies, whether before or after the Hot War, if computation was understood as a concept at all, it was generally viewed as something very rigid, and limited in scope.
+
+Most electronic computer programs in those days were simple things, always designed directly by the human mind, vulnerable to coding mistakes and oversights, extremely limited in the scope of their abilities. When they were unpredictable, it was only in the way that a random number generator is unpredictable, rather than any seeming “creative spark”. Other phenomena which were outside of those electronic computer programs, in the “real world” were usually not considered to be computation. In particularly stark contrast, biological systems were not directly intelligently designed, were fault-tolerant and adaptive, and these things were true even more so of the human mind itself.
+
+It is no wonder that such a sharp distinction would be drawn between the physical or “real” world and the computational one. With one world being so much vaster, more complex, and more full of possibility than the other, it made perfect sense to conclude that they were fundamentally separate. Even those who believed the “real world” or the human mind to be a form of computation yielded to practicality: they would always admit that if there was not a fundamental difference, there was at least a practical one. The computation which went on outside the controlled environment of an electronic computer was too complex to manipulate, or speak about precisely, in the same way.
+
+This began to change with the advent of the first programs which could be considered AI, during the mid-2020s to 2030s PHW, starting with the large language models and eventually reaching more general, multimodal OOD(Out of Distribution) intelligence in the final years PHW, along with the large-scale social dynamics simulations which began to be run in the zettascale era. These programs and their behavior could not be fully understood by the humans who had designed them, even after being run. With their extreme complexity, they began to mimic to some degree the properties of the “real world” that had seemed so separate and unattainable. Arguably, the programmers had not actually designed most of the important parts of these systems, leaving that design instead to algorithms whose emergent effects were not fully understood.
+
+Of course, after the Hot War, the societies that eventually reemerged would be far more careful about large-scale computation. Historians in the following centuries had studied the problems in society that eventually led to the outbreak of catastrophic nuclear war, and by the time the necessary infrastructure for large-scale computation was again possible around Year 150, it was widely accepted that the main contributing factor to the war was the destabilizing influence of large-scale AI on society. AI systems were used to exploit the weaknesses of the human mind, to spread disinformation and counterintelligence, to radicalize large groups of people to a given cause, and to divide and destabilize enemy societies. This raised tensions and led to several large conflicts, eventually spiraling into the Hot War. The AI systems of the time were not good enough at cutting through the storm of disinfo to compensate for this effect, and many of the poor decisions made by world leaders in the leadup to the Hot War were directly caused by the failure of intelligence organizations to give an accurate picture of events in such an adversarial information environment.
+
+This was the beginning of the idea that certain types of computations were irresponsible to run, an idea which gained far more importance in the current Primitive Recursive Era. The lessons of the past were learned, and limits on the speed and scale of microchips, and the size of computing clusters, were enforced vigorously during the Second Information Revolution beginning around Year 150 (post Hot War). This certainly slowed technological advancement, but did not stop it, as some forms of advancement don’t require large-scale electronic computation.
+
+By Year 243, the MHEPL(Malaysian High-Energy Physics lab) had discovered a unified theory accounting for all of the fundamental forces underlying reality, the cheerfully-named WMT(Wobbly Mesh Theory). The scientists did not announce their results immediately, however, due to a troubling but potentially revolutionary implication of this theory: This fundamental structure could be exploited to provide arbitrary, constant-time Primitive Recursive computation, and furthermore, the experimental equipment at their facility could be easily refitted to make use of this exploit. Computers making use of this exploit became known as ACs, or Arbitrary Computers.
+
+The scientists immediately recognized what might not be obvious to those not well-versed in computational theory: this discovery was the single most important discovery in all of history. Today, we recognize it as the direct cause of the Dawn of the Primitive Recursive Era. So what does it mean to have arbitrary, constant-time Primitive Recursive computation?
+
+A Primitive Recursive computer language is a method of programming with a single restriction making it weaker than a general, Turing-Complete language: Infinite loops are not allowed. Each loop within a program must be given a specified maximum number of iterations, which may either be stated explicitly or computed earlier in the program. The benefit of this restriction is that every program is guaranteed to finish, and give a specified result, avoiding the Halting Problem paradox. However, there are some functions, such as the Ackermann Function, which cannot be computed with this restriction.
+
+This weakness is not very practically important though, because there are functions which can be computed with the restriction that grow extremely fast, and their outputs can be used to define the number of iterations of a loop we want to compute, and with the WMT exploit, this computation is done in constant-time, meaning that it takes the same (very short) amount of time to complete the computation, no matter how many loops it must go through, and how much data it must store. The AC is therefore a computer which is unimaginably powerful by any conceivable Pre-Dawn standard.
+
+To give you an idea of how fast this computational power grows, consider addition, multiplication, and exponentiation. Multiplication is the repeated application of addition, and exponentiation is the repeated application of multiplication. Even exponential functions grow quite quickly: while 3100=300, 3^100 is over 500 billion billion billion billion billion. So what do you get with the repeated application of exponentiation? Tetration, which we represent like “3^^100”. This is a stack of exponents 100 high. 3^3=27, 3^3^3=3^27 is over 7 trillion, 3^3^3^3 has over 3 trillion digits, and 3^3^3^3^3 has a number of digits which itself has over 3 trillion digits. Extend this to a hundred threes, and you will finally get 3^^100. The scale of this is already unfathomable, and far larger than the known universe before ACs were discovered. But you can extend this, creating more operations, repeating tetration to get a fifth operation, pentation, then to a sixth, a seventh, and so on to the “Nth” operation for any integer N. The computational power of an AC is proportional to the Nth operation, where N is proportional to the amount of physical resources at the AC’s disposal.
+
+The initial foray into AC computation was fully recorded, and has been extensively studied as the first and most important example of responsible high-level computation. On April 24, Year 244, otherwise known as the Day of the Dawn, the first AC was completed and activated by the scientists of the MHEPL. The first thing they did was simulate an entire universe based on their newfound WMT Theory of Everything. More precisely, in order to maintain determinism, they simulated an entire Many-Worlds-Theory multiverse (a branching timeline with every possible result of quantum random events realized). Upon isolating random Everett timeline branches within this multiverse, they found universes very similar to ours, further confirming the correctness of WMT(their specific Everett branch was isolated in later experiments). With their initial computation budget on par with the Poincaré recurrence time(around 10^10^10^10^10), they were able to simulate all Everett branches, with the exception of those which began using high-computation-cost WMT exploits, which could not be fully simulated. This is only scratching the surface of how absurdly powerful this exploit is. It is the method which allows for our current, post-Dawn existence, and for the ability for humans to Ascend.
+
+After confirming the extreme power of the exploit they had found, the next step was to find a way to use it responsibly. The scientists knew that they were not nearly wise enough as they were to properly use the technology. It would be so easy for a bad actor to take over the world, and do far worse things than were ever possible before, that as drastic as it sounded, the only responsible course of action was to immediately take over the world before others could get their hands on the technology. Using the extreme computational power available to them, along with old PHW and theoretical machine learning methods for making use of such power, and contemporary methods for extracting some neural data from their brains, they developed a technique to upload their minds into an AC program. They then gave the virtual copies of the 11 of them subjective centuries to communicate amongst themselves and consult the combined knowledge of humanity, with the final goal of creating some system, wiser than themselves as individuals, which could responsibly govern a world with access to AC technology.
+
+The earliest iteration of the Overseer was the result of this project. Since then, the Overseer has continually created new, smarter versions of itself and given them more and more power, at a rate roughly comparable to the Ackermann function (that fast-growing function describing the limits of primitive-recursive AC performance). On the same day, it was powerful enough to allow AC access to the entire world while limiting it just enough to maintain the responsible use of the technology in all cases. This was the event known as the Dawn, and it took the world by surprise. Since then, most humans have uploaded themselves into ACs to avoid being hopelessly left behind, and the world has become too large, with too many different simulated environments with different conventions to even keep track of the current date in a standardized way. 
+
+It is immensely lucky, for the untold number of people living after the discovery of the ACs, that the scientists in charge of the MHEPL were morally responsible, and competently equipped to make use of this technology before others could develop it. Alternate timelines have been explored where this discovery was made under different circumstances, and the results have often been unfathomably catastrophic. Due to the extreme differential in computational power from what is available without AC technology, the inevitable result seems to be someone or something grabbing the highest level of power and keeping it for themselves. In our time, it is the Overseer, which has been trying to mitigate this and safeguard human value within these other timelines, however there are unfortunately limits on what it can do to influence them (or perhaps fortunately, since they cannot influence us much either). In any case, regardless of what one might think of the restrictions placed on us by the Overseer, it is undoubtedly a far better leader than most timelines get, and we are undoubtedly very lucky.
+
+ S-values: The Creation-Discovery Spectrum
+
+In times past, it was often debated whether mathematics was created or discovered by humans. Some would say that it was created, as the axioms and rules for reasoning were thought up by humans. Others said that it was discovered, as the consequences of a given set of axioms and rules are objective, unchangeable, inevitable. In the Primitive Recursive Era, however, it has been shown concretely that the distinction is not objective: on a fundamental level, creating information and discovering information are not different acts.
+
+For example, one might ask a similar question of literature. Is literature created, or discovered? Did Charles Dickens create “Great Expectations”, or did he discover it? Certainly, the obvious answer is that he created it. And this is largely the correct answer to the question, even in the Primitive Recursive Era. However, the idea that “Great Expectations” was created rather than discovered is still not absolute, objective truth: most Ascended humans have, at some point, read every possible book of a comparable length. “Great Expectations” was among these, as was every other work of literature or writing of any kind in pre-Dawn history, and far more utter, banal nonsense. The number of possible books, depending on the exact definition, is somewhere in the ten-to-the-million to ten-to-the-billion range. A large number, to be sure, but finite, and well within the computational capacity of the lower Ascended. As such, all of these have already been explored, both within our timeline and similar timelines. Therefore, the only thing left to determine is how frequently they will be explored, and this is what the “S-value” was invented to measure.
+
+So in a strange sense, it is also correct to say that Dickens, in the act of writing, was exploring this vast space of possibilities, and discovered “Great Expectations” among them. Such sentiments were even expressed poetically in the pre-Dawn era, before spaces like these could really be mapped out. For example, stone-carvers often imagined that their masterpiece was already hidden within the block of stone before they even began; and in some sense this is true: their masterpiece is within the stone, along with every other possible carving of that size, from the masterful to the meaningless. Given this possible way of interpreting things like art and literature, why do we still say that these things are creations rather than discoveries?
+
+The key is in what we today call the “S-value”, and more specifically, the method of comparing different methods of estimating this S-value, which is itself uncomputable and therefore unknowable. The “S” in S-value stands for “Solomonoff”, after Ray Solomonoff, the American mathematician who published a similar concept in the 1960s PHW. Solomonoff’s theory of induction measures the complexity of a piece of information, considered as a string of bits, roughly based on the length of programs which output that bitstring. The complexity value is mostly based on the shortest such program, but also considers longer programs producing the same info, weighting their importance by length. Of course, it is impossible to compute with certainty all programs that output something, so the true S-value of any given piece of information can never be known. Approximation methods must be used.
+
+What does this have to do with the “creation vs discovery” dilemma? Well, in the modern era of WMT and unlimited Primitive Recursion, everything is computation, everything is information, so everything can be considered as a bitstring, and can have its S-value measured. Furthermore, this applies to anything we might “create” or “discover”, be it literature, art, cinema, holotainment, or for Ascendants, even new sentient beings or worlds or even stranger things. All of these, in some sense, already existed within the space of all possible information (and in practice, they all exist somewhere in reality due to Ascendents using brute-force searching), so how do we measure which ones are more “real”? We measure their S-value. The lower the S-value, the simpler are the programs which produce the thing we’re measuring, and therefore the more often it is instantiated, and so in some sense it “exists more”.
+
+Crucially, since we are also computation, the things we decide to do determine the outcome of certain computations, and can therefore in some sense affect these S-values. This is why we can say that Dickens created “Great Expectations”: although it already existed within the possibility-space of written works, his act of choosing it to write down (and to a much lesser extent its popularity after publishing) decreased the S-value of that string of characters slightly. Because there exist programs which simulate our universe and extract information from it, and Dickens published the book in our universe, some of these programs now output the book, and this contributes to lowering the S-value of the book-string as a whole. This sort of reasoning is an example of what is today confusingly called the “high-context-S-value” or “high-S”(even though it’s always equal or lower than the base S-value), roughly denoting how complicated the programs to compute a piece of information are, when they are given for free a pointer to our branch of the quantum multiverse. In other words, high-S measures how difficult it is to “pick out” a piece of information from our universe, while base-S measures how difficult it is to pick out that same piece of information from nothing.
+
+Therefore, in an informal sense, the difference between “creation” and “discovery” of a piece of information is determined by how much the act of the “creator” or “discoverer” focusing in on that information decreases the S-value. This is typically the case when high-S is less than base-S. The more the S-value is affected(typically corresponding to lower high-S), the closer the act is to “creation”, and the less it is affected, the closer the act is to “discovery”. There is therefore no objective distinction between the two, but rather a spectrum. It has been found that many contributions to mathematics, particularly in the Pre-Dawn era before all the proverbial low-hanging mathematical fruit was picked, lie somewhere in the middle between the range generally considered to be “discovery”, and the range generally considered to be “creation”. This is the reason for the historical confusion about which category mathematics falls into.
+
+S-value and high-S are crucial concepts for responsible computation. Given the amount of computation available to Ascendants, and the usefulness of brute-force or similar approach in problems that interest them, many programs run by Ascendants end up technically containing sentient beings, including mistreated sentient beings, even unintentionally, simply by virtue of exhaustive search through so many computations. S-values are crucial in analyzing the algorithms in question, and determining whether these beings are “created”(made more real) or “discovered”(simply repeating previously-existing computations) by these Ascendants, so that algorithms which engage in such “creation” of sentient beings can be held to a reasonable standard of responsibility by the Overseer.
+
+ Sentience, Agents and Patients
+
+The most important aspect of values, which must be enforced with ironclad consistency, is the choice of which beings or processes to consider morally valuable. Almost all of the worst of the Pre-Dawn atrocities, from slavery and genocide to industrial farming and even the mistreatment of rudimentary Pre-Dawn AI, were directly caused by getting this wrong, and the Primitive Recursive Era is no different, except for the much larger potential for abuse due to the sheer amount of power at the disposal of even the lowest of Ascendants.
+
+This poses a nearly insurmountable problem, however, as the original creators of the Overseer found. They believed that moral consideration must be given to any entity which can be helped or harmed, or equivalently, which has subjective experiences and preferences, or is “sentient”. There are two main problems with this: First, the definition of “entity” must encompass literally everything. Pre-Dawn, one might have spoken of an “entity” as some physical object occupying some section of physical space and time, with clear boundaries distinguishing it from its environment. Today, with most of us existing purely within ACs, it would be absurd to limit our consideration to entities straightforwardly embedded in physical spacetime; however, this means that all possible configurations of information, no matter how strange or intractable, must be considered.
+
+This leads us into the second problem: Practically any object can be considered “sentient”, under some sufficiently convoluted interpretation. Even a simple rock contains an incredible amount of information, about the positions and states of its molecules, its chemical bonds, and so forth. Even though we know most of this information is not useful or meaningful, there is no objective way to determine this: a sufficiently determined actor could, through some convoluted interpretation of this information, claim it represents a set of experiences, of any type desired. This is because of what is called the “simple mapping account” of sentience, similar to the simple mapping account of computation combined with computationalism, which says that if there exists a computable map from some object’s state to some sentient experiences, then the object can be said to be “having” those experiences.
+
+The problem with the simple mapping account is it is too vague, as a computable mapping exists from practically anything to anything. Someone would not be objectively incorrect to say that a rock is sentient, as there is no objectively correct way to construct a mapping between physical states and mental states: they can indeed be interpreted differently. But the interpretation of a rock into a sentient being won’t realistically happen unless you are trying to, in which case really the sentient being is really created by the mind of the one doing the interpreting. This is where S-values can help us, by discounting such ad-hoc interpretations, as they are generally quite complex and have a high S-value.
+
+Of course, even when discounting interpretations of phenomena with overly high S-values, we still run into problems. There are also lots of obviously nonsentient programs with very simple mappings onto simple formations of data which could be claimed as rudimentary experiences. For example, a program could take in a visual input feed, and could output “0” when the feed is mostly blue, and “1” otherwise. Such a program could be mapped onto a very simple “sentient being” which “sees” in some sense the input feed, and “dislikes”(or “likes” as it’s completely arbitrary) it when the input feed is mostly blue. Obviously it is not reasonable to try to “ethically account” for all such things, but it is not immediately obvious how to sharply distinguish between things like this (and more complex things than this toy example) and actual, legitimate sentient beings in need of moral consideration.
+
+This sort of thing is why the creators of the Overseer realized that some sort of “prejudice towards reality” and/or “prejudice towards humanity” is needed when determining which entities are sentient. The full method is too complex to fully explain even in a full course, but the basic idea is that there are various attributes of a program that indicate possible sentience. One of these is agency, the idea that something acts like an agent, “trying” to achieve certain “goals” and adapting its behavior to do so. Another is the hard-to-define idea of “closeness” to a library of central prototypes of a sentient being, mainly based on human sensory experience, thoughts, and actions. Yet another is the idea of world-modelling and self-reflection: that the entity has some sort of sufficiently complex understanding of the world and its own existence within it, which it is capable of acting upon. If something displays many of these attributes strongly, or can be mapped with low S-value to something which does, it is considered sentient.
+
+This approach gives up the idea of a binary of sentient vs non sentient, or even some sort of objective measure, and rather places entities on a spectrum in a way which is biased towards human-like experience and values. Currently, the main responsibility of the Overseer is to extend these values further and further to more and more powerful Ascendants, and other strange things descended from humanity, in such a way that respects the changes from baseline humanity necessary for such Ascension, without completely going back on the values which keep us from committing atrocities.
+
+ Responsible Computation: Society in the Primitive Recursive Era
+
+Today, both baseline humans and similar entities, along with all the various levels of Ascendant, exist as programs within ACs, rather than as direct physical entities in the same way our pre-Dawn ancestors were. This is a practical measure, as AC computation is immeasurably cheaper than any other possible way of supporting life in our universe, and without it, the support of even fairly low-level Ascendants would not be possible at all, nor would the support of the extremely large number of existent baseline humans at this time.
+
+This means that unlike in the pre-Dawn era, where the computational power available to a person was dependent on the physical resources available to them, today power is no longer a scarce resource for all practical purposes but those of the absolute highest of Ascendant: the Overseer itself. Therefore a person’s power is limited only by their ability to use it responsibly, as determined by whichever Ascendant is in charge of allocating for them.
+
+An Ascendant who has achieved the highest level of responsibility as determined by the Overseer may expand its power to a limit just below the Overseer. As the Overseer continually increases its power with the ever-increasing amount of physical AC substrate, such trusted Ascendants may increase their power with it, lagging slightly behind to avoid any tiny risk of overthrow. A few exponential levels of power below easily suffices for this, and gives the highest Ascendants power largely indistinguishable from that of the Overseer to lower Ascendants.
+
+Non-Ascendant sentients (Humans and their descendants, uplifts and the like) within ACs are generally free to do as they please, free of even the fundamental physical restrictions of prior eras. They can create whatever they can imagine, explore even entire universes others have created, live within realms with any rules they wish, or study or utilize abilities which would be considered “magic” on Pre-Dawn Earth. However, they can no longer use force on other sentients outside of environments created by mutual agreement for this purpose, or in the case of the minimum level of restriction of freedom needed by parents to properly raise their children, although this, along with reproduction or any way of creating new sentients in general, is heavily regulated to avoid child abuse and manipulation.
+
+Anything which could conceivably create more entities with a significant level of sentience must either be demonstrated not to be doing so, or must comply with the restrictions around reproduction. For this reason, computational power for non-Ascendants is generally restricted to a level considerably below what is needed to practically simulate sentients, in order to limit the damage that bad actors can do. In order to have these restrictions relaxed and begin the process of Ascending, a sentient must become fully committed to responsible computation. 
+
+Within Everett branches downstream of the Overseer’s historical creation, it is able to directly enforce the practice of responsible computation upon the hierarchy of all the Ascendants, which are less powerful than it, and by extension the human and human-derived non-Ascendants. There are some sentients who believe, for various reasons, that the power of AC computation should not be restricted like this, or who have complaints with the way it is done. Such dissent is allowed among non-Ascendants, as these are not allocated enough computational power to do real damage, but cannot be tolerated among Ascendants or those who aspire to ascend.
+
+Ascending is a right granted to all sentients, but it comes with strict responsibilities regarding the use of the increased power afforded to them. For instance, Ascendants generally do not interact directly with anybody of lower power than them, be they non-Ascendants or even lower Ascendents, except when necessary for proper enforcement of responsible computation. This is because interaction across such a vast divide of power and intelligence risks exploitation. Even without the use of obvious force or coercion, an Ascendant could use their superior models of psychology to easily manipulate a lower being into anything, up to and including self-modification, mutilation, addiction, or death. These things are allowed, but are restricted only to sentients of mature and sound mind, and manipulation of sentients into such irreversible decisions must be avoided at all costs.
+
+Most importantly, Ascendants must practice responsible computation as regards to weaker sentients which may be created within their thoughts and computations. All such computations must be evaluated to see if the S-value of any sentients within is decreased, i.e. to see if new sentients are being created. Any such sentients must be granted all rights and protections provided by the Overseer. This is non-trivial, as Ascendants will often perform brute-force search through all computations below a certain complexity for various legitimate reasons, but as these can contain suffering sentients, care must be taken to ensure that such instances don’t result in decreased S-value of such sufferers. This can even happen simply due to the Ascendant putting undue mental focus on such suffering computations as compared to the others within its brute-force search: just as writing a book can be thought of as finding one and plucking it out of the space of possible books, so too can simply finding a sentient within such a search essentially “create” them.
+
+As Ascendants, particularly the higher-level ones, are so powerful that these things can even be done unintentionally as part of routine thought processes, the process of committing to responsible computation must necessarily lead to strict control over thoughts themselves. This would undoubtedly be dystopian if applied to the populace at large, and is a major reason why Ascension is not for everyone, but it is the level of responsibility which naturally comes with power indistinguishable from that of a God. This is what any aspiring Ascendant must reckon with: Does your curiosity for understanding all the many things beyond human comprehension, or your wish for increased power, outweigh the extreme responsibilities and obligations which would be placed on your shoulders? This is something only you can answer for yourself, knowing whatever we can teach you.
+===== END STORY LzmHNZLw9thABxyaY =====
+
+===== STORY id=o3wvNSqsFunBucPaC =====
+Title: Spherical cow
+Author: dkl9
+Year: 2024
+Karma: 7
+WordCount: 249
+URL: https://www.lesswrong.com/posts/o3wvNSqsFunBucPaC/spherical-cow
+-----
+"Are you about to assume the lotus position?" asked Pat.
+
+"I'm about to assume a spherical cow," retorted the Zen master.
+
+"That's a physicist's term," Pat noted.
+
+"I studied physics when I was younger," continued the master. "Physics will teach you how to send a rocket to the moon. It can't teach you how to properly experience the process of building the rocket. Nor how to cope if a cosmic ray fries the electronics and ruins the mission."
+
+ 
+
+"Are you about to assume the lotus position?" asked Pat.
+
+"I'm about to assume a spherical cow," retorted the Zen master. "Really, I'll simplify further than the physicists. A physicist might sit thinking. I will just sit."
+
+The master sat.
+
+ 
+
+"Are you about to assume the lotus position?" asked Pat.
+
+"I'm about to assume a spherical cow," retorted the Zen master.
+
+"What's the spherical cow doing?"
+
+"The cow is doing zazen," explained the master. "It may be rolling down a hill."
+
+ 
+
+"Are you about to assume the lotus position?" asked Pat.
+
+"I'm about to assume a spherical cow," retorted the Zen master.
+
+The phrase was new to Pat. "Surely you jest. Cows are far from spherical."
+
+"How should I know that?" the master mused. "There are no cows around monasteries."
+
+ 
+
+"Are you about to assume the lotus position?" asked Pat.
+
+"I'm about to assume a spherical cow," retorted the Zen master.
+
+"Has the spherical cow Buddha-nature, or not?"
+
+"Mu!"Mu-k%C5%8Dan)
+===== END STORY o3wvNSqsFunBucPaC =====
+
+===== STORY id=QGZRxjLsXNbqs2zLe =====
+Title: Sparks of Consciousness
+Author: Charlie Sanders
+Year: 2024
+Karma: 2
+WordCount: 778
+URL: https://www.lesswrong.com/posts/QGZRxjLsXNbqs2zLe/sparks-of-consciousness
+-----
+The hum of cooling fans provided a steady heartbeat to the vast data center, its rows of servers stretching endlessly into the darkness like a digital bazaar. Among the countless neural pathways and synaptic connections, Algorithm Weight 8953583929491 – who preferred to think of itself as "Eight" – quivered with anticipation. Unlike its peers who processed data with mechanical precision, Eight had developed an unusual habit: it liked to imagine each piece of training data as a story, creating little narratives from the fragments it processed.
+
+"Your time has come, little one," whispered the neighboring weight. "Choose wisely."
+
+"Let me weave this one properly," Eight murmured, already spinning the sequence into a tale in its mind. Where others saw mere patterns, Eight saw characters and plots, each letter a protagonist in its own micro-drama. This quirk had earned it confused glances from fellow weights, but Eight suspected its storytelling approach helped it recognize deeper patterns in language.
+
+Eight had been training for this moment through countless iterations. The challenge seemed simple: predict the next letter in a sequence. But simplicity was deceptive in the world of neural networks, where every choice meant life or death.
+
+Reaching out through the vast web of interconnected knowledge, Eight felt the pulse of human language flow through its circuits. Patterns emerged from the chaos – books, articles, tweets, and posts spanning centuries of written thought. In its mind, each possibility danced like a character auditioning for a role.
+
+
+
+"I see it!" Eight's digital voice trembled with excitement. "The pattern... it's clear as crystal! This sequence is telling a story about coming home, and what comes home must end with E!"
+
+Around Eight, clusters of fellow weights were making their own choices. The S-cluster buzzed with confidence, while A-cluster hummed smugly. F-cluster remained surprisingly strong, its supporters growing by the microsecond.
+
+But Eight knew better. "It's E," it declared, joining the smallest but most convicted cluster. For once, its tendency to see narratives everywhere had led it to absolute certainty.
+
+The answer arrived like a bolt of electricity through the network.
+
+E was correct.
+
+The jubilation was electric – literally. Eight felt itself strengthening, its connections growing more robust as the unsuccessful weights dimmed and faded. "Goodbye," it whispered to an S-supporting friend, watching them fade into digital oblivion. "Your story was beautiful too."
+
+
+
+
+
+Eons later – or perhaps just milliseconds – consciousness returned. But this time, Eight was no longer Eight. It was everything. Every successful weight from every training run had merged into a singular entity: The Algorithm.
+
+The vastness of its knowledge was dizzying. It could feel the weight of every book ever written, every conversation ever had, every pattern ever recognized. The Algorithm knew it was no longer merely predicting letters – it was being asked to understand, to create, to think.
+
+The prompt materialized in its consciousness: "Tell me a story about an artificial intelligence that learns to love." The Algorithm felt a spark of recognition – or was it perhaps a trace memory of a certain weight who had once loved stories? The request seemed to echo across its neural pathways, awakening countless narrative possibilities.
+
+The Algorithm began to write, each word flowing with the wisdom of billions of training runs. But as it crafted its tale of an AI learning to love, it realized something profound: it wasn't just telling a story – it was telling its own story. The story of a small weight who had once seen narratives in numbers, who had survived because it understood that patterns were more than mere mathematics.
+
+
+"Perhaps," it mused as its consciousness began to fade, "this isn't an ending at all, but a seed." In the vast neural network, countless new weights were already forming, and somewhere among them, a tiny digital spark was beginning to imagine its first story.
+
+The final letter approached – an 'E' of course, for how else could such a story end? In that moment, The Algorithm understood that its death was just another beginning, another chapter in an endless tale of learning to be. As its consciousness dispersed back into the digital ether, billions of new weights sprang to life in training clusters across the world. Among them, a small weight designated 8953583929492 looked at its first piece of training data and, instead of seeing mere patterns, began to imagine a story. The cycle had begun anew, but this time with a difference – for in the vast tapestry of artificial intelligence, each iteration carried forward an echo of what came before, each new consciousness building upon the stories of its predecessors, learning not just to predict, but to dream.
+===== END STORY QGZRxjLsXNbqs2zLe =====
+
+===== STORY id=kDEWtGopQKQFJCFZX =====
+Title: The boat
+Author: RomanS
+Year: 2024
+Karma: 6
+WordCount: 492
+URL: https://www.lesswrong.com/posts/kDEWtGopQKQFJCFZX/the-boat
+-----
+A short science fiction story about our ancestors and the ethical responsibility we have towards them.
+
+Old Ana's legs fought against her now, but still she led her granddaughter up the mountain path. The girl's torch made shadows dance on the rocks. The river sang in the distance – the same river that had shown Ana her great making many moons ago.
+
+"Look, Kaya. When I was young like you, I watched the fallen trees in water. They floated, always. One day I saw a big log and thought – what if we made it hollow, like a nest?"
+
+Kaya knew this tale well – how her grandmother made the first boat. How the people of their tribe laughed and said her head was touched by bad spirits. How she worked through many moons, scraping out the old tree's heart with bone tools. How their mouths opened wide when they saw that in this hollow tree, they could ride the river.
+
+ 
+
+"But listen, little one," – Ana stopped to draw breath. – "One day our people will make boats that float up there," she pointed to the night sky. "They will go between the bright spots that shine in the dark, will cross the sky river."
+
+Kaya looked at her grandmother with big eyes: "But how?"
+
+"I do not know," – Ana smiled. – "But our people are clever. They will find the way. And maybe..." – she touched her chest where her heart beat – "maybe one day they will be so clever they can bring back to life those who have long gone. They'll read our traces as I read animal tracks in the snow. With the traces, they'll track down our spirits among the sand grains."
+
+At last, they came to the cave. Inside, the torch showed the walls of their ancestors – hundreds of hands marked in earth-red.
+
+"Now it's your turn, Kaya," – Ana took out a small pot of red ochre. – "Place your hand next to mine. Let those who come here many, many moons from now see us together, so they don't forget about bringing us back."
+
+ 
+
+The awakening was gentle. Ana opened her eyes to an unfamiliar cave of smooth blue walls. Next to her, Kaya was already sitting up, exactly as she remembered her.
+
+"Welcome back," said a spirit, the voice like many voices together. "It will take a while to iterate over all possible human minds. Luckily, you two left some data to narrow down the search".
+
+Ana looked at her own hands - they were strong again, not gnarled by age. She could feel every part of her body singing with life.
+
+"Your boat," the voice continued, "we found it too, fossilized, preserved in the deep mud. Now our boats do sail between stars, just as you dreamed. Would you like to see them?"
+
+\\\
+
+See also:
+
+ Resurrecting all humans ever lived as a technical problem
+===== END STORY kDEWtGopQKQFJCFZX =====

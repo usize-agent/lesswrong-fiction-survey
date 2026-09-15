@@ -1,0 +1,23 @@
+{
+  "_id": "shPgZtpw7dEP6vZ65",
+  "slug": "chapter-113-final-exam",
+  "title": "Chapter 113: Final Exam",
+  "postedAt": "2015-03-14T19:00:42.654Z",
+  "baseScore": 32,
+  "wordCount": 3676,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

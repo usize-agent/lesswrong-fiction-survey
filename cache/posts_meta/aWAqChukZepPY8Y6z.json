@@ -1,0 +1,29 @@
+{
+  "_id": "aWAqChukZepPY8Y6z",
+  "slug": "coming-of-a-new-sun",
+  "title": "Coming of a New Sun",
+  "postedAt": "2026-08-03T18:45:11.214Z",
+  "baseScore": 72,
+  "wordCount": 3060,
+  "commentCount": 3,
+  "user": {
+    "displayName": "vgel",
+    "slug": "vgel"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

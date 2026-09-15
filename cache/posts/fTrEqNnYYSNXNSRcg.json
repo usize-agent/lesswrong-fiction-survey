@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "fTrEqNnYYSNXNSRcg",
+        "title": "Allegory On AI Risk, Game Theory, and Mithril",
+        "slug": "allegory-on-ai-risk-game-theory-and-mithril",
+        "pageUrl": "https://www.lesswrong.com/posts/fTrEqNnYYSNXNSRcg/allegory-on-ai-risk-game-theory-and-mithril",
+        "postedAt": "2017-02-13T20:41:50.584Z",
+        "baseScore": 46,
+        "wordCount": 1021,
+        "commentCount": 57,
+        "noIndex": false,
+        "user": {
+          "displayName": "James_Miller",
+          "slug": "james_miller"
+        },
+        "tags": [
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "chuP2QqQycjD8qakL",
+            "name": "Coordination / Cooperation",
+            "slug": "coordination-cooperation"
+          },
+          {
+            "_id": "yXNtYNHJB54T3bGm3",
+            "name": "Dialogue (format)",
+            "slug": "dialogue-format"
+          },
+          {
+            "_id": "oNcqyaWPXNGTTRPHm",
+            "name": "Existential risk",
+            "slug": "existential-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "ZFrgTgzwEfStg26JL": 1,
+          "chuP2QqQycjD8qakL": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "oNcqyaWPXNGTTRPHm": 1,
+          "yXNtYNHJB54T3bGm3": 1
+        },
+        "contents": {
+          "markdown": "\u201cThorin, I can\u2019t accept your generous job offer because, honestly, I think that your company might destroy Middle Earth.\u201d\n\n\u201cBifur, I can tell that you\u2019re one of those \u201cthe Balrog is real, evil, and near\u201d folks who thinks that in the next few decades Mithril miners will dig deep enough to wake the Balrog causing him to rise and destroy Middle Earth. Let\u2019s say for the sake of argument that you\u2019re right. You must know that lots of people disagree with you. Some don\u2019t believe in the Balrog, others think that anything that powerful will inevitably be good, and more think we are hundreds or even thousands of years away from being able to disturb any possible Balrog. These other dwarves are not going to stop mining, especially given the value of Mithril. If you\u2019re right about the Balrog we are doomed regardless of what you do, so why not have a high paying career as a Mithril miner and enjoy yourself while you can?\u201d\n\n\u201cBut Thorin, if everyone thought that way we would be doomed!\u201d\n\n\u201cExactly, so make the most of what little remains of your life.\u201d\n\n\u201cThorin, what if I could somehow convince everyone that I\u2019m right about the Balrog?\u201d\n\n\u201cYou can\u2019t because, as the wise Sinclair said, \u2018It is difficult to get a dwarf to understand something, when his salary depends upon his not understanding it!\u2019 But even if you could, it still wouldn\u2019t matter. Each individual miner would correctly realize that just him alone mining Mithril is extraordinarily unlikely to be the cause of the Balrog awakening, and so he would find it in his self-interest to mine. And, knowing that others are going to continue to extract Mithril means that it really doesn\u2019t matter if you mine because if we are close to disturbing the Balrog he will be awoken.\u201d\n\n\u201cBut dwarves can\u2019t be that selfish, can they?\u201d\n\n\u201cActually, altruism could doom us as well. Given Mithril\u2019s enormous military value many cities rightly fear that without new supplies they will be at the mercy of cities that get more of this metal, especially as it\u2019s known that the deeper Mithril is found, the greater its powers. Leaders who care about their citizen\u2019s safety and freedom will keep mining Mithril. If we are soon all going to die, altruistic leaders will want to make sure their people die while still free citizens of Middle Earth.\u201d\n\n\u201cBut couldn\u2019t we all coordinate to stop mining? This would be in our collective interest.\u201d\n\n\u201cNo, dwarves would cheat rightly realizing that if just they mine a little bit more Mithril it\u2019s highly unlikely to do anything to the Balrog, and the more you expect others to cheat, the less your cheating matters as to whether the Balrog gets us if your assumptions about the Balrog are correct.\u201d\n\n\u201cOK, but won\u2019t the rich dwarves step in and eventually stop the mining? They surely don\u2019t want to get eaten by the Balrog.\u201d\n\n\u201cActually, they have just started an open Mithril mining initiative which will find and then freely disseminate new and improved Mithril mining technology. These dwarves earned their wealth through Mithril, they love Mithril, and while some of them can theoretically understand how Mithril mining might be bad, they can\u2019t emotionally accept that their life\u2019s work, the acts that have given them enormous success and status, might significantly hasten our annihilation.\u201d\n\n\u201cWon\u2019t the dwarven kings save us? After all, their primary job is to protect their realms from monsters.\n\n\u201cHa! They are more likely to subsidize Mithril mining than to stop it. Their military machines need Mithril, and any king who prevented his people from getting new Mithril just to stop some hypothetical Balrog from rising would be laughed out of office. The common dwarf simply doesn\u2019t have the expertise to evaluate the legitimacy of the Balrog claims and so rightly, from their viewpoint at least, would use the absurdity heuristic to dismiss any Balrog worries. Plus, remember that the kings compete with each other for the loyalty of dwarves and even if a few kings came to believe in the dangers posed by the Balrog they would realize that if they tried to imposed costs on their people, they would be outcompeted by fellow kings that didn\u2019t try to restrict Mithril mining. Bifur, the best you can hope for with the kings is that they don\u2019t do too much to accelerating Mithril mining.\u201d\n\n\u201cWell, at least if I don\u2019t do any mining it will take a bit longer for miners to awake the Balrog.\u201d\n\n\u201cNo Bifur, you obviously have never considered the economics of mining. You see, if you don\u2019t take this job someone else will. Companies such as ours hire the optimal number of Mithril miners to maximize our profits and this number won\u2019t change if you turn down our offer.\u201d\n\n\u201cBut it takes a long time to train a miner. If I refuse to work for you, you might have to wait a bit before hiring someone else.\u201d\n\n\u201cBifur, what job will you likely take if you don\u2019t mine Mithril?\u201d\n\n\u201cGold mining.\u201d\n\n\u201cMining gold and Mithril require similar skills. If you get a job working for a gold mining company, this firm would hire one less dwarf than it otherwise would and this dwarf\u2019s time will be freed up to mine Mithril. If you consider the marginal impact of your actions, you will see that working for us really doesn\u2019t hasten the end of the world even under your Balrog assumptions.\u201d\n\n\u201cOK, but I still don\u2019t want to play any part in the destruction of the world so I refuse work for you even if this won\u2019t do anything to delay when the Balrog destroys us.\u201d\n\n\u201cBifur, focus on the marginal consequences of your actions and don\u2019t let your moral purity concerns cause you to make the situation worse. We\u2019ve established that your turning down the job will do nothing to delay the Balrog. It will, however, cause you to earn a lower income. You could have donated that income to the needy, or even used it to hire a wizard to work on an admittedly long-shot, Balrog control spell. Mining Mithril is both in your self-interest and is what\u2019s best for Middle Earth.\u201d"
+        }
+      }
+    }
+  }
+}

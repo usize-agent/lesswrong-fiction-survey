@@ -1,0 +1,41 @@
+{
+  "_id": "Zb9onZ4hMmkWTZynn",
+  "slug": "something-to-fight-for",
+  "title": "Something to fight for",
+  "postedAt": "2025-03-14T08:27:13.810Z",
+  "baseScore": 4,
+  "wordCount": 318,
+  "commentCount": 0,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "rHQ3xncraAyC8kqtX",
+      "name": "Lifelogging as life extension",
+      "slug": "lifelogging-as-life-extension"
+    },
+    {
+      "_id": "jiuackr7B5JAetbF6",
+      "name": "Transhumanism",
+      "slug": "transhumanism"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "jiuackr7B5JAetbF6": 1,
+    "rHQ3xncraAyC8kqtX": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

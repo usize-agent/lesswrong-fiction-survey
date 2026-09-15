@@ -1,0 +1,35 @@
+{
+  "_id": "NpyF7khPaeqbBxzcH",
+  "slug": "usd500-bounty-for-best-short-form-fiction-about-our-near",
+  "title": "$500 bounty for best short-form fiction about our near future world; $100 for recommending winning piece: new \u201cArt of Near Future World\u201d quarterly art project",
+  "postedAt": "2025-04-15T00:46:10.637Z",
+  "baseScore": 6,
+  "wordCount": 465,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Ramon Gonzalez",
+    "slug": "ramon-gonzalez"
+  },
+  "tags": [
+    {
+      "_id": "khReijeucXJTnsyMT",
+      "name": "Bounties (closed)",
+      "slug": "bounties-closed"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "izp6eeJJEg9v5zcur": 1,
+    "khReijeucXJTnsyMT": 2
+  }
+}

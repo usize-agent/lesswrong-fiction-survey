@@ -1,0 +1,23 @@
+{
+  "_id": "HWH46whexsoqR3yXk",
+  "slug": "normal-ending-last-tears-6-8",
+  "title": "Normal Ending: Last Tears (6/8)",
+  "postedAt": "2009-02-04T08:45:35.000Z",
+  "baseScore": 90,
+  "wordCount": 917,
+  "commentCount": 69,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

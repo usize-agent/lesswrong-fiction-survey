@@ -1,0 +1,35 @@
+{
+  "_id": "PrSWKSFxEtFBZ7Xbj",
+  "slug": "the-machine-that-broke-my-heart",
+  "title": "The Machine that Broke My Heart",
+  "postedAt": "2021-12-30T11:59:31.747Z",
+  "baseScore": 50,
+  "wordCount": 675,
+  "commentCount": 36,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "xHjy88N2uJvGdgzfw",
+      "name": "Health / Medicine / Disease",
+      "slug": "health-medicine-disease"
+    },
+    {
+      "_id": "NzSTgAtKwgivkfeYm",
+      "name": "Heroic Responsibility",
+      "slug": "heroic-responsibility"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "NzSTgAtKwgivkfeYm": 2,
+    "pszEEb3ctztv3rozd": 2,
+    "xHjy88N2uJvGdgzfw": 5
+  }
+}

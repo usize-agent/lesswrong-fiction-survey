@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "CHD5m9fnosr7L3dto",
+        "title": "Friendship is Optimal: A My Little Pony fanfic about an optimization process",
+        "slug": "friendship-is-optimal-a-my-little-pony-fanfic-about-an",
+        "pageUrl": "https://www.lesswrong.com/posts/CHD5m9fnosr7L3dto/friendship-is-optimal-a-my-little-pony-fanfic-about-an",
+        "postedAt": "2012-09-08T06:16:09.920Z",
+        "baseScore": 124,
+        "wordCount": 294,
+        "commentCount": 152,
+        "noIndex": false,
+        "user": {
+          "displayName": "iceman",
+          "slug": "iceman"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          }
+        ],
+        "tagRelevance": {
+          "ZFrgTgzwEfStg26JL": 1,
+          "etDohXtBrXd8WqCtR": 15
+        },
+        "contents": {
+          "markdown": "\\[EDIT, Nov 14th: And it's posted. [New discussion about release](/r/discussion/lw/fi8/launched_friendship_is_optimal/). Link to *[Friendship is Optimal](http://www.fimfiction.net/story/62074/Friendship-is-Optimal)*.\\]\n\n\\[EDIT, Nov 13th: I've submitted to FIMFiction, and will update with a link to its permanent home if it passes moderation. I have also removed the docs link and will make the document private once it goes live.\\]\n\n* * *\n\nOver the last year, I\u2019ve spent a lot of my free time writing a semi-rationalist My Little Pony fanfic. Whenever I\u2019ve mentioned this side project, I\u2019ve received requests to alpha the story.\n\nI present, as an open beta: Friendship is Optimal. Please do not spread that link outside of LessWrong; Google Docs is not its permanent home. I intend to put it up on fanfiction.net and submit it to Equestria Daily after incorporating any feedback. The story is complete, and I believe I've caught the majority of typographical and grammatical problems. (Though if you find some, comments are open on the doc itself.) Given the subject matter, I\u2019m asking for the LessWrong community\u2019s help in spotting any major logical flaws or other storytelling problems.\n\nCover jacket text:\n\n*Hanna, the CEO of Hofvarpnir Studios, just won the contract to write the official* My Little Pony *MMO. She had better hurry; a US military contractor is developing weapons based on her artificial intelligence technology, which just* may *destroy the world. Hana has built an A.I. Princess Celestia and given her one basic drive: to satisfy values through friendship and ponies. What will Princess Celestia do when she\u2019s let loose upon the world, following the drives Hanna has given her?*\n\nSpecial thanks to my roommate (who did extensive editing and was invaluable in noticing attempts by me to anthropomorphize an AI), and to Vaniver, who along with my roommate, convinced me to delete what was just a flat out *bad* chapter."
+        }
+      }
+    }
+  }
+}

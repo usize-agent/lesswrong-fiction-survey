@@ -1,0 +1,23 @@
+{
+  "_id": "ySoNM6ParKrLRxCAZ",
+  "slug": "lobsang-s-children-1",
+  "title": "Lobsang's Children",
+  "postedAt": "2025-11-17T15:12:16.969Z",
+  "baseScore": 58,
+  "wordCount": 6915,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

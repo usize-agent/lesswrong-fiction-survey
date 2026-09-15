@@ -1,0 +1,29 @@
+{
+  "_id": "k6brDHrGtpoo4XsDa",
+  "slug": "the-origin-of-rot",
+  "title": "The origin of rot",
+  "postedAt": "2025-12-30T17:51:40.323Z",
+  "baseScore": 33,
+  "wordCount": 1407,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Abhishaike Mahajan",
+    "slug": "abhishaike-mahajan"
+  },
+  "tags": [
+    {
+      "_id": "jaf5zfcGgCB2REXGw",
+      "name": "Biology",
+      "slug": "biology"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "jaf5zfcGgCB2REXGw": 1
+  }
+}

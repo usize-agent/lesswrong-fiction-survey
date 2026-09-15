@@ -1,0 +1,23 @@
+{
+  "_id": "sr8ofXiGHNhjjqa7A",
+  "slug": "a-short-story-about-differing-intelligence-levels",
+  "title": "A short story about differing intelligence levels",
+  "postedAt": "2023-09-15T14:28:33.537Z",
+  "baseScore": 1,
+  "wordCount": 1751,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Cryptoyeti",
+    "slug": "cryptoyeti"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1
+  }
+}

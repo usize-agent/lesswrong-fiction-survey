@@ -1,0 +1,29 @@
+{
+  "_id": "7GDXAqcz8yHv2YvTe",
+  "slug": "the-gospel-of-martin-luther",
+  "title": "The Gospel of Martin Luther",
+  "postedAt": "2022-04-28T04:29:58.601Z",
+  "baseScore": 11,
+  "wordCount": 270,
+  "commentCount": 2,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

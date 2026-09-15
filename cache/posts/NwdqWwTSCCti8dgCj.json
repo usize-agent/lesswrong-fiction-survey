@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "NwdqWwTSCCti8dgCj",
+        "title": "Three Worlds Collide assumes calibration is solved",
+        "slug": "three-worlds-collide-assumes-calibration-is-solved",
+        "pageUrl": "https://www.lesswrong.com/posts/NwdqWwTSCCti8dgCj/three-worlds-collide-assumes-calibration-is-solved",
+        "postedAt": "2026-02-12T04:28:21.658Z",
+        "baseScore": 7,
+        "wordCount": 1019,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Vyacheslav Ladischenski (Slava)",
+          "slug": "vyacheslav-ladischenski-slava"
+        },
+        "tags": [
+          {
+            "_id": "8hPTCJbwJnLBmfpCX",
+            "name": "Calibration",
+            "slug": "calibration"
+          },
+          {
+            "_id": "kCuRQE5Tkv9zeKyzK",
+            "name": "Common Knowledge",
+            "slug": "common-knowledge"
+          },
+          {
+            "_id": "AADZcNS24mmSfPp2w",
+            "name": "Communication Cultures",
+            "slug": "communication-cultures"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "b8FHrKqyXuYGWc6vn",
+            "name": "Game Theory",
+            "slug": "game-theory"
+          },
+          {
+            "_id": "oooqkNGqAHPGsfgdA",
+            "name": "Metaethics",
+            "slug": "metaethics-1"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "8hPTCJbwJnLBmfpCX": 1,
+          "AADZcNS24mmSfPp2w": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "b8FHrKqyXuYGWc6vn": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "kCuRQE5Tkv9zeKyzK": 1,
+          "oooqkNGqAHPGsfgdA": 1
+        },
+        "contents": {
+          "markdown": "**Three Worlds Collide assumes calibration is solved**\n\nEliezer Yudkowsky's [*Three Worlds Collide*](https://www.lesswrong.com/s/qWoFR4ytMpQ5vw3FT) (2009) is a first-contact novella designed as a thought experiment about naturalistic metaethics. The setup: a human starship encounters two alien species simultaneously.\n\nThe **Babyeaters** are a civilized species \u2014 they have art, empathy, stories \u2014 who consider eating their own sentient offspring a sacred moral duty. It emerges from their evolutionary history and they see it the way we see any foundational moral principle: as obviously correct.\n\nThe **Super Happy Fun People** are a vastly more powerful species who find *all suffering* morally abhorrent. They want to modify humanity to eliminate pain, and stop the Babyeaters from eating their children. They see human tolerance of pain the way humans see baby-eating: as a barbaric practice that must end.\n\nThe story is usually read as a tragedy of incompatible values. Three species, each with genuine moral reasoning, each horrifying to the others. The philosophical punch: if we insist the Babyeaters must stop eating babies, what stops the Super Happies from insisting we stop experiencing pain? The plot culminates in a decision to nova a star system, killing 15 billion people, to prevent the Super Happies from reaching and modifying humanity.\n\nIt's a brilliant setup. But I think there's a hidden assumption at its foundation that deserves examination.\n\n**The story takes for granted that all three species actually understand each other.**\n\nThe xenopsychologist translates Babyeater moral arguments into human terms and says he understands their position. The Super Happies declare they comprehend why humans value pain. Everyone proceeds as if mutual comprehension is achieved, and the rest of the plot is game theory over incompatible utility functions.\n\nBut there's a step missing.\n\nSteven Pinker draws a useful distinction between **shared knowledge** and **common knowledge**. Shared knowledge is when we both know the same fact \u2014 I know your position, you know mine. Common knowledge is when I know that you know that I know \u2014 the recursive chain that's actually required for coordination. The difference matters: two generals who each independently learn the enemy's position have shared knowledge. But they can only coordinate an attack if they have common knowledge \u2014 if each knows the other knows, and knows the other knows they know.\n\nA concrete example from the story: the Super Happies say they want to \"combine and compromise the utility functions of the three species until we mutually satisfice.\" The humans hear this and interpret it through their own cognitive framework \u2014 as something like forced modification of human nature. But what does \"combine utility functions\" actually mean in Super Happy cognition? These are beings whose communication literally *is* sex, whose experience of individuality is fundamentally alien to humans. When they say \"compromise,\" do they mean what humans mean by that word? The story never checks.\n\nAnd it's not just about translation accuracy. Even if the translation were perfect, there's the question of whether anyone *knows* the translation is perfect. The Lord Pilot makes the decision to nova a star and kill 15 billion people based on his model of Super Happy intentions. His confidence in that model is never examined. No one asks: \"How sure are we that we're understanding them correctly, and how sure are they that we're understanding them, and do we know that they know that we know?\"\n\nWithout that recursive verification, you can't actually distinguish between two very different scenarios:\n\n**1\\. Genuine values conflict** \u2014 we truly understand each other and our values are incompatible. This is a real tragedy with no easy solution.\n\n**2\\. Coordination failure from miscalibrated comprehension** \u2014 we *believe* we understand each other, but our confidence in that understanding exceeds its actual accuracy. The conflict is partly or wholly an artifact of misunderstanding.\n\nThe story presents scenario 1 as a given and builds its entire moral dilemma on that foundation. But scenario 2 is never ruled out, and no one in the story has the tools to rule it out.\n\nThis isn't just a nitpick about the fiction. It reflects a broader pattern in how we think about disagreements \u2014 one that I think the rationalist community is particularly susceptible to. When two parties are confident they understand each other's positions and still disagree, we tend to conclude they have fundamentally different values. But confidence in understanding is not the same as actual understanding. The gap between the two is what you might call **metacognitive miscalibration** \u2014 and it's measurable, if anyone bothers to measure it.\n\nConsider how a simple protocol could have changed the story's trajectory: before any negotiation, each species paraphrases back the other's core position in their own terms, and the other species rates the accuracy. \"You believe eating children is morally necessary because \\[X, Y, Z\\] \u2014 is that correct?\" If the Babyeaters respond \"No, you're missing the key point, it's actually about \\[W\\],\" then you've learned something crucial \u2014 your model was wrong, and every decision based on that model would have been wrong too.\n\nNobody in *Three Worlds Collide* runs this loop. The xenopsychologist's understanding is taken at face value. The Super Happies' stated comprehension of human values is accepted without verification. And as a result, we genuinely don't know \u2014 within the fiction \u2014 whether the tragedy is driven by incompatible values or by miscalibrated mutual understanding.\n\nIn real human conflicts (which the alien species are obviously metaphors for), it's almost always a mix of both \u2014 and in my experience, more of the second than people expect. People are systematically overconfident in their understanding of positions they disagree with. And that overconfidence is invisible to them, which makes it especially dangerous: you can't fix a comprehension gap you don't know exists.\n\nThe story would have been even more interesting \u2014 and more true to the actual structure of real disagreements \u2014 if it had grappled with this uncertainty instead of assuming it away. Not because it would change the ending necessarily, but because it would add a layer of doubt that makes the moral dilemma even harder: *what if we're about to kill 15 billion people over a misunderstanding?*"
+        }
+      }
+    }
+  }
+}

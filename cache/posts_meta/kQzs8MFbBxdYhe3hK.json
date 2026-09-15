@@ -1,0 +1,41 @@
+{
+  "_id": "kQzs8MFbBxdYhe3hK",
+  "slug": "savanna-poets",
+  "title": "Savanna Poets",
+  "postedAt": "2008-03-18T18:42:31.000Z",
+  "baseScore": 74,
+  "wordCount": 1447,
+  "commentCount": 40,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "AXhEhCkTrHZbjXXu3",
+      "name": "Poetry",
+      "slug": "poetry"
+    },
+    {
+      "_id": "36RkM85iDocrnaypb",
+      "name": "Aesthetics",
+      "slug": "aesthetics"
+    },
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "36RkM85iDocrnaypb": 1,
+    "AXhEhCkTrHZbjXXu3": 6,
+    "KDpqtN3MxHSmD4vcB": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

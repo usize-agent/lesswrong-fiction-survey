@@ -1,0 +1,53 @@
+{
+  "_id": "Zcz8otnZuKyExs5g5",
+  "slug": "chatgpt-tantalizing-afterthoughts-in-search-of-story",
+  "title": "ChatGPT: Tantalizing afterthoughts in search of story trajectories [induction heads] ",
+  "postedAt": "2023-02-03T10:35:12.110Z",
+  "baseScore": 4,
+  "wordCount": 6035,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bill Benzon",
+    "slug": "bill-benzon"
+  },
+  "tags": [
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "56yXXrcxRjrQs6z9R",
+      "name": "Interpretability (ML & AI)",
+      "slug": "interpretability-ml-and-ai"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "56yXXrcxRjrQs6z9R": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "YWzByWvtXunfrBu5b": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

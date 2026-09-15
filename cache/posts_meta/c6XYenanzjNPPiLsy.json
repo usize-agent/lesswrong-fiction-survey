@@ -1,0 +1,35 @@
+{
+  "_id": "c6XYenanzjNPPiLsy",
+  "slug": "the-fall-of-rationality-the-senate-of-admins",
+  "title": "The Fall of Rationality - The Senate of Admins",
+  "postedAt": "2023-06-26T01:49:00.457Z",
+  "baseScore": -10,
+  "wordCount": 1093,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Ace Delgado",
+    "slug": "ace-delgado"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "izp6eeJJEg9v5zcur": 1
+  }
+}

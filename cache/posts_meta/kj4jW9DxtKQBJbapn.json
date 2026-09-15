@@ -1,0 +1,35 @@
+{
+  "_id": "kj4jW9DxtKQBJbapn",
+  "slug": "stanislav-petrov-quarterly-performance-review",
+  "title": "Stanislav Petrov Quarterly Performance Review",
+  "postedAt": "2024-09-26T21:20:11.646Z",
+  "baseScore": 165,
+  "wordCount": 1463,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Ricki Heicklen",
+    "slug": "ricki-heicklen"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "2i3w84KCkqZzpnQ4d",
+      "name": "Petrov Day",
+      "slug": "petrov-day"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "2i3w84KCkqZzpnQ4d": 2,
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

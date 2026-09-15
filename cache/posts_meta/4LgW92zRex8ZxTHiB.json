@@ -1,0 +1,29 @@
+{
+  "_id": "4LgW92zRex8ZxTHiB",
+  "slug": "a-heart-s-cry",
+  "title": "A heart's cry",
+  "postedAt": "2022-04-06T01:59:37.046Z",
+  "baseScore": 2,
+  "wordCount": 1420,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Rose and Thorn",
+    "slug": "lucas-weatherly"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "PAugtjFrmvbepCNej",
+      "name": "Love ",
+      "slug": "love"
+    }
+  ],
+  "tagRelevance": {
+    "PAugtjFrmvbepCNej": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

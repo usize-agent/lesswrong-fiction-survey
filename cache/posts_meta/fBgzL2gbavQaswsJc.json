@@ -1,0 +1,23 @@
+{
+  "_id": "fBgzL2gbavQaswsJc",
+  "slug": "optimizing-for-stories-vs-optimizing-reality",
+  "title": "Optimizing for Stories (vs Optimizing Reality)\n",
+  "postedAt": "2019-01-07T08:03:22.512Z",
+  "baseScore": 43,
+  "wordCount": 1966,
+  "commentCount": 11,
+  "user": {
+    "displayName": "Ruby",
+    "slug": "ruby"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 4
+  }
+}

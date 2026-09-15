@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "JMqHvLCRsChvq6x4m",
+        "title": "OffVermilion",
+        "slug": "offvermilion",
+        "pageUrl": "https://www.lesswrong.com/posts/JMqHvLCRsChvq6x4m/offvermilion",
+        "postedAt": "2025-09-06T12:56:24.042Z",
+        "baseScore": 127,
+        "wordCount": 1245,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "Tom\u00e1s B.",
+          "slug": "bjartur-tomas"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 4,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "\"You heard of musician's dystonia?\" OffVermilion - a handle his friends shorten to Vermi - once said to me, as we admired our avatars in a virtual mirror, one of the great amusements in VRChat.\n\nHe was wearing an anime fox-girl avatar, female anime avatars being pretty standard in VRChat regardless of gender or orientation, his voice modulated by a neural net he had trained himself after mainlining Jeremy Howard's ML MOOCs - now the distilled essence of anime-girl voice with only the slightest twang of artificiality. Despite the significant technical effort expended in his mimicry, he insists he is a \"he\" and refers to himself as a \"femboy.\"\n\n\"Vaguely,\" I said.\n\n\"So how it works,\" he said, \"is a musician tries to reach a note on their cello or violin or piano or whatever with their index finger, and their middle finger moves too. They find they can't move their index without moving their middle finger, and soon enough their ring finger follows. And in all of a few weeks they've gone from virtuoso to butchering their instrument with all the grace of a chimpanzee.\n\n\"But it only happens when they play their instrument. Their fingers work fine in all other aspects of their life - it's like some horrible ancient curse, but it's real.\"\n\n\"No one knows for sure why it happens, but I think their brains start screwing up some in-context model of their hands. After years of practice, it tries to simplify things. It updates said model such that it's not so sure anymore that it has four fingers when playing the instrument. Maybe it starts thinking it has only three, then two, then one flapping useless appendage.\"\n\n\"Why?\" I said.\n\n\"I'm not sure,\" Vermi said, lazily gazing at his own reflection, brushing thick polygonal hair away from his too-large anime-girl eyes. \"But grant me that first malignant update, just a slight correlated finger movement. Once it starts happening, it starts happening. It starts reinforcing itself, subtly. The correlation becomes a little more ingrained. Eventually it gets bad enough that the musician notices it. And what do you think happens then?\"\n\n\"What?\" I said.\n\n\"They start practicing the parts of their pieces that most trigger the dystonia, as practice is what musicians do - and it has always worked before. Unfortunately, this has the perverse effect of accelerating the decline. I am not aware of a case of anyone recovering.\"\n\n\"Interesting,\" I said.\n\n\"Yeah, but that's not the spooky part. The spooky part is Jacob Li.\"\n\nJacob Li, as Vermi tells it, was like us but only worse. He lived in VR; he slept in VR; he walked bleary-eyed to his front door every three weeks to pick up a large delivery of Soylent bottles, which he didn't even bother to refrigerate, which Vermi said, \"is really required to kill the aftertaste.\"\n\nHis family had money, or he struck it rich in some crypto Ponzi, or was just living off debt and waiting for it to catch up with him. No one really knew for sure - maybe he was the type of guy who gave a different story to everyone. Whatever the situation, he had a lot of free time, and he found a place to spend it.\n\nThey say he used to be fat, like proper dangling-chin fat. After he first got into VR, he didn't see any IRL human for five months. He spent his days in VRChat, but avoided the drinking scene - at least at first. He mostly just met people and befriended them, and they would talk and sometimes leave to play other VR games together: Thrill of the Fight, Beat Saber, that kayaking game everyone says is so fucking beautiful. He was funny and nice, and everyone thought pretty well of him - though they sometimes ribbed him for being perpetually available.\n\nAfter five months of nothing but VR games and Soylent, he gets an email from his sister reminding him about Christmas, which he didn't even realize was approaching. (It was still early November, and the December jump in elf-girl avatars had not hit yet.) She invited him to a party she was having with some friends, and he flew down to attend.\n\nSo he shows up and he's a new man. He's thin and extremely fit (turns out Soylent and being on his feet all day worked for him like no diet has before). He has that air about him that jocks do, someone who's really in tune with his body, and he's developed a sort of charisma he never had before. Like some AI trained in simulation, his physical and social maladies dissolved after so much learning in an ersatz world.\n\nAnd many of his sister's friends, pretty girls by any standard, were smitten. For the first time in his life, he had abundant attention from the opposite sex. And he realized something. Their skin had blemishes. Their eyes weren't even the size of tennis balls. They really could not compare to the idealized anime puppets he had been living with for the last few months.\n\nWithin his weird little hermit cocoon he had turned into a butterfly, but he found the world had transformed, too. And to him it seemed a foreign, ugly place.\n\n\"And so he doubled down,\" Vermi said. \"He jumped back into VR with the intention of never leaving again. He bought his sister an Oculus Quest and told her to visit him in VRChat if she wanted to see him.\"\n\n\"He started referring to himself as a 'virtual person,' a 'citizen of the metaverse.' There was something sort of cringe '90s transhumanist about it, but it was a private ideology he felt little need to spread, so he wasn't obnoxious about it.\"\n\n\"And what does this have to do with the dystonia?\" I said.\n\n\"Well, he spent another twelve months waking up with his headset on and going to sleep with his headset on. Taking it off only when he used the bathroom, and maybe when he showered - but we should countenance the idea that he never showered at all.\"\n\n\"Get to the point,\" I said.\n\n\"The point is, how do you pick up things in VRChat?\" Vermi said.\n\n\"No way!\" I said.\n\nVermi laughed. \"I can just tell you the story as I heard it,\" he said. \"It is up to you whether you believe it or not.\"\n\n\"So you're telling me,\" I said, \"that he developed 'musician's dystonia' but for picking things up?\"\n\n\"Exactly,\" Vermi said. \"One day he tries to pick up a bottle of Soylent and his brain is stuck in VRChat mode. He leans over, gets his hand near the bottle's hitbox and tries to squeeze his controller's grab trigger. But there's no controller, no hitbox, just a real bottle and his hand hovering awkwardly above it, fingers twitching but not grasping.\"\n\n\"And he was stuck like that?\" I asked.\n\n\"Not at first. At first he just chuckled to himself and picked it up as normal. But like with musician's dystonia, it started happening more and more. And one day he finds himself unable to pick up his Vive controller. Like our musician, he had lost his instrument. Unlike the musician, he lost much of two worlds.\"\n\n\"And do you believe it?\" I asked.\n\n\"Probably not,\" Vermi said. \"But then again, it has a certain integrity to it. Maybe it's true. I don't know. Maybe it's a metaphor or something.\""
+        }
+      }
+    }
+  }
+}

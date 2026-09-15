@@ -1,0 +1,29 @@
+{
+  "_id": "nXJ8f5HdEe9en4rt4",
+  "slug": "the-responder",
+  "title": "The Responder",
+  "postedAt": "2025-11-28T04:26:31.503Z",
+  "baseScore": 33,
+  "wordCount": 2104,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Screwtape",
+    "slug": "screwtape"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

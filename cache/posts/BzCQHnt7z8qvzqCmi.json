@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "BzCQHnt7z8qvzqCmi",
+        "title": "The Parable Of The Fallen Pendulum - Part 1",
+        "slug": "the-parable-of-the-fallen-pendulum-part-1",
+        "pageUrl": "https://www.lesswrong.com/posts/BzCQHnt7z8qvzqCmi/the-parable-of-the-fallen-pendulum-part-1",
+        "postedAt": "2024-03-01T00:25:00.111Z",
+        "baseScore": 117,
+        "wordCount": 521,
+        "commentCount": 32,
+        "noIndex": false,
+        "user": {
+          "displayName": "johnswentworth",
+          "slug": "johnswentworth"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 1
+        },
+        "contents": {
+          "markdown": "One day a physics professor presents the standard physics 101 material on gravity and Newtonian mechanics: g = 9.8 m/s^2, sled on a ramp, pendulum, yada yada.\n\nLater that week, the class has a lab session. Based on the standard physics 101 material, they calculate that a certain pendulum will have a period of approximately 3.6 seconds.\n\nThey then run the experiment: they set up the pendulum, draw it back to the appropriate starting position, and release. Result: the stand holding the pendulum tips over, and the whole thing falls on the floor. Stopwatch in hand, they watch the pendulum sit still on the floor, and time how often it returns to the same position. They conclude that the pendulum has a period of approximately 0.0 seconds.\n\nBeing avid LessWrong readers, the students reason: \u201cThis Newtonian mechanics theory predicted a period of approximately 3.6 seconds. Various factors we ignored (like e.g. friction) mean that we expect that estimate to be somewhat off, but the uncertainty is nowhere near large enough to predict a period of approximately 0.0 seconds. So this is a large Bayesian update against the Newtonian mechanics model. It is clearly flawed.\u201d\n\nThe physics professor replies: \u201cNo no, Newtonian mechanics still works just fine! We just didn\u2019t account for the possibility of the stand tipping over when predicting what would happen. If we go through the math again accounting for the geometry of the stand, we\u2019ll see that Newtonian mechanics predicts it will tip over\u2026\u201d (At this point the professor begins to draw a diagram on the board.)\n\nThe students intervene: \u201cHindsight! Look, we all used this \u2018Newtonian mechanics\u2019 theory, and we predicted a period of 3.6 seconds. We did not predict 0.0 seconds, in advance. You did not predict 0.0 seconds, in advance. Theory is supposed to be validated by advance predictions! We\u2019re not allowed to go back after-the-fact and revise the theory\u2019s supposed prediction. Else how would the theory ever be falsifiable?\u201d\n\nThe physics professor replies: \u201cBut Newtonian mechanics has been verified by massive numbers of experiments over the years! It\u2019s enabled great works of engineering! And, while it does fail in some specific regimes, it consistently works on this kind of system - \u201c\n\nThe students again intervene: \u201cApparently not. Unless you want to tell us that this pendulum on the floor is in fact moving back-and-forth with a period of approximately 3.6 seconds? That the weight of evidence accumulated by scientists and engineers over the years outweighs what we can clearly see with our own eyes, this pendulum sitting still on the floor?\u201d\n\nThe physics professor replies: \u201cNo, of course not, but clearly we didn\u2019t correctly apply the theory to the system at hand-\u201d\n\nThe students: \u201cCould the long history of Newtonian mechanics \u2018consistently working\u2019 perhaps involve people rationalizing away cases like this pendulum here, after-the-fact? Deciding, whenever there\u2019s a surprising result, that they just didn\u2019t correctly apply the theory to the system at hand?\u201d\n\nAt this point the physics professor is somewhat at a loss for words.\n\n*And now it is your turn! What would **you** say to the students, or to the professor?*"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "PGXBJdrgSqd9uYZnn",
+  "slug": "absolute-power-a-short-story",
+  "title": "ABSOLUTE POWER (A short story)",
+  "postedAt": "2025-08-18T01:10:00.205Z",
+  "baseScore": 17,
+  "wordCount": 5973,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Taylor G. Lunt",
+    "slug": "taylor-g-lunt"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "4FcxgdvdQP45D6Skg",
+  "slug": "disguised-queries",
+  "title": "Disguised Queries",
+  "postedAt": "2008-02-09T00:05:28.000Z",
+  "baseScore": 199,
+  "wordCount": 1362,
+  "commentCount": 108,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "FtT2T9bRbECCGYxrL",
+      "name": "Philosophy of Language",
+      "slug": "philosophy-of-language"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 3,
+    "FtT2T9bRbECCGYxrL": 4
+  }
+}

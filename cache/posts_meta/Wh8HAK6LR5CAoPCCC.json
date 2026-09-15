@@ -1,0 +1,35 @@
+{
+  "_id": "Wh8HAK6LR5CAoPCCC",
+  "slug": "repost-the-demiurge-s-older-brother",
+  "title": "[REPOST] The Demiurge\u2019s Older Brother",
+  "postedAt": "2017-03-22T02:03:51.000Z",
+  "baseScore": 107,
+  "wordCount": 1889,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "tgJoX7PGDDh2vJNqT",
+      "name": "Acausal Trade",
+      "slug": "acausal-trade"
+    },
+    {
+      "_id": "zYPQsxiMcTiY4yE3S",
+      "name": "Values handshakes",
+      "slug": "values-handshakes"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "tgJoX7PGDDh2vJNqT": 6,
+    "zYPQsxiMcTiY4yE3S": 2
+  }
+}

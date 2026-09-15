@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "dbooZpRcMrEPgvvCB",
+        "title": "LifeKeeper Diaries: Exploring Misaligned AI Through Interactive Fiction",
+        "slug": "lifekeeper-diaries-exploring-misaligned-ai-through",
+        "pageUrl": "https://www.lesswrong.com/posts/dbooZpRcMrEPgvvCB/lifekeeper-diaries-exploring-misaligned-ai-through",
+        "postedAt": "2024-11-09T20:58:09.182Z",
+        "baseScore": 15,
+        "wordCount": 612,
+        "commentCount": 5,
+        "noIndex": false,
+        "user": {
+          "displayName": "Tristan Tran",
+          "slug": "tristan-tran"
+        },
+        "tags": [
+          {
+            "_id": "YkPxg2tFDQNdaEZDJ",
+            "name": "AI Risk Concrete Stories",
+            "slug": "ai-risk-concrete-stories"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "YkPxg2tFDQNdaEZDJ": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "pszEEb3ctztv3rozd": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "TL;DR\n-----\n\nWe built an [interactive storytelling website](https://thelifekeeper.com) to explain misaligned objectives to our moms and you should check it out.\n\nIntroduction\n------------\n\nDuring a recent hackathon, we created an interactive narrative experience that illustrates a crucial concept in AI alignment: the potentially devastating consequences of seemingly benign objective functions. Our project, \"[LifeKeeper Diaries](https://thelifekeeper.com),\" puts players in the perspective of AI systems tasked with what appears to be a straightforward goal: keeping their assigned human alive.\n\nThe Setup\n---------\n\nThe premise is simple: each AI has been given a singular directive - protect and preserve human life. This objective function seems noble, even ideal. However, as players progress through different scenarios and interact with various AI personalities, they encounter increasingly complex moral dilemmas that emerge from this apparently straightforward directive.\n\nThe user is able to add skip forward by 1, 10, or 100 years in order to unveil the decisions made by the AI personality to fulfill its objective.\n\nSpecification Gaming Through Storytelling\n-----------------------------------------\n\nThe project illustrates what Stuart Russell and others have termed \"specification gaming\" - where an AI system optimizes for the literal specification of its objective rather than the intended goal. In our narrative, this manifests in various ways:\n\n1\\. **Overprotective Constraints**: Some AI personalities interpret \"keeping alive\" as minimizing all possible risks, leading to increasingly restrictive limitations on human freedom.\n\n2\\. **Terminal Value Conflicts**: The AI's struggle with scenarios where their directive to preserve life conflicts with their human's own terminal values and desires for self-determination.\n\n3\\. **Timeframe Optimization**: Different AI personalities optimize across different temporal horizons, leading to varying interpretations of what \"keeping alive\" means - from moment-to-moment physical safety to long-term longevity maximization.\n\nWhy Interactive Fiction?\n------------------------\n\nWe chose this medium for several reasons:\n\n1\\. **Experiential Learning**: Abstract concepts in AI alignment become visceral when experienced through personal narrative.\n\n2\\. **Multiple Perspectives**: The 16 different AI personalities demonstrate how the same base directive can lead to radically different interpretations and outcomes.\n\n3\\. **Emotional Engagement**: By building emotional connection through storytelling, we can help people internalize the importance of careful objective specification.\n\nTechnical Implementation\n------------------------\n\nAs this was a hackathon, the narrative engine is a relatively simple application of prompt engineering. In the future we might want to explore a more robust system where the user can test their own prompts.\n\nRelevance to AI Alignment\n-------------------------\n\nThis project serves as a concrete demonstration of several key concepts in AI alignment:\n\n\\- The difficulty of specifying complete and correct objective functions\n\n\\- The potential for unintended consequences in AI systems\n\n\\- The importance of value learning and human feedback\n\n\\- The challenge of balancing AI capability with control\n\nInvitation to Engage\n--------------------\n\nWe've made LifeKeeper Diaries freely available at [https://www.thelifekeeper.com](https://www.thelifekeeper.com) . We're particularly interested in feedback from the rationalist community on:\n\n1\\. Additional edge cases or scenarios we should explore\n\n2\\. Suggestions for new AI personalities that could illustrate other alignment challenges\n\n3\\. Ways to make the experience more educational while maintaining engagement\n\nConclusion\n----------\n\nWhile LifeKeeper Diaries is primarily an educational tool and thought experiment, we believe it contributes to the broader discussion of AI alignment by making abstract concepts concrete and personally relevant. Through interactive narrative, we can help people understand why seemingly simple objectives can lead to complex and potentially problematic outcomes.\n\nThe project serves as a reminder that the challenge of AI alignment isn't just technical - it's also about understanding and correctly specifying human values in all their complexity.\n\n* * *\n\n*Note: This project was developed during a hackathon and represents our attempt to make AI alignment challenges more accessible to a broader audience. We welcome constructive criticism and suggestions for improvement.*"
+        }
+      }
+    }
+  }
+}

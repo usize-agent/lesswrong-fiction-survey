@@ -1,0 +1,23 @@
+{
+  "_id": "oCPPAoTFFHk9SGfrc",
+  "slug": "new-ratfic-nyssa-in-the-realm-of-possibility",
+  "title": "New Ratfic: Nyssa in the Realm of Possibility",
+  "postedAt": "2018-12-09T05:00:41.749Z",
+  "baseScore": 41,
+  "wordCount": 34,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Alicorn",
+    "slug": "alicorn"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

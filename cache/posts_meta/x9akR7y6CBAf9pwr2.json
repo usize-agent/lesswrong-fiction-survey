@@ -1,0 +1,35 @@
+{
+  "_id": "x9akR7y6CBAf9pwr2",
+  "slug": "where-s-my-magic-sword",
+  "title": "Where's my magic sword?",
+  "postedAt": "2021-09-27T07:26:28.446Z",
+  "baseScore": 52,
+  "wordCount": 497,
+  "commentCount": 13,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "JsJPrdgRGRqnci8cZ",
+      "name": "Altruism",
+      "slug": "altruism"
+    },
+    {
+      "_id": "ZWRtQgXucwzAFZqNJ",
+      "name": "China",
+      "slug": "china"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "JsJPrdgRGRqnci8cZ": 2,
+    "ZWRtQgXucwzAFZqNJ": 2,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

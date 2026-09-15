@@ -1,0 +1,23 @@
+{
+  "_id": "idEyrgFF2THg86pxp",
+  "slug": "bayeswatch-1-jewish-space-laser",
+  "title": "Bayeswatch 1: Jewish Space Laser",
+  "postedAt": "2021-05-03T20:15:44.106Z",
+  "baseScore": 104,
+  "wordCount": 1333,
+  "commentCount": 13,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 5
+  }
+}

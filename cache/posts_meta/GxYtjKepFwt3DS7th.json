@@ -1,0 +1,47 @@
+{
+  "_id": "GxYtjKepFwt3DS7th",
+  "slug": "ra-bounty-looking-for-feedback-on-screenplay-about-ai-risk",
+  "title": "RA Bounty: Looking for feedback on screenplay about AI Risk",
+  "postedAt": "2023-10-26T13:23:02.806Z",
+  "baseScore": 32,
+  "wordCount": 203,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Writer",
+    "slug": "writer"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "cCK3fDdH9vHjrf2yP",
+      "name": "Bounties & Prizes (active)",
+      "slug": "bounties-and-prizes-active"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "7mTviCYysGmLqiHai",
+      "name": "Writing (communication method)",
+      "slug": "writing-communication-method"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "7mTviCYysGmLqiHai": 2,
+    "ZFrgTgzwEfStg26JL": 2,
+    "cCK3fDdH9vHjrf2yP": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

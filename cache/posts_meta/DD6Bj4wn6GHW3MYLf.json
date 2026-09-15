@@ -1,0 +1,23 @@
+{
+  "_id": "DD6Bj4wn6GHW3MYLf",
+  "slug": "curate",
+  "title": "curate",
+  "postedAt": "2025-01-14T14:40:30.510Z",
+  "baseScore": 12,
+  "wordCount": 555,
+  "commentCount": 0,
+  "user": {
+    "displayName": "technicalities",
+    "slug": "technicalities"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

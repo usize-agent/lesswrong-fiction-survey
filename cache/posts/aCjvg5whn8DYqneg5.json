@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "aCjvg5whn8DYqneg5",
+        "title": "Rationalist horror movies",
+        "slug": "rationalist-horror-movies",
+        "pageUrl": "https://www.lesswrong.com/posts/aCjvg5whn8DYqneg5/rationalist-horror-movies",
+        "postedAt": "2023-10-15T07:42:14.509Z",
+        "baseScore": 46,
+        "wordCount": 128,
+        "commentCount": 35,
+        "noIndex": false,
+        "user": {
+          "displayName": "Elizabeth",
+          "slug": "elizabeth-1"
+        },
+        "tags": [
+          {
+            "_id": "4Kcm4etxAJjmeDkHP",
+            "name": "Book Reviews / Media Reviews",
+            "slug": "book-reviews-media-reviews"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "4Kcm4etxAJjmeDkHP": 2,
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 1,
+          "fkABsGCJZ6y9qConW": 2
+        },
+        "contents": {
+          "markdown": "I like horror movies with smart, agentic protagonists, while staying in horror genre rather than thriller or action. These are rather thin on the ground. In the spirit of [Scott Garabant's Puzzle Game post](https://www.lesswrong.com/posts/4KATQFzniqDpHo6ck/puzzle-games), here is my list of favorites and an invitation to add yours.\u00a0\n\nMy favorites:\n\n*   Oculus.\u00a0\n*   Hush\n*   Green Room\n\nHonorable mentions. These aren't quite the total package, but are close and extremely good such that they still seemed worth including:\n\n*   The Ring's protagonist is not dumb, but it's more \"solving a mystery\" than \"well does this weapon work?\"\n*   Tremors would need to change very little to be a horror movie, but it is in fact an action movie.\u00a0\n*   It Follows spends a little too much time denying the problem"
+        }
+      }
+    }
+  }
+}

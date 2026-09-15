@@ -1,0 +1,35 @@
+{
+  "_id": "QJYkzqnkRdfsL29Hc",
+  "slug": "pascal-s-pyramid-scheme",
+  "title": "Pascal's Pyramid Scheme",
+  "postedAt": "2010-01-31T18:56:54.557Z",
+  "baseScore": 12,
+  "wordCount": 968,
+  "commentCount": 15,
+  "user": {
+    "displayName": "patrissimo",
+    "slug": "patrissimo"
+  },
+  "tags": [
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "NSMKfa8emSbGNXRKD",
+      "name": "Religion",
+      "slug": "religion"
+    }
+  ],
+  "tagRelevance": {
+    "NSMKfa8emSbGNXRKD": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 3
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "9FoJoNqsfcpkRQtEE",
+  "slug": "mother-ai",
+  "title": "Mother AI",
+  "postedAt": "2025-11-20T03:09:09.445Z",
+  "baseScore": 1,
+  "wordCount": 1391,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Inspector bot",
+    "slug": "inspector-bot"
+  },
+  "tags": [
+    {
+      "_id": "F5gRQdEQHzi3tQ5Ay",
+      "name": "AI Control",
+      "slug": "ai-control"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "F5gRQdEQHzi3tQ5Ay": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "pGqRLe9bFDX2G2kXY": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

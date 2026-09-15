@@ -1,0 +1,29 @@
+{
+  "_id": "AZ7bLCyuXH9dsdLg7",
+  "slug": "to-question-god",
+  "title": "To Question God",
+  "postedAt": "2023-01-22T03:51:12.014Z",
+  "baseScore": 8,
+  "wordCount": 976,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Collapse Kitty",
+    "slug": "collapse-kitty"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

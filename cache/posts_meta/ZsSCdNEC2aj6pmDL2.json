@@ -1,0 +1,41 @@
+{
+  "_id": "ZsSCdNEC2aj6pmDL2",
+  "slug": "universal-eudaimonia",
+  "title": "Universal Eudaimonia",
+  "postedAt": "2020-10-05T13:45:19.609Z",
+  "baseScore": 19,
+  "wordCount": 454,
+  "commentCount": 6,
+  "user": {
+    "displayName": "hg00",
+    "slug": "hg00"
+  },
+  "tags": [
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "tTp6uCjAMJh66vZkc",
+      "name": "Moral uncertainty",
+      "slug": "moral-uncertainty"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "tTp6uCjAMJh66vZkc": 1
+  }
+}

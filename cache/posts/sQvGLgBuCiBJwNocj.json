@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "sQvGLgBuCiBJwNocj",
+        "title": "Sorting Pebbles Into Correct Heaps: The Animation",
+        "slug": "sorting-pebbles-into-correct-heaps-the-animation",
+        "pageUrl": "https://www.lesswrong.com/posts/sQvGLgBuCiBJwNocj/sorting-pebbles-into-correct-heaps-the-animation",
+        "postedAt": "2023-01-10T15:58:20.865Z",
+        "baseScore": 26,
+        "wordCount": 97,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "Writer",
+          "slug": "writer"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "agnEHZTiXEyzBFPmF",
+            "name": "Orthogonality Thesis",
+            "slug": "orthogonality-thesis"
+          }
+        ],
+        "tagRelevance": {
+          "agnEHZTiXEyzBFPmF": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "This video is an animation of\u00a0[Sorting Pebbles Into Correct Heaps](https://www.lesswrong.com/posts/mMBTPTjRbsrqbSkZE/sorting-pebbles-into-correct-heaps)\u00a0by Eliezer Yudkowsky. The narration is a word-for-word reading of the story. Enjoy :)\n\nRight after the video is made public, there will probably be some discussion about it in the Rational Animations' Discord server:\u00a0[https://discord.gg/5Y3Dwz89yH](https://discord.gg/5Y3Dwz89yH)\n\nJoin in if you want to participate in the debates that will take place, but if you already understand the ins and outs of this story, make sure not to spoil it for other people! Hints and nudges to steer the conversation in productive directions are acceptable and appreciated, though!"
+        }
+      }
+    }
+  }
+}

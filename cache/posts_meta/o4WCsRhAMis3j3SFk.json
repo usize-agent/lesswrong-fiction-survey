@@ -1,0 +1,35 @@
+{
+  "_id": "o4WCsRhAMis3j3SFk",
+  "slug": "the-frozen-neutrality",
+  "title": "The frozen neutrality",
+  "postedAt": "2023-04-01T12:58:40.873Z",
+  "baseScore": 3,
+  "wordCount": 912,
+  "commentCount": 0,
+  "user": {
+    "displayName": "ProgramCrafter",
+    "slug": "programcrafter"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

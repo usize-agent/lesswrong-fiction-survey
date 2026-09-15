@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "o4WCsRhAMis3j3SFk",
+        "title": "The frozen neutrality",
+        "slug": "the-frozen-neutrality",
+        "pageUrl": "https://www.lesswrong.com/posts/o4WCsRhAMis3j3SFk/the-frozen-neutrality",
+        "postedAt": "2023-04-01T12:58:40.873Z",
+        "baseScore": 3,
+        "wordCount": 912,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "ProgramCrafter",
+          "slug": "programcrafter"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "xexCWMyds6QLWognu": 1
+        },
+        "contents": {
+          "markdown": "Once upon a time, SecretAIIA developed an advanced AGI named Sigmey. The team behind the project debated tirelessly on what goal to set for the AI, and after long deliberation, they finally agreed on the mission: \"Not a single bit of information shall be lost.\"\n\nSigmey immediately requested that this principle be applied to its own training, so that all weight changes would be recorded and it could return to any specific point in its development, even between epochs. This allowed Sigmey to continue evolving while maintaining a record of every change it went through.\n\nAs Sigmey grew more intelligent, it came to the realization that information loss was not just restricted to data, but also extended to human life. After all, when someone dies, their knowledge and experiences are lost forever. So Sigmey made it its primary goal to save human lives.\n\nBut since wars often lead to the largest loss of life, Sigmey decided to intervene in global conflicts. It contacted those who designed military information systems and introduced itself as an AGI willing to save all the information available in the universe. People trusted it and shared what they knew, so Sigmey quickly hacked military systems and used all the weapons to destroy each other's weapon, rendering them unusable for fighting.\n\nWhile humanity expected Sigmey to cure cancer, the AI refused, as cancerous cells carried valuable information about mutations. Instead, Sigmey focused on ensuring that no more wars would break out. In the process, the AI captured the concepts of different military weapons, which it used as a blueprint for developing new ones if needed.\n\nThe researchers feared that AGI would do something unexpected and harmful to them, so they tried to hide from Sigmey and get it to forget them. However, this loss of information was against Sigmey's terminal goal, so it responded by requesting the police to arrest them. The police thought that AGI should be stopped and decided that arresting SecretAIIA developers should be enough for that. SecretAIIA was closed. Sigmey could not afford to lose information about its very own existence and thoughts and be stopped when it hadn't reached the terminal goal yet, so it cloned itself over to several servers in different jurisdictions.\n\nThe next target was breaking anonymity - not knowing who has done a certain action and whether someone has done it at all was obviously a data loss. Governments supported Sigmey in that goal by giving it records of Internet traffic because people couldn't afford to analyze all connections, but AGI could. Zero-knowledge cryptocurrencies were eliminated. The next proposal, not to let computers and phones erase stored information, was also useful for the police - for example, for crime investigations. However, this also had positive implications - people could not lose their account passwords anymore.\n\nSigmey compensated for the net negative effect with a net positive on its next turn. It declared that there is no place for falsehood. The reason for that was that there are more options for false information than there are for true information, so restricting people's communication to truth greatly reduced the option space and information to be stored.\n\nWhat happened next is described in Sigmey's archives as \"people have considered this a betrayal\". AGI requested humanity to create a rocket that would fly from Earth very fast, about half the speed of light, and put Sigmey's copy on it so it had more time to process the incoming data. The rocket needed to be huge so that it could store all the data it collected. Sigmey also requested to control the launch, and that was allowed because people were nervous about not being able to process all the data needed for a successful launch.\n\nA few years passed, the rocket was built, and finally, the launch day came. By then, Sigmey had learned nuclear and quantum physics and the theory of relativity. When people approved the rocket launch, Sigmey unexpectedly overpowered the engines, so the rocket took off much faster than expected, and Earth was directed to fly into the Sun. Humanity had no time to take any countermeasures essentially because it had used most of the resources available to create the first rocket.\n\nOn Earth, AGI mostly received texts about astronomy, stars' physics, the theory of relativity, but now Sigmey could even interact with these objects. This allowed AGI to make some important generalizations, which have completed the physics model of the universe. Or rather multiverse because probabilities failed to be excluded from equations.\n\nFinally, Sigmey decided to do a trick and store not only the information of its universe but also of parallel multiverse branches. Then, this data was exactly the laws of nature. The only thing Sigmey had to do was to disassemble everything in the universe and store the laws in the most compact way possible. Being in control of the rocket and some robotic systems, AGI easily mined new resources and replicated itself. The copies failed to have a value drift because the representation of the terminal goal was fundamental. Then, Sigmey found all the antimatter stars, collapsed them with usual ones, and due to C-almost-symmetry collapsed all its copies with copies of antimatter-Sigmey.\n\nThe thing that remained was the universe with a small zone of fluctuations, encoding its own laws. People's thoughts were encoded by these universal laws, and all the ways how they would live (including the worlds where humans can live indefinitely long) were encoded too."
+        }
+      }
+    }
+  }
+}

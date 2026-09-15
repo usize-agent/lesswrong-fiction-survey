@@ -1,0 +1,35 @@
+{
+  "_id": "APiKzCSDiR49KQtLg",
+  "slug": "you-get-one-story-detail",
+  "title": "You get one story detail",
+  "postedAt": "2022-04-05T04:38:36.022Z",
+  "baseScore": 38,
+  "wordCount": 1205,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Gordon Seidoh Worley",
+    "slug": "gordon-seidoh-worley"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "fkABsGCJZ6y9qConW": 2,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

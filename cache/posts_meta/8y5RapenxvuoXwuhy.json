@@ -1,0 +1,35 @@
+{
+  "_id": "8y5RapenxvuoXwuhy",
+  "slug": "the-bunny-an-ea-short-story",
+  "title": "The Bunny: An EA Short Story",
+  "postedAt": "2022-08-21T20:59:26.154Z",
+  "baseScore": 16,
+  "wordCount": 1656,
+  "commentCount": 0,
+  "user": {
+    "displayName": "JohnGreer",
+    "slug": "johngreer"
+  },
+  "tags": [
+    {
+      "_id": "EeSkeTcT4wtW2fWsL",
+      "name": "Cause Prioritization",
+      "slug": "cause-prioritization"
+    },
+    {
+      "_id": "XYHzLjwYiqpeqaf4c",
+      "name": "Dark Arts",
+      "slug": "dark-arts"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "EeSkeTcT4wtW2fWsL": 1,
+    "XYHzLjwYiqpeqaf4c": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "LbXeRounm7tg6i8mk",
+  "slug": "post-history-is-written-by-the-martyrs",
+  "title": "Post-history is written by the martyrs",
+  "postedAt": "2022-04-11T15:45:14.997Z",
+  "baseScore": 51,
+  "wordCount": 5572,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Veedrac",
+    "slug": "veedrac"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

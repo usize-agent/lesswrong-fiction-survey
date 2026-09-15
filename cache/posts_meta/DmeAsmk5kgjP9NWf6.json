@@ -1,0 +1,41 @@
+{
+  "_id": "DmeAsmk5kgjP9NWf6",
+  "slug": "a-talmudic-rationalist-cautionary-tale",
+  "title": "A Talmudic Rationalist Cautionary Tale",
+  "postedAt": "2025-04-15T04:11:16.972Z",
+  "baseScore": 13,
+  "wordCount": 559,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Noah Birnbaum",
+    "slug": "noah-birnbaum"
+  },
+  "tags": [
+    {
+      "_id": "LDTSbmXtokYAsEq8e",
+      "name": "Motivated Reasoning",
+      "slug": "motivated-reasoning"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "NSMKfa8emSbGNXRKD",
+      "name": "Religion",
+      "slug": "religion"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "LDTSbmXtokYAsEq8e": 1,
+    "NSMKfa8emSbGNXRKD": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

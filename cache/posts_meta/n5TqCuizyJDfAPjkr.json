@@ -1,0 +1,23 @@
+{
+  "_id": "n5TqCuizyJDfAPjkr",
+  "slug": "the-baby-eating-aliens-1-8",
+  "title": "The Baby-Eating Aliens (1/8)",
+  "postedAt": "2009-01-30T12:07:57.000Z",
+  "baseScore": 141,
+  "wordCount": 3392,
+  "commentCount": 85,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 7
+  }
+}

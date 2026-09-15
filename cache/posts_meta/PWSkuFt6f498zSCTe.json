@@ -1,0 +1,29 @@
+{
+  "_id": "PWSkuFt6f498zSCTe",
+  "slug": "playstation-odysseys",
+  "title": "PlayStation Odysseys",
+  "postedAt": "2019-07-01T17:41:52.499Z",
+  "baseScore": 22,
+  "wordCount": 3073,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jacob Falkovich",
+    "slug": "jacob-falkovich"
+  },
+  "tags": [
+    {
+      "_id": "RLQumypPQGPYg9t6G",
+      "name": "Gaming (videogames/tabletop)",
+      "slug": "gaming-videogames-tabletop"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "RLQumypPQGPYg9t6G": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

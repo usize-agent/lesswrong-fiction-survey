@@ -1,0 +1,23 @@
+{
+  "_id": "ZvvBoHWii3m5w4H59",
+  "slug": "linkpost-look-at-the-water",
+  "title": "Linkpost: Look at the Water",
+  "postedAt": "2024-12-30T19:49:04.107Z",
+  "baseScore": 4,
+  "wordCount": 1200,
+  "commentCount": 3,
+  "user": {
+    "displayName": "J Bostock",
+    "slug": "j-bostock"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

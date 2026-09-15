@@ -1,0 +1,41 @@
+{
+  "_id": "KBjRoc7WccbMehnbN",
+  "slug": "report-from-a-civilizational-observer-on-earth",
+  "title": "Report from a civilizational observer on Earth",
+  "postedAt": "2022-07-09T17:26:09.223Z",
+  "baseScore": 48,
+  "wordCount": 1698,
+  "commentCount": 12,
+  "user": {
+    "displayName": "owencb",
+    "slug": "owencb"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

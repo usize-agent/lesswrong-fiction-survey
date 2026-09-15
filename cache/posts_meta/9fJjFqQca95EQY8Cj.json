@@ -1,0 +1,29 @@
+{
+  "_id": "9fJjFqQca95EQY8Cj",
+  "slug": "continuity",
+  "title": "Continuity",
+  "postedAt": "2025-11-18T05:59:20.193Z",
+  "baseScore": 27,
+  "wordCount": 809,
+  "commentCount": 4,
+  "user": {
+    "displayName": "abramdemski",
+    "slug": "abramdemski"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

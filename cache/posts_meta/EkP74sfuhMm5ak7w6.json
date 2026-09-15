@@ -1,0 +1,29 @@
+{
+  "_id": "EkP74sfuhMm5ak7w6",
+  "slug": "can-talk-can-think-can-suffer",
+  "title": "Can talk, can think, can suffer.",
+  "postedAt": "2023-02-18T18:43:04.215Z",
+  "baseScore": 1,
+  "wordCount": 978,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Ilio",
+    "slug": "ilio"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

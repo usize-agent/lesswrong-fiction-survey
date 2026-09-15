@@ -1,0 +1,29 @@
+{
+  "_id": "y892yPYTLinvESNGz",
+  "slug": "the-last-interview",
+  "title": "The Last Interview",
+  "postedAt": "2026-09-04T01:24:50.504Z",
+  "baseScore": 14,
+  "wordCount": 820,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Nition",
+    "slug": "nition"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

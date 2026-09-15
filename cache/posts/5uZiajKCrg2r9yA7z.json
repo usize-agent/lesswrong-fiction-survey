@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "5uZiajKCrg2r9yA7z",
+        "title": "Good transhumanist fiction?",
+        "slug": "good-transhumanist-fiction",
+        "pageUrl": "https://www.lesswrong.com/posts/5uZiajKCrg2r9yA7z/good-transhumanist-fiction",
+        "postedAt": "2012-10-13T14:47:16.367Z",
+        "baseScore": 13,
+        "wordCount": 221,
+        "commentCount": 68,
+        "noIndex": false,
+        "user": {
+          "displayName": "NancyLebovitz",
+          "slug": "nancylebovitz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "jiuackr7B5JAetbF6",
+            "name": "Transhumanism",
+            "slug": "transhumanism"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "jiuackr7B5JAetbF6": 2
+        },
+        "contents": {
+          "markdown": "I just watched [this](http://vimeo.com/6765616), a very pretty version of \"don't try to make yourself different, just accept who you are\", and I realized that self-directed change in fiction is a worthwhile topic.\n\nWhat I'm looking for is stories where main characters change themselves in ways which are basically improvements-- getting beyond the usual human is a plus, but for purposes of this discussion I'm including any significant positive change.\n\nAnother big plus would be the character needing to learn which of their goals make sense, and which methods work.\n\n\\*\\*ETA:\\*\\* That was a bit of a stub-- HPMOR is partly about Harry and Hermione changing themselves, generally for the better I think (I've only read it once). It would be interesting to see what happens if Quirrell decides he needs to upgrade himself.\n\n\\*Stranger in a Strange Land\\* is an interesting partial example-- the Martian language is presumably an upgrade for the human race, but it was developed by and for Martians, and needs some modification.\n\nA \\*lot\\* of relatively recent fiction has people learning martial arts. I think appearance makeovers (typically for women) have become less common. I don't think there's a lot of fiction about appearance makeovers for men-- \\*The Stars My Destination\\* has one, but it's offstage. It wouldn't surprise me if \\*The Count of Monte Cristo\\* (frequently referenced with TSMD) has one."
+        }
+      }
+    }
+  }
+}

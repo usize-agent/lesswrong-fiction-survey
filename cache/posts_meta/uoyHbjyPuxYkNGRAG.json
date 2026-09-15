@@ -1,0 +1,29 @@
+{
+  "_id": "uoyHbjyPuxYkNGRAG",
+  "slug": "the-apocalyptic-arrival-of-truth",
+  "title": "The Apocalyptic Arrival of Truth",
+  "postedAt": "2026-08-09T21:32:25.565Z",
+  "baseScore": 43,
+  "wordCount": 430,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Caleb Biddulph",
+    "slug": "caleb-biddulph"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

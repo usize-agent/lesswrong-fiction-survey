@@ -1,0 +1,47 @@
+{
+  "_id": "MWnB22utwmPzt8zAG",
+  "slug": "gpt-7-the-tale-of-the-big-computer-an-experimental-story",
+  "title": "GPT-7: The Tale of the Big Computer (An Experimental Story)",
+  "postedAt": "2023-07-10T20:22:26.918Z",
+  "baseScore": 4,
+  "wordCount": 1457,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Justin Bullock",
+    "slug": "justin-bullock"
+  },
+  "tags": [
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "iJkSuNBRRBwbwkDEP",
+      "name": "Convergence Analysis (org)",
+      "slug": "convergence-analysis-org"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "iJkSuNBRRBwbwkDEP": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

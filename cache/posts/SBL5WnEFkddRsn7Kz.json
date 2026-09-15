@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "SBL5WnEFkddRsn7Kz",
+        "title": "Killswitch",
+        "slug": "killswitch",
+        "pageUrl": "https://www.lesswrong.com/posts/SBL5WnEFkddRsn7Kz/killswitch",
+        "postedAt": "2023-11-18T22:53:41.436Z",
+        "baseScore": 2,
+        "wordCount": 928,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Junio",
+          "slug": "junio"
+        },
+        "tags": [
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "ZFrgTgzwEfStg26JL": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "Epistemic status: fiction. Speculative fiction. But that said, perhaps very near-term speculative fiction, and perhaps somewhere on the way to the borderline between \"fiction\" and \"design document.\"\n\nAn AI killswitch bears almost no resemblance to most of its physical analogs. It has less in common with fuses or airbags, more with distributed systems, election integrity processes, or heart monitors.\n\nThe design goal is simple enough to specify: give the system as wide an operating envelope as possible without compromising safety, at a satisfactory reliability threshold.\n\nHow much envelope are we talking? In recent memory, weeks, even months. These days, more like days. Soon enough, we expect hours. Beyond that, current methods will not be viable, and an entirely new paradigm will have to have been invented.\n\nModern AI systems are spun up to solve specific, locally defined, generally speaking measurable-outcome tasks. Spinning one up is like deploying the Navy SEALS, and also like beginning open-heart surgery, where the patient whose vitals are being monitored is life as we know it.\n\nSafety is hard to quantify. This is where the heuristics come in. And the distributed systems, and the election integrity.\n\nFor the most part, safety is defined by its inverse. If anything slips outside of some heuristic window, the process is halted. For example, if too few people in the general public approve of what the AI is doing: process stops. Process stops means: machines shut down, thermite ignited, fingerprints published to globally synchronized zero-knowledge content blacklist, physical archives sealed and locked in an underground vault whose cumulative contents are now or soon expected to be many orders of magnitude more dangerous than all of the planet\u2019s collected nuclear waste. This is not considered a failure or an erroneous outcome \u2014 it is the expected and normal way that an AI project terminates. Again, generally speaking, within days of startup. A killswitch is just a good off button.\n\nSo \u2014 too few people approve: process stops. Too\u00a0*many* people approve: process stops. Delta of approval ratings changes too fast: process stops. Not enough (or too many) people check in at once in any given time frame: process stops. Too much unusual stock market activity in the relevant sectors: process stops. Any of the three redundant monitoring systems experience outages outside of an acceptable window: process stops.\n\nAnd then there\u2019s the consensus group. This is a certain number of pre-vetted, pseudonymous, independent actors \u2014 total population topping out at a relatively low power of two \u2014 entirely separate from the main voting system. Your project is assigned a group of these people through a poorly-understood but fairly boring bureaucratic process. Size of group is determined by riskiness of project. Each group member gets a live vote and a dead vote.\n\nA live vote is an individual electing to halt the process. Only one live vote is needed for the process to stop. The fact of a live vote having been deployed, and the pseudonymous identities of all members of the group it came from, both become public knowledge as soon as it happens; the identity of the particular individual who cast it is cryptographically unknowable except to themselves.\n\nA dead vote is a failure to check in within a given threshold of time \u2014 a dead man\u2019s switch. Check-in interval varies by risk, as does number of check-in failures required to halt the process. Possible intervals are one minute (never used), five minutes (riskiest projects), fifteen minutes (normal-risk), a half-hour (low-normal risk), one hour, two hours, and four hours. Number of failures is most commonly either three or five. So\u2014internet blackout affects three people in your group at once for six minutes: process stops. One person in the group has a heart attack: process stops. Someone forgets their beeper to go get a coffee and one or two other things happen: process stops. The larger the group size, the smaller the interval, and the lower the threshold, the more this sort of effect dominates reasons for shutdown.\n\nAs to reliability, this is basically a numbers game. Like with any production service, you pick an SLA with a desired number of nines in it, and deliver that. You want to simultaneously be pushing two quantities as low as you can get them, with one prioritized over the other in case of conflict between them. The two quantities are: false shutdown rate, and false not-shutdown rate.\n\nFalse shutdown rate needs to be low for any of this to work at all; too high, and it becomes impossible to make progress. Ideally you want it at about the rate you\u2019d have for a production website: you expect it to always load every time you open the browser, but if it doesn\u2019t, it\u2019s not the end of the world.\n\nWhich brings us to false not-shutdown rate. This is the one with priority. How low do you want this? How many nines of not-not-shutdowns? At the end of the day, it\u2019s an inherently subjective question. The likelihood of extinction event due to an asteroid impact in any given year is something like .0000001. You obviously want something way lower than that \u2014 asteroid impacts leave simple life forms behind \u2014 but how much lower? Having an answer to this question is better than not having an answer to it. Pick an answer, and a system can be designed to deliver it. You can be wrong about your system delivering that \u2014 and at these levels you almost certainly are \u2014 but you can at least try.\n\nA killswitch is just a good off button."
+        }
+      }
+    }
+  }
+}

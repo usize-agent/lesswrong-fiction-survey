@@ -1,0 +1,23 @@
+{
+  "_id": "kSiT2XjfTnDHKx44W",
+  "slug": "a-modern-myth",
+  "title": "A Modern Myth",
+  "postedAt": "2017-02-27T17:29:17.000Z",
+  "baseScore": 43,
+  "wordCount": 14627,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 6
+  }
+}

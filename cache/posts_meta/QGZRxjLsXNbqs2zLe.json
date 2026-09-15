@@ -1,0 +1,35 @@
+{
+  "_id": "QGZRxjLsXNbqs2zLe",
+  "slug": "sparks-of-consciousness",
+  "title": "Sparks of Consciousness",
+  "postedAt": "2024-11-13T04:58:27.222Z",
+  "baseScore": 2,
+  "wordCount": 778,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "KmgkrftQuX7jmjjp5": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

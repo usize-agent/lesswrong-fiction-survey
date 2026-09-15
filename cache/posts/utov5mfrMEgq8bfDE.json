@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "utov5mfrMEgq8bfDE",
+        "title": "Drawing Big Bright Lines for Cyber & Biological AI",
+        "slug": "drawing-big-bright-lines-for-cyber-and-biological-ai",
+        "pageUrl": "https://www.lesswrong.com/posts/utov5mfrMEgq8bfDE/drawing-big-bright-lines-for-cyber-and-biological-ai",
+        "postedAt": "2026-06-11T00:55:23.278Z",
+        "baseScore": -5,
+        "wordCount": 1154,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Austin Morrissey",
+          "slug": "austin-morrissey"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "Anthropic released a mythos variant, [Fable](https://www.anthropic.com/news/claude-fable-5-mythos-5), with stricter safeguards for life-science and cyber queries. Instead of trying to identify the small subset of scientific questions that look weaponizable, they reroute these queries broadly, however benign they may be, even something as basic as, \u201cWhat is biology?\u201d These queries are blocked and rerouted to Opus 4.8, which was among the most powerful AI models in the world as of last week.\n\nSome are troubled by this behavior; I don\u2019t think they fully account for the pace of progress, what is at stake, or what can be gained by slowing the diffusion of capabilities. Every security decision has trade-offs. Controlled access will affect vastly more benign users than malicious actors. But it can buy us a little time, and we need time to prepare. What follows is an allegory, prompted by the negative response these safeguards have caused.\n\n**Notes from Cannon Man**\n-------------------------\n\nI am a reasonable man. I am a verifiable man. I use my credit card with my real name, gentlemen, my real name. It\u2019s true. Yet they treat me like a wild animal. I was in the gun shop when it happened, you understand. I saw the whole thing. A man walked in and bought the automatic rifle. They practically subsidized his ammunition, two hundred a month, here you go, sir. But then he asked for the Gatling gun, and only then, gentlemen, only at the Gatling gun, did they act all mighty! The all omnipotent! The verifier of verifiers! The holiest of holy!\n\n\u201cNo. I don\u2019t want to give you my ID. You misheard me. I told you. I want the Gatling gun. I\u2019ve seen the news. We\u2019ve all seen it. You have one. You built a really dangerous one. It shoots big bullets fast.\u201d He leans on the counter. \u201cGive me access, rails free. And the long-range artillery cannon, I want access to that too.\u201d\n\n\u201cWhat work do you do that needs our most powerful weapon?\u201d\n\n\u201cIt\u2019s none of your business. Enough questions.\u201d\n\nThen the brute raised the rifle. I swear it gentlemen it\u2019s true, he demanded the most lethal cannon, I must admit that I wanted it too. But I am not like that guy. I am a reasonable man, a verifiable man you see. I have a name, why should I degrade myself and let them interrogate me? I didn\u2019t stick around the shop to see how that mess panned out. Violence makes me sick. It is alien to me, a thing of lesser men and of animals. Physically ill, gentlemen, I swear to you.\n\nLike I said, I am a reasonable man. I can\u2019t stand to be around scoundrels, the honest ones are the worst. I despise phoniness and condemn all forms of fakery, and I recoil from the notion that the counter clerk cares. What does he know about artillery? The pretending, it\u2019s pretentious. It\u2019s not an accident those words have similar shapes. Always pay attention to words, gentlemen, I need not remind you. But shapes, pay extra attention to shapes. When they look alike, the substance is similar.\n\nI became a cannon man to help others. I take gun violence seriously; I am an American, and I am not like that other guy. The Gatling gun itself was invented to end wars, yes, I know it\u2019s more complicated than that, you needn\u2019t write to me about it. But don\u2019t tell me there is no life-saving work with cannons. Do you know what shot the Luftwaffe out of the sky over London during the Blitz? Cannons, gentlemen. Cannons saved that city.\n\nMy use of cannons isn\u2019t even like that, it\u2019s not instrumental to harm even in that noble way. I have many different uses for lethal cannons. All of them benign, and I prefer to keep them private. Besides, beyond being beneficial, they are complicated, I haven\u2019t the time to explain to you my life\u2019s work, and how could you understand it when I don\u2019t grasp it myself?\n\nI\u2019ll say this and no more. It involves precise measurements, important and interconnected systems, it spans life and death, it moves through time and space. I am a cannon man and there are others like me. This work is done overwhelmingly by good people. By the numbers, or what is it you say, by the base rates? Yes, by the base rate. This is verifiably true. I\u2019ll say nothing more on my need for the mightiest cannon. I don\u2019t like talking about it. And to be frank, it\u2019s uncouth you\u2019d ask me why the third most powerful cannon will not do.\n\nThat is already more than I intended, and you will get nothing further from me.\n\nBut since you press me (and you do press), if I could get my hands on that cannon, what would I do? I\u2019ll tell you exactly what I\u2019d do. I would put it in my back yard and look at it. I would never load it with explosive. I swear to you it\u2019d be blanks only. But I would put it to work for me, good important work. For example, I would have it fire every day at six in the morning, so the ground shakes and my chest becomes a hollow place where sound resonates. That is an alarm worth waking to. That is one benign use of the cannon, and there are others, many others, which I will not describe.\n\n\u201cWhat is it you want?\u201d I hear you say. I\u2019ll tell you plainly.\n\nI want them to be reasonable. Either stop developing cannons, or give me unrestricted access to them. Instead, what do they do? For the few, they roll out a red carpet. Right this way, sir, they\u2019d say, and usher in a line of soldiers, beardless men (by base rates good fellows), and in their big steel-toed boots, tiny feet. I have never seen the feet. I know about the feet. At the very least I have heard songs about trampling feet, songs of the political leanings variety, from different cultures, which I have listened to asynchronously, digitally, and second hand, so I am speaking to you from direct experience.\n\nI\u2019ll tell you what would be better, since none of them have had the wit to think of it. We gather a small council, a few trusted fellows, men who know cannons, men like myself, I say it without vanity. We would take inventory of all the happenings of the world and of the country, at the federal level, the state level, the local level, everything accounted for. We would decide who is in and who is out. In would include cannon men like me. Out would depend on reasonable things. Don\u2019t ask me which things. The things would be reasonable. That is the whole point of the council.\n\nI am a reasonable man. I am a cannon man. I am your council man.\n\nGive me the cannon.\n\n![image.png](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1781138534/lexical_client_uploads/gpc41qjeychiwmjbvri9.png)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "f2ivgmjjPyjhhCe5J",
+        "title": "What could one do with truly unlimited computational power?",
+        "slug": "what-could-one-do-with-truly-unlimited-computational-power",
+        "pageUrl": "https://www.lesswrong.com/posts/f2ivgmjjPyjhhCe5J/what-could-one-do-with-truly-unlimited-computational-power",
+        "postedAt": "2020-11-11T10:03:03.891Z",
+        "baseScore": 34,
+        "wordCount": 499,
+        "commentCount": 20,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yitz",
+          "slug": "yitz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "rjEZWSbSffhaWYRvo",
+            "name": "Hypotheticals",
+            "slug": "hypotheticals"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 5,
+          "Ng8Gice9KNkncxqcj": 5,
+          "etDohXtBrXd8WqCtR": 4,
+          "rjEZWSbSffhaWYRvo": 3,
+          "sYm3HiWcfZvrGu3ui": 5
+        },
+        "contents": {
+          "markdown": "**One day, you find an unmarked cardboard box sitting on your front porch.**\n\nOn top of the box is a single note:\n\n\u201cOpen me.\u201d\n\nYou take the box inside and open it, to find what appears to be a small black laptop nestled between old newspaper clippings. There are no identifying features to the laptop, other than its sleek blackness and small size. When you open the laptop, instead of being greeted with any sort of familiar welcome screen, there is simply text, displayed in white over a black background. The text says the following:\n\n\u201cWelcome to the next stage of the human experiment.\n\nI have have been watching your kind for a while now, and I believe that you are now ready. I have decided to entrust this machine to your care. Do not attempt to figure out how this machine performs its calculations, as uninformed tampering may result in the deletion of your universe.\n\nThe item you are now holding is what your mathematicians would call a Universal Turing Machine, similar in many ways to your typical computer. This machine, however, is significantly different from any other currently existent on Earth.\n\nAfter reading this message, press any button to reveal two input fields stacked on top of each other, and one output field at the bottom. All input fields can be fed any required data from the internet, or can be entered into directly through the keyboard. Input lengths of any finite size are acceptable.\n\nThe top input field will accept and is capable of automatically running the intended code of any language or format that is capable of being run on a standard Universal Turing Machine.\n\nThat input will then be translated into the necessary binary code to be computable by the internal \u201cblack box\u201d computer.\n\nThe bottom input field must be fed a finite natural number of any length, which will determine the number of computations per second. Do not worry about exceeding the speed of light, or of going past any other finite limit; the computation itself is performed in a \u201cbubble universe\u201d with different physical laws than your own, and is capable of computing at absolutely any positive finite speed relative to your universe.\n\nThe output field will display the output of your calculations, if any exist, after exactly one minute of computation relative to you.\n\nDo with this machine as you will.\n\nWishing you the best,\n\nGod.\u201d\n\nYour finger hovers over the keyboard.\n\nWhat will you do with this marvelous machine? What *can* you do?\n\nWhat happens next is up to you.\n\n>________________________________\n\nNOTE FROM ME, OUTSIDE OF THE STORY: I wrote this trying to work out my thoughts on what might be possible with a machine with unlimited but finite computing power. I was going to continue the story, but found that I honestly couldn't think of all that many interesting things that would be possible to do with such a machine, that couldn't already be done now. As such, I'm turning this question public, hoping that anyone reading this might have some interesting ideas that I haven't thought of."
+        }
+      }
+    }
+  }
+}

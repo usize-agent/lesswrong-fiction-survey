@@ -1,0 +1,59 @@
+{
+  "_id": "rwjv8bZfSuE9ZAigH",
+  "slug": "act-of-charity",
+  "title": "Act of Charity",
+  "postedAt": "2018-11-17T05:19:20.786Z",
+  "baseScore": 182,
+  "wordCount": 2396,
+  "commentCount": 49,
+  "user": {
+    "displayName": "jessicata",
+    "slug": "jessica-liu-taylor"
+  },
+  "tags": [
+    {
+      "_id": "EnFKSZYiDHqMJuvJL",
+      "name": "Social Reality",
+      "slug": "social-reality"
+    },
+    {
+      "_id": "JsJPrdgRGRqnci8cZ",
+      "name": "Altruism",
+      "slug": "altruism"
+    },
+    {
+      "_id": "iP2X4jQNHMWHRNPne",
+      "name": "Motivations",
+      "slug": "motivations"
+    },
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "EnFKSZYiDHqMJuvJL": 4,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "JsJPrdgRGRqnci8cZ": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "iP2X4jQNHMWHRNPne": 2,
+    "xexCWMyds6QLWognu": 2,
+    "yXNtYNHJB54T3bGm3": 1
+  }
+}

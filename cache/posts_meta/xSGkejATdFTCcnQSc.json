@@ -1,0 +1,29 @@
+{
+  "_id": "xSGkejATdFTCcnQSc",
+  "slug": "eulogy-to-the-obits",
+  "title": "Eulogy to the Obits",
+  "postedAt": "2025-04-21T14:10:27.211Z",
+  "baseScore": 5,
+  "wordCount": 3091,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Niko_McCarty",
+    "slug": "niko_mccarty"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "vmvTYnmaKA73fYDe5",
+      "name": "Life Extension",
+      "slug": "life-extension"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "vmvTYnmaKA73fYDe5": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "dyG8RbifEECsEqvJq",
+  "slug": "the-wolves-are-all-gone",
+  "title": "The Wolves Are All Gone",
+  "postedAt": "2026-01-29T20:24:39.740Z",
+  "baseScore": 8,
+  "wordCount": 2153,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jack Bradshaw",
+    "slug": "jack-bradshaw"
+  },
+  "tags": [
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "25oxqHiadqM6Hf7Gn",
+      "name": "Great Filter",
+      "slug": "great-filter"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "25oxqHiadqM6Hf7Gn": 1,
+    "GBpwq8cWvaeRoE9X5": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

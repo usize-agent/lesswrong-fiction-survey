@@ -1,0 +1,23 @@
+{
+  "_id": "BzCQHnt7z8qvzqCmi",
+  "slug": "the-parable-of-the-fallen-pendulum-part-1",
+  "title": "The Parable Of The Fallen Pendulum - Part 1",
+  "postedAt": "2024-03-01T00:25:00.111Z",
+  "baseScore": 117,
+  "wordCount": 521,
+  "commentCount": 32,
+  "user": {
+    "displayName": "johnswentworth",
+    "slug": "johnswentworth"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1
+  }
+}

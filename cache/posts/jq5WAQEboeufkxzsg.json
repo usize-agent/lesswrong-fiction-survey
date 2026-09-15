@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "jq5WAQEboeufkxzsg",
+        "title": "Imaginary Positions",
+        "slug": "imaginary-positions",
+        "pageUrl": "https://www.lesswrong.com/posts/jq5WAQEboeufkxzsg/imaginary-positions",
+        "postedAt": "2008-12-23T17:35:40.000Z",
+        "baseScore": 30,
+        "wordCount": 935,
+        "commentCount": 49,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "pszEEb3ctztv3rozd": 1
+        },
+        "contents": {
+          "markdown": "Every now and then, one reads an article about the Singularity in which some reporter confidently asserts, \"The Singularitarians, followers of Ray Kurzweil, believe that they will be uploaded into techno-heaven while the unbelievers languish behind or are extinguished by the machines.\"\n\nI don't think I've ever met a *single* Singularity fan, [Kurzweilian or otherwise](http://yudkowsky.net/singularity/schools), who thinks that only believers in the Singularity will go to upload heaven and everyone else will be left to rot. Not *one*. (There's a very few pseudo-Randian types who believe that only the truly selfish who accumulate lots of money will make it, but they expect e.g. me to be damned with the rest.)\n\nBut if you start out thinking that the Singularity is a loony religious meme, then it seems like Singularity believers *ought* to believe that they alone will be saved. It seems like a detail that would fit the story.\n\nThis fittingness is so strong as to manufacture the conclusion without any particular observations. And then the conclusion *isn't marked as a deduction*. The reporter just thinks that they investigated the Singularity, and found some loony cultists who believe they alone will be saved.\n\nOr so I deduce. I haven't actually *observed* the inside of their minds, after all.\n\nHas *any* rationalist *ever* advocated behaving as if all people are reasonable and fair? I've repeatedly heard people say, \"Well, it's not always smart to be rational, because other people aren't always reasonable.\" What rationalist said they were? I would deduce: This is something that non-rationalists believe it would \"fit\" for us to believe, *given our general blind faith in Reason*. And so their minds just add it to the knowledge pool, as though it were an observation. (In this case I encountered yet another example recently enough to find the reference; see [here](http://ben.casnocha.com/2008/12/easier-to-deny-or-rationalize-behavior-than-evolve-your-own-identity.html#comment-6a00d8341c85c753ef0105366832a0970c).)\n\n([Disclaimer](http://www.overcomingbias.com/2008/06/against-disclai.html): Many things have been said, at one time or another, by one person or another, over centuries of recorded history; and the topic of \"rationality\" is popularly enough discussed that some self-identified \"rationalist\" may have described \"rationality\" that way at one point or another. But I have yet to hear a rationalist say it, myself.)\n\nI once read an article on Extropians (a certain flavor of transhumanist) which asserted that the Extropians were a reclusive enclave of techno-millionaires (yeah, don't we wish). Where did this detail come from? Definitely not from observation. And considering the sheer divergence from reality, I doubt it was ever planned as a deliberate lie. It's not just easily falsified, but a mark of *embarassment* to give others too much credit that way (\"Ha! You believed they were millionaires?\") One suspects, rather, that the proposition seemed to fit, and so it was added - without any warning label saying \"I deduced this from my other beliefs, but have no direct observations to support it.\"\n\nThere's also a general problem with reporters which is that they don't write what happened, they write the Nearest Cliche to what happened - which is very little information for backward inference, especially if there are few cliches to be selected from. The distance from actual Extropians to the Nearest Cliche \"reclusive enclave of techno-millionaires\" is kinda large. This may get a separate post at some point.\n\n[My actual](/lw/wp/what_i_think_if_not_why/) nightmare scenario for the future involves well-intentioned AI researchers who try to make a nice AI but don't do enough math. (If you're not an expert you can't track the technical issues yourself, but you can often also tell at a glance that they've put very little thinking into \"nice\".) The AI ends up wanting to tile the galaxy with tiny smiley-faces, or reward-counters; the AI doesn't bear the slightest hate for humans, but we are made of atoms it can use for something else. The most probable-seeming result is not Hell On Earth but Null On Earth, a galaxy tiled with paperclips or something equally morally inert.\n\nThe imaginary position that gets invented because it seems to \"fit\" - that is, fit the folly that the other *believes* is generating the position - is \"The Singularity is a dramatic final conflict between Good AI and Evil AI, where Good AIs are made by well-intentioned people and Evil AIs are made by ill-intentioned people.\"\n\nIn many such cases, no matter how much you *tell* people what you really believe, they don't update! I'm not even sure this is a matter of any deliberately justifying decision on their part - like an explicit counter that you're concealing your real beliefs. To me the process seems more like: They stare at you for a moment, think \"That's not what this person *ought* to believe!\", and then blink away the dissonant evidence and continue as before. If your real beliefs are *less convenient* for them, the same phenomenon occurs: words from the lips will be discarded.\n\nThere's an obvious relevance to prediction markets - that if there's an outstanding dispute, and the market-makers don't consult both sides on the wording of the payout conditions, it's possible that one side won't take the bet because \"*That's* not what we assert!\" In which case it would be highly inappropriate to crow \"Look at those market prices!\" or \"So you don't really believe; you won't take the bet!\" But I would guess that this issue has already been discussed by prediction market advocates. (And that standard procedures have already been proposed for resolving it?)  \n\nI'm wondering if there are similar Imaginary Positions in, oh, say, economics - if there are things that few or no economists believe, but which people (or journalists) think economists believe because it seems to them like \"the sort of thing that economists would believe\". Open general question."
+        }
+      }
+    }
+  }
+}

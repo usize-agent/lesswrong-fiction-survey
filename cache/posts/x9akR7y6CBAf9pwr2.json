@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "x9akR7y6CBAf9pwr2",
+        "title": "Where's my magic sword?",
+        "slug": "where-s-my-magic-sword",
+        "pageUrl": "https://www.lesswrong.com/posts/x9akR7y6CBAf9pwr2/where-s-my-magic-sword",
+        "postedAt": "2021-09-27T07:26:28.446Z",
+        "baseScore": 52,
+        "wordCount": 497,
+        "commentCount": 13,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "JsJPrdgRGRqnci8cZ",
+            "name": "Altruism",
+            "slug": "altruism"
+          },
+          {
+            "_id": "ZWRtQgXucwzAFZqNJ",
+            "name": "China",
+            "slug": "china"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "JsJPrdgRGRqnci8cZ": 2,
+          "ZWRtQgXucwzAFZqNJ": 2,
+          "pszEEb3ctztv3rozd": 2
+        },
+        "contents": {
+          "markdown": "When performing first aid, you must never leave a patient until you have passed them off to someone more qualified than yourself. This is a corollary to *primum non nocere* (first do no harm). Helping someone and then abandoning them can be worse than just being a bystander.\n\nOnce upon a time, when I was at the lightrail station in the International District, a young woman approached my brother and me. She was holding the hand of a blind elderly lady. The old woman did not speak English. The young woman did not speak Chinese. This was obviously a quest hook. I could almost see the giant yellow question mark floating above her head. My brother and I accepted the escort mission.\n\nIf this were a videogame, we'd get a quest marker indicating on our map where we're supposed to take the blind woman. Real life isn't so kind. My brother and I speak enough Chinese to ask \"Where do you want to go?\" Unfortunately, the dialect of Chinese the woman spoke was not the dialect we spoke.\n\nMy brother and I speak Mandarin. The lady spoke Cantonese. The difference between Mandarin and Cantonese isn't like the difference between British English and American English. It's more like the difference between English and Russian. You know the saying \"a language is a dialect with an army\"? Well, a language without an army is a dialect. Chinese so-called \"dialects\" are mutually unintelligable languages when spoken.\n\nWe asked where she wanted to go. She said \"*lusi*\". [Click [here](https://translate.google.com/?sl=zh-CN&tl=en&text=%E9%99%86%E5%9B%9B&op=translate) for an approximate pronunciation]. We were confused. \"*Lusi*\" isn't a word in Mandarin. \"*Lu*\" and \"*si*\" are words in Mandarin but that's less helpful than you might expect. \"*Lu*\" has [like 50 different meanings](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=lu) and \"*si*\" is [just as bad](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=si). To make matters worse, \"*lu*\" sounds a lot like [\"*l\u00fc*\"](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=lv) and \"*si\"* might mean [\"*shi*\"](https://www.mdbg.net/chinese/dictionary?page=worddict&wdrst=0&wdqb=shi), depending on one's accent. \"*Lusi*\" could mean anything from \"aluminum lion\" to \"lawyer\". (In case you've ever wondered why Chinese doesn't use phonetic writing, this is one of the reasons.)\n\nFortunately, there is a large Cantonese-speaking population in the International District. (This is not a coincidence. The lady was part of that Cantonese population.) We visited a tea shop to find someone who spoke Cantonese. Our translator confirmed that the blind lady did indeed want to to go to \"*lusi*\" and was confused as we were what \"*lusi*\" was. But the translator did provide an additional clue: the woman wanted to go to the pharmacy.\n\nWe escorted the woman toward the pharmacy, trusting that a cutscene would activate and we would receive additional instructions. Sure enough, it did. As we approached the pharmacy, she stopped following us and instead went for the brick wall of the building. She followed the wall to the entrance of which she had the key. I made sure she got safely back to her apartment. She thanked me \u8b1d\u8b1d. I collected my experience points and returned home.\n\nOn my way out of the building, I stopped by Luke's Pharmacy.\n"
+        }
+      }
+    }
+  }
+}

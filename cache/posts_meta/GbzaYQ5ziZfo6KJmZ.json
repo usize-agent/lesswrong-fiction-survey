@@ -1,0 +1,23 @@
+{
+  "_id": "GbzaYQ5ziZfo6KJmZ",
+  "slug": "brass-puppet",
+  "title": "Brass Puppet",
+  "postedAt": "2022-05-26T17:42:04.876Z",
+  "baseScore": 68,
+  "wordCount": 741,
+  "commentCount": 4,
+  "user": {
+    "displayName": "abramdemski",
+    "slug": "abramdemski"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4
+  }
+}

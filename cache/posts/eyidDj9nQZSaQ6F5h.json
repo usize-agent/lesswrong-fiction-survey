@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "eyidDj9nQZSaQ6F5h",
+        "title": "What are the best ways to publish rational fiction nowadays?",
+        "slug": "what-are-the-best-ways-to-publish-rational-fiction-nowadays",
+        "pageUrl": "https://www.lesswrong.com/posts/eyidDj9nQZSaQ6F5h/what-are-the-best-ways-to-publish-rational-fiction-nowadays",
+        "postedAt": "2026-03-16T18:13:36.351Z",
+        "baseScore": 17,
+        "wordCount": 760,
+        "commentCount": 15,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ihor Kendiukhov",
+          "slug": "ihor-kendiukhov-1"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "izp6eeJJEg9v5zcur",
+            "name": "Community",
+            "slug": "community"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "izp6eeJJEg9v5zcur": 2
+        },
+        "contents": {
+          "markdown": "Where do people publish something like ratfic now? I couldn't find any contemporary posts or discussions on LessWrong on this topic, so I decided to raise the question myself. There is a wikitag *Fiction* with a lot of posts, but the majority of them seem to come from elder days.\n\nOptions I considered\n--------------------\n\n**LessWrong**\n\nPros:\n\n*   Kind of the target audience.\n*   Many people actually read what you write here.\n*   Active feedback.\n\nCons:\n\n*   No one seems to be doing this here now, and maybe there are reasons for that.\n*   I don't want to pollute the space with something potentially irrelevant.\n*   My pieces are not concentrated ratfic, only partially so. They are more about rationality culture as a cultural phenomenon than about rational thinking manifested directly in the plot.\n\n[**r/HFY**](https://www.reddit.com/r/HFY/)\n\nPros:\n\n*   Thematically seems very relevant.\n*   Some stories there appear to be popular.\n\nCons:\n\n*   Easy to remain unnoticed.\n*   It's just a subreddit with no good infrastructure to manage and maintain a book over time.\n\n[**r/rational**](https://www.reddit.com/r/rational/)\n\nPros:\n\n*   Literally dedicated to ratfic.\n\nCons:\n\n*   Doesn't seem very active; most people just crosspost from somewhere else.\n\n**Substack**\n\nPros:\n\n*   Seems like one of the default ways for people to write fiction now, and it has all the necessary functionality.\n\nCons:\n\n*   I don't have any audience there. How do I get one?\n\n[**Royal Road**](https://www.royalroad.com/)\n\nPros:\n\n*   Also seems like one of the default ways to publish, and there are some success stories where people got noticed without an existing audience.\n\nCons:\n\n*   No concentration of the target audience; it doesn't seem like many people interested in this kind of fiction would be hanging out there.\n\n**Anything else?** I would appreciate any suggestions I haven't considered.\n\nObviously, I also consider multiplatform publishing. For example, something like \"original posting on Royal Road + crossposting to LW, reddit, and telegram\".\n\nAbout my books specifically\n---------------------------\n\nYou don't need to read this section if you only want to answer the question above, which would already be very helpful. But if you're curious, here is some context about the books.\n\nGenerally, the genre is a combination of:\n\n*   Rational fiction as it is commonly defined.\n*   Depiction of rationalist culture as a cultural phenomenon.\n*   Optimistic proud-human-spirit golden-era-style sci-fi, but very hard.\n*   Depiction of Eastern European (or, to be more precise, Ukrainian) science olympiad culture.\n\nNot a utopia, but what I call an *antiantiutopia*: a world from whose point of view our world looks like an antiutopia.\n\n**First book \u2014 \"Coming of Age\"**\n\n*   Our time, but a parallel timeline that diverged from ours in the mid-20th century. This is a timeline where history has gone well. They have their equivalent of \"[What happened in 1971?](https://wtfhappenedin1971.com)\" but in the positive direction.\n*   Slow pace, not much action, a lot of worldbuilding and multiverse-nostalgia about a better world; philosophy and culture. Essentially an encyclopedia of my dream world disguised as fiction. A lot of references, hidden messages, and structures to decipher.\n*   Central topic: seriousness, civilizational adulthood, and cosmic responsibility.\n\nIt would be logical to publish the first book first, but it is probably more boring and risky than the second one, so I'm not sure. Especially if I publish chapter by chapter, since some chapters don't contain any action and are there for contemplation, so readers can't be held by dopamine alone.\n\n**Second book \u2014 \"Second Try\"**\n\n*   The same universe as the first book but three centuries later.\n*   Pre-singularity ASI alignment drama, but with a society that is not insane. Almost everyone is very sane, doing their best as they see it.\n*   Glorious transhuman future in the flesh.\n*   Sci-fi action, contacts with extraterrestrial civilizations.\n*   Central topic: a better humanity still contains a great evil in its heart but can overcome it.\n\nIntuitively, this book feels like it would catch more people, and it is also about ASI and the approaching singularity, while being carefull technical and scientific realism, so the topic is hot, and overall it is more action-oriented. However, it relies on many things from the previous book, and some elements may be unclear or feel unrealistic without the explanations and plot events of the first one.\n\nMy default plan is still to launch the second book first and then offer the first book to the interested audience who want to know how that world was born and formed.\n\nRegarding monetization: I don't care. I care only about reaching the audience.\n\nLet me know if you have any thoughts on any of this."
+        }
+      }
+    }
+  }
+}

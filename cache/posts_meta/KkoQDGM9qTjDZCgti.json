@@ -1,0 +1,29 @@
+{
+  "_id": "KkoQDGM9qTjDZCgti",
+  "slug": "the-shape-of-heaven",
+  "title": "The Shape of Heaven",
+  "postedAt": "2024-11-30T23:38:06.628Z",
+  "baseScore": 16,
+  "wordCount": 1386,
+  "commentCount": 1,
+  "user": {
+    "displayName": "edgecase64",
+    "slug": "edgecase64"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

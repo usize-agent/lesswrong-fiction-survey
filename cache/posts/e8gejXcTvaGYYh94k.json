@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "e8gejXcTvaGYYh94k",
+        "title": "Omniscience one bit at a time: Chapter 1",
+        "slug": "omniscience-one-bit-at-a-time-chapter-1",
+        "pageUrl": "https://www.lesswrong.com/posts/e8gejXcTvaGYYh94k/omniscience-one-bit-at-a-time-chapter-1",
+        "postedAt": "2025-11-09T18:10:58.272Z",
+        "baseScore": 23,
+        "wordCount": 834,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Dentosal",
+          "slug": "dentosal"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "I was on my nightly walk in the nearby forest. It was just past midnight. I was following a narrow path along the coastline, the full moon from a cloudless sky shining just bright enough for me to see. When the path took its last turn from the coast to inland, I noticed it. A faint blue glow, straight ahead, off the path, but not that far away. I was tired, but some things you just have to investigate. *Hopefully there's not anybody there, would be quite embarrassing to bother them.*\n\nNot a person, apparently. Just a coin. It looked dark gray like steel, but it *glowed* blue. It wasn't a reflection, the light was definitely coming from the coin itself. Maybe you could do that with phosphorus. Or maybe it was radioactive? Either felt somewhat unsafe, but I wasn't about to leave it there. Not when it *levitated* above the ground. Using magnets, maybe? But the ground below seemed normal, just rocks and moss.\n\nI picked it up. What's the worst that could happen? A long and agonizing death, probably. It was heavy and slightly warm, despite the near-zero air temperature. Remembering [the story of warm magic cylinders that turned out to be strontium-90 and killed the men who found them](https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1660web-81061875.pdf), I quickly dropped it and took a few steps back. But it still levitated, in a different spot. Not magnetic, then. Magical? More likely I was just losing whatever sanity I had left. Oh well. If I'm going crazy, I might as well enjoy it.\n\nSo I picked up the coin again and took a closer look using the flashlight of my phone. It was perfectly round, without grooves, and reflected light like a mirror. One side bore the inscription *iacta et scito* along the edge, with a depiction of a tree in the middle. The other side had seemingly random straight lines, forming no picture, but looking rather intentional, definitely not scratches.\n\n*iacta et scito*? Latin, probably. I don't know much Latin, but maybe iacta as in \"alea iacta est\", to throw? Knowledge is for losers, I thought, as the translate app told me the answer: \"throw and know\". Know what? If the coin really was magical, hopefully something important. So I balanced it on my thumb and flicked it in the air, barely caught it, and smacked it on the wrist of my left hand that was still holding the phone. The tree side was up, and I was none the wiser.\n\nI started heading back home, not bothering to finish my normal route, pondering the riddle. What knowledge does a coin toss give you? The only thing I could think was the classic psychology trick: if you're unsure which action to take, determine it by coin toss, and if you're not pleased with the result, just pick the other one. That couldn't be the secret, magic wasted for a joke like that? I looked at the inscription again. Tree. Decision tree? Maybe I could ask it which branch to take? Or more generally, boolean-valued questions about the future?\n\nI arrived back home, turned on the lights, and had a glass of water. The hypothesis wasn't trivial to test. If I was trying to predict the output of a random number generator, even a normal coin would give the right answer half of the time. Repeated tests would solve that, though. After ten tosses, the odds would already be about 1:1000. If this is worth doing, it's worth doing right, I thought, as I unlocked my laptop and opened a shell, typing in the first commands:\n\n```\n$ python3\nPython 3.12.9 (main, Feb  4 2025, 14:38:38) [Clang 16.0.0 (clang-1600.0.26.6)] on darwin\nType \"help\", \"copyright\", \"credits\" or \"license\" for more information.\n>>> import random\n>>> random.choice([0, 1])\n1\n```\n\nIt looked like it should be, so it was time to proceed. I wrote my phrasing on a piece of paper:\n\n> When I repeat the previous command in the Python interpreter that's open in front of me, if it prints out the number one, this coin toss lands tree side up. Otherwise, it will land on the side without a tree.\n\nThen I said it aloud, clearly articulating each word, and tossed it. On the highest point of the arc, the blue glow flashed brightly and then fizzled out. It landed tree side up. I pressed the up arrow and enter, re-running the command.\n\n```\n>>> random.choice([0, 1])\n1\n```\n\n\"So the theory is indeed correct!\", says system one. A second later, system two announces \"[One bit of evidence](https://www.lesswrong.com/w/bayes-rule-log-odds-form#Logarithms_of_likelihood_ratios)\". Time to repeat the test; *that* was the correct answer anyway. Except, the coin no longer glowed blue. \"Did I break it?\" I said aloud, \"Was it single-use only? Do I need to charge it somehow?\" The only thing I was certain about was that googling \"blue-glowing coin recharge\" wouldn't bring up anything useful, and indeed the only results were from the world of video games.\n\nOne thing was certain. There would be no sleeping tonight.\n"
+        }
+      }
+    }
+  }
+}

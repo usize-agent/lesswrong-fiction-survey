@@ -1,0 +1,47 @@
+{
+  "_id": "o4cgvYmNZnfS4xhxL",
+  "slug": "working-with-monsters",
+  "title": "Working With Monsters",
+  "postedAt": "2021-07-20T15:23:20.762Z",
+  "baseScore": 282,
+  "wordCount": 1481,
+  "commentCount": 58,
+  "user": {
+    "displayName": "johnswentworth",
+    "slug": "johnswentworth"
+  },
+  "tags": [
+    {
+      "_id": "BtQRRKTPxagBH6KrG",
+      "name": "Blues & Greens (metaphor)",
+      "slug": "blues-and-greens-metaphor"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "T4GgauaEfp6dHsR5P",
+      "name": "Memetics",
+      "slug": "memetics"
+    },
+    {
+      "_id": "JiYp3EFxubunnrXwK",
+      "name": "Scissors Statements",
+      "slug": "scissors-statements"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "BtQRRKTPxagBH6KrG": 4,
+    "JiYp3EFxubunnrXwK": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "T4GgauaEfp6dHsR5P": 4,
+    "etDohXtBrXd8WqCtR": 4
+  }
+}

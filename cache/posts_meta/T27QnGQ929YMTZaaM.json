@@ -1,0 +1,35 @@
+{
+  "_id": "T27QnGQ929YMTZaaM",
+  "slug": "s-e-a-r-l-e-s-cobol-room",
+  "title": "S.E.A.R.L.E's COBOL room",
+  "postedAt": "2013-02-01T20:29:36.598Z",
+  "baseScore": 52,
+  "wordCount": 590,
+  "commentCount": 36,
+  "user": {
+    "displayName": "Stuart_Armstrong",
+    "slug": "stuart_armstrong"
+  },
+  "tags": [
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "yXNtYNHJB54T3bGm3": 1
+  }
+}

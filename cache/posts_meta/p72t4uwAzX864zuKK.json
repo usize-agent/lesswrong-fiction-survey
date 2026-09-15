@@ -1,0 +1,35 @@
+{
+  "_id": "p72t4uwAzX864zuKK",
+  "slug": "12020-a-fine-future-for-these-holidays",
+  "title": "12020: a fine future for these holidays",
+  "postedAt": "2019-12-25T15:01:33.788Z",
+  "baseScore": 41,
+  "wordCount": 62,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Stuart_Armstrong",
+    "slug": "stuart_armstrong"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "jiuackr7B5JAetbF6",
+      "name": "Transhumanism",
+      "slug": "transhumanism"
+    }
+  ],
+  "tagRelevance": {
+    "KDpqtN3MxHSmD4vcB": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "jiuackr7B5JAetbF6": 1
+  }
+}

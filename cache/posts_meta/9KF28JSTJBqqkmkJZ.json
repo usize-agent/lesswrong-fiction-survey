@@ -1,0 +1,35 @@
+{
+  "_id": "9KF28JSTJBqqkmkJZ",
+  "slug": "bruce-wayne-and-the-cost-of-inaction",
+  "title": "Bruce Wayne and the Cost of Inaction",
+  "postedAt": "2022-09-30T00:19:47.335Z",
+  "baseScore": 89,
+  "wordCount": 6243,
+  "commentCount": 5,
+  "user": {
+    "displayName": "TurnTrout",
+    "slug": "turntrout"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

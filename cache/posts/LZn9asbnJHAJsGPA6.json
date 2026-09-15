@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "LZn9asbnJHAJsGPA6",
+        "title": "Ten Minutes with Sam Altman",
+        "slug": "ten-minutes-with-sam-altman",
+        "pageUrl": "https://www.lesswrong.com/posts/LZn9asbnJHAJsGPA6/ten-minutes-with-sam-altman",
+        "postedAt": "2021-12-28T07:32:59.140Z",
+        "baseScore": 92,
+        "wordCount": 986,
+        "commentCount": 11,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "8sh6iLwYWDJ7z3fPo",
+            "name": "Startups",
+            "slug": "startups"
+          }
+        ],
+        "tagRelevance": {
+          "8sh6iLwYWDJ7z3fPo": 3,
+          "pszEEb3ctztv3rozd": 3
+        },
+        "contents": {
+          "markdown": "\"Do you believe in the American Dream?\" my brother asked.\n\nI looked out the airplane window. Y-Combinator (YC) had paid for our tickets. Our application had been good enough to qualify us for a ten-minute interview in Silicon Valley. If we passed the interview we'd receive $120k in funding and entry into an exclusive club of visionary tech pioneers.\n\nLike most Americans, we are descended from immigrants. Our ancestors arrived between 50 and 100 years ago. They built a better life for themselves in the New World than was possible in their lands of origin. That's not saying much. Some of them grew up on Asian sugar cane farms. Others were European Jews.\n\nSuccess is earning more money at a higher status job than your parents. That was always an easy bar to clear. My father was a private in the US Army. I could have made him proud by becoming an officer in the US Army.\n\nBut the American Dream is about more than material wealth and legible status. My great-great grandfather designed tanks for Lenin. In Soviet Russia, there used to be something called a Coke party. You saved up money for days to buy a single can of contraband Coca-Cola. You got all of your friends together and poured each of them a single shot. It tasted like freedom.\n\n\"Yes. Yes I do,\" I answered.\n\nSilicon Valley is a land of rainbows and unicorns where anything is possible. Stepping out of the airport, we were blasted with sunshine, palm trees and warm air. We took a train to YC's headquarters.\n\nEverything I knew about Silicon Valley came secondhand. I had read Steve Jobs' book, Steve Wozniak's book and Elon Musk's book. I had read each of Paul Graham's essays countless times. I had read *Zero to One* and *The Soul of a New Machine*. I expected to see robots walking around or at least a Google Street View car but San Francisco appeared to be a perfectly ordinary American city except for the good weather.\n\nYC seemed to be located in the boringest part. We walked past suburban house after suburban house until we got to YC's headquarters. We checked in at the front desk and waited for our startup's name to be called.\n\nYC's headquarters is tiny for a company with such a great impact because YC encourages its startups to work in their own spaces. YC's headquarters is mostly just a big room.\nThey fill it with chairs when they're doing presentations and tables when they're doing interviews. The big room was sparsely populated. A handful of teams waited around to be interviewed.\n\nOne of the teams had a cool cellphone app. Another team carried around a heavy metal box that looked like a microwave. My brother and I sat down next to a pair of Nigerian bankers.\n\nThe Nigerians explained to us how banking in Africa works. You try a credit card. It gets declined. You try another credit card. It gets declined too. You carry around a wallet full of credit cards. If you're lucky one of the credit cards gets accepted and a fee is sent out of Africa to a corporation in the United States. The Nigerians had created a payment system that actually worked. They were making money hand over fist. So many people were joining their system they had to throttle new customer sign-ups.\n\nThe Nigerians were self-conscious about their accents; it was the first time they'd been to America. We assured them it didn't matter. These guys were going to own the financial system of an entire continent.\n\nMy brother and I looked similar because we're brothers, because we were of similar age and because we were the only half-Asians in the room. The Nigerians looked alike because they wore identical purple sweatshirts, they were of similar age and because they were the only black people in the room. An employee from YC joined our conversation. I don't remember her exact words (I'm sure they were polite, sensitive and politically-correct) but what I heard was \"I don't mean to be racist, but you two guys are from one team and you two guys are from another team, right?\" We all laughed.\n\nIt was our turn to interview.\n\nThe interview took place in a small conference room with a window opposite the door. A long table split the window half of the room from the door half. My brother and I sat on the side with the door. Seven representatives from YC sat opposite us.\n\nOur prototype was a ball of wires and circuit boards velcroed to a baseball cap. Some of it was soldered together. Other parts were connected via breadboards. I had just got it working the night before.\n\nA timer counted down from ten minutes.\n\nThe YC representatives introduced themselves. I don't remember six of their names because the guy in the middle was Sam Altman, CEO of Y-Combinator. After that, nobody on their side said a word except Sam Altman. Nobody on our side said a word except my brother.\n\nSam Altman is the smartest man I have ever met and I had just met the smartest bankers in all of Africa.\n\nSam Altman cut straight to the most important questions. I worried we might not be able to figure out how to manufacture electronics. Sam Altman was confident we could. He was right. I worried we might not be able to start a successful company. Sam Altman didn't care. The fate of YC is determined by how big its successes are. The failure rate of YC's startups almost doesn't matter. Sam Altman had to figure out whether our startup might be worth a billion dollars or more.\n\nThe ten minutes were over. YC (kindly and gently) rejected us. That startup did not earn me a billion dollars. Sam Altman had made the right decision.\n\nThe Nigerians were accepted into YC.\n"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "4T8NwAgFYRnuFPRHk",
+  "slug": "the-cambist-and-lord-iron-a-fairy-tale-of-economics",
+  "title": "The Cambist and Lord Iron: A Fairy Tale of Economics",
+  "postedAt": "2010-12-19T02:05:22.137Z",
+  "baseScore": 68,
+  "wordCount": 63,
+  "commentCount": 40,
+  "user": {
+    "displayName": "Alicorn",
+    "slug": "alicorn"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "PDJ6KqJBRzvKPfuS3",
+      "name": "Economics",
+      "slug": "economics"
+    }
+  ],
+  "tagRelevance": {
+    "PDJ6KqJBRzvKPfuS3": 3,
+    "etDohXtBrXd8WqCtR": 11
+  }
+}

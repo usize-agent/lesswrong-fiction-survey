@@ -1,0 +1,41 @@
+{
+  "_id": "mLxuxihtoYwD4mjub",
+  "slug": "the-goodness-of-morning",
+  "title": "The Goodness of Morning",
+  "postedAt": "2025-01-27T23:25:38.273Z",
+  "baseScore": -11,
+  "wordCount": 923,
+  "commentCount": 1,
+  "user": {
+    "displayName": "YanLyutnev",
+    "slug": "yanlyutnev"
+  },
+  "tags": [
+    {
+      "_id": "EdRnMXBRbY5JDf5df",
+      "name": "Epistemology",
+      "slug": "epistemology"
+    },
+    {
+      "_id": "y9RtK47xhBT5Db6z8",
+      "name": "Mind projection fallacy",
+      "slug": "mind-projection-fallacy"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "EdRnMXBRbY5JDf5df": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "y9RtK47xhBT5Db6z8": 1
+  }
+}

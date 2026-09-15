@@ -1,0 +1,113 @@
+{
+  "_id": "JgWmjPoiLDmhBJkrq",
+  "slug": "an-ethical-dystopia-inescapable-false-ethical-minima-exist",
+  "title": "The Perfection Trap: How Formally Aligned AI Systems May Create Inescapable Ethical Dystopias",
+  "postedAt": "2025-06-01T23:12:52.729Z",
+  "baseScore": 1,
+  "wordCount": 13031,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Chris O'Quinn",
+    "slug": "chris-o-quinn"
+  },
+  "tags": [
+    {
+      "_id": "6zBEfFYJxhSEcchbR",
+      "name": "AI Alignment Fieldbuilding",
+      "slug": "ai-alignment-fieldbuilding"
+    },
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "hmTa9YDwmzHjhMCAt",
+      "name": "AI Rights / Welfare",
+      "slug": "ai-rights-welfare"
+    },
+    {
+      "_id": "tfLKHMQfgggz2eW7S",
+      "name": "AI Safety Cases",
+      "slug": "ai-safety-cases"
+    },
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "qHCFjTEWCQjKBWy5z",
+      "name": "Corrigibility",
+      "slug": "corrigibility-1"
+    },
+    {
+      "_id": "3nKzX4D7pCTFjBCcK",
+      "name": "Cyborgism",
+      "slug": "cyborgism"
+    },
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8daMDi9NEShyLqxth",
+      "name": "Forecasting & Prediction",
+      "slug": "forecasting-and-prediction"
+    },
+    {
+      "_id": "FJ3MGb684F88BoN2o",
+      "name": "Formal Proof",
+      "slug": "formal-proof"
+    },
+    {
+      "_id": "xknvtHwqvqhwahW8Q",
+      "name": "Human Values",
+      "slug": "human-values"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    },
+    {
+      "_id": "ZpG9rheyAkgCoEQea",
+      "name": "Practice & Philosophy of Science",
+      "slug": "practice-and-philosophy-of-science"
+    },
+    {
+      "_id": "JX69nZB8tfxnx5nGH",
+      "name": "Threat Models (AI)",
+      "slug": "threat-models-ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "3nKzX4D7pCTFjBCcK": 1,
+    "6zBEfFYJxhSEcchbR": 1,
+    "8daMDi9NEShyLqxth": 1,
+    "FJ3MGb684F88BoN2o": 1,
+    "JX69nZB8tfxnx5nGH": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "XSryTypw5Hszpa4TS": 1,
+    "ZpG9rheyAkgCoEQea": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hmTa9YDwmzHjhMCAt": 1,
+    "kCrvmjZhsAZANnZL6": 1,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "qHCFjTEWCQjKBWy5z": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "tfLKHMQfgggz2eW7S": 1,
+    "xknvtHwqvqhwahW8Q": 1
+  }
+}

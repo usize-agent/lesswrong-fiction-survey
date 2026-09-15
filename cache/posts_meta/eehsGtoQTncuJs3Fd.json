@@ -1,0 +1,29 @@
+{
+  "_id": "eehsGtoQTncuJs3Fd",
+  "slug": "the-paperclip-maximiser-s-perspective",
+  "title": "The paperclip maximiser's perspective",
+  "postedAt": "2015-05-01T00:24:31.581Z",
+  "baseScore": 50,
+  "wordCount": 655,
+  "commentCount": 24,
+  "user": {
+    "displayName": "Angela",
+    "slug": "angela"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "QH4LhvnyR4QkW9MG8",
+      "name": "Squiggle Maximizer (formerly \"Paperclip maximizer\")",
+      "slug": "squiggle-maximizer-formerly-paperclip-maximizer"
+    }
+  ],
+  "tagRelevance": {
+    "QH4LhvnyR4QkW9MG8": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

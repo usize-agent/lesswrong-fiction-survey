@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "MNfrvbhi3286GFQMz",
+        "title": "The one where Quirrell is an egg",
+        "slug": "the-one-where-quirrell-is-an-egg",
+        "pageUrl": "https://www.lesswrong.com/posts/MNfrvbhi3286GFQMz/the-one-where-quirrell-is-an-egg",
+        "postedAt": "2020-04-15T06:02:36.337Z",
+        "baseScore": 17,
+        "wordCount": 89,
+        "commentCount": 5,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ben Pace",
+          "slug": "benito"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "hNFdS3rRiYgqqD8aM": 2
+        },
+        "contents": {
+          "markdown": "Egg-based parody of HPMOR on r/HPMOR. I don't know why this exists. Spoilers, you have been warned.\n\nHow to describe it? It's some combination of the following two quotes.\n\n> \u201cThe observational study is taller than a dozen men! It reaches journalists so quickly that it can melt common sense in midthought! One mention of confounders will bring it down.\u201d\n\nand\n\n> \u201cProfessor, we\u2019re surrounded by Dementors!\u201d Harry gasped. \u201cMy buttered croissant disguise didn\u2019t work! They\u2019re going to capture us.\u201d\n> \n> Professor Quirrell smiled coldly. \u201cNot if I use my egg powers.\u201d\n\nIt's eggs-ellent."
+        }
+      }
+    }
+  }
+}

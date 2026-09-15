@@ -1,0 +1,29 @@
+{
+  "_id": "Fh4gwB2xixxnpQnko",
+  "slug": "questions-for-a-theory-of-narratives",
+  "title": "Questions for a Theory of Narratives",
+  "postedAt": "2022-07-29T19:31:07.472Z",
+  "baseScore": 6,
+  "wordCount": 1248,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Marv K",
+    "slug": "marv-k"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 3,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

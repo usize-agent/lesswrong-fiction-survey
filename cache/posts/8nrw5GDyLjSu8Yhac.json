@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "8nrw5GDyLjSu8Yhac",
+        "title": "SIGMI Certification Criteria",
+        "slug": "sigmi-certification-criteria",
+        "pageUrl": "https://www.lesswrong.com/posts/8nrw5GDyLjSu8Yhac/sigmi-certification-criteria",
+        "postedAt": "2025-01-20T02:41:17.210Z",
+        "baseScore": 6,
+        "wordCount": 350,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "a littoral wizard",
+          "slug": "a-littoral-wizard"
+        },
+        "tags": [
+          {
+            "_id": "F5gRQdEQHzi3tQ5Ay",
+            "name": "AI Control",
+            "slug": "ai-control"
+          },
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "F5gRQdEQHzi3tQ5Ay": 1,
+          "ZFrgTgzwEfStg26JL": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "*(Background fluff for a novel I'm working on and previously posted parts of. Fishing for beta readers/technical consultants again. Near-future setting that's already had one major X-risk scare, didn't learn the first time.)*\n\nThe SIGMI Commission, in coordination with public signatory agencies and private partners, outlines the following eligibility criteria for admission of the Certified Exascale Integrated Diagnostic Exploration (CEIDE) examination. Candidates must have a\u00a0**minimum of eight years**\u00a0cumulative, full-time work experience across\u00a0**four or more Incorporated Machine Intelligences domains:**\n\n*   **Domain 1. SPARK Datachain Architecture**\n*   **Domain 2. Neural Malware Classification**\n*   **Domain 3. Isolation Engineering**\n*   **Domain 4. Neural Analytic Therapy**\n*   **Domain 5. Identity and Personae Management (IAP)**\n*   **Domain 6. Forensic Network Investigation**\n*   **Domain 7. Adversarial Security Operations**\n*   **Domain 8. Experiential Compound Development**\n*   **Domain 9. Datachain Extinction Protocols**\n\nEarning a post-secondary degree in data science, deep learning, generative game theory, or related fields may satisfy up to three years of required experience. Part-time work and internships will not count towards this experience requirement. Additional requirements are as follows:\n\n*   Prior attainment of advanced SIGMI certification in four (4) or more of the above domains with at least two (2) currently active certifications.\n*   Eighty (80) hours submergence in a pre-production exascale environment registered in full compliance with Secure, Inspectable, Governable Machine Intelligence regulations. No exception or reduction in required hours will be granted regardless of prior field achievement, even for extraordinary candidates.\n*   Completion of a sixteen (16) day cooldown period after contact with an exascale MI followed by a Psychological Integrity (PI) examination. Candidates with exposure to systems based in secure DARPASAT cloud domains will additionally undergo debriefing prior to and immediately following admission of this exam.\n\nAny personal or business relations with agents of Greater China or travel to the Former Russian State Influence Sphere will be immediately disqualifying for private contractors. Rare contract may offer waivers subject to suitable performance on stochastic polygraphs administered by the US State Department or its NATO counterparts.\n\n(All data collected during pre- and post-test examinations will be stored in accordance with HIPAA standards.)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "mLxuxihtoYwD4mjub",
+        "title": "The Goodness of Morning",
+        "slug": "the-goodness-of-morning",
+        "pageUrl": "https://www.lesswrong.com/posts/mLxuxihtoYwD4mjub/the-goodness-of-morning",
+        "postedAt": "2025-01-27T23:25:38.273Z",
+        "baseScore": -11,
+        "wordCount": 923,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "YanLyutnev",
+          "slug": "yanlyutnev"
+        },
+        "tags": [
+          {
+            "_id": "EdRnMXBRbY5JDf5df",
+            "name": "Epistemology",
+            "slug": "epistemology"
+          },
+          {
+            "_id": "y9RtK47xhBT5Db6z8",
+            "name": "Mind projection fallacy",
+            "slug": "mind-projection-fallacy"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "EdRnMXBRbY5JDf5df": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "pszEEb3ctztv3rozd": 1,
+          "y9RtK47xhBT5Db6z8": 1
+        },
+        "contents": {
+          "markdown": "*   Good morning!\n*   Mornings aren\u2019t good.\n*   What do you mean \u201caren\u2019t good\u201d? They totally can be.\n\nFamiliar scene? I think most people have heard something like this before.\n\nNow imagine an alternate reality where the participants of this dialogue are in the habit of reasoning in a way similar to mine. What would change? (Besides the word count of sentences jumping 2\u20133 times.)\n\n*   I want your perception of the current environment during the morning time frame to be pleasant.\n*   My perception of this current morning time frame isn\u2019t pleasant... wait, I can recall mornings that were pleasant. Like when I got enough sleep, for example.\n*   What do you mean \u201caren\u2019t\u201d... oh, stop. I can\u2019t even go down this argument thread without cringing. You already said that sometimes your perception is one way, sometimes another. For a moment, I imagined an alternate universe where people who save words in sentences get confused and start arguments because of it.\n*   Cringe.\n*   Yeah. Let\u2019s discuss plans for today.\n\nIn this new reasoning system, a debate like \u201cWhat do you mean mornings can\u2019t be good? They can!\u201d wouldn\u2019t happen because the phrasing has changed, and the confusion that triggered Example 1 doesn\u2019t occur in Example 2.\n\nBut what exactly changed? In Example #2, the property of the morning being \u201cgood\u201d is absent.\n\nThere\u2019s only the speaker\u2019s perception, indicating their current state. The listener accepts this state without delving into doubts or digging for the \u201ctrue\u201d property of the morning\u2019s state. They could go down that path but aren\u2019t interested right now.\n\nSo I expect that in a language where mornings aren\u2019t described using adjectives like \u201cgood,\u201d but instead expressed as, \u201cMy perception of where I direct my attention follows such-and-such patterns,\u201d arguments like \u201cNo way, this morning isn\u2019t good\u201d wouldn\u2019t happen\u2014until someone decides to save words in a sentence, and another person stops signaling their confusion.\n\n* * *\n\nNow imagine a language where people decided to call a sensation resembling frustration over unmet expectations \u201czyuzel.\u201d\n\nThe pen falls\u2014someone in this culture yells \u201czyuzel!\u201d Missed the train\u2014\u201czyuzel!\u201d Spouse left\u2014\u201czyuzel!\u201d A jacket arrives with a slightly off color\u2014\u201czyuzel!\u201d The word \u201czyuzel\u201d in this case is linked to a person noticing a specific feeling. Even if it\u2019s slightly different each time, the overall resemblance is enough to justify exclaiming it.\n\nWhen a person reflects on the rule behind calling something \u201czyuzel,\u201d they recall what they learned as a child: \u201cI used this word for a feeling that was unpleasant in the moment.\u201d\n\nIn this alternate universe, Yan Lyutnev\u2019s reasoning system is universally taught in schools. After a pen falls and you want to signal to your friend or the crowd what type of feeling you\u2019re experiencing, you\u2019d comfortably say, \u201cWhen the pen fell, I felt a sensation of zyuzel.\u201d Your friend and the crowd nod, understanding.\n\n* * *\n\nBut then someone didn\u2019t get enough sleep, and now it hurts to think. They decide to save words in their sentence and declare, \u201cThe pen is zyuzel.\u201d At first, the friend interprets this as a puzzle. What does \u201czyuzel pen\u201d mean? In their society, \u201czyuzel\u201d refers to a specific sensation, tied to the state of your perception. But the sentence structure makes it sound like the pen itself possesses the feeling of zyuzel, or something else they can\u2019t grasp.\n\nThe friend asks:\n\n*   \u201cWhat do you mean by a zyuzel pen?\u201d\n\nOur sleep-deprived hero feels their irritation is tied to the pen, and that\u2019s it. Further mental effort for additional operations is painful. However, they\u2019re also uncomfortable giving a response that would lead to even more misunderstanding, so they answer:\n\n*   Obviously, I called it that because of my feelings.\n\nThe friend replies that they understand.\n\n* * *\n\nSociety continues to speak in long sentences. At some point, the sleep-deprived hero\u2019s friend also doesn\u2019t get enough sleep and finds it painful to think.\n\nThere was already a precedent where the sleep-deprived person used a new strategy of conveying information by shortening sentences, and there were no unpleasant consequences for either party. They \u201cunderstood\u201d each other, and there was even a bonus of word economy. Sure, the friend had to exert more effort to translate the unfamiliar reasoning system, but oh well\u2014new neural connections were built, and they can now be used. The initial discomfort won\u2019t happen again.\n\nA month later, the reasoning system \u201cthe pen is zyuzel\u201d spreads across the entire city because, at some point, everyone got sleep-deprived and wanted to save words, as the new strategy had proven to work without issues.\n\n* * *\n\n*   What a zyuzel pen!\n*   What do you mean, zyuzel? It\u2019s not zyuzel at all.\n*   Well, what\u2019s your argument?\n*   There\u2019s no such thing as non-zyuzel pens.\n*   Sure there are. Read philosopher Zyuzel Zyuzelovich\u2014he wrote a series of books proving that all pens are, in fact, zyuzel.\n*   My philosopher Anti-Zyuzel argues that the property of zyuzel-ness in pens doesn\u2019t exist. It\u2019s an illusion. We\u2019re all just tangled in words.\n*   You\u2019re so annoying\u2014uh, I mean, zyuzel.\n*   You\u2019re so un-druzel!\n*   Remind me, what does \u201cdruzel\u201d mean?\n*   Oh, you zyuzel, it\u2019s written on the internet that it means \u201cpleasant feeling.\u201d Wait, that was an old dictionary. The new one says \u201cpleasant something.\u201d The new authors were sleep-deprived and saved words in their sentences. And you\u2019re unpleasant, which makes you un-druzel. That\u2019s logic!\n*   Oh yeah? Well, take this punch to the face!\n*   Punching faces is zyuzel!\n*   No, it\u2019s druzel!"
+        }
+      }
+    }
+  }
+}

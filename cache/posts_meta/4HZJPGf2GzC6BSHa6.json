@@ -1,0 +1,29 @@
+{
+  "_id": "4HZJPGf2GzC6BSHa6",
+  "slug": "chapter-5-the-fundamental-attribution-error",
+  "title": "Chapter 5: The Fundamental Attribution Error",
+  "postedAt": "2015-03-14T19:00:31.262Z",
+  "baseScore": 102,
+  "wordCount": 3262,
+  "commentCount": 13,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb157",
+      "name": "Correspondence Bias",
+      "slug": "correspondence-bias"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "5f5c37ee1b5cdee568cfb157": 3
+  }
+}

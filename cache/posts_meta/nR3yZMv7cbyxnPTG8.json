@@ -1,0 +1,59 @@
+{
+  "_id": "nR3yZMv7cbyxnPTG8",
+  "slug": "seed-of-oasis-5",
+  "title": "Seed Of Oasis ",
+  "postedAt": "2025-11-09T22:00:19.624Z",
+  "baseScore": 1,
+  "wordCount": 51103,
+  "commentCount": 0,
+  "user": {
+    "displayName": "0xA",
+    "slug": "0xa"
+  },
+  "tags": [
+    {
+      "_id": "EdRnMXBRbY5JDf5df",
+      "name": "Epistemology",
+      "slug": "epistemology"
+    },
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "oooqkNGqAHPGsfgdA",
+      "name": "Metaethics",
+      "slug": "metaethics-1"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "EdRnMXBRbY5JDf5df": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "kCrvmjZhsAZANnZL6": 1,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "oooqkNGqAHPGsfgdA": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

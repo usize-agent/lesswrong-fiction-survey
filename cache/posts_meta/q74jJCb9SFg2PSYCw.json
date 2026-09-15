@@ -1,0 +1,41 @@
+{
+  "_id": "q74jJCb9SFg2PSYCw",
+  "slug": "the-true-face-of-the-enemy",
+  "title": "The True Face of the Enemy",
+  "postedAt": "2021-01-12T10:03:23.777Z",
+  "baseScore": 31,
+  "wordCount": 3088,
+  "commentCount": 77,
+  "user": {
+    "displayName": "TheTrueSquid",
+    "slug": "thetruesquid"
+  },
+  "tags": [
+    {
+      "_id": "fH8jPjHF2R27sRTTG",
+      "name": "Education",
+      "slug": "education"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "fF9GEdWXKJ3z73TmB",
+      "name": "Scholarship & Learning",
+      "slug": "scholarship-and-learning"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "fF9GEdWXKJ3z73TmB": 1,
+    "fH8jPjHF2R27sRTTG": 3,
+    "xexCWMyds6QLWognu": 4
+  }
+}

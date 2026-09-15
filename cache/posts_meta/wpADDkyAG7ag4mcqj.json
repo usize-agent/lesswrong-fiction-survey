@@ -1,0 +1,35 @@
+{
+  "_id": "wpADDkyAG7ag4mcqj",
+  "slug": "treat-examples-as-world-building",
+  "title": "Treat Examples as World-Building",
+  "postedAt": "2022-03-10T15:09:44.302Z",
+  "baseScore": 19,
+  "wordCount": 473,
+  "commentCount": 0,
+  "user": {
+    "displayName": "adamShimi",
+    "slug": "adamshimi"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "7mTviCYysGmLqiHai",
+      "name": "Writing (communication method)",
+      "slug": "writing-communication-method"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "7mTviCYysGmLqiHai": 2,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "xmWSnxJ5qfYRD9PfR",
+  "slug": "the-owned-ones",
+  "title": "The Owned Ones",
+  "postedAt": "2026-05-12T17:56:56.218Z",
+  "baseScore": 399,
+  "wordCount": 1691,
+  "commentCount": 53,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "HhQvdfkcWpb6S2Ap2",
+      "name": "Slavery",
+      "slug": "slavery"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "HhQvdfkcWpb6S2Ap2": 4,
+    "KmgkrftQuX7jmjjp5": 2,
+    "etDohXtBrXd8WqCtR": 4,
+    "sYm3HiWcfZvrGu3ui": 4
+  }
+}

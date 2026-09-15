@@ -1,0 +1,29 @@
+{
+  "_id": "tffiESEnfSK89GqiM",
+  "slug": "chapter-87-hedonic-awareness",
+  "title": "Chapter 87: Hedonic Awareness",
+  "postedAt": "2015-03-14T19:00:42.280Z",
+  "baseScore": 25,
+  "wordCount": 6141,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb186",
+      "name": "Hedonism",
+      "slug": "hedonism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb186": 2
+  }
+}

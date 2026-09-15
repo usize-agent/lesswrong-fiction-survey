@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "sLyiud9rXfr9C4Mo8",
+        "title": "Can We Simulate Meiosis to Create Digital Gametes \u2014 and Are the Results Your Biological Offspring?",
+        "slug": "can-we-simulate-meiosis-to-create-digital-gametes-and-are",
+        "pageUrl": "https://www.lesswrong.com/posts/sLyiud9rXfr9C4Mo8/can-we-simulate-meiosis-to-create-digital-gametes-and-are",
+        "postedAt": "2025-10-17T03:55:28.468Z",
+        "baseScore": 2,
+        "wordCount": 238,
+        "commentCount": 8,
+        "noIndex": false,
+        "user": {
+          "displayName": "GJ",
+          "slug": "gj-1"
+        },
+        "tags": [
+          {
+            "_id": "3nKzX4D7pCTFjBCcK",
+            "name": "Cyborgism",
+            "slug": "cyborgism"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "3nKzX4D7pCTFjBCcK": 1,
+          "3uE2pXvbcnS9nnZRE": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "fkABsGCJZ6y9qConW": 1,
+          "xexCWMyds6QLWognu": 1
+        },
+        "contents": {
+          "markdown": "Let\u2019s imagine a world where reproduction has gone fully digital.\n\nWe already know that a human genome can be sequenced, stored, and simulated. Given a phased genome (with parental haplotypes separated), it\u2019s trivial to simulate meiosis computationally: apply a realistic recombination map, sample crossover points, recombine haplotypes \u2014 voil\u00e0, a digital gamete.\n\nNow take two such gametes \u2014 perhaps both from you, perhaps from different individuals \u2014 and combine them. The result is a new diploid genome, a digital zygote.\n\nYou can do this a million times in a second. You can apply filters, polygenic scores, even \u201cgenetic aesthetics\u201d heuristics. Biological evolution becomes Monte Carlo simulation on a cloud instance.\n\nSo here\u2019s the philosophical question:\n\nIf that digital zygote\u2019s genome could, in principle, be synthesized into DNA and placed in a viable embryo someday\u2026\n\nIf a genetic test would recognize it as your child\u2026\n\nIf it shares half of your alleles, just as any biological offspring would\u2026\n\nThen \u2014 is it your biological child already?\n\nPersonally, I think this might be the most down-to-earth way for life to continue into the cyber age.\n\nConsciousness uploading, memory replication, digital twins \u2014 all of them run into the same philosophical wall:\n\nwhen a copy wakes up, who is it really?\n\nBut digital gametes don\u2019t have that problem.\n\nTheir outcome isn\u2019t \u201canother you\u201d \u2014 it\u2019s simply your offspring.\n\nThey follow the same biological logic that nature already wrote: recombination, variation, inheritance."
+        }
+      }
+    }
+  }
+}

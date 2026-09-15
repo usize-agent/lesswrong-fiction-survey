@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "SA9hDewwsYgnuscae",
+        "title": "ProjectLawful.com: Eliezer's latest story, past 1M words",
+        "slug": "projectlawful-com-eliezer-s-latest-story-past-1m-words",
+        "pageUrl": "https://www.lesswrong.com/posts/SA9hDewwsYgnuscae/projectlawful-com-eliezer-s-latest-story-past-1m-words",
+        "postedAt": "2022-05-11T06:18:02.738Z",
+        "baseScore": 245,
+        "wordCount": 322,
+        "commentCount": 112,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "EmaCLRKb4baBFq4ra",
+            "name": "Dath Ilan",
+            "slug": "dath-ilan"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "EmaCLRKb4baBFq4ra": 7,
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 6
+        },
+        "contents": {
+          "markdown": "So if you read Harry Potter and the Methods of Rationality, and thought...\n\n\"You know, HPMOR is pretty good so far as it goes; but Harry is much too cautious and doesn't have nearly enough manic momentum, his rationality lectures aren't long enough, and all of his personal relationships are way way *way* too healthy.\"\n\n...then have I got the story for you! [Planecrash aka Project Lawful aka Mad Investor Chaos and the Woman of Asmodeus](https://projectlawful.com), is a story in roleplay-format that I as \"Iarwain\" am cowriting with Lintamande, now past 1,000,000 words.\n\nIt's the story of Keltham, from the world of dath ilan; a place of high scientific achievement but rather innocent in some ways. \u00a0For mysterious reasons they've screened off their own past, and very few now know what their prescientific history was like.\n\nKeltham dies in a plane crash and ends up in the country of Cheliax, whose god is \"Asmodeus\", whose alignment is \"Lawful Evil\" and whose people usually go to the afterlife of \"Hell\".\n\nAnd so, like most dath ilani would, in that position, Keltham sets out to bring the industrial and scientific revolutions to his new planet! \u00a0Starting with Cheliax!\n\n(Keltham's new friends may not have been entirely frank with him about exactly what Asmodeus wants, what Evil really is, or what sort of place Hell is.)\n\nThis is not a story for kids, even less so than HPMOR. There is romance, there is sex, there are deliberately bad kink practices whose explicit purpose is to get people to actually hurt somebody else so that they'll end up damned to Hell, and also there's math.\n\nThe starting point is Book 1, [Mad Investor Chaos and the Woman of Asmodeus](https://www.projectlawful.com/posts/4582). I suggest logging into ProjectLawful.com with Google, or creating an email login, in order to track where you are inside the story.\n\nPlease avoid story spoilers in the comments, especially ones without [spoiler protection](https://www.lesswrong.com/posts/2rWKkWuPrgTMpLRbp/lesswrong-faq#How_do_I_insert_spoiler_protections_); this is not meant as an \"ask Eliezer things about MICWOA\" thread."
+        }
+      }
+    }
+  }
+}

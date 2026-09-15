@@ -1,0 +1,23 @@
+{
+  "_id": "y7ErBMkB9m6rrWSTF",
+  "slug": "chapter-41-frontal-override",
+  "title": "Chapter 41: Frontal Override",
+  "postedAt": "2015-03-14T19:00:30.583Z",
+  "baseScore": 25,
+  "wordCount": 2223,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

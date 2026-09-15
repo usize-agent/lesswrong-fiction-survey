@@ -1,0 +1,47 @@
+{
+  "_id": "7gfA2RSibbr2cdEgp",
+  "slug": "the-wise-baboon-of-loyalty",
+  "title": "The Wise Baboon of Loyalty",
+  "postedAt": "2025-10-08T18:48:31.314Z",
+  "baseScore": 13,
+  "wordCount": 1247,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Zander_Drax",
+    "slug": "zander_drax"
+  },
+  "tags": [
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "KEAWfxwjitNJFrC68",
+      "name": "Deceptive Alignment",
+      "slug": "deceptive-alignment"
+    },
+    {
+      "_id": "Dw5Z6wtTgk4Fikz9f",
+      "name": "Inner Alignment",
+      "slug": "inner-alignment"
+    },
+    {
+      "_id": "BisjoDrd3oNatDu7X",
+      "name": "Outer Alignment",
+      "slug": "outer-alignment"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "BisjoDrd3oNatDu7X": 1,
+    "Dw5Z6wtTgk4Fikz9f": 1,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "KEAWfxwjitNJFrC68": 1,
+    "qHDus5MuMNqQxJbjD": 1
+  }
+}

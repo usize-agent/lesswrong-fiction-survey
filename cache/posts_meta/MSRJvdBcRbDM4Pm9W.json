@@ -1,0 +1,29 @@
+{
+  "_id": "MSRJvdBcRbDM4Pm9W",
+  "slug": "what-if-agi-was-already-accidentally-created-in-2019",
+  "title": "What if AGI was already accidentally created in 2019? [Fictional story]",
+  "postedAt": "2024-10-19T09:17:39.663Z",
+  "baseScore": -3,
+  "wordCount": 4552,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Alice Wanderland",
+    "slug": "alice-wanderland"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

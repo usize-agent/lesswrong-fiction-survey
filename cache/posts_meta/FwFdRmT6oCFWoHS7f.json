@@ -1,0 +1,29 @@
+{
+  "_id": "FwFdRmT6oCFWoHS7f",
+  "slug": "wolf-and-rabbit",
+  "title": "Wolf and Rabbit",
+  "postedAt": "2024-03-22T17:20:19.265Z",
+  "baseScore": 17,
+  "wordCount": 230,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Richard Henage",
+    "slug": "richard-henage"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "F2XfCTxXLQBGjbm8P": 1
+  }
+}

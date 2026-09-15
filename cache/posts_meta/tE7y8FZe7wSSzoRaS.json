@@ -1,0 +1,29 @@
+{
+  "_id": "tE7y8FZe7wSSzoRaS",
+  "slug": "the-parable-of-the-boy-who-cried-5-chance-of-wolf",
+  "title": "The Parable of the Boy Who Cried 5% Chance of Wolf",
+  "postedAt": "2022-08-15T14:33:21.649Z",
+  "baseScore": 141,
+  "wordCount": 454,
+  "commentCount": 24,
+  "user": {
+    "displayName": "KatSpartz",
+    "slug": "ea247"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 3,
+    "xexCWMyds6QLWognu": 2
+  }
+}

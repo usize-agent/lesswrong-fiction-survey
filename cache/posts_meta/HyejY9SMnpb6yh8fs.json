@@ -1,0 +1,29 @@
+{
+  "_id": "HyejY9SMnpb6yh8fs",
+  "slug": "the-danger-of-living-a-story-singularity-tropes",
+  "title": "The danger of living a story - Singularity Tropes",
+  "postedAt": "2010-11-14T22:39:06.691Z",
+  "baseScore": 28,
+  "wordCount": 866,
+  "commentCount": 62,
+  "user": {
+    "displayName": "patrissimo",
+    "slug": "patrissimo"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb125",
+      "name": "Generalization From Fictional Evidence",
+      "slug": "generalization-from-fictional-evidence"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 1,
+    "5f5c37ee1b5cdee568cfb125": 1
+  }
+}

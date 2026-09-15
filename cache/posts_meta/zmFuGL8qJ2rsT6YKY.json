@@ -1,0 +1,23 @@
+{
+  "_id": "zmFuGL8qJ2rsT6YKY",
+  "slug": "short-story-quarantine",
+  "title": "Short Story: Quarantine",
+  "postedAt": "2015-06-10T01:21:39.617Z",
+  "baseScore": 28,
+  "wordCount": 636,
+  "commentCount": 9,
+  "user": {
+    "displayName": "Dias",
+    "slug": "dias"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

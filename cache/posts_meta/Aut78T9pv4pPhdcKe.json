@@ -1,0 +1,41 @@
+{
+  "_id": "Aut78T9pv4pPhdcKe",
+  "slug": "a-parable-in-the-style-of-invisible-cities",
+  "title": "A parable in the style of Invisible Cities",
+  "postedAt": "2019-12-16T15:55:06.072Z",
+  "baseScore": 45,
+  "wordCount": 390,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Daniel Kokotajlo",
+    "slug": "daniel-kokotajlo"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "ai87fPyyT6mWb4YkT",
+      "name": "Eldritch Analogies",
+      "slug": "eldritch-analogies"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 4,
+    "Ng8Gice9KNkncxqcj": 2,
+    "ai87fPyyT6mWb4YkT": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

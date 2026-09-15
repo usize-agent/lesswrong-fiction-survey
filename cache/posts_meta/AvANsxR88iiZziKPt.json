@@ -1,0 +1,35 @@
+{
+  "_id": "AvANsxR88iiZziKPt",
+  "slug": "how-dath-ilan-coordinates-around-solving-alignment",
+  "title": "How dath ilan coordinates around solving alignment",
+  "postedAt": "2022-04-13T04:22:25.643Z",
+  "baseScore": 67,
+  "wordCount": 1608,
+  "commentCount": 46,
+  "user": {
+    "displayName": "Thomas Kwa",
+    "slug": "thomas-kwa"
+  },
+  "tags": [
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "EmaCLRKb4baBFq4ra": 3,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

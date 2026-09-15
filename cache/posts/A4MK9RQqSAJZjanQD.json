@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "A4MK9RQqSAJZjanQD",
+        "title": "Why Support the Underdog?",
+        "slug": "why-support-the-underdog",
+        "pageUrl": "https://www.lesswrong.com/posts/A4MK9RQqSAJZjanQD/why-support-the-underdog",
+        "postedAt": "2009-04-05T00:01:29.756Z",
+        "baseScore": 45,
+        "wordCount": 763,
+        "commentCount": 102,
+        "noIndex": false,
+        "user": {
+          "displayName": "Scott Alexander",
+          "slug": "scottalexander"
+        },
+        "tags": [
+          {
+            "_id": "exZi6Bing5AiM4ZQB",
+            "name": "Evolutionary Psychology",
+            "slug": "evolutionary-psychology"
+          },
+          {
+            "_id": "4R8JYu4QF2FqzJxE5",
+            "name": "Heuristics & Biases",
+            "slug": "heuristics-and-biases"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "4R8JYu4QF2FqzJxE5": 1,
+          "exZi6Bing5AiM4ZQB": 1,
+          "pszEEb3ctztv3rozd": 1
+        },
+        "contents": {
+          "markdown": "One of the strangest human biases is the almost universal tendency to support the underdog.  \n  \nI say \"human\" because even though Americans like to identify themselves as particular friends of the underdog, you can find a little of it everywhere. Anyone who's watched anime knows the Japanese have it. Anyone who's read the Bible knows the Israelites had it (no one was rooting for Goliath!) From mythology to literature to politics to sports, it keeps coming up.  \n  \nI say \"universal\" because it doesn't just affect silly things like sports teams. [Some psychologists did a study](http://psp.sagepub.com/cgi/reprint/33/12/1603) where they showed participants two maps of Israel: one showing it as a large country surrounding the small Palestinian enclaves, and the other showing it as a tiny island in the middle of the hostile Arab world. In the \"Palestinians as underdogs\" condition, 55% said they supported Palestine. In the \"Israelis as underdogs\" condition, 75% said they supported Israel. Yes, you can change opinion thirty points by altering perceived underdog status. By comparison, my informal experiments trying to teach people relevant facts about the region's history changed opinion approximately zero percent.\n\n(Oh, and the Israelis and Palestinians know this. That's why the propaganda handbooks they give to their respective supporters - of *course* they give their supporters propaganda handbooks! - specifically suggest the supporters portray their chosen cause as an underdog. It's also why every time BBC or someone shows a clip about the region, they get complaints from people who thought it didn't make their chosen side seem *weak* enough!)\n\nAnd there aren't many mitigating factors. Even when the underdog is obviously completely doomed, we still identify with them: witness Leonidas at Thermopylae. Even when the underdog is evil and the powerful faction is good, we can still feel a *little* sympathy for them; I remember some of my friends and I talking about bin Laden, and admitting that although he was clearly an evil terrorist scumbag, there was still something sort of *awesome* about a guy who could take on the entire western world from a cave somewhere.  \n  \nI say \"strangest\" because I can't make heads or tails of why evolutionary psychology would allow it. Let's say Zug and Urk are battling it out for supremacy of your hunter-gatherer tribe. Urk comes to you and says \"Hey, my faction is really weak. We don't have a chance against Zug, who is much stronger than us. I think we will probably be defeated and humiliated, and our property divided up among Zug's supporters.\"  \n  \nThe purely rational response seems to be \"Wow, thanks for warning me, I'll go join Zug's side right now. Riches and high status as part of the winning faction, here I come!\"  \n  \nNow, many of us probably would join Zug's side. But introspection would tell us we were opposing rational calculation on Zug's side to a native, preconscious support for Urk. Why? The native preconscious part of our brain is usually the one that's really good at ending up on top in tribal power struggles. This sort of thing goes against everything it usually stands for.  \n  \nI can think of a few explanations, none of them satisfying. First, it could be a mechanism to prevent any one person from getting too powerful. Problem is, this sounds kind of like group selection. Maybe the group does best if there's no one dictator, but from an individual point of view, the best thing to do in a group with a powerful dictator is get on that dictator's good side. Any single individual who initiates the strategy of supporting the underdog gets crushed by all the other people who are still on the dictator's team.  \n  \nSecond, it could be a mechanism to go where the rewards are highest. If a hundred people support Zug, and only ten people support Urk, then you have a chance to become one of Urk's top lieutenants, with all the high status and reproductive opportunities that implies if Urk wins. But I don't like this explanation either. When there's a big disparity in faction sizes, you have no chance of winning, and when there's a small disparity in faction sizes, you don't gain much by siding with the smaller faction. And as size differential between groups increases, the smaller faction's chance of success should drop much more quickly than the opportunities for status with the smaller faction should rise.  \n  \nSo I admit it. I'm stumped. What does Less Wrong think?"
+        }
+      }
+    }
+  }
+}

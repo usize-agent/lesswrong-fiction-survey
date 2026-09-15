@@ -1,0 +1,115 @@
+{
+  "_id": "2XTy6SNnSwFNhk6pR",
+  "slug": "give-neo-a-chance",
+  "title": "Give Neo a Chance",
+  "postedAt": "2025-03-06T01:48:16.637Z",
+  "baseScore": 3,
+  "wordCount": 2077,
+  "commentCount": 7,
+  "user": {
+    "displayName": "ank",
+    "slug": "ank"
+  },
+  "tags": [
+    {
+      "_id": "GDGYkF29pxEQNWjYc",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "_id": "F5gRQdEQHzi3tQ5Ay",
+      "name": "AI Control",
+      "slug": "ai-control"
+    },
+    {
+      "_id": "FBRwHSmTudwiHHtrn",
+      "name": "AI Evaluations",
+      "slug": "ai-evaluations"
+    },
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "Hs2ewfiKfuWKSscSQ",
+      "name": "Aligned AI Proposals",
+      "slug": "aligned-ai-proposals"
+    },
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "56yXXrcxRjrQs6z9R",
+      "name": "Interpretability (ML & AI)",
+      "slug": "interpretability-ml-and-ai"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "Z38PqJbRyfwCxKvvL",
+      "name": "Research Agendas",
+      "slug": "research-agendas"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb297",
+      "name": "Superintelligence",
+      "slug": "superintelligence"
+    },
+    {
+      "_id": "JX69nZB8tfxnx5nGH",
+      "name": "Threat Models (AI)",
+      "slug": "threat-models-ai"
+    },
+    {
+      "_id": "LXk7bxNkYSjgatdAt",
+      "name": "Tool AI",
+      "slug": "tool-ai"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "2WQs8iB8cPmMfJGvf": 1,
+    "56yXXrcxRjrQs6z9R": 1,
+    "AjWnBCBRwJ4DXnvH8": 1,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "F5gRQdEQHzi3tQ5Ay": 1,
+    "FBRwHSmTudwiHHtrn": 1,
+    "GDGYkF29pxEQNWjYc": 1,
+    "Hs2ewfiKfuWKSscSQ": 1,
+    "JX69nZB8tfxnx5nGH": 1,
+    "LXk7bxNkYSjgatdAt": 1,
+    "Z38PqJbRyfwCxKvvL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "xexCWMyds6QLWognu": 1,
+    "5f5c37ee1b5cdee568cfb297": 1
+  }
+}

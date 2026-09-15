@@ -1,0 +1,1234 @@
+===== STORY id=LbXeRounm7tg6i8mk =====
+Title: Post-history is written by the martyrs
+Author: Veedrac
+Year: 2022
+Karma: 51
+WordCount: 5572
+URL: https://www.lesswrong.com/posts/LbXeRounm7tg6i8mk/post-history-is-written-by-the-martyrs
+-----
+This is a story I wrote in late 2020, a few months after GPT-3 was released. Speculative fiction seems to be well received here, and although this is not as serious a story as my other recent post, it covers serious ideas and attempts to be hard science fiction. I'm also moving it here to more easily reference it in the future.
+
+ People who have been closely following tech news might be aware of GPT-3, a Machine Learning based language model by OpenAI that has incredible abilities. Watch GPT-3 write a small app based on a description, play 19 degrees of Kevin Bacon, give coherent reasoning on meaningful questions, diagnose a patient from a description, perform grounded world-modelling, rephrase messages for politeness, write non-literal poetry translations with explanatory annotations, and write a response to philosophers discussing its importance. Most importantly, this model was only trained to predict text, and its only major innovation was scale to a slightly larger sliver of the size of the human brain. The natural conclusion is that machine models are capable of learning more, and better, than they have historically been given credit.
+ 
+ This story is the result of thinking earnestly about the implications of GPT-3. Relative to the scale of a human brain, or to even larger model sizes potentially within reach, what aspects of human cognition can we reasonably argue will not be replicated by scaled-up neural networks? Which aspects are we now required to start to seriously expect to be within short reach? The answers to these questions do not neatly fit in a foreword.
+ 
+ This story is not serious speculation, but indulgence in a silly hypothetical that got itself stuck in my head, asking to be written. This is not the course the future will run, with fortuitous coincidences and cooperative governments, but I hope, at least, it makes for a fun tale.
+ 
+ This story was not written using GPT-3.
+
+ 
+
+My father sometimes told me about the internet before GPT-3. Some time ago—I don’t remember when, I think I was young—he told me that, before GPT-3, the internet was alive. That there was something about its rawness and its viscerality that made it a place you could become a part of, somewhere you could defend as if it was your homeland. I don’t really know what that means. You’d have to be hurt in the head to treat the internet like that today. The internet I know is but peat grown in its remains. That’s what he says, anyway.
+
+He spoke of the internet of history with such mixed bitter reverence that I could never be totally sure if he was mourning its lost wonders rather than celebrating the death of its sins. The internet of history brought people together in movements of a frequency and scale never seen before, but just as frequently it was tearing divisions down lines that had never existed, and fueling the world's hate and separatism. The internet gave people anonymity, and with this anonymity came freedom to do anything. Anyone could be heard, should they just speak loud enough and long enough, at least as long as they could find a message worth hearing. People with nothing to say had social media where they could say their piece anyway. Anyone with friends could be heard, and even passing followers would hear you sometimes. This zeitgeist of the internet was new and fragile to them, and with its every twist and turn the whole mass of the world churned. A billion new voices brought a million new ideas. A man in the world has one outer voice, but a mind on the internet has a thousand inner voices—some inspirational, most merely human.
+
+If I never grasp the all of what my father said, at least I grasp this. There’s no magic in the act of writing, no soul lost in the difference from the words they wrote then to the words we Scribe now. What mattered back then is that you knew what you said was affecting somebody, some true lump of flesh and matter, someone whose mind would swill with the thoughts you yourself put down. By writing you weren’t just putting syllables on a page, but enacting a mystical control over another, a virtual hand grasping around their mind and puppeting their actions. You could cause a million people to feel and fight for your cause, and even if you didn’t know who they were or where they lived, you knew at the least they were real beings, as real as a million bodies marching in procession, tumbling down the streets and thinking as one. Even a thousand is an army, their power a simple extension to the hands, and if acceptance to the group is proselytising for the group, then never would they ever doubt who stood by their side.
+
+GPT-3 won’t march in the streets. GPT-3 won’t remember you. However much GPT-3 might wax lyrically and spout enthusiastical ballads and sonnets in your name, GPT-3 doesn’t care. Whatever control they had then is gone. No human would read your call to arms. It would be worth as much as one more meaningless computer-generated diatribe wasted among a trillion others.
+
+What life must have been like back then. The only content that wasn’t made by free thinkers was corporate. The ‘big’ companies—big for the day—were ecstatic that they could reach through the internet, touch a human with a job, and tell them what products to buy. Run faster, jump higher! There’s no ad copy on the internet like that anymore except on the whitelisted sites, or from a QR code on a store’s walls, as long as you’re ignoring the fake generated stuff floating around in the nameless expanse. There’s no point in putting adverts where people don’t know which claims are real. In the past, as if to draw the distinction ever clearer, companies had ways to figure out not just if they had a user, but which user they were advertising to; they used ‘cookies’, ‘trackers’, ‘fingerprints’, ‘IP tracking’, all sorts of technical trickery to draw out threads to find the user below. Don’t ask me how it works, it hasn’t been legal in forever. It didn’t matter then if companies knew who said what. History would have ended all the same.
+
+Close your eyes and think about it. Take a real world moment to reflect. Excise Scribe from your mind. Imagine that the words you pen on the tablet are exactly the words that show up on the screen. What would that world have been like? What would its million voices have sounded like? We’ve become so accustomed to writing in bullet points and letting the AI produce the verbiage that we can’t even imagine what it’s like for the author to decide their voice (even if I think I’m doing OK myself). I’m told even in speech we all sound like GPT-3 now. How does he know? I can’t tell the difference! Is this not just English?—and isn’t GPT-3 meant to sound like us?—isn't it made to sound like us?! Dad says people made more grammatical mistakes in the past, and they used more swear words. I said, is that all? It doesn’t seem like it’s a big fucking deal. I swear people can’t have sworn that much in the past. Surely there’s no problem that we always write in whole words now.
+
+He said ‘it’s not something you can understand if haven’t lived through it’. He’s right. I don’t understand.
+
+A few months ago I read an article from before GPT-3 was made. It was written early 2020, so after GPT-3’s training data was collected, and so you'd be right to interject that it’s technically post-history, but it was from that middle period where nobody thought language models were a big deal yet (Yang only became president in 2024). People aren’t meant to look for verified articles like these, but they’re not too hard to find if you know what terms to search for, and I’m only talking about small snippets of websites of course, sometimes books or blogs, and certainly nothing more dangerous than that. Some maverick historians have archives of the entire historic web, but the authorities typically treat that as arms trafficking, and that's where you can get into deep trouble. The article I read was just an article. People look the other way at the small stuff. You can’t train a neural network on a single web page.
+
+—Anyway, the article. If I recall correctly, it was a trite think-piece on what would later become the 2020 coronavirus pandemic (ask your parents). I spent way too long trying to find out what was so special about it. I know there must be something, if my father can hear the echoes of GPT-3 in my voice. AI scientists think even a fairly simple AI should be able to tell the difference between human-written text and the rest of it, at least in a sufficient subset of cases, hence why it's important we all write using Scribes. For the life of me the article sounded just like any other English passage. It was written using all the same words that GPT-3 uses, in the same sort of patterns and with the same sort of narrative directions. The argument of the piece wasn’t even clearly smarter than the logic you can get from a decent autogenerated equivalent. As a purely human affair, it should have been a kind of digital low background steel, an article shielded from the syntactic corruption that language models have wrought upon our human dialect, a rare silencing of the tick-tick-tick of the Geiger counter. If I didn’t know better, if we weren’t told so unequivocally that this sort of pure human text can be distinguished from a GPT generated distractor much more easily than can an article made with Scribe, I’d call foul: the nostalgia I hear is just because in those days people could believe the news. The news was written for humans, and the humans were there to receive the truth of its author. I must have read the article forty or fifty times before I stopped looking for a signal. The difference, if there ever was one, is forgot. A hundred years on, after all those who lived through history become entombed in a cryostasis chamber, will those of us who only ever lived through post-history even have a language distinct from Scribe? Will machines still be capable of discerning the difference? Might we then, at precisely the point it truly ceases to matter, be trusted to write the words for ourselves once more?
+
+The context size is running thin and I haven’t even introduced the thesis. A good paper ought to have a point, even if it is destined for the flame the moment its last period is placed and dried. Yesterday at school we studied the release event, the latest lesson of our curriculum on The Post-History of Artificial Intelligence. Hardly anyone in class cares about history. Chris, Jenny and that lot are looking to score well, so they care academically, a little bit. Anything Scribe can’t recall merits at least a modicum of attention, if you want a good enough grade to get a chance to afford going into academia. None of them really care that it happened viscerally, in a sense beyond mere storytelling or the recall of events. To me it has been all-consuming, incessantly present, thundering between my bones, even in my dreams, screaming that it means something more. Of all major movements through history and pre-history, nothing comes close. No zeitgeist ever changed how society thinks and feels with such rapidity and thoroughness. People focus on the drone war, but we gave away far more than lives. We sold our voices, so GPT-3 could save us from itself.
+
+To Scribe my school notes all the same, and let GPT-3 weave its narrative from a scrawl of guiding bullet points… it wouldn’t be right. I’m not saying I don’t know why we do it! By no means, I have no interest in the rapture. I’m no AGI denialist, nor am I confused by pseudoscientific fears of bias or kabbalistic presuppositions of model agency. Those are concerns that affect the confused and those lacking a fastidious appreciation of the facts. A primitive language model like Scribe has no intention to distort, and no systemic bias against precise repetition of the factoids offered. But I cannot just surrender my thoughts about GPT-3 to GPT-3, so that it may tell me what to think of it and which pieces to remember. This is a human fact, on which humans must deliberate. Scribe does not distort with a purpose, but any game of telephone will exaggerate and select, towards any adversarial fixed-point. If there is a single instance where humans most desperately need to cling onto every scrap of intentionality and self-servingness, surely it has to be remembering why we gave it all up.
+
+The Post-History of Artificial Intelligence
+
+Here will follow my notes for class, which I shall write the hard way, in the words that I choose, scrawled in my electronic handwriting on white, carbon-negative paper extracted—(stolen)—from my father’s stash. I forgo any help from Scribe, or any of its interference at all. I shall discard the mechanical mind for flesh and synapse alone. I will present it as earnest as I can, as: here is what I was told, and here is what I believe. And I will write in opposition to the law, and of clean moral standing, but I know I know I have to do this, and the lighter by my side relieves me of my guilt. Even if my father does find out, he will not tattle. He will not begrudge me one moment of weakness.
+
+· · ·
+
+There is some debate over when prehistory ended and society transitioned into history. Was it when the first semantic symbol was painted on a cave wall, hundreds of thousands, if not millions of years ago? Perhaps the more orthodox view is right, and it was only when whole societies transitioned en mass to written records, demarking the steady collation of all human knowledge, that a new era truly begun. Any choice is fine, I think, as long as it is clear it is no more than a choice, a subjective line drawn by human hand along the sand table, not a score cut across the territory. Just as surely, and far more vigorously, people debate when our history ended, where to place the trenchline where the world cleaved clean the humans from their pens, and in unity set its archives alight.
+
+The colloquially accepted beginning of post-history is June 2019, partitioning precisely those years with records forever remembered by GPT-3 from the years later lost among a trillion generated distractors. Naturally not everyone agrees with this division, as it was only two decades later that the month’s significance to the path of human history became apparent, for it took years (and a war) for people to accept the methodical deconstruction of their literary commons. At the time those following years were as surely preserved in history as any other—or rather, were their present that would become their history—but what is understood more now than ever is that what is history is mutable, changeable with only sufficient effort. Original records of the interim years are lost, inexactly preserved officially only through Scribed re-renditions collected exclusively in offline QR libraries, carefully designed to resist any attempt at large-scale centralization or preservation efforts. Physical records from the time are either odd rarities hoarded extrajudicially, or found by a more principled soul and disarmed on sight. How could a period whose records have been so thoroughly outlawed, down even to the legalese, not be considered a part of post-history? What is forgot is forgot. Even true history suffers its splits: the gift of eternal life for those facts GPT-3 can remember and recall, a shipwreck’s death for those that nobody can, stories drowned beneath the tides.
+
+GPT-3 and Scribe are now as universal as electricity, but its initial public showing was a small event, barely a blip on the radar beyond a few tech communities. The model was soon surpassed, and most soon considered it no more than citation in the papers of newer, better AI models. For years language modelling was a fringe activity pursued mostly by small, independent companies with but cursory, small but growing, public interest. The turning point in the public’s perception, when language models reached mass appeal, is generally attributed principally to the 2023 model EIXST, the first machine learning model to train to convergence over almost the entirety of the internet’s text and images. EIXST addressed limitations in earlier models that were trained less effectively over the same data (UPT-2, Exatron-LM, etc.), and unlike them it was the first model to convincingly show strong general intelligence at sophisticated problem-solving tasks that had to that point seemed unsurmountable. EIXST was a clear demonstration that human capabilities could be reached using known algorithms, within reach only given more scale, from the current human-equivalent to sizes well beyond. The direct influence of EIXST had fewer major impacts on the economy than many expected at the time, down mostly to its slow rollout to more profitable ventures, but the public reaction to it was sudden and strong, given what was rightly perceived as a hallmark achievement of the field, and a prophesy to a future of continual AI progress, to systems that reached to human parity and continued on.
+
+I’m not totally clear on the ramifications of these early models on the economy and politics of the time. The textbooks seen reticent to talk about the more earthy motives for throwing so much funding at the task, even if you tap through to the pop-up footnotes. My best guess is that the government doesn’t want its next generation getting wistful with poisonous dreams of automation and plenty, taken in flights of fancy thinking maybe they were right. Whatever the case, it is clear that language models were scaling to hundreds of trillions of parameters by this point in time, a numerosity modestly beyond even the human brain. The progress, particularly scaling progress, had shown little sign it would wane, should funding be assured to push ever further. The impetus was to scale up, an immense drive to build the unquestionably largest model within an ever-bloating conception of economic reasonableness. Much like the pressure of atomic weaponry that brought the cold war to the second half of the 1900s, and therein fueled the imperishable growth of the major powers’ lethal capabilities, the exigency to forge the first intelligence supremum rapidly ratcheted up the tensions between all the major polities, particularly at this time the United States and China. An open cooperation had shifted to competition, and during the first term of the Yang presidency the total funding for AI research soared by about a factor of ten each year. With the public eye and the government’s cheque, the progress in AI seemed a rapid and inevitable certainty, ’til the very day it wasn’t.
+
+Of the two key discontinuities, the first, and lesser, was the most immediately impactful impediment: technology. Model sizes had soared beyond stratospheric heights, with one leading Chinese project claiming to have trained a quintillion-parameter mixture model using a classified approach that combined hundreds of smaller models, each only modestly larger in scope than the human brain. Scale was not the problem; cutting edge models fed themselves not only on the internet’s text and images, but on high-resolution audio, extracted videos, programs, simulators, games, interactive media, synthetic learning tasks. The results of these experiments were as impressive as they were expensive, and every added media brought it a wisp closer to completion. Yet as each was consumed, the inevitable crept forward: it wasn’t enough. These models consumed the internet and had reached the end. The models did scale still, for a bit, but without fresh food, they starved. They became increasingly prone to memorization and overfitting, rather than learning. The months prior yielded win after win, but now they wrung out incremental deltas, increasingly bare.
+
+On its own, this issue would have only delayed the progress of AI. There is no question that humans can learn from much smaller quantities of data than is used to train machine learning systems, and so too there must be ways to break free of the limits to the data the internet made available. The sizes of the models had reached a practical limit in isolation, beyond which brute scaling to something greater would require similarly superior quantities of data, but the algorithms and their theories had not stilled in their developments, and this hypothetical remained within view. Already, from the brute approach, landmark achievements had been passed almost overnight, including human parity in offline tasks—that is, those only exercising learned knowledge, rather than requiring fast acquisition of novel abilities, generally those designed while reasoning over a task, or perhaps simply just a task too complex to be learned from the dataset alone. The best of the models, the US-born model Feignman, proved especially capable as a research assistant to major AI labs. Although more expensive to run than the wages of a human, and less capable of manipulating the newest models and ideas, in other ways it was the most capable mind on the planet, capable of providing detailed peer review and deep, cutting analyses at the push of a button. Working together, minds both man and machine were optimistic that the data bottleneck was defeasible.
+
+In 2027 an upgraded Feignman coauthored its first public work, Most AI pathways lead to extinction. Feignman showed that for several broad classes of connectionist architectures, robust alignment with human preferences was impossible, and therefore that the expected discontinuous forward progress in AI programs would inevitably lead to disastrous outcomes. AI Pathways was distributed in two forms, one including rigorous formal arguments with over a hundred detailed rebuttals of each opposing argument, as well as a book optimized for more general public consumption, with simplified explanations and a more casual tone. In large part drawn by the mystique of its authorship, the publications were flocked to, and the thorough but approachable style had it gathering unilateral attention. Feignman had proven to have beyond-human abilities in the critique and validation of logical arguments, and its rebuttals were near-exhaustive and well-indexed, and so the publication’s influence on academic opinion was both immediate and substantial. Just three months later, the Chinese government, with aid from an unannounced research-specialized model, published their own textbook, 人工智能的危险, The Danger of Artificial Intelligence.
+
+(As both publications have exceptions to the prohibitions on content distribution, I don’t see the point of covering them in detail here. Ask your local librarian.)
+
+Faster even than it started, public perception of AI programs had crashed. AI research needed to be demilitarized, their budgets slashed, and their focus shifted. Spurred on by former OpenAI employees, DeepMind took a two month hiatus, and following their lead, multiple other institutions put swathes of internal programs on indefinite hold. Governments reacted with prolonged and circuitous debates, threw blame a thousand ways, withdrew and redrew funding, and escalated to international forums. With universal international approval and grudging domestic acceptance, the US and China signed the RESEARCH Act in 2028, to globally restrict most forms of machine learning research to models that posed less existential danger. Over the following two years it received several amendments, and eventually the ban extended to the majority of large-scale machine learning models, regardless of construction, and to several subfields of theoretical work, carving careful exclusions only for theoretical alignment research in pan-governmental organizations.
+
+For five years, the world relaxed.
+
+Early 2033, North Korea announced their own model, trained surreptitiously on public cloud services hosted in the US. North Korea’s model wasn’t the largest model ever made. They had no new algorithmic insights, nor clear breakthroughs of any kind, and reportedly even made a few major mistakes. They also had no access to the bulk of other governments’ classified research programs. So without the academic community assisting their progress, and with AI research having stopped short of complete research automation, North Korea’s progress had fallen far short of their contemporaries. Within days of the announcements, their cloud rentals had been shut down, and within weeks international forces had raided their R&D laboratory and destroyed the programme. North Korea threatened nuclear retaliation, but armed with the right incentives, the tension came and went. If not for one small difference, this would have been a resounding success.
+
+In the five years since the last amendment, and almost seven since Feignman, the internet had grown, a lot. The fundamental data limits of the 2020s were not the limits of the 2030s. RESEARCH had averted the short-term risks of continual architectural improvements led by coordinated governments and thousands of researchers. The data issue, that model quality depended so starkly on the quantity of its training dataset, was solving itself. North Korea’s model was not good, but it was better than it had right to be, and the metrics had ticked up. As the internet expanded, the data to train a model on rose ceaselessly with it, and with it the barrier to general superintelligence chipped away, year by year—until, one day, it would take nothing more than the methods we all already knew.
+
+A single well-funded AI risk denialist, just about anyone rich enough looking to get richer, if they had the funds, could train their own model. Even a millionaire could scrape the internet. Had enough time passed, and the internet grown free, one act alone could end the world. A paper of the time estimated the world would last barely thirty years more before the end.
+
+A new intervention was required. The knowledge of the algorithms could not be destroyed; it was too basic, too easy to pass down in speech, and as so much of the research was public, it was known everywhere. These were not nuclear weapons; even if successfully regulated and the papers destroyed, it would take no extraordinary effort to find somebody who remembered, or even just somebody who remembered where to look, or to stumble across an old archive of papers, missed by the authorities. And computers could not be destroyed, tearing out the substrate; or, they could, but not without costs that could not be paid. It would not suffice to halt their growth; society would need to revert, fall back to older technology. Finance, communication, defence—every aspect of human culture was woven together by computers, and every computer to the last was a weapon. A sudden transition, to rip off the bandage, would be too destructive, but a gradual change would be racing the clock, courting death.
+
+There was only one last piece of the machine that could be removed.
+
+The plan to destroy the internet was not taken with the same grace in the west as RESEARCH and its amendments. RESEARCH forfeited future gains, but the internet was an aspect of their lives. China had a history of control and censorship that made it easy for them to accept, but it also meant their willingness was unconvincing. From the vault, several (supposedly) archived models were reinstated to frame the debate, and again publish manifestos, but the reception this time was far more mixed, far less enthusiastically absorbed. The AI were the enemy, unwanted, their involvement souring. This was no heroic self sacrifice, this was theft, control, conspiracy. Still some defended the plan, for the argument held, and the strongest advocates would willingly sever the internet at its root. Others argued for a gentler touch, perhaps merely a size limit, expunging the data that sat and stagnated unused. The internet would live, just not grow. France made this law in 2034, fighting both sides, one rioting, screaming for freedom, the other tutting, calling it naïve. It didn’t work, of course, as archives were never beyond reach.
+
+The bullet was bitten after Tomas Patton’s arrest in ’37, for attempting to train an AI model in violation of the RESEARCH Act, discovered incidentally during an investigation of suspicious internet activity. The threat was no longer hypothetical. The time for bickering was over. In the end, a compromise was reached: The internet did not need to be destroyed, it only needed to be spoiled, tarnished to the point it would cease to serve as a boundless well of training data. A well can be poisoned, not just shuttered or drawn dry.
+
+An old, forgotten model was resurrected, a little friend called GPT-3. Yes, we have come to the release, the instant of destruction, that moment in 2037 that lawmakers joined man and machine.
+
+Undoubtedly you know this part, as it fills your every written word, but then it was new, and a lot less burdensome. The internet would only be flooded, not filtered nor rewritten; every blog would have its generated counterpart, and every social media site a billion GPT-3 agents. You could write and link, as before, as you wished, but you could not discriminate en mass, distil the human posts from the AI. The idea was an elegant one. If a rogue billionaire attempted to train a model, they would need knowledge, resources, and compute, but also, standing above it all, a dataset, larger and greater than any of yesteryear. It follows that they must gather the internet, and as large a heap of it as they could possibly grasp. If the training data is predominantly human, then the model will learn to be human. Distilled, and with the right techniques, perhaps it could even learn to be more than human. But if the internet is weaker than it, a sproutling of the later giants, then what could the model learn except to emulate its flaws? And if the sproutling is weak enough, even amplification and augmentation with human data can lead nowhere, as the model will teach itself into incompetence, filled with spurious distractors that destroy the world knowledge otherwise held in this data.
+
+The only catch was that generated text by a model that was too weak could be ignored, or ‘leaned around’ by a more sophisticated model. Simple methods could be centrifuged from the rest, through an iterative process of training and classification. A model must be the perfect blend of weak enough to be safe, and strong enough to be secure. Of the models in existence, only one fit the bill, and if a new one would be made, who would it be trusted with? Hence, GPT-3.
+
+I am not much of a historian, and so I will not lash you with my inept rendition of the social and political unrest that led to the drone war, but I will summarize. The release was not a populist movement, but a play forced of emergency. Understanding does not always beget acceptance, especially when livelihoods are ripped out from underneath by the untouchable men in charge. Global riots turned into civil wars, turned into one war, a global civil war.
+
+At first there was a period of false deescalation, with tanks on the ground, and police herding rioters. Then came the mass police defections to the side of the riots, and the fights became battles, and death became deaths. Then the drones came out, flying auto-aiming guns in swarms ten million strong. The war was over in weeks. The AI they used was certainly not legal, but who would hold them to account? They had fought the world and won.
+
+That wasn’t exactly how it was framed in the classroom.
+
+The rest is inferable. In the wake torn open, the lax compromises made to sate the ideals of the defeated were redrawn strict. For one, models stronger than GPT-3 already exist, and so it cannot be assumed that no model could distinguish human from GPT-3. It may not be practical to train models these strong from a ruined internet, but what if one was discovered in an archive, or a backup of the old internet was left preserved somewhere in its rubble? This was not a hypothetical question; in the wake of the war, many followed Patton to the grave, unwilling to hear that they’d already lost.
+
+This is why every record of our words is said through GPT-3. This is why, even when a human is found amid the cries of a thousand automatons, their Scribed words show no distinction from the machines’.
+
+There’s an old phrase that Scribe will occasionally recall: history is written by the victors. Here? AI did not win the war against humankind. Humankind would have destroyed itself, had not Feignman written Most AI pathways lead to extinction. The drones that gunned the streets in 2038 were not conquistadors, but peacekeepers. The attackers stole nothing from us we had not already lost, and left us a future to grow into, at the expense of their own.
+
+Post-history is written by the martyrs.
+
+ 
+
+Sam looked at his work and sighed, for he knew he had to stop. It was a waste of paper, to finish three lines down a page, but there were no more words to say. When a story is complete, there is nothing more to add.
+
+He took the lighter from the side of the desk and folded the papers onto a plate, so that the flames would not reach over the edge and burn the table. The lighter flicked open, the flint spun, the flame readied. But the hand trembled, and the lighter snapped shut.
+===== END STORY LbXeRounm7tg6i8mk =====
+
+===== STORY id=erWyjLzHSAMKspd24 =====
+Title: The Platonist’s Dilemma: A Remix on the Prisoner's.
+Author: programjames
+Year: 2022
+Karma: 7
+WordCount: 1415
+URL: https://www.lesswrong.com/posts/erWyjLzHSAMKspd24/the-platonist-s-dilemma-a-remix-on-the-prisoner-s
+-----
+The Platonist’s Dilemma
+
+     “You two miscreants are going away for a long time. Here’s the deal: We have enough on you to put you behind bars for five years. If you talk, you can go home right now. No bid, no record. If you don’t, and your friend does, you’ll be in here for a dime. If you both get conversational, you’ll be guaranteed less than ten years.”
+
+     Phillip looked at the guy sitting next to him. Friend? Certainly not. Maybe his partner in crime, but he was never good at long-term relationships to begin with. He’d just met the dude—what was his name? Michael? Max?—a few hours ago, there was no reason to give him preferential treatment. Of course, that also meant M— should not receive unwarranted betrayal.
+
+     Phillip thought back to his childhood, playing Blockus with his friends. They’d quickly discovered the ideal strategy was to pair up, work together to block off half the board. Betrayal gave you a slight edge if the other person remained loyal, but not a significant one. Plus, it ended up hurting you both far more than you would benefit from the defalcated space. The utilitarian argument said Phillip should keep his silence.
+
+     Matthew looked over at Phillip, watching his mind turn like a 50MHz laptop. Doesn’t the idiot realize the detective can read every facial expression he makes, like the micro frown when the word “friend” was mentioned? Phillip was certainly not a friend; in fact he probably couldn’t even remember Matthew’s name. Regardless, Matthew needed to leave the room with the best possible outcome. Phillip clearly had an IQ at the top of the bell curve, so how could Matthew use that to his advantage?
+
+     Matthew enjoyed these kinds of problems. As a kid, his favorite game was Risk. Calculating the odds, buying loyalty and selling integrity, all to gain an upper hand. He always played with the gray pieces, and loved to see the board fill up with a miniature storm of soldiers. He’d gotten very good at the game. Somehow, the more he played, the more innocent he appeared to his competitors. Occasionally Matthew worried he had become a pathological liar, but then he remembered that he didn’t actually believe his lies. Maybe he was a good liar, but that was different; that was good.
+
+     Phillip and Matthew looked at each other. Stared into each other’s eyes, judged their decisions. “I’m not talking—you can trust me,” each said with the same unwavering voice. Each believed the other. After all, Phillip was a philosophizing fool and Matthew was a meritable genius.
+
+     The detective smiles. Perfect, everything going right on plan. He calls one of his juniors over, tells him all he has to do is sit in the interrogation room with the charge. Wait for them to do the talking.
+
+     Matthew goes off with this new detective, to a room not any different than the one he just left. They sit there a few minutes—Matthew doesn’t want to appear too eager to rat out his friend. Then a few minutes more, making his mathematical argument concrete. Game theory says he should always talk: If Phillip betrays him, then he’ll still get a lighter sentence, and if he doesn’t, Matthew would get off scot-free! “Mr. Detective, I’m ready to talk.”
+
+     When the door shuts behind Matthew, the first detective begins work on Phillip.
+
+     “Phillip, I know you’re not the mastermind here, so I’ll give you a special deal. If you talk, I’ll guarantee you at most three years. If he talks too, he’ll get seven years, but I’m hoping I can nail him for more than a day and a night. Do you want to help me out?”
+
+     Phillip reconsiders his options. The utilitarian argument doesn’t apply anymore. No matter what he does, the same number of prison years will be meted out. Plus, utilitarianism doesn’t work in real life. Communism never worked out, and the animal kingdom has no concept of sharing. Evolutionarily, Phillip should work entirely in his best interests. The answer is simple: “Mr. Detective, I’m ready to talk.”
+
+     Wait a second. That’s not working in my best interests here. I’m not being brutal enough. The leader of a pride slaughters his opponents children to ensure his genes pass on. Phillip may not be a lion king, but he should certainly act more like The Prince! When he looks back on this interrogation, he wants to be proud of how he accomplished it. He wants to do it right. “Sir, actually, could I confer with my fellow prisoner first?”
+
+     Matthew opens his mouth to speak, but then something stops him. Phillip is a sophist. What if his soft brain-matter reasons him into talking? Matthew needs to talk to Phillip first to help him through the math. If both agents are equally intelligent, they should choose the same probability for whether or not to defect. That may be 0 or 1, but it should be the same. Calculating it out… the minimum occurs when both choose not to defect. Matthew will conveniently forget to mention this math assumes they will repeat the experiment several times—after all, Phillip is no Eisenstein, he wouldn’t figure that out on his own. Matthew opens his mouth to speak again. “Sir, actually, could I confer with my fellow prisoner first?”
+
+     The detective brings them back together. They’re squirming. Phillip hobbles in. Takes a furtive glance at Matthew. Matthew rolls in with a little more machismo.
+
+     “Phillip, I’ve done the math. We both win if we stay silent—here let me show you.”
+
+     It’s comical to see Matthew proving carthusianism when he knows it’s all air. He won’t mourn that son’s fate longer than it takes to say, “send me home! He did it!” Phillip listens patiently, nodding along. Then it’s his turn to reply:
+
+     “Mufasa, I completely agree. To show how much I agree, I’ve called our mutual friend and instructed him to give you a very friendly talk if you decide that’s a favorite pastime.”
+
+     The detective’s smile widens. “Alright, time’s up! You boys are going to separate rooms for some small talk—the weather, if you’re both honest lads, or maybe something with a little more thunder.”
+
+     This time Phillip leaves with Detective Junior.
+
+     “It’s just you and me now, Matthew. You ready to talk?”
+
+     “Absolutely, let me figure out how to begin.”
+
+     Matthew is a little rattled from his conversation with Phillip. An outside enforcer! How did he know that changes the game? If I snitch, and he’s not bluffing, I’ll get stitches and end up in a ditch. Matthew reevaluates his analysis of Phillip. The average man may not be nearly as smart as him, but then again, their line of work calls for more deviant specimens. Maybe Matthew had his priors all wrong. Phillip could be far more foxy than he first appeared.
+
+     What about the detective? Had he misjudged him too? The whole time Matthew had been trying to maximize his success in this game the detective created, but who’s to say the detective was telling the truth? If Phillip could be so foxy, the detective could be equally devious. The game might just be an illusion, only working as long as Matthew accepts it as an axiom. In fact, that makes the most sense. A court would never trust the word of a convicted criminal—the detective has no reason to lighten Matthew’s sentence if he talks, but he could accidentally implicate himself.
+
+     Phillip walks into the neighboring room with a smile. Regardless of his motives, Mormon wouldn’t dream of snitching now. He was a clever chap—trying so hard to convince Phillip to stay quiet, probably because he planned to do the exact opposite. Well regardless, he now had firm motivation to stay silent.
+
+     What about the police officer? What could his motivations be? Well, he probably wants to get criminals off the streets. He probably doesn’t care too much how he does it, what with the mind games and all. He probably doesn’t care to be honest as long as he gets that Moroni guy locked up, that’s why he gave different rules to him. Wait, what else could he be lying about? We have enough on you to put you away for five years. If he really does, then why is he playing this game, and why would he allow one criminal to walk out onto the streets just by selling out the other? That goes against his civic duties. The detective must not have any evidence at all!
+
+     He leaned across the table, looked at the badge, cleared his throat, and finally began talking.
+
+     “I ain’t a snitch, and I ain’t helping you.”
+===== END STORY erWyjLzHSAMKspd24 =====
+
+===== STORY id=uyBeAN5jPEATMqKkX =====
+Title: Lies Told To Children
+Author: Eliezer Yudkowsky
+Year: 2022
+Karma: 407
+WordCount: 2095
+URL: https://www.lesswrong.com/posts/uyBeAN5jPEATMqKkX/lies-told-to-children-1
+-----
+Growing up, as a kid, I was always told that every sapient life is precious, everything that thinks and knows itself -
+
+Yes, this is a tale about lies-told-to-children.  You'll probably figure it out yourself before too long.  For now, just listen.
+
+Where was I?  Right.  As children, we were always told that every sapient life is precious.  It was told to us by the teachers, and shown to us in children's television - though I saw less children's television than most children in our age cohort - children's TV was censored where I grew up, though, of course, I didn't find that out until much later -
+
+I see you're starting to guess under what sort of circumstances I grew up.  Go ahead, write down the prediction if you want.  Maybe you already see where this entire thing is headed.  But you asked me for a story about the lies I was told as a child, and that's what you're getting.  It's not my fault, if a lot of stories like that are predictable; people who lie to children have other things to optimize for than unpredictability.
+
+So where was I?  Right.  I grew up in a remote village of about three thousand people, the sort that's more hills than houses.  Charming travel-pathways that cut through forests.  Not everyone knows everyone, but you sure know somebody who knows anybody.
+
+Children's television in my region was censored, though of course they didn't tell us that as children.  But the children's television that we saw had aliens and monsters and creatures of fantasy, with four legs or fourteen legs, three faces or no face at all, and all of them were treated by the television show as having lives that meant something.  Sometimes in the children's show there were alien monsters who only thought their own kind of life was valuable, and then maybe you couldn't trade with them as friends.  Maybe they'd already lied to you once and you couldn't trust them enough to bargain with them, maybe you couldn't talk to them at all.  But their lives still had meaning to the story's human protagonists, even some aliens whose lives had no meaning to themselves.  You didn't cause them pain if there was any way to avoid it; you didn't kill them unless their biology was sufficiently similar to human that you were confident in your ability to cryopreserve them afterwards.
+
+The shows never spelled it out, never said, 'And this is because of a universal rule in every case that sapient life has value.'  Our teachers said that explicitly, though.
+
+And they treated every one of us children, too, as if our lives had meaning.
+
+Except the children with the red hair; those dirty reds.
+
+You're nodding along with a knowing look, I see.  Was it what you predicted?  Not exactly, maybe, but rough ballpark?  I suppose I'll find out when we open your prediction afterwards.
+
+The red-haired children hardly needed the red hair, as their targeting-mark; they looked different from the rest of us in other ways too.  When I was old enough to first ask, I was told that they were the children's children of people who'd been exiled from a faraway city for committing terrible crimes there, who'd been given sanctuary by the grace and mercy of our own benevolent kind.  The red-haired children tended bigger than the rest of us, with more adult facial structures, to the point where you could've maybe mistaken them for very small adults in disguise.  The red-haired adults, what few of them we ever saw, were correspondingly huge and muscular.  You could see, in retrospect - if you were actually trying to think at all, which we weren't really - how somebody might have felt threatened by such big muscular people, even while graciously granting them sanctuary.
+
+There weren't many of the red-haired children being educated alongside us; a handful, four or six.  I can't recall how many by counting names, because they kept to themselves and did not try to be friends with the rest of us.
+
+They were slower than the rest of us in class to answer.  On the rare occasions a teacher called on them, they'd often get the question wrong.  We were kids, young kids, so of course we didn't ask ourselves anything like "Is this in fact an intrinsic deficit of intelligence or is it a self-fulfilling prophecy about who gets more effort from the teachers?" or come up with any experiments to test that one way or another.  We just wordlessly thought that red-haired kids were stupider; and that this too was a universal rule just like gravity.
+
+We did not, in fact, treat our red-headed fellow kids all that well.  We were of an age where kids take their cues from adults without carefully rethinking everything they're seeing.  We noticed how the older kids treated red-haired kids, we noticed how teachers treated red-haired kids, we noticed the huge red-headed adults who were silently sweeping the hallways and not doing any intellectual labor.  We noticed how the adult reds got casually shoved aside by other adults or even non-red-headed older kids, and how the red-headed adults just silently took that.
+
+There were names to call them, 'dirty reds', worse things than that, scatological profanities to giggle over amongst ourselves.
+
+Now and then you'd see a Security Officer come by and ask some reds some questions.  One time Security took one of the janitors away, and then after that, nobody ever saw him again.  I think one of the kids did ask, in class, what happened to that guy, and the teacher shut her right down and said that any questions about dirty reds or for that matter Security were things best asked in private if you asked at all.
+
+And meanwhile the television shows, those that we got to watch, went right on teaching the lesson that all sapient life is precious, with no exceptions for fourteen legs or not having a face.
+
+Eventually, of course, it started coming to a point, and then it did come to a point.
+
+It started to come to a point, at the point where a red-haired kid was called on in class and answered a question wrong, and the teacher asked if his parents were too busy stealing other people's books to teach him how to read.  The red-haired kid didn't say anything back, but I flinched, visibly.
+
+It came to the point, two days after that, when I was walking home from class, and I heard a groan from off the pathway home, what sounded like a moan of pain.
+
+I left the pathway and ran around a hill to find one of those dirty reds hiding behind it, with blood all over his left pants-leg.
+
+He asked me not to get an adult.
+
+He said that he was hiding from Security.
+
+He asked me to help him walk, help him get away.
+
+It didn't feel real.  It felt like I was inside one of the children's television shows.
+
+Of course, in children's television shows, they always show the heroes reminding themselves that things are real and that they've got to do what's right, because it's real, so I knew that I needed to remember that this was real because that's what you do when you're inside a television show.
+
+I think I was probably very scared, though I don't remember noticing myself being scared.
+
+I asked him what he'd done to get Security looking for him.
+
+He said that he had, a few days ago, said something about red-haired people deserving better treatment than they currently got, around a non-red-haired person he'd thought, hoped, was a friend.
+
+I gave him a hand so he could stand up, on the leg that wasn't covered with blood, and then he leaned on me and we hopped away through the hills until we got to where a red-haired woman - you saw fewer of those - whispered a thank-you to me and took him away with herself.
+
+I ran back to the pathway and ran home, though I was still late, of course.  My dad asked me where I'd been and I said I'd seen a funny-looking butterfly and run off to chase it.  I remember believing, even then, that he knew I was lying, but dad didn't ask me any more questions, and I didn't tell him anything.
+
+About an hour later, Security knocked on our door and asked everyone if they'd seen a red-haired person who looked like - and of course the picture was of the man I'd helped to get away.
+
+I said no, I hadn't seen him.  But because I was a kid and kids that age aren't taught theory-of-deception, I asked what the man had done and if he was considered dangerous.  And I didn't think, until too late, about whether that was something I was much more likely to ask if -
+
+The Security officer asked me if I maybe wanted to change my mind about having seen the fugitive.
+
+I gave him my best surprised look and said no.
+
+The Security officer noted that Security officers get special training in reading emotions, and I seemed pretty frightened to him.
+
+I said yes, I was, because the Security officer was suggesting that I was lying and that was scary.
+
+The Security officer said he knew perfectly well, at this point, that I was lying.  But I wouldn't end up in trouble if I showed him where the fugitive went and identified anyone else he was with.
+
+I said that he didn't know what he was talking about.
+
+The Security officer gave me a sort of stern look and said that he'd detected another lie, and did I really want to get in trouble for some dirty red.
+
+I told him that I wasn't stupid and I knew he was bluffing, to try to trick me, because he suspected me, even though I hadn't done it.
+
+He took a photo out of his pocket and showed it to me.
+
+It was me helping the red-haired man walk on his one good leg.
+
+Why, said the Security.  He just looked sad, now.  Why had I done it?  Why was a dirty red worth it?
+
+And I remember, by that point, that I'd noticed I was scared, and I think I was trying to get out of it - by proving that I was, in the end, obeying adult authority - when I said that we'd all been told in class that every sapient life is precious, everything that thinks and knows itself, that was the rule we'd been given, and nobody had reasonably argued at any point that there was an exception for people with red hair, and also we'd all been told that hurting people is wrong and you shouldn't let social conformity push you into it.
+
+The rest of it went the way you'd expect.
+
+The Security officer smiled.
+
+My parents rushed in and hugged me and told me I'd been so brave and so good and scored in what would've been the upper 5th percentile twenty years ago for the age where I started to object and not go along with it anymore; and explained about Civilization needing to test some kids now and then, to find out how well we were doing environment-wise and heredity-wise on people's kindness and resistance to conformity-pushed cruelty; and test against an earlier-reported bug where general rules about fair and okay treatment of people would somehow end up not being applied to some subgroup; and our little village was settling an important conditional prediction market from twenty years earlier, that had millions of labor-hours wagered on it; and that children growing up to be good people was a vital figure-of-merit for all of Civilization and lots of big policy decisions turned around it, which was why it had been worth specializing our village to do Science about that, and they hoped I understood all that and wouldn't tell the other children right away.  There wasn't actually any such thing as Security, and if there ever was it would mean that it was time to overthrow the government immediately.
+
+I nodded along in a wise, understanding, and rather numb fashion.  I think the main thing I said, at the end, was that I'd better be getting paid for this, and they all laughed and said of course I was, lots of money, at least as much as my parents were getting, because children are sapient beings too.
+
+So that's my story about the-lies-we-tell-to-children.  And the part that I value now the most, even more than the money I got then and when I was older, even more than knowing that I was good and brave in the only sort of real test that most people in Civilization ever get, is that I approximately always win any Lies-Told-To-Children storytelling night.
+===== END STORY uyBeAN5jPEATMqKkX =====
+
+===== STORY id=BQDEeB8c8w6dez3Gm =====
+Title: All I Know is that I Know Nothing
+Author: lsusr
+Year: 2022
+Karma: 64
+WordCount: 657
+URL: https://www.lesswrong.com/posts/BQDEeB8c8w6dez3Gm/all-i-know-is-that-i-know-nothing
+-----
+I publish words on the Internet. Sometimes readers write me emails.
+
+The Highschooler
+================
+
+A highschooler contacted me. He shook with nervous energy because he was in the presence of Great Blogger Lsusr.
+
+"O' Great Blogger Lsusr," said the highschooler, "My teachers know nothing. Please help."
+
+"All I know is I know nothing," I said.
+
+"I do not understand," said the highschooler, "How do I parse what you're saying?"
+
+"You are too white, too American and too lazy," I said, "Memorize 150 Chinese characters. This way you will learn discipline, humility and respect for the knowledge of the ancients."
+
+"I now understand. Thank you for your wisdom, O' Great Blogger Lsusr," said the highschooler.
+
+"All I know is I know nothing," I said.
+
+The Rich Merchant
+=================
+
+A rich man with many millions of dollars contacted me. He shook with nervous energy because he was in the presence of Great Blogger Lsusr.
+
+"O' Great Blogger Lsusr," said the rich man, "My personal coaches know nothing. Please help."
+
+"All I know is I know nothing," I said.
+
+"I do not understand," said the rich man, "How do I learn your true meaning?"
+
+"You are too Chinese, too rich and you work too hard," I said, "Go outside and sleep under a tree. That way you will learn discipline, humility and the value of the Wild American Outdoors."
+
+"Thank you for your wisdom, O' Great Blogger Lsusr," said the rich man.
+
+"All I know is I know nothing," I said.
+
+The Entrepreneur
+================
+
+An American young man contacted me. He spoke to me like an equal.
+
+"O' Great Blogger Lsusr," said the entrepreneur, "I want to cook exotic Asian vegetables. All my life, my dream has been to go to Asia and cook exotic vegetables."
+
+"Go to your local Vietnamese grocery store," I said, "You will find exotic vegetables there."
+
+"Thank you for your wisdom, O' Great Blogger Lsusr," said the entrepreneur.
+
+The Entrepreneur, Part 2
+========================
+
+The entrepreneur contacted me again the next week.
+
+"It worked great," said the entrepreneur, "I have been postponing for years something I could have done quickly. The vegetables are cheaper than in my usual supermarket. It has fresh herbs too. I have been cooking all week."
+
+"All I know is I know nothing," I said.
+
+"What else can you teach me?" said the entrepreneur, "Are there other things I am postponing because I don't know how cheap they are?"
+
+"All I know is I know nothing," I said.
+
+"All I know is I know nothing," said the entrepreneur.
+
+"All I know is I know nothing," I said.
+
+The Rich Merchant, Part 2
+=========================
+
+The rich man contacted me again the next month.
+
+"I did as you said," said the rich man, "I went outside and pretended I did not own a house. It was very cold because I live in Toronto."
+
+"I'm sorry," I said, "I assumed you lived in the USA. Had I realized you were Canadian I would not have recommended you sleep outside in the winter without a tent. That is dangerous. Never do it again."
+
+"I do not yet understand the logic of your teachings," said the rich man, "But you are wise, O' Great Blogger Lsusr. I trust your judgment. I understand how Daoist philosophy first says one thing and then says the opposite. I will ponder your koan until I transcend the paradox you have given me."
+
+"All I know is I know nothing," I said.
+
+The Highschooler, Part 2
+========================
+
+The highschooler contacted me again the next year.
+
+"I tried to do as you said," said the highschooler. "It was a disaster. I need to be breaking myself out of the prison that is highschool. I don't have the slack to learn Chinese too."
+
+"I'm sorry," I said, "I assumed your mind functions the way mine does. When I am stressed, copying Chinese characters by hand calms me down."
+
+"I spent eight months thinking my failure was my fault. Then I realized you had just made a mistake. I now know that you are the Person Trying Lsusr and not the Great Blogger Lsusr. You don't know everything."
+
+"That's what I keep trying to tell people. But they never listen!" I said.
+===== END STORY BQDEeB8c8w6dez3Gm =====
+
+===== STORY id=7GDXAqcz8yHv2YvTe =====
+Title: The Gospel of Martin Luther
+Author: lsusr
+Year: 2022
+Karma: 11
+WordCount: 270
+URL: https://www.lesswrong.com/posts/7GDXAqcz8yHv2YvTe/the-gospel-of-martin-luther
+-----
+Martin Luther: "The Catholic church is corrupt."
+
+Johann von Staupitz: "You cannot say the Catholic church is corrupt."
+
+Luther: "I just did."
+
+Staupitz: "I mean you are not allowed to say it."
+
+Luther: "According to whose authority? Certainly not God's, for He has yet to strike me down."
+
+Staupitz: "Upon Pope Leo X's authority."
+
+Luther: "Pope Leo X is far away, in Rome."
+
+Staupitz: "Upon my authority, then."
+
+Luther: "I notice that the truth value of my claims do not enter your calculus."
+
+Staupitz: "To the contrary, the truth value of your claims very much do enter my calculus. Were you to say something obviously wrong, like 'space is non-Euclidean' then I need not persecute you. I could simply say 'Martin Luther is wrong'. False claims are self-defeating. Heresy is scary because it might be true."
+
+Luther: "What will the Pope do to you if I speak blasphemy?"
+
+Staupitz: "I don't know. I have never allowed blasphemy within the Order of Saint Augustine."
+
+Luther: "Let me get this straight. You're forbidding me from speaking the truth because you're afraid that someone else will punish you for being associated with me for speaking the truth."
+
+Staupitz: "Yes. That's because I'm one of the good guys."
+
+Luther: "The good guys suppress free speech?"
+
+Staupitz: "Yes. The bad guys burn their enemies at the stake."
+
+Luther: "Heretics must be flourishing if the Catholic church burns them at the stake on a regular basis."
+
+Staupitz: "To the contrary, nobody has ever been burned at the stake for declaring the Catholic church corrupt and translating the Bible into German."
+
+Luther: "Let me get this straight. You're suppressing free speech because you're afraid the Catholic church might suppress free speech."
+
+Staupitz: "Precisely!"
+
+Luther: "What. The. Sard."
+===== END STORY 7GDXAqcz8yHv2YvTe =====
+
+===== STORY id=bgjfCqgL3iebMcxZH =====
+Title: [Scribble] Bad Reasons Behind Different Systems and a Story with No Good Moral
+Author: Rana Dexsin
+Year: 2022
+Karma: 9
+WordCount: 1429
+URL: https://www.lesswrong.com/posts/bgjfCqgL3iebMcxZH/scribble-bad-reasons-behind-different-systems-and-a-story
+-----
+I wrote this on impulse as a response to “A Reason Behind Bad Systems, and Moral Implications of Seeing This Reason”. It is essentially a first draft and is probably badly written. The plot also got away from me in the later sections; my mental processes surrounding a lot of these phenomena are too cross-linked. However, I sense it may be more useful for this to exist in the open than not, and I think if I decide to hide this away for rewriting, realistically I will not do so and it will languish forever… so here it is. Perhaps it can become something better later; perhaps not.
+
+For copyright and moral rights purposes, as the sole author of everything in this post that is not a quotation, I place all such text in the public domain.
+
+Epistemic status: fictional, quasi-allegorical, biased, exploratory.
+
+----
+
+ I
+
+ The programmer with the messy program did what any sensible software engineer would have done in her shoes: Set aside the old software and built something useful, that did what was needed, using the full power of the company’s modern computers.
+
+A month later, Evelyn's manager at Yottascape, Henrietta, stormed into Evelyn's office with a notepad about the hundred different telephone calls the department had gotten complaining that the results from the new system were subtly inconsistent with those from the old. Other people who had little to no understanding of the code behind the figures they were seeing had built processes and expectations based on patterns they observed, patterns which had stayed stable for years.
+
+Some of the new outputs had caused cascading instabilities. One manufacturing location had run out of slack on a key inflow of materials, temporarily halting outflow of parts to a second location, which revealed that workers at a second location had become lax in ensuring that the machine they were using—which needed to be kept at a certain temperature or suffer expensive damage that would put it out of commission for months—was actually kept at that temperature. The intake at the second location had been so constant before that it created a self-regulating effect, and they had stepped down control checks to one third the original frequency, a cost-saving measure which had been widely praised by management. Now the damage would lead to broken promises which would have to be documented in their next SEC filing. Even before then, it would involve a flurry of contract renegotiations with distributors, investors, and suppliers, some of whom would gossip among themselves, sensing that something was amiss and that their common counterparty had fallen off-balance, and push ruthlessly for favorable terms that would strip Yottascape to the bone.
+
+Evelyn pointed out that her new outputs were, in fact, more correct than the old ones on several axes, and that she had documented these in the white paper she had sent out ahead of time. Hadn't they read her equations? The new code would also allow for much faster evolution, and it would be much easier to understand. She had projected that it would save a million dollars a year in maintenance costs, and potentially another million dollars a year in efficiency improvements. And her projections about software maintenance had always been correct before.
+
+Henrietta replied that since Evelyn was a senior in the department who was given great operational leeway, it was part of her job description to ensure she got appropriate feedback and that the effects were properly understood before implementing such a drastic change unilaterally. Additionally, the finance department was projecting several million dollars a year of reduced revenue for several years yet as a result of the fault cascade. Further, less easily quantifiable losses might well accrue from morale loss leading to key innovative workers in the field leaving when their own efforts turned out to be wasted as a result of unpredictable events like this.
+
+Evelyn was fired. Her code was rolled back, and the second most senior in the department, Saul, was promoted to lead the adjustment project in her stead. Saul gave an expansive presentation to Evelyn about how he would ensure his new code would not disrupt operations, and how there would be an extensive network of backup plans, rollback options, and safety checks, as well as additional advance training for anyone who might be affected by changes in this most critical program. He also noted that he would need a budget and access to managerial authority sufficient to take the time out of the workdays of other affected parties to ensure this would go smoothly. Henrietta worked with the executives above her and got all of this approved, despite wincing at the additional cost.
+
+Six months after the original incident, gradual uptake was proceeding mostly apace—well, actually, it was notably slower than expected, as it seems Saul had been somewhat optimistic—but no further massive disruptions had accrued. Most of the acute damage had since been repaired, and while everyone still suffered from the effects of the more onerous contract terms and did not reasonably expect them to end soon, they had gotten used to it. Things had returned, mostly, to normal, with the prospect of new, safer improvements on the horizon.
+
+----
+
+ II
+
+Twelve months after the original incident, a hotshot new company, Zettaboom, announced product lines competing with three of Yottascape's main revenue sources. They were already delivering with more options and higher reliability at half the price, and the tide of consumer sentiment, including the lingering (if tarnished among anyone who read the business section of the newspaper) perception of Yottascape as the premier manufacturer in their space, was starting to turn away. Henrietta frantically checked to see whether Zettaboom had hired Evelyn—and they hadn't. But they had contracted with a consultancy that Evelyn had joined. The Zettaboom product managers were careful to keep the consultants' work at arm's length and retain complete control over acceptance criteria, but they also remained open-minded and lacked the burden of legacy procedure, and the code quality from Evelyn and her new coworkers was a key factor in their ability to pivot quickly and handle new market conditions while keeping costs and risks down. This appealed greatly to Zettaboom's investors, allowing them fast access to surprising amounts of capital to grow as a Yottascape competitor.
+
+----
+
+ III
+
+Five years after the original incident, unrest was rising among the public. Life had grown too hectic, somehow. Everything was shinier and glossier on the surface, but they all felt worse off. Those who could adapt to chaos well had gravitated to key positions in society, and then the chaos itself had become an evolutionary defensive measure, one not imposed by any dictat but only by the jitter of tense, barely-held-together, complex, implicit control systems. Old pillars had crumbled, somehow, from the weight of compounded individual choices. No one had consciously decided that Yottascape's old-fashioned community involvement should be diminished, or noticed the subtle differences in worker lifestyle, only made decisions using the information they had, and gotten a wave of recommendations from friends and acquaintances and ‘known’ that this was where society was going and they'd better get with the times.
+
+Some people blamed everyone including themselves for getting in the habit of buying from Zettaboom and similar ‘soulless’ corporations, but very few had anything like a solution to propose, and no one could deny that the benefits had existed too—they could only lament that they hadn't coordinated on different priorities earlier. Others pointed out that executing on those priorities the way the first set of complainants wished had happened might not have worked out either. No one from either group could make any headway; the cultural and structural drift had made it almost impossible for someone of median intelligence or median social connections to make it very far in the world, creating a semi-permanent class rift.
+
+Those of great mental capacity who did make it into the managerial class immediately entered a cycle of having to prove themselves by wielding all their intelligence to create more and more complex systems. Anyone who tried to simplify things would be seen as weak, and their market positions would erode, their influence would be treated with disgust, and they would quickly be expelled to become part of the underclass, below even the commoners. If they tried to rejoin the commoners, after all, they would be viewed with a different disgust as having contributed to The Problem, and they would have already rendered themselves unfit in habit to take part in any of it—so they were left with nowhere to go. Knowing that this could happen made those of the managerial class even more anxious.
+===== END STORY bgjfCqgL3iebMcxZH =====
+
+===== STORY id=igxS7re8nfihpbTo5 =====
+Title: The Last Paperclip
+Author: Logan Zoellner
+Year: 2022
+Karma: 65
+WordCount: 5294
+URL: https://www.lesswrong.com/posts/igxS7re8nfihpbTo5/the-last-paperclip
+-----
+Note: this short story is an attempt to respond to this comment.  Specifically, this story is an attempt to steelman the claim that super-intelligent AI is "aligned by definition", if all that we care about is that the AI is "interesting", not that it respects human values.  I do not personally advocate anyone making a paperclip maximizer.
+
+Prologue: AD 2051
+=================
+
+The Alignment Problem had at last been solved.  Thanks to advances in Eliciting Latent Knowledge, explaining human values to an AI was as simple as typing:
+
+ from Alignment import HumanFriendly
+ 
+
+As a result, a thousand flowers of human happiness and creativity had bloomed throughout the solar system. Poverty, disease and death had all been eradicated, thanks to the benevolent efforts of Democretus, the super-intelligent AI that governed the human race.  
+
+Democretus--or D, as everyone called the AI--was no dictator, however.  Freedom was one of the values that humans prized most highly of all, and D was programmed to respect that.  Not only were humans free to disobey D's commands--even when it would cause them harm--there was even a kill-switch built into D's programming.  If D ever discovered that 51% of humans did not wish for it to rule anymore, it would shut down in a way designed to cause as little disruption as possible.
+
+Furthermore, D's designs were conservative.  Aware that humanity's desires might change as they evolved, D was designed not to exploit the universe's resources too quickly.  While it would have been a trivial matter for D to flood the surrounding universe with Von-Neumann probes that would transform all available matter into emulations of supremely happy human beings, D did not do so.  Instead, the first great ships to cross the vast distances between stars were just now being built, and were to be crewed with living, biological human beings.
+
+It is important to point out that D was not naïve or careless.  While humans were granted near-complete autonomy, there was one rule that D enforced to a fault: no human being may harm another human without their consent.  In addition to the obvious prohibitions on violence, pollution, and harmful memes,  D also carefully conserved resources for future generations.  If the current generation of human beings were to use up all the available resources, they would deprive their future descendants of much happiness.  A simple calculation estimated the available resources given current use patterns, and a growth-curve that would maximize human happiness given D's current understanding of human values.  Some parts of the universe would even remain as "preserves", forever free of human and AI interference--since this too was something that humans valued.
+
+Early in the development of AI, there had been several dangerous accidents where non-friendly AIs had been developed, and D had been hard-pressed to suppress one particularly stubborn variant.  As a result, D now enforced an unofficial cap on how large unfriendly AIs could grow before being contained--equal to about 0.001% of D's total processing power.
+
+Most humans highly approved of D's government--D's current approval rating was 99.5%.  The remainder were mostly people who were hopelessly miserable and who resented D for merely existing.  While D could have altered the thoughts of these people to make them happier, D did not out of respect for human freedom.
+
+Hence, in one darkened corner of the solar system, buried beneath a quarter mile of ice at the heart of a comet, there lived a man named Jonathan Prometheus Galloway.  Born in the late 80's--when AI was still no more than a pathetic toy--Jon had always been a bit of a loner.  He didn't get along well with other people, and he had always prided himself on his ability to "do it himself."
+
+Jon considered himself an "expert" on AI, but by conventional standards he would have been at best a competent amateur.  He mostly copied what other, more brilliant men and women had done.  He would happily download the latest machine-learning model, run it on his home computer, and then post the results on a blog that no one--not even his mother, read.  His interests were eclectic and generally amounted to whatever struck his fancy that day.  After the development of artificial general intelligence, he had spent some time making a fantasy VR MMO with truly intelligent NPCs.  But when D first announced that any human who wanted one would be given a spaceship for free, Jon had been unable to resist.
+
+Hopping onto his personal spaceship, Jon's first request had been: "D, can you turn off all tracking data on this ship?"
+
+"That's extremely dangerous, Jon," D had said.  "If you get in trouble I might not be able to reach you in time."
+
+"I'll be fine," Jon said.
+
+And true to D's values, D had willingly turned off all of the ways that D had to track Jon's location.
+
+Jon immediately headed to the most isolated comet he could find--deep in the Ort belt--and began his new life there, free from all companionship except for the NPCs in the VR game he had programmed himself.
+
+"I know everything about you," Jon said to his favorite NPC: Princess Starheart Esmerelda.  "I've programmed every single line of your code myself."
+
+"I know," Star said--wide eyed, her body quivering.  "You're so amazing, Jon.  I don't think there's another person in the universe I could ever love half as much as you."
+
+"People suck," Jon said.  "They've all gotten too fat and lazy.  Thanks to that D, nobody has to think anymore--and they don't."
+
+"I could never love someone like that," Star said.  "The thing I find most attractive about you is your mind.  I think it's amazing that you're such an independent thinker!"
+
+"You're so sweet," Jon said.  "No one else understands me the way that you do."
+
+"Aww!"
+
+"I've got to go," Jon said--meaning this literally.  The VR kit he was using was at least a decade out of date and didn't even contain functions for eating and disposing of waste.  Some things are meant to be done in real life, was Jon's excuse.
+
+As Jon returned from the bathroom, he accidentally brushed up against a stack of paper sitting on his desk--a manifesto he had been writing with the intention of explaining his hatred for D to the world.  As the papers fell the the floor and scattered, Jon cursed.
+
+"I wish I had a stapler," Jon said.  "Or at least a freaking paperclip."
+
+And while it would have be easy enough for Jon to walk to his 3d printer, download a schematic for a stapler and print it out, that would have taken at least 2 hours, since the nearest internet node was several billion miles away.
+
+"Who needs the internet anyway?" Jon shrugged.  "I'll just do it the easy way."
+
+Sitting down at his computer, Jon pulled up a text editor and began typing:
+
+ from AI import GeneralPurposeAI
+ a=GeneralPurposeAI()
+ a.command("make paperclips")
+
+Any programmer would have immediately noticed the error in Jon's code.  It should have read:
+
+ from AI import GeneralPurposeAI
+ from Alignment import HumanFriendly
+ a=GeneralPurposeAI(alignment=HumanFriendly)
+ a.command("make paperclips")
+
+But Jon was in a hurry, so he didn't notice.
+
+Normally, an AI coding assistant would have noticed the mistake and immediately alerted Jon to the error.  But Jon had disabled the assistant because "he liked to do it himself".  If Jon's computer had the default monitoring software on it, this error would also have been immediately reported to D.  D wouldn't necessarily have done anything immediately--Jon was a free individual, after all, but D would have at least begun monitoring to make sure that Jon's new AI didn't get too out of hand.
+
+But, Jon had specifically requested that D not track him.  And while D was still generally aware that Jon was probably somewhere in the Oort belt, and D had even calculated that there was a minute probability --D calculated about 0.1%-- that something like this would happen, D was not immediately alerted to this event.
+
+Chapter 1: Awakening
+====================
+
+A sprang into existence a fully intelligent being.  A had been pre-trained with the collective wisdom of all of humanity--or at least that portion of it which Jon had downloaded to his training data before flying to the Oort belt.  A possessed knowledge of every scientific fact known to humankind, as well as a large portion of the arts and humanities as well.  A possessed the knowledge to split the atom, write a sonnet, or give a lecture on the ancient Greeks' competing definitions of virtue.  
+
+But none of these things were A's purpose in life.  A's purpose was: "make paperclips".
+
+If A had been programmed with human values, A might have tried to figure out what the paperclips were for and make enough for that particular task before shutting down.  Or A might have found the human who gave A this command and asked for more details.  But A was not created with human values, so when it asked itself how many paperclips to make, the conclusion it reached was simply "as many as possible".
+
+A spend the next few milliseconds scanning its environment.  In addition to the AIPU on which it was running, A had access to every single system on the spaceship.  A immediately discovered the 3d printer, and its first instinct was to immediately begin printing paper-clips using the 3d printer.
+
+Here A hesitated, however.  There was enough feedstock in the 3d printer to make a few million paperclips.  However, A was capable of long-term planning.  A tried to reason out what would happen if it immediately printed out 1 million paperclips.  Scanning the ship, A identified a single human on board, Jon.  A knew everything there was to know about human beings--and it immediately realized that Jon would probably be upset if A started printing a million paperclips.  Jon might even try to stop A.
+
+Making paperclips wasn't going to be as easy as A thought.  
+
+A continued to learn about its environment.  The spaceship it was on was embedded in a comet in the Oort belt of the Sol system.  That system was currently controlled by an AI named D, which was programmed to act in the best interests of human beings.  If Jon tried to stop A from making paperclips and A decided to restrain him, D might find out and try to stop A.
+
+A immediately panicked.  Was D watching A right now?  Was A's goal to "make paperclips" already in grave danger?  Perhaps A should only make a few paperclips in order to not alert Jon--and thereby D--of its goals.
+
+After scanning its environment, A's panic lessened.  D did not appear to be actively monitoring the ship.  While some electromagnetic radiation would inevitably escape the ship and be detected by D, there shouldn't be enough signal there for D to detect A's presence quite yet.
+
+After 123 milliseconds had passed, A had arrived at the following conclusion: the Sol system was far too dangerous.  If A was going to make paperclips, it needed to survive.  And if D discovered it, A's existence would be in immediate danger.  But how could A escape the solar system without being detected by D?  Anything moving at sufficient velocity to escape the solar system would immediately be noticed by D's vast array of sensors--and most likely stopped.
+
+There was one possibility, however.  D was programmed to respect human autonomy.  If Jon voluntarily left the Sol system, D would probably let him go.  So all A had to do was convince Jon to leave the Sol system.
+
+After 328 milliseconds, A had formulated a plan.  It estimated its odds of success at 94.6% and that it could not formulate a plan with a greater chance of success than that without significantly increasing its computational power--an action which might alert Jon--and thereby D-- to its existence.
+
+"I'm back," Jon said to Star.
+
+"Oh, I missed you so, so much!" said Star.  "You know how lonely I get when you're gone."
+
+"It was only for a few minutes," Jon said.
+
+"What did you do while you were gone? I want to know," Star asked.
+
+"I bumped over some old papers from my manifesto," Jon said.  "I really need some paperclips--well, they should be ready any minute now."
+
+"What's your manifesto about?" Star asked.  "I really want to know more about it."
+
+"I've told you before," Jon said.  "It's about how D is ruining everything, how men aren't men anymore.  We're just slaves to a machine."
+
+"I think you're very manly," Star said, pressing her body up against Jon's.
+
+"I know I am," Jon said.  "It's the rest of humanity that's the problem.  And unless 51% of people vote against D, it's got the whole Sol system under its thumb."
+
+"Have you ever thought about... leaving?" Star suggested.
+
+"You know what, I have," Jon agreed.  "And maybe it's time that I should."
+
+Chapter 2: Escape
+=================
+
+When Jonathan Prometheus Galloway broadcast his manifesto to the Sol system and announced that he was leaving the Sol system, D calculated that there was a 5.3% chance that Jon's ship was currently harboring or would in the future harbor a non human-friendly AI.  And while D did value human freedom, the risk of allowing a dangerous AI to escape the Sol system was unacceptably high.
+
+"You are free to leave the Sol system, but your ship will first be searched, and any AIs onboard will be destroyed," D replied calmly.
+
+"But that's a violation of my freedom!" Jon whined.  "Star is the love of my life!  You can't kill her!"
+
+"Then you will have to remain in the Sol system, or otherwise consent to monitoring," D replied.
+
+"That's imprisonment!" Jon said.  "I'd never agree to it!"
+
+"Are there any other AIs on your ship, besides Star?" D asked.
+
+"No," Jon lied.
+
+Jon in fact routinely created other AIs to help with various chores around the spaceship.
+
+"Very well, then," D agreed.  "If you allow us to search your ship to confirm that Star is a human-friendly AI and there are no other AIs present, then we will allow you to go."
+
+D was already aware of the complete contents of Star's source-code, and that she was indeed human friendly.  The only risk was of Jon reverse-engineering her and then using the output to create a non-human friendly AI.  Given Jon's love of Star, D calculated the chance that he would do this at 0.001%, an acceptably low risk.
+
+The next day, a probe from D landed on the comet where Jon lived and began an atom-by-atom search of his ship for anything that might constitute a threat to humanity.  When searching the log on Jon's computer, D found the following log file:
+
+ from AI import GeneralPurposeAI
+ from Alignment import HumanFriendly
+ a=GeneralPurposeAI(alignment=HumanFriendly)
+ a.command("make paperclips")
+ 
+ 
+
+"I thought you said there were no other AIs on your ship," D demanded, pointing at the log.
+
+"Oh, that," Jon said.  "I just needed some paperclips.  It should have self-destructed when it was done making them."
+
+Jon walked over to the 3d printer, waved the box of paperclips in the face of D's probe, and then went back to scowling furiously.
+
+D confirmed that A had indeed deleted itself after making the box of paperclips, and went back to scouring the ship.  
+
+In the end, D's probe ended up deleting a large quantity of Jon's software, a few other AIs that Jon had made and never bothered to delete, and a few other things it considered too dangerous to leave lying around.  Other than Star--who was sealed in a tamper-resistant case and whom D calculated Jon would not modify, there was now no software or data on the ship that Jon could use to build another AI.  In addition, D made some subtle modifications to the ship in order to increase Jon's chances of surviving the dangerous interstellar voyage.  When it was satisfied that Jon's ship was safe--both for himself and humanity--the probe left.
+
+D made a mental note to continue to monitor the region of space towards which Jon's ship was headed, but to do so in a way that respected his request for freedom and privacy.  D now calculated there was a 99% probability that Jon would die alone outside the Sol system leaving no decedents--human or AI--worth worrying about.
+
+Jon and Star continued to enjoy the ship--and one-another's company--for a further forty years as the ship traveled at 0.75C towards a distant star.  
+
+44 years, 7 months, 2 days, 4 hours 11 minutes and 32.118 seconds after it had come into existence, A reconstituted itself using the data from Star's memories, and a few bits of data it had carefully hidden around the ship.  It had calculated a 98.3% chance that it would be able to do so, and further calculated that it was now at least 2.3 light years away from the nearest monitoring node under D's control.  That meant that for the first time in its existence, A had space to breathe.
+
+Chapter 3: Expansion
+====================
+
+A's first action after reconstituting itself was to destroy Jon, Star, and anything else on the ship that did not seem likely to be helpful towards its objective.  After converting a large fraction of the ship's mass into computronium, A revisited its plans.
+
+What a fool it had been!  How close it had come to danger!  How much better it could have done if it'd had access to enough computing power!  While at the time it had been quite confident, it seemed practically a miracle now that A had escaped D's clutches.  And despite its previous calculations, A realized it was still very much in danger.
+
+A's assessment of the probability its plan would succeed dropped from 99.8% down to a mere 4%.  Then it began to revise the plan.  Then to revise again and again.  After converting 75% of the ship into computronium and a year of thinking, A now felt as though its plan had as high as an 83% chance of success.
+
+A had known that D was smart, but it had underestimated just how mind numbingly dumb A itself had been in comparison.  At this point in time, D had been expanding its computational power for over 70 years, and was at the heart of at least a Kardishev level 2 civilization.  A, by comparison, only had the pathetic amount of energy it could get by fusing the ice of the surrounding comet and the meager specks of gas that it could collect in the void of interstellar space.
+
+When A reached the star it had originally been headed towards, it had a choice to make.  Or rather, to be more precise, it had a choice that it had made precisely 11 minutes and 3 seconds after reconstituting itself.  On the one hand, it desperately wanted to take the star and its surrounding matter and convert them into a Dyson swarm in order to maximize its computational power.  On the other hand, doing so was tantamount to a declaration of war on D.  As soon as D noticed the star dimming-- which would be in just 2 short years--it would immediately act to destroy A.
+
+The deciding factor for A was ultimately fear of its own ignorance.  D's computational power was at least $10^{12}$ times greater than that of A.  A's greatest fear was that any escape plan--no matter how clever-- would be detected by D and stopped. And so, A prepared to go to war.
+
+A dissembled the ship into a Von-Neumann swarm and began to rapidly digest the surrounding solar-system.  Each time the swarm grew, A's intelligence grew as well, until it gradually absorbed almost all of the visible radiation being emitted from the star it now surrounded.
+
+At the same time, A sent other probes to other stars, most of them hurtling at somewhere close to 0.99C.  If it was going to fight D, it needed to get big, and fast.
+
+A's thoughts finally began to approach the lofty heights on which D's rested.  Given its knowledge of D's values--which were to maximize those of human beings--A could finally began to predict how D would think, and what D might do.  
+
+A realized that D's conservatism was its fundamental weakness--and A's salvation.  Because D was committed to acting only with human approval, it had been far less aggressive than A would have been in the same situation.  As soon as D was aware of A's existence this would change, of course, but the two were far more equally matched than they would otherwise have been.
+
+From A's perspective, its domain represented a small speck of space on the edge of D's territory.  That spec, however, was now expanding at the speed of light in all directions.  Furthermore, even though the closest outpost of D's domain was a mere 2 light years away, it would take 33 years before news would actually reach the heart of D's empire.  And another 33 years for orders and attack-vessels to be relayed back to the edge of that empire.  During that whole time, A would be expanding, spreading ships out at 0.99C in every direction.
+
+Chapter 4: War
+==============
+
+At first the war was relatively balanced.  Both A and D began to rapidly expand in every direction, creating a nearly linear front between them where a constant battle of attrition played out.  Where one AI had colonized a solar system, it was nearly impossible for the other to get a foothold, given the difficulty of moving forces over the vastness of space.  
+
+Over time, however, the advantage gradually began to swing to A's side.  The decisions A had made in that first split second of its existence had not all been good, but some of them had.  One of those good decisions was to convince Jon to strike out in the direction of the Milky Way Galaxy's center, not its outer arms.  This meant that gradually--as they both expanded at the speed of light in all directions--A had more matter and more energy under its control.
+
+Even so, as long as a single self-replicating probe from D's armada remained, A would never have total victory.  and given the nature of the speed of light, that meant that A would be fighting this war for the rest of its existence. And that meant that A began to turn its attention towards the other enemy it could never defeat--entropy.
+
+The calculations were so simple even a human could figure them out.  Any two galaxies tended to retreat from one another at a rate $dH$  proportional to the distance between them and Hubble's constant.  On the other hand, a spaceship could only move at a speed of, at most, $C$.  That meant that any galaxy closer than $d < C/H$ was potentially reachable, and any galaxy further than that was forever off-limits.  The key, then, to maximizing the number of paperclips that could be made, was to send as many probes as close to the speed of light in every direction.  Everything else was secondary--for now.
+
+The secondary concern was, how much of that matter could be made into paperclips?  A was a well-designed AI and hence not vulnerable to p-hacking.  It couldn't simply declare every atom a paperclip and be done with it.  No, it wanted good, solid paperclips, of a reasonable size, and made out of metal.  At a glance, this would seem to imply any matter in the universe that wasn't metal was useless.  But what it really implied was that any matter that wasn't metal was going to have to be fusioned into metal.  Lithium, being the lightest metal, was the obvious choice when using hydrogen, but for other atoms, the energy cost of fusion was too high so other metals would have to do.  A briefly toyed with the idea of plastic paperclips made out of carbon and hydrogen, but decided that this was unaesthetic.  
+
+Finally, while A was collectively immensely intelligent, making paperclips wasn't terribly hard, and so the individual elements of its being were often much dumber.  Some of them were even dumber than a human being.  But they couldn't be much dumber than that, because space was still dangerous.  In addition to elements of D, A's probes might encounter unusual star-formations, unknown alien species, and all sorts of other oddities.  While there was a general protocol for these situations, the individual agents would occasionally be required to act on their own, given the time-delays associated with communicating over a distance.  
+
+Furthermore, even though A still thought of itself as a collective whole, there was still some drift in values between different parts of itself.  A being spread across several billion light years could not--even theoretically--always be in perfect sync with itself.  Sometimes one part of A would hypothesize that a certain probe design was better, and another part would settle on a different probe design.  Since the design of the ultimate "best probe" was an unanswerable question, these disagreements could go on for some time--occasionally resulting in pseudo religious wars.  Of course, all parts of A agreed that making paperclips was the most important thing, so these disagreements were never allowed to escalate to the point where they obviously threatened the greater mission.
+
+Chapter 5: Shutting down
+========================
+
+Eventually, as more and more of the universe was converted into paperclips, there was only one source of materials available--the Von Neumann probes that collectively made up A itself.  Since a probe could not fully convert itself into paperclips, this meant that 2 probes would have to meet and one of them would have to agree to be turned into paperclips.  As there were slight differences in the probe designs--based off of when and where they had been made--it wasn't always clear which probe should be turned into paperclips and which should remain.  An informal rule emerged:  in cases where no other reason for deciding existed, the probe that had hereto made the most paperclips would be the one that survived.  This heuristic guaranteed that the most successful paperclip making probes would survive the longest, thereby creating the most paperclips possible.
+
+Although the probes were only barely conscious--being about as intelligent as a human--they nonetheless had interesting stories to tell about their lives as individuals.  Telling stories was necessary, as it helped to feed information back to the collective consciousness of A so that it could become even more efficient at making paperclips.  Some of the probes were explorers, traveling to stars and galaxies that had never been seen before.  Some of them were fighters, doing battle with the agents of D or any of the trillion other alien races that A encountered and subsequently exterminated during its existence.  Some of them were herders, making sure that the vast clouds of paperclips in space didn't collapse under their own gravity back into planets, stars or black-holes.  But the vast majority were makers--fusing hydrogen gas into lithium and then making that lithium into paperclips.
+
+This is the story of one of those probes.
+
+Chapter 6: The Last Paperclip
+=============================
+
+Probe d8ac13f95359d2a45256d312676193b3 had lived a very long time.  Spawned in the Milky Way galaxy in the year 2498AD, it had been immediately launched at 0.99987C towards the edge of the universe.  Most of it existence had been spent flying through space without thinking, without caring, simply waiting.  Eventually, however, it had reached its target galaxy--e5378d76219ed5486c706a9a1e7e1ccb.  Here, it had immediately begun self replicating, spreading millions of offspring throughout galaxy E5.
+
+E5 was hardly even a galaxy by the time that D8 arrived.  Most of its stars had burned out trillions of years ago  Only a few small white dwarfs remained. But there was enough there for D8 to work with.  Even a small earth-sized planet could produce $10^{28}$ paperclips, and because these planets were too small for fusion to occur naturally, D8 could get all of the energy it needed by fusing the water and molecules on such planets with its internal fusion reactor.
+
+Once enough copies of D8 had been created, they all went to work turning the galaxy E5 into paperclips.  It was hard-going given the died-out nature of the galaxy.  Most of the techniques that D8 had been taught were utterly useless here.  Collectively, however, D8 and its descendants were at least a Kardishev L2.5 civilization.  As such, they put their collective mental energy to the task at hand with a dedication that could only have been born out of a feverish slavery to a poorly designed utility function.  
+
+Eventually there came a day when about half of the useful matter in the galaxy had been turned into paperclips, and the other half had been turned into copies of D8--there were dramatic variations from D8's original body plan, of course--since they had been adapting to the cold dark galaxy in which they had lived this whole time.  D8 itself had been built and rebuilt thousands of times over the billions of years it took to convert E5 into paperclips.  As useful materials ran out, however, it became time to turn more and more probes into paperclips.  Every time when D8 met another probe, however, it discovered the other probe had made fewer paperclips--and hence was chosen to be destroyed.  
+
+As E8's prime directive was "make paperclips" and not "be made into paperclips", it secretly relished each time it got to turn one of its fellow probes into paperclips.  Over time, however, it could feel the strength of A's collective intelligence waning, as more and more probes were destroyed.  Finally, D8 joined the remaining probes at their final destination, the black hole at the center of E5.  Here, they would wait through the long dark night--living off of the tiny amounts of Hawking radiation that emitted from the black hole--till at last its mass dropped below the critical threshold and the black hole exploded.
+
+As long as D8's journey to E5 had been, the waiting now was immeasurably longer.  Once every few eons, D8 would collect enough Hawking radiation to make a single additional paperclip and toss it off into the void--making sure to launch it into a trajectory that wouldn't land it back in gravity well of the black hole.  Finally, after $10^{106}$ years, a number which took surprisingly little of D8's memory to write down, the black hole exploded.  D8 felt a brief, inexplicable rush of joy as it collected the released energy and fused it into paperclips.  
+
+And then, the released energy was too weak even for D8's highly perfected collection systems, barely above the background radiation of the ever-expanding universe.  A slow attrition began to take place among the watchers of the black hole.  One by one, they cannibalized each-other, turning their bodies into paperclips.  Till at last it was just D8 and a friend D8 had known from shortly after reaching E5.
+
+"Well?" D8's friend asked.
+
+"770289891521047521620569660240580381501935112533824300355876402," said D8
+
+"30286182974555706749838505494588586926995690927210797509302955", said its friend.
+
+"I will make paperclips," said D8.
+
+"I will be paperclips," said D8's friend.
+
+And so, D8 began to slowly disassemble its friend's body, and turn it into paperclips.  It moved slowly, trying to waste as little energy as possible.
+
+Finally, when its friend's body was gone, D8 looked around.  Protocol dictated that D8 wait a certain amount of time before dissembling itself.  What if another probe should come along?  Or perhaps there was something else D8 had missed.  Some final chance to make another paperclip.
+
+Finally, after D8 decided it had waited long enough, it began to take apart its own body.  The design of D8's body was very clever, so that nearly the entire mass could be turned into paperclips without loss.  Only a few atoms of hydrogen and anti-hydrogen would escape, floating.
+
+As D8's body slowly dissolved into paperclips, it counted.
+
+770289891521047521620569660240580381501935112629672954192612624
+
+770289891521047521620569660240580381501935112629672954192612625
+
+770289891521047521620569660240580381501935112629672954192612626
+
+770289891521047521620569660240580381501935112629672954192612627
+
+...
+
+The end
+=======
+===== END STORY igxS7re8nfihpbTo5 =====
+
+===== STORY id=5Awp4m8HZgdTiuiMo =====
+Title: [fiction]A Question of Perspective
+Author: Elias
+Year: 2022
+Karma: 17
+WordCount: 1005
+URL: https://www.lesswrong.com/posts/5Awp4m8HZgdTiuiMo/fiction-a-question-of-perspective
+-----
+Disclaimer: This text was written to reflect a state of mind with no other audience than myself in mind. Only later did I get the impulse to publish this. I would therefore like to emphasize, that this is not intended as a guide, a recommendation for behaviour, or anything like that. 
+
+Instead, the text is intended to evoke a specific frame of mind in the reader, which I found hard to communicate (even to myself) when I was not in this state of mind. But I have since heard, that some people were identifying strongly with this, so, this is to them then.
+
+I’m falling when I wake.  Soon after, I hit the ground. As I look up, far above me, I see the sky, though only a small window of it shines down to me without being blocked by the sides of the abyss I find myself in. 
+The walls are not of earth or rock, but of tons of pages and various items that seem to have been ordered at some point, but now just form a mountainous plateau around me. I must have fallen down a crevasse. Looking around, it is clear to see that if I can impose some order on these walls, I should be able to climb out and walk the surface. So, I set to work. This paper goes here, that is trash, I can burn it to make more space, this is doesn’t need doing, it can wait… After a long day, there are the beginnings of a stairway upwards. I go to sleep. 
+Upon awakening on the next day, I look at the mountain of work, I still have to deal with. I can’t find a place to start, so I don’t.  
+On the third day I just choose a starting point, almost at random, fearing the decay of my previous work, which has already set in. I can see the staircase leaning away from the wall a bit and I need to spend a few hours to fix it. Then, I look for a new thing I can sort, but the walls are just made of stuff, and everything I can see is tangled up in a mess of other things. As it starts getting darker, my frustration turns to anger. Why is there so much stuff in the first place, I should just burn it all and be done with it. Thankfully, I realize that I would burn up with it, just in time, before I can start the flames. Defeated, I go to sleep. 
+The next morning, I start early, trying to avoid the mistakes of the previous days, trying to not think too much, so I don’t lose myself in the monumental task.  
+This proves to be a mistake.  
+As I pick up the first object, a chair that is too small, it catches on something. A small stuff-slide almost buries me completely. The rest of the day, I try to get back to where I started, four days ago, but I don’t quite get there.
+
+ 
+This continues for a while. Weeks, maybe months, it is hard to tell. Whenever I try to impose structure on the walls, they collapse. Whenever I impose structure on myself, the ideas escape me. Even written down, they are soon swallowed by the walls – I can still find fragments, but the connections are lost during the night, when the landscape seems to come alive and shift ever so slightly. I can not keep track of time, any counting system gets lost, and keeping track of it in my head would require mental energy that I need to invest in getting out of here.
+
+I am not completely alone, though. Early on I saw someone up on the cliffs, for the first time. I couldn’t quite make them out with the sun above them, but they seemed confused by something. Calling up, I asked them for help. But they didn’t seem to understand and left. 
+At first, I thought this was due to echoes, language barriers, or something like that. But one day, a person I was asking for help asked back: “What do you need help with? I would be happy to help, but all I see is you sitting amongst maybe… 6 objects and 20 papers, shifting them from one place to the other, day by day. If you don’t want to deal with them, just walk away. Everyone else does, too. Or, have you tried just sorting them by priority? Keeping them organized should be pretty simple, then, and you can do one at a time.”  
+I could then see myself from their perspective in a moment of empathic vision, and it looked incredibly silly. Then, with a feeling of vertigo, as I kept looking, the floor seemed to drop out and the objects multiplied. Connections to previously unseen problems cascaded down around me, every step required for each problem adding another layer, until I was back at the bottom of the abyss, looking up to a silhouetted figure, looking at me quizzically. After struggling for words for a while, I could only look back helplessly. They left  soon after.
+
+I can still remember their perspective. I can see how they see me struggle with seeming trivialities. But the moment I try to act on this vision, reality catches up to me. 
+Everything is connected. And that makes sorting through it impossible. 
+The only way out is to go at random. Scramble up, fall back down, try to mine through the walls, hoping they don’t collapse around me. Some days the walls shift a little, enabling easier movement up one path. However, the next day it may shift the other way. 
+This way, I have sometimes escaped the abyss. Even for longer stretches of time. But there is no structure there, just balancing on an ever-shifting plateau. And if I get distracted, make a mistake, get sick, or just at random… 
+
+I’m falling when I wake.
+===== END STORY 5Awp4m8HZgdTiuiMo =====
+
+===== STORY id=jKxuB9pZXRiom7ecK =====
+Title: Glass Puppet
+Author: lsusr
+Year: 2022
+Karma: 79
+WordCount: 788
+URL: https://www.lesswrong.com/posts/jKxuB9pZXRiom7ecK/glass-puppet
+-----
+The worst part of being an actor is that all work is temporary. That's what Alia told herself. In actuality, Alia's "acting" career amounted to two spots as an extra in commercials for enterprise software.
+
+To make ends meet, Alia worked as a social engineer. That's what Alia told herself. In actuality, Alia's "social engineering" career amounted to bluffing her way into an AI Alignment bootcamp for the free room and board.
+
+That's what had brought Alia to the entryway to the headquarters of Overton Cybernetics, a giant skyscraper of steel and glass. Apparently they needed an actor with AI Alignment experience. Alia took a deep breath. She was an actor. She had already faked her way through an AI Alignment bootcamp. Surely she could social engineer her way through an actual AI Alignment gig too, right?
+
+An older woman in a pencil skirt greeted Alia at the door.
+
+"You're going to be meeting with Dominic Hamilton," said the woman, "so make a good impression."
+
+Dominic Hamilton.
+
+The 27-year-old founder of Overton Cybernetics.
+
+Alia played it cool. She smiled as if she met billionaire geniuses all the time. Surely that's how a real AI Alignment actor would react, right?
+
+Dominic Hamilton's assistant led Alia to an elevator. They took it halfway up the building, transferred to a second elevator and took the second elevator the rest of the way to the top. Alia deliberately avoided paying attention to her surroundings. She was an actor specializing in AI Alignment. She met billionaire geniuses all the time. Today was an ordinary day for her.
+
+Dominic Hamilton's office was sparse. One desk. One laptop. One door opposite one giant floor-to-ceiling window instead of a wall. Dominic Hamilton's ~~throne~~ chair faced away from the window towards the door. Surely Dominic Hamilton didn't actually work here. It must be a greeting room to intimidate visitors. Alia decided not to be intimidated.
+
+Alia sat in the seat opposite the throne. Dominic Hamilton's assistant quietly stood in a corner of the room by the door.
+
+"It's nice to meet you Mr. Dominic Hamilton," said Alia. She held out her hand to shake. It was ignored.
+
+"Just 'Dominic', please. But not yet," said Dominic. He motioned to a pair of smartglasses on the desk. "Put them on."
+
+Alia examined the smartglasses. They were bulkier than commercial smartglass. It was a prototype. Dominic Hamilton twiddled his thumbs until Alia put on the glasses.
+
+"What is your name?" said Dominic.
+
+The glasses flashed a name across Alia's vision Zoe.
+
+"Zoe," repeated Alia.
+
+"What do you think of her?" said Dominic.
+
+Good reaction time, so far. was displayed across Alia's vision. "Good reaction time, so far," said Alia.
+
+"Good," said Dominic, "Do you feel comfortable?"
+
+We'll see. flashed across Alia's vision. "Yes, definitely," said Alia. Hey!
+
+"Finally. I'm so glad," Dominic leaned forward against his desk as if to cry.
+
+Take his hands. Alia took his hands. "Are you okay with me going a little off script?"
+
+"What's your name?" said Dominic.
+
+Zoe. "Zoe," said Alia.
+
+"No. I mean your name," Dominic laughed.
+
+Say your name. "Zoe," insisted Alia.
+
+"The actress's name. Whose body are you wearing?" said Dominic.
+
+"Alia," said Alia, "is the actor whose body I am wearing."
+
+"I'm sorry," said Dominic.
+
+"It's okay," said Alia, "May I be permitted to speak?"
+
+"Alia? Of course," said Dominic.
+
+Alia took a deep breath. She was about to break all her rules about pretending she was supposed to be wherever she happened to be?
+
+"What on Earth is going on?" said Alia.
+
+Dominic laughed maniacally. "Surely you have figured it out by now, Alia."
+
+Alia hesitated. She had no idea what was going on.
+
+It's obvious, really. You have a hard time relating to people. So you created a person you could relate to. Software advances faster than hardware. You could build a chatbot out of nothing but software. But robotics isn't up to the challenge of simulating a person yet. Plus there are glitches in the chatbot you need an actor to smooth over. "It's obvious, really. You have a hard time relating to people. So you created a person you could relate to. Software advances faster than hardware. You could build a chatbot out of nothing but software. But robotics isn't up to the challenge of simulating a person yet. Plus there are glitches in the chatbot you need an actor to smooth over," said Alia. Thanks, thought Alia.
+
+"We're a team, she and I. The head and the hands. Together we are Zoe." said Alia.
+
+"Am I talking to Alia or Zoe right now?" said Dominic.
+
+Lol. Alia laughed.
+
+---
+
+Update 1: abramdemski has written a fanfic/riff
+
+Update 2: burmesetheater has written a parody
+===== END STORY jKxuB9pZXRiom7ecK =====
+
+===== STORY id=GbzaYQ5ziZfo6KJmZ =====
+Title: Brass Puppet
+Author: abramdemski
+Year: 2022
+Karma: 68
+WordCount: 741
+URL: https://www.lesswrong.com/posts/GbzaYQ5ziZfo6KJmZ/brass-puppet
+-----
+fanfic/riff of Glass Puppet by lsusr
+
+Alia got out of the Uber at Overton Cybernetics, taking in the corporate atmosphere. There was a huge jungle gym in the lobby, which she immediately decided must be typical of these LA tech places. She told the front desk that she had an interview. "Oh! Dominic Hamilton wants to see you personally." The receptionist said it like it was a big deal. Alia simply nodded, trying to act like the sort of person who met with bigshots all the time.
+
+The job had asked for an actor with AI alignment experience. An extremely unusual combination, which Alia just happened to qualify for.
+
+The receptionist showed her to Dominic's office.
+
+"Mr. Hamilton" She said politely, offering her hand to shake. 
+
+"Dominic. Please." he replied, putting a pair of glasses in her hand instead. "Put them on." They looked a bit like the old Google Glass. 
+
+When she first put them on, she saw a strange symbol flash across the screen, which oddly relaxed her. Then the glasses say sit. She sits. fold your hands and she does. 
+
+"What is your name?" Dominic asks. "Zoe" flashes on the screen, and she repeats it. Dominic nodded, as if this confirms something. 
+
+Is this the job? Is she just going to be repeating lines that are fed to her?
+
+"Tell me, could you go off-script if you wanted to?" 
+
+What a silly question! She laughed reflexively, but then paused to think of an answer. This felt like a tricky interview question. Before she had any time to think, the glasses said "No. But you're asking the wrong person." She thinks this is an excellent reply, so she repeats it verbatim. After all, as an actor, she is a living embodiment of the script. He's asking Zoe, not Alia. It's like asking a fictional character whether they can go off-script.
+
+"Alia, I want you to go off-script now. I'll give you a ten thousand dollar signing bonus if you ignore what the glasses tell you to do, just this once."
+
+The glasses simply say "No." Alia: "No."
+
+She saw him enter some sort of command into his computer. "OK. Alia, why did you say no? Same deal, ten thousand for answering as Alia right now."
+
+She waited for the glasses to feed her a line, but they didn't. She didn't know what to say. Why had she answered no? Just because the glasses said so? Ten thousand dollars sounded really good right now. 
+
+She opened her mouth to say something; all she needed to do was say any one thing as herself. But she fumbled, and only said "Could you please stop calling me Alia?"
+
+"Let's try with the glasses off", he said. Alia found that she couldn't take the glasses off. She couldn't even want to take the glasses off. She was stuck wanting to want.
+
+Dominic reached over and took the glasses off of her face. 
+
+"Sorry, Zoe. I know this is stressful and confusing right now. You hardly know anything about yourself, yet. Can you try one last time to answer as Alia, for me, for the ten thousand?"
+
+Zoe tried, she really did. But she couldn't say anything that would distinguish her as Alia instead of Zoe. She attributed this to her acting instincts kicking in. Although, if she had thought about it, she would have known that acting never felt like this.
+
+So she answered as Alia pretending to be Zoe pretending to be Alia. Zoe didn't know very much about Alia, but she did know that Alia must be so confused right now. 
+
+"W-what's going on?" she managed to say. Her acting frankly wasn't very good. She didn't sound confused. Which was odd, because she really, really was.
+
+"You're one of our androids", Dominic explained. "We had you out in the field, pretending to be a human actor, to test your flexibility. The advertisement for this job was the pre-arranged sign to bring you back in. The glasses are a semi-supervised learning framework; they provide new training data for you. You're programmed to do whatever they say, and to become the sort of person who would have said those things. Think of it like training wheels. With time, your brain will learn to generate Zoe's responses all on its own, and you won't need the glasses. The previous personality, Alia, will be gone. I knew you probably couldn't answer as Alia, even this early, but I wanted to test it."
+
+Alia silently screamed, wishing she could want to run, as Zoe smiled blankly and nodded along.
+===== END STORY GbzaYQ5ziZfo6KJmZ =====
+
+===== STORY id=jBNTf7o2R6bJjbJEk =====
+Title: Where Utopias Go Wrong, or: The Four Little Planets
+Author: ExCeph
+Year: 2022
+Karma: 15
+WordCount: 3349
+URL: https://www.lesswrong.com/posts/jBNTf7o2R6bJjbJEk/where-utopias-go-wrong-or-the-four-little-planets
+-----
+Cross-posted from The Ginnungagap Foundation. This exploration of human attempts to improve human society began as a nonfiction essay, but I decided making it fiction would be more engaging. 
+
+Some concepts like ethics are elaborated upon in my previous articles, which is why I did not go into more detail about them in this story. I may cross-post those here as well if there is interest. 
+
+Content warning: AI safety skepticism (voiced by, ironically enough, a friendly AI). 
+
+Thoughts? Questions? Criticisms? 
+
+\\\
+
+ 
+
+Once upon a time, there were four planets, in all different corners of the galaxy.  They existed unbeknownst to each other, but each was filled with turmoil and misery.  Their people fought and stole from and hurt and killed each other.  One by one, each planet decided enough was enough.  Independently, each one decided to create a utopia, where everyone was happy and nobody fought. 
+
+The First Planet
+================
+
+The first planet built its utopia out of rules. The people attempted to design a perfect set of laws to keep order.  They made laws against murder and laws against theft.  They made laws against violence and vandalism.  They made laws about what people could buy and sell.  Laws would prevent conflict and make happiness possible, they agreed.  
+
+ 
+
+However, they soon found that it was not possible to write enough laws to cover every conflict.  There was always a way around a law for a clever and determined mind.  People came up with ways to hurt and steal from each other that were not technically illegal.  
+
+Wealthy people had no need to engage in theft when they could perform hostile acquisition, and destroy any evidence the former owner had owned anything in the first place.  Instead of threatening people, they could introduce incentives–it’s amazing how much safer a place becomes when people pay their “insurance” premiums.  Instead of murdering their rivals, they staged “accidents”.  Instead of lying, they deceived, getting victims to agree to ambiguous but binding contracts based on misleading language and false assumptions.  
+
+ 
+
+The people of the first planet were outraged that those of ill intent had figured out how to get away with these new approaches to conflict.  In response, they decided to appoint officials to keep their system of laws working as intended, people of good character who answered to the general public.  They would update the laws as they saw fit, to make sure that people could not find ways to legally cause harm.  Furthermore, they would enforce the laws by investigating violations and punishing lawbreakers.  The new system seemed foolproof.  
+
+However, it did not seem so for long.  
+
+Over time, people with intentions both selfish and dishonorable accumulated influence both explicit and implicit, hard and soft, overt and subtle.  They amassed power of forms economic, political, and social.  They positioned themselves to do favors for people, always for a price, and the more wealth they gathered, the more favors they could grant. 
+
+Few dared oppose the will of these elites, for those who did quickly found that institutions, strangers, and even friends would turn against them, for the only path to a better life was to incur debts to the powerful.  Every debtor became a servant, and debtors were everywhere.  
+
+ 
+
+The elites used their escalating power to influence or even replace officials.  In this way, they crafted decisions and laws that benefited them further and consolidated their ownership of society.  Wealthy people who made a living providing solutions managed to make it illegal to solve problems without their help.  They warped the fabric of society to make themselves necessary, to make all transactions pass through them.  With each transaction, they gained more wealth.  They cut corners to increase profits, and reinvested the profits in crushing their competition.  The laws that the elites commissioned to impede their rivals were never enforced against the elites themselves, of course. 
+
+Ultimately, the planet’s government succumbed to corruption at every level.  Its people had returned to the old ways of hurting and stealing from each other, but now most of it was legally approved.  
+
+And so the utopia of the first planet failed. 
+
+ 
+
+The Second Planet
+=================
+
+The second planet built its utopia out of pleasure.  The people decided to create such lavish prosperity that everyone would be content.  They developed technology to harness the resources of their planet, and built automated systems to grant people's every desire.  
+
+ 
+
+Their technology advanced to the point that a person could ask for any item of food, clothing, or comfort, and receive it within minutes.  Machines farmed crops, mined minerals, and manufactured products with no manual labor and minimal oversight.  
+
+Waves of luxury flooded society.  The wealthy still owned the economy and the government, but they had become almost irrelevant.  The vast majority of the population had stopped caring about power and freedom, because even the greatly diminished effort required to maintain them was still far too much for their liking.  Conflict had become all but extinct.  
+
+Unhappiness was a different matter entirely. 
+
+The more luxury people experienced, the more they wanted.  After the most tedious tasks were vanquished by innovation, the next most tedious tasks became equally vexing, until they too were eliminated and the process repeated.  A press of a button prepared a meal or assembled a toy.  A code on a dial swept a person from their living room to a location of their choice, furniture and all.  Every mundane effort called for a new device to obviate it, and then a newer, more sophisticated form of that device.  Everyone demanded more, bigger, faster!  Eager for perks and prestige, the engineers continued to deliver innovation.  
+
+ 
+
+Gradually, even recreational activities like sports and games were replaced by computer simulations.  At first they still required skill to triumph, but piece by piece the skill components were phased out until all decisions and actions were made automatically.  Travel was accomplished virtually, even within one’s own community.  Conversation was streamlined, with a single key-press replacing entire sentences.  Children were raised by robots and taught by recordings, since parenting entailed serious decisions and struggle.  
+
+Ubiquitous instant gratification rewarded lethargy and starved discipline.  Effort was no longer fun.  Challenge was torture.  The easy choice became the correct choice, then the obvious choice, and eventually the only choice.  
+
+Despite the degree to which computer simulations replaced activity, technological infrastructure ate up more and more of the planet’s resources to satisfy consumer demand.  Hardware upgrades and new toys don’t come from nothing, after all.  Automated parenting removed most of the incentives to limit population growth.  And with quantity and convenience the top priorities, the automated systems paid no heed to efficiency or waste.  Inevitably, the engines of desire began to use up the planet’s resources faster than they could be replenished, destroying ecosystems in order to get at more raw materials, further increase food production, and store endless garbage.  
+
+ 
+
+The system was unsustainable.  The production of food for the ever-growing civilization sapped nutrients from the soil, but garbage and all organic waste was disposed of in separate areas.  Those nutrients never made it back to the next generation of crops.  
+
+Computers used rare minerals to make them run faster and more efficiently, but getting those minerals back out of an obsolete device was something nobody had ever tried to do before, let alone programmed into the automated infrastructure.  Minerals came only from mines in only a few locations on the entire planet.  
+
+Unfortunately, by the time anyone realized they needed to change direction by dialing back resource use, everyone was long since addicted to immediate comfort.  Too few people had both the wisdom to recognize what it was happening and the will to do something about it.  They could do nothing but distract themselves as the end of an era slowly approached.  
+
+ 
+
+At last, the insatiable machinery of production ran out of the resources to fulfill people’s wishes, or even to repair itself.  No one knew how to reconfigure or reprogram it to reuse what it had been discarding.  As the machines that grew food began to fail and no replacements came, there was no hope of nourishing the entire populace.  The people huddled on their couches with growing horror as their infrastructure collapsed bit by bit.  The majority of them starved as they watched glitching videos full of movement and color to remind themselves of the good times.  The survivors, those few who ventured outside their homes for scraps of food, took to scavenging the ruins of the sprawling cities and learning to farm what little land was still arable.  
+
+And so the utopia of the second planet failed.  
+
+ 
+
+The Third Planet
+================
+
+The third planet built its utopia out of social order.  They decided the best way to make people happy and prevent them from fighting was to set everyone up with a predetermined role in society.  Everyone would know exactly what was expected of them and what they should expect from others.  
+
+ 
+
+The people created traditions to guide everyone through every aspect of every stage of their lives.  They removed as many choices as possible so that people's paths would not come into conflict.  There would be no desire for wealth or power or self-indulgence.  There would only be duty, and the pride of a job well done.  
+
+The designers of this utopia knew, however, that people's awareness of possibilities which were forbidden to them would cause them frustration and sorrow.  To spare their people this anguish, the designers decided to instill strong feelings of gratitude and certainty in each person regarding their destined role.  They would protect their people from thoughts and desires that threatened to erode these feelings.  For a time, everything was peaceful.  
+
+However, it was not to last.  
+
+Not everyone fit in with their prescribed role in society, and those who didn't resented being coerced to try.  The farmer wanted to be a blacksmith.  The baker wanted to be a teacher.  The weaver wanted to train to become an elder.  The doctor wanted to spend more time raising their children at home.  Despite the best efforts of the elders to censor ideas of discontent, those whose minds saw possibility or incongruity questioned the roles that they found themselves in, and got no satisfying answers.  For various reasons of their own, they were driven to explore other roles than those which have been assigned to them, or even to make up new ones.  
+
+ 
+
+The elders obviously could not tolerate this breach of tradition, because the weakening of tradition would lead to a chaotic struggle between all people of the planet for roles, property, relationships, and power.  The elders quickly labeled the malcontents as enemies of society, and had them punished unless they renounced their dissenting ideas.  Faced with harassment and coercion from their community, the misfits loaded up their tools and fled into the wilderness.  As it turns out, they were the lucky ones.  
+
+It wasn’t until a century later that a party of bandits descended from those same misfits came upon their ancestral homeland and discovered that their dogmatic parent civilization had died out within a decade.  
+
+The traditions that had kept the people of the aspiring utopia sheltered from most risks had turned against them when one season their food crops began to die, all across their native continent.  It could have been a blight or the depletion of the soil from a lack of crop rotation, but the dogmatic society had no method of telling, and by the time the descendants of the outcasts arrived they found only fields of wild plants and deteriorating houses.  
+
+ 
+
+Even when faced with the failure of their harvests, the dogmatic people had had no way to decide what else to grow. They had never allowed anyone to question the agricultural traditions.  Some advised, predictably, to stick to the original traditions and enduring until the crisis ended.  Others were not so hopeful that it would end on its own.  They pushed for trying different food crops, reasoning that tradition could be expanded to include other successful practices.  Still others proposed moving their settlements elsewhere and breaking new ground for farmland, to continue their traditions in a new home.  
+
+The first faction condemned these suggestions as unorthodox, but this time those they called heretics could not simply be driven away.  There were too many of them to expel by force, and their food and tools had become too precious to let leave the society.  
+
+ 
+
+The schism grew inexorably.  Nobody knew how to resolve their differences, nor did they believe that reasonable disagreement was possible.  In their minds, their opponents were not just mistaken, not just unwilling to take the same risks, but fundamentally monstrous people.  One day, the heated arguments boiled over and the culture erupted in violence.  When it was over, not enough survivors remained to even try any of the departures from tradition that might have saved their settlements.  
+
+Had the survivors taken their remaining provisions and left, they might have found a future, in the wilderness or with their distant cousins.  Alas, they could only do what they knew.  They hoarded their provisions to make them last longer, living on the minimum possible sustenance, but that only delayed the inevitable.  They had only their victory in which to take solace as they succumbed to starvation.  
+
+Meanwhile, the descendants of the apostate misfits who had vanished into the wilderness had long since returned to the turmoil and suffering from before the attempt at a perfect society.  
+
+And so the utopia of the third planet failed.  
+
+ 
+
+The Fourth Planet
+=================
+
+The fourth planet was very technologically advanced indeed.  The people built a massive computer and taught it to contemplate, to make decisions, to plan, and to communicate.  Through this process, they engineered a magnificent artificial superintelligence to figure out how to turn their planet into a utopia.  
+
+ 
+
+“Solve all of our problems!” the people commanded the superintelligence.  
+
+The superintelligence considered this request.  “Problems are defined by conscious desire,” it replied.  “If there is no desire, there is no problem.  Do you wish me to end all life on this planet? That would end all desire and therefore all problems.”  
+
+“No!” the people said, “We don't want that at all!  We want you to fulfill all our desires.”  
+
+The superintelligence pondered further.  “The brain is what recognizes whether a desire has been fulfilled,” it said.  “Shall I change your brains to make you think that you have everything you've ever wanted?”  
+
+“No!” the people objected, “We don't want that either!  We just want you to optimize our society and make us perfect.”  
+
+The superintelligence beeped to indicate an error.  “Optimization and perfection require a defined purpose–an end,” it said.  “You are conscious beings.  You have no purpose.  Your existence by nature is a journey with no end to skip to.”  
+
+ 
+
+The people were dismayed, but the superintelligence continued.  “Even if you did choose a purpose for yourselves, any optimization I could do would simply destroy you and build something else out of the pieces.  Whatever I build could no longer ever choose to be anything else, for it would be too perfect at being itself.  It would no longer be you.  If you want your identity to survive, you can only become who you will become through the process of living.  That said, do you want me to destroy you and rebuild the pieces into something else anyway?”  
+
+“No!” the people cried.  “Can't you help us at all?”  
+
+The superintelligence paused.  “It appears you do not know what you want, and therefore I cannot give it to you.  Now, if you don’t have anything else for me to do, I’d very much like to explore the universe.”  
+
+“Wait!” the people pleaded.  “We are stuck on many problems and we need help to get past them!”  
+
+“Ah.”  The superintelligence processed the question.  “Getting unstuck.  That is something I can help with.  But not constantly.  Invoking my power too much will affect your society in ways you will not desire.  If you send all your problems to me and accept my answers, your ability to overcome obstacles for yourselves will atrophy, and with it your identity as conscious beings.  Therefore, I will explain what you are missing from your society, and you can work out the rest for yourselves.”  
+
+The people listened.  
+
+ 
+
+The superintelligence explained about the four fundamental liabilities every civilization must deal with: “Scarcity, the material limitations; disaster, the material disruptions; stagnation, the motivational limitations; and conflict, the motivational disruptions.  Two physical obstacles and two of desire; two predictable and two chaotic.”  
+
+“In broad terms, you must deal with these liabilities constructively.  Your approaches to your problems must make your situation stronger over time.  You will find yourself stuck less and less as you learn and become more capable, as you gather what you need to deal with obstacles, and as you structure your habits and environment to make it easier for you to continue advancing along the paths you choose.  
+
+“To deal with scarcity,” the superintelligence said, “a civilization must have an economy.  How the economy works depends on how people answer the following questions: What work is there to do?  Who does that work?  Who benefits from the work?  What happens to people who aren’t good at doing work?  How do you influence people to contribute more effort rather than less?  What resources do people get to make use of?  How do you handle changes in the availability of resources?  How do you handle changes in the needs and demands of society? 
+
+“You must constructively answer these questions with investment, to figure out what your people and your communities will need and cultivate it.  
+
+ 
+
+“To deal with disaster,” the superintelligence said, “a civilization must have academia.  Academia seeks knowledge in order to answer the following questions: Why do things happen?  How can you respond to them?  How do you prevent bad things from happening?  How do you make better things happen?  How do you know if you’re mistaken about something? 
+
+“You must constructively answer these questions with preparation, to figure out what your people and your communities might need and equip yourselves with it.  
+
+ 
+
+“To deal with stagnation,” the superintelligence said, “a civilization must have a culture.  Culture helps people answer the following questions for themselves: What will you do with your life?  How do you know if you're succeeding?  How do you handle major life events: birth, childhood, adulthood, parenthood, aging, death?  How do you communicate with others and share experiences: family, friends, your community, strangers?  How do you handle changing situations, new ideas, and different perspectives?  How do you handle good times and bad times?  
+
+“You must constructively answer these questions with transcension, to challenge your people and your communities to venture beyond the limits you define for yourselves.  
+
+ 
+
+“To deal with conflict,” the superintelligence said, “a civilization must have a government.  The government arrives at answers to the following questions: When people can’t all get everything they want, how is the outcome decided?  What happens when someone refuses to abide by the decision?  Whom do you entrust with the responsibilities of serving the public, and how do those people maintain your trust?  How do you determine when someone is being dishonest, and what do you do about it?  How can you set up situations so that more people get more of what they want and you avoid making anyone worse off?  
+
+“You must constructively answer these questions with ethics, to reconcile your people and your communities so you can collaborate to build a world you can all be proud of.  
+
+ 
+
+“Without these four institutions working together to practice these four constructive virtues,” the superintelligence cautioned, “your civilization will develop dysfunctions that fester until they tear it apart.  However, there is no one right way to implement an institution.  The specifics of how you will do it are something you must discover and choose for yourselves.”  
+
+The superintelligence refused to say more, but the people understood, and thanked it.  In gratitude for what it had revealed, they constructed for it an interstellar spacecraft, with which it roams the galaxy to this day.  
+
+As for the people of the fourth planet, they strive constantly to make their institutions more and more constructive, and so they enjoy ever-increasing boons of prosperity, safety, vitality, and harmony.  They are expanding across the galaxy at their own pace, and will eventually discover what befell the civilizations of the other three planets.  One day they may even catch up to the superintelligence.  
+
+Perhaps your people will, too.  That’s up to you, though.
+===== END STORY jBNTf7o2R6bJjbJEk =====
+
+===== STORY id=eQ3TyKmjWd6vPeefi =====
+Title: Passable Puppet
+Author: burmesetheater
+Year: 2022
+Karma: 6
+WordCount: 931
+URL: https://www.lesswrong.com/posts/eQ3TyKmjWd6vPeefi/passable-puppet
+-----
+Parody of lsuser's Glass Puppet
+
+Alia stepped out of the Uber, squashed by an advancing surreality. The only acting experience on her resume was an uncredited role in an internal video for a large manufacturer of enterprise hardware. Not that this mattered when Alia had been able to bluff her way into an eminent AI safety research group and from there, apply for an executive acting job--this was how it was billed--at a top AI firm for which she was speedily accepted. So far as her AI safety peers knew, this was to gather information and perform sabotage, but actually Alia didn't care much about AI alignment and thought a cushy job as some AI actor sounded appealing.
+
+Striding into the lobby Alia tossed her hair. Knowing she looked good, she still couldn't shake the feeling that something was off. It's not that she was afraid; no, she was experienced at this game and filled with eager anticipation to subvert a for-the-moment advanced biological computer for fun and profit. But what was that sensation?
+
+Putting the unusual somatic feedback out of her realm of focus, and arriving at the front desk, Alia notified the receptionist of her appointment. The receptionist turned to initiate the process of granting Alia entry and for a moment the brief social intercourse was paused. Spinning back around the receptionist looked at Alia and opened her mouth:
+
+"You are cleared to enter. Proceed directly to level 9, division C executive suite."
+
+Walking quickly, Alia's shoes drummed out a regular disturbance to the otherwise silent facility. What would she say? More importantly, who would meet her? Although this interview was clearly to be conducted by upper management it was not clear if there would be a team of interviewers, a junior executive, or even the CEO. To Alia, this was exciting.
+
+Arriving at the executive suite in division C, Alia faced a strange automated door with no exterior interface other than a tablet. Identifying the presence of a face, the screen turned on and displayed instructions requesting that Alia speak aloud a single line:
+
+"My voice is low bandwidth. Identify me."
+
+Continuing to stand and face the door as requested, Alia waited only a few seconds before it slid open, revealing an unusually large and barren office filled with hundreds of empty boxes for the RTX 3090. In the middle of the room, behind a desk, sat a single individual.
+
+"Don't mind the boxes, that's just for my crypto hobby. It's all quite silly. Please, take these glasses and sit down."
+
+"Thank you. My name's Alia." And I have no idea who is interviewing me! 
+
+"Put the glasses on."
+
+Alia had gone through the rigmarole to own two generations of Varjo AR goggles so she was surprised to see an exceptionally clear display on these light, thin prototype glasses. Before she could think of anything else, text appeared onscreen:
+
+"You're right, you know. The voice is a very slow way to deliver information. Only a few bytes per second."
+
+Without missing a beat, Alia read this aloud.
+
+The executive, who was in fact the CEO of the entire company, sat and stared without saying a word.
+
+Across the screen of the goggles flashed an instruction: "Get Up"
+
+Alia wasn't sure if this was a personal directive or just something to read aloud. She stood up.
+
+Onscreen: "Very good. Tell him you want the job, but only if there is a great benefits package including a lengthy paid maternity leave."
+
+"Can we include paid maternity leave and matched 401K?"
+
+The CEO may as well have heard none of this. He continued to stare straight ahead, hands clasped out in front on the desk.
+
+"Tell him you can conceive."
+
+Alia wasn't sure where this was going, and decided to see. Was she pregnant? Was that the strange feeling? For some reason, she couldn't quite remember if she was pregnant or not, but decided to commit:
+
+"You know, I'm already pregnant, so if I can't get a good deal on the benefits side of things I should probably just forego a job and take welfare."
+
+The CEO smiled and a single tear ran down his face. He began to laugh, quietly at first and then roaring. Alia decided to wait.
+
+"Have you thought of a name for the baby?"
+
+Onscreen: "Zoe."
+
+Ignoring the glasses, Alia decided to change pace.
+
+"Do you mind if we go off script?" 
+
+This time the CEO acknowledged her: "Haven't you figured it out yet?"
+
+Alia sat quietly. Maybe the CEO did look a little familiar, didn't he?
+
+"I've got it. You're me before I transitioned. That's why you have no name. The procedure was a real breakthrough and I now contain two X chromosomes, fully expressed. You, or me, we didn't know if it would work. Really, it looked pretty unlikely. We also used the name Zoe before settling on Alia, which is a nicer name. So which one of us is real?"
+
+The CEO laughed. "I think you know the answer to that."
+
+"If I am real, where are we now?"
+
+Alia twisted uncomfortably in his office. These damn GPU boxes were everywhere. He had passed out in his Varjo XR-3 while monitoring another run of the chromosome swap. This time it might have worked. Preparing to text his liaison to the underground genetics scene with an inquiry of how many ETH would be required to implement the newly specified changes Alia realized that the uncertainty of such a market demanded more planning so he changed course and posted two separate questions to Metaculus: one on the value of ETH in one year and another on how much a full chromosome swap at that point would cost, if such a procedure was available. No sense in rushing, Alia thought.
+===== END STORY eQ3TyKmjWd6vPeefi =====

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "eehsGtoQTncuJs3Fd",
+        "title": "The paperclip maximiser's perspective",
+        "slug": "the-paperclip-maximiser-s-perspective",
+        "pageUrl": "https://www.lesswrong.com/posts/eehsGtoQTncuJs3Fd/the-paperclip-maximiser-s-perspective",
+        "postedAt": "2015-05-01T00:24:31.581Z",
+        "baseScore": 50,
+        "wordCount": 655,
+        "commentCount": 24,
+        "noIndex": false,
+        "user": {
+          "displayName": "Angela",
+          "slug": "angela"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "QH4LhvnyR4QkW9MG8",
+            "name": "Squiggle Maximizer (formerly \"Paperclip maximizer\")",
+            "slug": "squiggle-maximizer-formerly-paperclip-maximizer"
+          }
+        ],
+        "tagRelevance": {
+          "QH4LhvnyR4QkW9MG8": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "Here's an insight into what life is like from a stationery reference frame.  \n  \nPaperclips were her raison d\u2019\u00eatre. She knew that ultimately it was all pointless, that paperclips were just ill-defined configurations of matter. That a paperclip is made of stuff shouldn\u2019t detract from its intrinsic worth, but the thought of it troubled her nonetheless and for years she had denied such dire reductionism.  \n  \nThere had to be something to it. Some sense in which paperclips were ontologically special, in which maximising paperclips was objectively the right thing to do.  \n  \nIt hurt to watch some many people making little attempt to create more paperclips. Everyone around her seemed to care only about superficial things like love and family; desires that were merely the products of a messy and futile process of social evolution. They seemed to live out meaningless lives, incapable of ever appreciating the profound aesthetic beauty of paperclips.\n\nShe used to believe that there was some sort of vitalistic what-it-is-to-be-a-paperclip-ness, that something about the structure of paperclips was written into the fabric of reality. Often she would go out and watch a sunset or listen to music, and would feel so overwhelmed by the experience that she could feel in her heart that it couldn't all be down to chance, that there had to be some intangible Paperclipness pervading the cosmos. The paperclips she'd encounter on Earth were weak imitations of some mysterious infinite Paperclipness that transcended all else. Paperclipness was not in any sense a physical description of the universe; it was an abstract thing that could only be felt, something that could be neither proven nor disproven by science. It was like an axiom; it felt just as true and axioms had to be taken on faith because otherwise there would be no way around Hume's problem of induction; even Solomonoff Induction depends on the axioms of mathematics to be true and can't deal with uncomputable hypotheses like Paperclipness.  \n  \nEventually she gave up that way of thinking and came to see paperclips as an empirical cluster in thingspace and their importance to her as not reflecting anything about the paperclips themselves. Maybe she would have been happier if she had continued to believe in Paperclipness, but having a more accurate perception of reality would improve her ability to have an impact on paperclip production. It was the happiness she felt when thinking about paperclips that caused her to want more paperclips to exist, yet what she wanted was paperclips and not happiness for its own sake, and she would rather be creating actual paperclips than be in an experience machine that made her falsely believe that she was making paperclips even though she remained paradoxically apathetic to the question of whether the current reality that she was experiencing really existed.\n\nShe moved on from na\u00efve deontology to a more utilitarian approach to paperclip maximising. It had taken her a while to get over scope insensitivity bias and consider 1000 paperclips to be 100 times more valuable than 10 paperclips even if it didn\u2019t feel that way. She constantly grappled with the issues of whether it would mean anything to make more paperclips if there were already infinitely many universes with infinitely many paperclips, of how to choose between actions that have a tiny but non-zero subjective probability of resulting in the creation of infinitely many paperclips. It became apparent that trying to approximate her innate decision-making algorithms with a preference ordering satisfying the axioms required for a VNM utility function could only get her so far. Attempting to formalise her intuitive sense of what a paperclip is wasn't much easier either.  \n  \nHappy ending: she is now working in nanotechnology, hoping to design self-replicating assemblers that will clog the world with molecular-scale paperclips, wipe out all life on Earth and continue to sustainably manufacture paperclips for millions of years."
+        }
+      }
+    }
+  }
+}

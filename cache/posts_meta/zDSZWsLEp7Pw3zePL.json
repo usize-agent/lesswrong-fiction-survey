@@ -1,0 +1,23 @@
+{
+  "_id": "zDSZWsLEp7Pw3zePL",
+  "slug": "fixed-point-a-love-story",
+  "title": "Fixed Point: a love story",
+  "postedAt": "2023-07-08T13:56:54.807Z",
+  "baseScore": 104,
+  "wordCount": 2188,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

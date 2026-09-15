@@ -1,0 +1,47 @@
+{
+  "_id": "uvNsFv9YKxtfSBffM",
+  "slug": "the-absent-minded-variations",
+  "title": "The absent-minded variations",
+  "postedAt": "2025-05-17T06:57:33.930Z",
+  "baseScore": 24,
+  "wordCount": 2835,
+  "commentCount": 13,
+  "user": {
+    "displayName": "dr_s",
+    "slug": "dr_s"
+  },
+  "tags": [
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb1db",
+      "name": "Timeless Decision Theory",
+      "slug": "timeless-decision-theory"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "X8JsWEnBRPvs5Y99i": 2,
+    "pszEEb3ctztv3rozd": 2,
+    "5f5c37ee1b5cdee568cfb1db": 2,
+    "5f5c37ee1b5cdee568cfb2b1": 2
+  }
+}

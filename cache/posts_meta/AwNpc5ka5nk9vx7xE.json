@@ -1,0 +1,29 @@
+{
+  "_id": "AwNpc5ka5nk9vx7xE",
+  "slug": "don-t-look-up-film-review",
+  "title": "Don't Look Up (Film Review)",
+  "postedAt": "2021-12-27T20:36:02.527Z",
+  "baseScore": 27,
+  "wordCount": 2105,
+  "commentCount": 11,
+  "user": {
+    "displayName": "Heather A. Cam",
+    "slug": "heather-a-cam"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "4Kcm4etxAJjmeDkHP": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "iW7zmuBaskKcaErGC",
+  "slug": "chapter-16-lateral-thinking",
+  "title": "Chapter 16: Lateral Thinking",
+  "postedAt": "2015-03-14T19:00:21.997Z",
+  "baseScore": 57,
+  "wordCount": 6259,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

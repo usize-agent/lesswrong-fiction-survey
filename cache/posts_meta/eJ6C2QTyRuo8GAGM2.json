@@ -1,0 +1,23 @@
+{
+  "_id": "eJ6C2QTyRuo8GAGM2",
+  "slug": "the-other-earth-chapter-2",
+  "title": "The Other Earth (Chapter 2)",
+  "postedAt": "2021-12-31T16:20:11.641Z",
+  "baseScore": 3,
+  "wordCount": 8124,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Justin Bullock",
+    "slug": "justin-bullock"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

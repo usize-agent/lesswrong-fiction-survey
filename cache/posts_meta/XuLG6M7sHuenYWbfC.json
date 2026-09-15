@@ -1,0 +1,35 @@
+{
+  "_id": "XuLG6M7sHuenYWbfC",
+  "slug": "the-sword-of-good",
+  "title": "The Sword of Good",
+  "postedAt": "2009-09-03T00:53:55.237Z",
+  "baseScore": 162,
+  "wordCount": 612,
+  "commentCount": 304,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "tTp6uCjAMJh66vZkc",
+      "name": "Moral uncertainty",
+      "slug": "moral-uncertainty"
+    },
+    {
+      "_id": "DdgSyQoZXjj3KnF4N",
+      "name": "Tribalism",
+      "slug": "tribalism"
+    }
+  ],
+  "tagRelevance": {
+    "DdgSyQoZXjj3KnF4N": 1,
+    "etDohXtBrXd8WqCtR": 15,
+    "tTp6uCjAMJh66vZkc": 1
+  }
+}

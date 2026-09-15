@@ -1,0 +1,29 @@
+{
+  "_id": "wuiZQrqn2fZCZMDBC",
+  "slug": "chapter-122-something-to-protect-hermione-granger",
+  "title": "Chapter 122: Something to Protect: Hermione Granger",
+  "postedAt": "2015-03-14T19:00:18.977Z",
+  "baseScore": 96,
+  "wordCount": 12415,
+  "commentCount": 18,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb20f",
+      "name": "Something To Protect",
+      "slug": "something-to-protect"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb20f": 2
+  }
+}

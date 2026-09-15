@@ -1,0 +1,35 @@
+{
+  "_id": "nHanKgEsFFJxAZhBp",
+  "slug": "bayeswatch-7-wildfire",
+  "title": "Bayeswatch 7: Wildfire",
+  "postedAt": "2021-09-08T05:35:24.483Z",
+  "baseScore": 58,
+  "wordCount": 975,
+  "commentCount": 6,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 2,
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

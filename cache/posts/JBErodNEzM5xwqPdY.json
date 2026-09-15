@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "JBErodNEzM5xwqPdY",
+        "title": "Tinker",
+        "slug": "tinker",
+        "pageUrl": "https://www.lesswrong.com/posts/JBErodNEzM5xwqPdY/tinker",
+        "postedAt": "2024-04-16T18:26:38.679Z",
+        "baseScore": 39,
+        "wordCount": 10,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Richard_Ngo",
+          "slug": "ricraz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 3,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "A story I wrote about AI designing and building nanotechnology."
+        }
+      }
+    }
+  }
+}

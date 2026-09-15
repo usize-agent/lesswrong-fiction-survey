@@ -1,0 +1,23 @@
+{
+  "_id": "LPiBBn2tqpDv76w87",
+  "slug": "that-mad-olympiad-1",
+  "title": "That Mad Olympiad",
+  "postedAt": "2025-10-15T13:45:13.330Z",
+  "baseScore": 202,
+  "wordCount": 4311,
+  "commentCount": 17,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 10
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "pfmZ5cYQCahABGZzi",
+  "slug": "asches-to-asches",
+  "title": "Asches to Asches",
+  "postedAt": "2014-06-04T02:16:21.000Z",
+  "baseScore": 80,
+  "wordCount": 2623,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb124",
+      "name": "Conformity Bias",
+      "slug": "conformity-bias"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "5f5c37ee1b5cdee568cfb124": 2
+  }
+}

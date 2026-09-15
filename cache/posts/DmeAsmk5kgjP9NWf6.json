@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "DmeAsmk5kgjP9NWf6",
+        "title": "A Talmudic Rationalist Cautionary Tale",
+        "slug": "a-talmudic-rationalist-cautionary-tale",
+        "pageUrl": "https://www.lesswrong.com/posts/DmeAsmk5kgjP9NWf6/a-talmudic-rationalist-cautionary-tale",
+        "postedAt": "2025-04-15T04:11:16.972Z",
+        "baseScore": 13,
+        "wordCount": 559,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "Noah Birnbaum",
+          "slug": "noah-birnbaum"
+        },
+        "tags": [
+          {
+            "_id": "LDTSbmXtokYAsEq8e",
+            "name": "Motivated Reasoning",
+            "slug": "motivated-reasoning"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "NSMKfa8emSbGNXRKD",
+            "name": "Religion",
+            "slug": "religion"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "LDTSbmXtokYAsEq8e": 1,
+          "NSMKfa8emSbGNXRKD": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "pszEEb3ctztv3rozd": 1
+        },
+        "contents": {
+          "markdown": "*The following is a translated famous passage from the* [*Babylonian Talmud*](https://en.wikipedia.org/wiki/Talmud) ([*Bava Metzia*](https://en.wikipedia.org/wiki/Bava_Metzia) *59a\u2013b) that I believe has a good implicit rationalist intepretation.* [*Here*](https://www.themercava.com/app/books/metanav/13992) *is the source to read it yourself.*\n\n*Everything in \\[\\] was added by the publisher of the translation and () were added by me for clarity/ funny.*\u00a0\n\nIt was taught there \\[in a Mishnah (Vessels 5:10)\\]: If he cut it \\[an earthenware oven\\] into rings and placed sand between each ring: Rabbi **Eliezer** (even though he is the epistemic hero, it is not [that](https://www.google.com/search?client=safari&rls=en&q=yudkowsky+lesswromh&ie=UTF-8&oe=UTF-8) one) declares it tahor (pure), and the sages declare that it's tamei (impure). And this is the [oven of Achnai](https://www.themercava.com/app/books/metanav/13996).\u00a0\n\nWhy \\[is it called the over of\\] Achnai?\u00a0\n\nRabbi Yehuda said that Shmuel said: \\[It means\\] that they surrounded it with arguments \\[literally: words\\] like a snake \\[achna\\], and declared it tamei (impure).\u00a0\n\nIt was taught: On the day that Rabbi Eliezer responded with every \\[imaginable\\] argument, but they didn't accept them.\u00a0\n\nHe said to them: \"If the halacha (Jewish law) agrees with me, this carob \\[tree\\] will prove it.\"\u00a0\n\nThe carob \\[tree\\] was uprooted 100 amos (debated but approximately meters) out of its place. Others say 400 amos.\u00a0\n\nThey said to him: \"A proof can't be brought from a carob \\[tree\\].\"\u00a0\n\nAgain he said to them: \"If the halacha agrees with me, the stream of water will prove it.\" The stream of water flowed backwards.\u00a0\n\nThey said to him: \"A proof can't be brought from a stream of water.\"\u00a0\n\nAgain he said to them: \"If the halacha agrees with me, the walls of the Bais Hamidrash (house of learning) will prove it,\"\u00a0\n\nThe walls of the Beis Hamidrash tilted to fall \\[down\\].\u00a0\n\nRabbi Yehoshua rebuked \\[the walls\\] and said to them: \"When Torah scholars are disputing each other in halacha, what's it to you \\[to interfere\\]? They didn't fall, in honor of Rabbi Yehoshua, and they didn't straighten up, in honor of Rabbi Eliezer; and they are still standing inclined.\"\u00a0\n\nAgain he said to them: \u00a0\"If the halacha agrees with me, it will be proved from Heaven!\"\u00a0\n\nA Heavenly Voice \\[bas kol\\]  came out and said: \"What do you have \\[to dispute\\] with Rabbi Eliezer, \\[seeing\\] that the halacha agrees with him in every place!\"\n\nRabbi Yehoshua rose to his feet and said: \"It's not in Heaven.\" \u00a0\\[Devarim 30:12\\] (Deuteronomy 30:12)\n\nWhat \\[did he mean by\\] it's not in heaven?\n\nRabbi Yirmiyah said: \"The Torah was already given at Mount Sinai, \\[so\\] we don't pay attention to a heavenly voice, because you wrote it at Mount Sinai, 'One inclines after the majority.' \\[Shemos 23:2\\] (Exodus 23:2)\"\n\nRabbi Nasan met Eliyahu \\[Hanavi\\] ([Elijah the Prophet](https://en.wikipedia.org/wiki/Elijah), who is famous for [this](https://www.chabad.org/library/article_cdo/aid/111833/jewish/The-Story-of-Elijah-in-the-Bible.htm) story and shows up in a bunch of [Jewish lore](https://jewishaction.com/religion/shabbat-holidays/passover/whats-the-truth-about-eliyahu-hanavi-at-the-seder/)) and said \\[to him\\]: \"What did the Holy One, Blessed is he, (meaning God) do in that hour?\"\n\n\\[Eliyahu Hanavi\\] said to him: \"He laughed and said, My children have defeated Me, My children have defeated Me.\" (me is capitalized because it is referencing God and children here is used to describe the Jewish people)\n\nThey said: \"That day, all objects that Eliezer had declared tahor (pure) were brought and burnt in fire \\[since they were tamei (impure)\\]. And they voted about him and \\[then\\] excommunicated him.\"\u00a0\n\n(The [story goes on](https://www.themercava.com/app/books/metanav/13996), but the rest is less relevant to Rationalism)"
+        }
+      }
+    }
+  }
+}

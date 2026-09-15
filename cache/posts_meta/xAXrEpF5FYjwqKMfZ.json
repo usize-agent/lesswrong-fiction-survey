@@ -1,0 +1,29 @@
+{
+  "_id": "xAXrEpF5FYjwqKMfZ",
+  "slug": "class-project",
+  "title": "Class Project",
+  "postedAt": "2008-05-31T00:23:01.000Z",
+  "baseScore": 73,
+  "wordCount": 1254,
+  "commentCount": 38,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 4
+  }
+}

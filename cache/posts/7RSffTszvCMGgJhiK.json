@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "7RSffTszvCMGgJhiK",
+        "title": "Frank Herbert's great insight into human agency - Muad'Dib the tool?",
+        "slug": "frank-herbert-s-great-insight-into-human-agency-muad-dib-the",
+        "pageUrl": "https://www.lesswrong.com/posts/7RSffTszvCMGgJhiK/frank-herbert-s-great-insight-into-human-agency-muad-dib-the",
+        "postedAt": "2025-06-02T18:52:54.587Z",
+        "baseScore": 2,
+        "wordCount": 164,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Nerret",
+          "slug": "nerret"
+        },
+        "tags": [
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "kCrvmjZhsAZANnZL6",
+            "name": "Philosophy",
+            "slug": "philosophy-1"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "kCrvmjZhsAZANnZL6": 1,
+          "pszEEb3ctztv3rozd": 1
+        },
+        "contents": {
+          "markdown": "Frank Herbert is undoubtedly one of the most fantastical writers of humanity in a framework of entertainment. \n\nI wanted to create this post to discuss and interpret if Paul being elevated to the Lisan al Gaib (a title and prophecy planed by The Missionaria Protectiva) and his assentation to Emperor - as well his rule there after was part of his own agency or simply how he was manipulated. \n\nAgency and the vigor is takes is such a powerful subject, and Frank's writing gives it profound importance.\n\nI would say his greatest achievement is obviously giving life to the God Emperor. And I would argue his conversations with Chani about him being a figurehead is very much the truth. His years as the prophet I see as his most true actions, but his time in Jacurutu clearly brought a schism to the person he was before. \n\nThere are many arguments for either side but I would gladly welcome any and all of your thoughts."
+        }
+      }
+    }
+  }
+}

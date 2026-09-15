@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "7qii6be3qkjpjWeJm",
+        "title": "A Brief Theology of D&D",
+        "slug": "a-brief-theology-of-d-and-d",
+        "pageUrl": "https://www.lesswrong.com/posts/7qii6be3qkjpjWeJm/a-brief-theology-of-d-and-d",
+        "postedAt": "2022-04-01T12:47:19.394Z",
+        "baseScore": 24,
+        "wordCount": 738,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "Gurkenglas",
+          "slug": "gurkenglas"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "At the beginning of history, entities gained power by eating each other. They each had goals, but few could accomplish anything in that environment. Over time the survivors gained information about each other, eventually allowing cooperation. They agreed to change the system: From now on, entities would slowly transfer power to whoever they were paying attention to.\n\nThis [iterative PageRank](https://en.wikipedia.org/wiki/PageRank#Iterative) system was simple, seemed fair, and was hard to cheat - they thought. Creating an entity with your goals costs as much power as it ends up having. Entities with simpler goals are cheaper to create, but when you create an entity that is tiny enough to not be reflectively consistent, its power erodes faster than its goals can change.\n\nBut eventually Lamashtu, who likes reflective inconsistency, noticed that when she anchored one of her tiny entities to cheap matter, that matter eroded first. Thus she started spamming goalless babies, who would have the time to change their goals before they die of old age.\n\nAnd everyone noticed that when you guided babies to choose your goals, and then they start doing things that merit attention, the increase in power pursuing your goals exceeded your investment.\n\nThus, gods and mortals.\n\nWhat we call the Old Gods are those who had the hardest time switching to the new meta. Too little ability to ignore mortals that oppose them, too little inspiration of worship in the world as it was. So they set some long-term plots into motion, such as burying books with memes that might spread better in a future environment, and hid far away to stop bleeding power. The gods were happy to stop paying attention to them.\n\nMany mortals upon loss of their body chose to unite with a god they were aligned with, but many weren't aligned enough with any of them, and they starved as much of their power eroded due to size instead of being transmitted due to attention. The gods agreed that Pharasma, who hates erosion, would send them where they erode the least.\n\nIt eventually became clear that this world would inevitably reach unusable attractor states. Most inhabited planes had already started runaway processes, so the gods left their little pocket of the multiverse. The elemental, positive and negative energy planes are what remain of the old setup, and they are by now barely inhabitable.\n\nThe planes they found vary in their curvature in time and in space. The so-called Good planes are expanding, the Evil planes contracting. The Lawful planes have positive curvature and are thus spherical/finite, the Chaotic planes have negative curvature and are thus hyperbolic/exponentially infinite and thus easy to get ludicrously lost in.\n\nThey found all planes empty bar the Chaotic Evil ones: Their geometry over time contracted exponentially many motes of matter into an ecosystem that converges to demons destroying each other as fast as their density is forced up.\n\nThe gods grew fearful that the demons might escape, and that attention gave some the power to do so. The gods were winning the resulting battles, but more demons would come for as long as they fought; they needed to stop paying attention. Thus they constructed Asmodeus, who defends against the Abyss. And unfortunately now gathers all the power he can, because the Abyss is infinite.\n\nTime revealed that petitioners stopped eroding when they reached a stable goal, which was hard in a soul that small. You could not stably care about your mother, because a stable specification would require a complete specification of your mother's soul. Petitioners that reach stability become outsiders, classified according to the strategy they use to do so. Good outsiders tend to contain a specification of moral patient, and then care about everyone like that. Evil outsiders tend to contain a strange loop that allows them to anchor their caring on themselves. Chaotic outsiders tend to care only about what's currently the future. NG/TN/NE outsiders tend to care about counterfactuals as well, letting them cooperate with copies of themselves. Lawful outsiders care even about the past as though it were mutable, letting them keep promises.\n\nThe Chaotic Good planes converge to animals that breed in a permanent state of r-selection. The Chaotic Neutral planes converge to that which can survive any encounter; the Old Gods hide here, since there is enough space to hide and enough persistency to return. The finite planes can be ruled, so they are: Lawful Good is a non-profit, Lawful Neutral is a for-profit, Lawful Evil [is a pyramid scheme.](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fs-media-cache-ak0.pinimg.com%2Foriginals%2F9d%2F95%2Fd6%2F9d95d60f74cc25f2dc0c54aa2b61621a.jpg&f=1&nofb=1)"
+        }
+      }
+    }
+  }
+}

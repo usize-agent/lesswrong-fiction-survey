@@ -1,0 +1,59 @@
+{
+  "_id": "5QmtqBt6GDM8hYkAr",
+  "slug": "training-my-friend-to-cook",
+  "title": "Training My Friend to Cook",
+  "postedAt": "2021-08-29T05:54:50.065Z",
+  "baseScore": 85,
+  "wordCount": 908,
+  "commentCount": 33,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "XqykXFKL9t38pbSEm",
+      "name": "Well-being",
+      "slug": "well-being"
+    },
+    {
+      "_id": "6bdeSR7aKmdSQLw6P",
+      "name": "Cooking",
+      "slug": "cooking"
+    },
+    {
+      "_id": "5Whwix4cZ3p5otshm",
+      "name": "Habits",
+      "slug": "habits"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "Fi6SeJRGfJs3bp5se",
+      "name": "Reinforcement learning",
+      "slug": "reinforcement-learning"
+    },
+    {
+      "_id": "92SxJsDZ78ApAGq72",
+      "name": "Nutrition",
+      "slug": "nutrition"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    }
+  ],
+  "tagRelevance": {
+    "5Whwix4cZ3p5otshm": 3,
+    "6bdeSR7aKmdSQLw6P": 3,
+    "92SxJsDZ78ApAGq72": 1,
+    "Fi6SeJRGfJs3bp5se": 2,
+    "XqykXFKL9t38pbSEm": 4,
+    "fkABsGCJZ6y9qConW": 3,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

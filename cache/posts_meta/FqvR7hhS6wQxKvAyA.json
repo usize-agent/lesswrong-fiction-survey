@@ -1,0 +1,35 @@
+{
+  "_id": "FqvR7hhS6wQxKvAyA",
+  "slug": "one-a-story",
+  "title": "One: a story",
+  "postedAt": "2023-10-10T00:18:31.604Z",
+  "baseScore": 36,
+  "wordCount": 1290,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5uHdFgR938LGGxMKQ",
+      "name": "Subagents",
+      "slug": "subagents"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "5uHdFgR938LGGxMKQ": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

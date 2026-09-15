@@ -1,0 +1,23 @@
+{
+  "_id": "HvjZxxtHnAucnaKn2",
+  "slug": "fiction-letter-from-the-end",
+  "title": "Fiction: Letter from the End",
+  "postedAt": "2011-08-09T23:04:59.534Z",
+  "baseScore": 32,
+  "wordCount": 8,
+  "commentCount": 13,
+  "user": {
+    "displayName": "AlexMennen",
+    "slug": "alexmennen"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

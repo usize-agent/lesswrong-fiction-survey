@@ -1,0 +1,29 @@
+{
+  "_id": "78umDArsNieLqzTmR",
+  "slug": "the-prompt-of-babel-1",
+  "title": "The Prompt of Babel",
+  "postedAt": "2026-02-15T00:11:10.661Z",
+  "baseScore": 1,
+  "wordCount": 1541,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Joe McLean",
+    "slug": "joe-mclean"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

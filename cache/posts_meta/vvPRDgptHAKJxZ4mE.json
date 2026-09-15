@@ -1,0 +1,53 @@
+{
+  "_id": "vvPRDgptHAKJxZ4mE",
+  "slug": "sex-fairy-lore",
+  "title": "Sex Fairy Lore",
+  "postedAt": "2022-06-26T20:42:38.636Z",
+  "baseScore": -25,
+  "wordCount": 1824,
+  "commentCount": 10,
+  "user": {
+    "displayName": "pchvykov",
+    "slug": "pchvykov"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "PAugtjFrmvbepCNej",
+      "name": "Love ",
+      "slug": "love"
+    },
+    {
+      "_id": "dBPou4ihoQNY4cquv",
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "_id": "hXTqT62YDTTiqJfxG",
+      "name": "Ritual",
+      "slug": "ritual"
+    },
+    {
+      "_id": "W9aNkPwtPhMrcfgj7",
+      "name": "Sex & Gender",
+      "slug": "sex-and-gender"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "PAugtjFrmvbepCNej": 1,
+    "W9aNkPwtPhMrcfgj7": 1,
+    "dBPou4ihoQNY4cquv": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hXTqT62YDTTiqJfxG": 1,
+    "xexCWMyds6QLWognu": 2
+  }
+}

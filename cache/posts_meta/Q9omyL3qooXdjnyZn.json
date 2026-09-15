@@ -1,0 +1,41 @@
+{
+  "_id": "Q9omyL3qooXdjnyZn",
+  "slug": "that-alien-message-the-animation",
+  "title": "That Alien Message - The Animation",
+  "postedAt": "2024-09-07T14:53:30.604Z",
+  "baseScore": 144,
+  "wordCount": 2398,
+  "commentCount": 10,
+  "user": {
+    "displayName": "Writer",
+    "slug": "writer"
+  },
+  "tags": [
+    {
+      "_id": "zCYXpx33wq8chGyEz",
+      "name": "AI Boxing (Containment)",
+      "slug": "ai-boxing-containment"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "F2XfCTxXLQBGjbm8P": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "zCYXpx33wq8chGyEz": 3
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "oDsxaNdLxdGFoPJJF",
+  "slug": "ai-allegory-steganography-in-claude-short-stories-in-the",
+  "title": "'AI allegory steganography' in Claude short stories in the Unslop contest?",
+  "postedAt": "2026-07-01T00:38:05.744Z",
+  "baseScore": 29,
+  "wordCount": 1,
+  "commentCount": 2,
+  "user": {
+    "displayName": "gwern",
+    "slug": "gwern"
+  },
+  "tags": [
+    {
+      "_id": "mZTuBntSdPeyLSrec",
+      "name": "Chain-of-Thought Alignment",
+      "slug": "chain-of-thought-alignment"
+    },
+    {
+      "_id": "jD7udwCn3duDZJNhW",
+      "name": "Constitutional AI",
+      "slug": "constitutional-ai"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    }
+  ],
+  "tagRelevance": {
+    "KmgkrftQuX7jmjjp5": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "jD7udwCn3duDZJNhW": 2,
+    "mZTuBntSdPeyLSrec": 2
+  }
+}

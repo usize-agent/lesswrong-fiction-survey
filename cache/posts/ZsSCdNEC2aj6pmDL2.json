@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "ZsSCdNEC2aj6pmDL2",
+        "title": "Universal Eudaimonia",
+        "slug": "universal-eudaimonia",
+        "pageUrl": "https://www.lesswrong.com/posts/ZsSCdNEC2aj6pmDL2/universal-eudaimonia",
+        "postedAt": "2020-10-05T13:45:19.609Z",
+        "baseScore": 19,
+        "wordCount": 454,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "hg00",
+          "slug": "hg00"
+        },
+        "tags": [
+          {
+            "_id": "nSHiKwWyMZFdZg5qt",
+            "name": "Ethics & Morality",
+            "slug": "ethics-and-morality"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "tTp6uCjAMJh66vZkc",
+            "name": "Moral uncertainty",
+            "slug": "moral-uncertainty"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "nSHiKwWyMZFdZg5qt": 1,
+          "sYm3HiWcfZvrGu3ui": 2,
+          "tTp6uCjAMJh66vZkc": 1
+        },
+        "contents": {
+          "markdown": "The AI is here. And it's Friendly. But due to moral uncertainty, its value function prohibits any major intervention in existing human societies.\n\nThe AI's nanobots get to work. They replace the South Pacific garbage patch with a new continent--Eudaimonia, a [rat park](https://www.youtube.com/watch?v=qx2sbhby_Cw) for humans. All basic needs are met, but if you want more money, you can gamble at a positive-expected-value casino or run through a bonus area where $100 bills flutter down from the sky. Immortality drugs are under development. The AI nanoprints RollerCoaster Tycoon save files on demand. Cherries are bred to be free of pits. Spaceships full of tourists depart regularly for a new floating city on Venus. And many ignore all this in favor of immersive virtual environments which are far more wondrous.\n\nThe AI is concerned. Eudaimonia seems to satisfy many human terminal values. But other terminal values appear to be in conflict. Indeed, some people have a terminal value that others should not be allowed to achieve their terminal values! That doesn't sound like a rat park! It's impossible to please everyone, and although the AI could modify peoples' preferences to change this, it is far too corrigible for that nonsense.\n\nThe AI comes up with a compromise. Once a month, you're given the opportunity to video call someone you have a deep disagreement with. At the end of the call, each of you gets to make a choice regarding whether the other should be allowed in Eudaimonia. But there's a twist: Whatever choice you made for the other person is the choice the AI makes for you.\n\nThe plan seems to be working splendidly at first. Legions of forgiving and agreeable people flood into the new continent and enjoy a life of constant bliss. The average resident makes three new deep friendships per month while tripping on psychedelic drugs. What used to be existential conflicts are now ironic sports team rivalries.\n\nBut a problem emerges: As the forgiving and agreeable people leave, it is the unforgiving and disagreeable people who are left behind--people who are especially difficult to forgive. The world outside Eudaimonia keeps getting uglier and uglier.\n\nThe AI decides it isn't fair to hold later applicants to a higher standard. Instead of doing a call with another person outside Eudaimonia, the AI sets you up with a Eudaimonia resident who disagreed with you in a past life. The AI offers them loyalty points at their favorite positive-expected-value casino if they're able to get you to forgive them.\n\nThe new program works much better. Eventually, all of humanity has moved to Eudaimonia except a small number of people for whom immiserating their enemies really seems to be their most important terminal value. Those people destroy each other. Everyone lives happily ever after."
+        }
+      }
+    }
+  }
+}

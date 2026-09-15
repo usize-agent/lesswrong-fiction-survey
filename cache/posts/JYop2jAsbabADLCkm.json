@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "JYop2jAsbabADLCkm",
+        "title": "The Goddess of Everything Else - The Animation",
+        "slug": "the-goddess-of-everything-else-the-animation",
+        "pageUrl": "https://www.lesswrong.com/posts/JYop2jAsbabADLCkm/the-goddess-of-everything-else-the-animation",
+        "postedAt": "2023-07-13T16:26:25.552Z",
+        "baseScore": 153,
+        "wordCount": 19,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "Writer",
+          "slug": "writer"
+        },
+        "tags": [
+          {
+            "_id": "KDpqtN3MxHSmD4vcB",
+            "name": "Art",
+            "slug": "art"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "KDpqtN3MxHSmD4vcB": 2,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "This is an animation of [The Goddess of Everything Else](https://slatestarcodex.com/2015/08/17/the-goddess-of-everything-else-2/), by Scott Alexander. I hope you enjoy it :)"
+        }
+      }
+    }
+  }
+}

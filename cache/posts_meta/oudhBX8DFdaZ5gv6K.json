@@ -1,0 +1,29 @@
+{
+  "_id": "oudhBX8DFdaZ5gv6K",
+  "slug": "the-parable-of-the-underdog",
+  "title": "The parable of the underdog",
+  "postedAt": "2025-08-17T22:39:04.295Z",
+  "baseScore": 22,
+  "wordCount": 583,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Said Achmiz",
+    "slug": "saidachmiz"
+  },
+  "tags": [
+    {
+      "_id": "E8PHMuf7tsr8teXAe",
+      "name": "Betting",
+      "slug": "betting"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "E8PHMuf7tsr8teXAe": 2,
+    "F2XfCTxXLQBGjbm8P": 2
+  }
+}

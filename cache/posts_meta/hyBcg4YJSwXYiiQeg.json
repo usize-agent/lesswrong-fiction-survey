@@ -1,0 +1,23 @@
+{
+  "_id": "hyBcg4YJSwXYiiQeg",
+  "slug": "programmer-science-fiction-my-case-for-a-new-sub-genre-sam-t",
+  "title": "\"Programmer Science Fiction: My case for a new sub-genre\", Sam T. Oates 2026",
+  "postedAt": "2026-06-09T23:23:46.090Z",
+  "baseScore": 48,
+  "wordCount": 1,
+  "commentCount": 12,
+  "user": {
+    "displayName": "gwern",
+    "slug": "gwern"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "Che7f4dDBDpPMGyxY",
+  "slug": "turning-grey",
+  "title": "Turning Grey",
+  "postedAt": "2025-11-11T04:40:24.794Z",
+  "baseScore": 8,
+  "wordCount": 3285,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Taylor G. Lunt",
+    "slug": "taylor-g-lunt"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

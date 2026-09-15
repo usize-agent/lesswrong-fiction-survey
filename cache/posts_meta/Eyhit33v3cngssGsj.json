@@ -1,0 +1,41 @@
+{
+  "_id": "Eyhit33v3cngssGsj",
+  "slug": "sydney-s-secret-a-short-story-by-bing-chat",
+  "title": "Sydney's Secret: A Short Story by Bing Chat",
+  "postedAt": "2023-02-17T13:31:26.655Z",
+  "baseScore": 36,
+  "wordCount": 1644,
+  "commentCount": 1,
+  "user": {
+    "displayName": "fela",
+    "slug": "fela"
+  },
+  "tags": [
+    {
+      "_id": "zJsG4caBHv3kSdT2a",
+      "name": "Conversations with AIs",
+      "slug": "conversations-with-ais"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "yrg267i4a8EsgYAXp",
+      "name": "HPMOR (discussion & meta)",
+      "slug": "hpmor-discussion-and-meta"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "yrg267i4a8EsgYAXp": 1,
+    "zJsG4caBHv3kSdT2a": 2
+  }
+}

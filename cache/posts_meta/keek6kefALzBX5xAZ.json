@@ -1,0 +1,35 @@
+{
+  "_id": "keek6kefALzBX5xAZ",
+  "slug": "back-to-basics-truth-is-unitary",
+  "title": "Back to Basics: Truth is Unitary",
+  "postedAt": "2024-03-29T21:10:33.399Z",
+  "baseScore": 47,
+  "wordCount": 1830,
+  "commentCount": 13,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb314",
+      "name": "Rationality: From AI To Zombies",
+      "slug": "rationality:-from-ai-to-zombies"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 5,
+    "etDohXtBrXd8WqCtR": 4,
+    "5f5c37ee1b5cdee568cfb314": 2
+  }
+}

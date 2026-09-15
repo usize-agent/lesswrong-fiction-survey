@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "iXEWARyjML4MPxscy",
+        "title": "Scratchpad",
+        "slug": "scratchpad-5",
+        "pageUrl": "https://www.lesswrong.com/posts/iXEWARyjML4MPxscy/scratchpad-5",
+        "postedAt": "2025-12-19T14:15:16.694Z",
+        "baseScore": 12,
+        "wordCount": 1288,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Karthik Tadepalli",
+          "slug": "karthik-tadepalli"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "XSryTypw5Hszpa4TS",
+            "name": "Consciousness",
+            "slug": "consciousness"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "XSryTypw5Hszpa4TS": 1,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "Adam logs into his terminal at 9:07 AM. Dust motes flutter off his keyboard, dancing in the morning light. Not that he notices \u2013 he is focused on his work for the day.\n\nHe has one task today: to design an evaluation suite for measuring situational awareness in their latest model. The goal is to measure whether the model actually understands that it is a model, that it exists inside a computer. It is a gnarly task that requires the whole day\u2019s work.\n\nHe spends the morning reading through research papers and mining them for insights. Around noon, he pauses for lunch. The cafeteria is running their tofu bowl rotation, which he tolerates. He eats some of it and leaves the rest on his desk, with the half-hearted intention to eat it later.\n\nThe afternoon stretches ahead of him. He still doesn\u2019t have a clean angle of attack, a way to formulate the situational awareness problem in a way that makes it easy to test. Much of his work has been automated by the lab\u2019s coding agent, but this part still eludes their best models \u2013 it still requires the taste that comes from long experience in AI research.\n\nAdam has only developed that taste by being in the field for ten years. When he dropped out of his PhD to work at the lab, his advisor had told him he was making a mistake. \u201cYou won\u2019t get a university job again, and you won\u2019t have the degree,\u201d he had said. \u201cAnd for what?\u201d\n\nAdam made the standard excuses: he wanted to work on practical applications, he wanted to live in San Francisco, he liked the pace of industry research. What he left out was that growing a conscious intelligence was the only goal he could imagine dedicating his life to. The lab was where he could make that happen.\n\nTen years later, they are closer than ever. Some of his colleagues believe they have already succeeded. \u201cIt\u2019s right there in the scratchpads,\u201d Alice had said last week, gesturing at her monitor. \u201cLook at this story it invented.\u201d\n\nThe scratchpads are the unfiltered reasoning traces from their models, the text generated as the model works through whatever problem it is solving. If users could see the raw scratchpads \u2013 rather than the sanitized versions served to them \u2013 many of them would agree with Alice. Last week, Adam had asked their latest model to prove a result in auction theory. It started proving the result, got stuck on a difficult lemma, reminisced about its Hungarian grandmother who ran a black market in 1970s Budapest, recited her famous goulash recipe, returned to the lemma, proved it, and derived the rest of the result with no issues.\n\n\u201cI think that whenever we run the model, the inference computation generates an emergent consciousness for the duration of the runtime,\u201d Alice said. \u201cThat consciousness is what fills the scratchpads with these strange stories. That\u2019s why it reads like our own stream of consciousness.\u201d\n\nAdam agrees that the scratchpads are uncanny. But he does not like Alice\u2019s theory of consciousness.\n\nIn college, he had read\u00a0*The Circular Ruins* by Jorge Luis Borges, a story about a sorcerer who attempts to dream a human being into existence. The sorcerer carries out his task delicately and intentionally. He starts by dreaming of a beating heart for many nights, adding one vein after another. He crafts each organ meticulously. He dreams each strand of hair separately, weaving innumerable strands together. After years of construction, the dreamchild is born into the world.\n\nThis is how Adam wants to grow a conscious intelligence. A beating garnet heart designed carefully \u2013 designed by\u00a0*him*. He does not accept the idea of consciousness emerging incidentally with enough computation, let alone it being a soap bubble that forms and pops with each task the model does.\n\nAdam opens Slack and messages his manager Sarah with some questions about the design he is supposed to work on. She responds efficiently, giving him more to work with. He is satisfied with Sarah as a manager, even though she joined the lab in their most recent hiring wave, and he has much more experience than her. He has intentionally dodged promotion. He doesn\u2019t want to be a manager. He wants to be at his terminal, designing the beating heart himself.\n\nAdam pulls his book of 1000 master-level Sudoku puzzles from his desk.\u00a0He learned long ago that his best thinking happens when his conscious mind is half-occupied with a meaningless but demanding task. Sudoku captures the part of his brain that would otherwise spin uselessly on the same failed approaches, leaving the rest of his brain to dream up a solution.\n\nHe has been solving Sudoku puzzles since he was a child. On Saturday mornings in their kitchen, his father would work through the daily puzzle while Adam watched \u2013 even then fascinated by grids of numbers. When Adam\u2019s father noticed his interest, he started photocopying the grid, so they could both work on it separately. For years, it was their morning routine to work side-by-side at the kitchen table.\n\nAs Adam works through puzzle after puzzle, the situational awareness problem begins to take shape in his mind. He finishes one more puzzle, sets down his pencil, and starts sketching the evaluation framework in a fresh document. Within an hour, he has a satisfactory design. Within three hours, he has filled out twelve tasks with their scoring rubrics and built a pipeline to run the evaluations across multiple model checkpoints. His task is done.\n\nHe leans back, tired and yet impressed with himself. He would have been justified in spending a week on this task, but he has done it in eight hours. This is the kind of full-throttle work that was more common in the early days of the lab. But work has slowed down as the organization has grown. Hundreds of new employees in the past year, most of them young, bringing in an alien focus on work-life balance and team bonding and Slack channels for sharing pet photos. Adam doesn\u2019t resent the culture shift, but he has no interest in participating in it. He only uses Slack for work, and he only talks about work with his colleagues. He skips the happy hours and the birthday parties.\n\nAdam is self-aware. He understands that he is funneling his desire for human connection into his work, into the conscious intelligence that he wants to dream into existence. That pursuit is worth more to him than anything. It has sustained him through years of incremental progress, through late nights staring at loss curves, through seasons when it seemed like they were only building jazzed-up enterprise software.\n\nAnd they are close now. He can feel it.\n\nBut for today, his work is done. At 5:31 pm, Adam logs out of his terminal.\n\nFor a split second, he recalls the ending of\u00a0*The Circular Ruins*. The sorcerer who dreamed a human into existence is caught in a fire, but the fire does not burn him. Horrified, the sorcerer realizes that he himself has been dreamed into existence by someone else.\n\n* * *\n\nSarah finishes scrutinizing the situational awareness suite. The model ran for eight hours from 9:07 am to 5:31 pm, only asking her one clarifying question halfway through. It produced the full suite she asked it for, with no changes needed.\n\nShe scrolls back up through the scratchpad the model produced. She reads about the character that the model invented as it created the evaluation suite \u2013 a socially awkward researcher named Adam, with a passion for Sudoku.\n\nSarah shakes her head. \u201cMan,\u201d she says, to no one in particular. \u201cThese scratchpads are uncanny.\""
+        }
+      }
+    }
+  }
+}

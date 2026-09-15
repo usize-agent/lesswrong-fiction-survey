@@ -1,0 +1,59 @@
+{
+  "_id": "dHLdf8SB8oW5L27gg",
+  "slug": "on-fleshling-safety-a-debate-by-klurl-and-trapaucius",
+  "title": "On Fleshling Safety: A Debate by Klurl and Trapaucius.",
+  "postedAt": "2025-10-26T23:44:04.676Z",
+  "baseScore": 258,
+  "wordCount": 23630,
+  "commentCount": 50,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "F5gRQdEQHzi3tQ5Ay",
+      "name": "AI Control",
+      "slug": "ai-control"
+    },
+    {
+      "_id": "4CQy8rim8PGt4sfCn",
+      "name": "Complexity of value",
+      "slug": "complexity-of-value"
+    },
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Dw5Z6wtTgk4Fikz9f",
+      "name": "Inner Alignment",
+      "slug": "inner-alignment"
+    },
+    {
+      "_id": "agnEHZTiXEyzBFPmF",
+      "name": "Orthogonality Thesis",
+      "slug": "orthogonality-thesis"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "4CQy8rim8PGt4sfCn": 2,
+    "Dw5Z6wtTgk4Fikz9f": 2,
+    "F5gRQdEQHzi3tQ5Ay": 2,
+    "agnEHZTiXEyzBFPmF": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "yXNtYNHJB54T3bGm3": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "tu4qwFYJeDDER8bch",
+  "slug": "fiction-a-confession",
+  "title": "[Fiction] A Confession",
+  "postedAt": "2024-04-18T16:28:48.194Z",
+  "baseScore": 38,
+  "wordCount": 1359,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Arjun Panickssery",
+    "slug": "arjun-panickssery"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 5
+  }
+}

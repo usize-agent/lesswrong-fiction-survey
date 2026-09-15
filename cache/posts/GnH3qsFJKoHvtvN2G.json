@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "GnH3qsFJKoHvtvN2G",
+        "title": "Thoughts about Dr Stone and Mythology",
+        "slug": "thoughts-about-dr-stone-and-mythology",
+        "pageUrl": "https://www.lesswrong.com/posts/GnH3qsFJKoHvtvN2G/thoughts-about-dr-stone-and-mythology",
+        "postedAt": "2020-02-25T01:51:29.519Z",
+        "baseScore": 19,
+        "wordCount": 724,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "mako yass",
+          "slug": "mako-yass"
+        },
+        "tags": [
+          {
+            "_id": "GBpwq8cWvaeRoE9X5",
+            "name": "Fiction (Topic)",
+            "slug": "fiction-topic"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "GBpwq8cWvaeRoE9X5": 1,
+          "pszEEb3ctztv3rozd": 1
+        },
+        "contents": {
+          "markdown": "I highly recommend the anime/manga Dr Stone. It's a science-backed adventure in a world where modern technology has been lost and needs to be resurrected. If you care about technology, you'll probably enjoy it quite a lot.\n\nThere's something you should know before setting off. There's a reason its characters are not realistic. The author isn't trying much at all to make them plausible depictions of individual people. They're best understood as representations of classes of people, or social processes. Senku isn't a scientist, Senku is *science*. Likewise, Tsukasa is a representation of competition pressure from societies that prioritise strength and discipline over art, exploration and care. He isn't Moloch - he's a pretty good guy, really - but he's closer to being a thing like Moloch than he is to being a mere human.  \n  \nEngaging with a story like this while it's still fresh is making me realise some things. I think I might understand why the Greeks' stories were so often about deities (or semideities) rather than people. Was it, at some point (perhaps the point of inception was long before any of it was ever written down), abstraction? Was it a way of talking about great, irresistible forces in a way that made them feel familiar and negotiable?  \n  \nI'm starting to realise that a lot of theological myths were probably about as transparent, lucid and engaging to their carriers as Dr Stone is to us now. Then the cleverperson who first orated them passed away, and people got distracted with other things and forgot more and more about what they'd heard except that it was important. Someone emphasised the magic-seeming reality of the metaphor *too much*, literalism set in, the underlying truth was lost. Everything has been cut from its context, mutated, excessively worshipped and hacked partway into something else. The glowing hot brilliance that created our ruins is long gone.  \n  \nInstead of just applying this theory to interpretation in hindsight, I'm going to attempt to run this theory forward as a predictive apparatus, as is the way of my people. Let's see what it says.  \n  \nOne of our stories, as it stands, while the iron's still hot, while clever Scott still stands sweating over his forge, is the story of Moloch, The Spirit of Coordination Problems.\n\nIt could be summarised as\n\n> The spirit Moloch truly exists as part of nature. The spirit is described as a recurring degenerative pattern that occurs in systems of competition, which we personify as a flaming bull. It's good to believe in this spirit, because if you fear this spirit as if it were a person, you are more likely to notice tragedies of the commons and instate coordination mechanisms (regulations) to prevent them.\n\nNow imagine that our spirit Moloch has passed through 200 years of oral retelling and cultural evolution. Read the following as if it was really all you knew about Moloch.\n\n> The spirit Moloch exists outside of nature. It is a ghostly flaming bull that possesses people and then goes about eating or burning the most beautiful things it can find. It is considered good to believe in this spirit as a literal sapient being, because good people believe in it and if you don't believe in it you must be a heathen.\n\nMost old stories have reached us in a form closer to the second thing. I don't think I have to substantiate that, I'm sure you've felt it. Our stories are all gravely in need of restoration. They were not supposed to be made to trudge on into alien futures that did not really need them, they were supposed to be cut apart and remade to suit the needs of their carriers, that's how they came to be popular in the first place. In living traditions, they are still frequently repurposed in this way. Perhaps there is a reason restoration is not so often attempted, now, but I would guess that it's mostly incompetence, people have forgotten the spark that produced them, forgotten that there ever was a spark, lost the point, lack the courage to make something new of them. Tradition without periodic from-scratch remaking is a kind of death worship, clinging to a small, fading knowable myths at the expense of living on in shifting fields of infinite new claims."
+        }
+      }
+    }
+  }
+}

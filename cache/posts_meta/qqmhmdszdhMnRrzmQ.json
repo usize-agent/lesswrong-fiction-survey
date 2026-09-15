@@ -1,0 +1,35 @@
+{
+  "_id": "qqmhmdszdhMnRrzmQ",
+  "slug": "i-wrote-a-fantasy-novel-to-promote-ea-more-chapters",
+  "title": "I wrote a fantasy novel to promote EA: More Chapters",
+  "postedAt": "2022-09-16T09:47:27.934Z",
+  "baseScore": 18,
+  "wordCount": 14078,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Timothy Underwood",
+    "slug": "timothy-underwood-1"
+  },
+  "tags": [
+    {
+      "_id": "827JKe7YNjAegR468",
+      "name": "Effective altruism",
+      "slug": "effective-altruism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "827JKe7YNjAegR468": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

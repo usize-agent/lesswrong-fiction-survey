@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "mLFQPtKWSCC5qLy5J",
+        "title": "The Agent",
+        "slug": "the-agent",
+        "pageUrl": "https://www.lesswrong.com/posts/mLFQPtKWSCC5qLy5J/the-agent",
+        "postedAt": "2022-03-02T22:43:58.676Z",
+        "baseScore": 17,
+        "wordCount": 244,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ideopunk",
+          "slug": "ideopunk"
+        },
+        "tags": [
+          {
+            "_id": "xXX3n22DQZuKqXEdT",
+            "name": "War",
+            "slug": "war"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "etDohXtBrXd8WqCtR": 1,
+          "xXX3n22DQZuKqXEdT": 2
+        },
+        "contents": {
+          "markdown": "Before the war I didn't really think about anything. I just did things and things just happened to me. Then yesterday my mother asked me if we should leave. \"Before it's too late\". That was the first time I ever really thought about something. This is what thinking was like for me:\n\n\\- I pictured all the animals and trees and hay bales and garbage and driftwood and streams and bogs and winds and bridges and messages and tunnels between us and freedom.\n\n\\- I pictured every horrible thing they would do to us.\n\n\\- I pictured firing a gun.\n\n\\- I pictured being shot with a gun.\n\n\\- I pictured being buried under rubble.\n\n\\- I pictured moving rubble off of my mother.\n\n\\- I pictured reading a book from my childhood in a refugee camp.\n\n\\- I pictured my mother so tired that I would carry her.\n\n\\- I pictured us committing suicide together.\n\n\\- I pictured learning a new language.\n\n\\- I pictured the stars without smoke.\n\nThen I balanced each of these on a giant scale, inside a calculator, which assigned numbers to each of these, and multiplied each by how likely they were, and calculated how good it would be to go, and how good it would be to stay.\n\nIt was much better to go. I told my mother so. She didn't ask how I decided. She packed us food, and off we went, into the heavy heat of the night, pausing only to listen to the whistling of the bombs."
+        }
+      }
+    }
+  }
+}

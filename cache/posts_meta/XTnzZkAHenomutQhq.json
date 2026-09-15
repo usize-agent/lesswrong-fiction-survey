@@ -1,0 +1,161 @@
+{
+  "_id": "XTnzZkAHenomutQhq",
+  "slug": "books-worthy-of-integration",
+  "title": "Books Worthy of Integration",
+  "postedAt": "2022-02-20T08:03:25.617Z",
+  "baseScore": 16,
+  "wordCount": 862,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Roven Skyfal",
+    "slug": "roven-skyfal"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "T63QtRJhoTEGhZbTP",
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "_id": "fH8jPjHF2R27sRTTG",
+      "name": "Education",
+      "slug": "education"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "jgcAJnksReZRuvgzp",
+      "name": "Financial Investing",
+      "slug": "financial-investing"
+    },
+    {
+      "_id": "a65Lgr7Q5jqRWHtM6",
+      "name": "Gratitude",
+      "slug": "gratitude"
+    },
+    {
+      "_id": "irYLXtT9hkPXoZqhH",
+      "name": "Growth Stories",
+      "slug": "growth-stories"
+    },
+    {
+      "_id": "5Whwix4cZ3p5otshm",
+      "name": "Habits",
+      "slug": "habits"
+    },
+    {
+      "_id": "Jzm2mYuuDBCNWq8hi",
+      "name": "Happiness",
+      "slug": "happiness-1"
+    },
+    {
+      "_id": "iTe27Ced8s8bGuvMK",
+      "name": "Intellectual Progress (Individual-Level)",
+      "slug": "intellectual-progress-individual-level"
+    },
+    {
+      "_id": "Tg9aFPFCPBHxGABRr",
+      "name": "Life Improvements",
+      "slug": "life-improvements"
+    },
+    {
+      "_id": "92SxJsDZ78ApAGq72",
+      "name": "Nutrition",
+      "slug": "nutrition"
+    },
+    {
+      "_id": "udPbn9RthmgTtHMiG",
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "_id": "dBPou4ihoQNY4cquv",
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "_id": "tdt83ChxnEgwwKxi6",
+      "name": "Reading Group",
+      "slug": "reading-group"
+    },
+    {
+      "_id": "fF9GEdWXKJ3z73TmB",
+      "name": "Scholarship & Learning",
+      "slug": "scholarship-and-learning"
+    },
+    {
+      "_id": "7Gh5dSvySMNbA6niL",
+      "name": "Task Prioritization",
+      "slug": "task-prioritization"
+    },
+    {
+      "_id": "XqykXFKL9t38pbSEm",
+      "name": "Well-being",
+      "slug": "well-being"
+    },
+    {
+      "_id": "YrLoz567b553YouZ2",
+      "name": "Willpower",
+      "slug": "willpower"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "4Kcm4etxAJjmeDkHP": 1,
+    "5Whwix4cZ3p5otshm": 1,
+    "7Gh5dSvySMNbA6niL": 1,
+    "92SxJsDZ78ApAGq72": 1,
+    "Jzm2mYuuDBCNWq8hi": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "T63QtRJhoTEGhZbTP": 1,
+    "Tg9aFPFCPBHxGABRr": 1,
+    "XqykXFKL9t38pbSEm": 1,
+    "YrLoz567b553YouZ2": 1,
+    "a65Lgr7Q5jqRWHtM6": 1,
+    "dBPou4ihoQNY4cquv": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "fF9GEdWXKJ3z73TmB": 1,
+    "fH8jPjHF2R27sRTTG": 1,
+    "fkABsGCJZ6y9qConW": 1,
+    "iTe27Ced8s8bGuvMK": 1,
+    "irYLXtT9hkPXoZqhH": 1,
+    "izp6eeJJEg9v5zcur": 1,
+    "jgcAJnksReZRuvgzp": 1,
+    "tdt83ChxnEgwwKxi6": 1,
+    "udPbn9RthmgTtHMiG": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

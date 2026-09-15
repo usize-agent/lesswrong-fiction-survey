@@ -1,0 +1,29 @@
+{
+  "_id": "duF4Qh9pn7Y5imhsm",
+  "slug": "the-liar-and-the-scold",
+  "title": "The Liar and the Scold",
+  "postedAt": "2022-01-20T20:31:14.765Z",
+  "baseScore": 119,
+  "wordCount": 3714,
+  "commentCount": 13,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 8,
+    "xexCWMyds6QLWognu": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "rSiybWzeiG8agYtNr",
+        "title": "VIRTUA: a novel about AI alignment",
+        "slug": "virtua-a-novel-about-ai-alignment",
+        "pageUrl": "https://www.lesswrong.com/posts/rSiybWzeiG8agYtNr/virtua-a-novel-about-ai-alignment",
+        "postedAt": "2023-01-12T09:37:21.528Z",
+        "baseScore": 46,
+        "wordCount": 409,
+        "commentCount": 12,
+        "noIndex": false,
+        "user": {
+          "displayName": "Karl von Wendt",
+          "slug": "karl-von-wendt"
+        },
+        "tags": [
+          {
+            "_id": "oNcqyaWPXNGTTRPHm",
+            "name": "Existential risk",
+            "slug": "existential-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "oNcqyaWPXNGTTRPHm": 1,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "I\u2019ve written a novel about AI alignment in German and translated it into English.\u00a0\n\n**Edit:** I'm going to publish the final version [on Amazon KDP](https://www.amazon.com/dp/B0C3CFD5VB/) on May 25. I have therefore removed the links to the previous version. If you want a free copy of the ebook or a PDF, please write me a direct message. **Thanks to all who helped me improve the final version with their comments and feedback** (some of you are mentioned in the book).\n\nTeaser:\u00a0\n--------\n\nWhen psychologist Daniel unexpectedly gets a job offer from the Berlin subsidiary of Mental Systems, one of the leading technology companies in the world, he\u2019s excited. But he soon finds out that behind the friendly facade, there\u2019s enormous pressure because Mental Systems is in a global race for the development of the first artificial general intelligence. With their amazing AI Virtua, they seem to be in the lead. But some are concerned about the rapid progress because it seems unclear whether the trust the management puts in Virtua is really justified. When a devastating hacker attack seems to have destroyed years of research and the lead of the AI safety team is gone missing, Daniel sets out on a quest to find out what really happened, and why. But will he be able to prevent a disastrous turn of events that could destroy the future of humanity?\n\nSome background:\n----------------\n\nI\u2019m a professional novelist with more than 50 books published in German under the [pen name \u201cKarl Olsberg\u201d](https://karl-olsberg.jimdo.com/english/). My first novel \u201cDas System\u201d about an out-of-control AI, published in 2007, became a national bestseller. At the time, I had no idea how an AI could really get out of control, so the novel was highly speculative science fiction. Since then, I have seen reality coming uncomfortably close to the scenarios in my books. Since my participation in the AI safety camp last year, my timeline expectation for AGI has shrunken significantly. VIRTUA is probably my most realistic AI novel yet. I still hope it will remain science fiction.\n\nAt the next AI safety camp, I\u2019ll lead a project with the goal of [developing realistic and detailed failure stories](https://docs.google.com/document/d/1U--XV5Cuu5lug1kIJLJGYYEaqvYrsUZV7d1Q7cDR_ss/edit?usp=sharing). If you\u2019re interested in collaborating, you can [apply here](https://aisafety.camp/) until January 19^th^.\n\n**Edit:** At about the same time I posted this, blaked has published an impressive post describing [his own experience with an LLM that \"hacked his mind\"](https://www.lesswrong.com/posts/9kQFure4hdDmRBNdH/how-it-feels-to-have-your-mind-hacked-by-an-ai) in a similar way to what happens to Jerry in the book."
+        }
+      }
+    }
+  }
+}

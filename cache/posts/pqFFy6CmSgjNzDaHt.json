@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "pqFFy6CmSgjNzDaHt",
+        "title": "Keltham's Lectures in Project Lawful",
+        "slug": "keltham-s-lectures-in-project-lawful",
+        "pageUrl": "https://www.lesswrong.com/posts/pqFFy6CmSgjNzDaHt/keltham-s-lectures-in-project-lawful",
+        "postedAt": "2025-04-01T10:39:47.973Z",
+        "baseScore": 86,
+        "wordCount": 585,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "Morpheus",
+          "slug": "morpheus"
+        },
+        "tags": [
+          {
+            "_id": "EmaCLRKb4baBFq4ra",
+            "name": "Dath Ilan",
+            "slug": "dath-ilan"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "7SwDQTmkovtTAxsNo",
+            "name": "Keltham",
+            "slug": "keltham"
+          },
+          {
+            "_id": "GQyPQcdEQF4zXhJBq",
+            "name": "List of Links",
+            "slug": "list-of-links"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "7SwDQTmkovtTAxsNo": 1,
+          "EmaCLRKb4baBFq4ra": 1,
+          "GQyPQcdEQF4zXhJBq": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "*(Not an April fools' joke)*\n\nIf anyone wants to return to one of Keltham's lectures, here's a list with links to all the lectures. In principle, one could also read these without having read the rest of [Project Lawful aka Planecrash](https://www.projectlawful.com/), I am not sure how easy it would be to follow though. I included short excerpts, so you can also find the sections in the [e-book](https://www.mikescher.com/blog/29/Project_Lawful_ebook).\n\nHappy reading/listening:\n\nValidity\n--------\n\n[Podcast Episode 9, minute 26](https://askwhocastsai.substack.com/p/planecrash-episode-9-mad-investor-d35)\n\n[Keltham takes their scrambling-time as a pause in which to think. It's been a long time, at least by the standards of his total life lived so far, since the very basics were explained to him.](https://www.projectlawful.com/posts/4582?page=6&per_page=100#reply-1660139)\n\nEvolution\n---------\n\n[Podcast Episode 15, minute 1](https://askwhocastsai.substack.com/p/planecrash-episode-15-mad-investor-799)\n\n[To make sure everybody starts out on the same page, Keltham will quickly summarize earlier conversations for the benefit of any harem members who might not have been in hearing range for it.](https://www.projectlawful.com/posts/4582?page=9&per_page=100#reply-1664295)\n\nNegotiation\n-----------\n\n[Podcast Episode 39, minute 8](https://askwhocastsai.substack.com/p/planecrash-episode-39-mad-investor-c32)\n\n[\"Never mind. For a start, today, I'm going to try to quickly review the way that dath ilani learn about negotiation -\"](https://www.projectlawful.com/posts/4582?page=24&per_page=100#reply-1729006)\n\nProbability 1\n-------------\n\n[Podcast Episode 73, minute 12](https://askwhocastsai.substack.com/p/planecrash-episode-73-project-lawful-513)\n\n[So now, hopefully, they're getting to the good part! Previous stuff was just sort of trying to show you what Law is at all, like with Validity.](https://www.projectlawful.com/posts/5508?page=6&per_page=100#reply-1742543)\n\nProbability 2\n-------------\n\n[Podcast Episode 82](https://askwhocastsai.substack.com/p/planecrash-episode-82-project-lawful-ffb)\n\n[\"Greetings, my esteemed co-researchers.](https://www.projectlawful.com/posts/5508?page=15&per_page=100#reply-1746942)\n\nUtility\n-------\n\n[Podcast Episode 107, minute 24](https://askwhocastsai.substack.com/p/planecrash-episode-107-project-lawful)\n\n[After that, he's got the time for another hour of Law before dinner, and after a Lesser Restoration the energy too, so next up is Utility.](https://www.projectlawful.com/posts/5508?page=39&per_page=100#reply-1761281)\n\nProbable utility\n----------------\n\n[Podcast Episode 110, minute 13](https://askwhocastsai.substack.com/p/planecrash-episode-110-project-lawful)\n\n[In his morning lecture, Keltham makes a further run at Utility](https://www.projectlawful.com/posts/5508?page=42&per_page=100#reply-1765772)\n\nCooperation 1\n-------------\n\n[Podcast Episode 112, minute 10](https://askwhocastsai.substack.com/p/planecrash-episode-112-my-fun-research)\n\n[Keltham, then, will jump ahead of Decision, to a lesser fragment of Coordination.](https://www.projectlawful.com/posts/5694?page=2&per_page=100#reply-1767371)\n\nCooperation 2\n-------------\n\n[Podcast Episode 117, minute 6](https://askwhocastsai.substack.com/p/planecrash-episode-117-my-fun-research)\n\n[So today he's going to try a lecture in Baseline, approaching some of the mathematics of Decision as is more complicated than the simple cases.](https://www.projectlawful.com/posts/5694?page=8&per_page=100#reply-1769874)\n\nReferences:\u202f[The Cartoon Guide to L\u00f6b's Theorem](https://www.lesswrong.com/posts/ALCnqX6Xx8bpFMZq3/the-cartoon-guide-to-loeb-s-theorem)\n\nGovernance\n----------\n\n[Podcast Episode 120, minute 1](https://askwhocastsai.substack.com/p/planecrash-episode-120-my-fun-research)\n\n[Keltham takes time to hang a first-level wizard spell, no point in missing any practice there either, and then announces an optional lecture on Civilization's Governance.](https://www.projectlawful.com/posts/5694?page=12&per_page=100#reply-1771782)\n\nTo hell with science\n--------------------\n\n[Podcast Episode 128](https://askwhocastsai.substack.com/p/planecrash-episode-128-to-hell-with)\n\n[The library-classroom is more crowded, now, but not overcrowded; it was built with this in mind.](https://www.projectlawful.com/posts/5785)\n\nTo earth with science\n---------------------\n\n[Podcast Episode 132](https://askwhocastsai.substack.com/p/planecrash-episode-132-to-earth-with)\n\n[Meanwhile in a totally different continuum - insofar as the word 'meanwhile' can mean anything when two continua are causally disconnected - which, in fact, it can't.](https://www.projectlawful.com/posts/5826)\n\nChemistry\n---------\n\n[Podcast Episode 134](https://askwhocastsai.substack.com/p/planecrash-episode-134-my-fun-research)\n\n[Actual chemistry lecture this morning!](https://www.projectlawful.com/posts/5694?page=17&per_page=100#reply-1784676)\n\nHow to relate to beliefs\n------------------------\n\n[Podcast Episode 136, minute 9](https://askwhocastsai.substack.com/p/planecrash-episode-136-my-fun-research)\n\n[Keepers-only lecture to Meritxell, Pilar, and Asmodia.](https://www.projectlawful.com/posts/5694?page=19&per_page=100#reply-1785837)\n\nReferences:\u202f[A Fable of Science and Politics](https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics), [Belief in Belief](https://www.lesswrong.com/posts/CqyJzDZWvGhhFJ7dY/belief-in-belief)\n\nThe alien maths of dath ilan\n----------------------------\n\n[Podcast Episode 138](https://askwhocastsai.substack.com/p/planecrash-episode-138-the-alien)\n\n[The Rule of Succession! This is sort of picking up the topic from last time about Science!, how to do statistical inference.](https://www.projectlawful.com/posts/5864)\n\nWhat the truth can destroy\n--------------------------\n\n[Podcast Episode 146](https://askwhocastsai.substack.com/p/planecrash-episode-146-what-the-truth)\n\n[From one perspective, it's surprising that the first Keltham-induced break outside of Carissa Sevar occurs inside of Pilar Pineda.](https://www.projectlawful.com/posts/5930)\n\nReferences:\u202f[The bottom line](https://www.lesswrong.com/posts/34XxbRFe54FycoCDw/the-bottom-line)\n\nLecture on wants\n----------------\n\n[Podcast Episode 148, minute 42](https://askwhocastsai.substack.com/p/planecrash-episode-148-what-the-truth)\n\n[Keltham holds forth today on the answer to a question Pilar asked him a while ago, about dath ilan's view on what people should want, and how they should want it.](https://www.projectlawful.com/posts/5930?page=4&per_page=100#reply-1801126)\n\nAcknowledgement\n===============\n\n*Thanks to* [*@Towards_Keeperhood*](https://www.lesswrong.com/users/towards_keeperhood?mention=user) *for paying me to compile this list.*"
+        }
+      }
+    }
+  }
+}

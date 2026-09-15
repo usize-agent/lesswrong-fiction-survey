@@ -1,0 +1,35 @@
+{
+  "_id": "Mg8AFz6n7wMqvsYTz",
+  "slug": "trouble-at-miningtown-prologue",
+  "title": "Trouble at Miningtown: Prologue",
+  "postedAt": "2025-04-24T19:09:10.105Z",
+  "baseScore": 19,
+  "wordCount": 1205,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Quinn",
+    "slug": "quinn-dougherty"
+  },
+  "tags": [
+    {
+      "_id": "7jaBCxPHRDfJppYws",
+      "name": "AI Sentience",
+      "slug": "ai-sentience"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "7jaBCxPHRDfJppYws": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

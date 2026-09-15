@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "hSeqgnc5CBJ643x9k",
+        "title": "Luminosity (Twilight fanfic) discussion thread",
+        "slug": "luminosity-twilight-fanfic-discussion-thread",
+        "pageUrl": "https://www.lesswrong.com/posts/hSeqgnc5CBJ643x9k/luminosity-twilight-fanfic-discussion-thread",
+        "postedAt": "2010-08-25T08:49:22.156Z",
+        "baseScore": 19,
+        "wordCount": 153,
+        "commentCount": 439,
+        "noIndex": false,
+        "user": {
+          "displayName": "FAWS",
+          "slug": "faws"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "GBpwq8cWvaeRoE9X5",
+            "name": "Fiction (Topic)",
+            "slug": "fiction-topic"
+          }
+        ],
+        "tagRelevance": {
+          "GBpwq8cWvaeRoE9X5": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "In the vein of the Harry Potter and the Methods of Rationality [discussion](/lw/2ab/harry_potter_and_the_methods_of_rationality/) [threads](/lw/2ie/harry_potter_and_the_methods_of_rationality/) this is the place to discuss anything relating to Alicorn's Twilight fanfic [Luminosity](http://www.fanfiction.net/s/6137139/1/Luminosity). The fanfic is also archived on Alicorn's own [website](http://luminous.elcenia.com/) <strike>(warning: white text on black background)</strike>.\n\nPrevious discussion is hidden so deeply within the first Methods of Rationality thread that it's difficult to [find](/lw/2ab/harry_potter_and_the_methods_of_rationality/29md?c=1&context=1#29md) even if you already know it exists.\n\nSimilar to how Eliezer's fanfic popularizes material from his sequences Alicorn is using the insights from her [Luminosity sequence](/lw/1xh/living_luminously/).\n\nSpoilers for the fanfic itself as well as the original novels need and should not be hidden, but spoiler protection still applies for any other works of fiction, except for Harry Potter and the Methods of Rationality chapters more than a week old so we can freely discuss similarities and differences.\n\nEDIT: Post-ginormous-spoiler discussion should go to the [second thread](/lw/2y6/luminosity_twilight_fanfic_part_2_discussion/). (If you have any doubt on whether you have reached the spoiler in question you have not.)"
+        }
+      }
+    }
+  }
+}

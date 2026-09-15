@@ -1,0 +1,35 @@
+{
+  "_id": "qB2CD7ay46qpthMPr",
+  "slug": "what-if-chinese-ai-becomes-misaligned-first",
+  "title": "What if Chinese AI becomes misaligned first?",
+  "postedAt": "2025-05-19T19:35:59.414Z",
+  "baseScore": 12,
+  "wordCount": 7215,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Arkhos Winter",
+    "slug": "arkhos-winter"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "kdbs6xBndPkmrYAxM",
+      "name": "Politics",
+      "slug": "politics"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "kdbs6xBndPkmrYAxM": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

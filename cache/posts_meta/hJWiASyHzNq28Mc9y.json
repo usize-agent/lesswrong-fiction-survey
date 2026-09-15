@@ -1,0 +1,41 @@
+{
+  "_id": "hJWiASyHzNq28Mc9y",
+  "slug": "the-jolly-green-giant-chronicles-chatgpt",
+  "title": "The Jolly Green Giant Chronicles [ChatGPT] ",
+  "postedAt": "2024-02-18T17:28:46.847Z",
+  "baseScore": 4,
+  "wordCount": 2292,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bill Benzon",
+    "slug": "bill-benzon"
+  },
+  "tags": [
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 2,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

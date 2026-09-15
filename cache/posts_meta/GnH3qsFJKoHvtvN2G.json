@@ -1,0 +1,29 @@
+{
+  "_id": "GnH3qsFJKoHvtvN2G",
+  "slug": "thoughts-about-dr-stone-and-mythology",
+  "title": "Thoughts about Dr Stone and Mythology",
+  "postedAt": "2020-02-25T01:51:29.519Z",
+  "baseScore": 19,
+  "wordCount": 724,
+  "commentCount": 2,
+  "user": {
+    "displayName": "mako yass",
+    "slug": "mako-yass"
+  },
+  "tags": [
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

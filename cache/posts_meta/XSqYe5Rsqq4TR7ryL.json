@@ -1,0 +1,23 @@
+{
+  "_id": "XSqYe5Rsqq4TR7ryL",
+  "slug": "the-finale-of-the-ultimate-meta-mega-crossover",
+  "title": "The Finale of the Ultimate Meta Mega Crossover",
+  "postedAt": "2009-09-20T17:21:08.994Z",
+  "baseScore": 55,
+  "wordCount": 114,
+  "commentCount": 107,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

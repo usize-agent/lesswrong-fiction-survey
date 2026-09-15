@@ -1,0 +1,23 @@
+{
+  "_id": "YHoDrqBzwJnreEBrv",
+  "slug": "before-the-machine-stops",
+  "title": "Before the Machine Stops",
+  "postedAt": "2026-03-07T22:46:38.133Z",
+  "baseScore": 1,
+  "wordCount": 6,
+  "commentCount": 0,
+  "user": {
+    "displayName": "W.X.",
+    "slug": "w-x"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "xSJrexMzs2HbAYBpB",
+  "slug": "the-tick-in-my-back",
+  "title": "The tick in my back",
+  "postedAt": "2026-02-27T21:49:26.727Z",
+  "baseScore": 12,
+  "wordCount": 1300,
+  "commentCount": 0,
+  "user": {
+    "displayName": "benjamin ar",
+    "slug": "benjamin-ar"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "fkABsGCJZ6y9qConW": 1
+  }
+}

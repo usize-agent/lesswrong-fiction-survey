@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "xcJj2zjyDDjgtZy2y",
+        "title": "You're a Space Wizard, Luke",
+        "slug": "you-re-a-space-wizard-luke",
+        "pageUrl": "https://www.lesswrong.com/posts/xcJj2zjyDDjgtZy2y/you-re-a-space-wizard-luke",
+        "postedAt": "2024-08-18T05:35:39.238Z",
+        "baseScore": 58,
+        "wordCount": 481,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "\"My father didn't fight in the wars. He was a navigator on a spice freighter,\" said Luke.\n\n\"That's what your uncle told you. Basic security protocol. You don't tell a young child sensitive information about your participation in an ongoing civil war. Which reminds me. I have here something for you. Your father wanted you to have this, when you were old enough. But your uncle wouldn't allow it. Quite sensibly, in my opinion. He feared what you might do with it,\" said Obi-Wan.\n\nObi-wan dug through a chest and withdrew a textured metal cylinder with an activator button. \"What is it?\" asked Luke.\n\n\"Your father's lightsaber. This is a weapon of a Jedi Knight. Not as arbitrary or nonsensical as a blaster,\" said Obi-Wan.\n\n\"Does that imply\u2026?\" asked Luke.\n\n\"You're a space wizard, Luke.\"\n\nLuke activated the lightsaber, making sure to keep the emitter pointed away from his face.\n\n\"An elegant weapon, from a more civilized age,\" said Obi-Wan.\n\n\"I'm confused,\" said Luke, \"Just how old is this thing? Bringing a melee weapon to a blaster fight sounds like suicide. Can I block blaster bolts with it?\"\n\n\"Of course not,\" said Obi-Wan, \"I mean, it's theoretically possible. But I advise against it. The reflexes necessary to do so reliably are beyond the limits of human biology.\"\n\n\"Does it have magic powers then?\" said Luke, \"That's how the story is supposed to go when the wise old mentor gives a rod-shaped weapon to the young hero. I wonder how old that is. Did our simian ancestors tell stories about magic sticks?\"\n\nObi-Wan leaned forward, as if he was about to share the most important secret in the universe.\n\n\"When you activate this lightsaber\u2026\" Obi-Wan said.\n\n*Yes.* Luke leaned forward until his nose almost touched Obi-Wan's.\n\n\"\u2026everything around you will follow the laws of physics,\" Obi-Wan finished.\n\nSome narrative instinct deep in his brainstem caused Luke to gasp. Then disappointment washed over his face as his frontal cortex processed the literal meaning of what Obi-Wan was saying.\n\n\"But everything ALWAYS follows the laws of physics,\" objected Luke, \"That's not even a law of science. It's a tautology. Physics is DEFINED as the laws by which everything follows.\"\n\nObi-Wan smiled. \"In our deterministic Universe, a thorough understanding of physics is true power.\"\n\n\"You're wrong, you crazy old man,\" said Luke, \"Science alone is not sufficient to kill Vader and overthrow the Empire. I need a fleet. I need allies. I need industrial capacity.\"\n\n\"You need a heroic narrative,\" said Obi-Wan.\n\n\"Can I at least have a blaster?\" asked Luke.\n\n\"No,\" said Obi-Wan.\n\n\"Why not?\" asked Luke.\n\n\"Because when you're ready, you won't need one,\" said Obi-Wan.\n\nLuke rolled his eyes. \"How did my father die?\" asked Luke.\n\n\"Vader killed him,\" said Obi-Wan.\n\n\"I bet if my father had a ranged weapon instead of this glorified stick he might've killed Vader instead,\" said Luke.\n"
+        }
+      }
+    }
+  }
+}

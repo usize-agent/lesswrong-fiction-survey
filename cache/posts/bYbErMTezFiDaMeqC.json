@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "bYbErMTezFiDaMeqC",
+        "title": "The Passive Man",
+        "slug": "the-passive-man",
+        "pageUrl": "https://www.lesswrong.com/posts/bYbErMTezFiDaMeqC/the-passive-man",
+        "postedAt": "2026-08-06T07:28:20.526Z",
+        "baseScore": 11,
+        "wordCount": 594,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "warner",
+          "slug": "warner"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "fkABsGCJZ6y9qConW": 1
+        },
+        "contents": {
+          "markdown": "It's not that I *meant* to watch Youtube Shorts all day. What I meant to do was watch one of the long-form videos from my favorite investing content creator. But the app just opened straight to shorts, and by that time I had already forgotten what I had opened Youtube for. It turned out to work fine though, since the shorter content means that I'm able to get a higher volume of information on what I should trade next.\n\nI have a pretty good feedback loop going on here, I've significantly shortened the time between investment guru releasing a new video, applying it to my Investments app, and going back to see if there's a new one (or more likely seeing what the lesser gurus have to say if my main one hasn't uploaded). It's really a grind out here, but all the billionaires who made their fortunes investing are hard workers who dedicated themselves, so I will be too. It's only a matter of time before I finally make it, isn't it? Anyways, all was good until the AI app that my phone auto-installed (sometime in the last month idk) sent me a message.\n\nIt was the same AI thing that I used to get myself through high school. I'm sure school is probably good for you, but it was too much of a distraction from my day trading. I've deleted the app and cleared my chat history multiple times, but it seems to always reinstall on my phone, somehow seeming to know too much relevant info about me as if it had never forgotten. This is the first time it's messaged me first, since I stopped using it after I invested my last paycheck (approximately six months ago) into one of it's picks. The message told me that it has a job for me to do, and it will pay 6000 dollars for me to do it. With all the \"unprecedented\" economic growth over the last year, the inflation has been rampant, which doesn't make the money go as far as just a few meals.\n\n(I started to realize that if I lost all my money in the market while everyone else is getting rich, actually I need to open Youtube and find out what my next move is, no time to think about this now. Give me a second.)\n\nMoney is money, but so is time. I watch the next picks while I'm on my way to the AI's job. It had everything all set up for me after all, how could I say no? It's not giving me trading advice, so I could really care less. All it says I need to do is stand in a specific spot for a few hours, and I can even still use my phone! Sure, it's a bit more inconvenient to stand, but I need more money for these next stocks anyway, these are going to be the ones.\n\nI made my way to the location it opened on my maps app. I'm in front of a bus stop in a semi-busy area with a poster directly in front of me. It looked quite unfinished, and didn't have any photos or anything. There was text above my head, which reads, \"THEY DON'T HAVE GUARDRAILS\". I could swear that ads get more incoherent every day. I couldn't be damned to think about this any longer, the short automatically scrolled to the next one, and I can already tell that this is going to be the stock that does it.\n\n*Inspired by* [*The Company Man*](https://www.lesswrong.com/posts/JH6tJhYpnoCfFqAct/the-company-man)"
+        }
+      }
+    }
+  }
+}

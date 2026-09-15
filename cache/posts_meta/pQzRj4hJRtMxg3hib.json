@@ -1,0 +1,65 @@
+{
+  "_id": "pQzRj4hJRtMxg3hib",
+  "slug": "this-anime-storyboard-doesn-t-exist-a-graphic-novel-written",
+  "title": "This anime storyboard doesn't exist: a graphic novel written and illustrated by GPT4",
+  "postedAt": "2023-10-05T14:01:30.141Z",
+  "baseScore": 12,
+  "wordCount": 16573,
+  "commentCount": 7,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "iKYWGuFx2qH2nYu6J",
+      "name": "AI Capabilities",
+      "slug": "ai-capabilities"
+    },
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "L2cuwYAisTL3QF4TA",
+      "name": "DALL-E",
+      "slug": "dall-e"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "GBpwq8cWvaeRoE9X5": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "L2cuwYAisTL3QF4TA": 1,
+    "YWzByWvtXunfrBu5b": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "iKYWGuFx2qH2nYu6J": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

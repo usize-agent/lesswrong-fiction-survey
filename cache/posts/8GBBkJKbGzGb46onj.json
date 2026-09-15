@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "8GBBkJKbGzGb46onj",
+        "title": "Leo in me",
+        "slug": "leo-in-me",
+        "pageUrl": "https://www.lesswrong.com/posts/8GBBkJKbGzGb46onj/leo-in-me",
+        "postedAt": "2026-01-09T15:55:35.842Z",
+        "baseScore": -1,
+        "wordCount": 376,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "Rudaiba",
+          "slug": "rudaiba"
+        },
+        "tags": [
+          {
+            "_id": "5f5c37ee1b5cdee568cfb0d6",
+            "name": "Cached Thoughts",
+            "slug": "cached-thoughts"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "5f5c37ee1b5cdee568cfb0d6": 1
+        },
+        "contents": {
+          "markdown": "Do you ever wanna be Leonardo Da Vinci for a day?\n\nYou know, I was a Leo once\u2026I died.\n\nSee, some people aren\u2019t made for the world. The world is made for *you*. Not for Tesla. Not for Newton. Not for Einstein. Just you.\n\nOnce, A mother asked Einstein what her child should read. He said fairy tales. When she asked what comes after, he said more fairy tales.\n\nI used to read fairy tales. I used to imagine things before they had names. Ask questions without expecting answers. I thought that was how you learned to see.\n\nIdeas moved through my head as freely as the wind. I shuffled through subjects the way some people move through rooms. Everything felt connected. I didn\u2019t understand why I was supposed to stay in one place.\n\nBut the world doesn\u2019t like that. It likes clarity. It likes labels. It likes knowing what you are before you finish becoming it.\n\nIt didn\u2019t matter what I could do; I could have cured cancer, and it wouldn\u2019t have mattered. I didn\u2019t choose one thing. And not choosing was treated like a failure.\n\nPeople kept asking what I was going to be. Why I kept moving. Whether I was bored or scared. I wasn\u2019t. I just didn\u2019t see borders the way they did.\n\nI won a hundred times. I failed once. *Once*. I failed to choose.\n\nThat was enough; enough for me to forever be the issue, the one without a future. They made me sink down into myself. They made me believe their words, to see the world they picked.\n\nThat\u2019s how he died, the Leo in me.\n\n[![Story Pin image](https://substackcdn.com/image/fetch/$s_!LzH7!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39552023-b074-4b9f-a8b0-80adfa6d73cf_736x734.jpeg)](https://substackcdn.com/image/fetch/$s_!LzH7!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39552023-b074-4b9f-a8b0-80adfa6d73cf_736x734.jpeg)\n\nI grew older, learned how to focus. I studied. I did well. I picked a path that made sense to other people. I stopped looking around more than necessary.\n\nIn tenth grade, my mother saw my results and smiled. She was glowing with pride. She asked me what I wanted as a reward.\n\nI said nothing.\n\nTurns out, when you lose everything, you have nothing left to ask for. Even if the world learns to accept you, you can never go back. You can only go on. For them, for the world, in the path that was picked for you."
+        }
+      }
+    }
+  }
+}

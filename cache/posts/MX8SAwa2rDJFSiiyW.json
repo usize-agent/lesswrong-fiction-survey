@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "MX8SAwa2rDJFSiiyW",
+        "title": "Planecrash Podcast",
+        "slug": "planecrash-podcast",
+        "pageUrl": "https://www.lesswrong.com/posts/MX8SAwa2rDJFSiiyW/planecrash-podcast",
+        "postedAt": "2023-04-03T04:34:07.848Z",
+        "baseScore": 10,
+        "wordCount": 157,
+        "commentCount": 5,
+        "noIndex": false,
+        "user": {
+          "displayName": "planecrashpodcast",
+          "slug": "planecrashpodcast"
+        },
+        "tags": [
+          {
+            "_id": "vjKs7Pvz3MbgMc75C",
+            "name": "Audio",
+            "slug": "audio"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "vjKs7Pvz3MbgMc75C": 2,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "I used AWS' text-to-speech service to create a podcast out of [Eliezer's Planecrash Glowfix](https://www.lesswrong.com/posts/SA9hDewwsYgnuscae/projectlawful-com-eliezer-s-latest-story-past-1m-words).\n\nIt is available here: [https://anchor.fm/s/a48073e4/podcast/rss](https://anchor.fm/s/a48073e4/podcast/rss)  \n(You might need a podcast player which supports RSS links, such as Podcast Addict.)\n\nI already uploaded about 10 episodes of ~10 hours each. I plan to upload at least the whole [mad investor chaos and the woman of asmodeus](https://www.projectlawful.com/posts/4582) (which would make be 35 additional episodes), and maybe more if people are interested.\n\nI did not ask for anyone's permission, and I'm willing to shut it down or to give the credentials to the podcast account to someone else who owns the rights to this story.\n\n*This is not a high quality speech synthesis. What's more, converting a glowfic to an audio format is hard to do well. I've just inserted the characters' names between each section. Moreover, I never read the original work nor listened to the whole audio yet, so some paragraphs might be broken.*"
+        }
+      }
+    }
+  }
+}

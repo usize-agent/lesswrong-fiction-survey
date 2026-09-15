@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "cmidGgbxFxLrxh3nr",
+        "title": "Internal Memo from Bleggs Universal",
+        "slug": "internal-memo-from-bleggs-universal",
+        "pageUrl": "https://www.lesswrong.com/posts/cmidGgbxFxLrxh3nr/internal-memo-from-bleggs-universal",
+        "postedAt": "2021-06-12T16:44:22.912Z",
+        "baseScore": 25,
+        "wordCount": 952,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "kithpendragon",
+          "slug": "kithpendragon"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "**To:** Local Management Team; Regional Management Team\n\n**From:** Jake Bleggslee\n\n**Subject:** RE: Inventory Discrepancies\n\n**Attachment:** [Rolling Shutter Distortion Examples](https://www.google.com/search?q=rolling+shutter+distortion)\n\n----------\n\n  As you are all doubtless aware, the Inventory Check, like other components of the database control system it\u2019s part of, is prone to certain biases and errors.\n\nAlthough the numbers displayed in BleggsUniversal\u00ae Report Processing Software may be the\u00a0RealTruth\u2122, that isn\u2019t enough to cause them\u00a0to\u00a0actually be correct. This is a fact we collide with every so often, usually resulting in some minor frustration and a lot of excitement. Especially when we start to experience an edge case (such as when certain resources are more densely allocated at some facilities than others), the noisy nature of database management becomes more evident.\n\n  Before I continue: My intention here is not to excuse suboptimal habits and practices; those should certainly be addressed. Rather, I aim to add a little context and a little detail to the discussion from last night's meeting in order to help calibrate expectations for working with a database that is being expected to track as many different entities, and handle as many different situations from as many input sources as this one is. Hopefully we can decrease the amount of surprise and stress that tends to spread around whenever these edge cases come up.\n\n## Zooming Out: Lots of Access Points, Lots of Users\u00a0\n\n  So much is asked of any database system that must include components throughout the BleggsUniversal\u00ae Relocative Network, and that tracks the movements of everything from individual BleggsUniversal\u00ae Transport Trollies (which are treated as interchangable by almost every department, but tracked individually for Maintenance) to whole shipments riding in their interconnected (and individually trackable) BleggsUniversal\u00ae Linked Long External Transporters. Inventory Checks are one important process in the management of such a system. These reality checks work together with events originating in Sorting, Processing, Maintenance, and at every other computer terminal throughout the network to help the database reflect the real state of the physical systems it represents. All this comprises a constant effort to pump against the entropic tendency of all record keeping systems to decay into meaningless noise.\n\n  Each component of this effort is prone to its own biases and errors. For example: every time a user is asked to select an item from a list there\u2019s a chance that they will select the wrong item, resulting in (probably unrelated) data being changed and noise entering the database. Likewise, everywhere users enter data manually there\u2019s an increased risk for typos and transcription errors that can result in a different set of wrong records being changed, and can even end up creating new data altogether. Although some of these errors and biases can cancel each other out or correct for one another by design or chance, it\u2019s equally true that some combinations can actually make the system noisier in unexpectedly large ways. In the end, there\u2019s a certain amount of good data we can probably count on, and a certain amount of noise we have to work around every day.\n\n  Common daily issues such as computer failures,\u00a0miskeyed\u00a0entries, and the tendency of many communications systems to have low fidelity and high latency, all contribute to a (usually slight) uncertainty as to whether any given bit of information is actually correct at a given moment. Add to that the tendency of physical objects to get moved around without that movement necessarily being logged, the difficulty of keeping physical objects and database entries in a one-to-one relationship, &c.\n\u00a0\n## Zooming In: Inventory Checks\u00a0\n\n  There are a lot of ways in which an inventory check is like taking a snapshot of the facility; and it\u2019s subject to some of the same issues as producing a normal photograph. One example is the Rolling Shutter Effect. Due to the mechanical realities of opening and closing a shutter to expose film or a sensor evenly, many cameras actually have two shutters. The first slides away from the sensor and, after the exposure time has elapsed, the second chases it to cover the sensor in the same direction as it was exposed. In the extreme, only a narrow sliver of sensor is exposed at once in extremely high-speed shots. Because the exposure time is so much shorter than the time it takes for the shutters to move from one edge to the other, you can get some pretty gnarly images.\u00a0(see attached)\n\n  Since inventory checks are done one unit at a time without shutting down operations, you can get similar distortions in the data as units (especially the trollies) are moved around. Other issues are analogous to motion blur, thermal noise, even dust on the lens, but the point is that in all those situations the camera (and the Inventory Clerk)\u00a0are\u00a0accurately reporting what information is available to them at each instant, even though the resulting data is clearly distorted.\n\n  The bottom line is that no matter how careful we are, we should still be prepared for the Sacred Numbers of BleggsUniversal\u00ae Report Processing Software to have distortions and errors, sometimes big ones. It\u2019s important to make efforts to keep the database correlated with the facilities. And it\u2019s just as important to make other reality checks, and to anticipate certain kinds of distortion when deciding certain things (like if we have enough trollies in service at a particular location for the next few days, or if we need to move some from one facility to another to meet production needs), especially in cases where the normal amount of noise and distortion could overwhelm the real data.\n\nThank you sincerely for your time and thoughtful attention,\n\nJake Bleggslee\n\nOn-site Technician, Inventory Lead, Tour Guide, Mail Room Clerk, Sanitary Engineer\n\nNew Old-New Ridgeville Facility\n\nBleggsUniversal, a wholly owned subsidiary of Ersatz Inc.\n\n*\"We move bleggs\"*\n"
+        }
+      }
+    }
+  }
+}

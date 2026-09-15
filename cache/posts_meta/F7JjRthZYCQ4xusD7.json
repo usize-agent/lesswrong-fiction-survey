@@ -1,0 +1,29 @@
+{
+  "_id": "F7JjRthZYCQ4xusD7",
+  "slug": "bayeswatch-13-spaceship",
+  "title": "Bayeswatch 13: Spaceship",
+  "postedAt": "2021-10-12T21:35:45.925Z",
+  "baseScore": 80,
+  "wordCount": 310,
+  "commentCount": 4,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

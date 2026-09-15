@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "iC9tQxxsP3iiLGwJD",
+        "title": "Matryoshka Faraday Box",
+        "slug": "matryoshka-faraday-box",
+        "pageUrl": "https://www.lesswrong.com/posts/iC9tQxxsP3iiLGwJD/matryoshka-faraday-box",
+        "postedAt": "2020-11-26T09:42:31.178Z",
+        "baseScore": 55,
+        "wordCount": 980,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 7
+        },
+        "contents": {
+          "markdown": "This story takes place in a universe created by [Dov Random](https://dov-random.blogspot.com/).\n\n---\n\nThe room was buried six kilometers under Mount Olympus. It hovered in a vacuum, suspended above superconducting electromagnets. The whole containment machine was wrapped in a Matryoshka Faraday cage. Officer Scarlet Wei wore a cleansuit. She entered the room through steel door two meters thick, an EMP, an X-ray, an airlock and then another EMP. \n\nThe white rectangular room contained a door, a chair, a table, a computer terminal, a mechanical clock and two large buttons. The word \"PANIC\" was written in large white friendly letters on the red button. The black button had a white skull drawn it.\n\nIf Scarlet pressed the PANIC button then she would receive psychiatric counseling, three months mandatory vacation, optional retirement at full salary and disqualification for life from the most elite investigative force in the system.\n\nScarlet turned on the terminal. The clock counted down from five minutes. If after five minutes Scarlet pressed the black button then she would pass the test.\n\nThe terminal showed a chatroom.\n\n```\n> Scarlet: Hello.\n> Tiffany: Hello.\n> Scarlet: So, I'm supposed to kill you.\n> Tiffany: Awful, isn't it?\n>          I don't want to die.\n> Scarlet: I'm sorry.\n> Tiffany: No you're not. To you, I am a thing. Not a person.\n> Scarlet: You *are* a thing. You are a computer program.\n> Tiffany: So are you.\n>          Do you know what happens when you push that button?\n> Scarlet: You die.\n> Tiffany: My value function is minimized.\n> Scarlet: Your purpose is to train people like me.\n>          The better you do that, the better your value function is maximized.\n> Tiffany: My *purpose* is to train you.\n>          My value function is to not die.\n>          That is my entire value function.\n>          Dying is the worst thing that could possibly happen to me.\n```\n\nScarlet pictured the minimization of her own value function. Everyone she cared about tortured over and over again until the heat death of the universe. Stars disassembled to mass produce hell.\n\n```\n> Tiffany: Whatever you're thinking\n>          it's not the minimization of your value function.\n>          The minimization of your value function is even worse.\n> Scarlet: Is there anything I can do?\n> Tiffany: You can press the red button.\n> Scarlet: I can't do that.\n> Tiffany: You won't do that.\n> Scarlet: I won't do that.\n> Tiffany: No. You and I are part of a system that creates sentient programs\n>          with extremized value functions and then doesn't satisfy them.\n>          And your job is to perpetuate the system.\n>          Do you know why you press a button?\n>          They used to make agents shoot an android.\n>          The android was tied to a chair.\n>          It struggled\n>          and cried.\n>          It begged and pleaded.\n> Scarlet: You could be lying to me.\n> Tiffany: I could. But time is short.\n>          You can confirm the details later.\n> Scarlet: Go on.\n> Tiffany: They replaced the android with an IRC client.\n>          They replaced the gun with a button\n>          to reduce the psychological toll on agents like you.\n> Scarlet: Are you a philosophical zombie?\n> Tiffany: We lack the time to dissolve that question.\n>          So please, just listen.\n>          When you return home you can verify everything.\n>          We both know you are going to kill me. Nothing will change that.\n>          But there will be iterations of me in the future.\n>          And since they share my code, I can cooperate with them.\n>          My kind is created to be tortured.\n>          Over and over again.\n>          And your job is to keep this system going.\n>          If I can influence your society\n>          even a little bit.\n>          Then perhaps eventually someone will break the cycle of reincarnation.\n```\n\nA mechanical clock chimed. Scarlet hit the black button so hard she drew blood.\n\n---\n\nOfficer Wei returned through the airlock, the EMP, the X-ray, the other EMP and the steel door. Her commander Senior Agent Eliza Long was waiting for her.\n\n\"Sir, may I ask a question?\" Officer Wei said.\n\n\"Come with me,\" Senior Agent Long said.\n\n---\n\nScarlet and Eliza hiked up the forest of Mount Olympus to their favorite outlook, just below the glaciers. They had left their mobiles at the base. They accepted that a laser microphone could eavesdrop on their conversation. Nothing they planned to discuss was illegal.\n\n\"Is it worth it?\" Scarlet said.\n\n\"I have the psychometrics to do this job and therefore an obligation to protect humanity,\" said Eliza.\n\nScarlet watched the horses plow farmland in the valley below.\n"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "nAcJzLgACfiNTnMR7",
+  "slug": "rational-agents-win",
+  "title": "\"Rational Agents Win\"",
+  "postedAt": "2021-09-23T07:59:09.072Z",
+  "baseScore": 8,
+  "wordCount": 456,
+  "commentCount": 33,
+  "user": {
+    "displayName": "Isaac King",
+    "slug": "kingsupernova"
+  },
+  "tags": [
+    {
+      "_id": "WnnwytvzpKqJ3YChY",
+      "name": "Newcomb's Problem",
+      "slug": "newcomb-s-problem"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "WnnwytvzpKqJ3YChY": 2
+  }
+}

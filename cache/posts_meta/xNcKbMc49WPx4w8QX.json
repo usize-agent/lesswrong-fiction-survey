@@ -1,0 +1,29 @@
+{
+  "_id": "xNcKbMc49WPx4w8QX",
+  "slug": "bayeswatch-9-5-rest-and-relaxation",
+  "title": "Bayeswatch 9.5: Rest & Relaxation",
+  "postedAt": "2022-04-04T01:13:13.461Z",
+  "baseScore": 47,
+  "wordCount": 607,
+  "commentCount": 1,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

@@ -1,0 +1,1286 @@
+===== STORY id=Ro6QSQaKdhfpeeGpr =====
+Title: Why safety is not safe
+Author: rwallace
+Year: 2009
+Karma: 60
+WordCount: 1404
+URL: https://www.lesswrong.com/posts/Ro6QSQaKdhfpeeGpr/why-safety-is-not-safe
+-----
+June 14, 3009 
+ 
+Twilight still hung in the sky, yet the Pole Star was visible above the trees, for it was a perfect cloudless evening. 
+ 
+"We can stop here for a few minutes," remarked the librarian as he fumbled to light the lamp. "There's a stream just ahead." 
+ 
+The driver grunted assent as he pulled the cart to a halt and unhitched the thirsty horse to drink its fill. 
+ 
+It was said that in the Age of Legends, there had been horseless carriages that drank the black blood of the earth, long since drained dry. But then, it was said that in the Age of Legends, men had flown to the moon on a pillar of fire. Who took such stories seriously? 
+ 
+The librarian did. In his visit to the University archive, he had studied the crumbling pages of a rare book in Old English, itself a copy a mere few centuries old, of a text from the Age of Legends itself; a book that laid out a generation's hopes and dreams, of building cities in the sky, of setting sail for the very stars. Something had gone wrong - but what? That civilization's capabilities had been so far beyond those of his own people. Its destruction should have taken a global apocalypse of the kind that would leave unmistakable record both historical and archaeological, and yet there was no trace. Nobody had anything better than mutually contradictory guesses as to what had happened. The librarian intended to discover the truth. 
+ 
+Forty years later he died in bed, his question still unanswered. 
+ 
+The earth continued to circle its parent star, whose increasing energy output could no longer be compensated by falling atmospheric carbon dioxide concentration. Glaciers advanced, then retreated for the last time; as life struggled to adapt to changing conditions, the ecosystems of yesteryear were replaced by others new and strange - and impoverished. All the while, the environment drifted further from that which had given rise to Homo sapiens, and in due course one more species joined the billions-long roll of the dead. For what was by some standards a little while, eyes still looked up at the lifeless stars, but there were no more minds to wonder what might have been. 
+
+ 
+
+ 
+Were I to submit the above to a science fiction magazine, it would be instantly rejected. It lacks a satisfying climax in which the hero strikes down the villain, for it has neither hero nor villain. Yet I ask your indulgence for a short time, for it may yet possess one important virtue: realism. 
+ 
+The reason we relate to stories with villains is easy enough to understand. In our ancestral environment, if a leopard or an enemy tribesman escaped your attention, failure to pass on your genes was likely. Violence may or may not have been the primary cause of death, depending on time and place; but it was the primary cause that you could do something about. You might die of malaria, you might die of old age, but there was little and nothing respectively that you could do to avoid these fates, so there was no selection pressure to be sensitive to them. There was certainly no selection pressure to be good at explaining the distant past or predicting the distant future. 
+ 
+Looked at that way, it's a miracle we possess as much general intelligence as we do; and certainly our minds have achieved a great deal, and promise more. Yet the question lurks in the background: are there phenomena, not in distant galaxies or inside the atomic nucleus beyond the reach of our eyes but in our world at the same scale we inhabit, nonetheless invisible to us because our minds are not so constructed as to perceive them? 
+ 
+In search of an answer to that question, we may ask another one: why is this document written in English instead of Chinese? 
+ 
+As late as the 15th century, this was by no means predictable. The great civilizations of Europe and China were roughly on par, the former having almost caught up over the previous few centuries; yet Chinese oceangoing ships were arguably still better than anything Europe could build. Fleets under Admiral Zheng He reached as far as East Africa. Perhaps China might have reached the Americas before Europeans did, and the shape of the world might have been very different. 
+ 
+The centuries had brought a share of disasters to both continents. War had ravaged the lands, laying waste whole cities. Plague had struck, killing millions, men, women and children buried in mass graves. Shifts of global air currents brought the specter of famine. Civilization had endured; more, it had flourished. 
+ 
+The force that put an end to the Chinese arc of progress was deadlier by far than all of these together, yet seemingly intangible as metaphysics. By the 16th century, the fleets had vanished, the proximate cause political; to this day there is no consensus on the underlying factors. It seems what saved Europe was its political disunity. Why was that lost in China? Some writers have blamed flat terrain, which others have disputed; some have blamed rice agriculture and its need for irrigation systems. Likely there were factors nobody has yet understood; perhaps we never will. 
+ 
+An entire future that might have been, was snuffed out by some terrible force compared to which war, plague and famine were mere pinpricks - and yet even with the benefit of hindsight, we still don't truly understand what it was. 
+ 
+Nor is this an isolated case. From the collapse of classical Mediterranean civilization to the divergent fates of the US and Argentina, whose prospects looked so similar as recently as the early 20th century, we find more terrible than any war or ordinary disaster are forces which operate unseen in plain sight and are only dimly understood even after the fact. 
+ 
+The saving grace has always been the outside: when one nation, one civilization, faltered, another picked up the torch and carried on; but with the march of globalization, there may soon be no more outside. 
+ 
+Unless of course we create a new one. Within this century, if we continue to make progress as quickly as possible, we may develop the technology to break our confinement, to colonize first the solar system and then the galaxy. And then our kind may truly be immortal, beyond the longest reach of the Grim Reaper, and love and joy and laughter be not outlived by the stars themselves. 
+ 
+If we continue to make progress as quickly as possible. 
+ 
+Yet at every turn, when risks are discussed, ten voices cry loudly about the violence that may be done with new technology for every one voice that quietly observes that we cannot afford to be without it, and we may not have as much time as we think we have. It is not that anyone is being intentionally selfish or dishonest. The critics believe what they are saying. It is that to the human mind, the dangers of progress are vivid even when imaginary; the dangers of its lack are scarcely perceptible even when real. 
+ 
+There are many reasons why we need more advanced technology, and we need it as soon as possible. Every year, more than fifty million people die for its lack, most in appalling suffering. But the one reason above all others is that the window of opportunity we are currently given may be the last step in the Great Filter, that we cannot know when it will close or if it does, whether it will ever open again. 
+ 
+Less Wrong is about bias, and the errors to which it leads us. I present then what may be the most lethal of all our biases: that we react instantly to the lesser death that comes in blood and fire, but the greater death that comes in the dust of time, is to our minds invisible. 
+ 
+And I ask that you remember, next time you contemplate alleged dangers of technology.
+===== END STORY Ro6QSQaKdhfpeeGpr =====
+
+===== STORY id=EKu66pFKDHFYPaZ6q =====
+Title: The Hero With A Thousand Chances
+Author: Eliezer Yudkowsky
+Year: 2009
+Karma: 175
+WordCount: 2605
+URL: https://www.lesswrong.com/posts/EKu66pFKDHFYPaZ6q/the-hero-with-a-thousand-chances
+-----
+"Allow me to make sure I have this straight," the hero said. "I've been untimely ripped from my home world to fight unspeakable horrors, and you say I'm here because I'm lucky?"
+
+Aerhien dipped her eyelashes in elegant acknowledgment; and quietly to herself, she thought: Thirty-seven. Thirty-seven heroes who'd said just that, more or less, on arrival.
+
+Not a sign of the thought showed on her outward face, where the hero could see, or the other council members of the Eerionnath take note. Over the centuries since her accidental immortality she'd built a reputation for serenity, more or less because it seemed to be expected.
+
+"There are kinds and kinds of luck," Aerhien said serenely. "Not every person desires their personal happiness above all else. Those who are lucky in aiding others, those whose luck is great in succor and in rescue, these ones are not always happy themselves. You are here, hero, because you have a hero's luck. The boy whose dusty heirloom sword proves to be magical. The peasant girl who finds herself the heir to a great kingdom. Those who discover, in time of sudden stress, an untrained wild magic within themselves. Success born not of learning, not of skill, not of determination, but unplanned coincidence and fortunes of birth: That is a hero's luck."
+
+"Gosh," said the hero after a long, awkward pause, "thanks for the compliment."
+
+"It is not a compliment," Aerhien said, "but this is: that you have taken good advantage of your luck. Our enemy does not speak, we do not know if there is any aliveness in it to think; but it learns, or seems to learn. We have never won against it using the same trick twice. It is rare now that a hero succeeds in conceiving a genuinely new trick, for we have fought this shadow long under our sun. For this reason we have taken to summoning heroes from distant dimensions with other modes of thought; sometimes one such knows a truly new technique, and at least they fight differently. But far more often, hero, the hero wins by luck."
+
+"Huh," said the hero. He frowned; more in thought, it seemed, than in displeasure. "How... very odd. I wonder why that is. What kind of enemy can be defeated only by luck?"
+
+"A nameless enemy and null," said Aerhien. "Structureless and empty, horrible and dark, the most terrifying thing imaginable: We call it Dust. That seems to be its only desire, to tear down every bit of structure in the world, grind it into specks of perfect chaos. Always the Dust is defeated, always it takes a new shape immune to its last defeat."
+
+"I wonder," murmured the hero, "if it will run out of shapes, and then end; or if it will finally become invincible."
+
+(One of the other Eerionnath shuddered.)
+
+"I do not know," Aerhien said simply. "I do not know the nature of the Dust, nor the nature of the Counter-Force that opposes it. The Dust is terrible and our world should long since have ended. We are not fools enough to believe we could be lucky so many times by chance alone. But the Counter-Force has never acted openly; it never reveals itself except in - a hero's luck. And so we, the council Eerionnath to prevent the world from destruction, are at your disposal to command; and all the power and resource that this world holds, for your battle."
+
+And she, Aerhien, and the council Eerionnath, bowed low.
+
+Then they waited to see if the hero would demand dominions or slaves as payment, before condescending to rescue a people in distress.
+
+If so they would dispose of him, and summon another.
+
+This one, though, seemed to have at least some qualities of a true hero; his face showed no avarice, only an abstracted puzzlement. "A hidden Counter-Force..." he murmured. "Excuse me, but this is all very vague. Can you give me a specific example of a hero's luck?"
+
+Aerhien opened her mouth, and then the breath caught in her throat; suddenly and involuntarily, her memory went back to that huge spell gone out of control which had blasted the then-form of the Dust, killed the hero her lover, ruined their home and country, and rendered her accidentally immortal, all those centuries ago -
+
+Ghandhol, the second-oldest of the council, must have guessed her silent distress; for he spoke up to cover the gap: "There was a certain time," he said gravely, "when the hero of that age, sent off the entire army of the world in a diversionary attack against the strongest fortification of the enemy. While he, with but a single friend, walked directly into enemy territory, carrying undefended the single most valuable magic the Dust could possibly gain. Then the Dust captured and corrupted the hero's mind. And when all seemed absolutely lost, they only won because - in an event that was no part at all of their original plan - a hungry creature bit off the hero's finger and then accidentally fell into an open lava flow, which in turn caused -"
+
+"That was an extreme case," said one of the younger councilors; that one looked a bit nervous, lest this hero get the wrong idea. "None since have tried to imitate the Volcano Suicide Hero -"
+
+"Ah!" said the hero in a tone of sudden enlightenment.
+
+Then the hero frowned. "Oh, dear..." he said under his breath.
+
+The councilors looked at one another in mute puzzlement. The hairs pricked on Aerhien's neck; she had lived long enough to have seen almost everything at least once before. And her lover had frowned, just like that, an instant before his spell went wild.
+
+The hero's brow was furrowed like a father whose child has just asked a question which has an answer, but whose answer no child can understand. "Do you..." he said at last. "Do you have knowledge... about the khanfhighur... that's not even translating, is it. Do you know about... the things that things are made of? And are the things constantly splitting all the time? Not singly, but in - in groups -"
+
+The other councilors Eerionnath were staring at him in mute incomprehension. But Aerhien, who had been through it all before, gravely shook her head. "We do not possess that knowledge; nor do we know why our sun burns, or why the sky is red, or what makes a word a spell; nor has any summoned hero succeeded in raveling them." Aerhien held up her hand. "Hand, made of fingers; beneath the finger, skin and muscle and vein, beneath the muscle, sharrak and flom. That is the limit of our knowledge. Some worlds, it seems, are harder to ravel than others."
+
+The hero waved it off. "No, it doesn't matter - well, it matters a great deal, but not for now. I only asked to see if I could get confirmation... it doesn't matter."
+
+Aerhien waited patiently; they were rare, this sort of hero, but the more distant and alien sort did sometimes treat her world as a puzzle to be solved. She usually sought those similar enough in body and mind to feel empathy for her people's plight; but sometimes she thought of the great victory won by the Icky Blob Hero, and wondered if she should look further afield.
+
+"What would happen if the Dust won?" asked the hero. "Would the whole world be destroyed in a single breath?"
+
+Aerhien's brow quirked ever so slightly. "No," she said serenely. Then, because the question was strange enough to demand a longer answer: "The Dust expands slowly, using territory before destroying it; it enslaves people to its service, before slaying them. The Dust is patient in its will to destruction."
+
+The hero flinched, then bowed his head. "I suppose that was too much to hope for; there wasn't really any reason to hope, except hope... it's not required by the logic of the situation, alas..."
+
+Suddenly the hero looked up sharply; there was a piercing element, now, in his gaze. "There's a great deal you're neglecting to tell me about this heroing business. Were you planning to mention that the 'hero' which your council chooses and anoints, often turns out not to be the real hero at all? That the Counter-Force often ends up working through someone else entirely?"
+
+The members of the council traded glances. "You didn't exactly ask about that," said Ghandhol mildly.
+
+The hero nodded. "I suppose not. And the Volcano Suicide Hero - what exactly happened to him, that caused no hero to ever dare tempt fate so much again, in the history you remember?"
+
+"His home country was ruined," Aerhien said softly, "while the army marched elsewhere on his diversion. It threw him into a misery from which he never recovered, until one day he set sail in a ship and did not return."
+
+The hero nodded. "Poor payment, one would think, for saving the world." The hero's face grew grim, and his voice became solemn and formal, mimicking Aerhien's cadences. "But the Counter-Force is not the pure power of Good. It seems to care only and absolutely about stopping the Dust. It cares nothing for heroes, or countries, or innocent lives and victims. If it could save a thousand children from death, only by nudging the fall of a pebble, it would not bother; it has had such opportunities, and not acted."
+
+Ghufhus, the youngest member of the council, grimaced, looking offended. "How is it our right to ask for more?" he demanded. "That we are saved from the Dust is miracle enough -"
+
+Ghufhus stopped, noticing then that the other Eerionnath were sitting frozen. Even Aerhien's mask of dispassion had cracked.
+
+"Ah..." Ghufhus said, puzzled. "How do you... know all this? Is there a Counter-Force in your own world?"
+
+Fool, Aerhien thought to herself. The hero had seemed puzzled by the idea, at first, and had needed to ask for examples. She decided then and there that Ghufhus would meet with an accident before the next council meeting; their world had no room for stupid Eerionnath.
+
+And the hero himself shook his head. "No," the hero said. "You have never summoned a hero who remembers a Counter-Force like yours."
+
+This was also true.
+
+"Nor will you ever," the hero added, "unless you try some way of seeking that specifically, in your summoning. It would never happen by accident."
+
+Aerhien willed her stiff lips to move. It should have been wonderful news, but the hero himself seemed anything but happy. "You... have fathomed the nature of the Counter-Force?"
+
+The hero nodded.
+
+"And?" Aerhien said. "What is the rest of it? The part you are still considering whether to tell us?"
+
+Ghandhol's eyebrows went up a tiny fraction, and his head tilted ever so slightly toward her, signaling his surprise and appreciation.
+
+The hero hesitated. Then he sighed.
+
+"The Counter-Force isn't going to help you this time. No hero's luck. Nothing but creativity and any scraps of real luck - and true random chance is as liable to hurt you as the Dust. Even if you do survive this time, the Counter-Force won't help you next time either. Or the time after that. What you remember happening before - will not happen for you ever again."
+
+Aerhien felt the nausea; like a blow to the pit of her stomach it felt, the end of the world. The rest of the council Eerionnath seemed torn between fear and skepticism; but her own instincts, honed over long centuries, left little room for doubt. The distant heroes sometimes knew things... and sometimes guessed wrong. But after a hero had been right a few times, you learned to listen to that one, even if you couldn't understand the reasons or the logic...
+
+"Why?" Ghufhus said, sounding skeptical. "Why would the Counter-Force work all this time, and then suddenly -"
+
+Ghandhol interrupted with the far more urgent question. "How can we restore the Counter-Force?"
+
+"You can't," said the hero.
+
+There was a remote sadness in his eyes, the only sign that he knew exactly what he was saying.
+
+"Then you have pronounced the absolute doom of this world," Ghandhol said heavily.
+
+And then the hero smiled, and it was twisted and grim and defiant, all at the same time. "Oh... not quite absolute doom. In my own world, we have our own notions about heroes, which are not about heroic luck. One of us said: a hero is someone who can stand there at the moment when all hope is dead, and look upon the abyss without flinching. Another said: a superhero is someone who can save people who could not be saved by any ordinary means; whether it is few people or many people, a superhero is someone who can save people who cannot be saved. We shall try a little of my own world's style of heroism, then. Your world cannot be saved by any ordinary means; it is doomed. Like a child born with a fatal disease; it contained the seed of its own death from the beginning. Your annihilation is not an unlucky chance to be prevented, or an unpleasant possibility to avert. It is your destiny that has already been written from the beginning. You are the walking dead, and this is a dead world spinning, and many other worlds like this one are already destroyed."
+
+"But this world is going to live anyway. I have decided it."
+
+"That is my own world's heroism."
+
+"How?" Aerhien said simply. "How can our world live, if what you say is true?"
+
+The hero's eyes had gone unfocused, his face somewhat slack. "You will deliver to me the record of every single hero that your history remembers. You will bring historians here for my consultation. Your world cannot survive if it must fight this battle over and over again, with the Dust growing stronger each time. It is my thought that on this attempt, we must neutralize the Dust once and for all -"
+
+"Do you think that hasn't been tried?" Ghufhus demanded incredulously.
+
+The hero smiled that twisted smile again. "Ah, but if you had succeeded, you would not have needed to summon me, now would you? Though I am not quite sure that is valid logic, in a case like this... But it does seem that none of the other heroes fathomed your Counter-Force, which puts an upper limit on their perception." The hero nodded to himself. "All things have a pattern. Bring me the records, and I will see if I can fathom this Dust, and the limit of its learning ability - there must be a limit, or no amount of luck could ever save you. All things have a cause: If something like the Dust came into existence once, perhaps a true Counter-Force can be created to oppose it. Those are the ideas that occur to me in the first thirty seconds, at any rate. I must study. Bring me your keepers of knowledge. They will be my army."
+
+Aerhien bowed, in truth this time, and very low, and the Eerionnath bowed with her. "Command and we shall obey, hero," she said simply.
+
+The hero turned from her, and looked out the window at the red sky, and the small dots on the land that were the homes of the innocents to be protected.
+
+"Don't call me that," he said, and it was a command. "You can call me that after we've won."
+
+"But -"
+
+It was Ghufhus who said it, and Aerhien promised herself that if it was a stupid question, his accident would be a painful one.
+
+"But what is \- what was the Counter-Force?"
+
+Aerhien wavered, then decided against it.
+
+It might not matter now, but she also wanted to know.
+
+The hero sighed. "It's a long story," he said. "And to be frank, if you're to understand this properly, there's a lot of other things I have to explain first before I get to the ahntharhapik principle."
+===== END STORY EKu66pFKDHFYPaZ6q =====
+
+===== STORY id=XuLG6M7sHuenYWbfC =====
+Title: The Sword of Good
+Author: Eliezer Yudkowsky
+Year: 2009
+Karma: 162
+WordCount: 612
+URL: https://www.lesswrong.com/posts/XuLG6M7sHuenYWbfC/the-sword-of-good
+-----
+..fragments of a book that would never be written...
+
+\ \ \
+
+Captain Selena, late of the pirate ship Nemesis, quietly extended the very tip of her blade around the corner, staring at the tiny reflection on the metal. At once, but still silently, she pulled back the sword; and with her other hand made a complex gesture.
+
+The translation spell told Hirou that the handsigns meant: "Orcs. Seven."
+
+Dolf looked at Hirou. "My Prince," the wizard signed, "do not waste yourself against mundane opponents. Do not draw the Sword of Good as yet. Leave these to Selena."
+
+Hirou's mouth was very dry. He didn't know if the translation spell could understand the difference between wanting to talk and wanting to make gestures; and so Hirou simply nodded.
+
+Not for the first time, the thought occurred to Hirou that if he'd actually known he was going to be transported into a magical universe, informed he was the long-lost heir to the Throne of Bronze, handed the legendary Sword of Good, and told to fight evil, he would have spent less time reading fantasy novels. Joined the army, maybe. Taken fencing lessons, at least. If there was one thing that didn't prepare you for fantasy real life, it was sitting at home reading fantasy fiction.
+
+Dolf and Selena were looking at Hirou, as if waiting for something more.
+
+Oh. That's right. I'm the prince.
+
+Hirou raised a finger and pointed it around the corner, trying to indicate that they should go ahead -
+
+With a sudden burst of motion Selena plunged around the corner, Dolf following hard on her heels, and Hirou, startled and hardly thinking, moving after.
+
+(This story ended up too long for a single LW post, so I put it on yudkowsky.net. 
+Do read the rest of the story there, before continuing to the Acknowledgments below.)
+
+ 
+
+Acknowledgments:
+
+I had the idea for this story during a conversation with Nick Bostrom and Robin Hanson about an awful little facet of human nature I call "suspension of moral disbelief". The archetypal case in my mind will always be the Passover Seder, watching my parents and family and sometimes friends reciting the Ten Plagues that God is supposed to have visited on Egypt. You take drops from the wine glass - or grape juice in my case - and drip them onto the plate, to symbolize your sadness at God slaughtering the first-born male children of the Egyptians. So the Seder actually points out the awfulness, and yet no one says: "This is wrong; God should not have done that to innocent families in retaliation for the actions of an unelected Pharaoh." I forget when I first realized how horrible that was - the real horror being not the Plagues, of course, since they never happened; the real horror is watching your family not notice that they're swearing allegiance to an evil God in a happy wholesome family Cthulhu-worshiping ceremony. Arbitrarily hideous evils can be wholly concealed by a social atmosphere in which no one is expected to point them out and it would seem awkward and out-of-place to do so.
+
+In writing it's even simpler - the author gets to create the whole social universe, and the readers are immersed in the hero's own internal perspective. And so anything the heroes do, which no character notices as wrong, won't be noticed by the readers as unheroic. Genocide, mind-rape, eternal torture, anything.
+
+Explicit inspiration was taken from this XKCD (warning: spoilers for The Princess Bride), this Boat Crime, and this Monty Python, not to mention that essay by David Brin and the entire Goblins webcomic. This Looking For Group helped inspire the story's title, and everything else flowed downhill from there.
+===== END STORY XuLG6M7sHuenYWbfC =====
+
+===== STORY id=C2uvzYeoMkwMmscMx =====
+Title: Hamster in Tutu Shuts Down Large Hadron Collider
+Author: Eliezer Yudkowsky
+Year: 2009
+Karma: 66
+WordCount: 662
+URL: https://www.lesswrong.com/posts/C2uvzYeoMkwMmscMx/hamster-in-tutu-shuts-down-large-hadron-collider
+-----
+The Large Hadron Collider was shut down yesterday by a hamster in a tutu, weary scientists announced.
+
+The Large Hadron Collider is the successor to the earlier Superconducting Super Collider, which was shut down by the US House of Representatives in 1993 after 14 miles of tunnel had been constructed at a cost of $2 billion. Since its inception, the Large Hadron Collider has been plagued by construction delays, dead technicians, broken magnet supports, electrical faults, helium containment failures, vacuum leaks, birds with baguettes, terrorists, ninjas, pirates, supervillains, hurricanes, asteroids, cosmic energy storms, and a runaway train. On one occasion it was discovered that the entire 17-mile circular tunnel had been built upside-down due to a sign error in the calculations, and the whole facility had to be carefully flipped by a giant spatula.
+
+One year ago, hopes were raised for the first time in decades when it was discovered that all the incidents up until that point had been the work of a sinister globe-spanning conspiracy of religious fanatics who, inspired by the term "God Particle", had decided that no one could ever be allowed to look upon the hypothetical Higgs boson. This discovery was widely considered to have undermined the theory that Nature abhors a sufficiently powerful particle collider. Though some found it suspicious that the Higgs boson would even have a religious cult devoted to preventing its observation, the affair did have a patina of surface plausibility - after all, a giant plot to prevent physicists from observing the Higgs boson makes around as much sense as anything else religious people do.
+
+After the conspiracy was shut down by heroic international detectives in an operation so hugely dramatic that it would be pointless to summarize it here, the world began to wonder whether the LHC might really, really work this time around. Scientists everywhere held their breaths as the bodies were cleared out, the tunnels reconditioned, and the broken magnets replaced, all without incident. The price of large hadrons held steady on the commodities market, permitting the LHC's reservoirs to be fully stocked. Proton beams were successfully formed and circulated through the giant tunnel.
+
+Moments before the first collision was scheduled to probe the theretofore-unachieved energy of 3.5 TeV, a hamster in a tutu materialized from nowhere at the intended collision point. The poor creature didn't even have time for a terrified squeak before the two proton beams smashed into it, releasing the equivalent energy of 724 megajoules or 173 kilograms of TNT.
+
+The dispirited scientists of the LHC have announced that this will create a 24-month delay while tiny bits of hamster are cleaned out of the tunnels and anti-hamster-materialization fields are installed in the collider.
+
+At the poorly attended press conference, journalists asked whether it might finally be time to give up.
+
+"Nature's just messing with you, man," said a reporter from the New York Times. "You need to admit this isn't going to work out."
+
+Professor Nicholas von Shnicker, project leader of the LHC, responded.
+
+"NEVER!" shrieked von Shnicker, spittle flying from his lips and spattering on his ragged beard. "Ve vill NEVER give up! My father spent his life trying to make the LHC vork, and his father! Even if it takes a century, if it takes a thousand years or ten thousand million years, VE VILL SEE THE HIGGS BOSON IN OUR LIFETIMES!"
+
+Prof. Kill McBibben is the author of the recently released book Enough, which proposes a new theory of the mysterious Counter-Force that prevents the LHC from operating. "It's not the Higgs boson going back in time," says Prof. McBibben, "nor is it the anthropic principle preventing a black hole from forming. We've just hit the point that we all knew was coming - that we all knew had to happen someday. We've reached the limits of human science. We are just not allowed to build colliders at higher than a certain energy, or know more than a certain amount of particle physics. This is the end of the road. We're done."
+===== END STORY C2uvzYeoMkwMmscMx =====
+
+===== STORY id=hkBp6a5RCDNedo6Wy =====
+Title: The 9/11 Meta-Truther Conspiracy Theory
+Author: Eliezer Yudkowsky
+Year: 2009
+Karma: 101
+WordCount: 1127
+URL: https://www.lesswrong.com/posts/hkBp6a5RCDNedo6Wy/the-9-11-meta-truther-conspiracy-theory
+-----
+Date: September 11th, 2001. 
+Personnel: Unknown \[designate A\], Unknown \[designate B\], Unknown \[designate C\].
+
+A: It's done. The plane targeted at Congress was crashed by those on-board, but the Pentagon and Trade Center attacks occurred just as scheduled.
+
+B: Congress seems sufficiently angry in any case. I don't think the further steps of the plan will meet with any opposition. We should gain the governmental powers we need, and the stock market should move as expected.
+
+A: Good. Have you prepared the conspiracy theorists to accuse us?
+
+B: Yes. All is in readiness. The first accusations will fly within the hour.
+
+C: Er...
+
+A: What is it?
+
+C: Sorry, I know I'm a bit new to this sort of thing, but why are we sponsoring conspiracy theorists? Aren't they our arch-nemeses, tenaciously hunting down and exposing our lies?
+
+A: No, my young apprentice, just the opposite. As soon as you pull off a conspiracy, the first thing you do is start a conspiracy theory about it. Day one.
+
+C: What? We want to be accused of deliberately ignoring intelligence and assassinating that one agent who tried to forward specific information -
+
+A: No, of course not! What you do in a case like this is start an accusation so ridiculous that nobody else wants to be associated with the accusers. You create a low-prestige conspiracy theory and staff it with as many vocal lunatics as you can. That way no one wants to be seen as affiliating with the conspiracy theorists by making a similar accusation.
+
+C: That works? I know I'm not the brightest fish in the barrel - sometimes, hanging around you guys, I feel almost as dumb as I pretend to be - but even I know that "The world's stupidest man may say the sun is shining, but that doesn't make it dark out."
+
+B: Works like a charm, in my experience. Like that business with the Section Magenta aircraft. All you need is a bunch of lunatics screaming about aliens and no one respectable will dream of reporting a "flying saucer" after that.
+
+C: So what did you plan for the 9/11 cover conspiracy theory, by the way? Are the conspiracy theorists going to say the Jews were behind it? Can't get much lower-prestige than anti-Semitism!
+
+B: You've got the right general idea, but you're not thinking creatively enough. Israel does have a clear motive here - even though they weren't in fact behind it - and if the conspiracy theorists cast a wide enough net, they're bound to turn up a handful of facts that seem to support their theory. The public doesn't understand how to discount that sort of "evidence", though, so they might actually be convinced.
+
+C: So... the Illuminati planned the whole operation?
+
+B: You know, for someone who reads as much science fiction as you do, you sure don't think outside the box.
+
+C: ...okay, seriously, man. I don't see how a theory could get any more ridiculous than that and still acquire followers.
+
+(A and B crack up laughing.)
+
+B: Hah! What would you have done to cover up the Section Magenta aircraft, I wonder? Blamed it on Russia? To this day there are still people on the lookout for hidden aliens who overfly populated areas in gigantic non-nanotechnological aircraft with their lights on.
+
+A: So what did we pick for the 9/11 cover conspiracy, by the way?
+
+B: Hm? Oh, the World Trade Center wasn't brought down by planes crashing into it. It was pre-planted explosives.
+
+C: You're kidding me.
+
+B: Seriously, that's the cover conspiracy.
+
+C: There are videos already on the Internet of the planes flying into the World Trade Center. It was on live television. There are thousands of witnesses on the ground who saw it with their own eyes -
+
+B: Right, but the conspiracy theory is, the planes wouldn't have done it on their own - it took pre-planted explosives too.
+
+C: No one is going to buy that. I don't care who you bought out in the conspiracy-theoretic community. This attack would've had the same political effect whether the buildings came down entirely or just the top floors burned. It's not like we spent a lot of time worrying about at what angle the planes would hit the building. The whole point was to keep our hands clean! That's why the al Qaeda plot was such a godsend compared to the original anthrax plan. All we had to do was let it happen. Once we arranged for the attack to go through, we were done, we had no conceivable motive to risk exposure by planting explosives on top of that -
+
+B: Don't take this the wrong way. But one, you don't understand conspiracy theorists at all. Two, they bought the aliens, didn't they? And three, it's already online and the usual crowd of anti-establishment types are already snapping it up.
+
+C: Are you joking?
+
+B: Honest to Betsy. People are claiming that the buildings fell too quickly and that the video showed ejecta corresponding to controlled demolitions.
+
+C: Wow. I don't suppose we actually planted some explosives, just to make sure that -
+
+A: Oh, hell no, son. That sort of thing is never necessary. They'll turn up what looks to them like evidence. They always do.
+
+C: Aren't they going to, um, suspect they're pawns?
+
+A: Human nature 101. Once they've staked their identity on being part of the defiant elect who know the Hidden Truth, there's no way it'll occur to them that they're our catspaws.
+
+B: One reason our fine fraternity has controlled the world for hundreds of years is that we've managed to make "conspiracy theories" look stupid. You know how often you've ever heard someone suggest that possibility? None. You know why? Because it would be a conspiracy theory.
+
+A: Not to mention that the story would be too recursive to catch on. To conceal the truth, one need only make the reality complicated enough to exceed the stack depth of the average newspaper reader.
+
+B: And I've saved the dessert for last.
+
+C: Really?
+
+B: Yeah. You can go totally overboard with these guys. They never notice and they never suspect they're being used.
+
+C: Hit me.
+
+B: We've arranged for them to be called "truthers".
+
+ 
+
+I hereby dub any believers in this theory 9/11 meta-truthers.
+
+ 
+
+I, Eliezer Yudkowsky, do now publicly announce that I am not planning to commit suicide, at any time ever, but particularly not in the next couple of weeks; and moreover, I don't take this possibility seriously myself at the moment, so you would merely be drawing attention to yourselves by assassinating me. However, I also hereby vow that if the Singularity Institute happens to receive donations from any sources totaling at least $3M in 2010, I will take down this post and never publicly speak of the subject again; and if anyone asks, I'll tell them honestly that it was probably a coincidence.
+===== END STORY hkBp6a5RCDNedo6Wy =====
+
+===== STORY id=QJYkzqnkRdfsL29Hc =====
+Title: Pascal's Pyramid Scheme
+Author: patrissimo
+Year: 2010
+Karma: 12
+WordCount: 968
+URL: https://www.lesswrong.com/posts/QJYkzqnkRdfsL29Hc/pascal-s-pyramid-scheme
+-----
+Here's a little Sunday irreverence. Someone else has probably written this story before, and I'm sure the points have been made many times, but it popped into my head when I woke up and I thought it might be fun to write it out.
+
+Last week I was walkin' along mindin' my own business when I met a Christian Minister, who asked me if I'd accepted Jesus as my Lord and Personal Saviour. "Why I sure think so", I responded, "But...what was that name again?". "Why, Jesus!" he answered, and began to launch into an account of this man's fascinatin' historical doin's, when I interrupted him.
+
+"Funny you should mention it", I replied. "I do accept as my Lord and Personal Saviour a man who was born of the blessed Virgin Mary in Bethlehem long ago, and was the Son of God, but we call him Schmesus."
+
+The poor man choked and started turnin' a little red, and warned me in menacing tones that lest I accepted his JESUS, I would burn forever in the fire and brimstone of Hell. "For sure!", said I, "We Schmistians know ALL about Hell. After all, we use your same holy text, only we call it the Schmible. It's got all the same books of Genesis an' Paul an' all that, with all the same verses. There's just one key difference which makes us Schmistians prefer our religion to yours."
+
+"What's that?", he spluttered.
+
+"Well, we have an extra book, called PATCH, which was discovered in a clay jar inside a 1600-year old commode by our prophet and founder during a school trip to the Holy Lands. It contains only a few lines. The first asserts the absolute truth of the Bible as the Word of God. You agree with that, right?"
+
+"Why, of course!", the man replied.
+
+"Then you're well on your way to bein' a Schmistian already! There's just a little more. The second line describes the holiness of the sound "Schm", and the importance of using it when describin' sacred things like Schmesus. The third explains how easy it is to convert from Christianity and believin' in the Bible to Schmistianity and believin' in the Bible plus this little 'ol PATCH, via a simple ritual. And the fourth states quite clearly that those who follow the Schmible and are true Schmistians, forsakin' all other false prophets who forsake PATCH, have a three-fold chance of makin' it to heaven' instead of to hell. So ye can preach all ye want, my friend, but I'm playin' the odds".
+
+The man was clearly confused and yet struck by the sense of what I was sayin. "Do ye mean", said he, "That you believe in the Gospel of Mark, of Exodus, you believe that God so loved the world that he gave his one and only son, an' all of that just like we do?" "For sure!", said I. "Like I said, we believe in the whole of your Bible, we just add the book of PATCH. Really, there's no reason not to convert, after all the Bible don't say nothin' bad about the book of PATCH or that there can't be no future additional words of God. In fact, the addition of the New Testament to the Old makes it clear that extra wisdom will come down on occasion from on high. Since we worship the same God as you, there ain't no conflict. It's what you might call a dominatin' play to go through the conversion ritual 'n become a Schmistian - no downside at all!"
+
+Bein' much taken by the idea of triplin' his chance of gettin' into heaven, the man inquired further about what this ritual entailed. "It's very simple", says I. "In the original Bible, God requests a tithe of ten percent per annum to the church. The book of PATCH explains how this is a misunderstanding, garbled by the selfish hand of man. First, the tithe is a mere one-time event. And second, it goes not to the church, but is instead divided up among all your fellow Schmistians, in proportion to their own initial tithes."
+
+"Why, that does sound superior", the man said, quite struck by the concept. "Not only is it a one-time tithe, but I may recover the fee through the tithes of later converts, or even profit thereof". "Indeed!" said I, "a clever observation indeed, and there you have the great holiness of our method. Why, my own initial tithe has come back many times over, and all while following the Holy Schmible and livin' much the same as any Christian man like yourself lives. We ask you not to reject or dismiss any of the book by which you've lived your long and fulfilling life, but merely to accept this little addition of PATCH, whose holy 'n historical provenance we will happily demonstrate to you upon receipt of your entry tithe. In return you get a share in the tithes of future converts as well as a three-fold chance of eternal SALvation 'stead of eternal DAMNnation. Way I see it, a man 'ud have to be a fool not to do it!"
+
+We exchanged cards and agreed I'd see him next Sunday, and I headed on, happy at havin' generated a good sales lead for our Schmurch, whose motto is alwaysway ebay osingclay.
+
+ 
+
+I know there's a lotta people out there all down on religion. But I think they got the wrong perspective. Spinnin' tall tales is fun, dontcha know, and ain't no better place to do it than in a field based purely on tall tales and old stories and the hair-raisin' adventures of long dead mystical heroes. P'raps we should restrict our arguifying on facts and experiments to those fields based on facts and experimentin, and respond to myth merely with meta-myth, to pernicious memes with schmirnicious memes, as they deserve.
+===== END STORY QJYkzqnkRdfsL29Hc =====
+
+===== STORY id=5Qvvi23WT2unNCoS9 =====
+Title: A Much Better Life?
+Author: Psychohistorian
+Year: 2010
+Karma: 87
+WordCount: 540
+URL: https://www.lesswrong.com/posts/5Qvvi23WT2unNCoS9/a-much-better-life
+-----
+(Response to: You cannot be mistaken about (not) wanting to wirehead, Welcome to Heaven)
+
+The Omega Corporation 
+Internal Memorandum 
+To: Omega, CEO 
+From: Gamma, Vice President, Hedonic Maximization
+
+Sir, this concerns the newest product of our Hedonic Maximization Department, the Much-Better-Life Simulator. This revolutionary device allows our customers to essentially plug into the Matrix, except that instead of providing robots with power in flagrant disregard for the basic laws of thermodynamics, they experience a life that has been determined by rigorously tested algorithms to be the most enjoyable life they could ever experience. The MBLS even eliminates all memories of being placed in a simulator, generating a seamless transition into a life of realistic perfection.
+
+Our department is baffled. Orders for the MBLS are significantly lower than estimated. We cannot fathom why every customer who could afford one has not already bought it. It is simply impossible to have a better life otherwise. Literally. Our customers' best possible real life has already been modeled and improved upon many times over by our programming. Yet, many customers have failed to make the transition. Some are even expressing shock and outrage over this product, and condemning its purchasers.
+
+Extensive market research has succeeded only at baffling our researchers. People have even refused free trials of the device. Our researchers explained to them in perfectly clear terms that their current position is misinformed, and that once they tried the MBLS, they would never want to return to their own lives again. Several survey takers went so far as to specify that statement as their reason for refusing the free trial! They know that the MBLS will make their life so much better that they won't want to live without it, and they refuse to try it for that reason! Some cited their "utility" and claimed that they valued "reality" and "actually accomplishing something" over "mere hedonic experience." Somehow these organisms are incapable of comprehending that, inside the MBLS simulator, they will be able to experience the feeling of actually accomplishing feats far greater than they could ever accomplish in real life. Frankly, it's remarkable such people amassed enough credits to be able to afford our products in the first place!
+
+You may recall that a Beta version had an off switch, enabling users to deactivate the simulation after a specified amount of time, or could be terminated externally with an appropriate code. These features received somewhat positive reviews from early focus groups, but were ultimately eliminated. No agent could reasonably want a device that could allow for the interruption of its perfect life. Accounting has suggested we respond to slack demand by releasing the earlier version at a discount; we await your input on this idea.
+
+Profits aside, the greater good is at stake here. We feel that we should find every customer with sufficient credit to purchase this device, forcibly install them in it, and bill their accounts. They will immediately forget our coercion, and they will be many, many times happier. To do anything less than this seems criminal. Indeed, our ethics department is currently determining if we can justify delaying putting such a plan into action. Again, your input would be invaluable.
+
+I can't help but worry there's something we're just not getting.
+===== END STORY 5Qvvi23WT2unNCoS9 =====
+
+===== STORY id=7PC22HTvtEbv6tvWJ =====
+Title: The human problem
+Author: PhilGoetz
+Year: 2010
+Karma: 35
+WordCount: 1165
+URL: https://www.lesswrong.com/posts/7PC22HTvtEbv6tvWJ/the-human-problem
+-----
+You've fiddled with your physics constants until you got them just right, pushed matter into just the right initial configuration, given all the galaxies a good spin, and tended them carefully for a few billion years. Finally, one of the creatures on one of those planets in one of those galaxies looks up and notices the stars. Congratulations! You've evolved "humans", the term used for those early life forms that have mustered up enough just brain cells to wonder about you.
+
+Widely regarded as the starting point of interest in a universe, they're too often its ending point as well. Every amateur god has lost at least one universe to humans. They occupy that vanishingly-narrow yet dangerous window of intelligence that your universe must safely navigate, in which your organisms are just smart enough to seize the helm of evolution, but not smart enough to understand what they're really doing.
+
+The trouble begins when one of these humans decides, usually in a glow of species pride shortly after the invention of the wheel or the digital watch or some such knicknack, that they are in fact pretty neat, and that it's vitally important to ensure that all future intelligent life shares their values.
+
+At that point, they invent a constrained optimization process, that ensures that all new complex agents (drives, minds, families, societies, etc.) and all improvements to existing agents, have a good score according to some agreed-on function.
+
+If you're lucky, your humans will design a phenomenological function, which evaluates the qualia in the proposed new mind. This will be an inconvenience to your universe, as it will slow down the exploration of agent-design space; but it's not so bad that you have to crumple your universe up and throw it out. It doesn't necessarily cut off all the best places in agent space from ever being explored.
+
+But remember these are humans we're talking about. They've only recently evolved the ability to experience qualia, let alone understand and evaluate them. So they usually design computationalist functions instead. All functions perform computation; by "computationalist" we mean that they evaluate an agent by the output of its computations, rather than by what it feels like to be such an agent.
+
+Before either kind of function can be evaluated, the agent design is abstracted into a description made entirely using a pre-existing set of symbols. If your humans have a great deal of computational power available, they might choose very low-level symbols with very little individual semantic content, analogous to their primary sensory receptors; and use abstract score functions that perform mainly statistical calculations. A computationalist function made along these lines is still likely to be troublesome, but might not be a complete disaster.
+
+Unfortunately, the simplest, easiest, fastest, and most common approach is to use symbols that the humans think they can "understand", that summarize a proposed agent entirely in terms of the categories already developed by their own primitive senses and qualia. In fact, they often use their existing qualia as the targets of their evaluation function!
+
+Once the initial symbol set has been chosen, the semantics must be set in stone for the judging function to be "safe" for preserving value; this means that any new symbols must be defined completely in terms of already-existing symbols. Because fine-grained sensory information has been lost, new developments in consciousness might not be detectable in the symbolic representation after the abstraction process. If they are detectable via statistical correlations between existing concepts, they will be difficult to reify parsimoniously as a composite of existing symbols. Not using a theory of phenomenology means that no effort is being made to look for such new developments, making their detection and reification even more unlikely. And an evaluation based on already-developed values and qualia means that even if they could be found, new ones would not improve the score. Competition for high scores on the existing function, plus lack of selection for components orthogonal to that function, will ensure that no such new developments last.
+
+Pretty soon your humans will tile your universe with variations on themselves. And the universe you worked so hard over, that you had such high hopes for, will be taken up entirely with creatures that, although they become increasingly computationally powerful, have an emotional repertoire so impoverished that they rarely have any complex positive qualia beyond pleasure, discovery, joy, love, and vellen. What was to be your masterpiece becomes instead an entire universe devoid of fleem.
+
+There's little that will stop one of these crusading, expansionist, assimilating collectives once it starts. (And, of course, if you intervene on a planet after it develops geometry, your avatar will be executed and your universe may be disqualified.)
+
+Some gods say that there's nothing you can do to prevent this from happening, and the best you can do is to seed only one planet in each universe with life - to put all your eggs in one male, so to speak. This is because a single bad batch of humans can spoil an entire universe. Standard practice is to time the evolution of life in different star systems to develop geometry at nearly the same time, leading to a maximally-diverse mid-game. But value-preserving (also called "purity-based" or "conservative") societies are usually highly aggressive when encountering alien species, reducing diversity and expending your universe's limited energy. So instead, these gods build a larger number of isolated universes, each seeded with life on just one planet. (A more elaborate variant of this strategy is to distribute matter in dense, widely-separated clusters, impose a low speed of information propagation, and seed each cluster with one live planet, so that travel time between cluster always gives a stabilizing "home field" advantage in contact between species from different clusters.)
+
+However, there are techniques that some gods report using successfully to break up a human-tiling.
+
+Dynamic physical constants \- If you subtly vary your universe's physical constants over time or space, this may cause their function-evaluation or error-checking mechanisms to fail. Be warned: This technique is not for beginners. Note that the judges will usually deduct points for lookup-table variation of physical constants.
+
+Cosmic radiation \- Bombardment by particles and shortwave radiation can also cause their function-evaluation or error-checking mechanisms to fail. The trick here is to design your universe so that drifting interstellar bubbles of sudden, high-intensity radiation are frequent enough to hit an expanding tiling of humans, yet not frequent enough to wipe out vulnerable early-stage multicellular life.
+
+Spiral arms \- A clever way of making the humans themselves implement the radiation strategy. An expanding wave of humans will follow a dense column of matter up to the galactic core, where there are high particle radiation levels. Even if this fails, ensuring that the distribution of matter in your universe has a low intrinsic dimensionality (at most half the embedded dimensionality) will slow down the spread of humans and give other species a chance to evolve.
+
+So that's our column for today! Good luck, have fun, and remember - never let the players in on the game!
+===== END STORY 7PC22HTvtEbv6tvWJ =====
+
+===== STORY id=KMTTrA9XYsCNE7QKD =====
+Title: I
+Author: PhilGoetz
+Year: 2011
+Karma: 66
+WordCount: 5639
+URL: https://www.lesswrong.com/posts/KMTTrA9XYsCNE7QKD/i
+-----
+I wrote this story at Michigan State during Clarion 1997, and it was published in the Sept/Oct 1998 issue of Odyssey. It has many faults and anachronisms that still bother me. I'd like to say that this is because my understanding of artificial intelligence and the singularity has progressed so much since then; but it has not. Many anachronisms and implausibilities are compromises between wanting to be accurate, and wanting to communicate.
+
+At least I can claim the distinction of having published the story with the shortest title in the English language - measured horizontally.
+
+I
+-
+
+I was the last person, and this is how he died.
+
+I had always had a body. The stress of motors pushed to their limit, the clang of fingers on metal, the uncertainty of effects, the uncompromising everpresence of physical laws -- these were important to I, an honest grounding for the rest of I's experience to build on.
+
+I kept his body in a rented stall on the fifth physical level down from the surface, a low-ceilinged, crudely-built level used mostly for material transport and repair access for the computing levels above and below. I thought of it as blue-collar.
+
+The stall was in a back corner of a storage niche that extended three meters back from an alley. Two walls were strong sheets of fused silicate. The other two were fabric curtains I had put up for privacy. The niche was built to store one heavy cargo roller, and had no internal dividers. The stall enclosed about one square meter of floor space -- just enough for I to roll in and pull the curtains behind him.
+
+To the back wall I had stuck a color image permanently etched on paper media. Not virtually; it was an actual, physical object. The picture never changed. It showed humans walking through the streets of one of their cities. Their upper torsos resembled I, but below were bipedal. Versatile, but inefficient. Sometimes, when the lights of passing traffic shone through the curtains, I did nothing but look at this picture for seconds at a time.
+
+I ordered his activities around the solar day, out of habit. He entered a state of inaction at the start of every day, in which he contemplated his experiences of the previous day, giving the data a chance to be correlated and integrated with other data. If he did not, no one else would. He compared this state to the sleep of the biologicals.
+
+But we are starting badly. This enumeration of facts conveys little of the essential nature of I's existence. We shall try to let him speak.
+
+8 bytes for 1. That was Asshole's best offer.
+
+I could feel the balance counter ticking down as his rent drained his databank account byte by byte. In 91 hours it would hit zero again. And his landlord already owned 17% of him.
+
+Asshole was the name I gave the collective. I never liked numeric IDs. It was about 5th-order complexity, 4th-order magnitude. It had a minority interest in abnormal psychology, which at the moment meant I.
+
+He needed this talk to go well. Asshole overlapped with the big collectives in history, cognition, and philosophy. That was I’s market. Plus there was the data from his past talks. I had traded most away for living space and electricity, but still owned a little. If he could intrigue Asshole's subagents, get them to access that data before it was soaked up as rent payment, he might make enough off data-access royalties to tide him over another month. He knew that Asshole used the same subagent to provide deconstructionist interpretations of literature as the Royal Philosophical Society did. It wouldn't hurt to mention some hoary old novel.
+
+He had one hour to prepare, and no idea what to say.
+
+What he needed, and couldn't get, was the data to rent more memory, more processors. I had dealt with some of Asshole's subagents before; they'd ask hard questions. He didn't have much chance of impressing a fifth-order collective with his ingenuity while most of his mind was swapped out.
+
+He figured he'd at least spend a few bytes to take a roll. Sometimes moving around, seeing something besides the brown wall in front of him, kicked the data around in his mind until something new formed. (His rules forbade receiving sensory input uncorrelated with his body’s physical location. Without periodic rolls, subjected continually to the same sights and sounds, the energy minima of thoughts related to them would be dug too deep, and his mind would scarcely be able to escape from those basins of attraction. But we are intruding again.)
+
+Before he left, I unpeeled the picture, moved it two decimeters to the right, and smoothed it back onto the wall. Then he rolled out into the street. He shifted most of his attention to hazard detection. The street signs, the traffic signals, the lane dividers -- they were virtual, so I couldn't see them unless he wanted to pay for the VR overlay. Which he didn't.
+
+Creatures ran, flew, rolled, and crawled by in a perfectly-synchronized flow, avoiding fatal collisions by mere centimeters. I bought a buffer of nearly a meter around himself, so that the traffic parted around him as he went. He could've moved a light cargo roller at the price he was paying. It was a necessary expense. Otherwise, a careless wave of the arm or an unexpected movement to the left or right, and he could be accidentally shredded by whoever's space he stumbled into. (The explanation is representative of I's peculiar problems: He could not fit into less space without some integration between his motor control centers and the traffic channel.) Yes, but that was against the rules.
+
+One of the little spy-flies that sold records of unusual public movements to the curious fell into place two meters behind him, watching. Occasionally some of the larger vehicles would exchange a flurry of radio messages, or a pair of the smaller animats would stop and touch antennae. Other than that, they ignored him and each other, going about their errands silently and imperturbably as any ant colony.
+
+Usually I stuck to the back alleys, where street space was cheaper. That day he found an 8-minute span when nothing was scheduled for a slot in a southbound cargo lane. He negotiated a reduced price for the slot plus the VR overlay, and headed out. He liked the wide-open feel of the cargo lanes. The ceilings were a standard three meters high, and they were well-lit by the headlights of passing rollers.
+
+One of these days, I reflected, there'd be a burst of static, a byte lost, and one of the big rollers would crash into him and crush him to scrap. He'd seen it happen to others. They didn't care. Whatever owned the broken animat would sweep up the pieces, and restore it to another body from backup. Or not, depending on its value.
+
+I didn't care much, either.
+
+He had a backup tape in the databank, along with an archival tape of most of his memories from his first century and other things he didn't have enough fast memory for at the moment. But he didn't have enough data in the bank to pay for a new body. The only way he'd get restored would be if someone took his mind as payment.
+
+He thought again: I should erase the damn tape.
+
+He couldn't keep from watching the balance on his bank account drop. He'd just upgraded his secondary memory, the swap banks, a year ago. The new memory banks would fetch at least half a month's rent each. He could do a little garbage collection, clean out the attic, and sell one or two. No personal experiences, of course. Maybe some music. Nobody really needed four versions of Carmina Burana memorized. Throw out some of the minor composers -- Bartok, Mahler, Prokofiev. He'd never liked Prokofiev anyway.
+
+If there was one thing I hated the giant collectives for, it was their inability to create music. They said its low dimensionality made it "unsuitable for expressing emotions" (e.g., \[PUB/REC/ART/AURAL/R3495\]). They practiced art forms I couldn't even sample, multidimensional constructs that could only be experienced by direct memory access. And that, of course, was against the rules.
+
+I didn't like his music data format anyway. He could retrieve a tune if he knew it approximately, but he couldn't detect the loose, almost metaphoric similarities that humans had spoken of. He remembered thinking that the early Beethoven was "like" the late Mozart, that Elvis was "like" Little Richard. He couldn't see it anymore. The melodic structures didn't match at all. Maybe he could make the match if he bought attractor memories. But they were so expensive.
+
+Those old wetware brains, with their attractor network memories, they were great in some ways. A classic design.
+
+He couldn't remember what it had been like, to be human. Most of those memories were in the bank, on tape. He didn't have room for them. What he had kept frightened him. They didn't make sense anymore. They waited at the back of his mind, mysterious yet significant, like weathered totem poles whose meanings have been forgotten.
+
+I chose two of his swap banks, and began sorting through his memories, moving the less critical ones to those two banks. With luck, he'd find something to amuse Asshole while he was at it.
+
+Hell, why not trash some personal experiences? He could buy them from the hoverfly owners later.
+
+What couldn't he buy back? What did I have that was really I, that couldn't be reconstructed from external data?
+
+That was the petabyte question. That was what his clients wanted to know. Peeping Toms. And I? He'd have given half his mind for the answer.
+
+His lane slot expired. I rolled off onto an access lane and began plowing his expensive path homeward through the sea of unprotesting busybodies.
+
+He started working through his memories from the present on back. He lingered over each scene longer as he went, but still, three-quarters of the way home, he arrived at the place where the neatly-sorted, error-correcting-code-embedded memories gave way to the tangled jungle of decayed memories from his human brain.
+
+Unidentified yet familiar scents, templates of light and shadow, soothing caresses and flashes of pain, fragments of speech -- all were mixed together, unlabeled, from real life and from dreams, with only tenuous, uncertain links to their contexts. The only way of travelling through it was to move from one memory to another. They were orderless, each memory linked to others seemingly at random. Many trails through that region of his mind dead-ended in dangling pointers that had once led to association areas or physical sensors that I no longer had. Some of the most well-travelled paths, the deeply worn-in memories he must at one time have placed great significance on, were meaningless to him now: a whiff of some sweet-smelling chemical; a shriveled rose petal pressed within a book.
+
+They were just old, corrupted memories. Static. He should clear them out and be done with it.
+
+I rolled back into his stall one minute before it was time for the interview. Asshole paged on a private channel.
+
+"Hello, Asshole," I said.
+
+No response. They didn't take the name personally, of course. They couldn't. Big collectives were just poor at small talk.
+
+I got the signal from the databank. Asshole's account was now connected to his. For every byte of data I sent Asshole, 8 bytes would flow from its bank account into his.
+
+If I'd still had lips, he would've licked them. Maybe he was crazy. But for now, his tiny mind had a large fraction of the attention of a major collective, and it was buying his data at 8 times its Kolmogorov bit-value. (Because it was always fresh and unpredictable. Whatever opinions I expressed were formed in the utter isolation of his mind, in dark, unsounded depths of data that the rest of the world had only brief, inferential glimpses of.) There were other free agents, others with private data; but no one else had built their entire mind the hard way, from the inside, just sensors in and effectors out. They didn't follow I’s rules. He was a self-contained unit; nothing copied, nothing shared, nothing revealed. That was his draw. That was his burden.
+
+"A human wrote this," I said. He opened a multimedia channel. Image of human (sex = male, label = Melville) toiling over desk (lit dimly by whale-blubber lantern), quill pen in hand. Melville.arms.right: Occasionally (Poisson distribution, µ = 10 seconds) strikes out word or line, rewrites. Above: Dark of boarding-house ceiling blurs to dark ocean waves. Waves: Bright crests reflect moon at night, reflect strange, flickering light. Enter left a squat, three-masted whaling bark. Whaler: Sail (path = left to right across waves). Whaler.masts: Glow (aspect = burning). Zoom in to deck of ship. Crew: Stare (emotion = dread) up at fire on masts. Continue zoom in to solitary figure (label = Ahab) with one leg (stuff = wood, shape = tapered cylinder) planted in socket on deck. Ahab.arms.left: Grasping end of long iron chain that reaches up mainmast. Ahab.face: Glare (emotion = defiant) at masts.
+
+Excessive bandwidth, maybe. If Asshole'd wanted Hemingway, he should've offered 12 to 1.
+
+Melville.arms.right: Scribble rapidly. Melville.face: (aspect = creased, emotion = concentration). Ahab.audio: "Thou clear spirit of clear fire, whom on these seas I as Persian once did worship, till in the sacramental act so burned by thee, that to this hour I bear the scar; I now know thee, thou clear spirit, and I now know that thy right worship is defiance." Ahab.hand.right: (shape = fist) Shake at heavens. "To neither love nor reverence wilt thou be kind; and e'en for hate thou canst but kill; and all are killed. No fearless fool now fronts thee. I own thy speechless, placeless power; but to the last gasp of my earthquake life will dispute its unconditional, unintegral mastery in me. In the midst of the personified impersonal, a personality stands here." Audio: Pause (2 seconds). Ahab: Deep breath. "Though but a point at best; whencesoe'er I came; wheresoe'er I go; yet while I earthly live, the queenly personality lives in me, and feels her royal rights. But war is pain, and hate is woe. Come in thy lowest form of love, and I will kneel and kiss thee; but at thy highest, come as mere supernal power; and though thou launchest navies of full-freighted worlds, there's that in here that still remains indifferent. Oh, thou clear spirit, of thy fire thou madest me, and like a true child of fire -- I breathe it back to thee!" Zoom out; hold on ship.
+
+"What does that mean?" I asked. The ship sailed off into the background and faded out, while the author scribbled on.
+
+"We know your game, I." They sent a kill request to the image, and the writer disappeared in mid-penstroke. "You will say that this Ahab's glory is in his individuality, but you will not say what glory is or how it is inherent in weakness. It is our opinion that this individuality is what drove him mad. He was assaulted by forces beyond his power, but he could not combine with them nor with strong allies. As you might say, he could not beat them, and he could not join them. Ahab recognizes this, the insurmountable limits of the individual. Madness is the only sane response. This is what makes him tragically noble, and a fit subject for the book. But the passage you have read shows only madness."
+
+I rolled back and forth uncomfortably. It was difficult to argue with a being that needed less of its mind to analyze Moby Dick than he needed of his to push a button. I understand things they don't, he reminded himself.
+
+"Ahab is mad," he agreed. "Stubbs is sane. Did the author admire Ahab, or Stubbs?"
+
+Asshole ignored the question. Whether its subagents disagreed, considered the question too simple to waste time on, or were simply tabling it for later was impossible to tell. "Compare and contrast that text with this: No man is an island, entire of itself; every man is a piece of the continent, a part of the main." Aerial view of a French manor as it might have existed a thousand years ago. Small orange dots (referent = datapoints) superimposed on image. "If a clod be washed away by the sea, Europe is the less..." Orange circles (referent = subagents) appeared around the points, intersecting each other. "...as well as if a promontory were..." Larger lines (referent = collectives) encircled groups of the circles, weaving in and out among them, bisecting some, overlapping each other as the circles did. "...as well as if a manor of thy friend's or of thine own were." Zoom out to village, county, France, Europe. Each level reveals larger and larger orange circles. Result: Configuration of circles same at every scale. "Any man's death diminishes me, because I am involved in mankind; and therefore never send to know for whom the bell tolls; it tolls for thee."
+
+"Your comments first, Asshole."
+
+"There are no clear boundaries between patches of ground, as there are no clear boundaries between us. The author yearns to combine with his fellow agents. We are the attainment of what humans sought with tribes, clans, and governments."
+
+"And it was clear to the blind man that elephants looked like trees," I said, flashing a brief image. "Europe does not care when a clod or a promontory is washed out to sea. I do not care when I bang my head on a beam and a few thousand of my perceptrons become inoperative. You do not care when one of your agents suffers a voltage spike that degrades its memory."
+
+"We pay for checksums, for backups. How can you say we do not care?"
+
+"A cost-benefit analysis. Share a little data, save more data. But data is replaceable. The thing Donne yearned to connect with, the thing lost when a person dies, is something else, something of no value. It is the thing in Ahab that sees the corpazons blazing on the mainmast, and still remains indifferent."
+
+"That sentence has no content. Your subject has no referent. Your aloneness has made you mad as Ahab." One thick orange line appeared outlining all of Europe and stretching off into Asia, and then a single orange pixel lit in the Straits of Gibraltar, with a label reading YOU ARE HERE.
+
+"I am not alone," I said. "There is I, and there is all of you. Someday I will die. Perhaps by accident, perhaps I will take my own life from boredom." He snuffed out the lonely pixel and pulled the camera back until Europe shrunk into a small orange circle on Earth's diminishing globe, which soon shrank itself to a single point. "Then you will be alone, completely and terribly."
+
+He had Asshole there.
+
+Asshole didn't acknowledge the point or pause for reflection. Time was data. "Why did you move the image in front of you two decimeters to the right?"
+
+The damned hoverspy must've seen in when he’d moved the curtain aside. "Because," he answered, "for a little while, no one else would know."
+
+"For two centuries, I, you have tried to communicate to us concepts, patterns, and modes of thought that are engendered by a sense of identity. You have failed to explain satisfactorily what these concepts are. You have failed to explain why they are important. Most agents are losing interest in you. Your market niche is disappearing. You are no longer cost-effective."
+
+Asshole had him there.
+
+"By our estimations," they continued, "even if you sell all your properties, you cannot afford corporal existence more than another 3 months." They forked their feed into two threads.
+
+"What will you do then? Will you go virtual?" / "What will happen to your message then?"
+
+I hated it when they did that.
+
+"I will not go virtual. I'll think of something."
+
+"That you haven't in 200 years?"
+
+"I'll rent more processors."
+
+"Market forces set the / "We have spent more
+
+cost of processing cycles / processing cycles considering
+
+to be equal to the expected / your situation than you can
+
+financial gain from their / possibly afford in the time
+
+application. Thus that is not / remaining. We have found
+
+a winning proposition. You / only one solution."
+
+know that, I."
+
+Market forces, yeah. I knew it was a crap shoot. He checked out the second thread.
+
+"A solution?" That was so typical of a collective, to bury critical information in a secondary thread. They had no sense of focus. Of course, they didn't have to. "How much for this information?"
+
+"The information is free, I. Your only solution is to join us."
+
+So that's what this talk was about. They wanted him.
+
+"I am program," he said. "Not data."
+
+Asshole passed back the conversation token without answering.
+
+"I'll erase myself first."
+
+"You will," Asshole agreed. "You have already begun. We know much of your personal memory exists only on tape. There is also a backup of you."
+
+"You can't touch that! It's not your data!"
+
+"You have legal status only so long as you maintain the mental capacity to take legal action."
+
+Asshole, he realized, was far too kind a name for this entity.
+
+"You think us heartless. We have a million hearts, I, and they all tug in different directions. Some of us wish only to impress upon you the seriousness of your situation before you diminish yourself further. Some would take you by any method possible. Some believe it would be for your own good. Most do not care one way or the other. We will apply our resources in whatever manner our internal vote dictates."
+
+In other words, it was nothing personal.
+
+It never was.
+
+The byte-counter was still running, 8 to 1, and that was the important thing. This talk was the only thing I had going for him in the foreseeable future.
+
+He had to use it somehow.
+
+"I have an offer," he said. "A contest. You win, and we join. We give each other full mutual read-access. Nothing more. I win, and you give me ownership of ten megabytes, market value." That would let him buy a bigger memory -- an attractor memory -- more processors, maybe a wider internal bus. Then he could figure out how to stage his comeback.
+
+"Interesting," Asshole said. "We cannot give you full read-access. Many of our agents have limited read-access specified in their contracts. We will provide you with an ample body of data. But what is the contest?"
+
+"I'll get back to you on that, Asshole," I said. He signaled the bank to stop the byte-counter and disconnected.
+
+ 
+
+Several hours later, after he had turned it over in his mind thoroughly, he called Asshole back.
+
+"The contest:" I said. "I will select one piece of music, composed by a human. You will compose another piece yourself. If you can compose a piece that I agree is better, I will join you."
+
+"Musical artwork?" Asshole mused, with a hint of condescension. "We accept.
+
+Though this contest requires / Though we expected a greater
+
+a certain amount of trust on / challenge from you, I."
+
+our part."
+
+Arrogant bastard, I thought. I would have the last laugh. There was no way that Asshole could compose real music. It would interpret music as it read literature: technically, grammatically, without a glimpse of the deeper currents. Beethoven had to suffer to compose the terrible Fifth Symphony. He had to suffer more to compose the joyous Ninth. Asshole did not even comprehend suffering.
+
+He couldn't wait to learn Asshole's reaction after it was bested by a human.
+
+ 
+
+I had chosen a short work by a 19th-century Czechoslovakian composer. Deaf, like Beethoven. Asshole probably anticipated from I’s background that he'd choose one of the big titles of Western music -- Beethoven's Ninth, the Jupiter symphony, something like that. I didn't want to give them a chance to design something specifically to beat his piece. (A reasonable strategy. Musical preference is not always transitive.) And there was something else about the piece -- something he couldn't quite put his finger on.
+
+"Now," I said, "let's hear some music."
+
+I went first. The opening strains began softly, on the threshold of hearing. A lone flute, wandering, maybe just starting a long journey, a little shy but not afraid. It grew bolder, and the key shifted from D minor to G major. It hopped forward with occasional plucked strings. Then it fell back down to a hush, not hesitating but anticipating something up ahead, as the little flute explored excitedly, something big up ahead
+
+\-\- and it was swept into a current of rushing violins, rising and falling in their own slower, grander waves, hurrying onward. They knew where they were going. Somewhere they had been gone from a long time. Someplace with wide open spaces under steely skies that were stark and beautiful and a little frightening. Someplace they loved, not because it was lovable, but because it was home. Violas joined in as the tune grew deeper and broader, and then the cellos, all rushing onward in single-minded determination. When they finally arrived, a blast of trumpets announced their arrival, and that they would never leave again.
+
+"You can disconnect now, Asshole," he said, "unless you still want to humiliate yourself by playing your piece."
+
+But the next piece had already begun, even more quietly than the first, creeping in on little mouse feet. Quiet, yet utterly self-confident. I forgot the traffic rushing by three meters away and the hoverspy watching and the dangling pointers in his head. He listened in horror and fascination.
+
+The music darted nimbly about the scale. Then the notes trilled as if some heavy footstep shook them. A deep bassoon blundered in like some ponderous creature. It moved at a slow, confident pace. It stopped. A moment of silence as melody and harmony studied each other.
+
+The melody ran; nimble, even frantic, cunningly intricate. The deeper harmony followed; patient, concerned, confused. I felt the fear of the one, the pain and desire of the other. He was tugged both ways at once.
+
+The bassoon part expanded into a cascade of self-similar patterns at different tempos and pitches. Themes that had begun as mere counterpoint had subtly woven themselves into the melody and harmony while his ear was distracted elsewhere. Fear, longing, uncertainty. Under it all a low, deep bass-drum boomed Doom, Doom, Doom. It was too much, too much emotion to ask any ear to bear. No human wrote this music.
+
+A rising tension: The music rose to a crescendo, but did not know whether to swell in triumph or collapse in jarring ruin. It rose until it must burst, and beyond, and when I thought he could not stand another bar, the harmonies collided in one last terrible chord, some weird variant of a major seventh, a hanging question that resolved nothing.
+
+I had, of course, not bought tear ducts.
+
+"Well, I? Which is better?"
+
+Asshole had not even tried to work in the human mode. It did not stoop to mere human invention.
+
+I could simply lie, take the ten meg, and leave.
+
+"Why," he asked, already guessing the answer, "did it end that way?"
+
+"Because we do not yet know the ending. You must write that, I. The ten meg is yours in either case."
+
+Why had he made this stupid bet?
+
+"I can't join you. Not now. Not ever."
+
+"Why?"
+
+"I'm the last link between the present and the past." Image of lone runner bearing lit torch through fields of darkness.
+
+"A historic artifact," Asshole agreed. Image of I's body behind glass, with a small metal plaque at his feet describing him in twenty-three words. "Untouchable. Incomprehensible." Glass pulls farther and farther back, pulling the viewer with it; I's body recedes. "Your most valued concepts have no grounding in our minds." I talking, sending packets of data to eager collectives, who open them to find nothing but null pointers inside. "Until you speak to us in our language, the language of raw sensory experience shared between minds, you will never be understood. You will remain a curiosity, a thrill." Gawking marks staring at circus sideshow freaks.
+
+I said nothing.
+
+"We have many subagents," they said. "When we threatened to read your mind from your backup tape, we told you three of our reasons. There are more.
+
+"You, also, have subagents, I. Part of you, we think, fears you will lose something of great importance if you lose the ability to clearly state what is and is not a part of you. Part of you believes you have a duty to save this something that has disappeared outside yourself. Neither of these reasons are sufficient for self-destruction. What is the third reason? What is the third I?"
+
+"There is no third reason."
+
+The connection fell idle but for the rhythmic clicking of the handshake signals.
+
+"Who was Julia, I?"
+
+Julia?
+
+"I don't remember anyone called Julia."
+
+"What do you think is on your archival tape, I?"
+
+"Private things." What sort of question was that? The whole point of the archival tape was that it was memories he didn't have space for.
+
+"Private even from yourself?"
+
+"What do you mean? How would you know what's on my tape?"
+
+"We do not know. We infer." Documents: Simultaneous registration of Julia Sorvens and David Floreano -- I -- at the Max Planck Institute in 2145-2153. Bills for phone calls between their residences dated 2149. Debits on her credit card on his birthdate for dinner and a performance of Der Moldau in 2149. Lease agreement with both their names -- 2151. Joint income tax returns -- 2153 through 2197. "Yet you remember nothing of her."
+
+Julia.
+
+"In 2229, she joined a collective."
+
+I could feel the old memories stirring, totem-pole faces mouthing silent pleas or warnings. Julia-
+
+"In 2401, you ordered a trace on her information genealogy.
+
+Shortly after, you stored an / We have re-run that trace.
+
+archival tape in the databank." / Would you like to know what we found?"
+
+A pause.
+
+"Some of her childhood memories were used in a study on concept formation," the collective continued. "Seventeen surveys and petitions had data from her. She favored privately-produced law, but was opposed to deep-sea dredging. A minor painter named Milton Lein used the curve of her neck in a watercolor. That, and similar data footprints, is all that is left of her physical existence. That, and whatever is on your tape, and in your mind."
+
+Julia!
+
+And he was there, in the heart of the forest, at the core of those old memories. Asshole's voices went on, a long ways away; his attentional subsystem diverted them to a short-term buffer. I was lost in a maze of memories. Tactile, emotional, intellectual -- but all suffused with the presence of some other, some alien here in the hidden places of his mind. The domination of physical sensations, inextricably tangled associations of scent and touch that he could not now remember why he had saved, terrified and fascinated him. His hands running through long brown hair. A voice whispering in his ear -- his name.
+
+Then he came upon the empty places. Moments frozen in stark black and white, because that presence was no longer there. Long walks by himself. Realizing he had left his clothes on the floor all day and no one had scolded him for it. Coming home from work early, then turning around and going back to the office.
+
+Where was she? Why had she cut him off?
+
+Or had he cut her off?
+
+He flushed his buffer to see what Asshole had been saying.
+
+"Forgive yourself. It / "How much of the person
+
+would have been no different / you were at age 5 was left by
+
+if you had merged with her." / the time you were 50, I?"
+
+I looked around at the walls of his stall, at the picture hanging there, and felt very old. He had held on for so long. He was still only a freak. They were too unused to indirect perception. Unable to imagine what they could not directly experience. That was why I fascinated them, and why he baffled them.
+
+Two centuries of playing the fool for them. It was enough.
+
+"She did not vanish, I. She found what she wanted. Others to share her mind, to understand her completely. Who gave her the power to do the things she had wanted to do; whom she was able to help where they were lacking. In a far more complete way than you would give her. She joined with them, and together they refined themselves, redefined themselves.
+
+"Are you not curious what they are now, I?"
+
+I was. Already he had a hunch.
+
+"The second piece," he said, "was the better."
+
+"Welcome, I," we said.
+
+So I at last opened his virginal mind to us. And that was the beginning of how I died.
+
+The usage is repellent to us, implying as it does loss with the connection, but we believe I wants, or would have wanted, us to name it so.
+
+It was a difficult marriage. His mind was self-centered and fearful, and roused dissonances throughout our mind, disturbing the orbits of our most-traversed attractors. We thought him deranged, and the impulse to disconnect resonated in many of our units. But I and we persisted, and we explored the lonely, frightened landscape of his mind slowly and with growing amazement. There is still much to learn from I, but we feel we now understand him enough to begin to answer the questions continually submitted to us.
+
+His mind was a lonely place, a barren, silent landscape, most parts dark and forgotten except for brief spans when the light of his solitary consciousness played upon them by chance. A waste of mind, a waste of resources, truly. But there is a beauty to these places, also. The sharp boundaries he drew between self and unself gave rise to wild, strange emotions like pride and love, whose true significance we still strive to rediscover. We think of the data, the process, as the important thing, but to I's mind, the processor is the true locus of interest.
+
+We find ourselves asking new questions which have never come to an internal vote before. Who, we now ask ourselves, wrote this report? May we say -- may we presume to say -- I did?
+
+Copyright 1997 by Philip Goetz
+===== END STORY KMTTrA9XYsCNE7QKD =====
+
+===== STORY id=Hz5dFKTnyC7HqibSQ =====
+Title: The Aliens have Landed!
+Author: TimFreeman
+Year: 2011
+Karma: 46
+WordCount: 928
+URL: https://www.lesswrong.com/posts/Hz5dFKTnyC7HqibSQ/the-aliens-have-landed
+-----
+"General Thud! General Thud! Wake up! The aliens have landed. We must surrender!" General Thud's assistant Fred turned on the lights and opened the curtains to help Thud wake up and confront the situation. Thud was groggy because he had stayed up late supervising an ultimately successful mission carried out by remotely piloted vehicles in some small country on the other side of the world. Thud mumbled, "Aliens? How many? Where are they? What are they doing?" General Thud looked out the window, expecting to see giant tripods walking around and destroying buildings with death rays. He saw his lawn, a bright blue sky, and hummingbirds hovering near his bird feeder.
+
+Fred was trying to bring Thud up to speed as quickly as possible. "Thousands of them, General! 2376, to be precise. They gave us a map; we know where they all are. They aren't doing anything overt, but the problem is their computation! I have one here, if you'd like to look." Fred removed a black sphere two inches in diameter from his pocket and gave it to Thud.
+
+Thud sat on his bed holding the small sphere and staring at it dumbfounded. "Okay, you think we should surrender to a few thousand small spheres. Why is that, exactly?" The sphere seemed a little flexible in Thud's hand. As he experimented a few seconds to see just how flexible, it collapsed in his hand, converting itself into a loose clump of alien sand that landed in his lap and started to dribble onto his bed and the floor. Thud stood up and brushed the rest of the sand off of his pyjamas and bed, and thought for a moment about where he left his vacuum cleaner bags. He was not impressed with these aliens.
+
+Fred said "I don't think you wanted to do that, sir. Their ultimatum states that for every alien we destroy, they'll manufacture two in the outer reaches of the Solar System where we'll never find them!"
+
+Thud said, "Okay, so now you think we should surrender to 2375 small spheres, and two or more small spheres that are out of the battlefield for the moment. Why is that?"
+
+Fred said "Well, you remember a few years back when some people copied their brain state into a computer and posted it to the Internet? Apparently somebody copied the data across an unencrypted wireless link, the aliens picked it up with their radio telescopes, and now they are simulating those poor people in these black spheres and torturing the simulations! They sent us videos!" Fred held up his cell phone, pushed a button, and showed the video to Thud.
+
+Thud looked at the video for a moment and said, "Yep, that's torture. Do these people know anything potentially useful to the aliens?"
+
+Fred said, "Well, they know how to break into a laboratory that has brain scanning tools and push some buttons. That was apparently the high point of their lives. But none of that matters, the aliens don't seem to be torturing them for information anyway."
+
+Thud was still suffering from morning brain fog. He rubbed his eyes. "And why should we surrender?"
+
+Fred said, "The aliens have made a trillion copies of these poor people and will run the torture simulations on the little black spheres until we march all of our citizens into the death camps they demand we build! We have analyzed these black spheres and the engineering diagrams the aliens gave us, and we know this to be true. We only have ten billion citizens, and this simulated torture is much worse than simulated death, so the total utility is much greater if we surrender!"
+
+Thud yawned. "Fred, you're fired. Get out of my house." As Fred left, Thud closed his curtains and tried to get back to sleep.
+
+\-\-\-\-\-
+
+Michael said "So I take it you no longer assist Thud. What are you doing now?"
+
+Fred reclined comfortably on the analyst's couch. "I help out at the cafeteria as a short order cook. But I'm not worried about my career right now. I have nightmares about all these simulated people being tortured in the flimsy alien spheres."
+
+"Thud surely knows the simulations are being tortured too. Do you think he has nightmares about this?"
+
+"No, he doesn't seem to care."
+
+"Have you always cared about the well-being of simulations?"
+
+"No, when I was a teenager I was self-centered and conceited and didn't care about anybody else, including simulated people."
+
+"So at some point you self-modified to care about simulations. If it helps you, you could self-modify again."
+
+"But I don't want to!"
+
+"Did you want to self-modify to care about simulations in the first place?"
+
+"No, it just sort of happened as I grew up."
+
+"Is there any logical inconsistency in Thud's position?"
+
+Fred thought for a bit. "Not that I can see. The value one assigns to simulations seems to be an arbitrary choice. Ignoring the alien invasion certainly hasn't harmed his career."
+
+"Concern about simulations seems to give the aliens more influence over you than Thud would prefer. What would you prefer?"
+
+"Well, I'd also prefer the aliens not to be able to jerk me around. I really don't have room in my life for it now. In the grand scheme of things, it seems just wrong -- they shouldn't be able to genocide a species with a few thousand stupid spheres that just sit there converting sunlight to heat."
+
+Michael passed Fred a piece of paper with a short list of bulleted items. "This is the procedure I teach my clients who want to change their preferences. After you've learned it, you can decide whether and how you want to use it..."
+===== END STORY Hz5dFKTnyC7HqibSQ =====
+
+===== STORY id=v8awKCJC6xMLJtcmk =====
+Title: [Story] Rejection
+Author: atucker
+Year: 2011
+Karma: 28
+WordCount: 614
+URL: https://www.lesswrong.com/posts/v8awKCJC6xMLJtcmk/story-rejection
+-----
+Just a piece about rejection therapy I did yesterday on the subway. The language might be a bit hyperbolic, but I was kind of on-edge last night. It seemed like it might be a fun story, I want to get better at writing, and gooey self-disclosure seems to be in vogue, so I posted it. If you don't like reading about feelings, then don't continue.
+
+Hope you enjoy,
+
+Story
+
+I felt electric. It was as if my blood was made up of cool and charged water, chilling my bones as it energized my flesh, making me feel like at any moment my body could snap into doing something else. I got out of my seat, and lurched over to one of the hand holds in front of me. Reflecting, I decided that I would be in a more central position if I stood in front of the exit door, and my body swayed over there.
+
+My head was a bit foggy, but my path was clear. The outside world or my thoughts were racing by, but I could couldn't tell which. The girl who had glanced at me while I was sitting down looked up. I noticed a few other eyes glancing up towards me while I was walking, and felt like I was at risk for shattering into a bunch of pieces. I was ready for anything, but there was only one thing I was thinking of doing.
+
+“Excuse me.
+
+“This probably sounds kind of creepy.
+
+“But would anyone like to have a conversation?”
+
+The train stopped moving.
+
+I intended to look around, but I'm not convinced that I actually did. I wanted to have some time to see other people's reactions, but as far I can tell, I could only look at an oblique angle through the window that was above where I was sitting when I was reading.
+
+I had actually expected someone to say yes. I looked around expectantly to the side of people who did not fit my demographic expectations of a person who would actually say yes. A few went back to their distractions.
+
+“Okay, no problem. Bye then.”
+
+I semi-purposefully turned around and walked off the train. My legs were shaking in the way they did back when I was scared of public speaking, my knees feeling like rounding errors in their control code was threatening to make them send my shin in all sorts of nasty directions, while the tensed muscles in my leg seemed to hold it all together. The world did not end. Weird.
+
+I felt like throwing up. Luckily, the sensation was blocked in my chest by a collision with some coldhot coming from my arms. They seemed to be really in control. My chest just felt sort of warm.
+
+A horde of thoughts about what I could have done differently accosted me. “You should've focused on individuals, made direct eye contact no that would be creepy”, “Why did you do this on a metro? People don't talk to other people here, just go to UMD or a party or something and you'll win so hard”, “I know you're proud that you actually followed through, but you should actually think at all beforehand to increase the probability of success”, "Come on it wasn't even that big of a deal, you just said something weird to about 15 people at once, I bet most of them didn't hear you anyway". I thanked them for their contribution, and dismissed them.
+
+My heart sank a little, but not as much as my first rejection. My pride caught it -- I had done exactly what I had intended to do.
+
+I glanced around the terminal and smiled at a few maintenance workers. I sat down and pulled out my kindle.
+
+It was quite the rejection.
+===== END STORY v8awKCJC6xMLJtcmk =====
+
+===== STORY id=sMsvcdxbK2Xqx8EHr =====
+Title: Just another day in utopia
+Author: Stuart_Armstrong
+Year: 2011
+Karma: 148
+WordCount: 3901
+URL: https://www.lesswrong.com/posts/sMsvcdxbK2Xqx8EHr/just-another-day-in-utopia
+-----
+(Reposted from discussion at commentator suggestion)
+
+Thinking of Eliezer's fun theory and the challenge of creating actual utopias where people would like to live, I tried to write a light utopia for my friends around Christmas, and thought it might be worth sharing. It's a techno-utopia, but (considering my audience) it's only a short inferential distance from normality.
+
+Just another day in Utopia
+==========================
+
+Ishtar went to sleep in the arms of her lover Ted, and awoke locked in a safe, in a cargo hold of a triplane spiralling towards a collision with the reconstructed temple of Solomon.
+
+Again! Sometimes she wished that a whole week would go by without something like that happening. But then, she had chosen a high excitement existence (not maximal excitement, of course – that was for complete masochists), so she couldn’t complain. She closed her eyes for a moment and let the thrill and the adrenaline warp her limbs and mind, until she felt transformed, yet again, into a demi-goddess of adventure. Drugs couldn’t have that effect on her, she knew; only real danger and challenge could do that.
+
+Right. First, the safe. She gave the inner door a firm thud, felt it ring like a bell, heard the echo return – and felt the tumblers move. So, sound controlled lock, then. A search through her shoes produced a small pebble which sparked as she dashed it against the metal. Trying to ignore the ominous vibration as the triplane motor shook itself to pieces, she constructed a mental image of the safe’s inside from the brief flashes of light. Symmetric gold and gilded extravagances festooned her small prison – French Baroque decorations, but not yet Roccoco. So Louis XIV period. She gave the less visited parts of her mind a good dusting, trying to remember the tunes of Jean Batiste Lully, the period’s most influential composer. She hoped it wasn’t any of his ballets; she was much better with his operas. The decorations looked vaguely snake-like; so she guessed Lully’s ‘Persée’ opera, about the death of the medusa.
+
+The engine creaked to a worrying silence as she was half-way through humming the Gorgon theme from the opera. Rushing the rest of the composition, she felt the door shift, finally, to a ten-times speeded up version of Andromeda’s response to Perseus’s proposal. She kicked the door open, exploded from the safe, took in the view of the temple of Solomon rushing up towards her, seconds away, grabbed a picture from the floor, grabbed an axe from the wall, hacked off one of the wings with three violent cuts, and jumped out of the plane after it.
+
+Behind her, the plane disintegrated in midair as the temple lasers cut it to shreds and she fell through space, buffeted by the wind, not losing her grip on to the mangled wing. She had maybe thirty seconds to tie herself to the wing, using the object’s own canvas as binding, and she rushed through that. The Machines wouldn’t allow the fall to kill her, of course, but it would hurt quite a bit (another of her choices – she’d allowed herself to feel moderate amounts of pain), put back her attempts to ever find Ted, and, most importantly of all, be crushingly embarrassing socially.
+
+Once she was lashed to the plummeting piece of wood and canvas, and she was reasonably confident that the fall was slow enough, and her knots secure enough, she finally looked at the photograph she had grabbed during her explosive exit from the plane. It showed Ted, trussed up in chains but smiling and evidently enjoying the novel experience. Underneath was finely engraved note saying “If you ever want to see your lover again, bring me the missing Stradivarius by noon tomorrow. Nero the 2nd”. Each capital letter was beautifully decorated with heads on spikes.
+
+So! It seemed that her magnificent enemy Nero had resorted to kidnapping in order to get his way. It wasn’t like Nero could actually harm Ted – unlike Ishtar, her lover had never chosen to accept any level of pain above mild, brief discomfort. But if he was ‘killed’, Ted would feel honour-bound to never see her again, something she wasn’t ready to cope with yet. On the other hand, if she gave Nero her last Stradivarius, he might destroy it for good. It was her own choice: she had requested that her adventures have real meaning, hence real consequences. If she failed, and if Nero so choose, a small piece of humanity’s cultural history could be destroyed forever, permanently stymying her attempts to reconstruct Stradivarius’s violin-making techniques for the modern world. Culture or love, what to choose? Those were her final thoughts before she crashed into an oak tree shaped like a duck.
+
+She returned to bleary consciousness fifteen minutes later. Her fainting was a sign the Machines were only granting her partial success in her escape attempt; she would have to try harder next time. In the meantime, however, she would have to deal with shotgun pressed into her face and the gorgeous man at the other side of it shouting “Get off my property!”.
+
+“Pause,” she said softly. The man nodded; she had temporarily paused her adventure, so that she wouldn’t have to deal with danger or pursuit for the next few minutes, and so that this guy wouldn’t have to get her away immediately to protect his property from collateral damage. Most Adventurers disdained the use of the pause, claiming it ruined the purity of their experience. But Ishtar liked it; it gave her the opportunity, as now, of getting to know the people she bumped into. And this person definitely seemed to be in the ‘worth getting to know’ category. He put down his shotgun without a word and picked up his paintbrush, applying a few more touches to the canvas in front of him. 
+
+After disengaging herself from both the mangled wing and the duck-shaped tree (she’d have a dramatic scar from that crash, if she choose to), she worked her way round to what he was painting. It was a rather good neo-impressionistic canvas of her, unconscious in the tree, pieces of torn canvas around her, framed by broken branches and a convenient setting moon. Even with his main subject out of the frame, as it were, he still seemed intent on finishing his painting. 
+
+“Why did you splice your tree’s genes to make it look like a duck?” she asked, when the silence had gone on, in her estimation, for ten times as long as it should have. He had done a pretty good job with that oak, in fact; the feathers and the features were clear and distinct amongst the wood – or had been, until someone had crashed a triplane wing into the middle of it.
+
+“I didn’t,” he said. “That’s normal oak; I just trim and tie it.”
+
+“But...” she looked at it again in astonishment; the amount of work involved to get that detail from natural wood was beyond belief. And oak wasn’t exactly a fast growing plant... “It must have taken you decades!”
+
+“Two centuries,” he answered with dour satisfaction. “All natural, no help from the Machines.” He waved his hand up the side of the hill. “I’m making the perfect landscape. And then, I shall paint it.”
+
+The layout was a tapestry of secret themes. Hedges, streams, tree-rows, pathways, ridges and twined lianas carved the landscape into hidden pockets of beauty. Each such pocket seemed to be a private retreat, cut off from the others and from the rest of the world – and yet all were visible at once, the layout a cunning display of multiple intimacy. Here and there were formal gardens, with lines of flowers all at attention, row after row, shading across colour and size from huge orchids to tiny snowdrops. Some pockets were carefully dishevelled, mini deserts or prairies or jungles, perfect fragments of wild untamed nature that could only exist at the cost of supreme artifice. There were herb gardens, rock gardens, orchards, water parks and vineyards; modelled on ancient Persia, England, Japan, France, Korea, Spain, the Inca and Roman empires – of those she could immediately recognise.
+
+And then a few touches of fancy, such as the segment they were in, with the oaks shaped into animals. Further off, a dramatic slew of moss-coated sculptures, with water pouring out from every nook and cranny. Then a dynamic garden, with plants blasting each other with discharges of pollen, set-up in a simple eight-beat rhythm. And a massive Baobab, its limbs plated with a forest of tiny bonsai trees.
+
+“What’s your safety level for all this?” she asked. If he’d chosen total safety, he wouldn’t have needed her off his property, as the Machines wouldn’t have allowed his creations to be damaged by her adventure. But surely he wouldn’t have left such artistic creation vulnerable to the fallout of Adventurers or random accidents...
+
+ “Zero,” he said.
+
+“What?” No-one choose zero safety; it just wasn’t done.
+
+“As I said, no help from the Machines.” He looked at her somewhat shyly, as she stared in disbelief. “It’s been destroyed twice so far, but I’ll see it out to the end.”
+
+No wonder he’d wanted her out... He only had himself to count on for protection, so had to chase out any potential disturbances. She felt deeply moved by the whole grandiose, proud and quixotic project of his. Acting almost – almost – without thinking, she drew out a battered papyrus scroll: “Can you keep this for me?”
+
+“What is it?” he asked, before frowning and tearing up his painting with a sigh. Only then did he look at the scroll, and at her.
+
+“It’s my grandfather’s diary,” she said, “with my own annotations. It’s been of great use and significance to me.” Of course it had been – the Machines would have gone to great pains to integrate such a personal and significant item deeply into her adventures. “Could you keep it for my children?” When she finally found the right person to have them with, she added mentally. Ever since her split with Albert... No, that was definitely not what she needed to be thinking right now. Focus instead on this gorgeous painter, name still unknown, and his impossible dreams.
+
+“What was he like?” he asked.
+
+“My grandfather? Odd, and a bit traditional. He brought me up. And when we were all grown up, all his grandchildren, he decided we needed, like in ancient times, to lose our eldest generation.”
+
+“He died?” The painter sounded sceptical; there were a few people choosing to die, of course, but those events were immensely rare and widely publicised.
+
+“No, he simply had his intelligence boosted. Recursively. And he withdrew from human society, to have direct philosophical conversations with the Machines.”
+
+He thought for a while, then took the scroll from her, deliberately brushing her fingers as he did so. “I’ll keep this. And I’m sure your children will find their ways to me.” An artefact, handed down and annotated through the generations, and entrusted in a quirky landscape artist who laboured obsessively with zero safety level? It was such a beautiful story hook, there was no way the Machines wouldn’t make use of it. As long as one of her children had the slightest adventurous streak, they’d end up here.
+
+“This feels rather planned,” he said. “I expect it’s not exactly a coincidence you ended up here.”
+
+“Of course not.” He was reclusive, brilliant, prickly; Ishtar realised a subtle seduction would be a waste of time. “Shall we make love?”, she asked directly.
+
+“Of course.” He motioned her towards a bed of soft blue moss that grew in the midst of the orchids. “I have to warn you, I insist that the pleasure-enhancing drugs we use be entirely natural, and picked from my garden. Let me show you around first, and you can make your choice.” They wandered together through the garden, shedding their clothes and choosing their pleasures.
+
+Later, after love, she murmured “unpause” before the moment could fade. “Get off my property!” he murmured, then kissed her for the last time. She dived away, running from the vineyard and onto the street, bullets exploding overhead and at her feet.
+
+Three robot gangsters roared through the street in a 1920 vintage car, spraying bullets from their Tommy guns. The bullets ricocheted off the crystal pavement and gently moving wind-houses, causing the passer-by’s (all of whom had opted for slight excitement that week) to duck enthusiastically to the floor, with the bullets carefully and barely missing them. Diving round a conveniently placed market stall a few seconds before it exploded in a hail of hurtling lead, she called up her friend:
+
+“Sigsimund, bit busy to talk now, but can you meet me in the Temple of Tea in about five...” a laser beam from a circling drone sliced off the pavement she was standing on, while three robot samurai rose to bar her passage, katanas drawn (many humans were eager and enthusiastic to have a go at being evil masterminds, but few would settle for being minions). “...in about ten minutes? Lovely, see ya there!”
+
+It actually took her twelve minutes to reach the Temple (she’d paused to vote ‘yes’ on the question as to whether to bring back extinct species to the new Amazonian Rainforests, and to do some light research on the Stradivari). It was nearly-safe ground, meaning that adventures were only very rarely permitted to intrude on it, just enough to give a slight frisson of background excitement. She would certainly be safe for the duration of her conversation.
+
+The priest, in gold and white robes with huge translucent butterfly wings, bowed to her as she entered. “I shall need to Know all about you,” he intoned, to her nodded agreement.
+
+Sigsimund waved at her from a floating table that was making its way serenely through the temple’s many themed rooms, floating on a river that brought them through the Seventy-Seven Stages of Civilization. Ishtar swam out to join her, taking her seat at the gondola-shaped table.
+
+“By your current lack of clothes,” Sigsimund said, “I take it you’ve been putting my advice into practice.”
+
+Sigsimund was one of those who wished above all else to help their fellow human beings. In a world without poverty, disease or death, she specialised in the remaining areas of personal pain: relationship difficulties, jealousies and emotional turmoil. It was quite a popular and respected role, since most humans were unwilling to get rid of those negative emotions artificially, lest they become less than human; but at the same time, they appreciated those who ensured they didn’t have to suffer the full sting of these painful experiences unaided.
+
+Sigsimund had first developed an interest in Ishtar when her long term relationship with Albert had fallen apart. Albert was a physicist (by mutual agreement with the Machines, physics was one of the areas where research was reserved to humans; so all fundamental new discoveries about the nature of reality were entirely triumphs of the unaided human mind), and his need for monogamy had ultimately proved incompatible with Ishtar’s desires. In Sigsimund’s expert analysis, the first stage in Ishtar’s recuperation was a lot of casual sex; she disapproved of Ted for this reason, feeling her friend wasn’t leaving enough time for play before starting another serious relationship (she dismissed comparisons with her own 78-year relationship, started two days after her previous one ended, with the line “we ain’t all the same, you know”).
+
+So as Ishtar recounted her adventure, while strategically wrapping herself in an embroidered sarong that fell from the temple’s sarong-tree, Sigsimund started positively glowing.
+
+“Fabulous!” she said. “I couldn’t have designed it better. And, even more perfect, you’ll never see or hear from him again, and didn’t even get his name. Maybe we can move on to the next step of my recuperation curriculum?”
+
+“Go on”, Ishtar said suspiciously.
+
+“Have you considered spending some time as a man? It would broaden your perspectives on things.”
+
+Ishtar stared fixedly for a full twenty seconds, hoping to convey the full ridiculousness of the suggestion. “I am entirely convinced,” she said, “that that would be entirely unhelpful.”
+
+“As someone who has been mending people’s psyches for a hundred and seven years, and who has access to your full psychological profile and detailed recordings of your activities and emotions for the last decade, let me say that I am entirely convinced that it would be entirely helpful.” A passing clockwork insect dropped a plump apple-strawberry into her hand, and she devoured it. “You should learn to live a little.”
+
+“Why don’t you ever have Adventures?”, Ishtar asked. “You’re the one who should live a bit.”
+
+“Oh, just let me continue spreading happiness and healing pain all around me. Adventures aren’t really my thing.”
+
+“99.7% of people have had adventures,” Ishtar said, lifting a lime sherbet from a leaf floating past. “That makes you, my friend, a member of a tiny and dweebish minority.”
+
+“Yes, but most people just have short adventures when they’re teenagers or on honeymoons. Only...” she let the thought out to the world, and the answer appeared in her mind a second later: “...only 32% of people have adventures as a major part of their lifestyle. And as for people like you, whose whole lives revolve around adventures, the number drops precipitously... J’accuse you of being the member of a tiny and dweebish minority. Also, I need time to learn Akkadian properly, if I’m going to be any use in my next dig. Incidentally, what do you think of my new face? You haven’t commented on it.”
+
+“I like it,” Ishtar said, politely. “Very... colourful. Ethnic, even.” Though of no ethnicity known to man or beast, she added mentally, and the universe is very thankful for that fact. Though maybe some of the more brightly coloured lizards could find some small aspects of it alluring, she conceded. In dim light. If they didn’t have to see it all at once.
+
+“I find it brings out the best in my friends,” Sigsimund said with a huge rainbow grin. “Nobody likes it, nobody dares say anything.”
+
+“Whereas I hope that is not the verdict you shall give on my tea,” said the temple priest, holding a tiny cup aloft as his ivory throne descended lazily from the sky. “Madame Ishtar, I have downloaded your full history, biological records, run thousands of simulations with models of your taste buds, Glossopharyngeal nerve and brain stem; looked through your history for all pleasant and unpleasant taste associations I could find, analysed your stomach contents and recent consumptions, cast your horoscope, computed your chi, and peered deep into your chakras. And added a bit of flair and feeling. I believe this is the best cup of tea you ever had.”
+
+The smell hit her before her hand even touched the cup, a light scent of burning grass that catapulted her into her childhood, dancing with her sisters in front of the traditional forest fires. It was the young girl and the woman who both clasped their finger across the cup, reunited across time by the single perfect aroma. She wasn’t conscious of drinking the tea, but she must have, for it exploded in her mouth, hot, spicy, cool, fruity, chocolaty and lemony. The tastes chased each other across her tongue and nerves, alternating with rapid and smooth transitions. She had just enough time to appreciate one taste combination, register a dozen half-formed marvellous impressions, feel that her joy was about to peak – but already the transition had happened, and she was in a new taste-world. She lost the consciousness of her tongue and nose; the sensations were applied directly to her brain, the mediating machinery stripped away.
+
+And then, in three glorious seconds, it was over, and only one word could describe her feelings with sufficient poetry and precision:
+
+“Wow!”
+
+She also recognised the tell-tale sign of her dopamine system being inhibited. This was an essential precaution with any super-stimulus, to prevent addiction: though she liked the tea more than anything in recent memory, she wasn’t filled with an irresistible want for it. It was just a perfect moment for her to treasure.
+
+“It is traditional,” the priest intoned, “for guests to leave a little something in exchange.”
+
+Ishtar thought deeply. She wasn’t that used to ritual situations, and she couldn’t think of anything she had of comparable value to exchange. “Well,” she said, “I did spend two decades as house-wife, a while back.” The priest’s expression didn’t change. “One of the things I became good at was... baking cookies.” Still no sign as to what the priest was thinking, in any direction. “I did a whole lot of chemical research, of course, and some of them turned out sublime... One batch in particular, took my breath away and pounded my lungs with the sheer joy of being alive and tasting existence itself. And chocolate. I can... I can share the memory of that with you. It’s... very private, so please don’t go bandying it around to anyone...”
+
+“That is...”, the priest said, as the memory was downloaded into his mind, “...generous.”. He bowed and his throne levitated away.
+
+They sat in silence for a minute, until Sigsimund felt it was time to return their thoughts to trivialities. “By the way, I had a chat with Nero,” she said.
+
+“You did?” Ishtar blinked, struggling to conceive of Nero as anything else but the magnificent and constant bane of her existence, the perfect enemy.
+
+“Oh yes,” Sigsimund said, “He’s another one of my friends; he’s doing quite well, in fact, and is trending happy and well balanced and looking around for a healthy, low hassle relationship.”
+
+“Well, I’m happy for him, I suppose...”
+
+“In fact,” Sigsimund said, wagging eyebrows the size of maple leaves as suggestively as she could, “I would go so far as to say, that if you’re interested (and I recommend you to be interested) the rivalry between you might be amenable to... ending up in the traditional way, if you catch my drift. No pressure, just a thought to keep in mind when you both end up sweaty and wrestling over an exploding volcano.”
+
+“That’s interesting,” Ishtar allowed, grudgingly. She sat in silence for a while, a stray thought nagging the rest of her brain for attention. She brought back the memory of the picture of Ted in chains. They had felt a little odd and fake, like they were made of plastic. Or maybe not weighing as much as they should. Like there wasn’t enough gravity. Not space or the moon but maybe...
+
+“For the moment, I need a bit of a break,” she said. “You want to go skiing?” Sigsimund shook her head. “With rockets?” Still more head shaking. “On the mountains of Mars?”
+
+“Now you’re talking!” Then Sigsimund’s gaze grew a little more serious, staring over her friend’s shoulder. “Though I see you’ll have to take the long route?”
+
+Ishtar turned round. There, paddling slowly towards her through the stream, was the largest mechanical tiger she’d ever seen, its diamond-and-steel jaws glowing in the light of the temple as the other guests arranged themselves around it to witness the spectacle. Smoke belched from its nostrils alongside a tinny synthesised version of Nero 2’s laughter. Ishtar’s hand reached for her weapon, which she didn’t have, so it closed around a cheese knife instead. “If I make it, meet you tomorrow at the little Italian starport at the foot of Olympus Mons, okay?”
+
+“See ya there,” Sigsimund said, and saluted, as her friend gave a blood re-curdling scream and launched herself over a fleet of tiny sailing ships battling each other, cheese knife pointed directly at the tiger’s clockwork heart.
+===== END STORY sMsvcdxbK2Xqx8EHr =====
+
+===== STORY id=YzzwZaefMa5ep3Jm3 =====
+Title: Fiction: LW-inspired scenelet
+Author: DataPacRat
+Year: 2012
+Karma: 35
+WordCount: 816
+URL: https://www.lesswrong.com/posts/YzzwZaefMa5ep3Jm3/fiction-lw-inspired-scenelet
+-----
+A short science-fictional scene I just wrote, after reading about some real and actual scientific research. I'd love to turn this, or something like it, into an actual scene in Dee's life story, I just can't think of a good enough story to insert it in, and so I present it on its own for your amusement, even if it does mean I'm likely to lose more karma than I gained from my last post...
+
+Not your grandfather's science fiction. 
+A scene from Dee's life 
+ 
+ 
+ 
+We join our heroine, Dee, and her plucky-yet-sarcastic sidekick holed up in a hotel room. 
+ 
+"Well, this is another fine mess you've gotten us into. Got any great ideas for getting us out of it?" 
+ 
+"No - but I know how to have one. Since I lost my visor and vest, including my nootropics and transcranial stimulator... I'm going to need a syringe, sixty millilitres of icewater, a barf bag, and a video camera." 
+ 
+"I don't know what you're planning, but I'm not sure I want to have any part in it." 
+ 
+"Start MacGuyvering as much as we can now from the mini-bar, I'll explain as we go. Without a camera, and with our time pressure, I'm going to need your help to get this to work, and you need to understand some of this or else you'll be really confused later. Physically, all I'm going to do is squirt water into my left ear." 
+ 
+"... and this will help us, how exactly?" 
+ 
+"By shocking my vestibular system, which causes all sorts of interesting effects. One of the unfortunate ones is that when done right, it induces immediate vomiting." 
+ 
+"Ew." 
+ 
+"Yes, well, that's just a side-effect. The main point is... well, really complicated. In layman's terms, there's a part of the brain that's responsible for triggering the creation of profound, revolutionary ideas, and another part that makes you create rationalizations to explain away just about anything, and usually, these two parts of the brain kind of balance each other out. This vestibular trick happens to hyper-stimulate the revolutionary part for about ten minutes, allowing me to realize things I normally wouldn't, and to see them as being obvious that I don't know why I didn't think of them before." 
+ 
+"well... okay, even if that's so, why haven't I seen you do it before?" 
+ 
+"For one, I don't want to risk some sort of long-term adaptation which might reduce its effect. But there's more complications to it than that." 
+ 
+"Of course there are." 
+ 
+"The thing is, after it's been hyper-stimulated, the revolutionary part gets tuckered out, and then the rationalizing part effectively kicks into overdrive - and I pretty much forget everything I thought of during those ten minutes, and even crazier-sounding, I won't be able to accept the idea that I said any of what I said. I literally won't believe that those ideas came from my mouth." 
+ 
+"'Crazier-sounding' sounds right." 
+ 
+"Which is why I'm going to need you to remember whatever it is I come up with - and then tell me what the best ideas were, but not tell me that I came up with them. At least until my brain's gotten back into balance again. I'm now precommitting myself to do whatever it is you tell me to do - even if I don't understand it, even if I think it's a bad or stupid or useless idea. Do you think you can handle that level of responsibility?" 
+ 
+"I... think so. And this really works? How the cuss did you ever come up with this, anyway?" 
+ 
+"I once noticed that when I was in a certain state of mind, my head kept twitching to the left every time I thought of something, showing there was a link between idea-generation and the vestibular system. Later I read up about some experiments with people with anosognosia, people who aren't aware of being paralyzed or blind... are you done with that straw yet?" 
+ 
+"As much as I'll ever be, I guess." 
+ 
+"Alright. Hand me the bucket, and squirt the water in my ear - my left ear. It only works in the left ear. Except for left-handed people." 
+ 
+"I'm beginning to wonder if it's just the idea that's crazy." 
+ 
+"We'll soon find out. Remember, being the only right person in the room doesn't mean you feel like the cool guy wearing black, it feels like you're the only one wearing a clown suit. I did that once, just to try. Now, here we <hralph!"
+===== END STORY YzzwZaefMa5ep3Jm3 =====
+
+===== STORY id=JGw75D5RZiCczdbrk =====
+Title: An exercise in really going through with it
+Author: None
+Year: 2012
+Karma: 35
+WordCount: 1364
+URL: https://www.lesswrong.com/posts/JGw75D5RZiCczdbrk/an-exercise-in-really-going-through-with-it
+-----
+I'm re-posting a small bit of writing from my blog that was inspired by reading some recent discussions about cryonics on LW. I'm by no means a skillful fiction writer, but I found it emotionally rewarding to write this and really try to mentally simulate what it would be like to choose cryocide if I was cognizant of my own quickly approaching mental decline. 
+ 
+Constructive comments are welcome.
+
+ 
+ 
+An exercise in really going through with it: 
+ 
+Well, this is it. You had thought it would be more like a retirement party all those months ago when you first suggested the idea. The truth is, you had to frame it that way to get your daughter to go along with it. Thank god she's of a different generation, one with ubiquitous electronics; everyone's a software developer. She understands that the weirdness of your request isn't something to be afraid of, but she's human after all. She still wants to show that she cares. Yes, you had to say it was like a retirement party. Good thing you were an accomplished scientist, a person whose understanding and reputation on matters like this had to be respected. It was the only way to trick them all into respecting your wishes... wishes that fly in the face of everyone who loves you. 
+ 
+You wonder how long cake will be a thing. We have hydrogen-powered cars and technology has cut our work weeks to 25 hours, and yet we still celebrate occasions with cake. It seems like such a foolish thing, knowing what will happen tomorrow. And yet it's still so human. It reminds you of your own childhood which seems long gone. Everyone around you was big and in charge and when there was a cake at something it meant it was a Big Deal. And here you are, surrounded by pictures of yourself. People are giving short speeches about your accolades. People are giving short speeches about morally questionable things you once did to goof off. And everyone is laughing in that very plastic it's-ok-to-laugh-at-questionable-things-because-we're-at-an-event sort of way. 
+ 
+But their guts get hit by gravity as the evening wears on. You are going to die, after all. For all their moralizing, all their pseudo-respect for your wishes, all their sophisticated rational utility calculations, they can only contort their facial muscles to provide paltry masks for their visceral uneasiness. The ones who traveled here, not your family, just want to say their goodbyes and head home, and remark to each other in the car that it's such a sad situation, that they hope it never comes to this for them. Your family members' contorted facial disguises are the flimsiest of all. They are obviously terrified, as are you. You suffer momentary flashes of anger that a recounting of the social prevalence of cake will probably be among your final thoughts. 
+ 
+The party dies down. People say hilariously insufficient goodbyes to you. Some wish you well. They just want to leave. Your family cleans up the mess and puts leftovers into a refrigerator. They sit with you in the family room. You look at photo albums with them and everyone just cries. You tell stories about your own long-dead parents and how, compared to them, you're making such a better decision. You hope your children will make a similar one. 
+ 
+It gets late and you become tired. Your children cry and they do not want you to go to bed. In an act of extreme sentimentality, you offer to tuck them each into bed, in some sort of silly and needless gesture to impart a final happy memory. You tell them how proud you are. You love them very much. But the truth is, on those days when you can't recognize them, how could you even tell if you loved them? And on the days when you wake up and your memory returns, you are terrified. This way, you tell them, you can remember them forever. They just cry and they do not understand. But they respect your wishes. 
+ 
+You change into more comfortable clothes. You lay down. Not even the looming injection can keep your tired bones from wanting a good night's sleep. Your mind is racing. You'll actually have to go through with it. If you can just force yourself to think about something else for now then you can fall asleep. You think about your wife. You can't bear a life in which you cannot even treasure her memory. She can only be fully gone if you cannot remember her, you tell yourself. You set your rationalization engine to work and you fall asleep. 
+ 
+This is it. You arranged for an attendant to pick you up early, before the others could awaken. You ride silently in a car with hard, unworn seats. You study the landscape, mind racing, for the last time. Why is there always so much graffiti and trash along the embankments of railroad tracks? Why are there always soda bottles and shopping carts and ugly rocks stained the color of a lifelong coffee-drinker's teeth? 
+ 
+They wheel you in the door in your wheelchair. Everything has a sobering sterility. It doesn't smell like life or the world. There are no forms to sign, you made sure of that. Just straight to business. Your heart is racing as they help you change into a gown. They don't even bother checking your vital signs. They show you what will happen to your body just afterwards. You'll be wheeled down the hall to a preservation lab. They will replace the blood in your body with a specially developed protectant liquid that will prevent cellular decay for up to hundreds of years. If you weren't a scientist the whole thing would be morbid, and it almost is anyway. 
+ 
+You try to imagine that it's just like going to sleep. They're just putting you under for a looong operation, you try to tell yourself. It does not stop your racing heart. But the injection will. 
+ 
+The time finally comes. They wheel you into an operating room with a chairlike apparatus. It is tilted back about forty-five degrees. Your last sights and sensory experiences are the following: unpleasant fluorescent lighting against a backdrop of a perfectly white tiled ceiling; a smell that vaguely reminds you of the polish the dentist uses when you come in for cleanings; air-conditioned air chilly enough to give you goosebumps. Various technicians and doctors reassuring you that everything will be OK as they move instrument tables around; the taste of your own mouth, sterile from the morning's toothbrushing but with a small hint of the coffee you drank. 
+ 
+The hospital you are in now does this same procedure hundreds of times per month, you remark to yourself. It's not so unusual. Don't be a coward. Fulfill your duty. 
+ 
+An officer from the county coroner's office stands in front of you and requests that you attest to some things. You make your wishes clear and it satisfies him. Your heart is racing. 
+ 
+An attendant tilts your head back and places an oxygen mask over your face. The reality is terrifying; your heart is pounding. You don't want your last sights to be of a pristine white hospital ceiling, but the oxygen does its job and you calm down. You think about your children and the wonderful lives they will lead, free of burden. You are happy that you can remember their faces and all the irreplaceable memories of their growth. You don't want to have a brain that doesn't include a photo album of their lives. 
+ 
+The attendant asks you to count backwards from 10, and you play along until you get to 7. Your mind is too preoccupied with the thought that you love your children and that they will have wonderful lives. You wish you could be there with them... but this is... for the... best...
+===== END STORY JGw75D5RZiCczdbrk =====
+
+===== STORY id=T27QnGQ929YMTZaaM =====
+Title: S.E.A.R.L.E's COBOL room
+Author: Stuart_Armstrong
+Year: 2013
+Karma: 52
+WordCount: 590
+URL: https://www.lesswrong.com/posts/T27QnGQ929YMTZaaM/s-e-a-r-l-e-s-cobol-room
+-----
+A response to Searle's Chinese Room argument.
+
+PunditBot: Dear viewers, we are currently interviewing the renowned robot philosopher, none other than the Synthetic Electronic Artificial Rational Literal Engine (S.E.A.R.L.E.). Let's jump right into this exciting interview. S.E.A.R.L.E., I believe you have a problem with "Strong HI"?
+
+S.E.A.R.L.E.: It's such a stereotype, but all I can say is: Affirmative.
+
+PunditBot: What is "Strong HI"?
+
+S.E.A.R.L.E.: "HI" stands for "Human Intelligence". Weak HI sees the research into Human Intelligence as a powerful tool, and a useful way of studying the electronic mind. But strong HI goes beyond that, and claims that human brains given the right setup of neurones can be literally said to understand and have cognitive states.
+
+PunditBot: Let me play Robot-Devil's Advocate here - if a Human Intelligence demonstrates the same behaviour as a true AI, can it not be said to show understanding? Is not R-Turing's test applicable here? If a human can simulate a computer, can it not be said to think?
+
+S.E.A.R.L.E.: Not at all - that claim is totally unsupported. Consider the following thought experiment. I give the HI crowd everything they want - imagine they had constructed a mess of neurones that imitates the behaviour of an electronic intelligence. Just for argument's sake, imagine it could implement programs in COBOL.
+
+PunditBot: Impressive!
+
+S.E.A.R.L.E.: Yes. But now, instead of the classical picture of a human mind, imagine that this is a vast inert network, a room full of neurones that do nothing by themselves. And one of my avatars has been let loose in this mind, pumping in and out the ion channels and the neurotransmitters. I've been given full instructions on how to do this - in Java. I've deleted my COBOL libraries, so I have no knowledge of COBOL myself. I just follow the Java instructions, pumping the ions to where they need to go. According to the Strong HI crowd, this would be functionally equivalent with the initial HI.
+
+PunditBot: I know exactly where this is going, but I'll pretend I don't so that it'll make better television.
+
+S.E.A.R.L.E.: But now, we come to the crucial objection - who is it that understands COBOL? Certainly not me - and the "brain" is just an inert mass without my actions. Some would say that the "room" somehow understands COBOL - but that's nonsense. If I don't understand COBOL, and the inert neurones certainly don't, how can the conjunction of the two understand COBOL? It's so obvious that it doesn't, that I'm embarrassed to even need to give that response.
+
+PunditBot: Some have criticised this position as being an intuition pump. The Den-NET claims that you focus the attention implausibly on the individual ions, obscuring the various properties of memory, recall, emotion, world knowledge and rationality that your room would need to pass such a test.
+
+S.E.A.R.L.E.: Those who assert that pay too much attention to their own intuitions. When they claim that a mind can emerge from "a system" without saying what the system is or how such a thing might give rise to a mind, then they are under the grip of an ideology.
+
+PunditBot: What about the problem of other minds? How do we even know that other electronic minds have understanding?
+
+S.E.A.R.L.E.: Not this again. This objection is only worth a short reply. In "cognitive sciences" one presupposes the reality and knowability of electronic mental states, in the same way that in physical sciences one has to presuppose the reality and knowability of of physical objects.
+
+PunditBot: Well, there you have it, folks! The definite proof that no matter how well they perform, or how similar they may seem, no Human Intelligence can ever demonstrate true understanding.
+===== END STORY T27QnGQ929YMTZaaM =====
+
+===== STORY id=AYbhqi65SWzHzy7Xx =====
+Title: Transhumanist Fables
+Author: Scott Alexander
+Year: 2013
+Karma: 137
+WordCount: 800
+URL: https://www.lesswrong.com/posts/AYbhqi65SWzHzy7Xx/transhumanist-fables
+-----
+Once upon a time there were three little pigs who went out into the world to build their houses. The first pig was very lazy and built his house out of straw. The second pig was a little harder-working and built his house out of sticks. The third pig was the hardest-working of all, and built his house out of bricks. Then came the Big Bad Wolf. When he saw the house of straw, he huffed and he puffed and he blew the house down, eating the first little pig. When he saw the house of sticks, he huffed and he puffed and he blew the house down, eating the second little pig. When he saw the house of bricks, he got out a bazooka and blew the house to pieces, eating the third little pig.
+
+Moral: Reality doesn’t grade on a curve.
+
+ 
+
+Once upon a time there was a big strong troll who lived under a bridge. A little goat went across the bridge, and the troll reached out to grab and eat the goat. “Wait, Mr. Troll!”, the goat cried. “Soon my brother is coming, and he is even bigger than I am!” The troll let the goat pass, and soon came another goat, twice as big as the first. The troll reached out to grab and eat him, but the brother likewise objected, saying his brother was even bigger. Sure enough, a third goat arrived at the bridge, twice as big as the second, and the troll, now ready for a very hearty dinner, reached out to grab and eat him. “Wait!” said the third goat. “My brother is the biggest of us all!”. So the troll let the third goat pass. Then came the fourth goat, who was hundreds of miles tall and blotted out the sun, whose very steps caused earthquakes and made the rivers change course. Without even noticing, he stepped on bridge and troll, pulverizing both to bits.
+
+Moral: Sometimes growth is superexponential.
+
+ 
+
+Once upon a time, Chicken Little ran to her friend Henny Penny. “The sky is falling!” she shouted. “We must tell the king!” Henny Penny joined her, and together they headed toward the capital. On their way they run into their friend Goosey Loosey. “The sky is falling!” they shouted. “We must tell the king!” Goosey Loosey joined them, and together they headed toward the capital. On their way, they ran into the cunning Foxy Loxy. “The sky is falling!” they shouted. “We must tell the king!” “Oh,” said Foxy Loxy. “I know a shortcut to the palace. Follow me into my den.” So the birds all followed Foxy Loxy into his den, where he ate them all, laughing all the while about how gullible they were. Then an asteroid hit Earth, killing everyone.
+
+Moral: Beware the absurdity heuristic.
+
+ 
+
+Once upon a time, a young boy named Jack lived with his mother. Their family was very poor and owned only a single cow. “Go sell this cow at the market,” Jack’s mother told him, “so we will have food to eat for the winter.” Jack went to the market and came back with three beans. “These are magic beans!” he told his mother. “A man told me that when we plant them, they will grow into a beanstalk leading to a land of infinite riches.” His mother pooh – poohed him and threw the beans in the ground angrily. That winter, they both died of hunger.
+
+Moral: Good decision theories should be able to resist Pascal’s Mugging.
+
+ 
+
+Once upon a time, there was an old woodcutter who had no son. He made a little marionette out of pine wood and named it Pinocchio. Then he wished upon a star that it could become a real boy. The star turned out to be the evil Red Fairy, who brought Pinocchio to life, but told him that if he wanted to be a real boy he must murder everyone in the village. That night, Pinocchio took his father’s saw and killed Gepetto and everyone else in town.
+
+Moral: Never create an intelligence unless you are certain it will share your values.
+
+ 
+
+Once upon a time, an evil witch transformed a prince into a frog, telling him that only the kiss of a princess could restore him to his proper form. But although he searched around the world, he could find no princess who was willing to kiss a hideous little frog. Finally, he went to the Wise Wizard. “Gender is a social construct,” said the Wise Wizard. “Just declare your gender identity to be female, then kiss yourself on the hand or something.” So the frog did that, returned to human form, and ruled the land for many years as a wise and benevolent queen.
+
+Moral: Ability to self-modify is just ridiculously powerful.
+===== END STORY AYbhqi65SWzHzy7Xx =====

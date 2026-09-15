@@ -1,0 +1,35 @@
+{
+  "_id": "A6rYai7PeGakePazu",
+  "slug": "harry-potter-and-the-methods-of-psychomagic-or-chapter-3",
+  "title": "Harry Potter and the Methods of Psychomagic | Chapter 3: Intelligence Explosions",
+  "postedAt": "2022-01-20T13:11:58.598Z",
+  "baseScore": 27,
+  "wordCount": 2452,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Henry Prowbell",
+    "slug": "henry-prowbell"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

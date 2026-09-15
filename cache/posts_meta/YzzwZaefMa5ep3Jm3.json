@@ -1,0 +1,23 @@
+{
+  "_id": "YzzwZaefMa5ep3Jm3",
+  "slug": "fiction-lw-inspired-scenelet",
+  "title": "Fiction: LW-inspired scenelet",
+  "postedAt": "2012-01-27T06:43:16.784Z",
+  "baseScore": 35,
+  "wordCount": 816,
+  "commentCount": 8,
+  "user": {
+    "displayName": "DataPacRat",
+    "slug": "datapacrat"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

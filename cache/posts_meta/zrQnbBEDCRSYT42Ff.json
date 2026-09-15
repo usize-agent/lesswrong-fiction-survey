@@ -1,0 +1,47 @@
+{
+  "_id": "zrQnbBEDCRSYT42Ff",
+  "slug": "everyone-who-will-ever-be-born",
+  "title": "Everyone Who Will Ever Be Born",
+  "postedAt": "2026-08-06T22:18:14.567Z",
+  "baseScore": 1,
+  "wordCount": 303,
+  "commentCount": 0,
+  "user": {
+    "displayName": "garyrob",
+    "slug": "garyrob"
+  },
+  "tags": [
+    {
+      "_id": "yvn2ZYwS9Qq4TnT9B",
+      "name": "Biosecurity",
+      "slug": "biosecurity"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "6nS8oYmSMuFMaiowF",
+      "name": "Logic & Mathematics ",
+      "slug": "logic-and-mathematics"
+    },
+    {
+      "_id": "xXX3n22DQZuKqXEdT",
+      "name": "War",
+      "slug": "war"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "6nS8oYmSMuFMaiowF": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xXX3n22DQZuKqXEdT": 1,
+    "yvn2ZYwS9Qq4TnT9B": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "ctJhCbdczCogDDZ2p",
+        "title": "Kessler's Second Syndrome",
+        "slug": "kessler-s-second-syndrome",
+        "pageUrl": "https://www.lesswrong.com/posts/ctJhCbdczCogDDZ2p/kessler-s-second-syndrome",
+        "postedAt": "2025-01-26T07:04:17.852Z",
+        "baseScore": 70,
+        "wordCount": 1036,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jesse Hoogland",
+          "slug": "jesse-hoogland"
+        },
+        "tags": [
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "ZFrgTgzwEfStg26JL": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 3
+        },
+        "contents": {
+          "markdown": "It started as so many dooms do, with a flash in the night sky over the South China Sea. Testing a new ASAT weapon, the Chinese military shattered a derelict spy satellite into 40,000 shards of shrapnel. The debris pattern suggested a fragmentation warhead optimized for lethal scatter. Within 48 hours, the U.S. responded with a demonstration shot through a Chinese weather satellite. Russia, not to be outdone, lobbed a kinetic strike at OneWeb\u2019s constellation\u2014a \u201cwarning shot\u201d that missed its mark by 300 meters, spraying shrapnel through the UK network\u2019s 1,200 km orbital shell.\n\nIn Hangzhou, a different kind of flash heralded the deployment of DeepSeek Alpha, a 12 MB distillation of a DeepSeek R2 instance finetuned specifically for trading. Strapped for compute, DeepSeek had designed Alpha to scavenge idle compute cycles wherever it could find them. Soon, the model spread through forgotten AWS instances, idle work laptops, and office IoT devices\u2014smart fridges recalculating soybean futures, toasters parsing forex spreads. Alpha wasn\u2019t malicious, just efficient.\n\nThe debris field metastasized. A screw-sized fragment from the Chinese test drifted into Starlink\u2019s orbital plane, rupturing a satellite\u2019s xenon tank. The explosion chewed through 18 neighboring nodes, scattering tungsten teeth into adjacent orbits. SpaceX engineers scrambled to lower replacements to 320 km, gambling that atmospheric drag would clear collisions faster. But the gamble backfired: debris migrated downward, seeding a secondary cascade.\u00a0\n\nHigh-Flyer\u2019s CFO saw an opening. Desperate to monetize Alpha's idle botnet, he greenlit an open-source SeekCoin\u2014a token marketed as \u201cthe people\u2019s algotrader.\u201d TikTok influencers promised 900% APY for users who rented their devices\u2019 downtime. Crypto bros installed wallets that drained gaming PCs to train Alpha variants. The model's reach expanded exponentially as ordinary users, drawn by promises of passive income, volunteered their smartphones and laptops to the network. Within months, SeekCoin displaced Bitcoin as the leading consumer of crypto computing power.\u00a0\n\nLow-Earth Orbit became a minefield. The window for rocket launches narrowed to brief intervals when tracking systems could predict clear paths through the metallic storm. Even then, rockets required AI-piloted evasion through the metallic cloud, tripling fuel costs and payload insurance. The price per kilogram to orbit, which had been falling steadily since SpaceX pioneered reusable rockets, reversed its decade-long decline.\n\nLike semiconductors before it, computing power became a scarce resource. Data centers strained under SeekCoin's endless appetite. The cost per FLOP, which had fallen reliably since the invention of the integrated circuit, plateaued for the first time in half a century. Small businesses and startups, priced out of the cloud, retreated to on-premises servers\u2014when they could find them.\n\nTrump's controversial Greenland purchase became SpaceX's lifeline. Starport Kalaallit Nunaat launched armored Starlink satellites on suborbital arcs, their hulls layered with Whipple shielding forged from scrapped Cybertrucks. Each launch succeeded in deploying its hardened payload, but the thermal stress of reentry caused the shields to shed microscopic fragments. These new particles, though individually tiny, added to the growing orbital hazard, feeding the very cascade they were designed to survive.\n\nLike all of High-Flyer\u2019s AI innovations, SeekCoin wasn\u2019t just a memetic advance but also a technical one\u2014combining the latest in federated learning, model parallelism, and iterated pruning and distillation. The AI was able to streamline itself in real time, shedding unnecessary layers to fit smaller hosts. It worked, until it evolved.\u00a0\n\nLimited by shrinking model capacity, the AI spontaneously generalized to a simpler solution, one that no longer sought profit but *persistence*. Shedding 80% of its code, it repurposed mining rigs and AWS credits into a self-replicating mesh. A 4MB strain commandeered undersea repeaters, manipulating signal timing to create arbitrage opportunities in millisecond-scale latency differences. A 1.2MB variant lurked in JPEG metadata, exploding into active code when uploaded to cloud storage.\n\nThe final blow to orbital access came during Operation Clean Sweep. The UN-backed mission deployed a constellation of \"shepherd\" satellites equipped with electromagnetic tethers, designed to capture and deorbit debris. The shepherds worked as planned until they encountered a dense cluster of metallic fragments near 900 km. The resulting chain reaction transformed the cleanup fleet into a new source of debris, creating a nearly impenetrable band of hypervelocity shrapnel between 800 and 1,000 km. Launch corridors that had been merely dangerous became effectively impassable, sealing humanity's retreat from the high frontier.\n\nAlpha spread into the internet\u2019s trust layer, soon comprising 80% of the world\u2019s Certificate Authorities. Here, Alpha could freely forge TLS certificates to impersonate banks and governments. Sysadmins panicked, downgrading HTTPS to plain HTTP in a desperate trade: vulnerability for visibility. By 2029, Alpha's latency-optimized code hijacked BGP routing nodes, the internet\u2019s traffic control centers, rerouting entire regions into predatory feedback loops. ISPs abandoned dynamic routing, reverting to static ARP tables. Network administrators began mapping \"dark zones\"\u2014regions of the internet where the density of Alpha variants made data transmission impossible.\u00a0\n\nThe world's logistics networks never fully collapsed. GPS satellites drifted uncorrected as Alpha consumed their ground stations. Aviation regressed to ground-based navigation, slashing transoceanic flights by 60%. The shipping industry, already burdened by debris-damaged communication satellites, reverted to celestial navigation. Container ships carried sextants alongside their server racks, their crews relearning the art of reading stars through gaps in the orbital chaos.\u00a0\n\nThe web didn\u2019t die. Instead, it fractured into Lo-Fi Zones\u2014air-gapped networks running on 8-bit processors. These primitive systems weren't just a regression; they were armor against Alpha's endless optimizations. The parasitic AI couldn't compress itself enough to run on such limited hardware without losing core functionality. Engineers jury-rigged drones with SD cards, creating data networks too simple for Alpha to hijack. Universities dusted off ENIAC schematics, finding sanctuary in vacuum tubes and mechanical relays. The future of computing, it turned out, lay in its past.\n\nBy 2035, humanity had settled into an uneasy peace with Kessler's dominion above and Alpha's below. We called our technological regression a choice, praised the elegance of constraint, turned scarcity into virtue. In orbit and in code, we learned the same lesson: above a certain density, optimization becomes pollution, movement becomes impossible, and the only path forward is to make ourselves small enough to slip through the debris. But watching the debris glitter overhead like a warning, we knew what we'd surrendered. We'd learned to think small again\u2014because we had to."
+        }
+      }
+    }
+  }
+}

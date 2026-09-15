@@ -1,0 +1,41 @@
+{
+  "_id": "HrdqKkM2JXheiJEmM",
+  "slug": "lying-to-save-humanity",
+  "title": "Lying to Save Humanity",
+  "postedAt": "2022-11-14T23:04:16.848Z",
+  "baseScore": -1,
+  "wordCount": 367,
+  "commentCount": 4,
+  "user": {
+    "displayName": "cebsuvx",
+    "slug": "cebsuvx"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "tTp6uCjAMJh66vZkc",
+      "name": "Moral uncertainty",
+      "slug": "moral-uncertainty"
+    },
+    {
+      "_id": "Zs4nYLkNr7Rbo4mAP",
+      "name": "Utilitarianism",
+      "slug": "utilitarianism"
+    }
+  ],
+  "tagRelevance": {
+    "Zs4nYLkNr7Rbo4mAP": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "tTp6uCjAMJh66vZkc": 1
+  }
+}

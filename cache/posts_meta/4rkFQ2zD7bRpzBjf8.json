@@ -1,0 +1,29 @@
+{
+  "_id": "4rkFQ2zD7bRpzBjf8",
+  "slug": "defeating-the-villain",
+  "title": "Defeating the Villain",
+  "postedAt": "2015-03-26T21:43:03.702Z",
+  "baseScore": 49,
+  "wordCount": 686,
+  "commentCount": 38,
+  "user": {
+    "displayName": "Zubon",
+    "slug": "zubon"
+  },
+  "tags": [
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

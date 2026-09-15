@@ -1,0 +1,35 @@
+{
+  "_id": "6SEtDrChLDmZQeorb",
+  "slug": "interview-with-skynet",
+  "title": "Interview with Skynet",
+  "postedAt": "2021-09-30T02:20:38.492Z",
+  "baseScore": 49,
+  "wordCount": 533,
+  "commentCount": 1,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 4
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "qaHHJ3kkCQS4nsoGJ",
+  "slug": "it-was-you-who-made-my-blue-eyes-blue",
+  "title": "It Was You Who Made My Blue Eyes Blue",
+  "postedAt": "2015-10-15T19:46:40.520Z",
+  "baseScore": 58,
+  "wordCount": 5892,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "kCuRQE5Tkv9zeKyzK",
+      "name": "Common Knowledge",
+      "slug": "common-knowledge"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "kCuRQE5Tkv9zeKyzK": 1
+  }
+}

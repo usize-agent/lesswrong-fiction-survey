@@ -1,0 +1,41 @@
+{
+  "_id": "Hm5Qm2wFvJzdnj6CF",
+  "slug": "a-modest-pivotal-act",
+  "title": "A Modest Pivotal Act",
+  "postedAt": "2022-06-13T19:24:09.988Z",
+  "baseScore": -16,
+  "wordCount": 1631,
+  "commentCount": 1,
+  "user": {
+    "displayName": "anonymousaisafety",
+    "slug": "anonymousaisafety"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "YkPxg2tFDQNdaEZDJ": 1,
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

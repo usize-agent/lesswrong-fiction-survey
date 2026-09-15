@@ -1,0 +1,29 @@
+{
+  "_id": "5XDuE9BEiRZcbKZhW",
+  "slug": "three-parables-of-microeconomics",
+  "title": "Three Parables of Microeconomics",
+  "postedAt": "2014-05-09T18:18:23.666Z",
+  "baseScore": 34,
+  "wordCount": 945,
+  "commentCount": 40,
+  "user": {
+    "displayName": "jimrandomh",
+    "slug": "jimrandomh"
+  },
+  "tags": [
+    {
+      "_id": "PDJ6KqJBRzvKPfuS3",
+      "name": "Economics",
+      "slug": "economics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "PDJ6KqJBRzvKPfuS3": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

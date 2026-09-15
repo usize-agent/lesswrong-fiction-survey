@@ -1,0 +1,29 @@
+{
+  "_id": "q4qgxzERtTsBcGoQb",
+  "slug": "chapter-90-roles-pt-1",
+  "title": "Chapter 90: Roles, Pt 1",
+  "postedAt": "2015-03-14T19:00:34.663Z",
+  "baseScore": 28,
+  "wordCount": 5417,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "NzSTgAtKwgivkfeYm",
+      "name": "Heroic Responsibility",
+      "slug": "heroic-responsibility"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "NzSTgAtKwgivkfeYm": 2,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

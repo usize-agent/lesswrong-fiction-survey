@@ -1,0 +1,53 @@
+{
+  "_id": "cujpciCqNbawBihhQ",
+  "slug": "self-integrity-and-the-drowning-child",
+  "title": "Self-Integrity and the Drowning Child",
+  "postedAt": "2021-10-24T20:57:01.742Z",
+  "baseScore": 355,
+  "wordCount": 1456,
+  "commentCount": 91,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "GpLuMNKKpeJkmigEY",
+      "name": "Integrity",
+      "slug": "integrity"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "7SwDQTmkovtTAxsNo",
+      "name": "Keltham",
+      "slug": "keltham"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "7SwDQTmkovtTAxsNo": 1,
+    "EmaCLRKb4baBFq4ra": 6,
+    "F2XfCTxXLQBGjbm8P": 2,
+    "GpLuMNKKpeJkmigEY": 2,
+    "Ng8Gice9KNkncxqcj": 4,
+    "nSHiKwWyMZFdZg5qt": 4
+  }
+}

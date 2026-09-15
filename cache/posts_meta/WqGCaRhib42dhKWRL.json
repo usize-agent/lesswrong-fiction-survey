@@ -1,0 +1,59 @@
+{
+  "_id": "WqGCaRhib42dhKWRL",
+  "slug": "if-many-worlds-had-come-first",
+  "title": "If Many-Worlds Had Come First",
+  "postedAt": "2008-05-10T07:43:55.000Z",
+  "baseScore": 100,
+  "wordCount": 2620,
+  "commentCount": 190,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb1c9",
+      "name": "Many-Worlds Interpretation",
+      "slug": "many-worlds-interpretation"
+    },
+    {
+      "_id": "nBCLy89Nqd8ouR6XT",
+      "name": "Quantum Mechanics",
+      "slug": "quantum-mechanics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "hQiuNkBhn6xxcedTD",
+      "name": "Occam's Razor",
+      "slug": "occam-s-razor"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "csMv9MvvjYJyeHqoo",
+      "name": "Physics",
+      "slug": "physics"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "csMv9MvvjYJyeHqoo": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2,
+    "hQiuNkBhn6xxcedTD": 1,
+    "nBCLy89Nqd8ouR6XT": 3,
+    "5f5c37ee1b5cdee568cfb1c9": 3
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "bYbErMTezFiDaMeqC",
+  "slug": "the-passive-man",
+  "title": "The Passive Man",
+  "postedAt": "2026-08-06T07:28:20.526Z",
+  "baseScore": 11,
+  "wordCount": 594,
+  "commentCount": 0,
+  "user": {
+    "displayName": "warner",
+    "slug": "warner"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "fkABsGCJZ6y9qConW": 1
+  }
+}

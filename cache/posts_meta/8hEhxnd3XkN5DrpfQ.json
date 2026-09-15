@@ -1,0 +1,29 @@
+{
+  "_id": "8hEhxnd3XkN5DrpfQ",
+  "slug": "evaluation",
+  "title": "Evaluation",
+  "postedAt": "2026-09-05T16:25:28.972Z",
+  "baseScore": 186,
+  "wordCount": 795,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Nina Panickssery",
+    "slug": "nina-panickssery"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

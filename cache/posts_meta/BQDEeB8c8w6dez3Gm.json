@@ -1,0 +1,29 @@
+{
+  "_id": "BQDEeB8c8w6dez3Gm",
+  "slug": "all-i-know-is-that-i-know-nothing",
+  "title": "All I Know is that I Know Nothing",
+  "postedAt": "2022-04-22T15:33:52.797Z",
+  "baseScore": 64,
+  "wordCount": 657,
+  "commentCount": 13,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 3,
+    "Ng8Gice9KNkncxqcj": 2
+  }
+}

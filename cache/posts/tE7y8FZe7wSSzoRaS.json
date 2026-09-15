@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "tE7y8FZe7wSSzoRaS",
+        "title": "The Parable of the Boy Who Cried 5% Chance of Wolf",
+        "slug": "the-parable-of-the-boy-who-cried-5-chance-of-wolf",
+        "pageUrl": "https://www.lesswrong.com/posts/tE7y8FZe7wSSzoRaS/the-parable-of-the-boy-who-cried-5-chance-of-wolf",
+        "postedAt": "2022-08-15T14:33:21.649Z",
+        "baseScore": 141,
+        "wordCount": 454,
+        "commentCount": 24,
+        "noIndex": false,
+        "user": {
+          "displayName": "KatSpartz",
+          "slug": "ea247"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 3,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "*Epistemic status: a parable making a moderately strong claim about statistics*\n\nOnce upon a time, there was a boy who cried \"there's a 5% chance there's a wolf!\"\n\nThe villagers came running, saw no wolf, and said \"He *said* there was a wolf and there was not. Thus his probabilities are wrong and he's an alarmist.\"\n\nOn the second day, the boy heard some rustling in the bushes and cried \"there's a 5% chance there's a wolf!\"\n\nSome villagers ran out and some did not.\n\nThere was no wolf.\n\nThe wolf-skeptics who stayed in bed felt smug.\n\n\"That boy is always saying there is a wolf, but there isn't.\"\n\n\"I didn't say there *was* a wolf!\" cried the boy. \"I was estimating the probability at **low, but high enough**. A false alarm is much less costly than a missed detection when it comes to dying! The expected value is good!\"\n\nThe villagers didn't understand the boy and ignored him.\n\nOn the third day, the boy heard some sounds he couldn't identify but seemed wolf-y. \"There's a 5% chance there's a wolf!\" he cried.\n\nNo villagers came.\n\nIt was a wolf.\n\nThey were all eaten.\n\nBecause the villagers did not think probabilistically.\n\nThe moral of the story is that **we should expect to have a large number of false alarms before a catastrophe hits and that is not strong evidence against impending but improbable catastrophe.**\n\nEach time somebody put a low but high enough probability on a pandemic being about to start, they weren't wrong when it didn't pan out. H1N1 and SARS and so forth didn't become global pandemics. But they *could* have. They had a **low probability, but high enough to raise alarms.**\n\nThe problem is that people then thought to themselves \"Look! People freaked out about those last ones and it was fine, so people are terrible at predictions and alarmist and we shouldn't worry about pandemics\"\n\nAnd then COVID-19 happened.\n\nThis will happen again for other things.\n\nPeople will be raising the alarm about something, and in the media, the nuanced thinking about probabilities will be washed out.\n\nYou'll hear people saying that X will definitely fuck everything up very soon.\n\nAnd it doesn't.\n\nAnd when the catastrophe doesn't happen, don't over-update.\n\nDon't say, \"They cried wolf before and nothing happened, thus they are no longer credible.\"\n\nSay \"**I wonder what probability they or I should put on it? Is that high enough to set up the proper precautions?**\"\n\nWhen somebody says that nuclear war hasn't happened yet despite all the scares, when somebody reminds you about the AI winter where nothing was happening in it despite all the hype, remember the boy who cried a 5% chance of wolf.\n\n*Originally posted on my* [*Twitter*](https://twitter.com/Kat__Woods) *and* [*personal blog*](http://www.katwoods.org/home/the-parable-of-the-boy-who-cried-5-chance-of-wolf).\n\n*Reminder that if this reaches 35 upvotes,* [*you can listen to this post on your podcast player*](https://forum.effectivealtruism.org/posts/JTZTBienqWEAjGDRv/listen-to-more-ea-content-with-the-nonlinear-library) *using* [*the Nonlinear Library*](https://forum.effectivealtruism.org/posts/JTZTBienqWEAjGDRv/listen-to-more-ea-content-with-the-nonlinear-library).\n\nCross-posted"
+        }
+      }
+    }
+  }
+}

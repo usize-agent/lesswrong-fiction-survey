@@ -1,0 +1,23 @@
+{
+  "_id": "B7WPQKujmiozkujdB",
+  "slug": "a-letter-of-babble",
+  "title": "a letter of babble",
+  "postedAt": "2026-04-28T06:22:04.830Z",
+  "baseScore": 37,
+  "wordCount": 1412,
+  "commentCount": 0,
+  "user": {
+    "displayName": "LawrenceC",
+    "slug": "lawrencec"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

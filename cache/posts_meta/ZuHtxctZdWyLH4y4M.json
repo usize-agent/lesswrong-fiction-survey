@@ -1,0 +1,47 @@
+{
+  "_id": "ZuHtxctZdWyLH4y4M",
+  "slug": "what-kind-of-ai-god-should-we-create",
+  "title": "What kind of AI god should we create?",
+  "postedAt": "2026-02-23T23:48:49.155Z",
+  "baseScore": 1,
+  "wordCount": 993,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Rick Moss",
+    "slug": "rick-moss"
+  },
+  "tags": [
+    {
+      "_id": "6zBEfFYJxhSEcchbR",
+      "name": "AI Alignment Fieldbuilding",
+      "slug": "ai-alignment-fieldbuilding"
+    },
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb297",
+      "name": "Superintelligence",
+      "slug": "superintelligence"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "6zBEfFYJxhSEcchbR": 1,
+    "X8JsWEnBRPvs5Y99i": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "5f5c37ee1b5cdee568cfb297": 1
+  }
+}

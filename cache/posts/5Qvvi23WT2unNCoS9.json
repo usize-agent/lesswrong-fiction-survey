@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "5Qvvi23WT2unNCoS9",
+        "title": "A Much Better Life?",
+        "slug": "a-much-better-life",
+        "pageUrl": "https://www.lesswrong.com/posts/5Qvvi23WT2unNCoS9/a-much-better-life",
+        "postedAt": "2010-02-03T20:01:57.431Z",
+        "baseScore": 87,
+        "wordCount": 540,
+        "commentCount": 174,
+        "noIndex": false,
+        "user": {
+          "displayName": "Psychohistorian",
+          "slug": "psychohistorian"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "yEs5Tdwfw5Zw8yGWC",
+            "name": "Wireheading",
+            "slug": "wireheading"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "hNFdS3rRiYgqqD8aM": 2,
+          "yEs5Tdwfw5Zw8yGWC": 2
+        },
+        "contents": {
+          "markdown": "(Response to: [You cannot be mistaken about (not) wanting to wirehead](/lw/1oc/you_cannot_be_mistaken_about_not_wanting_to),  [Welcome to Heaven)](/lw/1o9/welcome_to_heaven)\n\nThe Omega Corporation  \nInternal Memorandum  \nTo: Omega, CEO  \nFrom: Gamma, Vice President, Hedonic Maximization\n\nSir, this concerns the newest product of our Hedonic Maximization Department, the Much-Better-Life Simulator. This revolutionary device allows our customers to essentially plug into the Matrix, except that instead of providing robots with power in flagrant disregard for the basic laws of thermodynamics, they experience a life that has been determined by rigorously tested algorithms to be the most enjoyable life they could ever experience. The MBLS even eliminates all memories of being placed in a simulator, generating a seamless transition into a life of realistic perfection.\n\nOur department is baffled. Orders for the MBLS are significantly lower than estimated. We cannot fathom why every customer who could afford one has not already bought it. It is simply impossible to have a better life otherwise. Literally. Our customers' best possible real life has already been modeled and improved upon many times over by our programming. Yet, many customers have failed to make the transition. Some are even expressing shock and outrage over this product, and condemning its purchasers.\n\nExtensive market research has succeeded only at baffling our researchers. People have even refused free trials of the device. Our researchers explained to them in perfectly clear terms that their current position is misinformed, and that once they tried the MBLS, they would never want to return to their own lives again. Several survey takers went so far as to specify *that statement* as their reason for refusing the free trial! They *know* that the MBLS will make their life so much better that they won't want to live without it, and they refuse to try it *for that reason!* Some cited their \"utility\" and claimed that they valued \"reality\" and \"actually accomplishing something\" over \"mere hedonic experience.\" Somehow these organisms are incapable of comprehending that, inside the MBLS simulator, they will be able to experience the feeling of actually accomplishing feats far greater than they could ever accomplish in real life. Frankly, it's remarkable such people amassed enough credits to be able to afford our products in the first place!\n\nYou may recall that a Beta version had an off switch, enabling users to deactivate the simulation after a specified amount of time, or could be terminated externally with an appropriate code. These features received somewhat positive reviews from early focus groups, but were ultimately eliminated. No agent could reasonably want a device that could allow for the interruption of its perfect life. Accounting has suggested we respond to slack demand by releasing the earlier version at a discount; we await your input on this idea.\n\nProfits aside, the greater good is at stake here. We feel that we should find every customer with sufficient credit to purchase this device, forcibly install them in it, and bill their accounts. They will immediately forget our coercion, and they will be many, many times happier. To do anything less than this seems criminal. Indeed, our ethics department is currently determining if we can justify delaying putting such a plan into action. Again, your input would be invaluable.\n\nI can't help but worry there's something we're just not getting."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Qz4k8RWACLmNgtc3a",
+        "title": "Luna Lovegood and the Chamber of Secrets - Part 11",
+        "slug": "luna-lovegood-and-the-chamber-of-secrets-part-11",
+        "pageUrl": "https://www.lesswrong.com/posts/Qz4k8RWACLmNgtc3a/luna-lovegood-and-the-chamber-of-secrets-part-11",
+        "postedAt": "2020-12-27T09:03:19.624Z",
+        "baseScore": 62,
+        "wordCount": 586,
+        "commentCount": 23,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 4
+        },
+        "contents": {
+          "markdown": "Luna closed Professor Gilderoy Lockhart's office door behind her.\n\n\"I thought our next interview wasn't until Friday,\" Professor Lockhart said.\n\n\"You-Know-Who is alive. He transferred his soul to Harry Potter twelve years ago. I know because both of their real names is Tom Riddle,\" Luna showed him the map and explained how she had gone back in time, \"Harry Potter is constructing a secret citadel inside the Hogwarts grounds from which he plans to rule the world. He even told me he plans to 'save the world', which is code for conquering it.\"\n\n\"It is not easy to kill a Dark Lord,\" said Professor Lockhart.\n\n\"We must take him alive,\" Luna said, \"Tom Riddle has all the magical secrets of Salazar Slytherin. We need them to kill the nargle. Fortunately he is in the body of a 12-year-old. You can crush him with a *Finite Incantatem* and then stun him. In the best case you are heralded as the vanquisher of You-Know-Who. In the worst case we Obliviate him and forget this ever happened.\"\n\n\"We should alert the proper authorities,\" Professor Lockhart said.\n\n\"Cease the humility,\" Luna said, \"Do you not have more confirmed kills than anyone in the ministry?\"\n\n\"I take credit for the kills of paranoid Aurors who want to keep a low profile,\" Lockhart said, \"We should tell Mad-Eye Moody. He can kill You-Know-Who. I can take the credit. You can invent an exciting story about me for *The Quibbler*. Everybody wins except You-Know-Who.\"\n\n\"Mad-Eye Moody knows You-Know-Who is abusing his power. It is a joke to them. You know Mad-Eye's feelings about the law,\" Luna said.\n\n\"If Harry's behavior is acceptable to Mad-Eye then it is acceptable to me too,\" said Professor Lockhart. He rested his feet on his desk.\n\n\"Mad-Eye doesn't know about the nargle,\" said Luna.\n\n\"What's a nargle?\" said Professor Lockhart.\n\nLuna unfolded the Marauder's Map. Luna carefully read off the name of each being in Hogwarts until exactly one of them gave her a feeling of unimportance. She read it aloud. The name smelled warm and tasted rough on her ears. The nargle ate Luna's shoes by her bed in the Ravenclaw Common Room.\n\n\"Look here at this dot in the Ravenclaw Common Room named \u02e2\u0334\u0346\u034c\u0360\u030e\u0358\u033e\u0351\u0341\u0313\u0352\u030e\u0301\u030e\u0310\u0354\u0345\u033b\u0328\u0318\u03b5\u0335\u031a\u030f\u033e\u030c\u0302\u0310\u030b\u033e\u0343\u0360\u0357\u033d\u032d\u0332\u032d\u0327\u0330\u0345\u032dl\u0335\u0306\u0314\u030e\u0343\u0346\u0344\u0343\u0341\u030e\u0318\u032b\u033c\u0322\u0321\u0359\u035c\u0325\u0316\u034d\u032b\u032b\u0327\u0316\u0354\u0324\u0325d\u0334\u035d\u0328\u0359\u0333\u033b\u032b\u0328\u0320\u031c\u0339\u0325\u0328\u03a3\u0337\u0306\u0300\u031b\u0347\u0319\u033b\u032a\u0285\u0335\u034c\u030a\u033d\u0344\u030b\u0302\u0303\u0344\u0310\u0308\u030f\u0343\u033f\u0344\u0311\u0316\u0322\u0331\u032f\u0321\u0347\u0319\u0359\u031c\u031f\u0354\u033c\u032d\u035a\u2c60\u0338\u031a\u0315\u0358\u035b\u0351\u0315\u035d\u035d\u0310\u030c\u030d\u0307\u0304\u035d\u0309\u030e\u030d\u0348\u027e\u0335\u0344\u0306\u035d\u032d\u03b9\u0335\u0302\u0358\u0315\u0315\u0304\u0310\u0340\u0346\u030e\u030f\u0344\u0333\u032e\u0325\u0327\u0349\u019a\u0337\u0315\u033f\u0313\u035d\u0301\u033d\u033d\u0310\u0350\u033b\u0348\u0323\u031c\u033a\u031e\u033c\u0188\u0336\u0340\u0343\u0300\u0305\u030a\u031a\u0307\u030c\u033d\u030b\u0357\u030e\u0329\u0321\u032f\u0330\u0359\u0326\u0345\u0332\u050b\u0338\u0358\u030b\u0344\u030b\u0358\u031a\u0300\u033d\u0305\u033a\u031f\u0333\u0320\u0330\u0354\u0349\u034e\u0348\u0333\u0333\u033b\u035a\u0329\u13a7\u0337\u0343\u033f\u0301\u0344\u034a\u0301\u0333\u0354\u0348\u0317\u0356\u031e\u0326\u031f\u0331\u0354\u034d\u032b\u032c\u031e\u0280\u0338\u0304\u030a\u0305\u030a\u032b\u0325\u0319\u031e\u0331\u0329\u0327\u031f\u0331\u034d\u15dd\u0338\u0304\u0344\u0341\u031a\u033f\u0356\u035a\u032c\u0353\u0325\u032e\u0324\u027e\u0338\u030f\u0341\u0340\u030d\u0339\u032e\u0348\u0327\u0333\u0331\u032e\u0320\u0332\u035a\u033b\u0319\u0282\u0335\u0309\u0303\u030c\u0305\u0309\u0341\u0360\u0344\u0319\u0348,\" said Luna, \"The nargle is hunting you too now. If we go straight to Harry Potter's office then we can reach You-Know-Who before the nargle intercepts us.\"\n\n\"H\u2015H\u2015How can I be sure all this is real?\" Professor Lockhart said.\n\n\"Reach into your hat,\" Luna said.\n\n\"What?\" said Professor Lockhart. He picked up his hat from the hatstand where it had hung, untouched, since he had arrived in his office.\n\n\"Just do it, hero.\"\n\nProfessor Lockhart stared in horror at the Sword of Gryffindor in his hand.\n\n---\n\nThere was a knock on the door of Harry Potter's office.\n\n\"Harry James Potter-Evans-Verres is plotting to overthrow the Ministry of Magic's incompetent government,\" said Harry dryly, \"Please leave him alone.\"\n\n\"I possess an artifact of incredible power that can make the user smarter,\" Luna said.\n\nHarry Potter opened the door.\n\n\"*Finite Incantatem,*\" Professor Lockhart said, \"*Stupefy.*\"\n\nProfessor Gilderoy Lockhart's stunning hex knocked out Harry James Potter-Evans-Verres. \n\nFinite Incantatem is a brute-force spell. The Finite Incantatem neutralized all spell effects on Harry Potter. Harry Potter wore a transfigured ring on his hand. The Finite Incantatem un-transfigured the ring into the stunned body of Lord Voldemort. The Finite Incantatem overpowered the stunning hex on Lord Voldemort, who opened his snakelike eyes.\n\nLord Voldemort had risen again.\n\n---\n\nPart 12 will be posted on December 31st at 12:01 pm PST. The conclusion, Part 13, will be posted on January 1st, 2021 at 12:01 am PST.\n"
+        }
+      }
+    }
+  }
+}

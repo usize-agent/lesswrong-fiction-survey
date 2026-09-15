@@ -1,0 +1,41 @@
+{
+  "_id": "B3ruXAKZCitB3yHGn",
+  "slug": "the-patron-saint-of-empiricism",
+  "title": "The Patron Saint of Empiricism",
+  "postedAt": "2026-05-28T17:03:31.373Z",
+  "baseScore": 2,
+  "wordCount": 2379,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Gram Stone",
+    "slug": "gram-stone"
+  },
+  "tags": [
+    {
+      "_id": "32DdRimdM7sB5wmKu",
+      "name": "Empiricism",
+      "slug": "empiricism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "EewHHv3ewvQ3mqbyb",
+      "name": "Law-Thinking",
+      "slug": "law-thinking"
+    },
+    {
+      "_id": "csMv9MvvjYJyeHqoo",
+      "name": "Physics",
+      "slug": "physics"
+    }
+  ],
+  "tagRelevance": {
+    "32DdRimdM7sB5wmKu": 1,
+    "EewHHv3ewvQ3mqbyb": 1,
+    "csMv9MvvjYJyeHqoo": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

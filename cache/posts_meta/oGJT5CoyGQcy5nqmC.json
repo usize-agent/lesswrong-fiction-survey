@@ -1,0 +1,35 @@
+{
+  "_id": "oGJT5CoyGQcy5nqmC",
+  "slug": "the-witching-hour-1",
+  "title": "The Witching Hour",
+  "postedAt": "2023-10-10T00:19:37.786Z",
+  "baseScore": 116,
+  "wordCount": 2842,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "x6evH6MyPK3nxsoff",
+      "name": "Identity",
+      "slug": "identity"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "x6evH6MyPK3nxsoff": 2
+  }
+}

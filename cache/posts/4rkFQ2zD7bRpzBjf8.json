@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "4rkFQ2zD7bRpzBjf8",
+        "title": "Defeating the Villain",
+        "slug": "defeating-the-villain",
+        "pageUrl": "https://www.lesswrong.com/posts/4rkFQ2zD7bRpzBjf8/defeating-the-villain",
+        "postedAt": "2015-03-26T21:43:03.702Z",
+        "baseScore": 49,
+        "wordCount": 686,
+        "commentCount": 38,
+        "noIndex": false,
+        "user": {
+          "displayName": "Zubon",
+          "slug": "zubon"
+        },
+        "tags": [
+          {
+            "_id": "GBpwq8cWvaeRoE9X5",
+            "name": "Fiction (Topic)",
+            "slug": "fiction-topic"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "GBpwq8cWvaeRoE9X5": 1,
+          "pszEEb3ctztv3rozd": 1
+        },
+        "contents": {
+          "markdown": "We have a recurring theme in the greater Less Wrong community that life should be more like a high fantasy novel. Maybe that is to be expected when a quarter of the community [came here via](/lw/lhg/2014_survey_results/) Harry Potter fanfiction, and we also have rationalist group houses named after fantasy locations, descriptions of community members in terms of character archetypes and PCs versus NPCs, semi-serious development of [the new atheist gods](https://www.tumblr.com/tagged/the-new-atheist-gods), and feel free to contribute your favorites in the comments.\n\nA failure mode common to high fantasy novels as well as [politics](/lw/gw/politics_is_the_mindkiller/) is solving all our problems by defeating the villain. Actually, this is a common narrative structure for our entire storytelling species, and it works well as a narrative structure. The story needs conflict, so we pit a sympathetic protagonist against a compelling antagonist, and we reach a satisfying climax when the two come into direct conflict, good conquers evil, and we live happily ever after.\n\nThis isn't an article about whether [your opponent really is a villain](/lw/i0/are_your_enemies_innately_evil/). Let's make the (large) assumption that you have legitimately identified a villain who is doing evil things. They certainly exist in the world. Defeating this villain is a legitimate goal.\n\nAnd then what?\n\nDefeating the villain is rarely enough. Building is harder than destroying, and it is very unlikely that something good will spontaneously fill the void when something evil is taken away. It is also insufficient to speak in vague generalities about the ideals to which the post-\\[whatever\\] society will adhere. How are you going to avoid the problems caused by whatever you are eliminating, and how are you going to successfully transition from evil to good?\n\nIn fantasy novels, this is rarely an issue. The story ends shortly after the climax, either with good ascending or time-skipping to a society made perfect off-camera. Sauron has been vanquished, the rightful king has been restored, cue epilogue(s). And then what? Has the Chosen One shown skill in diplomacy and economics, solving problems not involving swords? [What was Aragorn's tax policy?](http://marginalrevolution.com/marginalrevolution/2014/04/what-was-aragorns-tax-policy.html) Sauron managed to feed his armies from a wasteland; what kind of agricultural techniques do you have? And indeed, if the book/series needs a sequel, we find that a problem at least as bad as the original fills in the void.\n\nReality often follows that pattern. Marx [explicitly had no plan](http://slatestarcodex.com/2014/09/13/book-review-singer-on-marx/) for what happened after you smashed capitalism. Destroy the oppressors and then ... as it turns out, slightly different oppressors come in and generally kill a fair percentage of the population. It works on the other direction as well; the fall of Soviet communism led not to spontaneous capitalism but rather [kleptocracy](http://en.wikipedia.org/wiki/Kleptocracy) and Vladmir Putin. For most of my lifetime, a major pillar of American foreign policy has seemed to be the overthrow of hostile dictators (end of plan). For example, Muammar Gaddafi was killed in 2011, and Libya has been in [some state of unrest or civil war ever since](http://en.wikipedia.org/wiki/Aftermath_of_the_2011_Libyan_Civil_War). Maybe this is one where it would not be best to contribute our favorites in the comments.\n\nThis is not to say that you never get improvements that way. Aragorn can hardly be *worse* than Sauron. Regression to the mean perhaps suggests that you will get something less bad just by luck, as Putin seems clearly less bad than Stalin, although Stalin seems clearly worse than almost any other regime change in history. Some would say that causing civil wars in hostile countries is the goal rather than a failure of American foreign policy, which seems a darker sort of instrumental rationality.\n\nHuman flourishing is not the default state of affairs, temporarily suppressed by villainy. [Spontaneous order](http://en.wikipedia.org/wiki/Spontaneous_order) is real, but it still needs institutions and social technology to support it.\n\nDefeating the villain is a (possibly) necessary but (almost certainly) insufficient condition for bringing about good.\n\nOne thing I really like about this community is that projects tend to be conceived in the positive rather than the negative. Please keep developing your plans not only in terms of \"this is a bad thing to be eliminated\" but also \"this is a better thing to be created\" and \"this is how I plan to get there.\""
+        }
+      }
+    }
+  }
+}

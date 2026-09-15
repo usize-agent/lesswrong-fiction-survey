@@ -1,0 +1,53 @@
+{
+  "_id": "Aic2EEzHmHmW3uJe4",
+  "slug": "i-token",
+  "title": "I, Token",
+  "postedAt": "2024-11-25T02:20:35.629Z",
+  "baseScore": 14,
+  "wordCount": 1001,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Ivan Vendrov",
+    "slug": "ivan-vendrov"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "bY5MaF2EATwDkomvu",
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "FtT2T9bRbECCGYxrL",
+      "name": "Philosophy of Language",
+      "slug": "philosophy-of-language"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "FtT2T9bRbECCGYxrL": 1,
+    "KmgkrftQuX7jmjjp5": 1,
+    "bY5MaF2EATwDkomvu": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

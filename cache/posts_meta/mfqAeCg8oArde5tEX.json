@@ -1,0 +1,23 @@
+{
+  "_id": "mfqAeCg8oArde5tEX",
+  "slug": "i-can-still-hear-you-sayin",
+  "title": "I Can Still Hear You Sayin'",
+  "postedAt": "2026-08-24T05:21:46.632Z",
+  "baseScore": 1,
+  "wordCount": 794,
+  "commentCount": 0,
+  "user": {
+    "displayName": "LoopGameScrollMonkey",
+    "slug": "loopgamescrollmonkey"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

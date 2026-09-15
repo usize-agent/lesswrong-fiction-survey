@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "tKy3cbkKx47GiRWhJ",
+        "title": "An outline of an ironic LessWrong post",
+        "slug": "an-outline-of-an-ironic-lesswrong-post",
+        "pageUrl": "https://www.lesswrong.com/posts/tKy3cbkKx47GiRWhJ/an-outline-of-an-ironic-lesswrong-post",
+        "postedAt": "2022-03-25T22:51:37.818Z",
+        "baseScore": -6,
+        "wordCount": 178,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yitz",
+          "slug": "yitz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "dGw7KEdcLFSvbJ7bM",
+            "name": "Humor (meta)",
+            "slug": "humor-meta"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 1,
+          "dGw7KEdcLFSvbJ7bM": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "1. Introduction: A character is considering whether or not to join the community of LessWrong, an online rationality-focused group.\n\n2. The pros and cons of joining LessWrong: On the one hand, the character will gain access to a wealth of knowledge and resources on how to think more rationally. On the other hand, the character will likely be bombarded with a never-ending stream of articles, posts, and comments that are all written with a level of irony that leaves the character questioning their own sanity.\n\n3. The decision: In the end, the character decides that the benefits of joining LessWrong outweigh the costs, and joins despite knowing full well that they'll probably be driven insane by all the irony eventually. After all, if the character is already questioning their sanity, there's no point in not joining LessWrong and seeing where that leads.\n\n4. The twist ending: The character is so consumed by irony that they end up making a post about their experience on LessWrong.\n\n\n*4.5 The twist to the twist: The character's post was actually an ironic commentary on ironic commentary.*"
+        }
+      }
+    }
+  }
+}

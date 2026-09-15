@@ -1,0 +1,41 @@
+{
+  "_id": "HooTgkjBN7AFSejid",
+  "slug": "petals",
+  "title": "Petals",
+  "postedAt": "2025-07-26T20:23:25.765Z",
+  "baseScore": 19,
+  "wordCount": 1863,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Zander_Drax",
+    "slug": "zander_drax"
+  },
+  "tags": [
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

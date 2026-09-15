@@ -1,0 +1,41 @@
+{
+  "_id": "RWboJ8thnCfL2ayKx",
+  "slug": "storyteller-s-convention-2223-a-d",
+  "title": "Storyteller's convention, 2223 A.D.",
+  "postedAt": "2023-04-07T11:54:48.902Z",
+  "baseScore": 8,
+  "wordCount": 506,
+  "commentCount": 0,
+  "user": {
+    "displayName": "plex",
+    "slug": "ete"
+  },
+  "tags": [
+    {
+      "_id": "AXhEhCkTrHZbjXXu3",
+      "name": "Poetry",
+      "slug": "poetry"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sSNtcEQsqHgN8ZmRF",
+      "name": "Fun Theory",
+      "slug": "fun-theory"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "AXhEhCkTrHZbjXXu3": 6,
+    "etDohXtBrXd8WqCtR": 2,
+    "sSNtcEQsqHgN8ZmRF": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

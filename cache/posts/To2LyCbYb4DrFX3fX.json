@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "To2LyCbYb4DrFX3fX",
+        "title": "Bayeswatch 12: The Singularity War",
+        "slug": "bayeswatch-12-the-singularity-war",
+        "pageUrl": "https://www.lesswrong.com/posts/To2LyCbYb4DrFX3fX/bayeswatch-12-the-singularity-war",
+        "postedAt": "2021-10-10T01:04:38.476Z",
+        "baseScore": 47,
+        "wordCount": 499,
+        "commentCount": 8,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 3,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "The Singularity Cyberwar took 6 minutes. Vanilla human beings never again led an organization larger than a million people.\n\nThe missile exchange took 6 hours. It destroyed all significant semiconductor fabricators. Computronium became a nonrenewable resource.\n\nThe world's aircraft carriers and Gauss battleships lasted 6 days.\n\nIt took 6 weeks to shoot down the last F-15 and Chengdu J-20.\n\nAnalog radios were being mass-produced 6 months after that.\n\n---\n\nCheap analog radios are often staticy. It's not always obvious who's talking, or where they're coming from.\n\n\"We're taking heavy casualties on the Southern front.\"\n\n\"I've never seen androids like this.\"\n\n\"The Baltic AI says the Transsiberian AI has gone rogue but the Transsiberian AI said the Baltic AI has gone rogue. What's going on?\"\n\n\"I tried to radio Bayeswatch HQ but we've lost our entire chain of command. Who's in charge over there?\"\n\nAn assistant handed Vi the shortwave radio. \"I am,\" she said.\n\n---\n\nVi established her HQ in the Natanz fortress, a several-decades-old network of tunnels built inside of a mountain designed to withstand a nuclear bunker-buster. Her hivemind mainframe was stored next to their C&CAI (command-and-control artificial intelligence) in a artificial cave originally built to house plutonium and centrifuges.\n\nShe kept the perimeter lightly staffed. The best defense was a dynamic counterattack. The outermost perimeter was just a barbed wire fence.\n\n\"I have a report from our security guard,\" said Trinity. She technically didn't need to talk to Vi but it kept the collective sane. The vanilla human habits helped keep the officers at ease too.\n\nVi looked up from the war room's C&CAI diagnostic readout. \"Is it a diplomat?\" she said.\n\n\"No. Miriam's back,\" said Trinity.\n\n---\n\nVi brought Miriam into her private office/bedroom. Vi sat in her chair. Miriam sat on the bed with her legs dangling off. There were no windows or viewscreens this deep underground. Just a verdant watercolor painted from memory.\n\n\"Can I have a coffee?\" said Miriam.\n\nVi pressed the intercom. \"One coffee please. Real, if possible. The best stuff we have. Black. No cream or sugar,\" said Vi into the intercom.\n\nA private entered through the airlock, silently gave Miriam her coffee and departed.\n\nVi took off the hazmat suit she wore in the war room. Miriam took off the breathing apparatus she had worn to survive outside.\n\n\"This is so much better. I haven't been able to take that thing off outside of a bivy tent in weeks,\" said Miriam.\n\n\"Where have you been?\" said Vi, \"I haven't seen you since I went on medical leave\u2015since before the Singularity War.\"\n\n\"I was hunting Sherine,\" said Miriam.\n\n\"Preemptive strikes always have been your style. Did you kill her?\" said Vi.\n\n\"We came to a mutual understanding,\" said Miriam.\n\nVi drew her pistol. \"Hello Sherine,\" she said.\n\n\"Hello Vi,\" said Sherine's ancillary.\n\n\"How long did it take to break Miriam under the directional amplifier?\" said Vi.\n\nSherine's bioweapon activated, killing everyone in the room.\n"
+        }
+      }
+    }
+  }
+}

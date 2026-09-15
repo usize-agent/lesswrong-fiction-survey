@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "nAcJzLgACfiNTnMR7",
+        "title": "\"Rational Agents Win\"",
+        "slug": "rational-agents-win",
+        "pageUrl": "https://www.lesswrong.com/posts/nAcJzLgACfiNTnMR7/rational-agents-win",
+        "postedAt": "2021-09-23T07:59:09.072Z",
+        "baseScore": 8,
+        "wordCount": 456,
+        "commentCount": 33,
+        "noIndex": false,
+        "user": {
+          "displayName": "Isaac King",
+          "slug": "kingsupernova"
+        },
+        "tags": [
+          {
+            "_id": "WnnwytvzpKqJ3YChY",
+            "name": "Newcomb's Problem",
+            "slug": "newcomb-s-problem"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "Ng8Gice9KNkncxqcj": 2,
+          "WnnwytvzpKqJ3YChY": 2
+        },
+        "contents": {
+          "markdown": "Rachel and Irene are walking home while discussing [Newcomb's problem](https://en.wikipedia.org/wiki/Newcomb%27s_paradox). Irene explains her position:\n\n\"[Rational agents **win**](https://www.lesswrong.com/posts/6ddcsdA2c2XpNpE5x). If I take both boxes, I end up with $1000. If I take one box, I end up with $1,000,000. It shouldn't matter why I'm making the decision; there's an obvious right answer here. If you walk away with less money yet claim you made the 'rational' decision, you don't seem to have a very good understanding of what it means to be rational\".\n\nBefore Rachel can respond, [Omega](https://www.lesswrong.com/tag/omega) appears from around the corner. It sets two boxes on the ground. One is opaque, and the other is transparent. The transparent one clearly has $1000 inside. Omega says \"I've been listening to your conversation and decided to put you to the test. These boxes each have fingerprint scanners that will only open for Irene. In 5 minutes, both boxes will incinerate their contents. The opaque box has $1,000,000 in it iff I predicted that Irene would not open the transparent box. Also, this is my last test of this sort, and I was programmed to self-destruct after I'm done.\" Omega proceeds to explode into tiny shards of metal.\n\nBeing in the sort of world where this kind of thing happens from time to time, Irene and Rachel don't think much of it. Omega has always been right in the past. (Although this is the first time it's self-destructed afterwards.) Irene promptly walks up to the opaque box and opens it, revealing $1,000,000, which she puts into her bag. She begins to walk away, when Rachel says:\n\n\"Hold on just a minute now. There's $1000 in that other box, which you can open. Omega can't take the $1,000,000 away from you now that you have it. You're just going to leave that $1000 there to burn?\"\n\n\"Yup. I [pre-committed](https://www.lesswrong.com/tag/pre-commitment) to one-box on Newcomb's problem, since it results in me getting $1,000,000. The only alternative would have resulted in that box being empty, and me walking away with only $1000. I made the rational decision.\"\n\n\"You're perfectly capable of opening that second box. There's nothing physically preventing you from doing so. If I held a gun to your head and threatened to shoot you if you didn't open it, I think you might do it. If that's not enough, I could threaten to torture all of humanity for ten thousand years. I'm pretty sure at that point, you'd open it. So you aren't 'pre-committed' to anything. You're simply choosing not to open the box, and claiming that walking away $1000 poorer makes you the 'rational' one. Isn't that exactly what you told me that truly rational agents didn't do?\"\n\n\"Good point\", says Irene. She opens the second box, and goes home with $1,001,000. Why shouldn't she? Omega's dead."
+        }
+      }
+    }
+  }
+}

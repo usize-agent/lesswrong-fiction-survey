@@ -1,0 +1,29 @@
+{
+  "_id": "HFPjfAdXqqJqBpXF5",
+  "slug": "what-the-future-will-look-like",
+  "title": "What the future will look like",
+  "postedAt": "2021-11-15T05:14:15.362Z",
+  "baseScore": 7,
+  "wordCount": 928,
+  "commentCount": 1,
+  "user": {
+    "displayName": "avantika.mehra",
+    "slug": "avantika-mehra"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

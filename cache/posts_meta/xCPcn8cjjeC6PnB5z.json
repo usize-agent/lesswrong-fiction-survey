@@ -1,0 +1,35 @@
+{
+  "_id": "xCPcn8cjjeC6PnB5z",
+  "slug": "they-are-made-of-repeating-patterns",
+  "title": "They are made of repeating patterns",
+  "postedAt": "2023-11-13T18:17:43.189Z",
+  "baseScore": 63,
+  "wordCount": 541,
+  "commentCount": 4,
+  "user": {
+    "displayName": "quetzal_rainbow",
+    "slug": "quetzal_rainbow"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GDGYkF29pxEQNWjYc",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "GDGYkF29pxEQNWjYc": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

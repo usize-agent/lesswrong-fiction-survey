@@ -1,0 +1,29 @@
+{
+  "_id": "hSeqgnc5CBJ643x9k",
+  "slug": "luminosity-twilight-fanfic-discussion-thread",
+  "title": "Luminosity (Twilight fanfic) discussion thread",
+  "postedAt": "2010-08-25T08:49:22.156Z",
+  "baseScore": 19,
+  "wordCount": 153,
+  "commentCount": 439,
+  "user": {
+    "displayName": "FAWS",
+    "slug": "faws"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

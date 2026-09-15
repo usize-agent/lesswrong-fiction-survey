@@ -1,0 +1,23 @@
+{
+  "_id": "vsASeE4KDP2nedgGv",
+  "slug": "chapter-102-caring",
+  "title": "Chapter 102: Caring",
+  "postedAt": "2014-01-01T22:46:28.842Z",
+  "baseScore": 22,
+  "wordCount": 3885,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

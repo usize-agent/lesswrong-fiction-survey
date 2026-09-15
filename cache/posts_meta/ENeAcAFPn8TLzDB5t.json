@@ -1,0 +1,35 @@
+{
+  "_id": "ENeAcAFPn8TLzDB5t",
+  "slug": "narrative-structure-and-the-principle-of-least-action",
+  "title": "Narrative Structure And The Principle Of Least Action",
+  "postedAt": "2025-09-27T01:31:21.977Z",
+  "baseScore": 1,
+  "wordCount": 944,
+  "commentCount": 1,
+  "user": {
+    "displayName": "sonicrocketman",
+    "slug": "sonicrocketman"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    },
+    {
+      "_id": "csMv9MvvjYJyeHqoo",
+      "name": "Physics",
+      "slug": "physics"
+    }
+  ],
+  "tagRelevance": {
+    "csMv9MvvjYJyeHqoo": 1,
+    "kCrvmjZhsAZANnZL6": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

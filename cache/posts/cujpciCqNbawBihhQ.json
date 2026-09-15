@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "cujpciCqNbawBihhQ",
+        "title": "Self-Integrity and the Drowning Child",
+        "slug": "self-integrity-and-the-drowning-child",
+        "pageUrl": "https://www.lesswrong.com/posts/cujpciCqNbawBihhQ/self-integrity-and-the-drowning-child",
+        "postedAt": "2021-10-24T20:57:01.742Z",
+        "baseScore": 355,
+        "wordCount": 1456,
+        "commentCount": 91,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "EmaCLRKb4baBFq4ra",
+            "name": "Dath Ilan",
+            "slug": "dath-ilan"
+          },
+          {
+            "_id": "nSHiKwWyMZFdZg5qt",
+            "name": "Ethics & Morality",
+            "slug": "ethics-and-morality"
+          },
+          {
+            "_id": "GpLuMNKKpeJkmigEY",
+            "name": "Integrity",
+            "slug": "integrity"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "7SwDQTmkovtTAxsNo",
+            "name": "Keltham",
+            "slug": "keltham"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "7SwDQTmkovtTAxsNo": 1,
+          "EmaCLRKb4baBFq4ra": 6,
+          "F2XfCTxXLQBGjbm8P": 2,
+          "GpLuMNKKpeJkmigEY": 2,
+          "Ng8Gice9KNkncxqcj": 4,
+          "nSHiKwWyMZFdZg5qt": 4
+        },
+        "contents": {
+          "markdown": "(Excerpted from \"[*mad investor chaos and the woman of asmodeus*](https://www.glowfic.com/posts/4582)\", about an unusually selfish dath ilani, \"Keltham\", who dies in a plane accident and ends up in Cheliax, a country governed by D&D!Hell. \u00a0Keltham is here remembering an incident from his childhood.)\n\n* * *\n\nAnd the Watcher told the class a parable, about an adult, coming across a child who'd somehow bypassed the various safeguards around a wilderness area, and fallen into a muddy pond, and seemed to be showing signs of drowning (for they'd already been told, then, what drowning looked like).\u00a0 The water, in this parable, didn't look like it would be over their own adult heads.\u00a0 But - in the parable - they'd just bought some incredibly-expensive clothing, costing dozens of their own labor-hours, and less resilient than usual, that would be ruined by the muddy water.\n\nAnd the Watcher asked the class if they thought it was right to save the child, at the cost of ruining their clothing.\n\nEveryone in there moved their hand to the 'yes' position, of course.\u00a0 Except Keltham, who by this point had already decided quite clearly who he was, and who simply closed his hand into a fist, otherwise saying neither 'yes' nor 'no' to the question, defying it entirely.\n\nThe Watcher asked him to explain, and Keltham said that it seemed to him that it was okay for an adult to take an extra fifteen seconds to strip off all their super-expensive clothing and *then* jump in to save the child.\n\nThe Watcher invited the other children to argue with Keltham about that, which they did, though Keltham's first defense, that his utility function was what it was, had not been a friendly one, or inviting of further argument.\u00a0 But they did eventually convince Keltham that, especially if you weren't sure you could call in other help or get attention or successfully drag the child's body towards help, if that child actually did drown - meaning the child's *true* life was at stake - then it would make sense to jump in right away, *not* take the extra risk of waiting another quarter-minute to strip off your clothes, and bill the child's parents' insurance for the cost.\u00a0 Or at least, that was where Keltham shifted his position, in the face of that argumentative pressure.\n\nSome kids, at that point, questioned the Watcher about this actually being a pretty good point, and why *wouldn't* anyone just bill the child's parents' insurance.\n\nTo which the Watcher asked them to consider hypothetically the case where insurance refused to pay out in cases like that, because it would be too easy for people to set up 'accidents' letting them bill insurances - not that this precaution had proven to be necessary in real life, of course.\u00a0 But the Watcher asked them to consider the Least Convenient Possible World where insurance companies, and even parents, did need to reason like that; because there'd proven to be too many master criminals setting up 'children at risk of true death from drowning' accidents that they could apparently avert and claim bounties on.\n\nWell, said Keltham, in that case, he was going right back to taking another fifteen seconds to strip off his super-expensive clothes, if the child didn't look like it was *literally right about* to drown.\u00a0 And if society didn't like that, it was society's job to solve that thing with the master criminals.\u00a0 Though he'd *maybe* modify that if they were in a possible-true-death situation, because a true life is worth a huge number of labor-hours, and that part did feel like some bit of decision theory would say that everyone would be wealthier if everyone would sacrifice small amounts of wealth to save huge amounts of somebody else's wealth, if that happened unpredictably to people, and if society was also that incompetent at setting up proper reimbursements.\u00a0 Though if it was like that in real life instead of the Least Convenient Possible World, it would mean that Civilization was terrible at coordination and it was time to overthrow Governance and start over.\n\nThis time the smarter kids did not succeed in pushing Keltham away from his position, and after a few more minutes the Watcher called a halt to it, and told the assembled children that they had been brought here today to learn an important lesson from Keltham about self-integrity.\n\nKeltham is being coherent, said the Watcher.\n\nKeltham's decision is a valid one, given his own utility function (said the Watcher); you were wrong to try to talk him into thinking that he was making an objective error.\n\nIt's easy for you to say you'd save the child (said the Watcher) when you're not really there, when you don't actually have to make the sacrifice of what you spent so many hours laboring to obtain, and would you all please note how none of you even considered about whether or not to spend a quarter-minute stripping off your clothes, or whether to try to bill the child's parents' insurance.\u00a0 Because you were too busy showing off how Moral you were, and how willing to make Sacrifices.\u00a0 Maybe you would decide not to do it, if the fifteen seconds were too costly; and then, any time you spent thinking about it, would also have been costly; and in that sense it might make more sense given your own utility functions (unlike Keltham's) to rush ahead without taking the time to think, let alone the time to strip off your expensive fragile clothes.\u00a0 But labor does have value, along with a child's life; and it is not incoherent or stupid for Keltham to weigh that too, especially given his own utility function - so said the Watcher.\n\nKeltham did have enough dignity, by that point in his life, not to rub it in or say 'told you so' to the other children, as this would have distracted them from the process of updating.\n\nThe Watcher spoke on, then, about how most people have selfish and unselfish parts - not selfish and unselfish *components in their utility function,* but parts of themselves in some less Law-aspiring way than that.\u00a0 Something with a utility function, if it values an apple 1% more than an orange, if offered a million apple-or-orange choices, will choose a million apples and zero oranges.\u00a0 The division within most people into selfish and unselfish components is not like that, you cannot feed it all with unselfish choices whatever the ratio.\u00a0 Not unless you are a Keeper, maybe, who has made yourself sharper and more coherent; or maybe not even then, who knows?\u00a0 For (it was said in another place) it is hazardous to non-Keepers to know too much about exactly how Keepers think.\n\nIt is dangerous to believe, said the Watcher, that you get extra virtue points the more that you let your altruistic part hammer down the selfish part.\u00a0 If you were older, said the Watcher, if you were more able to dissect thoughts into their parts and catalogue their effects, you would have noticed at once how this whole parable of the drowning child, was set to crush down the selfish part of you, to make it look like you would be invalid and shameful and harmful-to-others if the selfish part of you won, because, you're meant to think, people don't *need* expensive clothing - although somebody who's spent a lot on expensive clothing clearly has some use for it or some part of themselves that desires it quite strongly.\n\nIt is a parable calculated to set at odds two pieces of yourself (said the Watcher), and your flaw is not that you made the wrong choice between the two pieces, it was that you hammered one of those pieces down.\u00a0 Even though with a bit more thought, you could have at least *seen* the options for being that piece of yourself too, and not too expensively.\n\nAnd much more importantly (said the Watcher), you failed to understand and notice a kind of outside assault on your internal integrity, you did not notice how this parable was setting up two pieces of yourself at odds, so that you could not be both at once, and arranging for one of them to hammer down the other in a way that would leave it feeling small and injured and unable to speak in its own defense.\n\n\"If I'd actually wanted you to twist yourselves up and burn yourselves out around this,\" said the Watcher, \"I could have designed an adversarial lecture that would have driven everybody in this room halfway crazy - except for Keltham.\u00a0 He's not just immune because he's an agent with a slightly different utility function, he's immune because he instinctively doesn't switch off a kind of self-integrity that everyone else in this class needs to learn to not switch off so easily.\""
+        }
+      }
+    }
+  }
+}

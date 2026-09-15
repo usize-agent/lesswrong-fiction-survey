@@ -1,0 +1,65 @@
+{
+  "_id": "6aq7BesDkrjBzrrsS",
+  "slug": "a-parable-of-the-ripples-dream",
+  "title": "A Parable of the Ripples' Dream",
+  "postedAt": "2025-08-19T10:00:39.887Z",
+  "baseScore": 1,
+  "wordCount": 4053,
+  "commentCount": 0,
+  "user": {
+    "displayName": "SnowyField",
+    "slug": "snowyfield"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8daMDi9NEShyLqxth",
+      "name": "Forecasting & Prediction",
+      "slug": "forecasting-and-prediction"
+    },
+    {
+      "_id": "k6igEkzKYY2EpY7Su",
+      "name": "Meta-Philosophy",
+      "slug": "meta-philosophy"
+    },
+    {
+      "_id": "BisjoDrd3oNatDu7X",
+      "name": "Outer Alignment",
+      "slug": "outer-alignment"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "8daMDi9NEShyLqxth": 1,
+    "BisjoDrd3oNatDu7X": 1,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "k6igEkzKYY2EpY7Su": 1,
+    "kCrvmjZhsAZANnZL6": 1
+  }
+}

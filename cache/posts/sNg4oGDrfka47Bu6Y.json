@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "sNg4oGDrfka47Bu6Y",
+        "title": "The Balto/Togo theory of scientific development",
+        "slug": "the-balto-togo-theory-of-scientific-development",
+        "pageUrl": "https://www.lesswrong.com/posts/sNg4oGDrfka47Bu6Y/the-balto-togo-theory-of-scientific-development",
+        "postedAt": "2022-10-09T18:30:07.452Z",
+        "baseScore": 69,
+        "wordCount": 696,
+        "commentCount": 5,
+        "noIndex": false,
+        "user": {
+          "displayName": "Elizabeth",
+          "slug": "elizabeth-1"
+        },
+        "tags": [
+          {
+            "_id": "ZpG9rheyAkgCoEQea",
+            "name": "Practice & Philosophy of Science",
+            "slug": "practice-and-philosophy-of-science"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "F2XfCTxXLQBGjbm8P": 1,
+          "ZpG9rheyAkgCoEQea": 2
+        },
+        "contents": {
+          "markdown": "Tragically I gave up on the Plate Tectonics study before answering my most important question: \u201cIs Alfred Wegener the Balto of plate tectonics?\u201d\n\nLet me back up.\n\nBalto\n=====\n\n[Balto](https://en.wikipedia.org/wiki/Balto) is a famous sled dog. He got a statue in NYC for leading a team of dogs through a blizzard to [deliver antibody serum to Nome, Alaska in 1925](https://en.wikipedia.org/wiki/1925_serum_run_to_Nome), ending a diphtheria outbreak. Later Disney made a movie about how great he was.\n\n![](https://lh4.googleusercontent.com/-TdReZq1qSoMI8xVz4LomCwMg0zEMKTkIlExrJEw6EFLoGaPblN0_o_8U0wQHyq6UAOCgSlUWpP8ingHr5PsaLkc_kvaXI_Seb9lYZEtMmlpKOTy_wdHh-YByeaOhxZGGff69hs3trH6RMrHgVdxntNhm8xLgkGuw3WOHPli3pKB3EzImBdTCj86Ng)\n\nExcept that run was a relay, and Balto only got famous because he did the last leg, which had the most press coverage but was also the easiest. The *real* hero was [Togo](https://en.wikipedia.org/wiki/Togo_\\(dog\\)), the dog who led the team through the hardest terrain and covered by far the most miles as well. Disney later made a movie about him that makes no mention of Balto for the first 90%, and then goes out of its way to talk about what a shit dog he was, that\u2019s why he didn\u2019t get included in any of the important teams, but Togo had had to do so many hard things they needed a backup team for the trivial last leg so Balto would have to do.\n\nTogo\u2019s owner died mad about the US mainland believing Balto was a hero. But since all the breeders knew who did the hard part Togo enjoyed a post-Nome level of reproductive success that Ghengis Khan could only dream about, so I feel like he was happy with his choices.\n\n![](https://lh4.googleusercontent.com/qiV8S2QoFUzRLT11VPUSOmehpATRXONfBxIE-x0h9-JKCuq55_OhJ11Trtk41gOanO3geTEMf5azberHgibNPARnzzEoXbidmEhpopIM_F5AX-cd77Tz3wsC_-7FeizaFuZQz20ivjI8B5PW-kOZjJYe2O2pMM_rCbYaiV0kZVb9PdHZc2CcU0WLUw)\n\nplus he did eventually get some statues\n\nBut it\u2019s not like Togo did this alone either. He led one team in a relay, and there were 20 humans and 150 dogs that contributed to the overall run. Plus someone had to invent the serum, manufacture it, and get it to the start of the dog relay at Nenana, Alaska. So exactly how much credit should Togo get here?\n\nThe part with Wegener\n=====================\n\nI was pretty sure [Alfred Wegener](https://en.wikipedia.org/wiki/Alfred_Wegener), popularly credited as the discoverer/inventor of continental drift and mentioned more prominently than any other scientist in discussions of plate tectonics, is a Balto.\n\nFirst of all, continental drift is not plate tectonics. Continental drift is an idea that maybe some stuff happened one time. Plate tectonics is a paradigm with a mechanism that makes predictions and explains a lot of data no one knew was related until that moment.\n\nSecond, Wegener didn\u2019t discover any of the evidence he cited, he wasn\u2019t the first to have the idea, and it\u2019s not even clear he did much of the synthesis of the evidence. His original paper refers to \u201cConcerning South America and Africa, biologists and geologists are in close agreement that a Brazilian\u2013African continent existed in the Mesozoic\u201d\n\nSo he didn\u2019t invent the idea, gather the data, or even really synthesize the evidence. His guess at the mechanism was wrong. But despite spending hours digging into the specific discovers and synthesizers that contributed to plate tectonics, the only name I remember is Wegener\u2019s. Classic Balto.\n\nOn the other hand, some of the people who gathered the data used to discover plate tectonics were motivated by the concept of continental drift, and by Wegener specifically. That seems like it should count for something. My collaborator Jasen Murray thinks it counts for a lot\n\nJasen would go so far as to argue that shining a beacon in unknown territory that inspires explorers to look for treasure in the right place makes you the Togo, racing through ~~fractured ice rapids~~ social ridicule and self-doubt to do the real work of getting an idea considered at all. Showing up at the finish line to formalize a theory after there\u2019s enough work to know it\u2019s true is Balto work to him. This makes me profoundly uncomfortable because strongly advocating for something unproven terrifies me, but as counterargument arguments go that\u2019s pretty weak.\n\nOne difficulty is it\u2019s hard to distinguish \u201cahead of their time beacon shining\u201d from \u201clucky idiot\u201d, and even Jasen admits he doesn\u2019t know enough to claim Wegener in particular is a Togo. But doing work that is harder to credit because it\u2019s less legible is also very Togo-like behavior, so this proves nothing about the category.\n\nSo I guess one of my new research questions is \u201chow important are popularizers?\u201d and I hate it."
+        }
+      }
+    }
+  }
+}

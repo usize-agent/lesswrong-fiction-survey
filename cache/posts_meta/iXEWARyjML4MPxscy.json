@@ -1,0 +1,35 @@
+{
+  "_id": "iXEWARyjML4MPxscy",
+  "slug": "scratchpad-5",
+  "title": "Scratchpad",
+  "postedAt": "2025-12-19T14:15:16.694Z",
+  "baseScore": 12,
+  "wordCount": 1288,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Karthik Tadepalli",
+    "slug": "karthik-tadepalli"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "XSryTypw5Hszpa4TS": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

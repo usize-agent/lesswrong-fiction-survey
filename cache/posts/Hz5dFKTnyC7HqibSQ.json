@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Hz5dFKTnyC7HqibSQ",
+        "title": "The Aliens have Landed!",
+        "slug": "the-aliens-have-landed",
+        "pageUrl": "https://www.lesswrong.com/posts/Hz5dFKTnyC7HqibSQ/the-aliens-have-landed",
+        "postedAt": "2011-05-19T17:09:16.761Z",
+        "baseScore": 46,
+        "wordCount": 928,
+        "commentCount": 160,
+        "noIndex": false,
+        "user": {
+          "displayName": "TimFreeman",
+          "slug": "timfreeman"
+        },
+        "tags": [
+          {
+            "_id": "5f5c37ee1b5cdee568cfb2b1",
+            "name": "Whole Brain Emulation",
+            "slug": "whole-brain-emulation"
+          },
+          {
+            "_id": "2q2cK4FdnSeohTEaJ",
+            "name": "Blackmail / Extortion",
+            "slug": "blackmail-extortion"
+          },
+          {
+            "_id": "NGtNzdS88JtEQdRP4",
+            "name": "Extraterrestrial Life",
+            "slug": "extraterrestrial-life"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "PCsv73MeZq9QhKz6W",
+            "name": "Mindcrime",
+            "slug": "mindcrime"
+          }
+        ],
+        "tagRelevance": {
+          "2q2cK4FdnSeohTEaJ": 1,
+          "NGtNzdS88JtEQdRP4": 1,
+          "PCsv73MeZq9QhKz6W": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "5f5c37ee1b5cdee568cfb2b1": 2
+        },
+        "contents": {
+          "markdown": "\"General Thud! General Thud! Wake up! The aliens have landed. We must surrender!\" General Thud's assistant Fred turned on the lights and opened the curtains to help Thud wake up and confront the situation. Thud was groggy because he had stayed up late supervising an ultimately successful mission carried out by remotely piloted vehicles in some small country on the other side of the world. Thud mumbled, \"Aliens? How many? Where are they? What are they doing?\" General Thud looked out the window, expecting to see giant tripods walking around and destroying buildings with death rays. He saw his lawn, a bright blue sky, and hummingbirds hovering near his bird feeder.\n\nFred was trying to bring Thud up to speed as quickly as possible. \"Thousands of them, General! 2376, to be precise. They gave us a map; we know where they all are. They aren't doing anything overt, but the problem is their computation! I have one here, if you'd like to look.\" Fred removed a black sphere two inches in diameter from his pocket and gave it to Thud.\n\nThud sat on his bed holding the small sphere and staring at it dumbfounded. \"Okay, you think we should surrender to a few thousand small spheres. Why is that, exactly?\" The sphere seemed a little flexible in Thud's hand. As he experimented a few seconds to see just how flexible, it collapsed in his hand, converting itself into a loose clump of alien sand that landed in his lap and started to dribble onto his bed and the floor. Thud stood up and brushed the rest of the sand off of his pyjamas and bed, and thought for a moment about where he left his vacuum cleaner bags. He was not impressed with these aliens.\n\nFred said \"I don't think you wanted to do that, sir. Their ultimatum states that for every alien we destroy, they'll manufacture two in the outer reaches of the Solar System where we'll never find them!\"\n\nThud said, \"Okay, so now you think we should surrender to 2375 small spheres, and two or more small spheres that are out of the battlefield for the moment. Why is that?\"\n\nFred said \"Well, you remember a few years back when some people copied their brain state into a computer and posted it to the Internet? Apparently somebody copied the data across an unencrypted wireless link, the aliens picked it up with their radio telescopes, and now they are simulating those poor people in these black spheres and torturing the simulations! They sent us videos!\" Fred held up his cell phone, pushed a button, and showed the video to Thud.\n\nThud looked at the video for a moment and said, \"Yep, that's torture. Do these people know anything potentially useful to the aliens?\"\n\nFred said, \"Well, they know how to break into a laboratory that has brain scanning tools and push some buttons. That was apparently the high point of their lives. But none of that matters, the aliens don't seem to be torturing them for information anyway.\"\n\nThud was still suffering from morning brain fog. He rubbed his eyes. \"And why should we surrender?\"\n\nFred said, \"The aliens have made a trillion copies of these poor people and will run the torture simulations on the little black spheres until we march all of our citizens into the death camps they demand we build! We have analyzed these black spheres and the engineering diagrams the aliens gave us, and we know this to be true. We only have ten billion citizens, and this simulated torture is much worse than simulated death, so the total utility is much greater if we surrender!\"\n\nThud yawned. \"Fred, you're fired. Get out of my house.\" As Fred left, Thud closed his curtains and tried to get back to sleep.\n\n\\-\\-\\-\\-\\-\n\nMichael said \"So I take it you no longer assist Thud. What are you doing now?\"\n\nFred reclined comfortably on the analyst's couch. \"I help out at the cafeteria as a short order cook. But I'm not worried about my career right now. I have nightmares about all these simulated people being tortured in the flimsy alien spheres.\"\n\n\"Thud surely knows the simulations are being tortured too. Do you think he has nightmares about this?\"\n\n\"No, he doesn't seem to care.\"\n\n\"Have you always cared about the well-being of simulations?\"\n\n\"No, when I was a teenager I was self-centered and conceited and didn't care about anybody else, including simulated people.\"\n\n\"So at some point you self-modified to care about simulations. If it helps you, you could self-modify again.\"\n\n\"But I don't want to!\"\n\n\"Did you want to self-modify to care about simulations in the first place?\"\n\n\"No, it just sort of happened as I grew up.\"\n\n\"Is there any logical inconsistency in Thud's position?\"\n\nFred thought for a bit. \"Not that I can see. The value one assigns to simulations seems to be an arbitrary choice. Ignoring the alien invasion certainly hasn't harmed his career.\"\n\n\"Concern about simulations seems to give the aliens more influence over you than Thud would prefer. What would you prefer?\"\n\n\"Well, I'd also prefer the aliens not to be able to jerk me around. I really don't have room in my life for it now. In the grand scheme of things, it seems just wrong -- they shouldn't be able to genocide a species with a few thousand stupid spheres that just sit there converting sunlight to heat.\"\n\nMichael passed Fred a piece of paper with a short list of bulleted items. \"This is the procedure I teach my clients who want to change their preferences. After you've learned it, you can decide whether and how you want to use it...\""
+        }
+      }
+    }
+  }
+}

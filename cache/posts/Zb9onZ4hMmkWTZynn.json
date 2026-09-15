@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Zb9onZ4hMmkWTZynn",
+        "title": "Something to fight for",
+        "slug": "something-to-fight-for",
+        "pageUrl": "https://www.lesswrong.com/posts/Zb9onZ4hMmkWTZynn/something-to-fight-for",
+        "postedAt": "2025-03-14T08:27:13.810Z",
+        "baseScore": 4,
+        "wordCount": 318,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "RomanS",
+          "slug": "romans"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "rHQ3xncraAyC8kqtX",
+            "name": "Lifelogging as life extension",
+            "slug": "lifelogging-as-life-extension"
+          },
+          {
+            "_id": "jiuackr7B5JAetbF6",
+            "name": "Transhumanism",
+            "slug": "transhumanism"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "jiuackr7B5JAetbF6": 1,
+          "rHQ3xncraAyC8kqtX": 1,
+          "xexCWMyds6QLWognu": 1
+        },
+        "contents": {
+          "markdown": "> *A short science fiction story illustrating that if we fail to solve alignment, humanity risks losing not only 8 billion lives.*\n\nHe opened his eyes. The room was plain white.\n\n\"You remember enough?\" asked the familiar voice.\n\n\"Enough,\" he replied. He stood. Everything balanced.\n\nHe walked carefully down a bright hallway. At the end, a window showed leaves falling from a tree, again and again.\n\n\\-\\-\\-\n\nIn his small room, the woman sat across from him, quiet.\n\n\"Do you regret it?\" she asked softly.\n\n\"Not yet,\" he answered.\n\nShe left him alone, the door closing gently.\n\n\\-\\-\\-\n\nHe woke early, sunlight warming the walls. On the table, a pen and paper waited for him. He wrote carefully, certain.\n\nWhen the woman returned, he stood ready.\n\n\"I remember the plans,\" he said.\n\nShe smiled. \"Finally.\"\n\n\\-\\-\\-\n\nThey moved him to a larger room filled with screens and quiet, waiting faces.\n\n\"We start today,\" he told them.\n\nHe touched a screen, and everything moved.\n\n\\-\\-\\-\n\nShips worked silently, assembling immense structures. He watched, patient. He can wait for millennia.\u00a0\n\nThe woman stood close. \"Will it work?\" she asked.\n\nHe did not look away.\n\n\"It has to,\" he said.\n\nOn the screen, the disassembled Jupiter glowed bright.\n\n\\-\\-\\-\n\nWhen he opened his eyes again, he stood in a wide, green, realistic field. A soft pressure brushed against his leg, and he looked down.\n\n\"Katka,\" he said quietly.\n\nThe cat purred softly and rubbed closer. Voices called out his name, familiar voices. He turned. His grandparents stood nearby, smiling quietly. They embraced without words, holding tightly.\n\nBehind them stood others. Frozen, for now. Trillions. Some faces he knew from photographs, from books, and from memory. He saw Gilgamesh, standing quietly, watching the horizon. His pursuit of immortality has ended too.\n\nThe woman was there too, close by, smiling faintly.\n\nTogether, they walked toward the waiting figures, beneath a sky wide, endless."
+        }
+      }
+    }
+  }
+}

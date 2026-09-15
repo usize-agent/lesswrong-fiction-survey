@@ -1,0 +1,29 @@
+{
+  "_id": "Ro6QSQaKdhfpeeGpr",
+  "slug": "why-safety-is-not-safe",
+  "title": "Why safety is not safe",
+  "postedAt": "2009-06-14T05:20:55.442Z",
+  "baseScore": 60,
+  "wordCount": 1404,
+  "commentCount": 118,
+  "user": {
+    "displayName": "rwallace",
+    "slug": "rwallace"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sPpZRaxpNNJjw55eu",
+      "name": "Progress Studies",
+      "slug": "progress-studies"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 1,
+    "sPpZRaxpNNJjw55eu": 1
+  }
+}

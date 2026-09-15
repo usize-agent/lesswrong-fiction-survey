@@ -1,0 +1,29 @@
+{
+  "_id": "bgjfCqgL3iebMcxZH",
+  "slug": "scribble-bad-reasons-behind-different-systems-and-a-story",
+  "title": "[Scribble] Bad Reasons Behind Different Systems and a Story with No Good Moral",
+  "postedAt": "2022-05-09T05:21:53.221Z",
+  "baseScore": 9,
+  "wordCount": 1429,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Rana Dexsin",
+    "slug": "rana-dexsin"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

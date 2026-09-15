@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "wP2BJJnJKD6gow58L",
+        "title": "Rationalist Seder: A Story of War",
+        "slug": "rationalist-seder-a-story-of-war",
+        "pageUrl": "https://www.lesswrong.com/posts/wP2BJJnJKD6gow58L/rationalist-seder-a-story-of-war",
+        "postedAt": "2017-06-03T20:17:10.163Z",
+        "baseScore": 13,
+        "wordCount": 527,
+        "commentCount": 14,
+        "noIndex": false,
+        "user": {
+          "displayName": "Raemon",
+          "slug": "raemon"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2
+        },
+        "contents": {
+          "markdown": "For whatever reason, the rationality community is inordinately Jewish. Among other things, this resulted in 2011 in people in New York putting together \"Rationalist Seder\", a reframing of the story of Jewish Liberation From Egypt to reflect upon liberation in general. What does it mean to be free? What are the many things we might want to be free from?\n\nAs a non-Jewish person, it took me a few years to really wrap my head around the holiday, but it's evolved into one of the more poignant moments throughout my year.\n\nThe holiday was begun by Zvi Mowshowitz, and has been modified by various people in different geographic corners. In NYC, for the past few years it's been refined and tweaked by Daniel Speyer, who's aimed to invoke a strong sense of history that feels purposeful, connected to the original story, uniquely \"rationalist\", and feels very much *like a holiday* in the ancient, venerable and valuable sense.\n\nThe [complete text of Dan's most recent iteration is here](https://docs.google.com/document/d/1eFnq53UQ9-Q6F72iTlWjfN5OlNgTXTMyMETMnCiiRvM/edit). It contains a mix of retellings of traditional Jewish stories, abridged essays from around the rationalsphere, and a few original pieces. It has a lot of nice gems that I'd like to be able to refer to more easily, but they make the most sense in context with each other.\n\nBut one particular new story stands alone, and establishes the frame around which the Rationalist Seder is told:  \n  \n![](https://upload.wikimedia.org/wikipedia/commons/e/ee/Norway_in_1848_and_1849-_containing_rambles_among_the_fjelds_and_fjords_of_the_central_and_western_districts%3B_and_including_remarks_on_its_political%2C_military%2C_ecclesiastical%2C_and_social_organization_%2814587502198%29.jpg)\n\n*(Image from the [wikimedia foundation](https://commons.wikimedia.org/wiki/File:Norway_in_1848_and_1849-_containing_rambles_among_the_fjelds_and_fjords_of_the_central_and_western_districts;_and_including_remarks_on_its_political,_military,_ecclesiastical,_and_social_organization_\\(14587502198\\).jpg), credit to* *Thomas Forester*)\n\nA Story of War\n--------------\n\nTwo tribes live next to each other. Each fears the other will attack, and so builds weapons to hold in readiness. And then, seeing that the other has built weapons, builds more weapons. Their clothes are threadbare. Their children are hungry. But still they spend their time making weapons, lest the other tribe build more. They would prefer to live in peace, and make no weapons, but whichever tribe adopted that policy first would surely be killed.\n\nAre these tribes free? There is no pharoah putting the whip to their backs, but still they do not live as they choose.\n\nIn the next valley, there are two more tribes. They distrust each other as much as the first two, but they are ruled by a powerful empire. The empire forbids tribes to fight each other, and enforces that rule with unstoppable legions. And so these two tribes have the peace and prosperity that the first two tribes wanted.\n\nAnd in the valley beyond that, there are two more tribes, who only think they are ruled by a powerful empire. The empire has long since collapsed, but they still believe that if they fight, the empire will come and punish them. And so they don\u2019t fight. And by the most naive interpretation of counterfactuals, their belief is true. And they too, live in peace and prosperity.\n\nThat is the power of a story.\n\nThey also pay taxes to the empire, by floating valuable timber down a river from which no one will collect it. That too, is the power of a story.\n\nAnd in a farther, more distant valley are two tribes who really understand timeless decision theory. They should publish a paper or something.  \n\n[Link to 2017 Haggadah](https://docs.google.com/document/d/1eFnq53UQ9-Q6F72iTlWjfN5OlNgTXTMyMETMnCiiRvM/edit)"
+        }
+      }
+    }
+  }
+}

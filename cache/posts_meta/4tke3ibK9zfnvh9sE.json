@@ -1,0 +1,71 @@
+{
+  "_id": "4tke3ibK9zfnvh9sE",
+  "slug": "the-bayesian-tyrant",
+  "title": "The Bayesian Tyrant",
+  "postedAt": "2020-08-20T00:08:55.738Z",
+  "baseScore": 145,
+  "wordCount": 1890,
+  "commentCount": 21,
+  "user": {
+    "displayName": "abramdemski",
+    "slug": "abramdemski"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "E8PHMuf7tsr8teXAe",
+      "name": "Betting",
+      "slug": "betting"
+    },
+    {
+      "_id": "R6dqPii4cyNpuecLt",
+      "name": "Prediction Markets",
+      "slug": "prediction-markets"
+    },
+    {
+      "_id": "jTScW3bvF3j6WoiFe",
+      "name": "Radical Probabilism",
+      "slug": "radical-probabilism"
+    },
+    {
+      "_id": "LhX3F2SvGDarZCuh6",
+      "name": "Bayes' Theorem",
+      "slug": "bayes-theorem"
+    },
+    {
+      "_id": "8hPTCJbwJnLBmfpCX",
+      "name": "Calibration",
+      "slug": "calibration"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "8hPTCJbwJnLBmfpCX": 2,
+    "E8PHMuf7tsr8teXAe": 3,
+    "F2XfCTxXLQBGjbm8P": 5,
+    "LhX3F2SvGDarZCuh6": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "R6dqPii4cyNpuecLt": 3,
+    "etDohXtBrXd8WqCtR": 8,
+    "jTScW3bvF3j6WoiFe": 3,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

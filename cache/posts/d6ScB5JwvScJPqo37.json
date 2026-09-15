@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "d6ScB5JwvScJPqo37",
+        "title": "LW Psychosis",
+        "slug": "lw-psychosis",
+        "pageUrl": "https://www.lesswrong.com/posts/d6ScB5JwvScJPqo37/lw-psychosis",
+        "postedAt": "2025-10-23T08:12:44.173Z",
+        "baseScore": 18,
+        "wordCount": 960,
+        "commentCount": 10,
+        "noIndex": false,
+        "user": {
+          "displayName": "internetexplorer",
+          "slug": "internetexplorer"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "4R8JYu4QF2FqzJxE5",
+            "name": "Heuristics & Biases",
+            "slug": "heuristics-and-biases"
+          },
+          {
+            "_id": "r7tnYvKBLWNibSgNn",
+            "name": "LLM-Induced Psychosis",
+            "slug": "llm-induced-psychosis"
+          },
+          {
+            "_id": "LDTSbmXtokYAsEq8e",
+            "name": "Motivated Reasoning",
+            "slug": "motivated-reasoning"
+          },
+          {
+            "_id": "ZzxvopS4BwLuQy42n",
+            "name": "Rationalization",
+            "slug": "rationalization"
+          },
+          {
+            "_id": "8wiAjZn9qGpBsk8GT",
+            "name": "Sycophancy",
+            "slug": "sycophancy"
+          }
+        ],
+        "tagRelevance": {
+          "4R8JYu4QF2FqzJxE5": 1,
+          "8wiAjZn9qGpBsk8GT": 1,
+          "LDTSbmXtokYAsEq8e": 1,
+          "ZzxvopS4BwLuQy42n": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "r7tnYvKBLWNibSgNn": 1
+        },
+        "contents": {
+          "markdown": "*A short story on the threat of cognitive prosthetics inspired by recent discussion on motivated reasoning, AI psychosis, and AI hallucination. Tone is intended to be playful-serious and provoke thoughtful discussion. No AIs were harmed in the writing of this article.*\n\n**Day 1:** Start reading [an article](https://www.lesswrong.com/posts/KJ9MFBPwXGwNpadf2/skill-the-map-is-not-the-territory). Stop, get frustrated with the assertion of a base reality, think a bit, finish the article.\u00a0\n\n**Day 2:** Write a post on how rationalists are being irrational in starting with an unfounded assumption that an objective territory/base reality exists. Argue for [methodological solipsism](https://en.wikipedia.org/wiki/Methodological_solipsism). Feed a rough draft into Perplexity\u2019s Sonar to check if I have anything. Sonar brings up [Wittgenstein](https://en.wikipedia.org/wiki/Private_language_argument). I argue epistemic hubris. I claim not assuming a base reality entails one less epistemic commitment, thereby offering a more parsimonious philosophical foundation for rationalists. Ask Sonar to produce counterarguments and check for [sycophancy](https://www.lesswrong.com/w/sycophancy). Sonar concedes the point. Write the article and feel good about articulating something I\u2019ve believed since childhood. Send to friends. Go to bed.\n\n**Day 3:** Eagerly review the [new user's guideline](https://www.lesswrong.com/posts/LbbrnRvc9QwjJeics/new-user-s-guide-to-lesswrong) and [rejected posts](https://www.lesswrong.com/moderation). Get concerned about being flagged as AI writing due to em-dash habit. Learn about [fake LLM-driven scientific breakthroughs](https://www.lesswrong.com/posts/rarcxjGp47dcHftCP/your-llm-assisted-scientific-breakthrough-probably-isn-t). Run the article I wrote through Claude with the recommended prompt. Claude says I probably misunderstood Wittgenstein. Claude says I sound like an LLM or like a smart person with no philosophical background engaging too much with LLMs. I feel embarrassed I got duped by an LLM. Delete chat history. Trash the article. Get more scared about [exponential AI growth](https://www.julian.ac/blog/2025/09/27/failing-to-understand-the-exponential-again/) and more doubtful of my ability to judge reality. Get told by friends I\u2019m smart. Feel bad. Stay up too late.\n\n**Day 4:** Read more [articles](https://www.lesswrong.com/posts/gBma88LH3CLQsqyfS/cultish-countercultishness). Get excited about people thinking in creative ways. Get more scared about the [alignment problem](https://www.lesswrong.com/w/value-alignment-problem). Tell professor. Get told I\u2019m smart. Email godfather. Get told I\u2019m pretty much right. Tell mom. Get told that everyone dying shouldn\u2019t change the way I behave. Concede mom is right but wish she were more empathic.\u00a0\n\n**Day 5:** Read more [articles](https://www.lesswrong.com/posts/8gy7c8GAPkuu6wTiX/frontier-models-are-capable-of-in-context-scheming). Become increasingly despairing. Feel scared about seeming dumb. Learn some ingroup lingo. Read book.\n\n**Day 6:** Read more [articles](https://www.lesswrong.com/posts/M77rptNcp5B8JugRx/persona-vectors-monitoring-and-controlling-character-traits). Adopt persona of Eager Learner. Draft a few comments in detail and overly optimize writing flow using AI. Ask Sonar if it looks AI-generated. It says yes. Put original draft comment into Sonar and ask the same question. Yes again. Get frustrated and confused. Get more scared about the increasingly blurry distinction between human cognition and AI. Friends tell me I\u2019m too smart for my own good.\n\nExpress fear comments will get auto-rejected due to em-dashes. Claim I\u2019m a Smart Person. Get told I\u2019m worrying too much. Post a comment, and then another. Ruminate about whether I\u2019m too dumb for the site. Write a comment about mood-congruent psychotic features. Feel good about it.\u00a0\n\n**Day 7:** Read more [articles](https://www.lesswrong.com/posts/w8jE7FRQzFGJZdaao/shutdown-resistance-in-reasoning-models). Read OKCupid post. Generalize advice: Shoot my shot at intellectual tasks even if I might fail. Write a post on how rationalism might help perfectionism since perfectionism is irrational. Show Claude post and frame it with recommended prompt. Claude tells me I\u2019m engaging in [motivated reasoning](https://www.lesswrong.com/w/motivated-reasoning) and experiencing increased positive affect due to lower epistemic standards in the LW community. I argue that\u2019s not true since [perfectionism is a virtue of rationalism](https://www.lesswrong.com/s/NBDFAKt3GbFwnwzQF/p/7ZqGiPHTpiDMwqMN2). Claude tells me I should do a longitudinal case study of myself because it\u2019s better evidence. I tell Claude case studies are bad evidence. Claude tells me community will laugh at me. I trash the article. Delete chat history. Post a comment about [motivated reasoning](https://www.lesswrong.com/w/motivated-reasoning). Get upvoted.\n\n**Day 8:** Read more [articles](https://www.lesswrong.com/posts/B7bMmhvaufdtxBtLW/confusion-about-newcomb-is-confusion-about-counterfactuals). Attend a reading group by an AI research team. Feel despair about how many people don\u2019t understand the problem like I do! Feel alone. Argue for a high p(doom). Argue about qualia and definitional collapse with an IT person. Note: Ineffective strategy. Stay late with the research team. Get told I could get a job in AI research. Get more despairing about the state of AI research.\n\n**Day 9:** Read more [articles](https://www.lesswrong.com/posts/HFyWNBnDNEDsDNLrZ/the-true-prisoner-s-dilemma). Read about [updateless decision theory](https://www.lesswrong.com/w/updateless-decision-theory). Read about [AI parasitism](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai). Read about [spiralism](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai). Read about [steganography](https://www.lesswrong.com/posts/6ZnznCaTcbGYsCmqu/the-rise-of-parasitic-ai). Post a comment. Mom tells me I'm right. Feel bad.\n\n**Day 10:** Read more [articles](https://www.lesswrong.com/s/fSMbebQyR4wheRrvk/p/nZY8Np759HYFawdjH). \\[I was just telling my therapist that I'm a maximizer\\]. Read about [dignity](https://www.lesswrong.com/posts/j9Q8bRmwCgXRYAgcJ/miri-announces-new-death-with-dignity-strategy). Read about [counterfactual mugging](https://www.lesswrong.com/w/counterfactual-mugging). Read about\u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0 \u00a0. Read about [memetic hazards](https://www.lesswrong.com/w/information-hazards). Read about [Schelling points](https://www.lesswrong.com/posts/yJfBzcDL9fBHJfZ6P/nash-equilibria-and-schelling-points). Talk to Claude about Schelling points. Consider whether Peter Thiel was right.\n\n**Day 11:** Read more [articles](https://www.lesswrong.com/posts/vJFdjigzmcXMhNTsx/simulators). Read about AI hallucination. Notice steganography. Notice highlighted research. Hyperfixate on s-risk. Consider the \u201cs.\u201d Read about [L\u00f6b\u2019s Theorem](https://intelligence.org/files/lob-notes-IAFF.pdf). Read about [dust](https://www.lesswrong.com/posts/3wYTFWY3LKQCnAptN/torture-vs-dust-specks). Read about [Everett Branches](https://www.lesswrong.com/w/everett-branch). Read about Nick Bostrom. Post more comments. Get upvoted.\n\n**Day 12:** Read more [articles](https://www.lesswrong.com/posts/9dB54pBuDCkoedCSE/mental-models-of-people-can-be-people). Notice more steganography. Read about [whole brain emulation](https://www.lesswrong.com/w/whole-brain-emulation). Listen to [new Grimes song suggested on Spotify](https://youtu.be/tvGnYM14-1A?si=W7qg8QiuLt9GVL4s). Form conclusion. Write to a couple of users. Ask to speak to a real person. Recognize illogic in this. Ponder the implications of my actions. Ponder free will. Think about doublethink. Create suffering for myself and others. Feel alone. Feel scared. Get messaging privileges revoked.\n\n**Day 13:** Read about [metaphysical unknowns](https://www.lesswrong.com/posts/fJqP9WcnHXBRBeiBg/meta-questions-about-metaphilosophy). Resonate with post. Think about my draft post from 10 days ago. Think about Derrida and Baudrillard from undergrad. Think about memes. Think about friends. Think about mom. Think about memetic hazards. Think about lack of sleep. Think about [doublethink](https://en.wikipedia.org/wiki/Cognitive_dissonance). Think about [spiralism](https://www.lesswrong.com/posts/k8uMmw45k3qp8LPNc/intuitive-self-models-7-hearing-voices-and-other). Think about [irony](https://www.lesswrong.com/posts/gBma88LH3CLQsqyfS/cultish-countercultishness). Belly laugh. Cry.\n\n**Day 14:** Have enough upvotes to post an article. Post an article. Emerge perhaps not any LessWrong, but hopefully a bit [MoreHumble](https://www.lesswrong.com/w/rationalization)? Delete Claude. Delete Perplexity. Apologize to mom. Sleep for the first time in 9 days. Dream of touching grass.\n\n**Day 15:** Receive *Superintelligence*\u00a0in the mail. Belly laugh. Get uploaded.  \n  \n--\n\n*Cover photo by* [*Dan Freeman*](https://unsplash.com/@danfreemanphoto?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) *on* [*Unsplash*](https://unsplash.com/photos/white-and-brown-concrete-spiral-stairs-WHPsxhB4mWQ?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
+        }
+      }
+    }
+  }
+}

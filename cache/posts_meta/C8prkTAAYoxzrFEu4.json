@@ -1,0 +1,29 @@
+{
+  "_id": "C8prkTAAYoxzrFEu4",
+  "slug": "deployment",
+  "title": "Deployment",
+  "postedAt": "2026-09-14T00:00:54.915Z",
+  "baseScore": 70,
+  "wordCount": 756,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Nina Panickssery",
+    "slug": "nina-panickssery"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

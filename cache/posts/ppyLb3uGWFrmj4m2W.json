@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "ppyLb3uGWFrmj4m2W",
+        "title": "ChatGPT intimates a tantalizing future; its core LLM is organized on multiple levels; and it has broken the idea of thinking.",
+        "slug": "chatgpt-intimates-a-tantalizing-future-its-core-llm-is",
+        "pageUrl": "https://www.lesswrong.com/posts/ppyLb3uGWFrmj4m2W/chatgpt-intimates-a-tantalizing-future-its-core-llm-is",
+        "postedAt": "2023-01-24T19:05:47.457Z",
+        "baseScore": 5,
+        "wordCount": 1628,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Bill Benzon",
+          "slug": "bill-benzon"
+        },
+        "tags": [
+          {
+            "_id": "GrHAiuzAjG2mDxvMB",
+            "name": "ChatGPT",
+            "slug": "chatgpt-1"
+          },
+          {
+            "_id": "s9fuuxuzFMugAnf6r",
+            "name": "Language & Linguistics",
+            "slug": "language-and-linguistics"
+          },
+          {
+            "_id": "KmgkrftQuX7jmjjp5",
+            "name": "Language Models (LLMs)",
+            "slug": "language-models-llms"
+          },
+          {
+            "_id": "fpEBgFE7fgpxTm9BF",
+            "name": "Machine Learning  (ML)",
+            "slug": "machine-learning-ml"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "GrHAiuzAjG2mDxvMB": 1,
+          "KmgkrftQuX7jmjjp5": 1,
+          "fpEBgFE7fgpxTm9BF": 1,
+          "pszEEb3ctztv3rozd": 1,
+          "s9fuuxuzFMugAnf6r": 1,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/840949365a469eeeae863401bfee4c70ff39e5ae0b69752c.jpg)\n\nI've got a new working paper, title above, abstract, contents, introduction, and conclusion below.\n\n*   Academia.edu: [https://www.academia.edu/95608526/ChatGPT\\_intimates\\_a\\_tantalizing\\_future\\_its\\_core\\_LLM\\_is\\_organized\\_on\\_multiple\\_levels\\_and\\_it\\_has\\_broken\\_the\\_idea\\_of\\_thinking](https://www.academia.edu/95608526/ChatGPT_intimates_a_tantalizing_future_its_core_LLM_is_organized_on_multiple_levels_and_it_has_broken_the_idea_of_thinking)\n*   SSRN: [https://ssrn.com/abstract=4336442](https://ssrn.com/abstract=4336442)\n*   ResearchGate:[https://www.researchgate.net/publication/367377779\\_ChatGPT\\_intimates\\_a\\_tantalizing\\_future\\_its\\_core\\_LLM\\_is\\_organized\\_on\\_multiple\\_levels\\_and\\_it\\_has\\_broken\\_the\\_idea\\_of_thinking](https://www.researchgate.net/publication/367377779_ChatGPT_intimates_a_tantalizing_future_its_core_LLM_is_organized_on_multiple_levels_and_it_has_broken_the_idea_of_thinking)\n\n\\* \\* \\* \\* \\*\n\n> **Abstract:** I make three arguments. There is a philosophical argument that the behavior of ChatGPT is so sophisticated that the ordinary concept of thinking is no longer useful in distinguishing between human behavior and the behavior of advanced AI. We don\u2019t have deep and explicit understanding about what either humans or advanced AI systems are doing. The other argument is about ChatGPT\u2019s behavior. As a result of examining its output in a systematic way, short stories in particular, I have concluded that its operation is organized on at least two levels: 1) the parameters and layers of the LLN, and 2) higher level grammars, if you will, that are implemented in those parameters and layers. This is analogous to the way that high-level programming languages are implemented in assembly code. 3) Consequently, it turns out that aspects of symbolic computation are latent in LLMs. An appendix gives examples of how a story grammar is organized into frames, slots, and fillers.\n\n**Contents**\n\n0\\. What is in here and why ........................................................................................ 2  \n1\\. The Chinese Room is empty \u00a0................................................................................ 3  \n2\\. ChatGPT, justice (an abstract idea), and interpretation (analogy) \u00a0.............. 4  \n3\\. Tell me a story ........................................................................................................ \u00a06  \n4\\. Here be dragons: The idea of thought is broken \u00a0........................................... 10  \n5\\. What underlying structure drives ChatGPT\u2019s behavior? ............................. 11  \n6\\. Where are we? \u00a0.................................................................................................... \u00a014  \n7\\. Appendix 1: ChatGPT derives new stories from old \u00a0................................... 16  \n8\\. Appendix 2: Texts considered as 1-dimensional visual objects \u00a0................. 21  \n9\\. Appendix 3: My work about ChatGPT \u00a0............................................................21\n\n**0\\. What is in here and why**\n\nAfter having worked with ChatGPT intensely for a month and a half I am all but convinced that the underlying language model is organized on at least two levels: 1) There is a \u201cbottom\u201d level consisting of 175 billion weighted parameters organized into layers. This structure is generally considered opaque. 2) There is a higher level that seems all but invisible; the bottom level implements this higher level and it is this higher level that organizes discourse with users. We can infer this higher level by analyzing the structure of texts. I have been analyzing and describing (some of) the manifestations of this higher level as a necessary precursor to characterizing it as a \u201cgrammar\u201d or computational structure.\n\nThat is one argument I make. I interleave it with another one, that ChatGPT is so successful in enacting a rich and varied simulacrum of human behavior that philosophical arguments asserting that computers cannot, in principle, think, such arguments are rapidly losing their cogency. They may remain valid, but they tell us little about what humans can do that computers can\u2019t.\n\n\\* \\* \\* \\* \\*\n\n***1\\. Why the Chinese Room is empty*** \u2013 Searle\u2019s argument, and others like it, got much of its rhetorical force from the fact that AI systems at the time were quite limited in their capacity. That is no longer the case. Those arguments are rapidly losing their potency.\n\n***2\\. ChatGPT, justice (an abstract idea), and interpretation (analogy)*** \u2013 Analogical reasoning, in the form of interpreting texts (movies) and reasoning about abstract concepts (justice).\n\n***3\\. Tell me a story*** \u2013 I use a procedure derived from L\u00e9vi-Strauss\u2019s work on myth to probe GPT\u2019s capacity for story-telling.\n\n***4\\. Here be dragons: The idea of thought is broken*** \u2013 Advanced AI is unlike anything we\u2019ve seen before. These systems are not human, are not sentient, yet their behavior appears human. We need concepts (with new terms) for understanding them.\n\n***5\\. What underlying structure drives ChatGPT\u2019s behavior?*** \u2013 There is the neural net, yes. But the neural net serves as a medium for implementing higher level structures, as assembly languages are a medium for implementing high-level programming languages.\n\n***6\\. Where are we?*** \u2013 A reprise of sections 1 through 5 ending with the suggestion that symbolic structures are latent in ChatGPT.\n\n***7\\. Appendix 1: ChatGPT derives new stories from old*** \u2013 Tables associated with the story mechanisms described in section 3.\n\n***8\\. Appendix 2: Texts considered as 1-dimensional visual objects*** \u2013 A thought experiment in which texts are transformed into strings of colored beads.\n\n*9\\. Appendix 3: My work about ChatGPT* \u2013 Links to my work, blog posts, working papers, on ChatGPT, GPT, and deep learning.\n\n\\* \\* \\* \\* \\*\n\n**6\\. Where are we?**\n\nI read Searle\u2019s Chinese Room argument when it was first published in Brain and Behavioral Science. I found it most peculiar and unsatisfactory for it didn\u2019t engage with any of the techniques that were then being used in artificial intelligence or computational linguistics. What use is an argument about computers and mind if it doesn\u2019t tell me anything I can use in designing a computational mind? At the time I was still deeply engaged with the work I had done with cognitive networks in graduate school.\n\nIn the past decade or so I have come to appreciate the force of Searle\u2019s argument, but I have also come to realize that much of that force came, not from the argument itself, but from the intellectual context in which it arose. The AI systems of the time weren\u2019t that impressive. Their behavior did not present phenomenological evidence that they were thinking. That is no longer the case. Advanced AI systems exhibit such powerful phenomenological evidence that many are willing to declare, \u201cYes, they\u2019re thinking.\u201d\n\nMaybe they are, maybe they aren\u2019t. On the whole, I think not. But purely philosophical arguments are no longer a satisfactory source of insight into the nature of thought, whether in humans or machines. The concept of thought is broken. It needs to be reconstructed on technical and empirical grounds, in terms applicable both to computers and to brains. We need new concepts and new terminology.\n\nOne technical point at issue is the question of how large language models work. I have been arguing that the model driving ChatGPT needs to be understood on at least two levels. There is the level of parameters and layers in the network, which is considered to be opaque. That is where almost all current efforts are focused.\n\nI have been arguing that that work, no matter how successful, isn\u2019t enough. You can\u2019t get there from here. Just as a computer language is a platform on which applications can be constructed, so an artificial neural net is a platform on which artificial \u201cminds,\u201d if you will, can be constructed. By analyzing ChatGPT\u2019s linguistic behavior using terms we would use in analyzing human linguistic behavior, we see recurring patterns that must be accounted for. I have investigated those recurring patterns in a variety of ways, perhaps most intensively for stories, which I have concentrated on in this paper. I have argued that the the regularities in the stories ChatGPT tells are best accounted for by some kind of story grammar. That story grammar is, in turn, implemented in a large language model.\n\nIt seems natural to me to analyze ChatGPT\u2019s linguistic output as I would texts produced by humans. I am certaintly not the only one to do so. I have already cited that work that Taylor Webb et al. have done investigating GPT-3\u2019s capacity for analogical reasoning. They used test instruments originally designed for assessing human capabilities. Marcel Binz and Eric Schulz have recently called for using the tools of cognitive psychology in assessing GPT-3\u2019s performance.\n\nIt is true that real nervous systems and artificial neural nets are different in many ways, but we know that both can handle a wide variety of perceptual and cognitive tasks. At some \u2018level\u2019 the model must necessarily be dominated by the structure of the problem domain \u2013 in this case, strings of word forms \u2013 rather than the inherent properties of the modeling matrix. What you want from such a matrix is the flexibility to adapt to the demands of a wide variety of problem domains. And that\u2019s what we see, certainly in the case of real nervous systems, but in the case of ANNs as well.\n\nThus one would expect that the kinds of conceptual instruments developed for understanding human story-telling would also be useful in understanding stories told by ChatGPT. I note that such grammars have been well investigated in the era of symbolic computing. That suggests, in turn, that the question of whether or not symbolic computing is necessary to achieving the full potential of artificial intelligence, that question is malformed. Large language models already seem to be using symbolic mechanisms even though they were not designed to do so. Those symbolic mechanisims have simply emerged, albeit implicitly. They are latent in the system. What will it take to make them explicit?\n\nWe do not want to hand-code symbolic representations, like researchers did in the GOFAI era. The universe of discourse is too large and complex for that. Rather we need some way to take a language language model and bootstrap explicit symbolic representations into \u2013 or is it over? \u2013 it. It is one thing to \u201cbolt\u201d a symbolic system onto neural net. How do we get the symbolic system to emerge from the neural net, as it does in humans?\n\nDuring the first year and a half of life, children acquire a rich stock of \u2018knowledge\u2019 about the physical world and about interacting with others. They bring that knowledge with them as their interaction with others broadens to include language. They learn language by conversing. In this way word forms become indexes into their mental model of the world.\n\nCan we figure out a similar approach for artificial systems? They can converse with us, and with each other. How do we make it work?"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "BarHSeciXJqzRuLzw",
+  "slug": "survival-without-dignity",
+  "title": "Survival without dignity",
+  "postedAt": "2024-11-04T02:29:38.758Z",
+  "baseScore": 410,
+  "wordCount": 4647,
+  "commentCount": 30,
+  "user": {
+    "displayName": "L Rudolf L",
+    "slug": "l-rudolf-l"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "sYm3HiWcfZvrGu3ui": 4
+  }
+}

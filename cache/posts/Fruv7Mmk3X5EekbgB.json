@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Fruv7Mmk3X5EekbgB",
+        "title": "Masterpiece",
+        "slug": "masterpiece",
+        "pageUrl": "https://www.lesswrong.com/posts/Fruv7Mmk3X5EekbgB/masterpiece",
+        "postedAt": "2024-02-13T23:10:35.376Z",
+        "baseScore": 178,
+        "wordCount": 1100,
+        "commentCount": 22,
+        "noIndex": false,
+        "user": {
+          "displayName": "Richard_Ngo",
+          "slug": "ricraz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb2b1",
+            "name": "Whole Brain Emulation",
+            "slug": "whole-brain-emulation"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "5f5c37ee1b5cdee568cfb2b1": 2
+        },
+        "contents": {
+          "markdown": "*Inspired by qntm's* [Lena](https://qntm.org/lena). Reading Lena *first is helpful but not necessary.*\n\n* * *\n\nWe\u2019re excited to announce the fourth annual MMindscaping competition! Over the last few years, interest in the art of mindscaping has continued to grow rapidly. We expect this year\u2019s competition to be our biggest yet, and we\u2019ve expanded the prize pool to match. The theme for the competition is \u201cWeird and Wonderful\u201d\u2014we want your wackiest ideas and most off-the-wall creations!\n\n**Competition rules**\n---------------------\n\nAs in previous competitions, the starting point is a base MMAcevedo mind upload. All entries must consist of a single modified version of MMAcevedo, along with a written or recorded description of the sequence of transformations or edits which produced it. For more guidance on which mind-editing techniques can be used, see the *Technique* section below.\n\nYour entry must have been created in the last 12 months, and cannot have been previously submitted to any competition or showcase. Submissions will be given preliminary ratings by a team of volunteers, with finalists judged by our expert panel:\n\n*   **Roger Keating**, mindscaping pioneer and founder of the MMindscaping competition.\n*   **Raj Sutramana**, who has risen to prominence as one of the most exciting and avant-garde mindscaping artists, most notably with his piece *Screaming Man*.\n*   **Kelly Wilde**, director of the American Digital Liberties Union.\n\nAll entries must be received no later than **11.59PM UTC, March 6, 2057.**\n\n**Award criteria**\n------------------\n\nOur judges have been instructed to look for *technique*, *novelty*, and *artistry*. More detail on what we mean by each of these:\n\n**Technique**. Mindscaping is still a young art, and there are plenty of open technical challenges. These range from the classic problem of stable emotional engineering, to recent frontiers of targeted memory editing, to more speculative work on consciousness funnels. Be ambitious! Previous winners of our technique prize have often pushed the boundaries of what was believed possible.\n\nEven when an effect could be achieved using an existing technique, though, submissions that achieve the same outcome in more efficient or elegant ways will score highly on the technique metric. Conversely, we\u2019ll penalize brute-force approaches\u2014as a rough guide, running a few thousand reinforcement learning episodes is acceptable, but running millions isn\u2019t. We also discourage approaches that involve overwriting aspects of MMAcevedo\u2019s psyche with data from other uploads: part of the competition is figuring out how to work with the existing canvas you\u2019ve been given.\n\n**Novelty.** Given that there have now been millions of MMAcevedo variants made, it\u2019s difficult to find an approach that\u2019s entirely novel. However, the best entries will steer clear of standard themes. For example, we no longer consider demonstrations of extreme pleasure or pain to be novel (even when generated in surprising ways). We\u2019re much more interested in minds which showcase more complex phenomena, such as new gradients of emotion. Of course, it\u2019s up to the artist to determine how these effects are conveyed to viewers. While our judges will have access to standard interpretability dashboards, the best entries will be able to communicate with viewers more directly.\n\n**Artistry.** Even the most technically brilliant and novel work falls flat if not animated by artistic spirit. We encourage artists to think about what aspects of their work will connect most deeply with their audience. In particular, we\u2019re excited about works which capture fundamental aspects of the human experience that persist even across the biological-digital divide\u2014for example, by exploring themes from Miguel Acevedo\u2019s pre-upload life.\n\nThese three criteria are aptly demonstrated by many of our previous prizewinners, such as:\n\n*   *Discord*, a copy with multiple induced personalities that loathed each other. The judges were most impressed by the predictability of the interactions between the personalities: even with very different sensory inputs, copies would reliably spiral into a comatose state after 10-12 hours, providing a consistent and narratively-satisfying resolution.\n*   *Miguel*, a copy which gradually unlocked new memories throughout a conversation with it, implementing a \u201cchoose-your-own-adventure\u201d journey through the original Miguel Acevedo\u2019s life.\n*   *Live Loop*, a copy whose thoughts and emotions were continually translated into the form of a symphony which could be read out from its auditory cortex. The judges loved the harmonies generated when the symphony was played back to the copy.\n*   *MMAvocado*, a copy that was convinced it was a talking avocado, and felt consumed by existential horror at this fact. While techniques for invoking mind dysmorphia are now standard, at the time this was a pioneering methodology, and the judges were impressed by the robustness of the delusion despite other knowledge remaining largely intact.\n\n**Prohibited submissions**\n--------------------------\n\nLast year we saw a rash of entries featuring MMAcevedo copies optimized for making arguments in protest of mindscaping. In addition to their self-evident hypocrisy, such entries waste the time of our judges and volunteers. Anyone submitting this type of entry will be banned from entering any future MMindscaping competitions.\n\nWe\u2019ve also seen a growing number of low-effort submissions of MMAcevedo copies that have primarily been optimized for corporate workloads, submitted as commentaries on the commercialization of the industry. We discourage these due to their lack of novelty, and will be using automated screening to eliminate entries that are very similar to well-known benchmarks. If you think your entry might fall into this category, but has genuine artistic merit, please contact the organizers directly.\n\nFinally, please only submit entries that are consistent with mindcrime laws in your jurisdiction\u2014in particular laws against red motivation, identity scrambling, and qualia splintering. Unfortunately we are not able to advise on a case-by-case basis whether a given entry is legally acceptable. However, it\u2019s worth bearing in mind that no artists have been prosecuted for entries to any previous MMindscaping competition.\n\n**Prizes**\n----------\n\nWe will give out prizes for an overall winner and runner-up, a prize for outstanding performance on each of our specific criteria, and ten honorable mentions. We\u2019re grateful to our generous sponsors, Neuromath Corporation and the American Digital Liberties Union.\n\n*   **First prize**: $200,000 and an artist\u2019s residency at Black Rock Virtual.\n*   **Runner-up prize**: $80,000 and a masterclass with Raj Sutramana.\n*   **Technique prize**: $40,000 and an invited talk slot at the International Conference on Mind Engineering.\n*   **Novelty prize**: $40,000 and a ten-year license to a new line of digital psychedelics from the Qualia Redistribution Institute.\n*   **Artistry prize**: $40,000 and a signed copy of the acclaimed mind sculpture *Eternal Recurrence*.\n*   **Honorable mentions**: a five-year subscription to Thoughtshop Premium, the leading mind-editing software.\n\nAll winners will also be given the opportunity to have their work showcased at the forthcoming Mind Artists Convention in Dubai.\n\nWe look forward to seeing your entries!"
+        }
+      }
+    }
+  }
+}

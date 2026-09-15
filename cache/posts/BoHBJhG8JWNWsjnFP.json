@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "BoHBJhG8JWNWsjnFP",
+        "title": "A Letter to His Highness Louis XV, the King of France",
+        "slug": "a-letter-to-his-highness-louis-xv-the-king-of-france",
+        "pageUrl": "https://www.lesswrong.com/posts/BoHBJhG8JWNWsjnFP/a-letter-to-his-highness-louis-xv-the-king-of-france",
+        "postedAt": "2025-04-22T00:51:12.090Z",
+        "baseScore": 2,
+        "wordCount": 178,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "testingthewaters",
+          "slug": "testingthewaters"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "\\[A parable, of a sort.\\]\n\nYour Highness,\n\nIt is with no small sense of urgency that I write these words, with the hope that they will be received by your magnanimous spirit with grace. This letter I write not in the spirit of criticism which certain upstarts have made the mode of the age, but out of a deep love for my sovereign and his nation.\n\nI trust you know that I am the most loyal and devoted of your subjects, and that I have laboured ceaselessly with regards to matters of the just stewardship of the state, and that I have been awarded for my efforts through election to the Acad\u00e9mie fran\u00e7aise. To master such a complex topic I have committed to memory the works of Plato, Seneca, Cicero, and Montaigne, whose discourses and methods I have made my daily bread. Now in the eleventh hour I write to you again, as I did to you three years ago, concerning the matter of certain **existential dangers** to the French state and her noble ruler. \\[...\\]\n\n[\\[Continued here\\]](https://aclevername.substack.com/p/a-letter-to-his-highness-louis-xv)"
+        }
+      }
+    }
+  }
+}

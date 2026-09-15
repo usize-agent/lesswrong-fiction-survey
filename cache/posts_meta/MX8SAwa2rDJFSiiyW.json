@@ -1,0 +1,41 @@
+{
+  "_id": "MX8SAwa2rDJFSiiyW",
+  "slug": "planecrash-podcast",
+  "title": "Planecrash Podcast",
+  "postedAt": "2023-04-03T04:34:07.848Z",
+  "baseScore": 10,
+  "wordCount": 157,
+  "commentCount": 5,
+  "user": {
+    "displayName": "planecrashpodcast",
+    "slug": "planecrashpodcast"
+  },
+  "tags": [
+    {
+      "_id": "vjKs7Pvz3MbgMc75C",
+      "name": "Audio",
+      "slug": "audio"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "vjKs7Pvz3MbgMc75C": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

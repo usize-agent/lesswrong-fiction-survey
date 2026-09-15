@@ -1,0 +1,35 @@
+{
+  "_id": "qqCuj6ZzLMabYyGc9",
+  "slug": "job-board-28-march-2033",
+  "title": "Job Board (28 March 2033)",
+  "postedAt": "2023-03-28T22:44:41.568Z",
+  "baseScore": 21,
+  "wordCount": 831,
+  "commentCount": 1,
+  "user": {
+    "displayName": "dr_s",
+    "slug": "dr_s"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2ac",
+      "name": "Economic Consequences of AGI",
+      "slug": "economic-consequences-of-agi"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "5f5c37ee1b5cdee568cfb2ac": 1
+  }
+}

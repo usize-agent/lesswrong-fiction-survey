@@ -1,0 +1,41 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "hmuKkZbLCYfx8NjQ3",
+        "title": "Has anyone written stories happening in Hanson's em world?",
+        "slug": "has-anyone-written-stories-happening-in-hanson-s-em-world",
+        "pageUrl": "https://www.lesswrong.com/posts/hmuKkZbLCYfx8NjQ3/has-anyone-written-stories-happening-in-hanson-s-em-world",
+        "postedAt": "2020-09-21T14:37:11.150Z",
+        "baseScore": 16,
+        "wordCount": 29,
+        "commentCount": 8,
+        "noIndex": false,
+        "user": {
+          "displayName": "Mati_Roy",
+          "slug": "mathieuroy"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb2b1",
+            "name": "Whole Brain Emulation",
+            "slug": "whole-brain-emulation"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "jQytxyauJ7kPhhGj3": 1,
+          "5f5c37ee1b5cdee568cfb2b1": 2
+        },
+        "contents": {
+          "markdown": "EtA: Robin Hanson complains that while most hard sci-fi may get the hard tech right, they often get the economics wrong. I'm interested in stories that get both right."
+        }
+      }
+    }
+  }
+}

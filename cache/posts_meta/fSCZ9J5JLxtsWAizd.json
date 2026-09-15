@@ -1,0 +1,41 @@
+{
+  "_id": "fSCZ9J5JLxtsWAizd",
+  "slug": "on-may-1-2033-humanity-discovered-that-ai-was-fairly-easy-to",
+  "title": "On May 1, 2033, humanity discovered that AI was fairly easy to align.",
+  "postedAt": "2025-06-18T19:57:23.101Z",
+  "baseScore": 11,
+  "wordCount": 410,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "c42eTtBCXyJmtpqwZ",
+      "name": "AI-Assisted Alignment",
+      "slug": "ai-assisted-alignment"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8daMDi9NEShyLqxth",
+      "name": "Forecasting & Prediction",
+      "slug": "forecasting-and-prediction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "8daMDi9NEShyLqxth": 2,
+    "c42eTtBCXyJmtpqwZ": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

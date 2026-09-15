@@ -1,0 +1,35 @@
+{
+  "_id": "SA9hDewwsYgnuscae",
+  "slug": "projectlawful-com-eliezer-s-latest-story-past-1m-words",
+  "title": "ProjectLawful.com: Eliezer's latest story, past 1M words",
+  "postedAt": "2022-05-11T06:18:02.738Z",
+  "baseScore": 245,
+  "wordCount": 322,
+  "commentCount": 112,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "EmaCLRKb4baBFq4ra": 7,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 6
+  }
+}

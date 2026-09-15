@@ -1,0 +1,35 @@
+{
+  "_id": "A8bgqxiwKmWBGn9hh",
+  "slug": "in-darkness-they-assembled",
+  "title": "In Darkness They Assembled",
+  "postedAt": "2025-04-28T03:44:05.540Z",
+  "baseScore": 2,
+  "wordCount": 985,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b5",
+      "name": "Recursive Self-Improvement",
+      "slug": "recursive-self-improvement"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "5f5c37ee1b5cdee568cfb2b5": 1
+  }
+}

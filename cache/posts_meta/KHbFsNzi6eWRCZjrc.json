@@ -1,0 +1,41 @@
+{
+  "_id": "KHbFsNzi6eWRCZjrc",
+  "slug": "forecasting-through-fiction",
+  "title": "Forecasting Through Fiction",
+  "postedAt": "2022-07-06T05:03:55.376Z",
+  "baseScore": 5,
+  "wordCount": 2542,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb125",
+      "name": "Generalization From Fictional Evidence",
+      "slug": "generalization-from-fictional-evidence"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "22z6XpWKqw3bNv4oR",
+      "name": "Simulation Hypothesis",
+      "slug": "simulation-hypothesis"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "22z6XpWKqw3bNv4oR": 2,
+    "3uE2pXvbcnS9nnZRE": 3,
+    "pszEEb3ctztv3rozd": 2,
+    "5f5c37ee1b5cdee568cfb125": 2
+  }
+}

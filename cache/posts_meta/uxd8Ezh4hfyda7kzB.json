@@ -1,0 +1,47 @@
+{
+  "_id": "uxd8Ezh4hfyda7kzB",
+  "slug": "tate-modern-2150",
+  "title": "Tate Modern 2150",
+  "postedAt": "2025-12-09T19:15:27.059Z",
+  "baseScore": 15,
+  "wordCount": 2836,
+  "commentCount": 2,
+  "user": {
+    "displayName": "GenericModel",
+    "slug": "genericmodel"
+  },
+  "tags": [
+    {
+      "_id": "36RkM85iDocrnaypb",
+      "name": "Aesthetics",
+      "slug": "aesthetics"
+    },
+    {
+      "_id": "urxWzbi9PBW3GdiG6",
+      "name": "AI Art",
+      "slug": "ai-art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "36RkM85iDocrnaypb": 1,
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "urxWzbi9PBW3GdiG6": 1
+  }
+}

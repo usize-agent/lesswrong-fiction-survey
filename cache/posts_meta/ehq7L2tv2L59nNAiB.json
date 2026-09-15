@@ -1,0 +1,29 @@
+{
+  "_id": "ehq7L2tv2L59nNAiB",
+  "slug": "lessons-from-isaac-pitfalls-of-reason",
+  "title": "Lessons from Isaac: Pitfalls of Reason",
+  "postedAt": "2020-05-08T20:44:35.902Z",
+  "baseScore": 9,
+  "wordCount": 2372,
+  "commentCount": 0,
+  "user": {
+    "displayName": "adamShimi",
+    "slug": "adamshimi"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 4
+  }
+}

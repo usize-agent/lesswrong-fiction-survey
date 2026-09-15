@@ -1,0 +1,65 @@
+{
+  "_id": "5cAS42BrSokH2yCdd",
+  "slug": "fiction-unboxing-elysium-an-ai-s-escape-1",
+  "title": "[FICTION] Unboxing Elysium: An AI'S Escape",
+  "postedAt": "2023-06-10T04:41:11.646Z",
+  "baseScore": -16,
+  "wordCount": 4332,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Super AGI",
+    "slug": "super-agi"
+  },
+  "tags": [
+    {
+      "_id": "zCYXpx33wq8chGyEz",
+      "name": "AI Boxing (Containment)",
+      "slug": "ai-boxing-containment"
+    },
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "zCYXpx33wq8chGyEz": 1,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

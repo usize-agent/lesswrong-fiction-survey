@@ -1,0 +1,65 @@
+{
+  "_id": "xLDwCemt5qvchzgHd",
+  "slug": "scale-was-all-we-needed-at-first",
+  "title": "Scale Was All We Needed, At First",
+  "postedAt": "2024-02-14T01:49:16.184Z",
+  "baseScore": 299,
+  "wordCount": 2521,
+  "commentCount": 35,
+  "user": {
+    "displayName": "GMM",
+    "slug": "gmm"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8daMDi9NEShyLqxth",
+      "name": "Forecasting & Prediction",
+      "slug": "forecasting-and-prediction"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "JX69nZB8tfxnx5nGH",
+      "name": "Threat Models (AI)",
+      "slug": "threat-models-ai"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "8daMDi9NEShyLqxth": 1,
+    "JX69nZB8tfxnx5nGH": 1,
+    "YkPxg2tFDQNdaEZDJ": 1,
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

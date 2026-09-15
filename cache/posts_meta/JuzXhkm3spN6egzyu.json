@@ -1,0 +1,20 @@
+{
+  "_id": "JuzXhkm3spN6egzyu",
+  "slug": "short-fic-about-ufai",
+  "title": "Short fic about uFAI",
+  "postedAt": "2011-01-02T14:13:51.223Z",
+  "baseScore": 42,
+  "wordCount": 20,
+  "commentCount": 20,
+  "user": null,
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "SibcE6H9i6wifzqAF",
+  "slug": "the-real-fanfic-is-the-friends-we-made-along-the-way",
+  "title": "The Real Fanfic Is The Friends We Made Along The Way",
+  "postedAt": "2023-10-18T19:21:40.431Z",
+  "baseScore": 92,
+  "wordCount": 8041,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Eneasz",
+    "slug": "eneasz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4
+  }
+}

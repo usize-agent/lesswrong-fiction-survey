@@ -1,0 +1,47 @@
+{
+  "_id": "B3EXd6tsgTN4onBCh",
+  "slug": "short-story-speculating-on-possible-ramifications-of-ai-on",
+  "title": "Short story speculating on possible ramifications of AI on the art world",
+  "postedAt": "2022-09-01T21:15:00.031Z",
+  "baseScore": 30,
+  "wordCount": 857,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "33BrBRSrRQS4jEHdk",
+      "name": "Forecasts (Specific Predictions)",
+      "slug": "forecasts-specific-predictions"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "7mTviCYysGmLqiHai",
+      "name": "Writing (communication method)",
+      "slug": "writing-communication-method"
+    }
+  ],
+  "tagRelevance": {
+    "33BrBRSrRQS4jEHdk": 2,
+    "7mTviCYysGmLqiHai": 2,
+    "KDpqtN3MxHSmD4vcB": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

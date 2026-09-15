@@ -1,0 +1,29 @@
+{
+  "_id": "BZMc9Xzqw5WcCMHrr",
+  "slug": "the-moral-of-the-story",
+  "title": "The Moral Of The Story",
+  "postedAt": "2016-10-18T02:22:45.000Z",
+  "baseScore": 62,
+  "wordCount": 1206,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 5,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

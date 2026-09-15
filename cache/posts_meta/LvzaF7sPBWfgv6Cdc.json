@@ -1,0 +1,59 @@
+{
+  "_id": "LvzaF7sPBWfgv6Cdc",
+  "slug": "science-and-fiction-1",
+  "title": "Science and Fiction",
+  "postedAt": "2025-07-25T15:04:38.169Z",
+  "baseScore": 1,
+  "wordCount": 2818,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Pedro R. Andrade",
+    "slug": "pedro-r-andrade"
+  },
+  "tags": [
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "DCN2zNscbMZp5aatL",
+      "name": "Information Theory",
+      "slug": "lwwiki-old-information-theory"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    },
+    {
+      "_id": "ZpG9rheyAkgCoEQea",
+      "name": "Practice & Philosophy of Science",
+      "slug": "practice-and-philosophy-of-science"
+    },
+    {
+      "_id": "LnEEs8xGooYmQ8iLA",
+      "name": "Truth, Semantics, & Meaning",
+      "slug": "truth-semantics-and-meaning"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "DCN2zNscbMZp5aatL": 1,
+    "LnEEs8xGooYmQ8iLA": 1,
+    "XSryTypw5Hszpa4TS": 1,
+    "ZpG9rheyAkgCoEQea": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "kCrvmjZhsAZANnZL6": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

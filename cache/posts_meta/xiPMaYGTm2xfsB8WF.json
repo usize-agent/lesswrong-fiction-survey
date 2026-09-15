@@ -1,0 +1,47 @@
+{
+  "_id": "xiPMaYGTm2xfsB8WF",
+  "slug": "rereading-atlas-shrugged",
+  "title": "Rereading Atlas Shrugged",
+  "postedAt": "2020-07-28T18:54:45.272Z",
+  "baseScore": 175,
+  "wordCount": 3879,
+  "commentCount": 36,
+  "user": {
+    "displayName": "Vaniver",
+    "slug": "vaniver"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "4Kcm4etxAJjmeDkHP": 8,
+    "GBpwq8cWvaeRoE9X5": 1,
+    "Ng8Gice9KNkncxqcj": 3,
+    "pszEEb3ctztv3rozd": 1,
+    "xexCWMyds6QLWognu": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "CsEY8EgpxQNAPiMiA",
+  "slug": "the-nuclear-energy-alignment-problem",
+  "title": "The Nuclear Energy Alignment Problem",
+  "postedAt": "2021-05-09T03:50:32.726Z",
+  "baseScore": 34,
+  "wordCount": 379,
+  "commentCount": 0,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

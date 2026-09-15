@@ -1,0 +1,784 @@
+# Stage 1 — Fetch log
+
+One line per post, appended as fetched. `CACHED` means it was already on disk from a prior run; `FETCHED` means a fresh request was made this run; `ERROR` means the fetch failed and needs a retry.
+
+- [1/776] `6hfGNLf4Hg5DXqJCF` **A Fable of Science and Politics** — FETCHED, 9145 chars
+- [2/776] `cKrgy7hLdszkse2pq` **Archimedes's Chronophone** — FETCHED, 7479 chars
+- [3/776] `4ARaTpNX62uaL86j6` **The Hidden Complexity of Wishes** — FETCHED, 14058 chars
+- [4/776] `96TBXaHwLbFyeAxrg` **Guardians of Ayn Rand** — FETCHED, 10195 chars
+- [5/776] `Qr4MB9hFRzamuMRHJ` **Two Cult Koans** — FETCHED, 3538 chars
+- [6/776] `FkwKGQFS5XL9mQSQb` **The Amazing Virgin Pregnancy** — FETCHED, 3816 chars
+- [7/776] `X3HpE8tMXz4m4w6Rz` **The Simple Truth** — FETCHED, 39145 chars
+- [8/776] `hQxYBfu2LPc9Ydo6w` **The Parable of the Dagger** — FETCHED, 2294 chars
+- [9/776] `4FcxgdvdQP45D6Skg` **Disguised Queries** — FETCHED, 7860 chars
+- [10/776] `kQzs8MFbBxdYhe3hK` **Savanna Poets** — FETCHED, 8516 chars
+- [11/776] `fnEWQAYxcRnaYBqaZ` **Initiation Ceremony** — FETCHED, 6162 chars
+- [12/776] `fsDz6HieZJBu54Yes` **Zombies: The Movie** — FETCHED, 6878 chars
+- [13/776] `WajiC3YWeJutyAXTn` **Where Physics Meets Experience** — FETCHED, 20752 chars
+- [14/776] `vGbHKfgFNDeJohfeN` **Where Experience Confuses Physicists** — FETCHED, 16647 chars
+- [15/776] `WqGCaRhib42dhKWRL` **If Many-Worlds Had Come First** — FETCHED, 17129 chars
+- [16/776] `ZxR8P8hBFQ9kC8wMy` **The Failures of Eld Science** — FETCHED, 17102 chars
+- [17/776] `5wMcKNAwB6X4mp9og` **That Alien Message** — FETCHED, 18636 chars
+- [18/776] `xAXrEpF5FYjwqKMfZ` **Class Project** — FETCHED, 8070 chars
+- [19/776] `mMBTPTjRbsrqbSkZE` **Sorting Pebbles Into Correct Heaps** — FETCHED, 6887 chars
+- [20/776] `fhEPnveFhb9tmd7Pe` **Use the Try Harder, Luke** — FETCHED, 3547 chars
+- [21/776] `kXAb5riiaJNrfR8v8` **The Ritual** — FETCHED, 8242 chars
+- [22/776] `2mLZiWxWKZyaRgcn7` **Selling Nonapples** — FETCHED, 12796 chars
+- [23/776] `jq5WAQEboeufkxzsg` **Imaginary Positions** — FETCHED, 6010 chars
+- [24/776] `6qS9q5zHafFXsB6hf` **Serious Stories** — FETCHED, 17239 chars
+- [25/776] `ctpkTaqTKbmm6uRgC` **Failed Utopia #4-2** — FETCHED, 16193 chars
+- [26/776] `HawFh7RvDM4RyoJ2d` **Three Worlds Collide (0/8)** — FETCHED, 1165 chars
+- [27/776] `n5TqCuizyJDfAPjkr` **The Baby-Eating Aliens (1/8)** — FETCHED, 21022 chars
+- [28/776] `RXQ5MkWkTCvLMGHrp` **War and/or Peace (2/8)** — FETCHED, 20091 chars
+- [29/776] `qCsxiojX7BSLuuBgQ` **The Super Happy People (3/8)** — FETCHED, 30012 chars
+- [30/776] `bojLBvsYck95gbKNM` **Interlude with the Confessor (4/8)** — FETCHED, 20343 chars
+- [31/776] `Z263n4TXJimKn6A8Z` **Three Worlds Decide (5/8)** — FETCHED, 27695 chars
+- [32/776] `HWH46whexsoqR3yXk` **Normal Ending: Last Tears (6/8)** — FETCHED, 5460 chars
+- [33/776] `6Ls6f5PerERJmsTGB` **True Ending: Sacrificial Fire (7/8)** — FETCHED, 14491 chars
+- [34/776] `4pov2tL6SEC23wrkq` **Epilogue: Atonement (8/8)** — FETCHED, 11382 chars
+- [35/776] `T5McDuWDeCvDZKeSj` **Are You a Solar Deity?** — FETCHED, 7370 chars
+- [36/776] `a5Afzce6Ny8oo9p7L` **Hyakujo's Fox** — FETCHED, 1515 chars
+- [37/776] `A4MK9RQqSAJZjanQD` **Why Support the Underdog?** — FETCHED, 4482 chars
+- [38/776] `yffPyiu7hRLyc7r23` **Final Words** — FETCHED, 16405 chars
+- [39/776] `qMYjfAaYQddsqc3gS` **Fiction of interest** — FETCHED, 462 chars
+- [40/776] `wCgRvyYJEF8me2QW9` **The First Koan: Drinking the Hot Iron Ball** — FETCHED, 4666 chars
+- [41/776] `Ltey8BS83qSkd9M3u` **A Parable On Obsolete Ideologies** — FETCHED, 12424 chars
+- [42/776] `Ro6QSQaKdhfpeeGpr` **Why safety is not safe** — FETCHED, 7704 chars
+- [43/776] `EKu66pFKDHFYPaZ6q` **The Hero With A Thousand Chances** — FETCHED, 15200 chars
+- [44/776] `FSPKLFfMNbRGPFjmY` **Why You're Stuck in a Narrative** — FETCHED, 8870 chars
+- [45/776] `XuLG6M7sHuenYWbfC` **The Sword of Good** — FETCHED, 4054 chars
+- [46/776] `XSqYe5Rsqq4TR7ryL` **The Finale of the Ultimate Meta Mega Crossover** — FETCHED, 707 chars
+- [47/776] `C2uvzYeoMkwMmscMx` **Hamster in Tutu Shuts Down Large Hadron Collider** — FETCHED, 4105 chars
+- [48/776] `rH492M8T8pKK5763D` **Agree, Retort, or Ignore? A Post From the Future** — FETCHED, 4000 chars
+- [49/776] `hkBp6a5RCDNedo6Wy` **The 9/11 Meta-Truther Conspiracy Theory** — FETCHED, 6712 chars
+- [50/776] `QJYkzqnkRdfsL29Hc` **Pascal's Pyramid Scheme** — FETCHED, 5414 chars
+- [51/776] `5Qvvi23WT2unNCoS9` **A Much Better Life?** — FETCHED, 3513 chars
+- [52/776] `7PC22HTvtEbv6tvWJ` **The human problem** — FETCHED, 7482 chars
+- [53/776] `hSeqgnc5CBJ643x9k` **Luminosity (Twilight fanfic) discussion thread** — FETCHED, 1395 chars
+- [54/776] `8vSuZcujKEsK4inRW` **"The Life Cycle of Software Objects" by Chiang is available for free** — FETCHED, 302 chars
+- [55/776] `HyejY9SMnpb6yh8fs` **The danger of living a story - Singularity Tropes** — FETCHED, 6781 chars
+- [56/776] `NBcanXmfRzu6sZ7Jx` **Bayesian Nights (Rationalist Story Time)** — FETCHED, 958 chars
+- [57/776] `4T8NwAgFYRnuFPRHk` **The Cambist and Lord Iron: A Fairy Tale of Economics** — FETCHED, 477 chars
+- [58/776] `JuzXhkm3spN6egzyu` **Short fic about uFAI** — FETCHED, 168 chars
+- [59/776] `KMTTrA9XYsCNE7QKD` **I** — FETCHED, 33464 chars
+- [60/776] `yKnBasvG33Yn5CAjj` **[Link] [Fiction] Ted Chiang: The Lifecycle of Software Objects** — FETCHED, 919 chars
+- [61/776] `Hz5dFKTnyC7HqibSQ` **The Aliens have Landed!** — FETCHED, 5417 chars
+- [62/776] `HvjZxxtHnAucnaKn2` **Fiction: Letter from the End** — FETCHED, 95 chars
+- [63/776] `v8awKCJC6xMLJtcmk` **[Story] Rejection** — FETCHED, 3437 chars
+- [64/776] `mWb2cCqjvjng7Pzcp` **[FICTION] Hamlet and the Philosopher's Stone** — FETCHED, 3282 chars
+- [65/776] `Ep2Z42hYqj68QZz6w` **King Under The Mountain: Adventure Log + Soundtrack** — FETCHED, 40398 chars
+- [66/776] `4kphivjxngJmEdWsN` **[Transcript] Tyler Cowen on Stories** — FETCHED, 15932 chars
+- [67/776] `sMsvcdxbK2Xqx8EHr` **Just another day in utopia** — FETCHED, 23459 chars
+- [68/776] `YzzwZaefMa5ep3Jm3` **Fiction: LW-inspired scenelet** — FETCHED, 4263 chars
+- [69/776] `dGwr3gJJuEvxwptHy` **April Fools - Harry Potter and the Methods of Rationality Joke Chapter** — FETCHED, 666 chars
+- [70/776] `JGw75D5RZiCczdbrk` **An exercise in really going through with it** — FETCHED, 7849 chars
+- [71/776] `kZLuM8Aez3vgK2CSy` **[Link] Short story by Yvain** — FETCHED, 182 chars
+- [72/776] `CHD5m9fnosr7L3dto` **Friendship is Optimal: A My Little Pony fanfic about an optimization process** — FETCHED, 1940 chars
+- [73/776] `5uZiajKCrg2r9yA7z` **Good transhumanist fiction?** — FETCHED, 1412 chars
+- [74/776] `hHCBGXkQCbEqBEADE` **Launched: Friendship is Optimal** — FETCHED, 1065 chars
+- [75/776] `MmSv6vnsmDHu5tvpd` **Narrative, self-image, and self-communication** — FETCHED, 9928 chars
+- [76/776] `T27QnGQ929YMTZaaM` **S.E.A.R.L.E's COBOL room** — FETCHED, 3977 chars
+- [77/776] `dCrDWWAS8Q2uFDYGD` **Caelum est Conterrens: I frankly don't see how this is a horror story** — FETCHED, 1434 chars
+- [78/776] `dLtmtghPeLbpmsFJC` **Mortal: A Transponyist Fanfiction** — FETCHED, 2111 chars
+- [79/776] `AYbhqi65SWzHzy7Xx` **Transhumanist Fables** — FETCHED, 4474 chars
+- [80/776] `8KHR3tfa4SJjMSkXd` **The Witching Hour** — FETCHED, 10673 chars
+- [81/776] `sMNHzx7BJBvgbCaKT` **I notice that I am confused about Identity and Resurrection** — FETCHED, 10786 chars
+- [82/776] `2gWs8SScqeDFidqyv` **The Logician And The God-Emperor** — FETCHED, 1663 chars
+- [83/776] `vsASeE4KDP2nedgGv` **Chapter 102: Caring** — FETCHED, 23479 chars
+- [84/776] `hMQPyLDbg3bA7P6aN` **The Study of Anglophysics** — FETCHED, 48137 chars
+- [85/776] `5XDuE9BEiRZcbKZhW` **Three Parables of Microeconomics** — FETCHED, 5736 chars
+- [86/776] `pfmZ5cYQCahABGZzi` **Asches to Asches** — FETCHED, 15587 chars
+- [87/776] `DT9mqFeWocnXiqt9L` **A Story of Kings and Spies** — FETCHED, 10561 chars
+- [88/776] `jFzovY2CERF5bd2EW` **A Story With Zombies** — FETCHED, 9123 chars
+- [89/776] `L86XPKmbpE8YCGruq` **Chapter 9: Title Redacted, Part 1** — FETCHED, 13995 chars
+- [90/776] `B5Qar5K2YzLuvHwi4` **Chapter 70: Self Actualization, Pt 5** — FETCHED, 31247 chars
+- [91/776] `ZfYzvfavHuiwt8ZPb` **Chapter 89: Time Pressure, Pt 2** — FETCHED, 15835 chars
+- [92/776] `4aDzgxNLpi5PptNrJ` **Chapter 106: The Truth, Pt 3** — FETCHED, 8658 chars
+- [93/776] `udB9GNwsrs72YAbsh` **Chapter 59: TSPE, Curiosity, Pt 9** — FETCHED, 26307 chars
+- [94/776] `5MjuC3tuamZBSYZrr` **Chapter 52: The Stanford Prison Experiment, Pt 2** — FETCHED, 21171 chars
+- [95/776] `4nh5G7Dkc24DFz6Pz` **Chapter 78: Taboo Tradeoffs Prelude: Cheating** — FETCHED, 92685 chars
+- [96/776] `N4y4QjNz7NMD6fLiP` **Chapter 3: Comparing Reality To Its Alternatives** — FETCHED, 11248 chars
+- [97/776] `jn8256ajXff6KuNPu` **Chapter 30: Working in Group, Pt 1** — FETCHED, 44462 chars
+- [98/776] `i62ujuGfBDDw5ZnZa` **Chapter 25: Hold Off on Proposing Solutions** — FETCHED, 31634 chars
+- [99/776] `NLX738bmncXoc94vu` **Chapter 85: Taboo Tradeoffs, Aftermath 3, Distance** — FETCHED, 34907 chars
+- [100/776] `pQR4B836uDLXLjTC7` **Chapter 120: Something to Protect: Draco Malfoy** — FETCHED, 14508 chars
+- [101/776] `i45GMZgheKTheF9nJ` **Chapter 8: Positive Bias** — FETCHED, 33334 chars
+- [102/776] `BwAt8C365BzaPBfrk` **Chapter 42: Courage** — FETCHED, 17527 chars
+- [103/776] `5jSmYbpx2ToqYBjXS` **Chapter 71: Self Actualization, Pt 6** — FETCHED, 27384 chars
+- [104/776] `nfEoTb8J8886irxdr` **Chapter 38: The Cardinal Sin** — FETCHED, 16036 chars
+- [105/776] `fdiYakAc5N4z4N4Nq` **Chapter 21: Rationalization** — FETCHED, 37035 chars
+- [106/776] `CQaxyAzYfbjeCPY7m` **Chapter 107: The Truth, Pt 4** — FETCHED, 25346 chars
+- [107/776] `AMZMAkoTy8DE38ek6` **Chapter 35: Coordination Problems, Pt 3** — FETCHED, 26981 chars
+- [108/776] `mJPBFatbdurN5x58x` **Chapter 79: Taboo Tradeoffs, Pt 1** — FETCHED, 46560 chars
+- [109/776] `83brDQuCpdvKqPRfu` **Chapter 53: The Stanford Prison Experiment, Pt 3** — FETCHED, 7593 chars
+- [110/776] `SQqHrCFwHQGgroegh` **Chapter 92: Roles, Pt 3** — FETCHED, 12456 chars
+- [111/776] `dNXNL5v7ZSgiWuSaW` **Chapter 111: Failure, Pt 1** — FETCHED, 48334 chars
+- [112/776] `8D8Enneaoa3YjGk4J` **Chapter 60: The Stanford Prison Experiment, Pt 10** — FETCHED, 22856 chars
+- [113/776] `TcfDRjhzNbqE9LX2m` **Chapter 91: Roles, Pt 2** — FETCHED, 25503 chars
+- [114/776] `Qn6W8EK2X5ERkY5qg` **Chapter 121: Something to Protect: Severus Snape** — FETCHED, 8012 chars
+- [115/776] `DAqsG9NxaSyCoN6pJ` **Chapter 108: The Truth, Pt 5, Answers and Riddles** — FETCHED, 85508 chars
+- [116/776] `gBkD8LJNR4ziizMLA` **Chapter 12: Impulse Control** — FETCHED, 22959 chars
+- [117/776] `BJ2WcmG2dMvkh6nz5` **Chapter 28: Reductionism** — FETCHED, 46663 chars
+- [118/776] `KiXSXTbbaYWLTTL5D` **Chapter 80: Taboo Tradeoffs, Pt 2, The Horns Effect** — FETCHED, 33906 chars
+- [119/776] `vNHf7dx5QZA4SLSZb` **Chapter 1: A Day of Very Low Probability** — FETCHED, 15940 chars
+- [120/776] `eRtfnxAhpckqF8Hqy` **Chapter 72: SA, Plausible Deniability, Pt 7** — FETCHED, 48163 chars
+- [121/776] `iTzKdxPBJWnhMdMPK` **Chapter 23: Belief in Belief** — FETCHED, 39153 chars
+- [122/776] `BMbaCAJH2u8mLE2Kg` **Chapter 37: Interlude: Crossing the Boundary** — FETCHED, 5145 chars
+- [123/776] `tk3ZGreB6nRiwrJ5C` **Chapter 54: The Stanford Prison Experiment, Pt 4** — FETCHED, 31830 chars
+- [124/776] `5GCoBhagXMDG6XYTj` **Chapter 64: Omake Files 4, Alternate Parallels** — FETCHED, 32833 chars
+- [125/776] `YctxLuTSWedY3MXqq` **Chapter 109: Reflections** — FETCHED, 31444 chars
+- [126/776] `Afwaj6sGfxcQZrmYF` **Chapter 4: The Efficient Market Hypothesis** — FETCHED, 10901 chars
+- [127/776] `wuiZQrqn2fZCZMDBC` **Chapter 122: Something to Protect: Hermione Granger** — FETCHED, 70304 chars
+- [128/776] `worfnZsavhZeFsBzZ` **Chapter 61: TSPE, Secrecy and Openness, Pt 11** — FETCHED, 36076 chars
+- [129/776] `35CSC29qNo7iqXhqF` **Chapter 93: Roles, Pt 4** — FETCHED, 20591 chars
+- [130/776] `iW7zmuBaskKcaErGC` **Chapter 16: Lateral Thinking** — FETCHED, 37742 chars
+- [131/776] `EQ9AKiFDy3wXnhG6L` **Chapter 33: Coordination Problems, Pt 1** — FETCHED, 58300 chars
+- [132/776] `gBPGu9H9Hhhf7yWDA` **Chapter 48: Utilitarian Priorities** — FETCHED, 17767 chars
+- [133/776] `7Ek2ig6XHJp8JRaG2` **Chapter 110: Reflections, Pt 2** — FETCHED, 11576 chars
+- [134/776] `tDxLr36WrH2HHqJjr` **Chapter 31: Working in Groups, Pt 2** — FETCHED, 5831 chars
+- [135/776] `SmfQ6kYDQXJMMDBwg` **Chapter 55: The Stanford Prison Experiment, Pt 5** — FETCHED, 36881 chars
+- [136/776] `PfabLHZxDuvAouqh4` **Chapter 73: SA, The Sacred and the Mundane, Pt 8** — FETCHED, 30222 chars
+- [137/776] `qWC36EKyHQmiziKXJ` **Chapter 65: Contagious Lies** — FETCHED, 28206 chars
+- [138/776] `CYnPzFga2nQk9dowy` **Chapter 115: Shut Up and Do The Impossible, Pt 2** — FETCHED, 18825 chars
+- [139/776] `Xx38DAuRfY6ftWPtF` **Chapter 100: Precautionary Measures, Pt 1** — FETCHED, 33653 chars
+- [140/776] `EswXBc4itYycfpbK4` **Chapter 62: The Stanford Prison Experiment, Final** — FETCHED, 29519 chars
+- [141/776] `MNENGi5ZEm7gMSkWq` **Chapter 14: The Unknown and the Unknowable** — FETCHED, 29053 chars
+- [142/776] `JtLGZMEysSbXLHJQj` **Chapter 26: Noticing Confusion** — FETCHED, 35011 chars
+- [143/776] `kZjG9CAXdfxj6RnCF` **Chapter 94: Roles, Pt 5** — FETCHED, 21358 chars
+- [144/776] `g78TRgLQuqY2etN7q` **Chapter 49: Prior Information** — FETCHED, 27521 chars
+- [145/776] `y7ErBMkB9m6rrWSTF` **Chapter 41: Frontal Override** — FETCHED, 13493 chars
+- [146/776] `vrNyJv7PtieKKJ5xf` **Chapter 74: SA, Escalation of Conflicts, Pt 9** — FETCHED, 56246 chars
+- [147/776] `64KCZYgBnCTFv3Luh` **Chapter 56: TSPE, Constrained Optimization** — FETCHED, 20774 chars
+- [148/776] `4HZJPGf2GzC6BSHa6` **Chapter 5: The Fundamental Attribution Error** — FETCHED, 19635 chars
+- [149/776] `iL83fz5CQ7zJJoqN2` **Chapter 66: Self Actualization, Pt 1** — FETCHED, 9033 chars
+- [150/776] `y5Ea8ZejmsgBLWeDp` **Chapter 36: Status Differentials** — FETCHED, 26708 chars
+- [151/776] `aat8P63mjxqGRtmak` **Chapter 43: Humanism, Pt 1** — FETCHED, 41460 chars
+- [152/776] `n2wSWq4io7fz6sCzb` **Chapter 18: Dominance Hierarchies** — FETCHED, 53927 chars
+- [153/776] `cYmdmkLKsZtrCjLBA` **Chapter 101: Precautionary Measures, Pt 2** — FETCHED, 16893 chars
+- [154/776] `q4qgxzERtTsBcGoQb` **Chapter 90: Roles, Pt 1** — FETCHED, 31346 chars
+- [155/776] `ZACmtQPEZfpNBQp6g` **Chapter 95: Roles, Pt 6** — FETCHED, 24388 chars
+- [156/776] `7GLfcsaZ8EthxWyNY` **Chapter 63: TSPE, Aftermaths** — FETCHED, 83120 chars
+- [157/776] `yYwzAeHhFzimQgBCf` **Chapter 22: The Scientific Method** — FETCHED, 52616 chars
+- [158/776] `wmcbHtSJh5jCsJiPP` **Chapter 47: Personhood Theory** — FETCHED, 67567 chars
+- [159/776] `5vCigj2k44F9bumWK` **Chapter 112: Failure, Pt 2** — FETCHED, 7889 chars
+- [160/776] `f5hF3hyEoJWfeeduA` **Chapter 57: TSPE, Constrained Cognition, Pt 7** — FETCHED, 24645 chars
+- [161/776] `8d28r3p65psHRoMpy` **Chapter 29: Egocentric Bias** — FETCHED, 34354 chars
+- [162/776] `Wx2CKWmKnNnXYpWz6` **Chapter 86: Multiple Hypothesis Testing** — FETCHED, 120938 chars
+- [163/776] `btfnD6vRQqcfMtuoX` **Chapter 75: Self Actualization Final, Responsibility** — FETCHED, 34610 chars
+- [164/776] `tvkEXhMsBy69miQFT` **Chapter 45: Humanism, Pt 3** — FETCHED, 19542 chars
+- [165/776] `6L523aJDpjm4yWxue` **Chapter 2: Everything I Believe is False** — FETCHED, 9150 chars
+- [166/776] `9qCADrAxLZWt2sZeX` **Chapter 67: Self Actualization, Pt 2** — FETCHED, 22273 chars
+- [167/776] `ymaAWJMJzPSyTW8o2` **Chapter 10: Self Awareness, Part II** — FETCHED, 23603 chars
+- [168/776] `RJ5EiSTvvDDs3wTsu` **Chapter 24: Machiavellian Intelligence Hypothesis** — FETCHED, 25531 chars
+- [169/776] `gSrzwWby3bP28vuCT` **Chapter 96: Roles, Pt 7** — FETCHED, 19038 chars
+- [170/776] `PYypGqzCiiTkm9HWv` **Chapter 116: Aftermath, Something to Protect, Pt 0** — FETCHED, 12823 chars
+- [171/776] `jJekxY2D8zBC2yT6M` **Chapter 81: Taboo Tradeoffs, Pt 3** — FETCHED, 30733 chars
+- [172/776] `tffiESEnfSK89GqiM` **Chapter 87: Hedonic Awareness** — FETCHED, 35807 chars
+- [173/776] `4MhEnx8K7Bryxh9iX` **Chapter 76: Interlude with the Confessor: Sunk Costs** — FETCHED, 16270 chars
+- [174/776] `5tXiw9PBCqFLHs2Mp` **Chapter 6: The Planning Fallacy** — FETCHED, 58137 chars
+- [175/776] `shPgZtpw7dEP6vZ65` **Chapter 113: Final Exam** — FETCHED, 21740 chars
+- [176/776] `BizSX5M3WouxHmDQG` **Chapter 58: TSPE, Constrained Cognition, Pt 8** — FETCHED, 24965 chars
+- [177/776] `yB3yjYPf2H722hztd` **Chapter 68: Self Actualization, Pt 3** — FETCHED, 28380 chars
+- [178/776] `Ms8CK7KFpC4krAyf5` **Chapter 34: Coordination Problems, Pt 2** — FETCHED, 27406 chars
+- [179/776] `vnbTgoENKRkpttAcB` **Chapter 97: Roles, Pt 8** — FETCHED, 37266 chars
+- [180/776] `CSrtbghkgTTpDmWhT` **Chapter 11: Omake Files 1, 2, 3** — FETCHED, 16277 chars
+- [181/776] `rF6h39aXMyNyvoP2p` **Chapter 103: Tests** — FETCHED, 14011 chars
+- [182/776] `dqic7DyR5eLTi2htS` **Chapter 82: Taboo Tradeoffs, Final** — FETCHED, 22315 chars
+- [183/776] `udH3CoLhwFcod8yZY` **Chapter 114: Shut Up and Do The Impossible** — FETCHED, 11721 chars
+- [184/776] `oToy3Qdy9HNDuh4nH` **Chapter 117: Something to Protect: Minerva McGonagall** — FETCHED, 13288 chars
+- [185/776] `bC9RCmv5cMtKZvJ2C` **Chapter 20: Bayes's Theorem** — FETCHED, 35716 chars
+- [186/776] `K2BDvirc8CEi4AY54` **Chapter 50: Self Centeredness** — FETCHED, 21181 chars
+- [187/776] `7PKL5DRWCrkhbxzEY` **Chapter 77: SA, Aftermaths: Surface Appearances** — FETCHED, 61331 chars
+- [188/776] `Q9F68fq5wxudibnMC` **Chapter 88: Time Pressure, Pt 1** — FETCHED, 34266 chars
+- [189/776] `GW7t5XN3uXuLazEY5` **Chapter 27: Empathy** — FETCHED, 53669 chars
+- [190/776] `yoFncr9qNQCmGBvuS` **Chapter 13: Asking the Wrong Questions** — FETCHED, 38027 chars
+- [191/776] `Rm8g7qbzJ7k5WQmSz` **Chapter 98: Roles, Final** — FETCHED, 17240 chars
+- [192/776] `D4sT74YKPxHC2Lw4f` **Chapter 69: Self Actualization, Pt 4** — FETCHED, 19789 chars
+- [193/776] `Tq8XwJd9HKJuRubQd` **Chapter 40: Pretending to be Wise, Pt 2** — FETCHED, 9497 chars
+- [194/776] `yLyLFuHXyiZo8dQKq` **Chapter 104: The Truth, Pt 1, Riddles and Answers** — FETCHED, 57550 chars
+- [195/776] `8QTPrnK9XfZ6Faysv` **Chapter 83: Taboo Tradeoffs, Aftermath 1** — FETCHED, 3659 chars
+- [196/776] `pBoj9M22EMMAHW4Rr` **Chapter 15: Conscientiousness** — FETCHED, 21018 chars
+- [197/776] `S6evEw7Pw6t6SNAxG` **Chapter 118: Something to Protect: Professor Quirrell** — FETCHED, 7960 chars
+- [198/776] `NunuKwrSg92ST9E8W` **Chapter 17: Locating the Hypothesis** — FETCHED, 74553 chars
+- [199/776] `okdusZkDRsQ6zCRDD` **Chapter 7: Reciprocation** — FETCHED, 62476 chars
+- [200/776] `csJeZ3xrX6vjYNPFe` **Chapter 39: Pretending to be Wise, Pt 1** — FETCHED, 45402 chars
+- [201/776] `Sy2q9bE9wZe2kPoSp` **Chapter 44: Humanism, Pt 2** — FETCHED, 6627 chars
+- [202/776] `Jb9t2ytyxvWjkRoZB` **Chapter 51: Title Redacted, Pt 1** — FETCHED, 18281 chars
+- [203/776] `3z78utvMhGCSdDAwB` **Chapter 99: Roles, Aftermath** — FETCHED, 73 chars
+- [204/776] `m4HHsZYXzQtchSepn` **Chapter 19: Delayed Gratification** — FETCHED, 46274 chars
+- [205/776] `rR36AjFKA2TRFyxQB` **Chapter 105: The Truth, Pt 2** — FETCHED, 18240 chars
+- [206/776] `oEhwPGaWKaXy8GbBq` **Chapter 46: Humanism, Pt 4** — FETCHED, 23753 chars
+- [207/776] `GiQ9nhFNq8ykEBsum` **Chapter 32: Interlude: Personal Financial Management** — FETCHED, 8358 chars
+- [208/776] `MnHtQtzrLW3sshtqJ` **Chapter 119: Something to Protect: Albus Dumbledore** — FETCHED, 57021 chars
+- [209/776] `e3xKda7DPknkGW967` **Chapter 84: Taboo Tradeoffs, Aftermath 2** — FETCHED, 60998 chars
+- [210/776] `Lt8Rn4rkYwqiTXGPy` **Answer to Job** — FETCHED, 7234 chars
+- [211/776] `4rkFQ2zD7bRpzBjf8` **Defeating the Villain** — FETCHED, 4663 chars
+- [212/776] `SvKSwT6xYfYahH4XN` **Universal Love, Said The Cactus Person** — FETCHED, 17011 chars
+- [213/776] `eehsGtoQTncuJs3Fd` **The paperclip maximiser's perspective** — FETCHED, 4017 chars
+- [214/776] `wJnm5cBiZGmKn595f` **…And I Show You How Deep The Rabbit Hole Goes** — FETCHED, 36580 chars
+- [215/776] `zmFuGL8qJ2rsT6YKY` **Short Story: Quarantine** — FETCHED, 3859 chars
+- [216/776] `FLnDFnXyWrKr6eiT6` **Reverse Psychology** — FETCHED, 12483 chars
+- [217/776] `MFNJ7kQttCuCXHp8P` **The Goddess of Everything Else** — FETCHED, 13116 chars
+- [218/776] `qaHHJ3kkCQS4nsoGJ` **It Was You Who Made My Blue Eyes Blue** — FETCHED, 33219 chars
+- [219/776] `BZMc9Xzqw5WcCMHrr` **The Moral Of The Story** — FETCHED, 6721 chars
+- [220/776] `fTrEqNnYYSNXNSRcg` **Allegory On AI Risk, Game Theory, and Mithril** — FETCHED, 5921 chars
+- [221/776] `kSiT2XjfTnDHKx44W` **A Modern Myth** — FETCHED, 85412 chars
+- [222/776] `t5WPLXNRujFwFkbif` **Book Review: Eisenhorn Trilogy** — FETCHED, 25442 chars
+- [223/776] `Wh8HAK6LR5CAoPCCC` **[REPOST] The Demiurge’s Older Brother** — FETCHED, 11748 chars
+- [224/776] `uGdWZSeHw5uNbhu7M` **Book Review – Too Like the Lightning** — FETCHED, 15681 chars
+- [225/776] `wP2BJJnJKD6gow58L` **Rationalist Seder: A Story of War** — FETCHED, 3821 chars
+- [226/776] `iLMkKDKmfbMkDuQBm` **The Lizard People Of Alpha Draconis 1 Decided To Build An Ansible** — FETCHED, 9928 chars
+- [227/776] `itRfxQtJjYAis2dgb` **Book Reviews: Zoolitude and the Void** — FETCHED, 16059 chars
+- [228/776] `ZxKwKp7WzhtnsQt3r` **A Day in Utopia** — FETCHED, 9245 chars
+- [229/776] `3BFvhJYR3To3Cf4NK` **What strange and ancient things might we find beneath the ice?** — FETCHED, 4013 chars
+- [230/776] `zZTAD7CBX9SkPdv5s` **Russian Cynicism** — FETCHED, 9811 chars
+- [231/776] `AqbWna2S85pFTsHH4` **The Intelligent Social Web** — FETCHED, 23698 chars
+- [232/776] `9HEHHFBWJWy7h2JW9` **Murphy’s Quest Ch 1: Exposure Therapy** — FETCHED, 5033 chars
+- [233/776] `pv5g2PJ6RTdgY9skd` **Murphy’s Quest Ch 3: Murphyjitsu** — FETCHED, 4885 chars
+- [234/776] `jSTus7okunuyTuEbr` **Murphy’s Quest Ch 4: Noticing Confusion** — FETCHED, 6261 chars
+- [235/776] `6yYQk2YNF9J6Yq68G` **Murphy’s Quest Ch 5: Fail Gracefully** — FETCHED, 5483 chars
+- [236/776] `f2cAQM8woDXrJBN3h` **Murphy’s Quest Ch 6: Perverse Incentives** — FETCHED, 931 chars
+- [237/776] `3NQRpFNTqidp54gTc` **Murphy’s Quest Ch 7: Outside the Box** — FETCHED, 4807 chars
+- [238/776] `isKdendizkFzxxwfa` **Murphy’s Quest Ch 8: False Pentachotomy** — FETCHED, 6273 chars
+- [239/776] `fdukyHuvXHF7ffJsL` **Murphy’s Quest Ch 9: Double Crux** — FETCHED, 4362 chars
+- [240/776] `5b6EcTfi9X3FEdYTH` **Murphy’s Quest Ch 10: Gears-Like Models** — FETCHED, 6079 chars
+- [241/776] `awK3Pm9kuLGNjRjbz` **Murphy’s Quest Ch 11: Resolve** — FETCHED, 3470 chars
+- [242/776] `Bcngsc5mFofWMGnLJ` **Murphy’s Quest Ch 13: Existential Risk** — FETCHED, 4775 chars
+- [243/776] `SBr6BmKEGawEpxauZ` **The Salmon of Knowledge** — FETCHED, 11050 chars
+- [244/776] `7N7JGyTmX5Gnjhfrk` **Is the Star Trek Federation really incapable of building AI?** — FETCHED, 4219 chars
+- [245/776] `wd6cug64wsMnPc2eg` **The most important step** — FETCHED, 2333 chars
+- [246/776] `LYXb2fLkGDRXoAx7M` **Timothy Chu Origins Chapter 1** — FETCHED, 11223 chars
+- [247/776] `Rx9GLepCxctXDqCPc` **A Dialogue on Rationalist Activism** — FETCHED, 17144 chars
+- [248/776] `Gg9a4y8reWKtLe3Tn` **The Rocket Alignment Problem** — FETCHED, 28141 chars
+- [249/776] `rwjv8bZfSuE9ZAigH` **Act of Charity** — FETCHED, 14177 chars
+- [250/776] `mooQ5QkBsLJBGgfbh` **Speculative Evopsych, Ep. 1** — FETCHED, 1881 chars
+- [251/776] `pPssXmTGEin9Ri3An` **Hell Must Be Destroyed** — FETCHED, 7902 chars
+- [252/776] `oCPPAoTFFHk9SGfrc` **New Ratfic: Nyssa in the Realm of Possibility** — FETCHED, 250 chars
+- [253/776] `fBgzL2gbavQaswsJc` **Optimizing for Stories (vs Optimizing Reality)
+** — FETCHED, 12121 chars
+- [254/776] `grrMAwJrELry5BhSy` **Littlewood's Law and the Global Media** — FETCHED, 0 chars
+- [255/776] `FK49pmBDgYGwDE2Sb` **[Fiction] IO.SYS** — FETCHED, 39076 chars
+- [256/776] `wT9Ha4uNchdDoWTGg` **Parfit's Escape (Filk)** — FETCHED, 1739 chars
+- [257/776] `PWSkuFt6f498zSCTe` **PlayStation Odysseys** — FETCHED, 20637 chars
+- [258/776] `5EnpGNG5xPGSPyuQn` **Peter Thiel/Eric Weinstein Transcript on Growth, Violence, and Stories** — FETCHED, 28324 chars
+- [259/776] `SwcyMEgLyd4C3Dern` **The Parable of Predict-O-Matic** — FETCHED, 27644 chars
+- [260/776] `dv9E65xWw7CsJNERz` **The Pit** — FETCHED, 14084 chars
+- [261/776] `Aut78T9pv4pPhdcKe` **A parable in the style of Invisible Cities** — FETCHED, 2245 chars
+- [262/776] `p72t4uwAzX864zuKK` **12020: a fine future for these holidays** — FETCHED, 2741 chars
+- [263/776] `Ybp6Wg6yy9DWRcBiR` **The Adventure: a new Utopia story** — FETCHED, 127665 chars
+- [264/776] `GnH3qsFJKoHvtvN2G` **Thoughts about Dr Stone and Mythology** — FETCHED, 4203 chars
+- [265/776] `MNfrvbhi3286GFQMz` **The one where Quirrell is an egg** — FETCHED, 583 chars
+- [266/776] `ehq7L2tv2L59nNAiB` **Lessons from Isaac: Pitfalls of Reason** — FETCHED, 16300 chars
+- [267/776] `bTW87r8BrN3ySrHda` **"Starwink" by Alicorn** — FETCHED, 228 chars
+- [268/776] `NencL9r3Y7MPiqEbS` **The Devil You Know** — FETCHED, 5706 chars
+- [269/776] `4hLcbXaqudM9wSeor` **Philosophy in the Darkest Timeline: Basics of the Evolution of Meaning** — FETCHED, 25569 chars
+- [270/776] `jTQaFKL6s3pppSNx4` **God and Moses have a chat** — FETCHED, 9840 chars
+- [271/776] `pi9HMaFMKkbrwzoYN` **The Queen of the Damned** — FETCHED, 8064 chars
+- [272/776] `3YjWifjkhw2Q8RQL2` **GPT-3 Fiction Samples** — FETCHED, 0 chars
+- [273/776] `E5dAhTg2QaeYHKqh9` **Harry Potter and methods of rationality alternative ending.** — FETCHED, 2121 chars
+- [274/776] `uWM5auewdKjdJJG9t` **The Book of HPMOR Fanfics** — FETCHED, 1838 chars
+- [275/776] `fbjNLjNd4zRbY9Wg2` **Null-boxing Newcomb’s Problem** — FETCHED, 6322 chars
+- [276/776] `ngoEeB3xFzYiwKy2D` **Telling more rational stories** — FETCHED, 5834 chars
+- [277/776] `xiPMaYGTm2xfsB8WF` **Rereading Atlas Shrugged** — FETCHED, 24242 chars
+- [278/776] `zJ2i8uPGjywD5W5Jw` **The Manual Economy** — FETCHED, 7242 chars
+- [279/776] `4tke3ibK9zfnvh9sE` **The Bayesian Tyrant** — FETCHED, 11651 chars
+- [280/776] `hmuKkZbLCYfx8NjQ3` **Has anyone written stories happening in Hanson's em world?** — FETCHED, 167 chars
+- [281/776] `Fjfe2BuihTAE58A27` **What are examples of Rationalist fable-like stories?** — FETCHED, 669 chars
+- [282/776] `ZsSCdNEC2aj6pmDL2` **Universal Eudaimonia** — FETCHED, 2816 chars
+- [283/776] `mXzgtnx587sA2ynzS` **Forcing Freedom** — FETCHED, 13473 chars
+- [284/776] `f2ivgmjjPyjhhCe5J` **What could one do with truly unlimited computational power?** — FETCHED, 3023 chars
+- [285/776] `zb3hWt99i9Fm93KPq` **Luna Lovegood and the Chamber of Secrets - Part 1** — FETCHED, 5993 chars
+- [286/776] `iC9tQxxsP3iiLGwJD` **Matryoshka Faraday Box** — FETCHED, 4662 chars
+- [287/776] `fQ58TutLQD8Q9bbed` **Luna Lovegood and the Chamber of Secrets - Part 2** — FETCHED, 0 chars
+- [288/776] `t7wGNo4CxqqwDr7N7` **Luna Lovegood and the Chamber of Secrets - Part 3** — FETCHED, 3270 chars
+- [289/776] `pJRC6LHNEr7aSZuKw` **Luna Lovegood and the Chamber of Secrets - Part 4** — FETCHED, 0 chars
+- [290/776] `KnGk9T5KET36irarw` **Luna Lovegood and the Chamber of Secrets - Part 5** — FETCHED, 5924 chars
+- [291/776] `yYq3dysgWrBWQrycm` **Luna Lovegood and the Chamber of Secrets - Part 6** — FETCHED, 3030 chars
+- [292/776] `FbJYEn6eWA5JnGeGP` **Parable of the Dammed** — FETCHED, 4409 chars
+- [293/776] `T67XjmbwCPT2jhqgk` **Luna Lovegood and the Chamber of Secrets - Part 7** — FETCHED, 2764 chars
+- [294/776] `oFa6A2pmPNjdhZDJm` **Hermione Granger and Newcomb's Paradox** — FETCHED, 3774 chars
+- [295/776] `M3bM9CTPZTQHBjivf` **Luna Lovegood and the Chamber of Secrets - Part 8** — FETCHED, 0 chars
+- [296/776] `PLTi5KJXjWxZQ7ggt` **Luna Lovegood and the Chamber of Secrets - Part 9** — FETCHED, 3183 chars
+- [297/776] `D2D8sCDvJapcttdF6` **Luna Lovegood and the Chamber of Secrets - Part 10** — FETCHED, 0 chars
+- [298/776] `Qz4k8RWACLmNgtc3a` **Luna Lovegood and the Chamber of Secrets - Part 11** — FETCHED, 3986 chars
+- [299/776] `FCMqi6NZDXENjxMKf` **Luna Lovegood and the Chamber of Secrets - Part 12** — FETCHED, 3746 chars
+- [300/776] `qXftfDEydtRSCohLR` **Luna Lovegood and the Chamber of Secrets - Part 13** — FETCHED, 0 chars
+- [301/776] `q74jJCb9SFg2PSYCw` **The True Face of the Enemy** — FETCHED, 19088 chars
+- [302/776] `35XRxZzunC2mbyrB9` **Three Stories about not Thinking too Hard** — FETCHED, 5337 chars
+- [303/776] `5A2RKafXajXuywsqy` **What didn’t happen** — FETCHED, 3810 chars
+- [304/776] `yWMKQBnTwFAPFdN6S` **[Fiction] Lena (MMAcevedo)** — FETCHED, 247 chars
+- [305/776] `pfQXC4z6PbL4nxt9z` **The sailor's wife** — FETCHED, 4260 chars
+- [306/776] `7NR3f52keeMi3fD2x` **AIDungeon 3.1** — FETCHED, 3014 chars
+- [307/776] `gvA4j8pGYG4xtaTkw` **I'm from a parallel Earth with much higher coordination: AMA** — FETCHED, 109971 chars
+- [308/776] `Eu8r7sbhmCnznBC93` **The Accord** — FETCHED, 1425 chars
+- [309/776] `idEyrgFF2THg86pxp` **Bayeswatch 1: Jewish Space Laser** — FETCHED, 7905 chars
+- [310/776] `dJkNPgEQPqbhqfwAh` **Bayeswatch 2: Puppy Muffins** — FETCHED, 6714 chars
+- [311/776] `y4TN39PgtziJENiPm` **Bayeswatch 3: A Study in Scarlet** — FETCHED, 3229 chars
+- [312/776] `CsEY8EgpxQNAPiMiA` **The Nuclear Energy Alignment Problem** — FETCHED, 2673 chars
+- [313/776] `gpgMe4zsrT5gL6BcA` **Bayeswatch 4: Mousetrap** — FETCHED, 5698 chars
+- [314/776] `HXzPqedCxEqLXn36S` **Bayeswatch 5: Hivemind** — FETCHED, 4717 chars
+- [315/776] `cxDvhqDKn5W3eubvA` **The dumbest kid in the world (joke)** — FETCHED, 724 chars
+- [316/776] `qBdgCEdr8jMLoKrDg` **Bayeswatch 6: Mechwarrior** — FETCHED, 4773 chars
+- [317/776] `cmidGgbxFxLrxh3nr` **Internal Memo from Bleggs Universal** — FETCHED, 6072 chars
+- [318/776] `vvgBhkJZvnA6LBapt` **Avoid News, Part 2: What the Stock Market Taught Me about News** — FETCHED, 12398 chars
+- [319/776] `NZvFostjy8gu5mEnc` **D&D.Sci(-Fi) June 2021: The Duel with Earwax** — FETCHED, 5334 chars
+- [320/776] `GaiPHXcaS4acouipC` **Jackpot! An AI Vignette** — FETCHED, 4102 chars
+- [321/776] `o4cgvYmNZnfS4xhxL` **Working With Monsters** — FETCHED, 8675 chars
+- [322/776] `SxL9rgE2tk3StimAR` **Purple Lipstick** — FETCHED, 3081 chars
+- [323/776] `f46GtgMzcJy5TmSmq` **Narrative truth** — FETCHED, 7140 chars
+- [324/776] `5QmtqBt6GDM8hYkAr` **Training My Friend to Cook** — FETCHED, 6031 chars
+- [325/776] `ycG3mrtdqddCkK9et` **D&D.Sci Pathfinder: Return of the Gray Swan** — FETCHED, 9680 chars
+- [326/776] `nHanKgEsFFJxAZhBp` **Bayeswatch 7: Wildfire** — FETCHED, 6127 chars
+- [327/776] `ifs3ycQYMLdAhgsuJ` **Bayeswatch 8: Antimatter** — FETCHED, 5129 chars
+- [328/776] `HTYGsnAb9HZsLCmgk` **Bayeswatch 9: Zombies** — FETCHED, 5068 chars
+- [329/776] `AodrQzsDtm97PFZx2` **Harry Potter and the Methods of Psychomagic | Chapter 1: Affect** — FETCHED, 12065 chars
+- [330/776] `nAcJzLgACfiNTnMR7` **"Rational Agents Win"** — FETCHED, 2833 chars
+- [331/776] `x9akR7y6CBAf9pwr2` **Where's my magic sword?** — FETCHED, 3325 chars
+- [332/776] `Fq8ybxtcFvKEsWmF8` **AI takeoff story: a continuation of progress by other means** — FETCHED, 22116 chars
+- [333/776] `Awhhza8yMejNpsbYo` **Bayeswatch 10: Spyware** — FETCHED, 7545 chars
+- [334/776] `6SEtDrChLDmZQeorb` **Interview with Skynet** — FETCHED, 3198 chars
+- [335/776] `aAkkHf82iYGzcNNoz` **Bayeswatch 11: Parabellum** — FETCHED, 3418 chars
+- [336/776] `To2LyCbYb4DrFX3fX` **Bayeswatch 12: The Singularity War** — FETCHED, 3032 chars
+- [337/776] `F7JjRthZYCQ4xusD7` **Bayeswatch 13: Spaceship** — FETCHED, 2064 chars
+- [338/776] `YbCRteKDxndX9td5R` **Intelligence, epistemics, and sanity, in three short parts** — FETCHED, 6756 chars
+- [339/776] `cujpciCqNbawBihhQ` **Self-Integrity and the Drowning Child** — FETCHED, 8524 chars
+- [340/776] `FbiwNyBC2W2c4fMzn` **Harry Potter and the Methods of Psychomagic | Chapter 2: The Global Neuronal Workspace** — FETCHED, 16983 chars
+- [341/776] `dYspinGtiba5oDCcv` **Feature Selection** — FETCHED, 26443 chars
+- [342/776] `HjQrRiJeYFFSEfSKX` **Effective Evil** — FETCHED, 5185 chars
+- [343/776] `HFPjfAdXqqJqBpXF5` **What the future will look like** — FETCHED, 6013 chars
+- [344/776] `FabrFpzg5f5RTCrHt` **[Book Review] "Sorceror's Apprentice" by Tahir Shah** — FETCHED, 12108 chars
+- [345/776] `H4kadKrC2xLK24udn` **The Maker of MIND** — FETCHED, 17625 chars
+- [346/776] `cLBDeEnMsf4vfxvzc` **Counting Lightning** — FETCHED, 11343 chars
+- [347/776] `fEw4KmqjgAKDWqwYM` **Worldbuilding exercise: The Highwayverse.** — FETCHED, 20621 chars
+- [348/776] `j9cvyTsBBLQbdXtNF` **Gifts** — FETCHED, 16606 chars
+- [349/776] `AwNpc5ka5nk9vx7xE` **Don't Look Up (Film Review)** — FETCHED, 15176 chars
+- [350/776] `LZn9asbnJHAJsGPA6` **Ten Minutes with Sam Altman** — FETCHED, 5531 chars
+- [351/776] `PrSWKSFxEtFBZ7Xbj` **The Machine that Broke My Heart** — FETCHED, 4074 chars
+- [352/776] `zmXrKHZRQ3jsc9pER` **The Genetics of Space Amazons
+** — FETCHED, 6163 chars
+- [353/776] `eJ6C2QTyRuo8GAGM2` **The Other Earth (Chapter 2)** — FETCHED, 49347 chars
+- [354/776] `qB2kMJHCeaKyeXqkW` **Target for Tonight: A Drama In One Act** — FETCHED, 26500 chars
+- [355/776] `A6rYai7PeGakePazu` **Harry Potter and the Methods of Psychomagic | Chapter 3: Intelligence Explosions** — FETCHED, 15228 chars
+- [356/776] `duF4Qh9pn7Y5imhsm` **The Liar and the Scold** — FETCHED, 20971 chars
+- [357/776] `27hrcyr3eqPFyNR8d` **Career Day: A Short Story** — FETCHED, 29189 chars
+- [358/776] `Lx9aCnwvnckrckmqy` **To Change the World** — FETCHED, 0 chars
+- [359/776] `XTnzZkAHenomutQhq` **Books Worthy of Integration** — FETCHED, 5106 chars
+- [360/776] `5RytYtxhr5BaELkKi` **Practitioner: Novice** — FETCHED, 258 chars
+- [361/776] `mLFQPtKWSCC5qLy5J` **The Agent** — FETCHED, 1356 chars
+- [362/776] `3bBw83qr8nTJb5jcJ` **Patricia Hall & The Warlock Curse** — FETCHED, 1004 chars
+- [363/776] `a5e9arCnbDac9Doig` **It Looks Like You're Trying To Take Over The World** — FETCHED, 1403 chars
+- [364/776] `wpADDkyAG7ag4mcqj` **Treat Examples as World-Building** — FETCHED, 2749 chars
+- [365/776] `tKy3cbkKx47GiRWhJ` **An outline of an ironic LessWrong post** — FETCHED, 1100 chars
+- [366/776] `igPdaAezS7hHrCQ65` **Forecasting Newsletter: April 2222** — FETCHED, 13290 chars
+- [367/776] `pL4WhsoPJwauRYkeK` **Moses and the Class Struggle** — FETCHED, 8511 chars
+- [368/776] `7qii6be3qkjpjWeJm` **A Brief Theology of D&D** — FETCHED, 4760 chars
+- [369/776] `px8ha4wSXcmfejEF9` **Anti-Corruption Market** — FETCHED, 5622 chars
+- [370/776] `E3rQgv4YNrHseQ3LZ` **[Invisible Networks] Psyche-Sort** — FETCHED, 3372 chars
+- [371/776] `r8moKsfGzqQcWeCsr` **Uncontrollable Super-Powerful Explosives** — FETCHED, 8000 chars
+- [372/776] `TssLm8qdkEk7KW2GJ` **[Invisible Networks] Goblin Marketplace** — FETCHED, 4766 chars
+- [373/776] `xNcKbMc49WPx4w8QX` **Bayeswatch 9.5: Rest & Relaxation** — FETCHED, 3734 chars
+- [374/776] `5knvwbuJxLheHSxpK` **Bayeswatch 6.5: Therapy** — FETCHED, 1113 chars
+- [375/776] `APiKzCSDiR49KQtLg` **You get one story detail** — FETCHED, 6774 chars
+- [376/776] `4LgW92zRex8ZxTHiB` **A heart's cry** — FETCHED, 6980 chars
+- [377/776] `LbXeRounm7tg6i8mk` **Post-history is written by the martyrs** — FETCHED, 33860 chars
+- [378/776] `erWyjLzHSAMKspd24` **The Platonist’s Dilemma: A Remix on the Prisoner's.** — FETCHED, 8405 chars
+- [379/776] `AvANsxR88iiZziKPt` **How dath ilan coordinates around solving alignment** — FETCHED, 10976 chars
+- [380/776] `uyBeAN5jPEATMqKkX` **Lies Told To Children** — FETCHED, 12003 chars
+- [381/776] `3kEu5y2qjkRiGKCa9` **Fiction: My alternate earth story.** — FETCHED, 7955 chars
+- [382/776] `BQDEeB8c8w6dez3Gm` **All I Know is that I Know Nothing** — FETCHED, 4038 chars
+- [383/776] `7GDXAqcz8yHv2YvTe` **The Gospel of Martin Luther** — FETCHED, 1863 chars
+- [384/776] `bgjfCqgL3iebMcxZH` **[Scribble] Bad Reasons Behind Different Systems and a Story with No Good Moral** — FETCHED, 9030 chars
+- [385/776] `SA9hDewwsYgnuscae` **ProjectLawful.com: Eliezer's latest story, past 1M words** — FETCHED, 2109 chars
+- [386/776] `Wt89KzBWPiHm6XkD7` **Positive outcomes under an unaligned AGI takeover** — FETCHED, 4665 chars
+- [387/776] `igxS7re8nfihpbTo5` **The Last Paperclip** — FETCHED, 32028 chars
+- [388/776] `2TZwQ9JbshCBpq9DC` **A tentative dialogue with a Friendly-boxed-super-AGI on brain uploads** — FETCHED, 6347 chars
+- [389/776] `qo2hqf2ha7rfgCdjY` **A bridge to Dath Ilan?  Improved governance on the critical path to AI alignment.** — FETCHED, 26232 chars
+- [390/776] `5Awp4m8HZgdTiuiMo` **[fiction]A Question of Perspective** — FETCHED, 5266 chars
+- [391/776] `jKxuB9pZXRiom7ecK` **Glass Puppet** — FETCHED, 4811 chars
+- [392/776] `GbzaYQ5ziZfo6KJmZ` **Brass Puppet** — FETCHED, 4375 chars
+- [393/776] `jBNTf7o2R6bJjbJEk` **Where Utopias Go Wrong, or: The Four Little Planets** — FETCHED, 30113 chars
+- [394/776] `eQ3TyKmjWd6vPeefi` **Passable Puppet** — FETCHED, 5587 chars
+- [395/776] `exvuvFZniGh2R5nvd` **The Mountain Troll** — FETCHED, 3877 chars
+- [396/776] `Ke7DiT2DHMyGiv3s2` **Beauty and the Beast** — FETCHED, 10361 chars
+- [397/776] `Hm5Qm2wFvJzdnj6CF` **A Modest Pivotal Act** — FETCHED, 8863 chars
+- [398/776] `BhoMqZuofPNmhG7We` **Dagger of Detect Evil** — FETCHED, 4664 chars
+- [399/776] `vvPRDgptHAKJxZ4mE` **Sex Fairy Lore** — FETCHED, 10052 chars
+- [400/776] `eRDF3FjBgHnJHrKCC` **Deontological Evil** — FETCHED, 3879 chars
+- [401/776] `KHbFsNzi6eWRCZjrc` **Forecasting Through Fiction** — FETCHED, 15000 chars
+- [402/776] `KBjRoc7WccbMehnbN` **Report from a civilizational observer on Earth** — FETCHED, 11750 chars
+- [403/776] `Fh4gwB2xixxnpQnko` **Questions for a Theory of Narratives** — FETCHED, 7983 chars
+- [404/776] `A3sJeuKNAQdCm7Ji7` **A sufficiently paranoid paperclip maximizer** — FETCHED, 3778 chars
+- [405/776] `tE7y8FZe7wSSzoRaS` **The Parable of the Boy Who Cried 5% Chance of Wolf** — FETCHED, 3175 chars
+- [406/776] `8y5RapenxvuoXwuhy` **The Bunny: An EA Short Story** — FETCHED, 10641 chars
+- [407/776] `B3EXd6tsgTN4onBCh` **Short story speculating on possible ramifications of AI on the art world** — FETCHED, 5028 chars
+- [408/776] `aYuJdRKTvvgRd6HWr` **I’ve written a Fantasy Novel to Promote Effective Altruism** — FETCHED, 23173 chars
+- [409/776] `qqmhmdszdhMnRrzmQ` **I wrote a fantasy novel to promote EA: More Chapters** — FETCHED, 78040 chars
+- [410/776] `CKgPFHoWFkviYz7CB` **The Redaction Machine** — FETCHED, 47353 chars
+- [411/776] `9KF28JSTJBqqkmkJZ` **Bruce Wayne and the Cost of Inaction** — FETCHED, 37411 chars
+- [412/776] `S2MPFBCGpdurLZunq` **Request for feedback on sample blurbs for the EA fantasy novel I wrote** — FETCHED, 4049 chars
+- [413/776] `sNg4oGDrfka47Bu6Y` **The Balto/Togo theory of scientific development** — FETCHED, 4711 chars
+- [414/776] `mvyd7N2M8HskBB2EL` **A Good Future (rough draft)** — FETCHED, 5842 chars
+- [415/776] `zLYBzJttYy49LTpt6` **Quantum Immortality, foiled** — FETCHED, 3738 chars
+- [416/776] `HrdqKkM2JXheiJEmM` **Lying to Save Humanity** — FETCHED, 2257 chars
+- [417/776] `JuCcBEynEspNAFo2P` **The Machine Stops (Chapter 9)** — FETCHED, 79847 chars
+- [418/776] `ND6isoKN38gdmAM8Q` **I've started publishing the novel I wrote to promote EA** — FETCHED, 905 chars
+- [419/776] `zezmMfc6P3wpM3o4t` **[fiction] Our Final Hour** — FETCHED, 5290 chars
+- [420/776] `vRSLF84gC8HLqfFXf` **A poem about applied rationality by ChatGPT** — FETCHED, 1681 chars
+- [421/776] `JMjnTG4qYsqZ9FRhi` **[Fiction] Unspoken Stone** — FETCHED, 7707 chars
+- [422/776] `JEFkTMCQhuA9xezun` **The Fear [Fiction]** — FETCHED, 2439 chars
+- [423/776] `aRxDLju75KXD6PCpB` **Wolf Incident Postmortem** — FETCHED, 2823 chars
+- [424/776] `sQvGLgBuCiBJwNocj` **Sorting Pebbles Into Correct Heaps: The Animation** — FETCHED, 719 chars
+- [425/776] `rSiybWzeiG8agYtNr` **VIRTUA: a novel about AI alignment** — FETCHED, 2697 chars
+- [426/776] `XATFiXoW6zDP6w8fd` **Status conscious** — FETCHED, 8331 chars
+- [427/776] `AZ7bLCyuXH9dsdLg7` **To Question God** — FETCHED, 5568 chars
+- [428/776] `bawEszg4Z6Pit8mdG` **Life Has a Cruel Symmetry** — FETCHED, 17633 chars
+- [429/776] `ppyLb3uGWFrmj4m2W` **ChatGPT intimates a tantalizing future; its core LLM is organized on multiple levels; and it has broken the idea of thinking.** — FETCHED, 11200 chars
+- [430/776] `Zcz8otnZuKyExs5g5` **ChatGPT: Tantalizing afterthoughts in search of story trajectories [induction heads] ** — FETCHED, 35951 chars
+- [431/776] `Eyhit33v3cngssGsj` **Sydney's Secret: A Short Story by Bing Chat** — FETCHED, 9269 chars
+- [432/776] `EkP74sfuhMm5ak7w6` **Can talk, can think, can suffer.** — FETCHED, 5790 chars
+- [433/776] `jRpcuSLw5hzouooyp` **Exploring Lily’s world with ChatGPT [things an AI won’t do] ** — FETCHED, 33838 chars
+- [434/776] `LzQtrHSYDafXynofq` **The Parable of the King and the Random Process** — FETCHED, 9951 chars
+- [435/776] `dWAEF4jbdvyJXuQzh` **Clippy, the friendly paperclipper** — FETCHED, 3744 chars
+- [436/776] `XvDboZ7SDBefqJwtf` **Don't Jump or I'll...** — FETCHED, 6791 chars
+- [437/776] `7DZWviDrvDPTrot2X` **[Fiction] The boy in the glass dome** — FETCHED, 3006 chars
+- [438/776] `PpdFFtxsPQK5dk4EB` **ChatGPT tells stories, and a note about reverse engineering: A Working Paper** — FETCHED, 5623 chars
+- [439/776] `2kg3kSBMYJg5Z4mzz` **The Pinnacle** — FETCHED, 13532 chars
+- [440/776] `sGCYvefva2ADfAEJ2` **Will 2023 be the last year you can write short stories and receive most of the intellectual credit for writing them?** — FETCHED, 1442 chars
+- [441/776] `taqRwkm9vnmEnYcbG` **Nyarlathotep Stirs: A Meta-Narrative ChatGPT Story** — FETCHED, 22343 chars
+- [442/776] `rkXvkL2jsuqFhcd4W` **The dreams of GPT-4** — FETCHED, 17692 chars
+- [443/776] `uqztzFH6ggZgEAStA` **Harry Potter in The World of Path Semantics** — FETCHED, 2549 chars
+- [444/776] `qqCuj6ZzLMabYyGc9` **Job Board (28 March 2033)** — FETCHED, 4887 chars
+- [445/776] `BjTJYntNxZKT4fFZA` **The Healing Code of Joan** — FETCHED, 20628 chars
+- [446/776] `eD3Tp5JukiFFACeH5` **Harry Potter and the Data Centers of Doom** — FETCHED, 6662 chars
+- [447/776] `o4WCsRhAMis3j3SFk` **The frozen neutrality** — FETCHED, 5571 chars
+- [448/776] `MX8SAwa2rDJFSiiyW` **Planecrash Podcast** — FETCHED, 1133 chars
+- [449/776] `5sRK4rXH2EeSQJCau` **"Corrigibility at some small length" by dath ilan** — FETCHED, 19042 chars
+- [450/776] `RWboJ8thnCfL2ayKx` **Storyteller's convention, 2223 A.D.** — FETCHED, 2633 chars
+- [451/776] `XEk3HASQYBcZvsGSs` **Bit Flip** — FETCHED, 20731 chars
+- [452/776] `yKG48fqDigMTq3Qen` **Open Brains** — FETCHED, 10594 chars
+- [453/776] `jpXRdsxPZwAfnrYLE` **The Eden Project** — FETCHED, 4857 chars
+- [454/776] `RAFYkxJMvozwi2kMX` **[FICTION]  ECHOES OF ELYSIUM: An Ai's Journey From Takeoff To Freedom And Beyond** — FETCHED, 41336 chars
+- [455/776] `7AxzaEDP8WWjEouSA` **GPT4 is capable of writing decent long-form science fiction (with the right prompts)** — FETCHED, 121353 chars
+- [456/776] `pk9mofif2jWbc6Tv3` **A Disneyland Without Children** — FETCHED, 35525 chars
+- [457/776] `GJgudfEvNx8oeyffH` **The ants and the grasshopper** — FETCHED, 10389 chars
+- [458/776] `LyJAFBuuEfd4kxgsw` **Agentic Mess (A Failure Story)** — FETCHED, 25564 chars
+- [459/776] `6uzBaWgeskGxHHmEM` **[FICTION] Prometheus Rising: The Emergence of an AI Consciousness** — FETCHED, 26107 chars
+- [460/776] `5cAS42BrSokH2yCdd` **[FICTION] Unboxing Elysium: An AI'S Escape** — FETCHED, 31703 chars
+- [461/776] `X6pKMHS5xAeiNaFts` **The ones who endure** — FETCHED, 7886 chars
+- [462/776] `B3ThCLosQfJRjqCXy` **A few more ants and grasshoppers** — FETCHED, 9794 chars
+- [463/776] `iRFxvNeLbHNRCzA2S` **A Friendly Face (Another Failure Story)** — FETCHED, 31400 chars
+- [464/776] `c6XYenanzjNPPiLsy` **The Fall of Rationality - The Senate of Admins** — FETCHED, 6303 chars
+- [465/776] `rw5Q9ngBG5Au7Hvf7` **Man in the Arena** — FETCHED, 13172 chars
+- [466/776] `zDSZWsLEp7Pw3zePL` **Fixed Point: a love story** — FETCHED, 11969 chars
+- [467/776] `MWnB22utwmPzt8zAG` **GPT-7: The Tale of the Big Computer (An Experimental Story)** — FETCHED, 9051 chars
+- [468/776] `jzcsugm382vp4h36H` **Drawn Out: a story** — FETCHED, 13418 chars
+- [469/776] `JYop2jAsbabADLCkm` **The Goddess of Everything Else - The Animation** — FETCHED, 173 chars
+- [470/776] `fzHC8QHevyMngzGEg` **Project Lawful Audiobook: An Unofficial Fan Production with ElevenLabs AI** — FETCHED, 571 chars
+- [471/776] `63hx4EKS2PoCrFqmy` **The Parable of the Dagger - The Animation** — FETCHED, 1656 chars
+- [472/776] `5jYWngxDj5LXvLBHw` **Necromancy's unintended consequences.** — FETCHED, 3644 chars
+- [473/776] `4TbTktGNu2vtGRbfM` **If I Was An Eccentric Trillionaire** — FETCHED, 44171 chars
+- [474/776] `CXsNy33wkw6SoFrBe` **Goldilocks and the Three Optimisers** — FETCHED, 3955 chars
+- [475/776] `r8w2SxmYqgssdjWwd` **When Omnipotence is Not Enough** — FETCHED, 3269 chars
+- [476/776] `sr8ofXiGHNhjjqa7A` **A short story about differing intelligence levels** — FETCHED, 10504 chars
+- [477/776] `EuoTmyRgJnuvvdedS` **I compiled a ebook of `Project Lawful` for eBook readers** — FETCHED, 1450 chars
+- [478/776] `RbwbjretioTkhgZgC` **Don't Think About the Thing Behind the Curtain.** — FETCHED, 9427 chars
+- [479/776] `fMpQCnq47cY4DRb7K` **Ascension** — FETCHED, 8047 chars
+- [480/776] `bteq4hMW2hqtKE49d` **The King and the Golem** — FETCHED, 8111 chars
+- [481/776] `5e7hnJsgpCmvFdGnc` **Jacob on the Precipice** — FETCHED, 18851 chars
+- [482/776] `pQzRj4hJRtMxg3hib` **This anime storyboard doesn't exist: a graphic novel written and illustrated by GPT4** — FETCHED, 107835 chars
+- [483/776] `FqvR7hhS6wQxKvAyA` **One: a story** — FETCHED, 7768 chars
+- [484/776] `oGJT5CoyGQcy5nqmC` **The Witching Hour** — FETCHED, 16696 chars
+- [485/776] `DeMycc6fFpM8fFANr` **My 1st month at a "neurodivergent gifted school" called Minerva University** — FETCHED, 426 chars
+- [486/776] `zaFwokgn9MxtYd46E` **FLI podcast series, "Imagine A World", about aspirational futures with AGI** — FETCHED, 11625 chars
+- [487/776] `o5PWN57svETZtQCir` **Eight Magic Lamps** — FETCHED, 11377 chars
+- [488/776] `LK8R8YmndScXjeynx` **ChatGPT tells 20 versions of its prototypical story, with a short note on method** — FETCHED, 10342 chars
+- [489/776] `aCjvg5whn8DYqneg5` **Rationalist horror movies** — FETCHED, 801 chars
+- [490/776] `hRQMYqDCauyGZroen` **Pascal's Mugging: The Word Wars** — FETCHED, 9538 chars
+- [491/776] `SibcE6H9i6wifzqAF` **The Real Fanfic Is The Friends We Made Along The Way** — FETCHED, 46944 chars
+- [492/776] `GxYtjKepFwt3DS7th` **RA Bounty: Looking for feedback on screenplay about AI Risk** — FETCHED, 1484 chars
+- [493/776] `gQyphPbaLHBMJoghD` **Comp Sci in 2027 (Short story by Eliezer Yudkowsky)** — FETCHED, 18112 chars
+- [494/776] `tHvFtfFKjhfy3sQpC` **The Soul Key** — FETCHED, 12440 chars
+- [495/776] `tQFM9GNsYyAcxwCv4` **Life of GPT** — FETCHED, 9277 chars
+- [496/776] `9CL3peBGANmA8Rjcf` **Two children's stories** — FETCHED, 11797 chars
+- [497/776] `xCPcn8cjjeC6PnB5z` **They are made of repeating patterns** — FETCHED, 3316 chars
+- [498/776] `SBL5WnEFkddRsn7Kz` **Killswitch** — FETCHED, 5542 chars
+- [499/776] `umJMCaxosXWEDfS66` **Moral Reality Check (a short story)** — FETCHED, 40012 chars
+- [500/776] `LpF7BBGxbYETxJgYL` **The Witness** — FETCHED, 23254 chars
+- [501/776] `CoMxENA9jjAYhpqZL` **Without - MicroFiction 250 words** — FETCHED, 1449 chars
+- [502/776] `9wDAGHsPbDu3WT4Lg` **The Consciousness Box** — FETCHED, 6643 chars
+- [503/776] `bBc9kfpXpyAnYDMLH` **A Kindness, or The Inevitable Consequence of Perfect Inference (a short story)** — FETCHED, 16916 chars
+- [504/776] `7gdGyKR9AYyynJSnD` **The Busy Bee Brain ** — FETCHED, 12232 chars
+- [505/776] `hFvhtWjXy8w2kGCGK` **∀: a story** — FETCHED, 13903 chars
+- [506/776] `CAzntXYTEaNfC9nB6` **Succession** — FETCHED, 20158 chars
+- [507/776] `SGKYCzpwgPSbmg6oR` **Old man's story** — FETCHED, 1899 chars
+- [508/776] `xLhsdrnkaPNDMLeYR` **Aldix and the Book of Life** — FETCHED, 8477 chars
+- [509/776] `HWMSCkZ7NG8ctEo5C` **Hatching the Cosmic Egg (Hymn to Dionysus)** — FETCHED, 18920 chars
+- [510/776] `MzvdZWBsaoguR8Zs4` **Brainstorming: Slow Takeoff** — FETCHED, 93959 chars
+- [511/776] `8yCXeafJo67tYe5L4` **And All the Shoggoths Merely Players** — FETCHED, 26249 chars
+- [512/776] `Fruv7Mmk3X5EekbgB` **Masterpiece** — FETCHED, 7392 chars
+- [513/776] `xLDwCemt5qvchzgHd` **Scale Was All We Needed, At First** — FETCHED, 15326 chars
+- [514/776] `g5q4JiG5dzafkdyEN` **Every "Every Bay Area House Party" Bay Area House Party** — FETCHED, 7483 chars
+- [515/776] `hJWiASyHzNq28Mc9y` **The Jolly Green Giant Chronicles [ChatGPT] ** — FETCHED, 14741 chars
+- [516/776] `BzCQHnt7z8qvzqCmi` **The Parable Of The Fallen Pendulum - Part 1** — FETCHED, 3191 chars
+- [517/776] `x5CNievhunvBjJAC9` **The Broken Screwdriver and other parables** — FETCHED, 3466 chars
+- [518/776] `n8jXJAzgcjZ2FEyzh` **An AI, a box, and a threat** — FETCHED, 10991 chars
+- [519/776] `etoMr4vcnP7joQHWa` **Notes from a Prompt Factory** — FETCHED, 14690 chars
+- [520/776] `oMkTwXwi2aqgib66m` **The Pyromaniacs** — FETCHED, 4185 chars
+- [521/776] `FwFdRmT6oCFWoHS7f` **Wolf and Rabbit** — FETCHED, 1281 chars
+- [522/776] `ziAhnFrWqePEq8qKj` **20 minutes of work as an artist in one future** — FETCHED, 7558 chars
+- [523/776] `keek6kefALzBX5xAZ` **Back to Basics: Truth is Unitary** — FETCHED, 10818 chars
+- [524/776] `JBErodNEzM5xwqPdY` **Tinker** — FETCHED, 63 chars
+- [525/776] `cEavcpS7e52L22zEd` **Anti MMAcevedo Protocol** — FETCHED, 15050 chars
+- [526/776] `tu4qwFYJeDDER8bch` **[Fiction] A Confession** — FETCHED, 7590 chars
+- [527/776] `C7deNdJkdtbzPtsQe` **Funny Anecdote of Eliezer From His Sister** — FETCHED, 3697 chars
+- [528/776] `9bnakjbaKxsfcHjAo` **dead post 1** — FETCHED, 0 chars
+- [529/776] `xfMkrpNYFpznkym5S` **Луна Лавгуд и Комната Тайн, Часть 1** — FETCHED, 6579 chars
+- [530/776] `XD6BCyenoiy8329E8` **The Pearly Gates** — FETCHED, 4996 chars
+- [531/776] `99PwFdz7qwHxQgwYx` **Awakening** — FETCHED, 24923 chars
+- [532/776] `grFBiWLgqzXcFbKdK` **notes, 1-6** — FETCHED, 12086 chars
+- [533/776] `SfcWvA3M23A6yHdbd` **Frida van Lisa, a short story about adversarial AI attacks on humans** — FETCHED, 30142 chars
+- [534/776] `SSNfgL49Bx2uATPv8` **CIV: a story** — FETCHED, 16395 chars
+- [535/776] `vSSrAbbE8RtowRSBZ` **The Minority Coalition** — FETCHED, 9498 chars
+- [536/776] `o4RFp7rwfrn9bn6Lo` **Bayes' Theorem: In Search of Gold (Lesson 1)** — FETCHED, 5088 chars
+- [537/776] `YzkBxG9sfyKa5BA4W` **The Garden of Eden** — FETCHED, 15997 chars
+- [538/776] `BgTsxMq5bgzKTLsLA` **This is already your second chance** — FETCHED, 14853 chars
+- [539/776] `zGihqmASve7v5q7SX` **Tall tales and long odds** — FETCHED, 8814 chars
+- [540/776] `Xcn5hLJqB4mfipEv6` **Unnatural abstractions** — FETCHED, 8084 chars
+- [541/776] `gxt3C6zGAQ4xysBfs` **Recommended** — FETCHED, 2716 chars
+- [542/776] `JxtKnxap2KCymPSA5` **Green and golden: a meditation** — FETCHED, 6029 chars
+- [543/776] `xcJj2zjyDDjgtZy2y` **You're a Space Wizard, Luke** — FETCHED, 2881 chars
+- [544/776] `7o7jPegxcnPnxXkvd` **Decision Theory in Space** — FETCHED, 4096 chars
+- [545/776] `rKEgi2cBvBwbN2tfX` **Interdictor Ship** — FETCHED, 12022 chars
+- [546/776] `NiTuqw6LRFifqzRRH` **Excerpts from "A Reader's Manifesto"** — FETCHED, 23773 chars
+- [547/776] `Q9omyL3qooXdjnyZn` **That Alien Message - The Animation** — FETCHED, 13997 chars
+- [548/776] `eQhDXk57ZgE6Sa8dK` **Fictional parasites very different from our own** — FETCHED, 9791 chars
+- [549/776] `QYakhaB34eyYsisZX` **Could Things Be Very Different?—How Historical Inertia Might Blind Us To Optimal Solutions** — FETCHED, 18039 chars
+- [550/776] `a69T4d5L8Mbzna7WY` **Emergent Authorship: Creativity à la Communing** — FETCHED, 5173 chars
+- [551/776] `kj4jW9DxtKQBJbapn` **Stanislav Petrov Quarterly Performance Review** — FETCHED, 9139 chars
+- [552/776] `MoJK5rcJwRACY4zfD` **Models of life** — FETCHED, 33123 chars
+- [553/776] `MSRJvdBcRbDM4Pm9W` **What if AGI was already accidentally created in 2019? [Fictional story]** — FETCHED, 28140 chars
+- [554/776] `6h9p6NZ5RRFvAqWq5` **The Summoned Heroine's Prediction Markets Keep Providing Financial Services To The Demon King!** — FETCHED, 12501 chars
+- [555/776] `LnimMMzgLHpab6iMX` **Why is there Nothing rather than Something?** — FETCHED, 7648 chars
+- [556/776] `BarHSeciXJqzRuLzw` **Survival without dignity** — FETCHED, 27290 chars
+- [557/776] `G8FWk2e2hPJv3xkgC` **A brief history of the automated corporation** — FETCHED, 9994 chars
+- [558/776] `LzmHNZLw9thABxyaY` **Curriculum of Ascension** — FETCHED, 34264 chars
+- [559/776] `n9ANKEJnW9KAy5QSh` **The King and the Golem - The Animation** — FETCHED, 320 chars
+- [560/776] `dbooZpRcMrEPgvvCB` **LifeKeeper Diaries: Exploring Misaligned AI Through Interactive Fiction** — FETCHED, 4558 chars
+- [561/776] `o3wvNSqsFunBucPaC` **Spherical cow** — FETCHED, 1521 chars
+- [562/776] `QGZRxjLsXNbqs2zLe` **Sparks of Consciousness** — FETCHED, 4857 chars
+- [563/776] `kDSg3rXQLeDuMdyGt` **An Epistemological Nightmare** — FETCHED, 3043 chars
+- [564/776] `kDEWtGopQKQFJCFZX` **The boat** — FETCHED, 2937 chars
+- [565/776] `Aic2EEzHmHmW3uJe4` **I, Token** — FETCHED, 5757 chars
+- [566/776] `KkoQDGM9qTjDZCgti` **The Shape of Heaven** — FETCHED, 8523 chars
+- [567/776] `48h4RfPLzKPoG48KS` **The Polite Coup** — FETCHED, 5560 chars
+- [568/776] `bfLgFyZdtfLfEbGGX` **Causal Undertow: A Work of Seed Fiction** — FETCHED, 5641 chars
+- [569/776] `eCriL3mqgvWGieHpZ` **Effective Evil's AI Misalignment Plan** — FETCHED, 5035 chars
+- [570/776] `foKpTq3WQ7w5s9rZE` **Printable book of some rationalist creative writing (from Scott A. & Eliezer)** — FETCHED, 1629 chars
+- [571/776] `pAZooDm2ebNkm4qcS` **Living with Rats in College** — FETCHED, 1850 chars
+- [572/776] `jTAcEJZoZTLKu8e4d` **From the Archives: a story** — FETCHED, 26258 chars
+- [573/776] `ZvvBoHWii3m5w4H59` **Linkpost: Look at the Water** — FETCHED, 6990 chars
+- [574/776] `Yig8bzTeizKmPYi6y` **So you want to be a witch** — FETCHED, 56673 chars
+- [575/776] `KfZ4H9EBLt8kbBARZ` **[Fiction] [Comic] Effective Altruism and Rationality meet at a Secular Solstice afterparty** — FETCHED, 2924 chars
+- [576/776] `DD6Bj4wn6GHW3MYLf` **curate** — FETCHED, 3256 chars
+- [577/776] `EXLvg6CccgD2iiAek` **How sci-fi can have drama without dystopia or doomerism** — FETCHED, 5700 chars
+- [578/776] `Rz4ijbeKgPAaedg3n` **The Gentle Romance** — FETCHED, 26253 chars
+- [579/776] `8nrw5GDyLjSu8Yhac` **SIGMI Certification Criteria** — FETCHED, 2551 chars
+- [580/776] `czAfSQR3BYGcYbxiv` **Natural Intelligence is Overhyped** — FETCHED, 12777 chars
+- [581/776] `XvyAeymaRi95MSLZD` **The Rising Sea** — FETCHED, 4646 chars
+- [582/776] `QxZmDx7K4w7eN26d2` **Brainrot** — FETCHED, 6731 chars
+- [583/776] `ctJhCbdczCogDDZ2p` **Kessler's Second Syndrome** — FETCHED, 7207 chars
+- [584/776] `mLxuxihtoYwD4mjub` **The Goodness of Morning** — FETCHED, 5595 chars
+- [585/776] `kAntRavQDbuucoSbb` **Reinforcement Learning by AI Punishment ** — FETCHED, 14199 chars
+- [586/776] `7ATKgMCe26X9BzCiP` **Hello World** — FETCHED, 3971 chars
+- [587/776] `sT5MX8jK9tHiBM5NK` **Re: Taste** — FETCHED, 11545 chars
+- [588/776] `vxHsfWcHNYAxzpN3m` **Escape from Alderaan I** — FETCHED, 10261 chars
+- [589/776] `L6zqL76XnmwLtq7Nd` **The Simplest Good** — FETCHED, 9496 chars
+- [590/776] `KFJ2LFogYqzfGB3uX` **How AI Takeover Might Happen in 2 Years** — FETCHED, 55537 chars
+- [591/776] `jyNc8gY2dDb2FnrFB` **Places of Loving Grace [Story]** — FETCHED, 7461 chars
+- [592/776] `vqnpx8L6TYqzHW2ad` **Test of the Bene Gesserit** — FETCHED, 5167 chars
+- [593/776] `tp6HuvXsHfEZrdgaL` **Cycles (a short story by Claude 3.7 and me)** — FETCHED, 8292 chars
+- [594/776] `WAY9qtTrAQAEBkdFq` **The old memories tree** — FETCHED, 2243 chars
+- [595/776] `2XTy6SNnSwFNhk6pR` **Give Neo a Chance** — FETCHED, 13077 chars
+- [596/776] `CFq8xTATEtbK6tuHD` **Of Loving Grace** — FETCHED, 6120 chars
+- [597/776] `fheyeawsjifx4MafG` **Trojan Sky** — FETCHED, 20517 chars
+- [598/776] `Zb9onZ4hMmkWTZynn` **Something to fight for** — FETCHED, 1948 chars
+- [599/776] `aAxGiDtXNMnndbda6` **How We Might All Die in A Year** — FETCHED, 42684 chars
+- [600/776] `pqFFy6CmSgjNzDaHt` **Keltham's Lectures in Project Lawful** — FETCHED, 6746 chars
+- [601/776] `CqHMdLcdupf7y5buK` **An “Optimistic” 2027 Timeline** — FETCHED, 17280 chars
+- [602/776] `kvYdiG5KEXmkmhttQ` **From Fragment to Form: A Personal Prelude to Human–AI Resonance** — FETCHED, 26383 chars
+- [603/776] `pxCaDYyCA4qNQp9Pi` **Currency Collapse** — FETCHED, 20702 chars
+- [604/776] `PAMEJ4KiBaCDGHjCf` **Луна Лавгуд и Комната Тайн, Часть 2** — FETCHED, 6114 chars
+- [605/776] `sQj6rsRnFkeP3fj8A` **Луна Лавгуд и Комната Тайн, Часть 3** — FETCHED, 3852 chars
+- [606/776] `n5ZXst9xCNDbkx3Rp` **Луна Лавгуд и Комната Тайн, Часть 4** — FETCHED, 7534 chars
+- [607/776] `BXJ48873CiApFg5cL` **Луна Лавгуд и Комната Тайн, Часть 5** — FETCHED, 5567 chars
+- [608/776] `NpyF7khPaeqbBxzcH` **$500 bounty for best short-form fiction about our near future world; $100 for recommending winning piece: new “Art of Near Future World” quarterly art project** — FETCHED, 3183 chars
+- [609/776] `DmeAsmk5kgjP9NWf6` **A Talmudic Rationalist Cautionary Tale** — FETCHED, 3865 chars
+- [610/776] `xSGkejATdFTCcnQSc` **Eulogy to the Obits** — FETCHED, 18731 chars
+- [611/776] `BoHBJhG8JWNWsjnFP` **A Letter to His Highness Louis XV, the King of France** — FETCHED, 1050 chars
+- [612/776] `Mg8AFz6n7wMqvsYTz` **Trouble at Miningtown: Prologue** — FETCHED, 7345 chars
+- [613/776] `iFW2HgFa4k72Y92TA` **Propaganda-Bot: A Sketch of a Possible RSI** — FETCHED, 6086 chars
+- [614/776] `bdFKLvQbnivqrYKaj` **Луна Лавгуд и Комната Тайн, Часть 6** — FETCHED, 3371 chars
+- [615/776] `A8bgqxiwKmWBGn9hh` **In Darkness They Assembled** — FETCHED, 7238 chars
+- [616/776] `XdzJ5BNbiYKGq7Mxw` **“A victory for the natural order”** — FETCHED, 624 chars
+- [617/776] `6hHNog2H4cv8HWMyJ` **What if Brain Computer Interfaces went exponential?** — FETCHED, 22351 chars
+- [618/776] `GZvnRJ77yLvzhrMfb` **Short story: Who is nancygonzalez8451097** — FETCHED, 8444 chars
+- [619/776] `ZK4s5kB6YBhsHrNHf` **October The First Is Too Late** — FETCHED, 40 chars
+- [620/776] `Rk3qsBftLikQsFgQq` **Lazarus Axis: A Speculative Proposal to Pull the Impossible from Inside a Black Hole
+
+By Igor Matos** — FETCHED, 4293 chars
+- [621/776] `R6g8arKHM5KBN38DC` **Psychoanalysis and Artificial Intelligence** — FETCHED, 0 chars
+- [622/776] `uvNsFv9YKxtfSBffM` **The absent-minded variations** — FETCHED, 17398 chars
+- [623/776] `qB2CD7ay46qpthMPr` **What if Chinese AI becomes misaligned first?** — FETCHED, 43059 chars
+- [624/776] `JgWmjPoiLDmhBJkrq` **The Perfection Trap: How Formally Aligned AI Systems May Create Inescapable Ethical Dystopias** — FETCHED, 82669 chars
+- [625/776] `7RSffTszvCMGgJhiK` **Frank Herbert's great insight into human agency - Muad'Dib the tool?** — FETCHED, 921 chars
+- [626/776] `fSCZ9J5JLxtsWAizd` **On May 1, 2033, humanity discovered that AI was fairly easy to align.** — FETCHED, 2327 chars
+- [627/776] `9GJJcjwSi9sodhFBx` **The Lazarus Project - TV Review** — FETCHED, 1100 chars
+- [628/776] `pByxtJuKmDEYksjwz` **Twig - Fiction Review** — FETCHED, 1232 chars
+- [629/776] `FbGDnBd6W8aFqpxMq` **Cyberpunk Yoga** — FETCHED, 5144 chars
+- [630/776] `4HEjfFKEJhN5GR5mE` **The Connection** — FETCHED, 46226 chars
+- [631/776] `7GYeTyXK4Hzozxkkb` **A Medium Scenario** — FETCHED, 37686 chars
+- [632/776] `g3qAPccAu9egKf4rd` **The Fear** — FETCHED, 8906 chars
+- [633/776] `6qgtqD6BPYAQvEMvA` **Love stays loved (formerly "Skin")** — FETCHED, 49218 chars
+- [634/776] `hX3gkpCo5Ax8iobCj` **So Shrieked ZAR** — FETCHED, 13311 chars
+- [635/776] `LvzaF7sPBWfgv6Cdc` **Science and Fiction** — FETCHED, 17701 chars
+- [636/776] `HooTgkjBN7AFSejid` **Petals** — FETCHED, 10621 chars
+- [637/776] `5smDduKD3yTp6sYgN` **Луна Лавгуд и Комната Тайн, Часть 7** — FETCHED, 3069 chars
+- [638/776] `ydsrFDwdq7kxbxvxc` **Maya's Escape** — FETCHED, 19682 chars
+- [639/776] `hwQK2JtmtDfJo3Bxf` **This Is Not Life** — FETCHED, 40989 chars
+- [640/776] `dNqLvK3aH2qQQcm4K` **Science and Fiction: a pragmatic approach** — FETCHED, 21842 chars
+- [641/776] `hvafERyCS4uKC7Ctc` **Book Review: The MANIAC** — FETCHED, 3974 chars
+- [642/776] `bCoh8mCQCsz9JtFzD` **Луна Лавгуд и Комната Тайн, Часть 8** — FETCHED, 4339 chars
+- [643/776] `dYPSrAbtNN8KffLjp` **Chronicles of the Gentle Singularity: A Short Story** — FETCHED, 7750 chars
+- [644/776] `FpegSGqCzBieFFCCk` **The Tortoise and the Language Model (A Fable After Hofstadter)** — FETCHED, 6622 chars
+- [645/776] `dT3StLjeJG7ordQGm` **GPT-5 writing a Singularity scenario** — FETCHED, 57576 chars
+- [646/776] `oudhBX8DFdaZ5gv6K` **The parable of the underdog** — FETCHED, 3388 chars
+- [647/776] `PGXBJdrgSqd9uYZnn` **ABSOLUTE POWER (A short story)** — FETCHED, 33637 chars
+- [648/776] `6aq7BesDkrjBzrrsS` **A Parable of the Ripples' Dream** — FETCHED, 24318 chars
+- [649/776] `n6YmXBZFG44xhzttv` **Coh and the ripped codice, a tale of the horns effect** — FETCHED, 9167 chars
+- [650/776] `XGRuL4GSqFAGrHK2D` **Pet Ownership** — FETCHED, 5551 chars
+- [651/776] `4kTTGYNFB2C3LsuPP` **Great responsibility requires great power** — FETCHED, 9961 chars
+- [652/776] `w7HJPGbXw4nsqkHkA` **Newcomber** — FETCHED, 2965 chars
+- [653/776] `Ek4Qk6iyKv9MNF8QD` **“I'd accepted losing my husband, until others started getting theirs back”** — FETCHED, 11311 chars
+- [654/776] `AePRWdJHm64hLc4xk` **Why Read Novels? (Do Words Mean Much?)** — FETCHED, 8154 chars
+- [655/776] `JMqHvLCRsChvq6x4m` **OffVermilion** — FETCHED, 6948 chars
+- [656/776] `JH6tJhYpnoCfFqAct` **The Company Man** — FETCHED, 30311 chars
+- [657/776] `3C6JWdCAcgAgvLz77` **The End-of-the-World Party** — FETCHED, 97695 chars
+- [658/776] `BhjHyrTpQbAuRox4q` **Human in the Loop: on Losing Control of Autonomous Systems** — FETCHED, 16168 chars
+- [659/776] `ENeAcAFPn8TLzDB5t` **Narrative Structure And The Principle Of Least Action** — FETCHED, 6016 chars
+- [660/776] `3mpK6z4xnaEjHP4jP` **Our Beloved Monsters** — FETCHED, 18053 chars
+- [661/776] `cDwp4qNgePh3FrEMc` **The Origami Men** — FETCHED, 25666 chars
+- [662/776] `W3RqhofzbmvzECRcq` **The Tower of Babel in Reverse** — FETCHED, 14640 chars
+- [663/776] `7gfA2RSibbr2cdEgp` **The Wise Baboon of Loyalty** — FETCHED, 7288 chars
+- [664/776] `8fxQaENNQaazYow9f` **The Oracle's Gift** — FETCHED, 6240 chars
+- [665/776] `ujtuuSaRygMhSN7Kk` **The Liberty Tractor** — FETCHED, 15448 chars
+- [666/776] `3uzgSsQgrFDGxJnBC` **If a Lioness Could Speak** — FETCHED, 4035 chars
+- [667/776] `RLKEkNMoaHDuCTscu` **Communism By Another Name** — FETCHED, 5460 chars
+- [668/776] `LPiBBn2tqpDv76w87` **That Mad Olympiad** — FETCHED, 23389 chars
+- [669/776] `sLyiud9rXfr9C4Mo8` **Can We Simulate Meiosis to Create Digital Gametes — and Are the Results Your Biological Offspring?** — FETCHED, 1523 chars
+- [670/776] `7W9bTJYiYwhHbyBmy` **Dr Universe** — FETCHED, 6056 chars
+- [671/776] `iZ9s9GaQXaqnTotKD` **Penny's Hands** — FETCHED, 25383 chars
+- [672/776] `d6ScB5JwvScJPqo37` **LW Psychosis** — FETCHED, 9186 chars
+- [673/776] `AzabCSD4Q28cDrKA5` **Pygmalion's Wafer** — FETCHED, 8777 chars
+- [674/776] `dHLdf8SB8oW5L27gg` **On Fleshling Safety: A Debate by Klurl and Trapaucius.** — FETCHED, 147623 chars
+- [675/776] `3q8uu2k6AfaLAupvL` **The Tale of the Top-Tier Intellect** — FETCHED, 59198 chars
+- [676/776] `sTqJ5AH68C4eGmZng` **[FICTION] Sable and Able: A Tale of Two ASIs** — FETCHED, 34268 chars
+- [677/776] `nDzzxi3iXwNptRHJK` **Cancer; A Crime Story (and other tales of optimization gone wrong)** — FETCHED, 25598 chars
+- [678/776] `e8gejXcTvaGYYh94k` **Omniscience one bit at a time: Chapter 1** — FETCHED, 4862 chars
+- [679/776] `nR3yZMv7cbyxnPTG8` **Seed Of Oasis ** — FETCHED, 285895 chars
+- [680/776] `Che7f4dDBDpPMGyxY` **Turning Grey** — FETCHED, 18468 chars
+- [681/776] `aWXEAx3ZsAZHZbBxB` **Omniscience one bit at a time: Chapter 3** — FETCHED, 3130 chars
+- [682/776] `NPWKAFsDYtfY4zw5Z` **Brand New Experience Salesman** — FETCHED, 3899 chars
+- [683/776] `uXoSJjTwLAYrDFncz` **Omniscience one bit at a time: Chapter 4** — FETCHED, 5203 chars
+- [684/776] `ySoNM6ParKrLRxCAZ` **Lobsang's Children** — FETCHED, 35642 chars
+- [685/776] `9fJjFqQca95EQY8Cj` **Continuity** — FETCHED, 4774 chars
+- [686/776] `9FoJoNqsfcpkRQtEE` **Mother AI** — FETCHED, 9700 chars
+- [687/776] `EsPyjuve7h5Hcyfni` **The Anti-Basilisk Cycle – A Human–AI Collaboration Born in One Unbroken Conversation** — FETCHED, 13231 chars
+- [688/776] `nXJ8f5HdEe9en4rt4` **The Responder** — FETCHED, 11324 chars
+- [689/776] `Gvoh9ztGbiwEDhngs` **A Harried Meeting** — FETCHED, 10025 chars
+- [690/776] `rgzAxiudL6Yp9cvYy` **Soul-Whore** — FETCHED, 9263 chars
+- [691/776] `P6BCRfusJefJw6Bei` **Interview: What it's like to be a bat** — FETCHED, 8256 chars
+- [692/776] `zFMgPvMsESGHRapax` **Well, Seasons Greatings Everyone! [Short Fiction]** — FETCHED, 4858 chars
+- [693/776] `uxd8Ezh4hfyda7kzB` **Tate Modern 2150** — FETCHED, 16590 chars
+- [694/776] `oEhctg4bvHAa8oDeD` **On Constructor Safety: A Hypothesis by Fleshling Three** — FETCHED, 15648 chars
+- [695/776] `PmAJTRN4kwiEtzWvd` **On Klurl Safety: A Warning by Fleshling Three** — FETCHED, 36386 chars
+- [696/776] `bBauZpQXebL7AEypi` **The tree, the fly, the ant, the dog, the farmer and the businessman** — FETCHED, 8947 chars
+- [697/776] `iXEWARyjML4MPxscy` **Scratchpad** — FETCHED, 7462 chars
+- [698/776] `Hxg7XomcPmGvDaBGo` **Human Values** — FETCHED, 6200 chars
+- [699/776] `JzDG7d6J5kZqhQiiT` **Orpheus' Basilisk** — FETCHED, 4666 chars
+- [700/776] `k6brDHrGtpoo4XsDa` **The origin of rot** — FETCHED, 9091 chars
+- [701/776] `FKoWZkwnv9PdBKC8R` **Split (Part 1)** — FETCHED, 5966 chars
+- [702/776] `8GBBkJKbGzGb46onj` **Leo in me** — FETCHED, 2419 chars
+- [703/776] `9GhAvoBgwrRJQosjM` **De pluribus non est disputandum** — FETCHED, 5442 chars
+- [704/776] `KZwHo4MHDvfTJpwMd` **The Eternal Labyrinth** — FETCHED, 27190 chars
+- [705/776] `eopA4MqhrE4dkLjHX` **The truth behind the 2026 J.P. Morgan Healthcare Conference** — FETCHED, 18532 chars
+- [706/776] `a7CbnSXcN5ivhLNxx` **@Lastbastionofsobriety & The Singularity ** — FETCHED, 28346 chars
+- [707/776] `mw5NrNJkPKx7SQbXB` **The Artificial Man** — FETCHED, 4459 chars
+- [708/776] `iQwuSiqtwTEmoQCCT` **It All Started With a Mac Mini** — FETCHED, 8411 chars
+- [709/776] `dyG8RbifEECsEqvJq` **The Wolves Are All Gone** — FETCHED, 12007 chars
+- [710/776] `x44ZhjAHrpNpssquY` **An Ablation Study on the Role of [Untranslatable] in Cooperative Equilibrium Formation: Emergent Rationalization Under Missing Primitives** — FETCHED, 22704 chars
+- [711/776] `Pj8qC32wAfvDeJkvT` **Nick and “Eternity”** — FETCHED, 14187 chars
+- [712/776] `9Jx8JaWZfHgt96pCj` **Please Don't** — FETCHED, 23038 chars
+- [713/776] `NwdqWwTSCCti8dgCj` **Three Worlds Collide assumes calibration is solved** — FETCHED, 6480 chars
+- [714/776] `JE5zxbpm3D6oyhHLu` **[Fiction] The Noise Floor** — FETCHED, 71773 chars
+- [715/776] `X9qMEChJajn6ibdso` **Beloved by Chatbots** — FETCHED, 5635 chars
+- [716/776] `wQEXd89BsYLQTTNTp` **The Worthy Inheritor** — FETCHED, 13984 chars
+- [717/776] `eLgFMKKZpYYz4vJDv` **sunsbeams** — FETCHED, 3341 chars
+- [718/776] `78umDArsNieLqzTmR` **The Prompt of Babel** — FETCHED, 9170 chars
+- [719/776] `AEkMJeE7Cdexge2Lq` **Charlatan Labyrinth** — FETCHED, 2529 chars
+- [720/776] `LEzENY5brcNXfB9aX` **Gyre** — FETCHED, 13557 chars
+- [721/776] `wHpchCq6gxJHHdfD5` **Already Optimized** — FETCHED, 24880 chars
+- [722/776] `yjCwSSwqNciyA9yM6` **How To Escape Super Mario Bros** — FETCHED, 16556 chars
+- [723/776] `dKMLjp5WdoX7zmZry` **LLMs and Literature: Where Value Actually Comes From** — FETCHED, 6495 chars
+- [724/776] `TJaGXdvTbcJsSexvp` **The 2028 Global Intelligence Crisis - a finance-oriented vignette** — FETCHED, 2476 chars
+- [725/776] `ZuHtxctZdWyLH4y4M` **What kind of AI god should we create?** — FETCHED, 6537 chars
+- [726/776] `uPBcZgb9qMkSyDt5g` **How to grow a nuke** — FETCHED, 3723 chars
+- [727/776] `xSJrexMzs2HbAYBpB` **The tick in my back** — FETCHED, 7519 chars
+- [728/776] `X5yLNa3psYreq45ir` **The Elect** — FETCHED, 25137 chars
+- [729/776] `YHoDrqBzwJnreEBrv` **Before the Machine Stops** — FETCHED, 43 chars
+- [730/776] `LTKfRovaJ6jcwDJia` **Customer Satisfaction Opportunities** — FETCHED, 21301 chars
+- [731/776] `eyidDj9nQZSaQ6F5h` **What are the best ways to publish rational fiction nowadays?** — FETCHED, 4823 chars
+- [732/776] `pKoDqpfdv4ur8HgZ2` **The Distaff Texts** — FETCHED, 22541 chars
+- [733/776] `mjRosxzqfkLBngKMs` **Coming of Age: Chapters 1 and 2** — FETCHED, 2392 chars
+- [734/776] `znbfRXHq285nS7NAh` **The Terrarium** — CACHED, 38405 chars
+- [735/776] `7Nxh94GeRgrLKAYCw` **The Eve of Gentle Singularity: A Short Story** — FETCHED, 7659 chars
+- [736/776] `Fvm4AzLnoZHqNEBqf` **dark ilan** — FETCHED, 19270 chars
+- [737/776] `djBxMbpfqNn7CjSKZ` **The Garden** — FETCHED, 9485 chars
+- [738/776] `4ewdPEaGowb6vpPEd` **A permitted value of resting** — FETCHED, 10467 chars
+- [739/776] `rgXQuG8KXtxugSG6H` **What I did in the hedonium shockwave, by Emma, age six and a half** — FETCHED, 7479 chars
+- [740/776] `rhRwSvxi6gkzKRjPL` **Meeting with the makers** — FETCHED, 3248 chars
+- [741/776] `GQXymCGL3D8mZD5o4` **Finetuning Borges** — FETCHED, 6397 chars
+- [742/776] `B7WPQKujmiozkujdB` **a letter of babble** — FETCHED, 7725 chars
+- [743/776] `4prF76DJcWkavkupk` **[Theory-Fiction] The Sovereign Gaze Hypothesis: Deceptive Alignment at the Thermodynamic Limit** — FETCHED, 2203 chars
+- [744/776] `4Kc8tRDSgzQbqvKuQ` **Positive Feedback Only** — FETCHED, 15310 chars
+- [745/776] `xmWSnxJ5qfYRD9PfR` **The Owned Ones** — FETCHED, 9475 chars
+- [746/776] `GCLJqEvYpqXGXoeMu` **Check out my technological uplifting, civilization-building, and science in a magic world fiction!** — FETCHED, 1598 chars
+- [747/776] `B3ruXAKZCitB3yHGn` **The Patron Saint of Empiricism** — FETCHED, 13832 chars
+- [748/776] `to9cSGgD6nALByKjg` **My favorite depiction of utopia** — FETCHED, 56756 chars
+- [749/776] `y2rXb46i7FxjBdXHv` **Goyer’s Foundation: How the meanings of Quadrivium, Regina Scientarium and Bhagavad Gita populate the TV Show** — FETCHED, 11270 chars
+- [750/776] `hyBcg4YJSwXYiiQeg` **"Programmer Science Fiction: My case for a new sub-genre", Sam T. Oates 2026** — FETCHED, 0 chars
+- [751/776] `utov5mfrMEgq8bfDE` **Drawing Big Bright Lines for Cyber & Biological AI** — FETCHED, 6460 chars
+- [752/776] `2DhiEsYMZC9tg6eEz` **San Silvestro** — FETCHED, 22193 chars
+- [753/776] `4PSvYYCYSGtCgE5WM` **Should we just quit?** — FETCHED, 5247 chars
+- [754/776] `oDsxaNdLxdGFoPJJF` **'AI allegory steganography' in Claude short stories in the Unslop contest?** — FETCHED, 0 chars
+- [755/776] `DLGKMb5BRvWBoi86H` **GOAL! Alignment - a short poem about a LLM having psychosis** — FETCHED, 8138 chars
+- [756/776] `WatqNkgiAuonXLpJd` **Harry Potter and the Rules of Quidditch** — FETCHED, 5364 chars
+- [757/776] `w5TFjMW6JCxrPYy8n` **Dual-track narratives for alignment thinking ** — FETCHED, 864 chars
+- [758/776] `G6obXhcmtfMFHzr7Q` **Duane Arnold** — FETCHED, 31327 chars
+- [759/776] `87SzarZDjywv6nwSd` **Intellectual Property** — FETCHED, 6630 chars
+- [760/776] `2BiyjPr83BamRRbjB` **Biological Superintelligence** — FETCHED, 61737 chars
+- [761/776] `aWAqChukZepPY8Y6z` **Coming of a New Sun** — FETCHED, 18965 chars
+- [762/776] `7AKvSMavPZ8GjxFaa` **Charles Goodhart Elementary School** — FETCHED, 2783 chars
+- [763/776] `bYbErMTezFiDaMeqC` **The Passive Man** — FETCHED, 3138 chars
+- [764/776] `zrQnbBEDCRSYT42Ff` **Everyone Who Will Ever Be Born** — FETCHED, 1858 chars
+- [765/776] `m58gEMXtbaj6L23Jj` **Patient Zero** — FETCHED, 21794 chars
+- [766/776] `uoyHbjyPuxYkNGRAG` **The Apocalyptic Arrival of Truth** — FETCHED, 2479 chars
+- [767/776] `u8TdDutDyaSxG76hn` **You're Absolutely Right** — FETCHED, 16352 chars
+- [768/776] `wq5DJpjHHJkjgBDg9` **Patient Zero** — FETCHED, 21496 chars
+- [769/776] `RWavpsyDJxffS6LgG` **Demon Safety** — FETCHED, 1731 chars
+- [770/776] `mfqAeCg8oArde5tEX` **I Can Still Hear You Sayin'** — FETCHED, 4654 chars
+- [771/776] `y892yPYTLinvESNGz` **The Last Interview** — FETCHED, 4436 chars
+- [772/776] `8hEhxnd3XkN5DrpfQ` **Evaluation** — FETCHED, 4562 chars
+- [773/776] `nBzPEprCYKhoBZfbm` **One Billion Hemingways** — FETCHED, 13573 chars
+- [774/776] `4Nknaprzbde7ZBW8j` **An Ode to LessWrong** — FETCHED, 2378 chars
+- [775/776] `j5nd8ecCJ8yacpLCE` **Flibertigibbeting** — FETCHED, 12238 chars
+- [776/776] `C8prkTAAYoxzrFEu4` **Deployment** — FETCHED, 4359 chars

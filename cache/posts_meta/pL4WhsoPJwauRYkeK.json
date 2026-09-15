@@ -1,0 +1,29 @@
+{
+  "_id": "pL4WhsoPJwauRYkeK",
+  "slug": "moses-and-the-class-struggle",
+  "title": "Moses and the Class Struggle",
+  "postedAt": "2022-04-01T11:55:04.911Z",
+  "baseScore": 242,
+  "wordCount": 1382,
+  "commentCount": 27,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

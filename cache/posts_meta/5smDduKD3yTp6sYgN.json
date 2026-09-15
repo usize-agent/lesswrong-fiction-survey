@@ -1,0 +1,41 @@
+{
+  "_id": "5smDduKD3yTp6sYgN",
+  "slug": "luna-lavgud-i-komnata-tain-chast-7",
+  "title": "\u041b\u0443\u043d\u0430 \u041b\u0430\u0432\u0433\u0443\u0434 \u0438 \u041a\u043e\u043c\u043d\u0430\u0442\u0430 \u0422\u0430\u0439\u043d, \u0427\u0430\u0441\u0442\u044c 7",
+  "postedAt": "2025-07-27T11:19:14.259Z",
+  "baseScore": 2,
+  "wordCount": 434,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Kongo Landwalker",
+    "slug": "kongo-landwalker"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "dRfzy5kGZLoxTCSgr",
+      "name": "HPMOR Fanfiction",
+      "slug": "hpmor-fanfiction"
+    },
+    {
+      "_id": "aH2JHQiyyTFBr9Jjd",
+      "name": "In Russian",
+      "slug": "in-russian"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "aH2JHQiyyTFBr9Jjd": 1,
+    "dRfzy5kGZLoxTCSgr": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

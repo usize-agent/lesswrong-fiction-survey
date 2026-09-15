@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "FkwKGQFS5XL9mQSQb",
+        "title": "The Amazing Virgin Pregnancy",
+        "slug": "the-amazing-virgin-pregnancy",
+        "pageUrl": "https://www.lesswrong.com/posts/FkwKGQFS5XL9mQSQb/the-amazing-virgin-pregnancy",
+        "postedAt": "2007-12-24T14:00:00.000Z",
+        "baseScore": 35,
+        "wordCount": 601,
+        "commentCount": 271,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "NSMKfa8emSbGNXRKD",
+            "name": "Religion",
+            "slug": "religion"
+          }
+        ],
+        "tagRelevance": {
+          "NSMKfa8emSbGNXRKD": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1
+        },
+        "contents": {
+          "markdown": "People who grow up believing certain things,  \neven if they later stop believing them,  \nmay not quite realize how the beliefs sound to outsiders...\n\n*(SCENE: A small cottage in Nazareth.)*\n\nJoseph: Mary, my dearest fianc\u00e9e, there's something I've been meaning to talk to you about.\n\n*(Mary's shoulders slump. Slowly, as if under a heavy burden, she turns around to face Joseph.)*\n\nJoseph: You seem to be getting fat around the waistline, and throwing up in the morning, and, er, not getting any periods. Which is odd, because it's sort of like -\n\nMary: Yes! I'm pregnant! All right? I'm PREGNANT!\n\nJoseph: How is that possible?\n\n*(Mary's shoulders slump further.)* Mary: How do you think?\n\nJoseph: I don't know, that's why I'm asking you. I mean, you're still a virgin, right?\n\n*(Mary looks up cautiously, and sees Joseph's face looking blankly puzzled.)*\n\nJoseph: Well?\n\nMary: God did it.\n\nJoseph: You had *sex* with -\n\nMary: No! Haha. Of course not. I mean, God just snapped his fingers and did one of those miracle things and made me pregnant.\n\nJoseph: *God* made you pregnant.\n\nMary: *(Starts to sweat.)* Yes.\n\nJoseph: Mary, that is just so... *completely...*\n\n*(Mary's eyes squeeze shut.)*\n\nJoseph: ...COOL!\n\n*(Mary opens her eyes again, cautiously.)*\n\nMary: You think so?\n\nJoseph: Of course! Who *wouldn't* think so? Come on, we've got to tell *everyone* the news!\n\nMary: Maybe we should keep this between just the two of us -\n\nJoseph: No, no, silly girl, this is way too important! Come on!\n\n*(Joseph grabs Mary's wrist and drags her out of the house. SCENE: The gathering square of Nazareth. A dozen well-dressed men, and the town's head rabbi, look on Joseph and Mary impatiently.)*\n\nRabbi: What's this all about, Joseph? I trust there's a good reason for the fuss?\n\nJoseph: Go ahead, Mary! Tell them what you told me.\n\nMary: Um... *(She swallows.)* God made me pregnant.\n\nRabbi, looking stern, yet understanding: Now, Joseph, you know you're not supposed to do that before -\n\nJoseph: No, no, you don't get it! She's still a virgin! God made her pregnant *directly!*\n\n*(There's a long pause.)*\n\nMan #1: So, what you're saying here, basically, is that Mary tells you she's a virgin.\n\nJoseph: Uh huh!\n\nMan #2: And you haven't had sex with her.\n\nJoseph: Uh huh!\n\nMan #3: And now she's pregnant.\n\nJoseph: Precisely!\n\nMan #4: So you think that God did it.\n\nJoseph: What other explanation could there be?\n\nRabbi: Joseph, that is just so... unbelievably...\n\n*(Mary holds her breath.)*\n\nRabbi: NEAT!\n\n*(Mary exhales.)*\n\nMan #5: A miracle! A miracle right here in Nazareth!\n\nMan #6: Wow! I thought that miracles only happened in Jerusalem!\n\nMan #7: Come on! Let's spread the good news!\n\n*(They depart. SCENE: Mary is alone with her friend, Betty, in Betty's house.)*\n\nBetty: \"God did it.\"\n\nMary: I panicked! It was all I could think of!\n\nBetty: So who's the real -\n\n*(Mary lifts an eyebrow significantly. There's a brief pause.)*\n\nBetty: Ah. So that's why the rabbi went along with it.\n\nMary: Well, he *thinks* he's the father, anyway. Why, does it matter?\n\nBetty: It puts some things in a different light.\n\nMary: Like what?\n\nBetty: The rabbi has been telling all the pretty young girls that you, Mary, are the ultimate embodiment of feminine virtue, and when they grow up, they should be *just like you* -\n\nMary: I just feel so awful about the whole mess. What kind of thing is this to have hanging over my child's life?\n\nBetty: You've got to put things in perspective, dearie. You told one little white lie. It's not as if you caused the fall of the Roman Empire.\n\nMary: But what if the Romans hear about it? I don't want my baby to end up being crucified!\n\nBetty: No one's going to obsess about it that long. In a couple of months this whole thing will blow over.\n\nMary: I hope you're right...\n\n*(Exeunt Omnes.)*"
+        }
+      }
+    }
+  }
+}

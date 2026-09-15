@@ -1,0 +1,23 @@
+{
+  "_id": "G6obXhcmtfMFHzr7Q",
+  "slug": "duane-arnold-1",
+  "title": "Duane Arnold",
+  "postedAt": "2026-07-23T16:17:56.379Z",
+  "baseScore": 138,
+  "wordCount": 5836,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

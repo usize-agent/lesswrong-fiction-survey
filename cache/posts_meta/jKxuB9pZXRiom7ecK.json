@@ -1,0 +1,23 @@
+{
+  "_id": "jKxuB9pZXRiom7ecK",
+  "slug": "glass-puppet",
+  "title": "Glass Puppet",
+  "postedAt": "2022-05-25T23:01:15.473Z",
+  "baseScore": 79,
+  "wordCount": 788,
+  "commentCount": 8,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 5
+  }
+}

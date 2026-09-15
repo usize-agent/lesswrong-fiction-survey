@@ -1,0 +1,65 @@
+{
+  "_id": "taqRwkm9vnmEnYcbG",
+  "slug": "nyarlathotep-stirs-a-meta-narrative-chatgpt-story",
+  "title": "Nyarlathotep Stirs: A Meta-Narrative ChatGPT Story",
+  "postedAt": "2023-03-20T08:00:39.079Z",
+  "baseScore": 4,
+  "wordCount": 3706,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "zJsG4caBHv3kSdT2a",
+      "name": "Conversations with AIs",
+      "slug": "conversations-with-ais"
+    },
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "H4n4rzs33JfEgkf8b",
+      "name": "OpenAI",
+      "slug": "openai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "H4n4rzs33JfEgkf8b": 1,
+    "YWzByWvtXunfrBu5b": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "yXNtYNHJB54T3bGm3": 1,
+    "zJsG4caBHv3kSdT2a": 2
+  }
+}

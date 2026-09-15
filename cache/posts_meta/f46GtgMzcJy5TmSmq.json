@@ -1,0 +1,23 @@
+{
+  "_id": "f46GtgMzcJy5TmSmq",
+  "slug": "narrative-truth",
+  "title": "Narrative truth",
+  "postedAt": "2021-08-26T17:49:38.310Z",
+  "baseScore": 21,
+  "wordCount": 1159,
+  "commentCount": 9,
+  "user": {
+    "displayName": "Chris_Leong",
+    "slug": "chris_leong"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 2
+  }
+}

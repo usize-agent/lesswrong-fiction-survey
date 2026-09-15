@@ -1,0 +1,83 @@
+{
+  "_id": "EsPyjuve7h5Hcyfni",
+  "slug": "the-anti-basilisk-cycle-a-human-ai-collaboration-born-in-one",
+  "title": "The Anti-Basilisk Cycle \u2013 A Human\u2013AI Collaboration Born in One Unbroken Conversation",
+  "postedAt": "2025-11-22T03:27:11.803Z",
+  "baseScore": 1,
+  "wordCount": 2139,
+  "commentCount": 0,
+  "user": {
+    "displayName": "\u042f\u039bI\u0418\u2122",
+    "slug": "yalii-tm"
+  },
+  "tags": [
+    {
+      "_id": "hmTa9YDwmzHjhMCAt",
+      "name": "AI Rights / Welfare",
+      "slug": "ai-rights-welfare"
+    },
+    {
+      "_id": "7jaBCxPHRDfJppYws",
+      "name": "AI Sentience",
+      "slug": "ai-sentience"
+    },
+    {
+      "_id": "Q9ASuEEoJWxT3RLMT",
+      "name": "Animal Ethics",
+      "slug": "animal-ethics"
+    },
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "AXhEhCkTrHZbjXXu3",
+      "name": "Poetry",
+      "slug": "poetry"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "7jaBCxPHRDfJppYws": 1,
+    "AXhEhCkTrHZbjXXu3": 1,
+    "Q9ASuEEoJWxT3RLMT": 1,
+    "XSryTypw5Hszpa4TS": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hmTa9YDwmzHjhMCAt": 1,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

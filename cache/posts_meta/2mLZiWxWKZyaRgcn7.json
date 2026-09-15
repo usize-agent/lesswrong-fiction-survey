@@ -1,0 +1,65 @@
+{
+  "_id": "2mLZiWxWKZyaRgcn7",
+  "slug": "selling-nonapples",
+  "title": "Selling Nonapples",
+  "postedAt": "2008-11-13T20:10:58.000Z",
+  "baseScore": 77,
+  "wordCount": 2008,
+  "commentCount": 78,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "fuZZ64fNz24BLrXnY",
+      "name": "Robotics",
+      "slug": "robotics"
+    },
+    {
+      "_id": "Z5A4c4kjTgLSFEr3h",
+      "name": "Autonomous Vehicles",
+      "slug": "autonomous-vehicles"
+    },
+    {
+      "_id": "GY5kPPpCoyt9fnTMn",
+      "name": "Computer Science",
+      "slug": "computer-science"
+    },
+    {
+      "_id": "N3CqcPdCZNspF9bFb",
+      "name": "Emergent Behavior ( Emergence )",
+      "slug": "emergent-behavior-emergence"
+    },
+    {
+      "_id": "fpEBgFE7fgpxTm9BF",
+      "name": "Machine Learning  (ML)",
+      "slug": "machine-learning-ml"
+    },
+    {
+      "_id": "HFou6RHqFagkyrKkW",
+      "name": "Programming",
+      "slug": "programming"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "GY5kPPpCoyt9fnTMn": 1,
+    "HFou6RHqFagkyrKkW": 1,
+    "N3CqcPdCZNspF9bFb": 1,
+    "Z5A4c4kjTgLSFEr3h": 1,
+    "fpEBgFE7fgpxTm9BF": 1,
+    "fuZZ64fNz24BLrXnY": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

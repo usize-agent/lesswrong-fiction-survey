@@ -1,0 +1,29 @@
+{
+  "_id": "5uZiajKCrg2r9yA7z",
+  "slug": "good-transhumanist-fiction",
+  "title": "Good transhumanist fiction?",
+  "postedAt": "2012-10-13T14:47:16.367Z",
+  "baseScore": 13,
+  "wordCount": 221,
+  "commentCount": 68,
+  "user": {
+    "displayName": "NancyLebovitz",
+    "slug": "nancylebovitz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "jiuackr7B5JAetbF6",
+      "name": "Transhumanism",
+      "slug": "transhumanism"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "jiuackr7B5JAetbF6": 2
+  }
+}

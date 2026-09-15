@@ -1,0 +1,23 @@
+{
+  "_id": "hMQPyLDbg3bA7P6aN",
+  "slug": "the-study-of-anglophysics",
+  "title": "The Study of Anglophysics",
+  "postedAt": "2014-04-03T17:36:55.000Z",
+  "baseScore": 41,
+  "wordCount": 8311,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

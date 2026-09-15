@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "3bBw83qr8nTJb5jcJ",
+        "title": "Patricia Hall & The Warlock Curse",
+        "slug": "patricia-hall-and-the-warlock-curse",
+        "pageUrl": "https://www.lesswrong.com/posts/3bBw83qr8nTJb5jcJ/patricia-hall-and-the-warlock-curse",
+        "postedAt": "2022-03-06T16:32:59.611Z",
+        "baseScore": 16,
+        "wordCount": 126,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jsevillamol",
+          "slug": "jsevillamol"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "Patricia Hall had studied all her life to become an archmage diviner of the Ivory Tower. When she was expelled, her heart broke and her world shattered. Even worse, she learned short after that the world might be literally about to end.\n\nJoin the eponymous character on a life-transforming journey that will take her out of academia to become an unlikely hero of magekind.\n\n[**Read it now in our exclusive reading platform**](https://docs.google.com/document/d/1nLmKnOLLtGazArHItc6ejqnTMyZ2JlI2nzGQfIIrA5w/edit?usp=sharing)\n\n* * *\n\n### Testimonials\n\n> Oh no, what have I done.\n\nJaime Sevilla, prolific writer\n\n> I read the book! Really enjoyed it. Definitely very clear rationalist/EA influence.\n\nAnonymous kind friend\n\n> No Jaime, I haven't gotten around to reading your novella yet.\n\nAnonymous patient friend\n\n* * *\n\n*Thanks to Faatima Osman, Anne Wissemann and Jonas Sandbrink for support and feedback.*\n\n[**More from the author**](https://www.lesswrong.com/posts/cLBDeEnMsf4vfxvzc/counting-lightning)"
+        }
+      }
+    }
+  }
+}

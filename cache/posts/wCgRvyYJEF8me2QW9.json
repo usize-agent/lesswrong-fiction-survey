@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "wCgRvyYJEF8me2QW9",
+        "title": "The First Koan: Drinking the Hot Iron Ball",
+        "slug": "the-first-koan-drinking-the-hot-iron-ball",
+        "pageUrl": "https://www.lesswrong.com/posts/wCgRvyYJEF8me2QW9/the-first-koan-drinking-the-hot-iron-ball",
+        "postedAt": "2009-05-07T17:41:43.586Z",
+        "baseScore": 0,
+        "wordCount": 813,
+        "commentCount": 57,
+        "noIndex": false,
+        "user": {
+          "displayName": "Annoyance",
+          "slug": "annoyance"
+        },
+        "tags": [
+          {
+            "_id": "xv7Bg5fbF9WppYREi",
+            "name": "Buddhism",
+            "slug": "buddhism"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "xv7Bg5fbF9WppYREi": 1
+        },
+        "contents": {
+          "markdown": "In the traditions of Zen in which koans are common teaching tools, it is common to use a particular story as a novice's first koan. It's the story of Joshu's Dog.\n\n> A monk asked Joshu, a Chinese Zen master: `Has a dog Buddha-nature or not?'\n> \n> Joshu answered: \\`Mu.' \\[Mu is the negative symbol in Chinese, meaning \\`No-thing' or `Nay'.\\]\n\nWhat does this koan mean? How can we find out for ourselves?\n\nIt is important to remember certain things: Firstly, [koans](http://en.wikipedia.org/wiki/Koan) are not meant to be puzzles, riddles, or intellectual games. They are examples, illustrations of the state of mind that the student is expected to internalize. Secondly, they often appear paradoxical.\n\n> Paradox is a pointer telling you to look beyond it. If paradoxes bother you, that betrays your deep desire for absolutes. The relativist treats a paradox merely as interesting, perhaps amusing or even -- dreadful thought -- educational.\n\nThirdly, the purpose of Zen teaching isn't to acquire new conceptual baggage, but to eliminate it; not to generate Enlightenment, but to remove the false beliefs that preventing us from recognizing what we already possess. Shedding error is the point, not learning something new.\n\nTake a look at Mumon's commentary for this koan:\n\n> To realize Zen one has to pass through the barrier of the patriachs. Enlightenment always comes after the road of thinking is blocked. If you do not pass the barrier of the patriachs or if your thinking road is not blocked, whatever you think, whatever you do, is like a tangling ghost. You may ask: What is a barrier of a patriach? This one word, Mu, is it.\n> \n> This is the barrier of Zen. If you pass through it you will see Joshu face to face. Then you can work hand in hand with the whole line of patriachs. Is this not a pleasant thing to do?\n> \n> If you want to pass this barrier, you must work through every bone in your body, through ever pore in your skin, filled with this question: What is Mu? and carry it day and night. Do not believe it is the common negative symbol meaning nothing. It is not nothingness, the opposite of existence. If you really want to pass this barrier, you should feel like drinking a hot iron ball that you can neither swallor nor spit out.\n> \n> Then your previous lesser knowledge disappears. As a fruit ripening in season, your subjectivity and objectivity naturally become one. It is like a dumb man who has had a dream. He knows about it but cannot tell it.\n> \n> When he enters this condition his ego-shell is crushed and he can shake the heaven and move the earth. He is like a great warrior with a sharp sword. If a Buddha stands in his way, he will cut him down; if a patriach offers him any obstacle, he will kill him; and he will be free in this way of birth and death. He can enter any world as if it were his own playground. I will tell you how to do this with this koan:\n> \n> Just concentrate your whole energy into this Mu, and do not allow any discontinuation. When you enter this Mu and there is no discontinuation, your attainment will be as a candle burning and illuminating the whole universe.\n\nI'll give you a hint: Joshu's reply isn't really an answer to the monk's question, it's a response induced by it. Joshu answers the question the monk didn't ask but should have - the question whose answer the monk is taking for granted in what he asks.\n\nThis morning I passed by a gym with a glass-walled front, and I saw within the building many people working at machines, moving weights back and forth. What was being accomplished? Superficially, nothing at all. Their actions would appear to be wasted; nothing was done with them. The real purpose, of course, was to exercise the body, to condition the muscles and strengthen the bones.\n\nThe point of the koan isn't to find the 'right answer', the point of the koan is to struggle with it, and by struggling, develop one's own understanding. Contradiction and apparent contradiction is a powerful tool for this purpose. Trying to understand, we usually perceive a contradiction and let the process terminate. But if we keep struggling with the problem, even though we cannot expect to achieve anything, we build within ourselves ever more complex models, ways of seeing. Eventually the complexity will be useful in dealing with other problems, ones with solutions we didn't see before.\n\nOne warning: the fact that a problem is used as a source of contradiction does not mean that it doesn't actually have an answer. Don't mistake the use for the reality.\n\n*Has a dog Buddha-nature?  \nThis is the most serious question of all.  \nIf you say yes or no,  \nYou lose your own Buddha-nature.*"
+        }
+      }
+    }
+  }
+}

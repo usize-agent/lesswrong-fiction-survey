@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "5QmtqBt6GDM8hYkAr",
+        "title": "Training My Friend to Cook",
+        "slug": "training-my-friend-to-cook",
+        "pageUrl": "https://www.lesswrong.com/posts/5QmtqBt6GDM8hYkAr/training-my-friend-to-cook",
+        "postedAt": "2021-08-29T05:54:50.065Z",
+        "baseScore": 85,
+        "wordCount": 908,
+        "commentCount": 33,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "XqykXFKL9t38pbSEm",
+            "name": "Well-being",
+            "slug": "well-being"
+          },
+          {
+            "_id": "6bdeSR7aKmdSQLw6P",
+            "name": "Cooking",
+            "slug": "cooking"
+          },
+          {
+            "_id": "5Whwix4cZ3p5otshm",
+            "name": "Habits",
+            "slug": "habits"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "Fi6SeJRGfJs3bp5se",
+            "name": "Reinforcement learning",
+            "slug": "reinforcement-learning"
+          },
+          {
+            "_id": "92SxJsDZ78ApAGq72",
+            "name": "Nutrition",
+            "slug": "nutrition"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          }
+        ],
+        "tagRelevance": {
+          "5Whwix4cZ3p5otshm": 3,
+          "6bdeSR7aKmdSQLw6P": 3,
+          "92SxJsDZ78ApAGq72": 1,
+          "Fi6SeJRGfJs3bp5se": 2,
+          "XqykXFKL9t38pbSEm": 4,
+          "fkABsGCJZ6y9qConW": 3,
+          "pszEEb3ctztv3rozd": 2
+        },
+        "contents": {
+          "markdown": "During pre-vaccination covid, my friend Brittany and I agreed to hang out once per week as quarantine buddies. Brittany has a laundry list of health problems, many of which are exacerbated by a poor diet. Brittany loves healthy food. She ate a diet based around TV dinners because she didn't know how to cook. My goal for covid lockdown was to train Brittany to cook.\n\nIt was summer. I started out by picnicing in the park together. I brought rice, beans, sauerkraut, sliced radishes, homegrown tomatoes, tortilla chips and homemade salsa. Though simple, the food I made was far tastier than anything Brittany was eating. It's not hard for fresh homemade food to beat TV dinners. After each picnic I'd send the leftovers home with her in lovely glass jars. This associated \"homemade food\" with sunshine, verdant trees, picnic tables and quality time with good friends.\n\nI talked about how cheap it was to make food when your primary ingredients are rice, cabbage, onions and dried beans. This made an impact because Brittany was regularly paying $15 per meal for her TV dinners, a far inferior food. I never said \"you should cook\" because that would make Brittany feel bad for not cooking. I just talked about how great it was that I could cook. I showed her an ambition she could aspire to.\n\nBrittany is a med student with very limited time. Going to a park takes time. Have already established the \"homemade food\" = \"warm verdant picturesque parks\" association, we moved our hangouts to her apartment. I brought the ingredients to her apartment and cooked them there. She insisted on splitting the grocery bill. A single night of my cooking would give her days of good food for the price of a single TV dinner.\n\nThough I always provided Brittany with leftovers, I also made sure that they never lasted more than a few days. Brittany would eat delicious food for a few days and then she'd be back to her TV dinners. Brittany looked forward to our hangouts.\n\nBrittany is Taiwanese and loves healthy food. I upgraded rice and beans to her favorite foods. I saut\u00e9ed bok choy. I blanched Chinese broccoli. I figured out a mild mapo dofu. I learned how to prepare \u7d72\u74dc. After Brittany had watched me saut\u00e9 vegetables a few times I encouraged her take over. I made a big show of how I got to relax while she did the cooking.\n\nOne day Brittany ordered a box of meal kits. I gently, but stubbornly, refused to help her with them. I walked her to her nearby grocery store where we bought groceries together. I guided her through saut\u00e9ing onions. Eventually she was cooking all of her favorite dishes.\n\nI worried that I had conditioned Brittany to cook solely when I came over. Suddenly, mid-week between our hangouts, she sent me these photos.\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/teaching-friend-to-cook/IMG_8165.jpg)\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/teaching-friend-to-cook/IMG_7560.jpg)\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/teaching-friend-to-cook/IMG_7710.jpg)\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/teaching-friend-to-cook/IMG_7711.jpg)\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/teaching-friend-to-cook/IMG_7713.jpg)\n\n> I cooked them on my own time based off of memory and our notes \ud83d\udcdd with no help !!!! you really really really helped me!!! You really are the best.\n>\n> Can't wait to practice more dish!!! Haha \ud83d\ude1b life quality is seriously improving \ud83d\ude2d\n>\n> Really proud to share these photos.\n\nAww. Weeks later, she followed it up with another message.\n\n> You put me on a habit roll to walk straight to the grocery store and cook lol\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/teaching-friend-to-cook/grocery-store-habit.jpg)\n\nThese days I can give her my extra veggies and she will blanch them.\n\n![](https://s3.us-west-2.amazonaws.com/www.lsusr.com/lesswrong/teaching-friend-to-cook/bok-choy.jpg)\n\n# Takeaways\n\nChanging your own long-term behavior is hard. Changing someone else's is even harder. It is easy to do more harm than good. To make sure I actually did good, I employed protocols from [*Don't Shoot the Dog*](https://www.lesswrong.com/posts/Cf2xxC3Yx9g6w7yXN/notes-from-don-t-shoot-the-dog) by Karen Prior.\n\n- The most important protocol I used was **strictly positive reinforcement**. I never, at any point, implied that Brittany might be deficient because she didn't know how to cook. I didn't even imply she \"should\" cook. I always framed the activity as \"isn't this an exciting opportunity to viscerally improve your life\"? Brittany never associated cooking with anything unpleasant. To this day, the activity is solely associated with reward.\n- The second most important protocol I used was **backchaining**. I didn't start by bringing Brittany to the store, then teach her to cook and have her eat at the end. I started by feeding her, then I taught her to cook and only at the end did I bring her to the grocery store. If I started by bringing her to the grocery store then she wouldn't understand why we were buying what we were buying. But when I started by serving her food in a park all she had to understand is \"eat delicious food\". At every point in the process, Brittany understood exactly how the thing she was doing connected to \"eating delicious food on a summer day under green trees\".\n- I let Brittany watch me perform a skill a few times over a few weeks before having her do it herself. I never told her to read anything. **Monkey see. Monkey do.**\n\n# Snafu\n\nRight after Brittany learned to saut\u00e9, I made a big deal about how she \"could saut\u00e9 any vegetable\". She saut\u00e9ed asparagus.  (You should not saut\u00e9 asparagus.) I didn't mean that she could literally saut\u00e9 any vegetable. By \"any vegetable\", I meant she could saut\u00e9 any vegetable that experienced cooks know is something you should saut\u00e9. I laughed it off and took responsibility for giving bad instructions. I explained how I often messed things up too and made sure to complement her initiative.\n"
+        }
+      }
+    }
+  }
+}

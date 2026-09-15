@@ -1,0 +1,29 @@
+{
+  "_id": "ifs3ycQYMLdAhgsuJ",
+  "slug": "bayeswatch-8-antimatter",
+  "title": "Bayeswatch 8: Antimatter",
+  "postedAt": "2021-09-10T05:01:48.845Z",
+  "baseScore": 40,
+  "wordCount": 835,
+  "commentCount": 6,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

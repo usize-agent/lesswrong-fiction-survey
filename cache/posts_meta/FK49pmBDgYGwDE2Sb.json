@@ -1,0 +1,35 @@
+{
+  "_id": "FK49pmBDgYGwDE2Sb",
+  "slug": "fiction-io-sys",
+  "title": "[Fiction] IO.SYS",
+  "postedAt": "2019-03-10T21:23:19.206Z",
+  "baseScore": 40,
+  "wordCount": 6631,
+  "commentCount": 4,
+  "user": {
+    "displayName": "DataPacRat",
+    "slug": "datapacrat"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "2JdCpTrNgBMNpJiyB",
+      "name": "Space Exploration & Colonization",
+      "slug": "space-exploration-and-colonization"
+    }
+  ],
+  "tagRelevance": {
+    "2JdCpTrNgBMNpJiyB": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb2b1": 2
+  }
+}

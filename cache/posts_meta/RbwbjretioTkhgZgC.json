@@ -1,0 +1,41 @@
+{
+  "_id": "RbwbjretioTkhgZgC",
+  "slug": "don-t-think-about-the-thing-behind-the-curtain",
+  "title": "Don't Think About the Thing Behind the Curtain.",
+  "postedAt": "2023-09-19T02:07:39.853Z",
+  "baseScore": 4,
+  "wordCount": 1629,
+  "commentCount": 0,
+  "user": {
+    "displayName": "keltan",
+    "slug": "keltan"
+  },
+  "tags": [
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "ZpG9rheyAkgCoEQea",
+      "name": "Practice & Philosophy of Science",
+      "slug": "practice-and-philosophy-of-science"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "ZpG9rheyAkgCoEQea": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

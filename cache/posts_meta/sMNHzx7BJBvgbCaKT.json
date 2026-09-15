@@ -1,0 +1,35 @@
+{
+  "_id": "sMNHzx7BJBvgbCaKT",
+  "slug": "i-notice-that-i-am-confused-about-identity-and-resurrection",
+  "title": "I notice that I am confused about Identity and Resurrection",
+  "postedAt": "2013-11-14T20:38:22.845Z",
+  "baseScore": 67,
+  "wordCount": 1849,
+  "commentCount": 80,
+  "user": {
+    "displayName": "ialdabaoth",
+    "slug": "ialdabaoth"
+  },
+  "tags": [
+    {
+      "_id": "PbShukhzpLsWpGXkM",
+      "name": "Anthropics",
+      "slug": "anthropics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "x6evH6MyPK3nxsoff",
+      "name": "Identity",
+      "slug": "identity"
+    }
+  ],
+  "tagRelevance": {
+    "PbShukhzpLsWpGXkM": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "x6evH6MyPK3nxsoff": 1
+  }
+}

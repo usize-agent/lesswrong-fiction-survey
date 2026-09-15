@@ -1,0 +1,47 @@
+{
+  "_id": "4kTTGYNFB2C3LsuPP",
+  "slug": "great-responsibility-requires-great-power",
+  "title": "Great responsibility requires great power",
+  "postedAt": "2025-08-25T15:18:33.699Z",
+  "baseScore": 16,
+  "wordCount": 1751,
+  "commentCount": 0,
+  "user": {
+    "displayName": "dr_s",
+    "slug": "dr_s"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

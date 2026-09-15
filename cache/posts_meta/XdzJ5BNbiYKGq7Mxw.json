@@ -1,0 +1,29 @@
+{
+  "_id": "XdzJ5BNbiYKGq7Mxw",
+  "slug": "a-victory-for-the-natural-order",
+  "title": "\u201cA victory for the natural order\u201d",
+  "postedAt": "2025-04-28T15:33:39.195Z",
+  "baseScore": 11,
+  "wordCount": 91,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Mati_Roy",
+    "slug": "mathieuroy"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "vmvTYnmaKA73fYDe5",
+      "name": "Life Extension",
+      "slug": "life-extension"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "vmvTYnmaKA73fYDe5": 2
+  }
+}

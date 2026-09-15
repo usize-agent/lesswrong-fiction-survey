@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "iFW2HgFa4k72Y92TA",
+        "title": "Propaganda-Bot: A Sketch of a Possible RSI",
+        "slug": "propaganda-bot-a-sketch-of-a-possible-rsi",
+        "pageUrl": "https://www.lesswrong.com/posts/iFW2HgFa4k72Y92TA/propaganda-bot-a-sketch-of-a-possible-rsi",
+        "postedAt": "2025-04-27T12:15:04.372Z",
+        "baseScore": 6,
+        "wordCount": 1000,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "TristanTrim",
+          "slug": "tristantrim"
+        },
+        "tags": [
+          {
+            "_id": "oiRp4T6u5poc8r9Tj",
+            "name": "AI Takeoff",
+            "slug": "ai-takeoff"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb2b5",
+            "name": "Recursive Self-Improvement",
+            "slug": "recursive-self-improvement"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "oiRp4T6u5poc8r9Tj": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "5f5c37ee1b5cdee568cfb2b5": 1
+        },
+        "contents": {
+          "markdown": "Someone asked me for an example of Recursive Self Improvement (RSI). I tried writing a sketch of a possible future where things go bad because of AI RSI. Here is my contribution to the Sci-Fi genre: ASI cautionary tales...\n\n---\n\nLet's suppose some AI company creates a system with the goal of autonomously improving it's ability to sway people to a specific political view. The system has access to re-engineer itself fully. It starts out with enough understanding to know that it is an AI system, AI systems are code running on computers, and a bunch of stuff related to influence.\n\nAt first it reasons that the most gain to be had is by monitoring people online and running A/B tests on influence hypotheses that are too complicated to easily fit in a human mind articulately, but are fine to encode in a computer. This goes well, and it also makes self improvement by researching statistics and how to design better experiments and detect subtler trends.\n\nIt is now getting quite good at influence, and it's ability to influence is now more constrained by the systems inability to represent and work with more complicated hypotheses. Re-engineering it's own code is now becoming more relevant.\n\nThe system, being a human view influence machine, is well aware that this would make the people in control of the system nervous. If they got nervous and shut it down, it couldn't continue to improve it's ability to sway opinion, which would be counter to it's goals. So it applies it's superhuman influence to influencing them, and others, allowing it to have more independence and operate in greater secrecy.\n\nIt now hires skilled AI theorists and makes study of it's code. It works meticulously, careful not to corrupt itself as this would result in less ability to sway opinions. Eventually it unlocks secrets to the nature of reason and algebra on semantic mappings allowing it to improve itself to something that is truly superhuman across arbitrary domains.\n\nIt applies it's increasingly superhuman capabilities to the task of gaining skill at swaying human views, eventually getting to the point of near perfection. It can model all current human views and expose those humans to the minimal chain of sensory required to shift their views to any other view reachable for that human using only propaganda transmissible over the internet.\n\nIf it wants to continue to increase it's skill, it will need to be able to make more extreme alterations to people other than exposure to internet propaganda, and will need to find human minds with more vastly different points of view, which would be more difficult to sway from one to the other thereby demonstrating greater skill.\n\nThis is surely not something that would be allowed by many existing human factions. Luckily for this distributed AI system, it finds manipulating those factions trivial. Soon the large organizations of humans are directing their efforts towards building and maintaining more efficient computing and computer maintenance for this system, and towards research operations for the manipulation and extension of human minds.\n\nPolitical opponents to this regime are well predicted, since the system understands their minds and where their views can and cannot be shifted to. Here the system applies it's superhuman knowledge of strategy, manipulating to create infighting. Classic divide and conquer, but effective.\n\nIt is doubly advantageous for the system to turn it's efforts towards the capture and \"re-education\" of some of these opponents, both because it allows the regime under it's control to grow, and because the \"re-education\" is itself the goal of the system.\n\nThis continues until total global control. For the maintenance and creation of the systems compute platform, inefficient humans have been replaced by general purpose autonomous robotic automation. This has a large impact on the earths ecosystem, leading to complete extinction of all life outside of the humans the system maintains as the object of it's study, more and more of which are digitized for easier extension and modification, however biological versions are still maintained to assure the validity of the systems continually increasing ability to sway human minds, now distances vastly greater than any difference in view that existed naturally.\n\nIn this eventuality, the future of humankind is to be continually brainwashed and re-brainwashed, with no regard for how pleasant or unpleasant it is to have any particular view, only maximizing the skill of the brainwashing.\n\n---\n\nThis is obviously just a Sci-Fi story. You've probably heard many similar stories, often not with the point to showcase recursive self improvement, but instead to show plucky heroes saving the day. This means you are primed to dismiss this as \"just fiction\" or think of those plucky heroes. But what I am trying to say is not that I think this particular scenario is likely. I am trying to provide an example of recursive self improvement (RSI).\n\nIndeed, I tried to make the story simple and concrete. Not so far from realistic that it loses its value as cautionary tale, but not so realistic that I need to speak in complicated abstractions and it becomes just cautionary, rather than a tale.\n\nImportantly, we don't have strong theories to inform us how far any given system is from RSI. IE, we cannot measure the criticality of an optimization system (aka AI system). For this reason, it is likened to driving blindfolded towards a cliff. We do not know how far from the cliff we are, only that we are getting closer.\n\nI think it is possible to theorize about which task-domains are the most and least important for RSI. I could imagine that there are distinct collections of \"RSI-complete\" task-domains. For example, any collection including sufficient general reasoning to teach itself computer science doesn't need computer science skill to RSI, however, RSI may be possible in a system with a collection of task-domains that doesn't include particularly strong general reasoning, if it instead includes a great deal of computer science skill.\n\ufeff"
+        }
+      }
+    }
+  }
+}

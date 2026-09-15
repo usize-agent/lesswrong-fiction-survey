@@ -1,0 +1,35 @@
+{
+  "_id": "dYspinGtiba5oDCcv",
+  "slug": "feature-selection",
+  "title": "Feature Selection",
+  "postedAt": "2021-11-01T00:22:29.993Z",
+  "baseScore": 328,
+  "wordCount": 4771,
+  "commentCount": 24,
+  "user": {
+    "displayName": "Zack_M_Davis",
+    "slug": "zack_m_davis"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "NZ67PZ8CkeS6xn27h",
+      "name": "Mesa-Optimization",
+      "slug": "mesa-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 5,
+    "NZ67PZ8CkeS6xn27h": 2,
+    "etDohXtBrXd8WqCtR": 5
+  }
+}

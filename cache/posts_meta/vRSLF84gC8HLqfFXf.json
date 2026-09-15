@@ -1,0 +1,35 @@
+{
+  "_id": "vRSLF84gC8HLqfFXf",
+  "slug": "a-poem-about-applied-rationality-by-chatgpt",
+  "title": "A poem about applied rationality by ChatGPT",
+  "postedAt": "2022-12-11T13:43:53.820Z",
+  "baseScore": 4,
+  "wordCount": 303,
+  "commentCount": 0,
+  "user": {
+    "displayName": "ChristianKl",
+    "slug": "christiankl"
+  },
+  "tags": [
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "zJsG4caBHv3kSdT2a",
+      "name": "Conversations with AIs",
+      "slug": "conversations-with-ais"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "GrHAiuzAjG2mDxvMB": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "zJsG4caBHv3kSdT2a": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "5A2RKafXajXuywsqy",
+  "slug": "what-didn-t-happen",
+  "title": "What didn\u2019t happen",
+  "postedAt": "2021-02-15T04:30:12.132Z",
+  "baseScore": 15,
+  "wordCount": 660,
+  "commentCount": 0,
+  "user": {
+    "displayName": "KatjaGrace",
+    "slug": "katjagrace"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "5RytYtxhr5BaELkKi",
+        "title": "Practitioner: Novice",
+        "slug": "practitioner-novice",
+        "pageUrl": "https://www.lesswrong.com/posts/5RytYtxhr5BaELkKi/practitioner-novice",
+        "postedAt": "2022-02-20T19:01:50.486Z",
+        "baseScore": 25,
+        "wordCount": 50,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "The Guild of the Rose",
+          "slug": "high-council"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "p2aBoEmJhjZYpkaPZ",
+            "name": "Guild of the Rose",
+            "slug": "guild-of-the-rose"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "etDohXtBrXd8WqCtR": 1,
+          "p2aBoEmJhjZYpkaPZ": 1
+        },
+        "contents": {
+          "markdown": "The Triad gave Taman a week to pay off his crushing debt. Now the Guild of the Rose claims they can help, but how can Taman trust them when he doesn't even know what they want?\n\nThis is a fictional story about what the Guild of the Rose could someday become."
+        }
+      }
+    }
+  }
+}

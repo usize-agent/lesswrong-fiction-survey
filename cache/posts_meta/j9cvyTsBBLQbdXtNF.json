@@ -1,0 +1,23 @@
+{
+  "_id": "j9cvyTsBBLQbdXtNF",
+  "slug": "gifts",
+  "title": "Gifts",
+  "postedAt": "2021-12-22T23:50:01.313Z",
+  "baseScore": 13,
+  "wordCount": 2775,
+  "commentCount": 1,
+  "user": {
+    "displayName": "George3d6",
+    "slug": "george3d6"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

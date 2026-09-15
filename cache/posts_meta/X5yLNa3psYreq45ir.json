@@ -1,0 +1,29 @@
+{
+  "_id": "X5yLNa3psYreq45ir",
+  "slug": "the-elect-2",
+  "title": "The Elect",
+  "postedAt": "2026-03-06T15:34:44.408Z",
+  "baseScore": 100,
+  "wordCount": 4763,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

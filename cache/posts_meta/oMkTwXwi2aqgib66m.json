@@ -1,0 +1,23 @@
+{
+  "_id": "oMkTwXwi2aqgib66m",
+  "slug": "the-pyromaniacs",
+  "title": "The Pyromaniacs",
+  "postedAt": "2024-03-22T06:55:43.745Z",
+  "baseScore": 4,
+  "wordCount": 737,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Ted Sanders",
+    "slug": "ted-sanders"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

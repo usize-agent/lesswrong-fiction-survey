@@ -1,0 +1,41 @@
+{
+  "_id": "eD3Tp5JukiFFACeH5",
+  "slug": "harry-potter-and-the-data-centers-of-doom",
+  "title": "Harry Potter and the Data Centers of Doom",
+  "postedAt": "2023-03-31T10:42:20.282Z",
+  "baseScore": 14,
+  "wordCount": 1088,
+  "commentCount": 5,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "yrg267i4a8EsgYAXp",
+      "name": "HPMOR (discussion & meta)",
+      "slug": "hpmor-discussion-and-meta"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "YWzByWvtXunfrBu5b": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "yrg267i4a8EsgYAXp": 1
+  }
+}

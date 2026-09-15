@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "t7wGNo4CxqqwDr7N7",
+        "title": "Luna Lovegood and the Chamber of Secrets - Part 3",
+        "slug": "luna-lovegood-and-the-chamber-of-secrets-part-3",
+        "pageUrl": "https://www.lesswrong.com/posts/t7wGNo4CxqqwDr7N7/luna-lovegood-and-the-chamber-of-secrets-part-3",
+        "postedAt": "2020-12-01T12:43:42.647Z",
+        "baseScore": 139,
+        "wordCount": 520,
+        "commentCount": 11,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "\"I solemnly swear that I am up to no good.\"\n\nFred and George had carried concealed broomsticks at all times since the previous year's troll attack. When they heard Harry Potter's prophecy at the Quidditch final they flew just over the castle walls and then Apparated to the graveyard where they salvaged their map along with several rings, amulets and strange devices.\n\n\"Have you visited every room on this map?\" Luna asked.\n\n\"Excuse me?\" George said.\n\n\"What part of the school have you never visited?\" Luna enunciated each word.\n\n\"Did she just insult us?\" Fred said.\n\n\"Perhaps our reputation is in disrepair,\" George said.\n\n\"What makes you think there exists a single room in the school we hadn't explored by the end of our first year?\" Fred said.\n\n\"Are you telling me you visited every room in Hogwarts in your first year?\" Luna said.\n\n\"We make no such claim,\" George said, \"For if were we to make such a claim then we would include not just mere rooms but also secret passages, pocket dimensions, secret dimensions, pocket passages, and docket sassages.\"\n\n\"Surely someone of your reputation must have visited every room, passage, dimension, sassage and chamber by the end of your first year,\" Luna said.\n\n\"Surely,\" Fred said.\n\n\"Had you visited the Chamber of Secrets before Headmistress McGonagall announced its existence today?\" Luna said.\n\nSomeone said a rude word.\n\n\"Where is the Chamber of Secrets?\" Luna asked.\n\n\"It's this complex of tunnels,\" George said, \"It connects to this painting of Salazar Slytherin to this girls' bathroom and these places over here. This path goes to the Hogsmeade graveyard.\"\n\n\"Has the Chamber of Secrets always been on this map?\" Luna asked.\n\n\"Yes,\" Fred said.\n\n\"How do you know?\" Luna asked.\n\n\"I remember it,\" Fred said, \"I just never really noticed it before McGonagall's announcement.\"\n\n\"Are there any other rooms on this map you haven't noticed?\" Luna asked.\n\nThe students failed to find anything they hadn't found before.\n\n\"I have an idea,\" Luna said, \"First we are going to look at this map normally. We are going to list every room and secret passage we know of, including the Chamber of Secrets. We are going to count them. Then you are going to conjure a grid over this map. We are going to count every single room without identifying them. Then we will compare the two numbers.\"\n\nThe two numbers came up exactly the same.\n\n\"Wait a minute. I have another idea. Give me that list. Is there any room in this castle you haven't been to?\" Luna said.\n\n\"No,\" George said, \"We've been everywhere important except the Chamber of Secrets.\"\n\n\"Let's go over the map again,\" Luna said, \"List each room you've been inside.\"\n\n---\n\n\"\u2026and that's the broom closet we trapped Percy in along with his girlfriend, his ex-girlfriend, his ex-ex-girlfriend and Peeves,\" Fred finished.\n\nLuna tore up little bits of parchment and covered up each room Fred and George had visited. She had covered nearly all of the Marauder's Map. There were just a few unimportant rooms that didn't really count. Then Luna caught herself. This must be what a Muggle-Repelling Charm felt like.\n\nLuna deliberately read off the unimportant rooms she had just nearly written off.\n\n- The Stone Citadel (under construction)\n- The Chamber of Secrets\n- The Forgotten Library"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_id": "LzQtrHSYDafXynofq",
+  "slug": "the-parable-of-the-king-and-the-random-process",
+  "title": "The Parable of the King and the Random Process",
+  "postedAt": "2023-03-01T22:18:59.734Z",
+  "baseScore": 318,
+  "wordCount": 1661,
+  "commentCount": 26,
+  "user": {
+    "displayName": "moridinamael",
+    "slug": "moridinamael"
+  },
+  "tags": [
+    {
+      "_id": "8daMDi9NEShyLqxth",
+      "name": "Forecasting & Prediction",
+      "slug": "forecasting-and-prediction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "8daMDi9NEShyLqxth": 9,
+    "F2XfCTxXLQBGjbm8P": 9,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "yXNtYNHJB54T3bGm3": 1
+  }
+}

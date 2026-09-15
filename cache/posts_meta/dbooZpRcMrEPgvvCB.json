@@ -1,0 +1,41 @@
+{
+  "_id": "dbooZpRcMrEPgvvCB",
+  "slug": "lifekeeper-diaries-exploring-misaligned-ai-through",
+  "title": "LifeKeeper Diaries: Exploring Misaligned AI Through Interactive Fiction",
+  "postedAt": "2024-11-09T20:58:09.182Z",
+  "baseScore": 15,
+  "wordCount": 612,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Tristan Tran",
+    "slug": "tristan-tran"
+  },
+  "tags": [
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "YkPxg2tFDQNdaEZDJ": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "pszEEb3ctztv3rozd": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

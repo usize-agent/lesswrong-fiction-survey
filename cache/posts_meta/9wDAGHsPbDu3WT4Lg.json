@@ -1,0 +1,35 @@
+{
+  "_id": "9wDAGHsPbDu3WT4Lg",
+  "slug": "the-consciousness-box",
+  "title": "The Consciousness Box",
+  "postedAt": "2023-12-11T16:45:08.172Z",
+  "baseScore": 33,
+  "wordCount": 1140,
+  "commentCount": 25,
+  "user": {
+    "displayName": "GradualImprovement",
+    "slug": "gradualimprovement"
+  },
+  "tags": [
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "XSryTypw5Hszpa4TS": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

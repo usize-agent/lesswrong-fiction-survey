@@ -1,0 +1,23 @@
+{
+  "_id": "SxL9rgE2tk3StimAR",
+  "slug": "purple-lipstick",
+  "title": "Purple Lipstick",
+  "postedAt": "2021-08-11T09:36:24.778Z",
+  "baseScore": 18,
+  "wordCount": 480,
+  "commentCount": 4,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

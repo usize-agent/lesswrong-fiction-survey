@@ -1,0 +1,29 @@
+{
+  "_id": "Lx9aCnwvnckrckmqy",
+  "slug": "to-change-the-world",
+  "title": "To Change the World",
+  "postedAt": "2022-02-10T06:08:39.486Z",
+  "baseScore": 118,
+  "wordCount": 1695,
+  "commentCount": 13,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

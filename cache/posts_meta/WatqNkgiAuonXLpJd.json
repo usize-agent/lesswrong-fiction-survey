@@ -1,0 +1,23 @@
+{
+  "_id": "WatqNkgiAuonXLpJd",
+  "slug": "harry-potter-and-the-rules-of-quidditch-1",
+  "title": "Harry Potter and the Rules of Quidditch",
+  "postedAt": "2026-07-05T14:32:17.825Z",
+  "baseScore": 161,
+  "wordCount": 984,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

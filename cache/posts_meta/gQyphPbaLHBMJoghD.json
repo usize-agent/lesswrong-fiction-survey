@@ -1,0 +1,35 @@
+{
+  "_id": "gQyphPbaLHBMJoghD",
+  "slug": "comp-sci-in-2027-short-story-by-eliezer-yudkowsky",
+  "title": "Comp Sci in 2027 (Short story by Eliezer Yudkowsky)",
+  "postedAt": "2023-10-29T23:09:56.730Z",
+  "baseScore": 236,
+  "wordCount": 3062,
+  "commentCount": 27,
+  "user": {
+    "displayName": "sudo",
+    "slug": "sudo"
+  },
+  "tags": [
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "yXNtYNHJB54T3bGm3": 1
+  }
+}

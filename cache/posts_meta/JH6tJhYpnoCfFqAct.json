@@ -1,0 +1,23 @@
+{
+  "_id": "JH6tJhYpnoCfFqAct",
+  "slug": "the-company-man",
+  "title": "The Company Man",
+  "postedAt": "2025-09-17T17:47:13.518Z",
+  "baseScore": 852,
+  "wordCount": 5408,
+  "commentCount": 79,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 18
+  }
+}

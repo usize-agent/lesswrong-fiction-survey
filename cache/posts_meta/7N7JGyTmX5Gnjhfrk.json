@@ -1,0 +1,35 @@
+{
+  "_id": "7N7JGyTmX5Gnjhfrk",
+  "slug": "is-the-star-trek-federation-really-incapable-of-building-ai",
+  "title": "Is the Star Trek Federation really incapable of building AI?",
+  "postedAt": "2018-03-18T10:30:03.320Z",
+  "baseScore": 44,
+  "wordCount": 590,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Kaj_Sotala",
+    "slug": "kaj_sotala"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "BisjoDrd3oNatDu7X",
+      "name": "Outer Alignment",
+      "slug": "outer-alignment"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "BisjoDrd3oNatDu7X": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

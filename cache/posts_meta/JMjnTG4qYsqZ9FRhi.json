@@ -1,0 +1,29 @@
+{
+  "_id": "JMjnTG4qYsqZ9FRhi",
+  "slug": "fiction-unspoken-stone",
+  "title": "[Fiction] Unspoken Stone",
+  "postedAt": "2022-12-20T05:11:23.231Z",
+  "baseScore": 19,
+  "wordCount": 1385,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Gordon Seidoh Worley",
+    "slug": "gordon-seidoh-worley"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

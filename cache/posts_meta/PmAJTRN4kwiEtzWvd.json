@@ -1,0 +1,32 @@
+{
+  "_id": "PmAJTRN4kwiEtzWvd",
+  "slug": "on-klurl-safety-a-warning-by-fleshling-three",
+  "title": "On Klurl Safety: A Warning by Fleshling Three",
+  "postedAt": "2025-12-10T07:38:44.177Z",
+  "baseScore": 0,
+  "wordCount": 5337,
+  "commentCount": 0,
+  "user": null,
+  "tags": [
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "X8JsWEnBRPvs5Y99i": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

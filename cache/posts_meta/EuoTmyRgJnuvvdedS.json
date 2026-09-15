@@ -1,0 +1,29 @@
+{
+  "_id": "EuoTmyRgJnuvvdedS",
+  "slug": "i-compiled-a-ebook-of-project-lawful-for-ebook-readers",
+  "title": "I compiled a ebook of `Project Lawful` for eBook readers",
+  "postedAt": "2023-09-15T18:09:31.703Z",
+  "baseScore": 93,
+  "wordCount": 176,
+  "commentCount": 4,
+  "user": {
+    "displayName": "OrwellGoesShopping",
+    "slug": "orwellgoesshopping"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "izp6eeJJEg9v5zcur": 2
+  }
+}

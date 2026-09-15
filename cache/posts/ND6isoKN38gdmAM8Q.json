@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "ND6isoKN38gdmAM8Q",
+        "title": "I've started publishing the novel I wrote to promote EA",
+        "slug": "i-ve-started-publishing-the-novel-i-wrote-to-promote-ea",
+        "pageUrl": "https://www.lesswrong.com/posts/ND6isoKN38gdmAM8Q/i-ve-started-publishing-the-novel-i-wrote-to-promote-ea",
+        "postedAt": "2022-12-08T17:30:14.333Z",
+        "baseScore": 10,
+        "wordCount": 137,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "Timothy Underwood",
+          "slug": "timothy-underwood-1"
+        },
+        "tags": [
+          {
+            "_id": "827JKe7YNjAegR468",
+            "name": "Effective altruism",
+            "slug": "effective-altruism"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "827JKe7YNjAegR468": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "Currently I'm just uploading it to Royal Road, but in the next week I'll also post it to the spacebattles forum, and around the start of January I'll publish a copy to Amazon.\u00a0\n\nSo, if you find this project interesting, and use Royal Road, follow it and maybe leave a comment there. Also, if there is a site you use to read and discover fiction that would be appropriate for me to publish this to, tell me, and I'd love to put my novel there.\n\nIf anyone can help in some way to tell people who they think might like a Isekai/portal fantasy novel about an effective altruist trying to do as much good as he can after he died and woke up with super magical powers in a fantasy world, please do so.\u00a0\n\nLink: [https://www.royalroad.com/fiction/61682/the-split-summon/chapter/1058375/chapter-one-arrival](https://www.royalroad.com/fiction/61682/the-split-summon/chapter/1058375/chapter-one-arrival)  \n\u00a0\n\nThanks!"
+        }
+      }
+    }
+  }
+}

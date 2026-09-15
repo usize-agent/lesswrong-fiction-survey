@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "fzHC8QHevyMngzGEg",
+        "title": "Project Lawful Audiobook: An Unofficial Fan Production with ElevenLabs AI",
+        "slug": "project-lawful-audiobook-an-unofficial-fan-production-with",
+        "pageUrl": "https://www.lesswrong.com/posts/fzHC8QHevyMngzGEg/project-lawful-audiobook-an-unofficial-fan-production-with",
+        "postedAt": "2023-07-19T23:34:58.499Z",
+        "baseScore": 23,
+        "wordCount": 57,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "Askwho",
+          "slug": "askwho"
+        },
+        "tags": [
+          {
+            "_id": "vjKs7Pvz3MbgMc75C",
+            "name": "Audio",
+            "slug": "audio"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "vjKs7Pvz3MbgMc75C": 1
+        },
+        "contents": {
+          "markdown": "[Eliezer Yudkowsky's latest fiction work](https://www.projectlawful.com/), (described [here](https://www.lesswrong.com/posts/SA9hDewwsYgnuscae/projectlawful-com-eliezer-s-latest-story-past-1m-words)) co-authored with Lintamande, is now complete save for the epilogue. For those following along, I've been producing an [unaffiliated audiobook](https://askwhocastsai.substack.com/) of \"Project Lawful\" (also known as \"planecrash\"), featuring a full AI cast from ElevenLabs.\u00a0\n\nWe're currently eight episodes into the story, with episode 9 due for release this coming Friday."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Aut78T9pv4pPhdcKe",
+        "title": "A parable in the style of Invisible Cities",
+        "slug": "a-parable-in-the-style-of-invisible-cities",
+        "pageUrl": "https://www.lesswrong.com/posts/Aut78T9pv4pPhdcKe/a-parable-in-the-style-of-invisible-cities",
+        "postedAt": "2019-12-16T15:55:06.072Z",
+        "baseScore": 45,
+        "wordCount": 390,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "Daniel Kokotajlo",
+          "slug": "daniel-kokotajlo"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "ai87fPyyT6mWb4YkT",
+            "name": "Eldritch Analogies",
+            "slug": "eldritch-analogies"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 4,
+          "Ng8Gice9KNkncxqcj": 2,
+          "ai87fPyyT6mWb4YkT": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "Cities & Belief: Goreme\n=======================\n\nThe city of Goreme hides a terrible secret. At first, innocent visitor, you will admire the old bridge over the river, the colorful graffiti on alley walls, and the flags waving prettily in the public square. You will be impressed and humbled by how passionate and well-informed the locals are, and you will sign up to attend one of their protest-rallies.\n\nEventually, however, you will see the demons. A local guide will casually pull one out of his ear and offer it to you, or a dinner party host will unwrap a boxful. Picture it! With supernatural speed the tiny, squirmy yellow creatures clamber up your leg and perch on your shoulder. They whisper to you, and try to enter your ear canal. You wipe them off in disgust, but your local friends assure you the things are harmless\u2014all they do is talk, and they are quite helpful. There are good demons and bad demons, your friends explain, and the good ones help you resist the bad. The bad ones have infected other people in the city\u2014selfish people, hateful people, and also people who just don't know any better. The bad demons want power; they lie and deceive their hosts so that they can multiply and spread to more people. Demons are very persuasive, very clever. This is why the good demons are so helpful, your friends say. The good demons care about humans; they can help you identify bad demons inside other people, and they'll provide facts and arguments to counter enemy misinformation.\n\nDoes this story disturb you, traveller? Are you suspicious of these good demons? Good. You should be. Most visitors to Goreme are, at least at first. Eventually, though, everyone lets at least a few demons into their head. Hard to believe, but I assure you it is true. The demons are very persuasive, especially when all your friends agree with them. All in all, it isn't so bad. The city of Goreme is run by warring tribes of demons, yes, but they run it pretty much just like any other city.\n\nThis brings me back to the beginning: I said that Goreme hides a terrible secret. You are probably thinking the demons are the secret. No. The secret is this: The difference between Goreme and every other city is that in Goreme the demons are visible."
+        }
+      }
+    }
+  }
+}

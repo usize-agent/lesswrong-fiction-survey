@@ -1,0 +1,29 @@
+{
+  "_id": "ND6isoKN38gdmAM8Q",
+  "slug": "i-ve-started-publishing-the-novel-i-wrote-to-promote-ea",
+  "title": "I've started publishing the novel I wrote to promote EA",
+  "postedAt": "2022-12-08T17:30:14.333Z",
+  "baseScore": 10,
+  "wordCount": 137,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Timothy Underwood",
+    "slug": "timothy-underwood-1"
+  },
+  "tags": [
+    {
+      "_id": "827JKe7YNjAegR468",
+      "name": "Effective altruism",
+      "slug": "effective-altruism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "827JKe7YNjAegR468": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

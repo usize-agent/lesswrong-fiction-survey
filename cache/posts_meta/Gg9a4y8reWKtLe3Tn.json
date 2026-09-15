@@ -1,0 +1,47 @@
+{
+  "_id": "Gg9a4y8reWKtLe3Tn",
+  "slug": "the-rocket-alignment-problem",
+  "title": "The Rocket Alignment Problem",
+  "postedAt": "2018-10-04T00:38:58.795Z",
+  "baseScore": 247,
+  "wordCount": 4588,
+  "commentCount": 44,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "RyNWXFjKNcafRKvPh",
+      "name": "Agent Foundations",
+      "slug": "agent-foundations"
+    },
+    {
+      "_id": "NrvXXL3iGjjxu5B7d",
+      "name": "Machine Intelligence Research Institute (MIRI)",
+      "slug": "machine-intelligence-research-institute-miri"
+    },
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "NrvXXL3iGjjxu5B7d": 6,
+    "RyNWXFjKNcafRKvPh": 12,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 16,
+    "yXNtYNHJB54T3bGm3": 3
+  }
+}

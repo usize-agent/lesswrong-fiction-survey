@@ -1,0 +1,53 @@
+{
+  "_id": "gvA4j8pGYG4xtaTkw",
+  "slug": "i-m-from-a-parallel-earth-with-much-higher-coordination-ama",
+  "title": "I'm from a parallel Earth with much higher coordination: AMA",
+  "postedAt": "2021-04-05T22:09:24.033Z",
+  "baseScore": 179,
+  "wordCount": 18225,
+  "commentCount": 35,
+  "user": {
+    "displayName": "Ben Pace",
+    "slug": "benito"
+  },
+  "tags": [
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "YgizoZqa7LEb3LEJn",
+      "name": "AMA",
+      "slug": "ama"
+    },
+    {
+      "_id": "chuP2QqQycjD8qakL",
+      "name": "Coordination / Cooperation",
+      "slug": "coordination-cooperation"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "EmaCLRKb4baBFq4ra": 9,
+    "YgizoZqa7LEb3LEJn": 1,
+    "chuP2QqQycjD8qakL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "xexCWMyds6QLWognu": 2
+  }
+}

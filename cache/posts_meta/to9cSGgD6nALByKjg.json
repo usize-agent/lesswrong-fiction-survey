@@ -1,0 +1,29 @@
+{
+  "_id": "to9cSGgD6nALByKjg",
+  "slug": "my-favorite-depiction-of-utopia",
+  "title": "My favorite depiction of utopia",
+  "postedAt": "2026-06-02T23:15:27.133Z",
+  "baseScore": 227,
+  "wordCount": 9855,
+  "commentCount": 21,
+  "user": {
+    "displayName": "Caleb Biddulph",
+    "slug": "caleb-biddulph"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "t3vNhmcpuGJmbFNvd",
+      "name": "Utopia",
+      "slug": "utopia"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "t3vNhmcpuGJmbFNvd": 2
+  }
+}

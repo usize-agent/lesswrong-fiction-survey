@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "GxYtjKepFwt3DS7th",
+        "title": "RA Bounty: Looking for feedback on screenplay about AI Risk",
+        "slug": "ra-bounty-looking-for-feedback-on-screenplay-about-ai-risk",
+        "pageUrl": "https://www.lesswrong.com/posts/GxYtjKepFwt3DS7th/ra-bounty-looking-for-feedback-on-screenplay-about-ai-risk",
+        "postedAt": "2023-10-26T13:23:02.806Z",
+        "baseScore": 32,
+        "wordCount": 203,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "Writer",
+          "slug": "writer"
+        },
+        "tags": [
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "cCK3fDdH9vHjrf2yP",
+            "name": "Bounties & Prizes (active)",
+            "slug": "bounties-and-prizes-active"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "7mTviCYysGmLqiHai",
+            "name": "Writing (communication method)",
+            "slug": "writing-communication-method"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "7mTviCYysGmLqiHai": 2,
+          "ZFrgTgzwEfStg26JL": 2,
+          "cCK3fDdH9vHjrf2yP": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "[Jamie Wahls](http://jamiewahls.com/) and Arthur Frost are writing a screenplay for Rational Animations. It's a sci-fi episodic comedy illustrating various ways in which AI goes off the rails in more or less catastrophic ways.\u00a0\n\nWe're looking for feedback and offering bounties. This is the current draft: [https://docs.google.com/document/d/1iFZJ8ytS-NAnaoz2UU_QUanAjgdB3SmtvhOt7jiDLeY/edit?usp=sharing](https://docs.google.com/document/d/1iFZJ8ytS-NAnaoz2UU_QUanAjgdB3SmtvhOt7jiDLeY/edit?usp=sharing)  \n  \nWe're offering:\u00a0  \n  \n500 USD if you offer feedback that causes us to rework the story significantly. In this category are changes that would make us rewrite at least two episodes from scratch.\n\n100 USD for changes that make us improve the credibility or entertainment value of the story. In this category, there are changes that make us rewrite one episode or less. There are also changes that would significantly improve the credibility of the story, even if they don't require us to make significant changes or any changes at all. Some insights might impact future episodes but not the current ones if there's anything that's still underspecified, and I'd still like to reward them.\n\n25 USD for any other minor changes we implement due to a piece of feedback. Only grammar doesn't count.\n\nI recognize these conditions are pretty vague. I will err on the side of paying too much as I've been doing on [Bountied Rationality](https://www.facebook.com/groups/1781724435404945)."
+        }
+      }
+    }
+  }
+}

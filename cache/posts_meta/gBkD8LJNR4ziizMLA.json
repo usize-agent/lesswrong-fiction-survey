@@ -1,0 +1,23 @@
+{
+  "_id": "gBkD8LJNR4ziizMLA",
+  "slug": "chapter-12-impulse-control",
+  "title": "Chapter 12: Impulse Control",
+  "postedAt": "2015-03-14T19:00:14.740Z",
+  "baseScore": 55,
+  "wordCount": 3802,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

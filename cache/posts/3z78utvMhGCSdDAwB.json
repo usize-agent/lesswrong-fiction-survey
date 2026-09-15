@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "3z78utvMhGCSdDAwB",
+        "title": "Chapter 99: Roles, Aftermath",
+        "slug": "chapter-99-roles-aftermath",
+        "pageUrl": "https://www.lesswrong.com/posts/3z78utvMhGCSdDAwB/chapter-99-roles-aftermath",
+        "postedAt": "2015-03-14T19:00:56.252Z",
+        "baseScore": 22,
+        "wordCount": 13,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "Ten days later, the first dead unicorn was found in the Forbidden Forest."
+        }
+      }
+    }
+  }
+}

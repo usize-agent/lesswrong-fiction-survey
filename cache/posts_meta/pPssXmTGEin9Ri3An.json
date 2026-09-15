@@ -1,0 +1,41 @@
+{
+  "_id": "pPssXmTGEin9Ri3An",
+  "slug": "hell-must-be-destroyed",
+  "title": "Hell Must Be Destroyed",
+  "postedAt": "2018-12-06T04:11:19.417Z",
+  "baseScore": 33,
+  "wordCount": 1270,
+  "commentCount": 1,
+  "user": {
+    "displayName": "algekalipso",
+    "slug": "algekalipso"
+  },
+  "tags": [
+    {
+      "_id": "LaDu5bKDpe8LxaR7C",
+      "name": "Suffering",
+      "slug": "suffering"
+    },
+    {
+      "_id": "ZTRNmvQGgoYiymYnq",
+      "name": "Consequentialism",
+      "slug": "consequentialism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8e9e8fzXuW5gGBS3F",
+      "name": "Qualia",
+      "slug": "qualia"
+    }
+  ],
+  "tagRelevance": {
+    "8e9e8fzXuW5gGBS3F": 1,
+    "LaDu5bKDpe8LxaR7C": 3,
+    "ZTRNmvQGgoYiymYnq": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "8GBBkJKbGzGb46onj",
+  "slug": "leo-in-me",
+  "title": "Leo in me",
+  "postedAt": "2026-01-09T15:55:35.842Z",
+  "baseScore": -1,
+  "wordCount": 376,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Rudaiba",
+    "slug": "rudaiba"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb0d6",
+      "name": "Cached Thoughts",
+      "slug": "cached-thoughts"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb0d6": 1
+  }
+}

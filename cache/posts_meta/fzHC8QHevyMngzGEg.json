@@ -1,0 +1,29 @@
+{
+  "_id": "fzHC8QHevyMngzGEg",
+  "slug": "project-lawful-audiobook-an-unofficial-fan-production-with",
+  "title": "Project Lawful Audiobook: An Unofficial Fan Production with ElevenLabs AI",
+  "postedAt": "2023-07-19T23:34:58.499Z",
+  "baseScore": 23,
+  "wordCount": 57,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Askwho",
+    "slug": "askwho"
+  },
+  "tags": [
+    {
+      "_id": "vjKs7Pvz3MbgMc75C",
+      "name": "Audio",
+      "slug": "audio"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "vjKs7Pvz3MbgMc75C": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "erWyjLzHSAMKspd24",
+  "slug": "the-platonist-s-dilemma-a-remix-on-the-prisoner-s",
+  "title": "The Platonist\u2019s Dilemma: A Remix on the Prisoner's.",
+  "postedAt": "2022-04-12T03:49:42.695Z",
+  "baseScore": 7,
+  "wordCount": 1415,
+  "commentCount": 2,
+  "user": {
+    "displayName": "programjames",
+    "slug": "programjames"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "oEHrEomaEagQr5TW8",
+      "name": "Prisoner's Dilemma",
+      "slug": "prisoner-s-dilemma"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 3,
+    "etDohXtBrXd8WqCtR": 3,
+    "oEHrEomaEagQr5TW8": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "_id": "mw5NrNJkPKx7SQbXB",
+  "slug": "the-artificial-man",
+  "title": "The Artificial Man",
+  "postedAt": "2026-01-23T19:55:18.921Z",
+  "baseScore": 1,
+  "wordCount": 739,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jack Bradshaw",
+    "slug": "jack-bradshaw"
+  },
+  "tags": [
+    {
+      "_id": "7jaBCxPHRDfJppYws",
+      "name": "AI Sentience",
+      "slug": "ai-sentience"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "22z6XpWKqw3bNv4oR",
+      "name": "Simulation Hypothesis",
+      "slug": "simulation-hypothesis"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "22z6XpWKqw3bNv4oR": 1,
+    "7jaBCxPHRDfJppYws": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

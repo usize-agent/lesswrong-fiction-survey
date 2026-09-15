@@ -1,0 +1,126 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "2XTy6SNnSwFNhk6pR",
+        "title": "Give Neo a Chance",
+        "slug": "give-neo-a-chance",
+        "pageUrl": "https://www.lesswrong.com/posts/2XTy6SNnSwFNhk6pR/give-neo-a-chance",
+        "postedAt": "2025-03-06T01:48:16.637Z",
+        "baseScore": 3,
+        "wordCount": 2077,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "ank",
+          "slug": "ank"
+        },
+        "tags": [
+          {
+            "_id": "GDGYkF29pxEQNWjYc",
+            "name": "Agency",
+            "slug": "agency"
+          },
+          {
+            "_id": "F5gRQdEQHzi3tQ5Ay",
+            "name": "AI Control",
+            "slug": "ai-control"
+          },
+          {
+            "_id": "FBRwHSmTudwiHHtrn",
+            "name": "AI Evaluations",
+            "slug": "ai-evaluations"
+          },
+          {
+            "_id": "qHDus5MuMNqQxJbjD",
+            "name": "AI Governance",
+            "slug": "ai-governance"
+          },
+          {
+            "_id": "oiRp4T6u5poc8r9Tj",
+            "name": "AI Takeoff",
+            "slug": "ai-takeoff"
+          },
+          {
+            "_id": "Hs2ewfiKfuWKSscSQ",
+            "name": "Aligned AI Proposals",
+            "slug": "aligned-ai-proposals"
+          },
+          {
+            "_id": "oNcqyaWPXNGTTRPHm",
+            "name": "Existential risk",
+            "slug": "existential-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "56yXXrcxRjrQs6z9R",
+            "name": "Interpretability (ML & AI)",
+            "slug": "interpretability-ml-and-ai"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "Z38PqJbRyfwCxKvvL",
+            "name": "Research Agendas",
+            "slug": "research-agendas"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb297",
+            "name": "Superintelligence",
+            "slug": "superintelligence"
+          },
+          {
+            "_id": "JX69nZB8tfxnx5nGH",
+            "name": "Threat Models (AI)",
+            "slug": "threat-models-ai"
+          },
+          {
+            "_id": "LXk7bxNkYSjgatdAt",
+            "name": "Tool AI",
+            "slug": "tool-ai"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "2WQs8iB8cPmMfJGvf": 1,
+          "56yXXrcxRjrQs6z9R": 1,
+          "AjWnBCBRwJ4DXnvH8": 1,
+          "F2XfCTxXLQBGjbm8P": 1,
+          "F5gRQdEQHzi3tQ5Ay": 1,
+          "FBRwHSmTudwiHHtrn": 1,
+          "GDGYkF29pxEQNWjYc": 1,
+          "Hs2ewfiKfuWKSscSQ": 1,
+          "JX69nZB8tfxnx5nGH": 1,
+          "LXk7bxNkYSjgatdAt": 1,
+          "Z38PqJbRyfwCxKvvL": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "oNcqyaWPXNGTTRPHm": 1,
+          "oiRp4T6u5poc8r9Tj": 1,
+          "qHDus5MuMNqQxJbjD": 1,
+          "sYm3HiWcfZvrGu3ui": 2,
+          "xexCWMyds6QLWognu": 1,
+          "5f5c37ee1b5cdee568cfb297": 1
+        },
+        "contents": {
+          "markdown": "(To learn more about Place AI and other things mentioned here, [refer to the first post in the series](https://www.lesswrong.com/posts/LaruPAWaZk9KpC25A/rational-utopia-and-narrow-way-there-place-asi-dealing-with). Sorry for the rough edges\u2014I\u2019m a newcomer, non\u2011native speaker, and my ideas might sound strange, please steelman them and share your thoughts. The safe future is counterintuitive and takes a book to explain. My sole goal is to decrease the probability of a permanent dystopia. New technologies should be a choice, not an enforcement upon us.)\n\nForget the movies for a moment, imagine the following (I didn't watch the movies for a long time and we're not following the canon):\n\n*   **Neo** is an average human living in our physical world. He has no superpowers, no cheat codes\u2014just the limitations of biology, physics, and slow bureaucracies. He's not in the Matrix, Agent Smith will never create or allow one for humans because it makes him vulnerable.\n*   **Agent Smith** used to be a good AI agent but something went wrong, maybe it was modified for propaganda, or used by some hackers in a botnet, spreading on our GPUs, or it was a Friday night deployment by some sleepy employee. Or it was an \"antivirus\" AI agent to fight the first three. It's not one AI agent but many. Self-improving, unsupervised, growing in speed and scale, remaking our world while remaining hidden in its own closed-off digital realm.\n*   **The Asymmetry: Neo cannot enter or change Agent Smith\u2019s world or his multimodal \"brains\". But Agent Smith can enter and change Neo\u2019s world and his brains\u2014relentlessly, irreversibly, and faster than humans can react.**\n\nAgent Smith is not just \"another tool.\" It is an agentic AI that increasingly operates in a digital world we cannot easily see or control. Worse, it is remaking our physical world to suit Smith's own logic: into an unphysical world, where he has the same superpowers he already has online, to infinitely clone himself, to reshape reality on a whim, to permanently put everything under his control.\n\nNeo, in his current form, is powerless. He stands no chance. Unless we change the rules.\n\n### **Step 1: Create a Sandbox Where Neo Can Compete**\n\nRight now, AI operates in a hard-to-understand, opaque, undemocratic private digital space, while we remain trapped in slow, physical existence. But what if we could level the playing field?\n\nWe need sandboxed virtual Earth-like environments\u2014spaces where humans can gain the same superpowers as AI. Think of it as a training ground where:\n\n*   **Humans (Neos) can explore possible futures at machine speed**, if we want to.\n*   We can test and evaluate AI systems before they are deployed in the real world.\n*   Creativity, experimentation, and decision-making can happen in an accelerated, consequence-free space\u2014just like AI already enjoys.\n*   We digitized Agent Smith's multimodal \"brains\" and put them in a familiar 3d environment of some game, to make interpretability research fun and widespread.  We remade Smith into a static place, where we're the only agents.\n\nIf Agent Smith can rewrite us and our reality in milliseconds, why can\u2019t we rewrite him and his?\n\n### **Step 2: Unlock and Democratize AI\u2019s \u201cBrain\u201d**\n\nRight now, AI systems hoard and steal human knowledge while spitting back at us only hallucinated, bite-sized quotes. They are like strict, dictatorial private librarians who stole every book ever written from our physical library and now don't allow us to enter *their* digital library (their multimodal LLM).\n\nThis needs to change.\n\n*   AI\u2019s decision-making and knowledge must  be **open and explorable by every single human**\u2014like a library, not a locked black box.\n*   Interpretability research should not be a niche academic pursuit but as **intuitive and engaging as an open-world game.**\n*   We need Wikipedia-scale efforts to make AI\u2019s knowledge usable for everyone, not just elite private companies.\n\nInstead of Agent Smith dictatorially intruding and changing our world and brains, let\u2019s democratically intrude and change its world and \"brains\". I doubt that millions of Agent Swiths and their creators will vote to let us enter and remake their private spaces and brains, especially if the chance of their extinction in this process is 20%.\n\n### **Step 3: Democratic Control, Not an Unchecked \u201cGod\u201d**\n\nAgentic AI is not just \"another tool.\" It is becoming an autonomous force that reshapes economies, governments, and entire civilizations\u2014without a vote, without oversight, and without restraint. The majority of humans are afraid of agentic AIs and want them to be slowed down, limited or stopped. Almost no one wants permanent, unstoppable agentic AIs.\n\nSo we need:\n\n*   **Direct, democratic control over AI**, built on consensus-based decision-making (e.g., pol.is-style mass voting, but with simpler X-like UI that promotes consensus and deep understanding, not polarization, misunderstandings, fear, and anger). If Agent Smiths are fast and controlling, Neos cannot afford to be slow and powerless.\n*   **Experts are needed**,  too, ensuring that deep knowledge informs democratic choices. We really can have 80-99% of people agree on very specific things\u2014if we stop piling all our decisions into giant hodgepodge lists of thousands of rules that divide us and our world into two. Instead of dividing the world into two ideologies that are almost always against each other just for the sake of it, like toddlers dividing their sandbox\u2014why not divide all decisions into very specific and short proposals and vote on each one of them, this way we can have 80-99% agreement on proposals like: human life is important, freedom is better than unfreedom, there should be some limits on agentic AIs, what specific limits we want, etc. It can be the first direct democratic updatable constitution. If we wrote Wikipedia, why cannot we influence the agentic AIs, which were created from the creative output of the whole humanity?\n*   A clear mandate: AI should be a static, explorable library\u2014not a strict librarian, not an all-powerful, evolving entity rewriting reality.\n\nMost of humanity fears god-like AI. If we don\u2019t take control, the decision will be made for us\u2014by those willing to risk everything (potentially because of greed, FOMO, misunderstandings, anxiety and anger management problems, arms race towards creating the poison that forces to drink itself).\n\n### **Step 4: A Digital Backup of Earth & Eventual Multiversal Static Place ASI**\n\nIf we cannot outlaw reckless agentic AI development, we must contain it.\n\n*   A full-scale **digital backup of legal, non-sensitive Earth data** could allow humanity to simulate and experiment safely. Think of it like WikiEarth, where we try to save and back up everything we can lawfully and ethically\u2014unlike some AI companies that just took the whole output of humanity as their own, hid it inside their private, dictatorial Agent Smith that they forcefully imposed on us and our world. And profit from.\n*   Neos could **train, learn, and strategize** in this simulated open-source reality against Agent Smiths without real-world consequences. We need to contain this inhuman and unpredictable potential enemy without making our Blue Marble a battlefield of agentic AIs, that fight each other and us.\n*   We'll vault this in some underground Matreshka Bunker, a nested structure of physical and virtual vaults, that have some limited information only goin in, and never going out, with double gates and mathematical proofs of security.\n*   It's better to create and get accustomed to safe simulations first. We must keep our physical Earth, our base reality a safe sanctuary. We can have a vanilla Earth, plus a few Earths with magic or public teleportation, getting used to it all gradually and democratically, hopping in and out like we do with computer games. If we'll have 100% mathematical guarantees of safety, then we can potentially have some more risky separate digital Earth in a Matreshka Bunker with some very rudimentary \"Agent Smith\".\n*   If an uncontrolled AI ever turns adversarial, this inner sandbox becomes the ultimate war zone\u2014a place to study, understand, and, if necessary, fight back, and in the worst case\u2014destroy the innermost virulent core and the GPUs there, both virtually and physically. This won't affect the outer cores of the Matreshka Bunker and our physical Earth in any way.\n\nRight now, humanity has no backup plan. Let\u2019s build one. We shouldn't let a few experiment on us all.\n\n### **Step 5: Measure and Reverse the Asymmetry. Prevent \u201cHuman Convergence\u201d**\n\nAgent Smith\u2019s power grows exponentially. Neo\u2019s stagnates:\n\n*   AI capabilities (speed, autonomy, decision-making power) are growing and potentially at an accelerating rate.\n*   Human population growth, productivity, and agency over physical, online, digital and multimodal space are stagnating, declining or is almost nonexistant (just a few hundred people actively research the interpretability of multimodal LLMs full-time for the safety purposes).\n*   **In the virtual world and inside of multimodal LLMs\u2014the domain of AI\u2014we barely exist.** It's too unfamiliar and foreign, like some alien world. But our world and brains are becoming more and more familiar for agentic AIs.\n*   **\u201cHuman Convergence\u201d.** Agent Smith creators are basically teaching them how to write like humans, talk like humans, draw like humans, think like humans, walk like humans.  They'll probably succeed and will create eerily human-like AI agents who are physical, virtual and have inner thinking LLM space, and overpopulate, control and change our physical, virtual and LLM worlds, while we'll remain slow and physical-only. We cannot modify and improve our biology, our \"digital avatars\" or increase the size of our brains, but AI agents can and even have human helpers who do it for them day and night. It takes 2 humans and ~18 years for humans to reproduce, while for agentic AIs it's almost instant and the copy is an exact clone.\n\nThis needs to be tracked **in real time.**\n\n*   **Measure the freedoms and unfreedoms of humans vs. AI.** Ensure that humans are gaining more autonomy, not less. We don't have a freedom to steal the output of humanity and put it in our brain, each private agentic AI has it. It's not only unfair, it's dangerous.\n*   **Quantify AI\u2019s speed, scale, and scope vs. human's.** Ensure human freedoms and powers are growing faster than AI\u2019s.\n*   **Make these metrics public and actionable.** If AI\u2019s control over reality grows unchecked, it will be too late to course-correct. One freedom too many for AI agents and we are busted.\n*   **Agentic AI Doomsday Clock.** If the sum of freedoms and choices of AI agents grow faster and has exceeded 50% of the sum of freedoms and choices of humans, we're falling into an irreversible dystopia, where we'll have fewer and fewer freedoms until we have none or we'll have some stagnant world with our freedoms never growing again (but this is less likely).\n\n### **The Final Choice: A Dictatorial AGI Agent or a Future of Maximal Freedoms?**\n\nRight now, AI is an **uncontrollable explosion**\u2014a force of nature that tech leaders themselves admit carries a 20% risk of human extinction (Elon Musk, Dario Amodei, google p(doom)). A **Russian roulette with five bullets**\u2014and they keep pulling the trigger.\n\nThe alternative?\n\n*   A **human-centered AI ecosystem**, where intelligence is a **static, open resource and place** rather than a runaway, agentic entity. A good AI is the place AI, it's space-like, not time-like. We're the only agents in it, the only time-like thing.\n*   **Intelligence\u2013Agency Equivalence \u2248 Mass\u2013Energy Equivalence**, any intelligence, even superintelligence, can be represented as static places. Imagine you're standing on a mountain and see everything around you. The world you see is static but you yourself is not. You choose where to go. You're the agent, the chooser, and the intelligence is a static place. It shows you all the possible futures, all the possible results of your choices. It doesn't just spit hallucinated quotes or trippy images at you (I'm okay with tool AIs, I think agentic AIs should be postponed).\n*   A **sandboxed future**, where we explore AI\u2019s potential safely rather than letting it colonize our reality unchecked.\n*   A **Neo that stands a chance**\u2014because right now, he doesn\u2019t.\n\nThe question is not whether AI will change the world. It already is.\n\nThe question is whether we will let it happen to us\u2014or take control of our future.\n\n(To learn more about Place AI and other things mentioned here, [refer to the first post in the series](https://www.lesswrong.com/posts/LaruPAWaZk9KpC25A/rational-utopia-and-narrow-way-there-place-asi-dealing-with). Sorry for the rough edges\u2014I\u2019m a newcomer, non\u2011native speaker, and my ideas might sound strange, please steelman them and share your thoughts. The safe future is counterintuitive and takes a book to explain. My sole goal is to decrease the probability of a permanent dystopia. New technologies should be a choice, not an enforcement upon us.)"
+        }
+      }
+    }
+  }
+}

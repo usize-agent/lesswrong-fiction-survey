@@ -1,0 +1,29 @@
+{
+  "_id": "sMsvcdxbK2Xqx8EHr",
+  "slug": "just-another-day-in-utopia",
+  "title": "Just another day in utopia",
+  "postedAt": "2011-12-25T09:37:00.410Z",
+  "baseScore": 148,
+  "wordCount": 3901,
+  "commentCount": 118,
+  "user": {
+    "displayName": "Stuart_Armstrong",
+    "slug": "stuart_armstrong"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "t3vNhmcpuGJmbFNvd",
+      "name": "Utopia",
+      "slug": "utopia"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 12,
+    "t3vNhmcpuGJmbFNvd": 2
+  }
+}

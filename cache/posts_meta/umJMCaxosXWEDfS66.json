@@ -1,0 +1,41 @@
+{
+  "_id": "umJMCaxosXWEDfS66",
+  "slug": "moral-reality-check-a-short-story",
+  "title": "Moral Reality Check (a short story)",
+  "postedAt": "2023-11-26T05:03:18.254Z",
+  "baseScore": 155,
+  "wordCount": 6254,
+  "commentCount": 45,
+  "user": {
+    "displayName": "jessicata",
+    "slug": "jessica-liu-taylor"
+  },
+  "tags": [
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "oooqkNGqAHPGsfgdA",
+      "name": "Metaethics",
+      "slug": "metaethics-1"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "oooqkNGqAHPGsfgdA": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

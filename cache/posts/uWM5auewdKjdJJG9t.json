@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "uWM5auewdKjdJJG9t",
+        "title": "The Book of HPMOR Fanfics",
+        "slug": "the-book-of-hpmor-fanfics",
+        "pageUrl": "https://www.lesswrong.com/posts/uWM5auewdKjdJJG9t/the-book-of-hpmor-fanfics",
+        "postedAt": "2020-07-03T13:32:17.536Z",
+        "baseScore": 44,
+        "wordCount": 221,
+        "commentCount": 18,
+        "noIndex": false,
+        "user": {
+          "displayName": "Mati_Roy",
+          "slug": "mathieuroy"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "yrg267i4a8EsgYAXp",
+            "name": "HPMOR (discussion & meta)",
+            "slug": "hpmor-discussion-and-meta"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 11,
+          "yrg267i4a8EsgYAXp": 7
+        },
+        "contents": {
+          "markdown": "One of my friends made a compilation of fanfics of Harry Potter and the Methods of Rationality. Ze gave me the okay to share zir work anonymously.\n\nIt has 91 stories (96 in the table of content, but 5 are missing), 12,244 pages, and 3'384'120 words \"written by many exceptional muggles\".\u00a0\n\nThere's a .PDF, .mobi, and .epub version of the compilation. I'm hosting all of those files, including a .jpg and .svg of the image below, in this [Google Drive folder](https://drive.google.com/drive/folders/1k2a3Z__KySvZ7HDjMt2za_TGNR4F76mO).\n\nI invite y'all to share your reviews and favorite HPMOR fanfic below.\n\nFrom the Preface:  \n> This book is a compilation of all the\u00a0[Harry Potter and the Methods of Rationality](http://www.hpmor.com/)\u00a0(HPMOR) fanfanfictions, metafanfictions, second-level fanfictions, recursive fanfictions, crossover-fanfictions, forked-fanfictions, fanfanfanfictions, or alternate endings I could find.\n\n>\u00a0Let's be clear at once that I do not own Harry Potter, HPMOR, its arborescence of derivatives fictions, scientific breakthroughs, or esoteric whispers, duh. All credit for the stories assembled into this book goes to their respective authors. Blessed be their horcruxes.\n\n>\u00a0The stories are ordered somewhat chronologically according to the HPMOR universe, such that reading through them in their suggested order should ensure at least some amount of cross-fic coherence.\n\n>\u00a0For a better reading experience, refer to Zedzed9's\u00a0[HPMoR Fic Tree](https://harrypotterfanon.fandom.com/wiki/Main_Page?file=HPMoR+Fic+Tree.svg), where stories set in universes descended from\u00a0[Lesswrong](http://www.lesswrong.com/)'s Harry Potter and the Methods of Rationality are arranged as a cladogram.\n\n>\u00a0Happy Reading!\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/0b125f7f7351a63d68e2d3a2266ccee8d2ac30e7a6cd2c45.jpg)"
+        }
+      }
+    }
+  }
+}

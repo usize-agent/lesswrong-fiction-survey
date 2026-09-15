@@ -1,0 +1,23 @@
+{
+  "_id": "3uzgSsQgrFDGxJnBC",
+  "slug": "if-a-lioness-could-speak",
+  "title": "If a Lioness Could Speak",
+  "postedAt": "2025-10-12T03:43:44.116Z",
+  "baseScore": -1,
+  "wordCount": 717,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Taylor G. Lunt",
+    "slug": "taylor-g-lunt"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_id": "mXzgtnx587sA2ynzS",
+  "slug": "forcing-freedom",
+  "title": "Forcing Freedom",
+  "postedAt": "2020-10-06T18:15:13.596Z",
+  "baseScore": 44,
+  "wordCount": 2185,
+  "commentCount": 12,
+  "user": {
+    "displayName": "vlad.proex",
+    "slug": "vlad-proex"
+  },
+  "tags": [
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "HhQvdfkcWpb6S2Ap2",
+      "name": "Slavery",
+      "slug": "slavery"
+    },
+    {
+      "_id": "GDGYkF29pxEQNWjYc",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Zs4nYLkNr7Rbo4mAP",
+      "name": "Utilitarianism",
+      "slug": "utilitarianism"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "GDGYkF29pxEQNWjYc": 1,
+    "HhQvdfkcWpb6S2Ap2": 2,
+    "Zs4nYLkNr7Rbo4mAP": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "nSHiKwWyMZFdZg5qt": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

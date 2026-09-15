@@ -1,0 +1,23 @@
+{
+  "_id": "RWavpsyDJxffS6LgG",
+  "slug": "demon-safety",
+  "title": "Demon Safety",
+  "postedAt": "2026-08-12T11:55:05.006Z",
+  "baseScore": 53,
+  "wordCount": 257,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Ben Pace",
+    "slug": "benito"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

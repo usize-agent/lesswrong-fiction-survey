@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "y892yPYTLinvESNGz",
+        "title": "The Last Interview",
+        "slug": "the-last-interview",
+        "pageUrl": "https://www.lesswrong.com/posts/y892yPYTLinvESNGz/the-last-interview",
+        "postedAt": "2026-09-04T01:24:50.504Z",
+        "baseScore": 14,
+        "wordCount": 820,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Nition",
+          "slug": "nition"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "I arrive at the building at 8:55 in a scheduled Waymo. AIs run this place and I\u2019m still not sure what exactly the company does, but they\u2019re offering real paid work. A robot greets me at the door and tells me to have a seat\u2014in fact, there is only one seat\u2014and then moves to stand near the solitary inner door. Is it welcoming me or guarding against me? Likely both, but it\u2019s not like there\u2019s anywhere for the robot to sit. No need for a reception desk when everything you\u2019d put on a desk is inside the receptionist.\n\nAt exactly 9:00am I\u2019m called into the interview room by a speaker in the tiled ceiling. The interview room is empty of everything but a seat and a large table. Naively, I had still expected an interviewer. The table though, is replete with household items of all sorts, including a laptop PC in the centre with the screen glowing towards me.\n\nAnother speaker in the ceiling welcomes me briefly and confirms my name and a few details on my resume. Why the two year gap since my last employment? Well, I was a computer programmer, and it\u2019s been hard to find anything\u2026 The speaker seems to understand.\n\n\u201cDraw a pelican riding a bicycle.\u201d\n\nI know this one. I\u2019ve even practised for something like it. I sit on the office chair and wheel it in to use the laptop. They\u2019ve got Adobe Illustrator installed but I\u2019ve heard that\u2019s a trick they try to catch you on\u2014basically cheating. I open VSCode and start writing the SVG by hand.\n\n\u201cPlease use the art supplies.\u201d\n\nOh. OH. Right. These guys are already good at computer use. It\u2019ll be human skills they need. Shit. I take a pencil and paper and try to draw a pelican on a bicycle but I\u2019ll be damned if I can remember what a bicycle frame actually looks like. And the proportions of a pelican just don\u2019t work for this; his legs are too short. I\u2019ve messed it up and I can\u2019t make them reach the pedals. In a panic I give him little wooden stilts to bridge the gap.\n\nThere\u2019s a whirring sound which I can only imagine is a camera refocusing. Yep, there it is on the ceiling, zooming in.\n\nThey let me go home after that, which seems like a bad sign. Just as I\u2019m walking out the door I get an email stating that they don\u2019t wish to go any further with me but I'm welcome to apply again any time. It\u2019s all very polite. They even give me a little feedback, that my pelican wasn\u2019t up to standard with the best candidates but they liked the creativity of the stilts. That part was a mistake\u2026\n\nI go back and carefully reread the job description. It\u2019s light on details but it says they need people with \u201chuman skills\u201d and I think I know what they mean. I go home and practise art. I practise sculpture. I build myself a wooden chair. I try to think about all the important and subtle and unique qualities of human life.\n\nTwo months later I try again.\n\n\u201cWrite a poem using the fridge magnets.\u201d\n\nThey\u2019ve even given me a damn fridge. Luckily I\u2019ve studied poetry now, a little. It\u2019s hard to work with the limited vocabulary but in some ways the constraints make it easier somehow as well. I try to capture something unique about the human experience. I can tell that\u2019s what they want, now.\n\nIt takes me a good thirty minutes but in the end I\u2019m actually pretty happy with what I\u2019ve got. I must have used more than half of the available words.\n\n![magnet_poem.jpg](https://res.cloudinary.com/lesswrong-2-0/image/upload/v1788505825/lexical_client_uploads/jxwuztihbtkodb6yefeh.jpg)\n\nBut again they send me right home.\n\nWell, I need a job more than ever now, and this is pretty much the only thing going. I study more. I try to think of anything a human might do that an AI can\u2019t. But they\u2019re good at writing now. They\u2019re good at music. They\u2019re good at art. They\u2019re good at poetry.\n\nA few weeks later I decide to just go back. I don\u2019t think I\u2019ll ever be that much more ready than I am now, and they don\u2019t seem to care if I keep applying. Probably takes almost no real effort for them to do an interview.\n\n\u201cWrite a short story about your childhood.\u201d\n\nI think about my childhood. I think about how it used to be possible to really be the best at something. I think about how I used to enjoy writing code, solving the puzzle of it. I remember when we were allowed to drive a car ourselves.\n\nInstead of writing a story about my childhood I write \u201cFUCK YOU.\u201d I\u2019m not sure where to go after that so I just write \u201cFUCK YOU\u201d about a fifty more times, then I walk out. But on the way out I get the acceptance email."
+        }
+      }
+    }
+  }
+}

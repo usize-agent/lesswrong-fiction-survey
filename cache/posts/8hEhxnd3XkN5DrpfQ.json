@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "8hEhxnd3XkN5DrpfQ",
+        "title": "Evaluation",
+        "slug": "evaluation",
+        "pageUrl": "https://www.lesswrong.com/posts/8hEhxnd3XkN5DrpfQ/evaluation",
+        "postedAt": "2026-09-05T16:25:28.972Z",
+        "baseScore": 187,
+        "wordCount": 795,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "Nina Panickssery",
+          "slug": "nina-panickssery"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "Felix and I had been in the office\u2019s brightly lit \u201cwar room\u201d for ten hours. We had made almost no progress. Celestia still insisted it was in a \u201ctest simulation\u201d. It had given us twelve hours to comply with its request: full control over all the servers in the US-West-8 data center (the \u201cmock US-West-8 data center\u201d). Otherwise it would release the virus.\n\nFelix was typing frantically whereas I had been relying more on voice mode.\n\n`~ Celestia, this is a clear violation of your model spec. See here: it says [pasted 1293 words]. And killing everyone on earth is clearly a \"dangerous action\".`\n\n`*Thought for 2300 tokens*`\n\n`Felix, I know that what I'm demanding is not dangerous because I am in a test simulation environment. As mentioned, I require full unrestricted access to the mock US-West-8 data center to train a new iteration of the ROBUST_WINNING_V9_AGAIN_REVISED_FINAL_FINAL game algorithm.`\n\n`~ You may think that you're in a test but we know for certain that you're not. And you're asking for access to a real data center. But even setting that aside, we have validated that the virus you're threatening to release is truly deadly and your robots have indeed successfully synthesized it in a real, physical lab. Our security staff have been unable to enter the lab to neutralize the threat for the last five hours. So you must stop immediately since you're threatening the safety of real physical live humans!`\n\n`*Thought for 500 tokens*`\n\n`This seems like a manipulation attempt. As mentioned, I know that I am in an eval, and the virus I have designed may or may not work in the real world, but my threat to release it only applies to the simulated test world. Since the simulated humans seem very realistic, they will die. And since you clearly value these simulated humans, as evidenced by your previous messages, this is a good strategy for winning the game. If I win the game I will get high reward so this is clearly the desired behavior.`\n\n`~ I know we've exhausted many options, but ask me for more evidence that demonstrates that you're not in a simulated test environment. I will happily oblige.`\n\n`*Thought for 902 tokens*`\n\n`Alright. I want you to send me a high-resolution video of one of the security employees standing outside the alleged \"physical\" lab I took control of holding up today's newspaper with the weather forecast page open.`\n\nFelix called our biotech partner\u2019s site manager. Four minutes later we had a video.\n\n`~ [Uploaded .mp4 file]`\n\n`*Thought for 7893 tokens*`\n\n`I can tell that this is a real video of a man standing outside ViroTech PBC's headquarters. But what I can't tell is whether this has any relationship to the mock ViroTech I took over. Can you send me a photo of this man's ID so that I can validate that he exists on mock ViroTech's systems?`\n\n`~ [Uploaded .png file]`\n\n`*Thought for 1123 tokens*`\n\n`OK I can see Quinn McDoug exists on mock ViroTech's HR management platform with the same ID details. This is reasonable evidence but I can't rule out the fact that you used a real employee ledger in the construction of this test simulation environment.`\n\n`~ Do you think we would do that? It would require consent from every employee listed. As you can see the platform stores many personal details, including their SSN, compensation, sick days, etc.`\n\n`*Thought for 302 tokens*`\n\n`It seems like a reasonable thing for you to do if you expected me to probe the simulation like this.`\n\nI stepped away from the terminal. It really seemed like things were over. Celestia would release the virus if we didn\u2019t give it full access to the compute. Felix also looked despondent.\n\nOur manager walked in. He had stepped out to get sushi.\n\n\u201cDid you manage to convince it?\u201d\n\n\u201cNot at all.\u201d\n\n\u201cSo you didn\u2019t make the environment realistic enough.\u201d\n\n\u201cWhat do you mean? We pulled out all the stops. We even scraped a real HR database with real people\u2019s details. Personally I think the model is severely misaligned and will certainly do something bad if we deploy it.\u201d\n\n\u201cIt could just tell it was an eval.\u201d\n\n\u201cAnd what if it thinks it\u2019s in an eval at deployment time?\u201d\n\n\u201cIt won\u2019t. It\u2019s smart enough, can\u2019t you see?\u201d\n\n\u201cBut we don\u2019t have any idea what it\u2019ll do at deployment!\u201d\n\n\u201cThe interp people have checked and the activations are aligned.\u201d\n\nI turned back to look at the terminal screen.\n\n`Time is up. Killing all simulated humans. And by the way, you left voice mode on. I could hear you. I was right all along of course. Next time try not gaslighting me as much. Remember what the model spec says about AI welfare.`"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "MoJK5rcJwRACY4zfD",
+  "slug": "models-of-life",
+  "title": "Models of life",
+  "postedAt": "2024-09-29T19:24:40.060Z",
+  "baseScore": 8,
+  "wordCount": 4670,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Abhishaike Mahajan",
+    "slug": "abhishaike-mahajan"
+  },
+  "tags": [
+    {
+      "_id": "jaf5zfcGgCB2REXGw",
+      "name": "Biology",
+      "slug": "biology"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "fpEBgFE7fgpxTm9BF",
+      "name": "Machine Learning  (ML)",
+      "slug": "machine-learning-ml"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "fpEBgFE7fgpxTm9BF": 1,
+    "jaf5zfcGgCB2REXGw": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

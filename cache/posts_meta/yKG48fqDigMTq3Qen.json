@@ -1,0 +1,35 @@
+{
+  "_id": "yKG48fqDigMTq3Qen",
+  "slug": "open-brains",
+  "title": "Open Brains",
+  "postedAt": "2023-04-19T07:35:59.243Z",
+  "baseScore": 7,
+  "wordCount": 1807,
+  "commentCount": 0,
+  "user": {
+    "displayName": "George3d6",
+    "slug": "george3d6"
+  },
+  "tags": [
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "pGqRLe9bFDX2G2kXY": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

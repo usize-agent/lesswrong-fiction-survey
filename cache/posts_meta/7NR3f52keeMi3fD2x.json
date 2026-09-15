@@ -1,0 +1,30 @@
+{
+  "_id": "7NR3f52keeMi3fD2x",
+  "slug": "aidungeon-3-1",
+  "title": "AIDungeon 3.1",
+  "postedAt": "2021-03-01T05:56:34.795Z",
+  "baseScore": 2,
+  "wordCount": 558,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Yair Halberstadt",
+    "slug": "yair-halberstadt"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "SJsXpuovvmkEqoJAJ": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

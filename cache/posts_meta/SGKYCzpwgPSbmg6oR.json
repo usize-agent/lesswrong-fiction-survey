@@ -1,0 +1,35 @@
+{
+  "_id": "SGKYCzpwgPSbmg6oR",
+  "slug": "old-man-s-story",
+  "title": "Old man's story",
+  "postedAt": "2023-12-29T14:37:48.006Z",
+  "baseScore": 3,
+  "wordCount": 340,
+  "commentCount": 0,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "2gWs8SScqeDFidqyv",
+  "slug": "the-logician-and-the-god-emperor",
+  "title": "The Logician And The God-Emperor",
+  "postedAt": "2013-12-05T01:54:07.000Z",
+  "baseScore": 62,
+  "wordCount": 283,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2
+  }
+}

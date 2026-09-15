@@ -1,0 +1,35 @@
+{
+  "_id": "wd6cug64wsMnPc2eg",
+  "slug": "the-most-important-step",
+  "title": "The most important step",
+  "postedAt": "2018-03-24T12:34:01.643Z",
+  "baseScore": 19,
+  "wordCount": 397,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Jsevillamol",
+    "slug": "jsevillamol"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8uNFGxejo5hykCEez",
+      "name": "Virtues",
+      "slug": "virtues"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "8uNFGxejo5hykCEez": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Eu8r7sbhmCnznBC93",
+        "title": "The Accord",
+        "slug": "the-accord",
+        "pageUrl": "https://www.lesswrong.com/posts/Eu8r7sbhmCnznBC93/the-accord",
+        "postedAt": "2021-04-06T15:44:28.797Z",
+        "baseScore": 25,
+        "wordCount": 243,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Timothy Underwood",
+          "slug": "timothy-underwood-1"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "pGqRLe9bFDX2G2kXY",
+            "name": "Futurism",
+            "slug": "futurism"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "pGqRLe9bFDX2G2kXY": 2
+        },
+        "contents": {
+          "markdown": "In the middle of last year, I wrote a transhumanist sci fi novella inspired by (among other things) SSC's post about the Archipelago. It was quite intentionally written as a sci fi story drawing on Less Wrong discussions of AI, and it uses an idea I got from something EY wrote about AI merging their value functions to create the government of the system. It also draws ideas from Isaac Arthur's futurism youtube channel (which I also think a lot of people here might like).\u00a0\n\nAlso, it isn't really a traditional novel or story, rather it is basically one of those books written by a fake historian that the quotes at the start of each chapter in a sci fi or fantasy novel come from. That and excerpts from the comment section after each chapter. I try looking at the archipelago as an example of one way to distribute resources in a post human labor society. But it definitely not a post scarcity world, since you can't get that if while you have physical limits to the total amount of energy and stuff you can use. So I'm also exploring the ways that malthusian limits might manifest in the context of an AGI that grabs all of the resources available and makse them available for humans to use, but which also fully respects human autonomy\u00a0\n\nSo I've posted the whole thing for free, so go read it if any of that sounds cool, :)\n\n[The Accord](https://timunderwoodscifi.wordpress.com/2020/07/18/introduction-and-crush-habs/)"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "A4MK9RQqSAJZjanQD",
+  "slug": "why-support-the-underdog",
+  "title": "Why Support the Underdog?",
+  "postedAt": "2009-04-05T00:01:29.756Z",
+  "baseScore": 45,
+  "wordCount": 763,
+  "commentCount": 102,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "exZi6Bing5AiM4ZQB",
+      "name": "Evolutionary Psychology",
+      "slug": "evolutionary-psychology"
+    },
+    {
+      "_id": "4R8JYu4QF2FqzJxE5",
+      "name": "Heuristics & Biases",
+      "slug": "heuristics-and-biases"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "4R8JYu4QF2FqzJxE5": 1,
+    "exZi6Bing5AiM4ZQB": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

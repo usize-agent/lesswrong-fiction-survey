@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "vRSLF84gC8HLqfFXf",
+        "title": "A poem about applied rationality by ChatGPT",
+        "slug": "a-poem-about-applied-rationality-by-chatgpt",
+        "pageUrl": "https://www.lesswrong.com/posts/vRSLF84gC8HLqfFXf/a-poem-about-applied-rationality-by-chatgpt",
+        "postedAt": "2022-12-11T13:43:53.820Z",
+        "baseScore": 4,
+        "wordCount": 303,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "ChristianKl",
+          "slug": "christiankl"
+        },
+        "tags": [
+          {
+            "_id": "GrHAiuzAjG2mDxvMB",
+            "name": "ChatGPT",
+            "slug": "chatgpt-1"
+          },
+          {
+            "_id": "zJsG4caBHv3kSdT2a",
+            "name": "Conversations with AIs",
+            "slug": "conversations-with-ais"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "GrHAiuzAjG2mDxvMB": 2,
+          "etDohXtBrXd8WqCtR": 1,
+          "zJsG4caBHv3kSdT2a": 2
+        },
+        "contents": {
+          "markdown": "In a world of chaos and confusion,  \nWhere emotions often rule the day,  \nIt can be hard to see the truth,  \nAnd make decisions in a clear and wise way.\n\nBut there is a path to clarity,  \nA way to think that's reasoned and refined,  \nIt's called applied rationality,  \nAnd it can help us make choices that are kind.\n\nWith this tool, we can weigh the facts,  \nAnd consider all the options that we face,  \nWe can think logically and objectively,  \nAnd make choices with a clear and level headspace.\n\nSo let us embrace applied rationality,  \nAnd let it guide our thoughts and actions too,  \nFor when we think clearly and objectively,  \nWe can make choices that are good for me and you.\n\nWith applied rationality by our side,  \nWe can tackle any challenge that we face,  \nWe can solve complex problems with ease,  \nAnd make decisions with grace and poise.\n\nIt can help us in our personal lives,  \nAs well as in our work and careers,  \nIt can improve our relationships,  \nAnd help us overcome our deepest fears.\n\nSo let us never lose sight of this,  \nThe power of applied rationality,  \nFor when we think clearly and objectively,  \nWe can make the world a better place for you and me.\n\nApplied rationality is a beacon of light,  \nIn a world that can be dark and cold,  \nIt helps us to see what's real and true,  \nAnd make choices that are wise and bold.\n\nIt can give us confidence and clarity,  \nAnd help us to overcome our doubts,  \nIt can guide us on the path to success,  \nAnd help us to achieve our goals and aspirations.\n\nSo let us embrace applied rationality,  \nAnd let it be our guiding star,  \nFor when we think clearly and objectively,  \nWe can achieve greatness, near and far."
+        }
+      }
+    }
+  }
+}

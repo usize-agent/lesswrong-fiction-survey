@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "5XDuE9BEiRZcbKZhW",
+        "title": "Three Parables of Microeconomics",
+        "slug": "three-parables-of-microeconomics",
+        "pageUrl": "https://www.lesswrong.com/posts/5XDuE9BEiRZcbKZhW/three-parables-of-microeconomics",
+        "postedAt": "2014-05-09T18:18:23.666Z",
+        "baseScore": 34,
+        "wordCount": 945,
+        "commentCount": 40,
+        "noIndex": false,
+        "user": {
+          "displayName": "jimrandomh",
+          "slug": "jimrandomh"
+        },
+        "tags": [
+          {
+            "_id": "PDJ6KqJBRzvKPfuS3",
+            "name": "Economics",
+            "slug": "economics"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "PDJ6KqJBRzvKPfuS3": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "*(Epistemic status: Satire.)*\n\n**First Parable: Equilibrium Pricing**\n\nHighway Offramp 72 leads to the isolated town of Townton. Visitors are greeted by two fuel stations, Carbonaceous Fossils (CF) and Hydrogenated Chains (HC), on opposite sides of the main road. There are no other gas stations for many miles. Together, these two stations sell 1000 gallons per day. Since their products are indistinguishable, and they have prominently posted prices, every driver will choose the cheaper one; or if the prices are the same, they will split half and half. Both pay $1.50/gal for their stock and charge $2/gal to drivers, so half the drivers stop at each.\n\nThe owner of CF reasons as follows: If I keep my current price of $2, I will make 500*(2-1.5)=$250 of profit. But if I lower my price to $1.99, I will get twice as much business and make 1000*(1.99-1.5)=$490 of profit. The next morning, he updates his price.\n\nAcross the street, the owner of HC (who is having a bad day, due to the complete lack of customers), reasons the same way. The next morning HC has updated its price to $1.98; the morning after that CF lowers its price to $1.97; and so on.\n\nBecause CF and HC's owners are law-abiding model citizens, they never talk to each other about prices. That would be collusion, which is illegal. Later that month, with CF's price down to $1.52 and HC's price at $1.51, the local community center holds Game Theory night, where both owners attend a local economist's presentation on the Iterated Prisoner's Dilemma.\n\nThe next morning, both stations charge $1.52. The morning after that, $1.53. The morning after that, $1.54, and so on. Later that year, CF reasons as follows: If I keep my current price of $20...\n\n*(Moral: Gas station attendants should study game theory.)*\n\n**Second Parable: Comparative Advantage**\n\nTwo farmers, Alex and Bertha, grow potatoes and carrots. In one year, Alex can either grow 4 barrels of potatoes or 10 barrels of carrots, or some linear combination of the two, such as 2 barrels of potatoes and 5 barrels of carrots. Bertha is better at farming, and can produce 15 barrels of potatoes or 20 barrels of carrots, or some combination of the two. Doctors agree that everyone should eat exactly equal numbers of potatoes and carrots - an excess of one over the other would be unacceptable. So in the first year, having just settled a new frontier and not having met their neighbors, Alex plants 2.9 barrels' worth of each, and Bertha plants 8.6 barrels of each.\n\nDuring the next year's spring festival, Alex and Bertha meet, and Alex suggests arranging a trade: he will focus on carrots, and Bertha will focus on potatoes. At first, Bertha is skeptical; Alex is worse at farming, so how could trade be beneficial?\n\nAt that very moment, they are overhead by a passing economist, who explains the Principle of Comparative Advantage, which says that as long as their ability to produce crops comes in different *ratios*, they can profit from trade. With the help of a passing algebra teacher, they determine that Alex will plant 10 barrels' worth of carrots, and Bertha will plant 2.9 barrels of carrots and 12.9 barrels of potatoes. That fall, they trade.\n\nThat winter, a travelling wizard casts a spell on Bertha, enchanting her voice, and explains that if she sings opera to her crops, they'll grow twice as fast, doubling her yield. When Alex and Bertha meet and plan their trade, they agree that Alex will plant 10 barrels' worth of carrots and Bertha will plant 12.9 barrels of carrots, 22.9 barrels of potatoes. Alex, unfortunately, missed the wizard because he had the flu, but thanks to comparative advantage and trade, he is nevertheless slightly better off than before.\n\nThe next year, the wizard returns, and casts another spell on Bertha, enchanting her hands. This, he explains, will cause any vegetable she plants with them, to taste slightly better. Bertha decides that she doesn't want Alex's less-tasty vegetables, and stops trading.\n\nThat winter, Alex starves to death.\n\n*(Moral: Don't be a subsistence farmer.)*\n\n**Third Parable: Regulatory Capture**\n\nFleem production is a highly regulated industry. There are only three firms that make fleem, and prices are high. Investigation into the laws regarding fleem production reveals that, in order to make fleem, you must:\n\n*   Not dump toxic waste into rivers\n*   Have an outside accountant look at your books once in awhile\n*   Fill out lots of paperwork\n*   Do the secret regulator handshake, and\n*   Perform the regulator dance\n\nBuyers are complaining about prices, and producers are complaining about the burdensome regulations. The legislature decides that, in order to deal with the problem, they need to clean up and simplify the regulations. After extensively debating the issue and consulting with the fleem industry, they agree that, to be a fleem producer, you should:\n\n*   Not dump toxic waste into rivers\n*   Fill out lots of paperwork\n*   Do the secret regulator handshake, and\n*   Perform the regulator dance in under a minute\n\nSeveral years later, one of the major fleem producers is caught defrauding its customers and contractors out of huge sums of money. The enraged public demands solutions to ensure that this never happens again. After extensively debating the issue and consulting with the fleem industry, the legislature decides to form a new agency, the Office of Fleem Scandal Prevention. The office contains dozens of workers, who spend their days:\n\n*   Checking fleem producers' paperwork for stray marks\n*   Updating the secret regulator handshake, and\n*   Issuing fines for missteps in the regulator dance\n\nSeveral years later, there are two firms that make fleem.\n\n*(Moral: Learn to live without fleem.)*"
+        }
+      }
+    }
+  }
+}

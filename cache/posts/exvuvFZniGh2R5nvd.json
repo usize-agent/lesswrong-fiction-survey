@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "exvuvFZniGh2R5nvd",
+        "title": "The Mountain Troll",
+        "slug": "the-mountain-troll",
+        "pageUrl": "https://www.lesswrong.com/posts/exvuvFZniGh2R5nvd/the-mountain-troll",
+        "postedAt": "2022-06-11T09:14:01.479Z",
+        "baseScore": 106,
+        "wordCount": 630,
+        "commentCount": 26,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "LhX3F2SvGDarZCuh6",
+            "name": "Bayes' Theorem",
+            "slug": "bayes-theorem"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "LhX3F2SvGDarZCuh6": 4,
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "It was a sane world. A Rational world. A world where every developmentally normal teenager was taught Bayesian probability.\n\nSaundra's math class was dressed in their finest robes. Her teacher, Mr Waze, had invited the monk Ryokan to come speak. It was supposed to be a formality. Monks rarely came down from their mountain hermitages. The purpose of inviting monks to speak was to show respect for how much one does not know. And yet, monk Ryokan had come down to teach a regular high school class of students.\n\nSaundra ran to grab monk Ryokan a chair. All the chairs were the same\u2014even Mr Waze's. How could she show respect to the mountain monk? Saundra's eyes darted from chair to chair, looking for the cleanest or least worn chair. While she hesitated, Ryokan sat on the floor in front of the classroom. The students pushed their chairs and desks to the walls of the classroom so they could sit in a circle with Ryokan.\n\n\"The students have just completed their course on Bayesian probability,\" said Mr Waze.\n\n\"I see[^1],\" said Ryokan.\n\n[^1]: Actually, what Ryokan said was \"\u305d\u3046\u3067\u3059\" which means \"[it] is so\".\n\n\"The students also learned the history of Bayesian probability,\" said Mr Waze.\n\n\"I see,\" said Ryokan.\n\nThere was an awkward pause. The students waited for the monk to speak. The monk did not speak.\n\n\"What do you think of Bayesian probability?\" said Saundra.\n\n\"I am a Frequentist,\" said Ryokan.\n\nMr Waze stumbled. The class gasped. A few students screamed.\n\n\"It is true that trolling is a core virtue of rationality,\" said Mr Waze, \"but one must be careful not to go too far.\"\n\nRyokan shrugged.\n\nSaundra raised her hand.\n\n\"You may speak. You need not raise your hand. Rationalism does not privilege one voice above all others,\" said Ryokan.\n\nSaundra's voice quivered. \"Why are you a Frequentist?\" she said.\n\n\"Why are you a Bayesian?\" said Ryokan. Ryokan kept his face still but he failed to conceal the twinkle in his eye.\n\nSaundra glanced at Mr Waze. She forced herself to look away.\n\n\"May I ask you a question?\" said Ryokan.\n\nSaundra nodded.\n\n\"With what probability do you believe in Bayesianism?\" said Ryokan.\n\nSaundra thought about the question. Obviously not 1 because no Bayesian believes anything with a confidence of 1. But her confidence was still high.\n\n\"Ninety-nine percent,\" said Saundra, \"Zero point nine nine.\"\n\n\"Why?\" said Ryokan, \"Did you use Bayes' Equation? What was your prior probability before your teacher taught you Bayesianism?\"\n\n\"I notice I am confused,\" said Saundra.\n\n\"The most important question a Rationalist can ask herself is 'Why do I think I know what I think I know?'\" said Ryokan. \"You believe Bayesianism with a confidence of $P(A|B)=0.99$ where $A$ represents the belief 'Bayesianism is true' and $B$ represents the observation 'your teacher taught you Bayesianism'. A Bayesian belives $A|B$ with a confidence $P(A|B)$ because $P(A|B)=P(A)\\frac{P(B|A)}{P(B)}$. But that just turns one variable $P(A|B)$ into three variables $P(B|A),P(A),P(B)$.\"\n\nSaundra spotted the trap. \"I think I see where this is going,\" said Saundra, \"You're going to ask me where I got values for the three numbers $P(B|A),P(A),P(B)$.\"\n\nRyokan smiled.\n\n\"My prior probability $P(A)$ was very small because I didn't know what Bayesian probability was. Therefore $\\frac{P(B|A)}{P(B)}$ must be very large.\" said Saundra.\n\nRyokan nodded.\n\n\"But if $\\frac{P(B|A)}{P(B)}$ is very large then that means I trust what my teacher says. And a good Rationalist always questions what her teacher says,\" said Saundra.\n\n\"Which is why trolling is a fundamental ingredient to Rationalist pedagogy. If teachers never trolled their students then students would get lazy and believe everything that came out of their teachers' mouths,\" said Ryokan.\n\n\"Are you trolling me right now? Are you really a Frequentist?\" said Saundra.\n\n\"Is your teacher really a Bayesian?\" said Ryokan.\n"
+        }
+      }
+    }
+  }
+}

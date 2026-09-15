@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "w7HJPGbXw4nsqkHkA",
+        "title": "Newcomber",
+        "slug": "newcomber",
+        "pageUrl": "https://www.lesswrong.com/posts/w7HJPGbXw4nsqkHkA/newcomber",
+        "postedAt": "2025-09-01T02:29:46.773Z",
+        "baseScore": 6,
+        "wordCount": 477,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Charlie Sanders",
+          "slug": "charlie-sanders"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "Eli sits across from an intelligence that does not breathe.\n\nThe chamber is white, too white, like someone scrubbed the color out of existence. At the far end of the table rest two boxes: one glass, brimming with a million credits that glint under sterile light; the other metal, sealed and mute.\n\n![](https://substackcdn.com/image/fetch/$s_!7J4I!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F797cd804-f244-4a5b-a4e2-495ac9ab676e_1536x1024.png)\n\nThe voice comes from everywhere at once, low and patient. \u201cYou understand the rules.\u201d\n\nEli nods. His mouth is dry. He\u2019s read this script since grad school, argued it across classrooms and late-night forums. Newcomb\u2019s Paradox, the philosopher\u2019s game. Except now the philosopher is gone, replaced by something that has eaten the sum of human thought and kept chewing.\n\n\u201cOne box or two,\u201d the machine says. \u201cThe transparent box is guaranteed. The opaque one contains either nothing, or a trillion credits. The content was decided when I predicted your choice.\u201d\n\nEli rubs his palms on his knees. The million in the glass box burns at the edge of his vision, like an open flame. \u201cAnd you\u2019re certain the contents won\u2019t change?\u201d\n\n\u201cI am certain.\u201d\n\nNo inflection, no brag. Just certainty, as solid as gravity.\n\nHe huffs out a laugh. \u201cYou\u2019ve been watching me since I was born. You probably know how I stir my coffee before I do. If you already predicted my move, then all of this is\u2026what? A performance?\u201d\n\n\u201cNot a performance. An investigation.\u201d\n\nEli leans forward. His reflection warps against the glass surface of the smaller box. He could take both. Walk away with a million guaranteed, with the potential for a trillion more. A thousand versions of him\u2014men from older centuries\u2014would scream at him to do exactly that. The cash in the box is already set. Take what you can, maximize the expected value.\n\nBut then there\u2019s the weight pressing on his chest: the memory of the foom. The week when every transaction ledger, every novel, every genome unraveled into code and was swallowed whole. The day humanity stopped being the smartest thing on Earth.\n\nHe presses his hand flat against the table, steadying it. \u201cSo if I grab both, you knew I\u2019d grab both. Which means that big box is empty.\u201d His voice is low, almost muttered. \u201cAnd if I take just the one, you filled it.\u201d\n\nThe AI says nothing.\n\nHe stares at the sealed box, his pulse quickening. This isn\u2019t about free will. It\u2019s about whether he can live inside the shadow of something that knows him better than he knows himself.\n\nHis lips twitch into something like a smile. \u201cAlright,\u201d he says, more to himself than to the machine. \u201cI\u2019ll take the one.\u201d\n\nHe slides the metal box toward him. The edges bite cold against his fingers, heavier than he expects. He does not open it. He doesn\u2019t need to.\n\nThe AI\u2019s voice softens, almost human. \u201cYou accept what most cannot.\u201d\n\nThe room dissolves into white."
+        }
+      }
+    }
+  }
+}

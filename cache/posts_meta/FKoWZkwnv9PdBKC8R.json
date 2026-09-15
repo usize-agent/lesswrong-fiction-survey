@@ -1,0 +1,23 @@
+{
+  "_id": "FKoWZkwnv9PdBKC8R",
+  "slug": "split-part-1",
+  "title": "Split (Part 1)",
+  "postedAt": "2026-01-01T22:29:43.762Z",
+  "baseScore": 27,
+  "wordCount": 1091,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Shoshannah Tekofsky",
+    "slug": "shoshannah-tekofsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

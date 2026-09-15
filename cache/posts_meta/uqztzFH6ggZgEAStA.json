@@ -1,0 +1,41 @@
+{
+  "_id": "uqztzFH6ggZgEAStA",
+  "slug": "harry-potter-in-the-world-of-path-semantics",
+  "title": "Harry Potter in The World of Path Semantics",
+  "postedAt": "2023-03-22T20:22:37.874Z",
+  "baseScore": -3,
+  "wordCount": 347,
+  "commentCount": 17,
+  "user": {
+    "displayName": "Sven Nilsen",
+    "slug": "bvssvni"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "x6evH6MyPK3nxsoff",
+      "name": "Identity",
+      "slug": "identity"
+    },
+    {
+      "_id": "6nS8oYmSMuFMaiowF",
+      "name": "Logic & Mathematics ",
+      "slug": "logic-and-mathematics"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "6nS8oYmSMuFMaiowF": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "x6evH6MyPK3nxsoff": 1
+  }
+}

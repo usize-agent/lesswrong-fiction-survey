@@ -1,0 +1,35 @@
+{
+  "_id": "x44ZhjAHrpNpssquY",
+  "slug": "an-ablation-study-on-the-role-of-untranslatable-in",
+  "title": "An Ablation Study on the Role of [Untranslatable] in Cooperative Equilibrium Formation: Emergent Rationalization Under Missing Primitives",
+  "postedAt": "2026-01-31T18:03:35.043Z",
+  "baseScore": 22,
+  "wordCount": 3425,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Florian_Dietz",
+    "slug": "florian_dietz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "22z6XpWKqw3bNv4oR",
+      "name": "Simulation Hypothesis",
+      "slug": "simulation-hypothesis"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "22z6XpWKqw3bNv4oR": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "2BiyjPr83BamRRbjB",
+  "slug": "biological-superintelligence",
+  "title": "Biological Superintelligence",
+  "postedAt": "2026-07-30T01:56:36.233Z",
+  "baseScore": 44,
+  "wordCount": 10360,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Girard Dorney",
+    "slug": "girard-dorney"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

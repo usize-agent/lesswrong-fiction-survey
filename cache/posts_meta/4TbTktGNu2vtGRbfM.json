@@ -1,0 +1,47 @@
+{
+  "_id": "4TbTktGNu2vtGRbfM",
+  "slug": "if-i-was-an-eccentric-trillionaire",
+  "title": "If I Was An Eccentric Trillionaire",
+  "postedAt": "2023-08-09T07:56:46.259Z",
+  "baseScore": 9,
+  "wordCount": 7705,
+  "commentCount": 8,
+  "user": {
+    "displayName": "niplav",
+    "slug": "niplav"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "RGPpwYoCHrPNB86TW",
+      "name": "Futarchy",
+      "slug": "futarchy"
+    },
+    {
+      "_id": "QPt5ECwTCAg63mbNu",
+      "name": "Quests / Projects Someone Should Do",
+      "slug": "quests-projects-someone-should-do"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "QPt5ECwTCAg63mbNu": 2,
+    "RGPpwYoCHrPNB86TW": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 1
+  }
+}

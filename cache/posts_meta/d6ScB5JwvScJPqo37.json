@@ -1,0 +1,53 @@
+{
+  "_id": "d6ScB5JwvScJPqo37",
+  "slug": "lw-psychosis",
+  "title": "LW Psychosis",
+  "postedAt": "2025-10-23T08:12:44.173Z",
+  "baseScore": 18,
+  "wordCount": 960,
+  "commentCount": 10,
+  "user": {
+    "displayName": "internetexplorer",
+    "slug": "internetexplorer"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "4R8JYu4QF2FqzJxE5",
+      "name": "Heuristics & Biases",
+      "slug": "heuristics-and-biases"
+    },
+    {
+      "_id": "r7tnYvKBLWNibSgNn",
+      "name": "LLM-Induced Psychosis",
+      "slug": "llm-induced-psychosis"
+    },
+    {
+      "_id": "LDTSbmXtokYAsEq8e",
+      "name": "Motivated Reasoning",
+      "slug": "motivated-reasoning"
+    },
+    {
+      "_id": "ZzxvopS4BwLuQy42n",
+      "name": "Rationalization",
+      "slug": "rationalization"
+    },
+    {
+      "_id": "8wiAjZn9qGpBsk8GT",
+      "name": "Sycophancy",
+      "slug": "sycophancy"
+    }
+  ],
+  "tagRelevance": {
+    "4R8JYu4QF2FqzJxE5": 1,
+    "8wiAjZn9qGpBsk8GT": 1,
+    "LDTSbmXtokYAsEq8e": 1,
+    "ZzxvopS4BwLuQy42n": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "r7tnYvKBLWNibSgNn": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "27hrcyr3eqPFyNR8d",
+  "slug": "career-day-a-short-story",
+  "title": "Career Day: A Short Story",
+  "postedAt": "2022-01-30T22:22:03.029Z",
+  "baseScore": 34,
+  "wordCount": 4916,
+  "commentCount": 2,
+  "user": {
+    "displayName": "vernamcipher",
+    "slug": "vernamcipher"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "fuZZ64fNz24BLrXnY",
+      "name": "Robotics",
+      "slug": "robotics"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "fuZZ64fNz24BLrXnY": 1
+  }
+}

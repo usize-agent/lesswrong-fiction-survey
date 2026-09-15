@@ -1,0 +1,23 @@
+{
+  "_id": "fnEWQAYxcRnaYBqaZ",
+  "slug": "initiation-ceremony",
+  "title": "Initiation Ceremony",
+  "postedAt": "2008-03-28T20:40:03.000Z",
+  "baseScore": 136,
+  "wordCount": 1023,
+  "commentCount": 99,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 13
+  }
+}

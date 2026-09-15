@@ -1,0 +1,35 @@
+{
+  "_id": "XvyAeymaRi95MSLZD",
+  "slug": "the-rising-sea",
+  "title": "The Rising Sea",
+  "postedAt": "2025-01-25T20:48:52.971Z",
+  "baseScore": 99,
+  "wordCount": 700,
+  "commentCount": 9,
+  "user": {
+    "displayName": "Jesse Hoogland",
+    "slug": "jesse-hoogland"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 3
+  }
+}

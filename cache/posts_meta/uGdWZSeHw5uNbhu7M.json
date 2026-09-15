@@ -1,0 +1,29 @@
+{
+  "_id": "uGdWZSeHw5uNbhu7M",
+  "slug": "book-review-too-like-the-lightning",
+  "title": "Book Review \u2013 Too Like the Lightning",
+  "postedAt": "2017-04-21T18:49:46.000Z",
+  "baseScore": 7,
+  "wordCount": 2219,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Jacob Falkovich",
+    "slug": "jacob-falkovich"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "4Kcm4etxAJjmeDkHP": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

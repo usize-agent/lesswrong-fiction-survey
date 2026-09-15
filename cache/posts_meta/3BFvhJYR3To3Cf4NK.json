@@ -1,0 +1,35 @@
+{
+  "_id": "3BFvhJYR3To3Cf4NK",
+  "slug": "what-strange-and-ancient-things-might-we-find-beneath-the",
+  "title": "What strange and ancient things might we find beneath the ice?",
+  "postedAt": "2018-01-15T10:10:01.010Z",
+  "baseScore": 16,
+  "wordCount": 675,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Benquo",
+    "slug": "benquo"
+  },
+  "tags": [
+    {
+      "_id": "PDJ6KqJBRzvKPfuS3",
+      "name": "Economics",
+      "slug": "economics"
+    },
+    {
+      "_id": "nZCb9BSnmXZXSNA2u",
+      "name": "Evolution",
+      "slug": "evolution"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "PDJ6KqJBRzvKPfuS3": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "nZCb9BSnmXZXSNA2u": 1
+  }
+}

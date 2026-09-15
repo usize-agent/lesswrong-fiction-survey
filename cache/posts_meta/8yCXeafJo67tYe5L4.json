@@ -1,0 +1,47 @@
+{
+  "_id": "8yCXeafJo67tYe5L4",
+  "slug": "and-all-the-shoggoths-merely-players",
+  "title": "And All the Shoggoths Merely Players",
+  "postedAt": "2024-02-10T19:56:59.513Z",
+  "baseScore": 178,
+  "wordCount": 3633,
+  "commentCount": 59,
+  "user": {
+    "displayName": "Zack_M_Davis",
+    "slug": "zack_m_davis"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "fpEBgFE7fgpxTm9BF",
+      "name": "Machine Learning  (ML)",
+      "slug": "machine-learning-ml"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "KmgkrftQuX7jmjjp5": 2,
+    "etDohXtBrXd8WqCtR": 6,
+    "fpEBgFE7fgpxTm9BF": 2,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "yXNtYNHJB54T3bGm3": 2
+  }
+}

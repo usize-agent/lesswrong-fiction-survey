@@ -1,0 +1,47 @@
+{
+  "_id": "pxCaDYyCA4qNQp9Pi",
+  "slug": "currency-collapse-1",
+  "title": "Currency Collapse",
+  "postedAt": "2025-04-11T03:48:01.469Z",
+  "baseScore": 27,
+  "wordCount": 2755,
+  "commentCount": 3,
+  "user": {
+    "displayName": "prue",
+    "slug": "prue"
+  },
+  "tags": [
+    {
+      "_id": "PDJ6KqJBRzvKPfuS3",
+      "name": "Economics",
+      "slug": "economics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8daMDi9NEShyLqxth",
+      "name": "Forecasting & Prediction",
+      "slug": "forecasting-and-prediction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "8daMDi9NEShyLqxth": 1,
+    "PDJ6KqJBRzvKPfuS3": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "pGqRLe9bFDX2G2kXY": 1
+  }
+}

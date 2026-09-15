@@ -1,0 +1,23 @@
+{
+  "_id": "m4HHsZYXzQtchSepn",
+  "slug": "chapter-19-delayed-gratification",
+  "title": "Chapter 19: Delayed Gratification",
+  "postedAt": "2015-03-14T19:00:56.265Z",
+  "baseScore": 48,
+  "wordCount": 7706,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "6L523aJDpjm4yWxue",
+  "slug": "chapter-2-everything-i-believe-is-false",
+  "title": "Chapter 2: Everything I Believe is False",
+  "postedAt": "2015-03-14T19:00:38.531Z",
+  "baseScore": 129,
+  "wordCount": 1478,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

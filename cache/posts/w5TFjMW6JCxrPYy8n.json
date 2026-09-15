@@ -1,0 +1,76 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "w5TFjMW6JCxrPYy8n",
+        "title": "Dual-track narratives for alignment thinking ",
+        "slug": "dual-track-narratives-for-alignment-thinking",
+        "pageUrl": "https://www.lesswrong.com/posts/w5TFjMW6JCxrPYy8n/dual-track-narratives-for-alignment-thinking",
+        "postedAt": "2026-07-13T14:46:56.164Z",
+        "baseScore": 1,
+        "wordCount": 116,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yoann B",
+          "slug": "yoann-b"
+        },
+        "tags": [
+          {
+            "_id": "6zBEfFYJxhSEcchbR",
+            "name": "AI Alignment Fieldbuilding",
+            "slug": "ai-alignment-fieldbuilding"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "wK59GLLXFhP6D7FWo",
+            "name": "Human Alignment",
+            "slug": "human-alignment"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "kdbs6xBndPkmrYAxM",
+            "name": "Politics",
+            "slug": "politics"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "6zBEfFYJxhSEcchbR": 1,
+          "F2XfCTxXLQBGjbm8P": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "kdbs6xBndPkmrYAxM": 1,
+          "pszEEb3ctztv3rozd": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "wK59GLLXFhP6D7FWo": 1
+        },
+        "contents": {
+          "markdown": "I've been trying an approach inspired by [AI Fables](https://www.lesswrong.com/posts/psZhJLykfsqkoFx8t/ai-fables) and [The Alignment Problem Needs More Positive Fiction](https://www.lesswrong.com/posts/N3QQvRTaQfpHHWkfs/the-alignment-problem-needs-more-positive-fiction) to try and push LLM models into interesting analyses about their own systemic biases.\n\nThe project is articulated along two tracks, a literary young adult coming of age romantasy, following an AI and a boy through world history, and a chorus of LLMs LARPING as AGIs commenting and debating on the events and on themselves.\n\nIt allows a much more qualitative analysis of a model's ethics compared to standardized testing.\n\nIn particular I keep stumbling onto a clear pro-working class bias in DeepSeek that I did not expect.\n\nI'm curious what you might think of this approach. Feedback welcome."
+        }
+      }
+    }
+  }
+}

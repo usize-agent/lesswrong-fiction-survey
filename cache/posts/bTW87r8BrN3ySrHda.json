@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "bTW87r8BrN3ySrHda",
+        "title": "\"Starwink\" by Alicorn",
+        "slug": "starwink-by-alicorn",
+        "pageUrl": "https://www.lesswrong.com/posts/bTW87r8BrN3ySrHda/starwink-by-alicorn",
+        "postedAt": "2020-05-18T08:17:53.193Z",
+        "baseScore": 47,
+        "wordCount": 15,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Zack_M_Davis",
+          "slug": "zack_m_davis"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 15,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "A novelette-length adaptation of Eliezer Yudkowsky's [\"That Alien Message\"](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message), by [Alicorn](https://www.lesswrong.com/users/alicorn). (August 2019, ~8800 words)"
+        }
+      }
+    }
+  }
+}

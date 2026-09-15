@@ -1,0 +1,155 @@
+{
+  "_id": "jyNc8gY2dDb2FnrFB",
+  "slug": "places-of-loving-grace-story",
+  "title": "Places of Loving Grace [Story]",
+  "postedAt": "2025-02-18T23:49:18.580Z",
+  "baseScore": -1,
+  "wordCount": 1142,
+  "commentCount": 0,
+  "user": {
+    "displayName": "ank",
+    "slug": "ank"
+  },
+  "tags": [
+    {
+      "_id": "F5gRQdEQHzi3tQ5Ay",
+      "name": "AI Control",
+      "slug": "ai-control"
+    },
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "SrW9iP2j6Hi8R5PmT",
+      "name": "Black Swans",
+      "slug": "black-swans"
+    },
+    {
+      "_id": "KEAWfxwjitNJFrC68",
+      "name": "Deceptive Alignment",
+      "slug": "deceptive-alignment"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "aozxtmy7FEkkvfWzE",
+      "name": "Grabby Aliens",
+      "slug": "grabby-aliens"
+    },
+    {
+      "_id": "25oxqHiadqM6Hf7Gn",
+      "name": "Great Filter",
+      "slug": "great-filter"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb1c9",
+      "name": "Many-Worlds Interpretation",
+      "slug": "many-worlds-interpretation"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb26d",
+      "name": "Oracle AI",
+      "slug": "oracle-ai"
+    },
+    {
+      "_id": "BisjoDrd3oNatDu7X",
+      "name": "Outer Alignment",
+      "slug": "outer-alignment"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "Wgbgir4qzGz8Ztt3u",
+      "name": "Past and Future Selves",
+      "slug": "past-and-future-selves"
+    },
+    {
+      "_id": "QmvAYnvqYpXeHi2Xi",
+      "name": "Simulation",
+      "slug": "simulation-1"
+    },
+    {
+      "_id": "22z6XpWKqw3bNv4oR",
+      "name": "Simulation Hypothesis",
+      "slug": "simulation-hypothesis"
+    },
+    {
+      "_id": "xjNvvmvQ5BH3cfEBr",
+      "name": "Simulator Theory",
+      "slug": "simulator-theory"
+    },
+    {
+      "_id": "8Xec73Ndz2F59AmGe",
+      "name": "Vulnerable World Hypothesis",
+      "slug": "vulnerable-world-hypothesis"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "22z6XpWKqw3bNv4oR": 1,
+    "25oxqHiadqM6Hf7Gn": 1,
+    "8Xec73Ndz2F59AmGe": 1,
+    "BisjoDrd3oNatDu7X": 1,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "F5gRQdEQHzi3tQ5Ay": 1,
+    "KEAWfxwjitNJFrC68": 1,
+    "QmvAYnvqYpXeHi2Xi": 1,
+    "SrW9iP2j6Hi8R5PmT": 1,
+    "Wgbgir4qzGz8Ztt3u": 1,
+    "YkPxg2tFDQNdaEZDJ": 1,
+    "aozxtmy7FEkkvfWzE": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "pGqRLe9bFDX2G2kXY": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "xjNvvmvQ5BH3cfEBr": 1,
+    "zHjC29kkPmsdo7WTr": 1,
+    "5f5c37ee1b5cdee568cfb1c9": 1,
+    "5f5c37ee1b5cdee568cfb26d": 1
+  }
+}

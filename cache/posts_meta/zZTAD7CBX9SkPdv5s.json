@@ -1,0 +1,23 @@
+{
+  "_id": "zZTAD7CBX9SkPdv5s",
+  "slug": "russian-cynicism",
+  "title": "Russian Cynicism",
+  "postedAt": "2018-01-18T02:06:45.083Z",
+  "baseScore": 10,
+  "wordCount": 1650,
+  "commentCount": 2,
+  "user": {
+    "displayName": "alkjash",
+    "slug": "alkjash"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

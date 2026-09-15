@@ -1,0 +1,29 @@
+{
+  "_id": "MNfrvbhi3286GFQMz",
+  "slug": "the-one-where-quirrell-is-an-egg",
+  "title": "The one where Quirrell is an egg",
+  "postedAt": "2020-04-15T06:02:36.337Z",
+  "baseScore": 17,
+  "wordCount": 89,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Ben Pace",
+    "slug": "benito"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

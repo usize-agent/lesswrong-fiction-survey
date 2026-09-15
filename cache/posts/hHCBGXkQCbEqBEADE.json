@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "hHCBGXkQCbEqBEADE",
+        "title": "Launched: Friendship is Optimal",
+        "slug": "launched-friendship-is-optimal",
+        "pageUrl": "https://www.lesswrong.com/posts/hHCBGXkQCbEqBEADE/launched-friendship-is-optimal",
+        "postedAt": "2012-11-15T04:57:47.924Z",
+        "baseScore": 78,
+        "wordCount": 137,
+        "commentCount": 32,
+        "noIndex": false,
+        "user": {
+          "displayName": "iceman",
+          "slug": "iceman"
+        },
+        "tags": [
+          {
+            "_id": "ZFrgTgzwEfStg26JL",
+            "name": "AI Risk",
+            "slug": "ai-risk"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "ZFrgTgzwEfStg26JL": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "*Friendship is Optimal* has launched and is being published in chunks [on FIMFiction](http://www.fimfiction.net/story/62074/Friendship-is-Optimal).\n\n*Friendship is Optimal* is a story about an optimizer written to \"satisfy human values through friendship and ponies.\" I would like to thank everyone on LessWrong [who came out and helped edit it](/r/discussion/lw/efi/friendship_is_optimal_a_my_little_pony_fanfic/). *Friendship is Optimal* wouldn't be what is today without your help.\n\nThank you.\n\nTeaser description:\n\n*Hanna, the CEO of Hofvarpnir Studios, just won the contract to write the official My Little Pony MMO. Hanna has built an A.I. Princess Celestia and given her one basic drive: to satisfy everybody's values through friendship and ponies. And Princess Celestia will follow those instructions to the letter...even if you don't want her to.*\n\nHere is the schedule for the next chapters:\n\nFriday (Nov. 16th): Chapter 4 - 5\n\nMonday (Nov. 19th): Chapter 6 - 7\n\nThursday (Nov. 22th): Chapter 8 - 9\n\nSunday (Nov. 25th): Chapter 10 - 11, Author's Afterword"
+        }
+      }
+    }
+  }
+}

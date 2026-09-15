@@ -1,0 +1,47 @@
+{
+  "_id": "u8TdDutDyaSxG76hn",
+  "slug": "you-re-absolutely-right",
+  "title": "You're Absolutely Right",
+  "postedAt": "2026-08-10T16:04:09.057Z",
+  "baseScore": 183,
+  "wordCount": 2392,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Linch",
+    "slug": "linch"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "o9aQASibdsECTfYF6",
+      "name": "Moloch",
+      "slug": "moloch"
+    },
+    {
+      "_id": "mf8wHrMrJR73uyDLQ",
+      "name": "Moral Mazes",
+      "slug": "moral-mazes"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 3,
+    "mf8wHrMrJR73uyDLQ": 2,
+    "o9aQASibdsECTfYF6": 2,
+    "sYm3HiWcfZvrGu3ui": 3
+  }
+}

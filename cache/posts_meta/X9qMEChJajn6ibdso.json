@@ -1,0 +1,29 @@
+{
+  "_id": "X9qMEChJajn6ibdso",
+  "slug": "beloved-by-chatbots",
+  "title": "Beloved by Chatbots",
+  "postedAt": "2026-02-14T12:12:45.603Z",
+  "baseScore": 22,
+  "wordCount": 981,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Ben",
+    "slug": "ben-lang"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

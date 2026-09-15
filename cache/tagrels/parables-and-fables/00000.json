@@ -1,0 +1,2858 @@
+{
+  "data": {
+    "tagRels": {
+      "results": [
+        {
+          "_id": "2drrsY7n7WLTe8e2k",
+          "baseScore": 9,
+          "post": {
+            "_id": "LzQtrHSYDafXynofq",
+            "slug": "the-parable-of-the-king-and-the-random-process",
+            "title": "The Parable of the King and the Random Process",
+            "postedAt": "2023-03-01T22:18:59.734Z",
+            "baseScore": 318,
+            "wordCount": 1661,
+            "commentCount": 26,
+            "user": {
+              "displayName": "moridinamael",
+              "slug": "moridinamael"
+            },
+            "tags": [
+              {
+                "_id": "8daMDi9NEShyLqxth",
+                "name": "Forecasting & Prediction",
+                "slug": "forecasting-and-prediction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "yXNtYNHJB54T3bGm3",
+                "name": "Dialogue (format)",
+                "slug": "dialogue-format"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "8daMDi9NEShyLqxth": 9,
+              "F2XfCTxXLQBGjbm8P": 9,
+              "Ng8Gice9KNkncxqcj": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "yXNtYNHJB54T3bGm3": 1
+            }
+          }
+        },
+        {
+          "_id": "xoZanQdkdmi6cnhDR",
+          "baseScore": 7,
+          "post": {
+            "_id": "GJgudfEvNx8oeyffH",
+            "slug": "the-ants-and-the-grasshopper",
+            "title": "The ants and the grasshopper",
+            "postedAt": "2023-06-04T22:00:04.577Z",
+            "baseScore": 517,
+            "wordCount": 1557,
+            "commentCount": 45,
+            "user": {
+              "displayName": "Richard_Ngo",
+              "slug": "ricraz"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 7,
+              "etDohXtBrXd8WqCtR": 9,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "rTHpYb4kwm4P47Nnb",
+          "baseScore": 6,
+          "post": {
+            "_id": "SwcyMEgLyd4C3Dern",
+            "slug": "the-parable-of-predict-o-matic",
+            "title": "The Parable of Predict-O-Matic",
+            "postedAt": "2019-10-15T00:49:20.167Z",
+            "baseScore": 380,
+            "wordCount": 4322,
+            "commentCount": 43,
+            "user": {
+              "displayName": "abramdemski",
+              "slug": "abramdemski"
+            },
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb26d",
+                "name": "Oracle AI",
+                "slug": "oracle-ai"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "3Y4y9Kr8e24YWAEmD",
+                "name": "Myopia",
+                "slug": "myopia"
+              },
+              {
+                "_id": "kwBfWrepKEuZPnDCT",
+                "name": "Hyperstitions",
+                "slug": "hyperstitions"
+              },
+              {
+                "_id": "YyGDbZhGtws5hEPda",
+                "name": "Self Fulfilling/Refuting Prophecies",
+                "slug": "self-fulfilling-refuting-prophecies"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "3Y4y9Kr8e24YWAEmD": 2,
+              "F2XfCTxXLQBGjbm8P": 6,
+              "YyGDbZhGtws5hEPda": 1,
+              "kwBfWrepKEuZPnDCT": 1,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "5f5c37ee1b5cdee568cfb26d": 6
+            }
+          }
+        },
+        {
+          "_id": "m3mTrtfWYRK6LH2N2",
+          "baseScore": 5,
+          "post": {
+            "_id": "4ARaTpNX62uaL86j6",
+            "slug": "the-hidden-complexity-of-wishes",
+            "title": "The Hidden Complexity of Wishes",
+            "postedAt": "2007-11-24T00:12:33.000Z",
+            "baseScore": 192,
+            "wordCount": 2289,
+            "commentCount": 200,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "4CQy8rim8PGt4sfCn",
+                "name": "Complexity of value",
+                "slug": "complexity-of-value"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "ZFrgTgzwEfStg26JL",
+                "name": "AI Risk",
+                "slug": "ai-risk"
+              }
+            ],
+            "tagRelevance": {
+              "4CQy8rim8PGt4sfCn": 9,
+              "F2XfCTxXLQBGjbm8P": 5,
+              "ZFrgTgzwEfStg26JL": 3
+            }
+          }
+        },
+        {
+          "_id": "Ks72o9EPij2gB59Xe",
+          "baseScore": 5,
+          "post": {
+            "_id": "dYspinGtiba5oDCcv",
+            "slug": "feature-selection",
+            "title": "Feature Selection",
+            "postedAt": "2021-11-01T00:22:29.993Z",
+            "baseScore": 328,
+            "wordCount": 4771,
+            "commentCount": 24,
+            "user": {
+              "displayName": "Zack_M_Davis",
+              "slug": "zack_m_davis"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "NZ67PZ8CkeS6xn27h",
+                "name": "Mesa-Optimization",
+                "slug": "mesa-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 5,
+              "NZ67PZ8CkeS6xn27h": 2,
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "eMaqNSn6gMLSvjTwb",
+          "baseScore": 5,
+          "post": {
+            "_id": "4tke3ibK9zfnvh9sE",
+            "slug": "the-bayesian-tyrant",
+            "title": "The Bayesian Tyrant",
+            "postedAt": "2020-08-20T00:08:55.738Z",
+            "baseScore": 145,
+            "wordCount": 1890,
+            "commentCount": 21,
+            "user": {
+              "displayName": "abramdemski",
+              "slug": "abramdemski"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "E8PHMuf7tsr8teXAe",
+                "name": "Betting",
+                "slug": "betting"
+              },
+              {
+                "_id": "R6dqPii4cyNpuecLt",
+                "name": "Prediction Markets",
+                "slug": "prediction-markets"
+              },
+              {
+                "_id": "jTScW3bvF3j6WoiFe",
+                "name": "Radical Probabilism",
+                "slug": "radical-probabilism"
+              },
+              {
+                "_id": "LhX3F2SvGDarZCuh6",
+                "name": "Bayes' Theorem",
+                "slug": "bayes-theorem"
+              },
+              {
+                "_id": "8hPTCJbwJnLBmfpCX",
+                "name": "Calibration",
+                "slug": "calibration"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "8hPTCJbwJnLBmfpCX": 2,
+              "E8PHMuf7tsr8teXAe": 3,
+              "F2XfCTxXLQBGjbm8P": 5,
+              "LhX3F2SvGDarZCuh6": 2,
+              "Ng8Gice9KNkncxqcj": 2,
+              "R6dqPii4cyNpuecLt": 3,
+              "etDohXtBrXd8WqCtR": 8,
+              "jTScW3bvF3j6WoiFe": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "ZnTBRZt2zGs9mzy8X",
+          "baseScore": 4,
+          "post": {
+            "_id": "r8moKsfGzqQcWeCsr",
+            "slug": "uncontrollable-super-powerful-explosives",
+            "title": "Uncontrollable Super-Powerful Explosives",
+            "postedAt": "2022-04-02T20:13:13.431Z",
+            "baseScore": 55,
+            "wordCount": 1353,
+            "commentCount": 17,
+            "user": {
+              "displayName": "Sammy Martin",
+              "slug": "sdm"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 4,
+              "sYm3HiWcfZvrGu3ui": 4
+            }
+          }
+        },
+        {
+          "_id": "AKphmBpTqxfcAMKmy",
+          "baseScore": 4,
+          "post": {
+            "_id": "MFNJ7kQttCuCXHp8P",
+            "slug": "the-goddess-of-everything-else",
+            "title": "The Goddess of Everything Else",
+            "postedAt": "2015-08-17T20:59:40.000Z",
+            "baseScore": 102,
+            "wordCount": 2309,
+            "commentCount": 8,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "ai87fPyyT6mWb4YkT",
+                "name": "Eldritch Analogies",
+                "slug": "eldritch-analogies"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 4,
+              "ai87fPyyT6mWb4YkT": 11,
+              "etDohXtBrXd8WqCtR": 6
+            }
+          }
+        },
+        {
+          "_id": "7SyGSPsQiaqZmcAod",
+          "baseScore": 4,
+          "post": {
+            "_id": "Aut78T9pv4pPhdcKe",
+            "slug": "a-parable-in-the-style-of-invisible-cities",
+            "title": "A parable in the style of Invisible Cities",
+            "postedAt": "2019-12-16T15:55:06.072Z",
+            "baseScore": 45,
+            "wordCount": 390,
+            "commentCount": 6,
+            "user": {
+              "displayName": "Daniel Kokotajlo",
+              "slug": "daniel-kokotajlo"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "ai87fPyyT6mWb4YkT",
+                "name": "Eldritch Analogies",
+                "slug": "eldritch-analogies"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 4,
+              "Ng8Gice9KNkncxqcj": 2,
+              "ai87fPyyT6mWb4YkT": 2,
+              "etDohXtBrXd8WqCtR": 2
+            }
+          }
+        },
+        {
+          "_id": "WrYtpS5QMwcoFjLdY",
+          "baseScore": 3,
+          "post": {
+            "_id": "6hfGNLf4Hg5DXqJCF",
+            "slug": "a-fable-of-science-and-politics",
+            "title": "A Fable of Science and Politics",
+            "postedAt": "2006-12-23T04:50:47.000Z",
+            "baseScore": 399,
+            "wordCount": 1570,
+            "commentCount": 102,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "kdbs6xBndPkmrYAxM",
+                "name": "Politics",
+                "slug": "politics"
+              },
+              {
+                "_id": "BtQRRKTPxagBH6KrG",
+                "name": "Blues & Greens (metaphor)",
+                "slug": "blues-and-greens-metaphor"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "DdgSyQoZXjj3KnF4N",
+                "name": "Tribalism",
+                "slug": "tribalism"
+              },
+              {
+                "_id": "E6qP9r9xxM4LCxaFk",
+                "name": "Litany of Tarski",
+                "slug": "litany-of-tarski"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "BtQRRKTPxagBH6KrG": 11,
+              "DdgSyQoZXjj3KnF4N": 3,
+              "E6qP9r9xxM4LCxaFk": 1,
+              "F2XfCTxXLQBGjbm8P": 3,
+              "Ng8Gice9KNkncxqcj": 3,
+              "etDohXtBrXd8WqCtR": 6,
+              "kdbs6xBndPkmrYAxM": 13
+            }
+          }
+        },
+        {
+          "_id": "tshfLJLnFdvtwrhke",
+          "baseScore": 3,
+          "post": {
+            "_id": "tE7y8FZe7wSSzoRaS",
+            "slug": "the-parable-of-the-boy-who-cried-5-chance-of-wolf",
+            "title": "The Parable of the Boy Who Cried 5% Chance of Wolf",
+            "postedAt": "2022-08-15T14:33:21.649Z",
+            "baseScore": 141,
+            "wordCount": 454,
+            "commentCount": 24,
+            "user": {
+              "displayName": "KatSpartz",
+              "slug": "ea247"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 3,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "hbRY4uAKgZj8jMvXD",
+          "baseScore": 3,
+          "post": {
+            "_id": "4FcxgdvdQP45D6Skg",
+            "slug": "disguised-queries",
+            "title": "Disguised Queries",
+            "postedAt": "2008-02-09T00:05:28.000Z",
+            "baseScore": 199,
+            "wordCount": 1362,
+            "commentCount": 108,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "FtT2T9bRbECCGYxrL",
+                "name": "Philosophy of Language",
+                "slug": "philosophy-of-language"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 3,
+              "FtT2T9bRbECCGYxrL": 4
+            }
+          }
+        },
+        {
+          "_id": "eNNN79CWffuG6gvDZ",
+          "baseScore": 3,
+          "post": {
+            "_id": "FbJYEn6eWA5JnGeGP",
+            "slug": "parable-of-the-dammed",
+            "title": "Parable of the Dammed",
+            "postedAt": "2020-12-10T00:08:44.493Z",
+            "baseScore": 121,
+            "wordCount": 709,
+            "commentCount": 29,
+            "user": {
+              "displayName": "johnswentworth",
+              "slug": "johnswentworth"
+            },
+            "tags": [
+              {
+                "_id": "chuP2QqQycjD8qakL",
+                "name": "Coordination / Cooperation",
+                "slug": "coordination-cooperation"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "F2XfCTxXLQBGjbm8P": 3,
+              "chuP2QqQycjD8qakL": 5,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "3ohMavkf9Jg9442mm",
+          "baseScore": 3,
+          "post": {
+            "_id": "BQDEeB8c8w6dez3Gm",
+            "slug": "all-i-know-is-that-i-know-nothing",
+            "title": "All I Know is that I Know Nothing",
+            "postedAt": "2022-04-22T15:33:52.797Z",
+            "baseScore": 64,
+            "wordCount": 657,
+            "commentCount": 13,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 3,
+              "Ng8Gice9KNkncxqcj": 2
+            }
+          }
+        },
+        {
+          "_id": "2Cn5iZMdge3rJbEae",
+          "baseScore": 3,
+          "post": {
+            "_id": "r8w2SxmYqgssdjWwd",
+            "slug": "when-omnipotence-is-not-enough",
+            "title": "When Omnipotence is Not Enough",
+            "postedAt": "2023-08-25T19:50:51.038Z",
+            "baseScore": 74,
+            "wordCount": 561,
+            "commentCount": 4,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 3,
+              "Ng8Gice9KNkncxqcj": 1,
+              "etDohXtBrXd8WqCtR": 2
+            }
+          }
+        },
+        {
+          "_id": "YnDCmQJxQJ2r4uQ7D",
+          "baseScore": 2,
+          "post": {
+            "_id": "q74jJCb9SFg2PSYCw",
+            "slug": "the-true-face-of-the-enemy",
+            "title": "The True Face of the Enemy",
+            "postedAt": "2021-01-12T10:03:23.777Z",
+            "baseScore": 31,
+            "wordCount": 3088,
+            "commentCount": 77,
+            "user": {
+              "displayName": "TheTrueSquid",
+              "slug": "thetruesquid"
+            },
+            "tags": [
+              {
+                "_id": "fH8jPjHF2R27sRTTG",
+                "name": "Education",
+                "slug": "education"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "fF9GEdWXKJ3z73TmB",
+                "name": "Scholarship & Learning",
+                "slug": "scholarship-and-learning"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "fF9GEdWXKJ3z73TmB": 1,
+              "fH8jPjHF2R27sRTTG": 3,
+              "xexCWMyds6QLWognu": 4
+            }
+          }
+        },
+        {
+          "_id": "YBkwiBAjJbR6Ykv8a",
+          "baseScore": 2,
+          "post": {
+            "_id": "n9ANKEJnW9KAy5QSh",
+            "slug": "the-king-and-the-golem-the-animation",
+            "title": "The King and the Golem - The Animation",
+            "postedAt": "2024-11-08T18:23:10.935Z",
+            "baseScore": 72,
+            "wordCount": 32,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Writer",
+              "slug": "writer"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "etDohXtBrXd8WqCtR": 2,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "XsWrvyAZJKshmHiQs",
+          "baseScore": 2,
+          "post": {
+            "_id": "7AKvSMavPZ8GjxFaa",
+            "slug": "charles-goodhart-elementary-school",
+            "title": "Charles Goodhart Elementary School",
+            "postedAt": "2026-08-05T17:06:07.208Z",
+            "baseScore": 43,
+            "wordCount": 499,
+            "commentCount": 3,
+            "user": {
+              "displayName": "Zack_M_Davis",
+              "slug": "zack_m_davis"
+            },
+            "tags": [
+              {
+                "_id": "fH8jPjHF2R27sRTTG",
+                "name": "Education",
+                "slug": "education"
+              },
+              {
+                "_id": "PvridmTCj2qsugQCH",
+                "name": "Goodhart's Law",
+                "slug": "goodhart-s-law"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "F2XfCTxXLQBGjbm8P": 2,
+              "PvridmTCj2qsugQCH": 2,
+              "fH8jPjHF2R27sRTTG": 2
+            }
+          }
+        },
+        {
+          "_id": "xJQSzemMKnssksv9y",
+          "baseScore": 2,
+          "post": null
+        },
+        {
+          "_id": "XfmRhmQnPQbk9p4Jx",
+          "baseScore": 2,
+          "post": {
+            "_id": "ctpkTaqTKbmm6uRgC",
+            "slug": "failed-utopia-4-2",
+            "title": "Failed Utopia #4-2",
+            "postedAt": "2009-01-21T11:04:43.000Z",
+            "baseScore": 159,
+            "wordCount": 2792,
+            "commentCount": 275,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "W9aNkPwtPhMrcfgj7",
+                "name": "Sex & Gender",
+                "slug": "sex-and-gender"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "t3vNhmcpuGJmbFNvd",
+                "name": "Utopia",
+                "slug": "utopia"
+              },
+              {
+                "_id": "sSNtcEQsqHgN8ZmRF",
+                "name": "Fun Theory",
+                "slug": "fun-theory"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "W9aNkPwtPhMrcfgj7": 3,
+              "etDohXtBrXd8WqCtR": 15,
+              "sSNtcEQsqHgN8ZmRF": 1,
+              "t3vNhmcpuGJmbFNvd": 2
+            }
+          }
+        },
+        {
+          "_id": "Wibxxc5S23qPKpnbT",
+          "baseScore": 2,
+          "post": {
+            "_id": "Ltey8BS83qSkd9M3u",
+            "slug": "a-parable-on-obsolete-ideologies",
+            "title": "A Parable On Obsolete Ideologies",
+            "postedAt": "2009-05-13T22:51:50.133Z",
+            "baseScore": 186,
+            "wordCount": 2004,
+            "commentCount": 288,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "kdbs6xBndPkmrYAxM",
+                "name": "Politics",
+                "slug": "politics"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "gHCNhqxuJq2bZ2akb",
+                "name": "Social & Cultural Dynamics",
+                "slug": "social-and-cultural-dynamics"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "gHCNhqxuJq2bZ2akb": 2,
+              "kdbs6xBndPkmrYAxM": 3
+            }
+          }
+        },
+        {
+          "_id": "uBXJzaHMz7dvqdaYq",
+          "baseScore": 2,
+          "post": {
+            "_id": "nAcJzLgACfiNTnMR7",
+            "slug": "rational-agents-win",
+            "title": "\"Rational Agents Win\"",
+            "postedAt": "2021-09-23T07:59:09.072Z",
+            "baseScore": 8,
+            "wordCount": 456,
+            "commentCount": 33,
+            "user": {
+              "displayName": "Isaac King",
+              "slug": "kingsupernova"
+            },
+            "tags": [
+              {
+                "_id": "WnnwytvzpKqJ3YChY",
+                "name": "Newcomb's Problem",
+                "slug": "newcomb-s-problem"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "Ng8Gice9KNkncxqcj": 2,
+              "WnnwytvzpKqJ3YChY": 2
+            }
+          }
+        },
+        {
+          "_id": "toqs8j8bX75wt7tjq",
+          "baseScore": 2,
+          "post": {
+            "_id": "AYbhqi65SWzHzy7Xx",
+            "slug": "transhumanist-fables",
+            "title": "Transhumanist Fables",
+            "postedAt": "2013-05-28T01:55:20.000Z",
+            "baseScore": 137,
+            "wordCount": 800,
+            "commentCount": 7,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "jiuackr7B5JAetbF6",
+                "name": "Transhumanism",
+                "slug": "transhumanism"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "hNFdS3rRiYgqqD8aM": 3,
+              "jiuackr7B5JAetbF6": 2
+            }
+          }
+        },
+        {
+          "_id": "TJdy25yQXtTu9Aqa7",
+          "baseScore": 2,
+          "post": {
+            "_id": "cujpciCqNbawBihhQ",
+            "slug": "self-integrity-and-the-drowning-child",
+            "title": "Self-Integrity and the Drowning Child",
+            "postedAt": "2021-10-24T20:57:01.742Z",
+            "baseScore": 355,
+            "wordCount": 1456,
+            "commentCount": 91,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "EmaCLRKb4baBFq4ra",
+                "name": "Dath Ilan",
+                "slug": "dath-ilan"
+              },
+              {
+                "_id": "nSHiKwWyMZFdZg5qt",
+                "name": "Ethics & Morality",
+                "slug": "ethics-and-morality"
+              },
+              {
+                "_id": "GpLuMNKKpeJkmigEY",
+                "name": "Integrity",
+                "slug": "integrity"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "7SwDQTmkovtTAxsNo",
+                "name": "Keltham",
+                "slug": "keltham"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "7SwDQTmkovtTAxsNo": 1,
+              "EmaCLRKb4baBFq4ra": 6,
+              "F2XfCTxXLQBGjbm8P": 2,
+              "GpLuMNKKpeJkmigEY": 2,
+              "Ng8Gice9KNkncxqcj": 4,
+              "nSHiKwWyMZFdZg5qt": 4
+            }
+          }
+        },
+        {
+          "_id": "tGuHbooaewFic25Tn",
+          "baseScore": 2,
+          "post": {
+            "_id": "5wMcKNAwB6X4mp9og",
+            "slug": "that-alien-message",
+            "title": "That Alien Message",
+            "postedAt": "2008-05-22T05:55:13.000Z",
+            "baseScore": 445,
+            "wordCount": 3009,
+            "commentCount": 178,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "zCYXpx33wq8chGyEz",
+                "name": "AI Boxing (Containment)",
+                "slug": "ai-boxing-containment"
+              },
+              {
+                "_id": "22z6XpWKqw3bNv4oR",
+                "name": "Simulation Hypothesis",
+                "slug": "simulation-hypothesis"
+              },
+              {
+                "_id": "4fxcbJ8xSv4SAYkkx",
+                "name": "Bayesianism",
+                "slug": "bayesianism"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "22z6XpWKqw3bNv4oR": 4,
+              "4fxcbJ8xSv4SAYkkx": 2,
+              "F2XfCTxXLQBGjbm8P": 2,
+              "etDohXtBrXd8WqCtR": 23,
+              "sYm3HiWcfZvrGu3ui": 10,
+              "zCYXpx33wq8chGyEz": 15
+            }
+          }
+        },
+        {
+          "_id": "suSFLJgBvWQLwmk5e",
+          "baseScore": 2,
+          "post": {
+            "_id": "x5CNievhunvBjJAC9",
+            "slug": "the-broken-screwdriver-and-other-parables",
+            "title": "The Broken Screwdriver and other parables",
+            "postedAt": "2024-03-04T03:34:38.807Z",
+            "baseScore": 49,
+            "wordCount": 609,
+            "commentCount": 1,
+            "user": null,
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2
+            }
+          }
+        },
+        {
+          "_id": "s5kP7EyuSPYfivbSp",
+          "baseScore": 2,
+          "post": {
+            "_id": "wP2BJJnJKD6gow58L",
+            "slug": "rationalist-seder-a-story-of-war",
+            "title": "Rationalist Seder: A Story of War",
+            "postedAt": "2017-06-03T20:17:10.163Z",
+            "baseScore": 13,
+            "wordCount": 527,
+            "commentCount": 14,
+            "user": {
+              "displayName": "Raemon",
+              "slug": "raemon"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2
+            }
+          }
+        },
+        {
+          "_id": "R3kCGsppYftDdJWD5",
+          "baseScore": 2,
+          "post": {
+            "_id": "Fjfe2BuihTAE58A27",
+            "slug": "what-are-examples-of-rationalist-fable-like-stories",
+            "title": "What are examples of Rationalist fable-like stories?",
+            "postedAt": "2020-09-28T16:52:13.500Z",
+            "baseScore": 19,
+            "wordCount": 109,
+            "commentCount": 41,
+            "user": {
+              "displayName": "Mati_Roy",
+              "slug": "mathieuroy"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "izp6eeJJEg9v5zcur",
+                "name": "Community",
+                "slug": "community"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "Ng8Gice9KNkncxqcj": 2,
+              "izp6eeJJEg9v5zcur": 2
+            }
+          }
+        },
+        {
+          "_id": "Qiydyaffkn6bHpwqK",
+          "baseScore": 2,
+          "post": {
+            "_id": "2gWs8SScqeDFidqyv",
+            "slug": "the-logician-and-the-god-emperor",
+            "title": "The Logician And The God-Emperor",
+            "postedAt": "2013-12-05T01:54:07.000Z",
+            "baseScore": 62,
+            "wordCount": 283,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2
+            }
+          }
+        },
+        {
+          "_id": "LcLY9WfFJpREAsRCE",
+          "baseScore": 2,
+          "post": {
+            "_id": "cKrgy7hLdszkse2pq",
+            "slug": "archimedes-s-chronophone",
+            "title": "Archimedes's Chronophone",
+            "postedAt": "2007-03-23T17:43:19.000Z",
+            "baseScore": 83,
+            "wordCount": 1198,
+            "commentCount": 94,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "4R8JYu4QF2FqzJxE5",
+                "name": "Heuristics & Biases",
+                "slug": "heuristics-and-biases"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "HhQvdfkcWpb6S2Ap2",
+                "name": "Slavery",
+                "slug": "slavery"
+              }
+            ],
+            "tagRelevance": {
+              "4R8JYu4QF2FqzJxE5": 2,
+              "F2XfCTxXLQBGjbm8P": 2,
+              "HhQvdfkcWpb6S2Ap2": 1
+            }
+          }
+        },
+        {
+          "_id": "Jja5xCQZDFcgCT9ik",
+          "baseScore": 2,
+          "post": {
+            "_id": "qaHHJ3kkCQS4nsoGJ",
+            "slug": "it-was-you-who-made-my-blue-eyes-blue",
+            "title": "It Was You Who Made My Blue Eyes Blue",
+            "postedAt": "2015-10-15T19:46:40.520Z",
+            "baseScore": 58,
+            "wordCount": 5892,
+            "commentCount": 3,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "kCuRQE5Tkv9zeKyzK",
+                "name": "Common Knowledge",
+                "slug": "common-knowledge"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "etDohXtBrXd8WqCtR": 1,
+              "kCuRQE5Tkv9zeKyzK": 1
+            }
+          }
+        },
+        {
+          "_id": "FCS5rTKrCcT9bPkWj",
+          "baseScore": 2,
+          "post": {
+            "_id": "Q9omyL3qooXdjnyZn",
+            "slug": "that-alien-message-the-animation",
+            "title": "That Alien Message - The Animation",
+            "postedAt": "2024-09-07T14:53:30.604Z",
+            "baseScore": 144,
+            "wordCount": 2398,
+            "commentCount": 10,
+            "user": {
+              "displayName": "Writer",
+              "slug": "writer"
+            },
+            "tags": [
+              {
+                "_id": "zCYXpx33wq8chGyEz",
+                "name": "AI Boxing (Containment)",
+                "slug": "ai-boxing-containment"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "F2XfCTxXLQBGjbm8P": 2,
+              "etDohXtBrXd8WqCtR": 2,
+              "zCYXpx33wq8chGyEz": 3
+            }
+          }
+        },
+        {
+          "_id": "dSpqmdi5ESNgcap5x",
+          "baseScore": 2,
+          "post": {
+            "_id": "hQxYBfu2LPc9Ydo6w",
+            "slug": "the-parable-of-the-dagger",
+            "title": "The Parable of the Dagger",
+            "postedAt": "2008-02-01T20:53:05.000Z",
+            "baseScore": 251,
+            "wordCount": 386,
+            "commentCount": 105,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "FtT2T9bRbECCGYxrL",
+                "name": "Philosophy of Language",
+                "slug": "philosophy-of-language"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "FtT2T9bRbECCGYxrL": 3
+            }
+          }
+        },
+        {
+          "_id": "BSZMbZDgaCoPrGwbS",
+          "baseScore": 2,
+          "post": {
+            "_id": "oudhBX8DFdaZ5gv6K",
+            "slug": "the-parable-of-the-underdog",
+            "title": "The parable of the underdog",
+            "postedAt": "2025-08-17T22:39:04.295Z",
+            "baseScore": 22,
+            "wordCount": 583,
+            "commentCount": 4,
+            "user": {
+              "displayName": "Said Achmiz",
+              "slug": "saidachmiz"
+            },
+            "tags": [
+              {
+                "_id": "E8PHMuf7tsr8teXAe",
+                "name": "Betting",
+                "slug": "betting"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "E8PHMuf7tsr8teXAe": 2,
+              "F2XfCTxXLQBGjbm8P": 2
+            }
+          }
+        },
+        {
+          "_id": "b3nJc9NYJchwgsnoa",
+          "baseScore": 2,
+          "post": {
+            "_id": "JEFkTMCQhuA9xezun",
+            "slug": "the-fear-fiction",
+            "title": "The Fear [Fiction]",
+            "postedAt": "2022-12-23T21:21:00.535Z",
+            "baseScore": 7,
+            "wordCount": 418,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Yitz",
+              "slug": "yitz"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "etDohXtBrXd8WqCtR": 2
+            }
+          }
+        },
+        {
+          "_id": "AuJQzxXGDDPzE7rG3",
+          "baseScore": 2,
+          "post": {
+            "_id": "JYop2jAsbabADLCkm",
+            "slug": "the-goddess-of-everything-else-the-animation",
+            "title": "The Goddess of Everything Else - The Animation",
+            "postedAt": "2023-07-13T16:26:25.552Z",
+            "baseScore": 153,
+            "wordCount": 19,
+            "commentCount": 4,
+            "user": {
+              "displayName": "Writer",
+              "slug": "writer"
+            },
+            "tags": [
+              {
+                "_id": "KDpqtN3MxHSmD4vcB",
+                "name": "Art",
+                "slug": "art"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "KDpqtN3MxHSmD4vcB": 2,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "AFPZdocyuooeJNeB3",
+          "baseScore": 2,
+          "post": {
+            "_id": "bteq4hMW2hqtKE49d",
+            "slug": "the-king-and-the-golem",
+            "title": "The King and the Golem",
+            "postedAt": "2023-09-25T19:51:22.980Z",
+            "baseScore": 212,
+            "wordCount": 1472,
+            "commentCount": 19,
+            "user": {
+              "displayName": "Richard_Ngo",
+              "slug": "ricraz"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "etDohXtBrXd8WqCtR": 1,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "65RwDKqJ5eFh9kDrz",
+          "baseScore": 2,
+          "post": {
+            "_id": "2mLZiWxWKZyaRgcn7",
+            "slug": "selling-nonapples",
+            "title": "Selling Nonapples",
+            "postedAt": "2008-11-13T20:10:58.000Z",
+            "baseScore": 77,
+            "wordCount": 2008,
+            "commentCount": 78,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "fuZZ64fNz24BLrXnY",
+                "name": "Robotics",
+                "slug": "robotics"
+              },
+              {
+                "_id": "Z5A4c4kjTgLSFEr3h",
+                "name": "Autonomous Vehicles",
+                "slug": "autonomous-vehicles"
+              },
+              {
+                "_id": "GY5kPPpCoyt9fnTMn",
+                "name": "Computer Science",
+                "slug": "computer-science"
+              },
+              {
+                "_id": "N3CqcPdCZNspF9bFb",
+                "name": "Emergent Behavior ( Emergence )",
+                "slug": "emergent-behavior-emergence"
+              },
+              {
+                "_id": "fpEBgFE7fgpxTm9BF",
+                "name": "Machine Learning  (ML)",
+                "slug": "machine-learning-ml"
+              },
+              {
+                "_id": "HFou6RHqFagkyrKkW",
+                "name": "Programming",
+                "slug": "programming"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "GY5kPPpCoyt9fnTMn": 1,
+              "HFou6RHqFagkyrKkW": 1,
+              "N3CqcPdCZNspF9bFb": 1,
+              "Z5A4c4kjTgLSFEr3h": 1,
+              "fpEBgFE7fgpxTm9BF": 1,
+              "fuZZ64fNz24BLrXnY": 2,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "3Cd69bhszppR7xHqt",
+          "baseScore": 2,
+          "post": {
+            "_id": "WajiC3YWeJutyAXTn",
+            "slug": "where-physics-meets-experience",
+            "title": "Where Physics Meets Experience",
+            "postedAt": "2008-04-25T04:58:11.000Z",
+            "baseScore": 79,
+            "wordCount": 3361,
+            "commentCount": 38,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "PbShukhzpLsWpGXkM",
+                "name": "Anthropics",
+                "slug": "anthropics"
+              },
+              {
+                "_id": "XSryTypw5Hszpa4TS",
+                "name": "Consciousness",
+                "slug": "consciousness"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "csMv9MvvjYJyeHqoo",
+                "name": "Physics",
+                "slug": "physics"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "PbShukhzpLsWpGXkM": 2,
+              "XSryTypw5Hszpa4TS": 2,
+              "csMv9MvvjYJyeHqoo": 1,
+              "etDohXtBrXd8WqCtR": 2
+            }
+          }
+        },
+        {
+          "_id": "zJXHQc3wJ5SPfNGhC",
+          "baseScore": 1,
+          "post": {
+            "_id": "sr8ofXiGHNhjjqa7A",
+            "slug": "a-short-story-about-differing-intelligence-levels",
+            "title": "A short story about differing intelligence levels",
+            "postedAt": "2023-09-15T14:28:33.537Z",
+            "baseScore": 1,
+            "wordCount": 1751,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Cryptoyeti",
+              "slug": "cryptoyeti"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1
+            }
+          }
+        },
+        {
+          "_id": "YNpHPJdYsLn8scLgg",
+          "baseScore": 1,
+          "post": {
+            "_id": "7gfA2RSibbr2cdEgp",
+            "slug": "the-wise-baboon-of-loyalty",
+            "title": "The Wise Baboon of Loyalty",
+            "postedAt": "2025-10-08T18:48:31.314Z",
+            "baseScore": 13,
+            "wordCount": 1247,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Zander_Drax",
+              "slug": "zander_drax"
+            },
+            "tags": [
+              {
+                "_id": "qHDus5MuMNqQxJbjD",
+                "name": "AI Governance",
+                "slug": "ai-governance"
+              },
+              {
+                "_id": "KEAWfxwjitNJFrC68",
+                "name": "Deceptive Alignment",
+                "slug": "deceptive-alignment"
+              },
+              {
+                "_id": "Dw5Z6wtTgk4Fikz9f",
+                "name": "Inner Alignment",
+                "slug": "inner-alignment"
+              },
+              {
+                "_id": "BisjoDrd3oNatDu7X",
+                "name": "Outer Alignment",
+                "slug": "outer-alignment"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "BisjoDrd3oNatDu7X": 1,
+              "Dw5Z6wtTgk4Fikz9f": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "KEAWfxwjitNJFrC68": 1,
+              "qHDus5MuMNqQxJbjD": 1
+            }
+          }
+        },
+        {
+          "_id": "yKxRGx8md5KQjXNLo",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "xBhCFrrRoYvQ79i97",
+          "baseScore": 1,
+          "post": {
+            "_id": "BzCQHnt7z8qvzqCmi",
+            "slug": "the-parable-of-the-fallen-pendulum-part-1",
+            "title": "The Parable Of The Fallen Pendulum - Part 1",
+            "postedAt": "2024-03-01T00:25:00.111Z",
+            "baseScore": 117,
+            "wordCount": 521,
+            "commentCount": 32,
+            "user": {
+              "displayName": "johnswentworth",
+              "slug": "johnswentworth"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1
+            }
+          }
+        },
+        {
+          "_id": "uwzKz7vmqXB2SD5YJ",
+          "baseScore": 1,
+          "post": {
+            "_id": "jyNc8gY2dDb2FnrFB",
+            "slug": "places-of-loving-grace-story",
+            "title": "Places of Loving Grace [Story]",
+            "postedAt": "2025-02-18T23:49:18.580Z",
+            "baseScore": -1,
+            "wordCount": 1142,
+            "commentCount": 0,
+            "user": {
+              "displayName": "ank",
+              "slug": "ank"
+            },
+            "tags": [
+              {
+                "_id": "F5gRQdEQHzi3tQ5Ay",
+                "name": "AI Control",
+                "slug": "ai-control"
+              },
+              {
+                "_id": "qHDus5MuMNqQxJbjD",
+                "name": "AI Governance",
+                "slug": "ai-governance"
+              },
+              {
+                "_id": "YkPxg2tFDQNdaEZDJ",
+                "name": "AI Risk Concrete Stories",
+                "slug": "ai-risk-concrete-stories"
+              },
+              {
+                "_id": "oiRp4T6u5poc8r9Tj",
+                "name": "AI Takeoff",
+                "slug": "ai-takeoff"
+              },
+              {
+                "_id": "zHjC29kkPmsdo7WTr",
+                "name": "AI Timelines",
+                "slug": "ai-timelines"
+              },
+              {
+                "_id": "SrW9iP2j6Hi8R5PmT",
+                "name": "Black Swans",
+                "slug": "black-swans"
+              },
+              {
+                "_id": "KEAWfxwjitNJFrC68",
+                "name": "Deceptive Alignment",
+                "slug": "deceptive-alignment"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "pGqRLe9bFDX2G2kXY",
+                "name": "Futurism",
+                "slug": "futurism"
+              },
+              {
+                "_id": "aozxtmy7FEkkvfWzE",
+                "name": "Grabby Aliens",
+                "slug": "grabby-aliens"
+              },
+              {
+                "_id": "25oxqHiadqM6Hf7Gn",
+                "name": "Great Filter",
+                "slug": "great-filter"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb1c9",
+                "name": "Many-Worlds Interpretation",
+                "slug": "many-worlds-interpretation"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb26d",
+                "name": "Oracle AI",
+                "slug": "oracle-ai"
+              },
+              {
+                "_id": "BisjoDrd3oNatDu7X",
+                "name": "Outer Alignment",
+                "slug": "outer-alignment"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Wgbgir4qzGz8Ztt3u",
+                "name": "Past and Future Selves",
+                "slug": "past-and-future-selves"
+              },
+              {
+                "_id": "QmvAYnvqYpXeHi2Xi",
+                "name": "Simulation",
+                "slug": "simulation-1"
+              },
+              {
+                "_id": "22z6XpWKqw3bNv4oR",
+                "name": "Simulation Hypothesis",
+                "slug": "simulation-hypothesis"
+              },
+              {
+                "_id": "xjNvvmvQ5BH3cfEBr",
+                "name": "Simulator Theory",
+                "slug": "simulator-theory"
+              },
+              {
+                "_id": "8Xec73Ndz2F59AmGe",
+                "name": "Vulnerable World Hypothesis",
+                "slug": "vulnerable-world-hypothesis"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "22z6XpWKqw3bNv4oR": 1,
+              "25oxqHiadqM6Hf7Gn": 1,
+              "8Xec73Ndz2F59AmGe": 1,
+              "BisjoDrd3oNatDu7X": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "F5gRQdEQHzi3tQ5Ay": 1,
+              "KEAWfxwjitNJFrC68": 1,
+              "QmvAYnvqYpXeHi2Xi": 1,
+              "SrW9iP2j6Hi8R5PmT": 1,
+              "Wgbgir4qzGz8Ztt3u": 1,
+              "YkPxg2tFDQNdaEZDJ": 1,
+              "aozxtmy7FEkkvfWzE": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "hNFdS3rRiYgqqD8aM": 1,
+              "oiRp4T6u5poc8r9Tj": 1,
+              "pGqRLe9bFDX2G2kXY": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "qHDus5MuMNqQxJbjD": 1,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "xjNvvmvQ5BH3cfEBr": 1,
+              "zHjC29kkPmsdo7WTr": 1,
+              "5f5c37ee1b5cdee568cfb1c9": 1,
+              "5f5c37ee1b5cdee568cfb26d": 1
+            }
+          }
+        },
+        {
+          "_id": "uWqSiAXiRJjWNwuG5",
+          "baseScore": 1,
+          "post": {
+            "_id": "vGbHKfgFNDeJohfeN",
+            "slug": "where-experience-confuses-physicists",
+            "title": "Where Experience Confuses Physicists",
+            "postedAt": "2008-04-26T05:05:01.000Z",
+            "baseScore": 44,
+            "wordCount": 2546,
+            "commentCount": 30,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "PbShukhzpLsWpGXkM",
+                "name": "Anthropics",
+                "slug": "anthropics"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "csMv9MvvjYJyeHqoo",
+                "name": "Physics",
+                "slug": "physics"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "PbShukhzpLsWpGXkM": 1,
+              "csMv9MvvjYJyeHqoo": 1,
+              "etDohXtBrXd8WqCtR": 1
+            }
+          }
+        },
+        {
+          "_id": "SK9SvP8gFJqdKENmm",
+          "baseScore": 1,
+          "post": {
+            "_id": "63hx4EKS2PoCrFqmy",
+            "slug": "the-parable-of-the-dagger-the-animation",
+            "title": "The Parable of the Dagger - The Animation",
+            "postedAt": "2023-07-29T14:03:12.023Z",
+            "baseScore": 20,
+            "wordCount": 238,
+            "commentCount": 6,
+            "user": {
+              "displayName": "Writer",
+              "slug": "writer"
+            },
+            "tags": [
+              {
+                "_id": "KDpqtN3MxHSmD4vcB",
+                "name": "Art",
+                "slug": "art"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "FtT2T9bRbECCGYxrL",
+                "name": "Philosophy of Language",
+                "slug": "philosophy-of-language"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "FtT2T9bRbECCGYxrL": 1,
+              "KDpqtN3MxHSmD4vcB": 1,
+              "Ng8Gice9KNkncxqcj": 2
+            }
+          }
+        },
+        {
+          "_id": "SbLLhdtPqYr5enFDd",
+          "baseScore": 1,
+          "post": {
+            "_id": "pfQXC4z6PbL4nxt9z",
+            "slug": "the-sailor-s-wife",
+            "title": "The sailor's wife",
+            "postedAt": "2021-02-27T00:23:24.353Z",
+            "baseScore": 4,
+            "wordCount": 745,
+            "commentCount": 2,
+            "user": {
+              "displayName": "krbouchard",
+              "slug": "krbouchard"
+            },
+            "tags": [
+              {
+                "_id": "nSHiKwWyMZFdZg5qt",
+                "name": "Ethics & Morality",
+                "slug": "ethics-and-morality"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "tTp6uCjAMJh66vZkc",
+                "name": "Moral uncertainty",
+                "slug": "moral-uncertainty"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "nSHiKwWyMZFdZg5qt": 1,
+              "tTp6uCjAMJh66vZkc": 1
+            }
+          }
+        },
+        {
+          "_id": "rvb3kzeb6y3BdmYLe",
+          "baseScore": 1,
+          "post": {
+            "_id": "w5TFjMW6JCxrPYy8n",
+            "slug": "dual-track-narratives-for-alignment-thinking",
+            "title": "Dual-track narratives for alignment thinking ",
+            "postedAt": "2026-07-13T14:46:56.164Z",
+            "baseScore": 1,
+            "wordCount": 116,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Yoann B",
+              "slug": "yoann-b"
+            },
+            "tags": [
+              {
+                "_id": "6zBEfFYJxhSEcchbR",
+                "name": "AI Alignment Fieldbuilding",
+                "slug": "ai-alignment-fieldbuilding"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "wK59GLLXFhP6D7FWo",
+                "name": "Human Alignment",
+                "slug": "human-alignment"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "kdbs6xBndPkmrYAxM",
+                "name": "Politics",
+                "slug": "politics"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "6zBEfFYJxhSEcchbR": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "Ng8Gice9KNkncxqcj": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "kdbs6xBndPkmrYAxM": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1,
+              "wK59GLLXFhP6D7FWo": 1
+            }
+          }
+        },
+        {
+          "_id": "RPzXxfnvzniQ4Kz5c",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "ptGjtWRxQsppGopJB",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "n7WjzbkK9aHkgddPY",
+          "baseScore": 1,
+          "post": {
+            "_id": "sNg4oGDrfka47Bu6Y",
+            "slug": "the-balto-togo-theory-of-scientific-development",
+            "title": "The Balto/Togo theory of scientific development",
+            "postedAt": "2022-10-09T18:30:07.452Z",
+            "baseScore": 69,
+            "wordCount": 696,
+            "commentCount": 5,
+            "user": {
+              "displayName": "Elizabeth",
+              "slug": "elizabeth-1"
+            },
+            "tags": [
+              {
+                "_id": "ZpG9rheyAkgCoEQea",
+                "name": "Practice & Philosophy of Science",
+                "slug": "practice-and-philosophy-of-science"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "ZpG9rheyAkgCoEQea": 2
+            }
+          }
+        },
+        {
+          "_id": "mrtoKHsqKPhcjw98y",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "kpyFTnBptbNbvEEzH",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "JrfJM265FYrTZm8AX",
+          "baseScore": 1,
+          "post": {
+            "_id": "xLhsdrnkaPNDMLeYR",
+            "slug": "aldix-and-the-book-of-life",
+            "title": "Aldix and the Book of Life",
+            "postedAt": "2024-01-01T17:23:30.698Z",
+            "baseScore": 1,
+            "wordCount": 1334,
+            "commentCount": 0,
+            "user": {
+              "displayName": "ville",
+              "slug": "ville"
+            },
+            "tags": [
+              {
+                "_id": "t7t9nW6BtJhfGNSR6",
+                "name": "Aging",
+                "slug": "aging"
+              },
+              {
+                "_id": "PvridmTCj2qsugQCH",
+                "name": "Goodhart's Law",
+                "slug": "goodhart-s-law"
+              },
+              {
+                "_id": "vmvTYnmaKA73fYDe5",
+                "name": "Life Extension",
+                "slug": "life-extension"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "PvridmTCj2qsugQCH": 1,
+              "t7t9nW6BtJhfGNSR6": 1,
+              "vmvTYnmaKA73fYDe5": 1
+            }
+          }
+        },
+        {
+          "_id": "j2RBhnhwhzFKC9hwS",
+          "baseScore": 1,
+          "post": {
+            "_id": "DLGKMb5BRvWBoi86H",
+            "slug": "goal-alignment-a-short-poem-about-a-llm-having-psychosis",
+            "title": "GOAL! Alignment - a short poem about a LLM having psychosis",
+            "postedAt": "2026-07-02T13:30:50.908Z",
+            "baseScore": 1,
+            "wordCount": 204,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Yoann B",
+              "slug": "yoann-b"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "xknvtHwqvqhwahW8Q",
+                "name": "Human Values",
+                "slug": "human-values"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "AXhEhCkTrHZbjXXu3",
+                "name": "Poetry",
+                "slug": "poetry"
+              },
+              {
+                "_id": "kdbs6xBndPkmrYAxM",
+                "name": "Politics",
+                "slug": "politics"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "AXhEhCkTrHZbjXXu3": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "kdbs6xBndPkmrYAxM": 1,
+              "sYm3HiWcfZvrGu3ui": 1,
+              "xknvtHwqvqhwahW8Q": 1
+            }
+          }
+        },
+        {
+          "_id": "iMcFfQF2PP3GKc82i",
+          "baseScore": 1,
+          "post": {
+            "_id": "WqGCaRhib42dhKWRL",
+            "slug": "if-many-worlds-had-come-first",
+            "title": "If Many-Worlds Had Come First",
+            "postedAt": "2008-05-10T07:43:55.000Z",
+            "baseScore": 100,
+            "wordCount": 2620,
+            "commentCount": 190,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb1c9",
+                "name": "Many-Worlds Interpretation",
+                "slug": "many-worlds-interpretation"
+              },
+              {
+                "_id": "nBCLy89Nqd8ouR6XT",
+                "name": "Quantum Mechanics",
+                "slug": "quantum-mechanics"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "hQiuNkBhn6xxcedTD",
+                "name": "Occam's Razor",
+                "slug": "occam-s-razor"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "csMv9MvvjYJyeHqoo",
+                "name": "Physics",
+                "slug": "physics"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "csMv9MvvjYJyeHqoo": 1,
+              "etDohXtBrXd8WqCtR": 2,
+              "hNFdS3rRiYgqqD8aM": 2,
+              "hQiuNkBhn6xxcedTD": 1,
+              "nBCLy89Nqd8ouR6XT": 3,
+              "5f5c37ee1b5cdee568cfb1c9": 3
+            }
+          }
+        },
+        {
+          "_id": "gqjHRxJs9doAzJDSk",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "GDcBcxPGipp2aJcya",
+          "baseScore": 1,
+          "post": {
+            "_id": "4kTTGYNFB2C3LsuPP",
+            "slug": "great-responsibility-requires-great-power",
+            "title": "Great responsibility requires great power",
+            "postedAt": "2025-08-25T15:18:33.699Z",
+            "baseScore": 16,
+            "wordCount": 1751,
+            "commentCount": 0,
+            "user": {
+              "displayName": "dr_s",
+              "slug": "dr_s"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 2,
+              "hNFdS3rRiYgqqD8aM": 2,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "fq6gFdtCSDzTmPpyc",
+          "baseScore": 1,
+          "post": {
+            "_id": "rwjv8bZfSuE9ZAigH",
+            "slug": "act-of-charity",
+            "title": "Act of Charity",
+            "postedAt": "2018-11-17T05:19:20.786Z",
+            "baseScore": 182,
+            "wordCount": 2396,
+            "commentCount": 49,
+            "user": {
+              "displayName": "jessicata",
+              "slug": "jessica-liu-taylor"
+            },
+            "tags": [
+              {
+                "_id": "EnFKSZYiDHqMJuvJL",
+                "name": "Social Reality",
+                "slug": "social-reality"
+              },
+              {
+                "_id": "JsJPrdgRGRqnci8cZ",
+                "name": "Altruism",
+                "slug": "altruism"
+              },
+              {
+                "_id": "iP2X4jQNHMWHRNPne",
+                "name": "Motivations",
+                "slug": "motivations"
+              },
+              {
+                "_id": "yXNtYNHJB54T3bGm3",
+                "name": "Dialogue (format)",
+                "slug": "dialogue-format"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "EnFKSZYiDHqMJuvJL": 4,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "JsJPrdgRGRqnci8cZ": 2,
+              "Ng8Gice9KNkncxqcj": 2,
+              "iP2X4jQNHMWHRNPne": 2,
+              "xexCWMyds6QLWognu": 2,
+              "yXNtYNHJB54T3bGm3": 1
+            }
+          }
+        },
+        {
+          "_id": "eSZdsjmWFe4X8H2JG",
+          "baseScore": 1,
+          "post": {
+            "_id": "hRQMYqDCauyGZroen",
+            "slug": "pascal-s-mugging-the-word-wars",
+            "title": "Pascal's Mugging: The Word Wars",
+            "postedAt": "2023-10-16T17:54:54.570Z",
+            "baseScore": 9,
+            "wordCount": 1689,
+            "commentCount": 1,
+            "user": {
+              "displayName": "johncrox",
+              "slug": "johncrox"
+            },
+            "tags": [
+              {
+                "_id": "tgJoX7PGDDh2vJNqT",
+                "name": "Acausal Trade",
+                "slug": "acausal-trade"
+              },
+              {
+                "_id": "chuP2QqQycjD8qakL",
+                "name": "Coordination / Cooperation",
+                "slug": "coordination-cooperation"
+              },
+              {
+                "_id": "b8FHrKqyXuYGWc6vn",
+                "name": "Game Theory",
+                "slug": "game-theory"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "Ng8Gice9KNkncxqcj": 1,
+              "b8FHrKqyXuYGWc6vn": 1,
+              "chuP2QqQycjD8qakL": 1,
+              "tgJoX7PGDDh2vJNqT": 1
+            }
+          }
+        },
+        {
+          "_id": "EiN3euigbqB43vDq3",
+          "baseScore": 1,
+          "post": {
+            "_id": "B3ThCLosQfJRjqCXy",
+            "slug": "a-few-more-ants-and-grasshoppers",
+            "title": "A few more ants and grasshoppers",
+            "postedAt": "2023-06-17T23:38:20.579Z",
+            "baseScore": 16,
+            "wordCount": 1173,
+            "commentCount": 3,
+            "user": {
+              "displayName": "c.trout",
+              "slug": "ctrout"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "etDohXtBrXd8WqCtR": 2,
+              "xexCWMyds6QLWognu": 1
+            }
+          }
+        },
+        {
+          "_id": "CZMBiiCp4Btnks238",
+          "baseScore": 1,
+          "post": {
+            "_id": "y2rXb46i7FxjBdXHv",
+            "slug": "goyer-s-foundation-how-the-meanings-of-quadrivium-regina",
+            "title": "Goyer\u2019s Foundation: How the meanings of Quadrivium, Regina Scientarium and Bhagavad Gita populate the TV Show",
+            "postedAt": "2026-06-08T09:11:59.170Z",
+            "baseScore": 1,
+            "wordCount": 1544,
+            "commentCount": 0,
+            "user": {
+              "displayName": "erfanrr@gmail.com",
+              "slug": "erfanrr-gmail-com"
+            },
+            "tags": [
+              {
+                "_id": "fH8jPjHF2R27sRTTG",
+                "name": "Education",
+                "slug": "education"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "fH8jPjHF2R27sRTTG": 1
+            }
+          }
+        },
+        {
+          "_id": "cBRfyXCn3KNmoDaTu",
+          "baseScore": 1,
+          "post": {
+            "_id": "6aq7BesDkrjBzrrsS",
+            "slug": "a-parable-of-the-ripples-dream",
+            "title": "A Parable of the Ripples' Dream",
+            "postedAt": "2025-08-19T10:00:39.887Z",
+            "baseScore": 1,
+            "wordCount": 4053,
+            "commentCount": 0,
+            "user": {
+              "displayName": "SnowyField",
+              "slug": "snowyfield"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "8daMDi9NEShyLqxth",
+                "name": "Forecasting & Prediction",
+                "slug": "forecasting-and-prediction"
+              },
+              {
+                "_id": "k6igEkzKYY2EpY7Su",
+                "name": "Meta-Philosophy",
+                "slug": "meta-philosophy"
+              },
+              {
+                "_id": "BisjoDrd3oNatDu7X",
+                "name": "Outer Alignment",
+                "slug": "outer-alignment"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "kCrvmjZhsAZANnZL6",
+                "name": "Philosophy",
+                "slug": "philosophy-1"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "8daMDi9NEShyLqxth": 1,
+              "BisjoDrd3oNatDu7X": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "Ng8Gice9KNkncxqcj": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "k6igEkzKYY2EpY7Su": 1,
+              "kCrvmjZhsAZANnZL6": 1
+            }
+          }
+        },
+        {
+          "_id": "8KfpfpqpxuGvWjMKq",
+          "baseScore": 1,
+          "post": {
+            "_id": "fsDz6HieZJBu54Yes",
+            "slug": "zombies-the-movie",
+            "title": "Zombies: The Movie",
+            "postedAt": "2008-04-20T05:53:14.000Z",
+            "baseScore": 185,
+            "wordCount": 1035,
+            "commentCount": 82,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "uLqT8mmFiA8NeytTi",
+                "name": "Zombies",
+                "slug": "zombies"
+              },
+              {
+                "_id": "XSryTypw5Hszpa4TS",
+                "name": "Consciousness",
+                "slug": "consciousness"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "KqrZ5sDEyHm6JaaKp",
+                "name": "The Hard Problem of Consciousness",
+                "slug": "the-hard-problem-of-consciousness"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "KqrZ5sDEyHm6JaaKp": 2,
+              "XSryTypw5Hszpa4TS": 3,
+              "etDohXtBrXd8WqCtR": 5,
+              "hNFdS3rRiYgqqD8aM": 2,
+              "uLqT8mmFiA8NeytTi": 4
+            }
+          }
+        },
+        {
+          "_id": "6ArsSHyvGfJ6KuEzK",
+          "baseScore": 1,
+          "post": {
+            "_id": "2XTy6SNnSwFNhk6pR",
+            "slug": "give-neo-a-chance",
+            "title": "Give Neo a Chance",
+            "postedAt": "2025-03-06T01:48:16.637Z",
+            "baseScore": 3,
+            "wordCount": 2077,
+            "commentCount": 7,
+            "user": {
+              "displayName": "ank",
+              "slug": "ank"
+            },
+            "tags": [
+              {
+                "_id": "GDGYkF29pxEQNWjYc",
+                "name": "Agency",
+                "slug": "agency"
+              },
+              {
+                "_id": "F5gRQdEQHzi3tQ5Ay",
+                "name": "AI Control",
+                "slug": "ai-control"
+              },
+              {
+                "_id": "FBRwHSmTudwiHHtrn",
+                "name": "AI Evaluations",
+                "slug": "ai-evaluations"
+              },
+              {
+                "_id": "qHDus5MuMNqQxJbjD",
+                "name": "AI Governance",
+                "slug": "ai-governance"
+              },
+              {
+                "_id": "oiRp4T6u5poc8r9Tj",
+                "name": "AI Takeoff",
+                "slug": "ai-takeoff"
+              },
+              {
+                "_id": "Hs2ewfiKfuWKSscSQ",
+                "name": "Aligned AI Proposals",
+                "slug": "aligned-ai-proposals"
+              },
+              {
+                "_id": "oNcqyaWPXNGTTRPHm",
+                "name": "Existential risk",
+                "slug": "existential-risk"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "56yXXrcxRjrQs6z9R",
+                "name": "Interpretability (ML & AI)",
+                "slug": "interpretability-ml-and-ai"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Z38PqJbRyfwCxKvvL",
+                "name": "Research Agendas",
+                "slug": "research-agendas"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb297",
+                "name": "Superintelligence",
+                "slug": "superintelligence"
+              },
+              {
+                "_id": "JX69nZB8tfxnx5nGH",
+                "name": "Threat Models (AI)",
+                "slug": "threat-models-ai"
+              },
+              {
+                "_id": "LXk7bxNkYSjgatdAt",
+                "name": "Tool AI",
+                "slug": "tool-ai"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "2WQs8iB8cPmMfJGvf": 1,
+              "56yXXrcxRjrQs6z9R": 1,
+              "AjWnBCBRwJ4DXnvH8": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "F5gRQdEQHzi3tQ5Ay": 1,
+              "FBRwHSmTudwiHHtrn": 1,
+              "GDGYkF29pxEQNWjYc": 1,
+              "Hs2ewfiKfuWKSscSQ": 1,
+              "JX69nZB8tfxnx5nGH": 1,
+              "LXk7bxNkYSjgatdAt": 1,
+              "Z38PqJbRyfwCxKvvL": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "oNcqyaWPXNGTTRPHm": 1,
+              "oiRp4T6u5poc8r9Tj": 1,
+              "qHDus5MuMNqQxJbjD": 1,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "xexCWMyds6QLWognu": 1,
+              "5f5c37ee1b5cdee568cfb297": 1
+            }
+          }
+        },
+        {
+          "_id": "4aJ4LebX7Pc38r6Hd",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "2CGjDQwqLb5jKgwcN",
+          "baseScore": 1,
+          "post": {
+            "_id": "FwFdRmT6oCFWoHS7f",
+            "slug": "wolf-and-rabbit",
+            "title": "Wolf and Rabbit",
+            "postedAt": "2024-03-22T17:20:19.265Z",
+            "baseScore": 17,
+            "wordCount": 230,
+            "commentCount": 6,
+            "user": {
+              "displayName": "Richard Henage",
+              "slug": "richard-henage"
+            },
+            "tags": [
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "F2XfCTxXLQBGjbm8P": 1
+            }
+          }
+        }
+      ]
+    }
+  }
+}

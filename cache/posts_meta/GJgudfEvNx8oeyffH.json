@@ -1,0 +1,35 @@
+{
+  "_id": "GJgudfEvNx8oeyffH",
+  "slug": "the-ants-and-the-grasshopper",
+  "title": "The ants and the grasshopper",
+  "postedAt": "2023-06-04T22:00:04.577Z",
+  "baseScore": 517,
+  "wordCount": 1557,
+  "commentCount": 45,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 7,
+    "etDohXtBrXd8WqCtR": 9,
+    "xexCWMyds6QLWognu": 2
+  }
+}

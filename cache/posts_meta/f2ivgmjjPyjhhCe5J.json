@@ -1,0 +1,47 @@
+{
+  "_id": "f2ivgmjjPyjhhCe5J",
+  "slug": "what-could-one-do-with-truly-unlimited-computational-power",
+  "title": "What could one do with truly unlimited computational power?",
+  "postedAt": "2020-11-11T10:03:03.891Z",
+  "baseScore": 34,
+  "wordCount": 499,
+  "commentCount": 20,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "rjEZWSbSffhaWYRvo",
+      "name": "Hypotheticals",
+      "slug": "hypotheticals"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 5,
+    "Ng8Gice9KNkncxqcj": 5,
+    "etDohXtBrXd8WqCtR": 4,
+    "rjEZWSbSffhaWYRvo": 3,
+    "sYm3HiWcfZvrGu3ui": 5
+  }
+}

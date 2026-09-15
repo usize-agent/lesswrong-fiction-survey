@@ -1,0 +1,47 @@
+{
+  "_id": "KFJ2LFogYqzfGB3uX",
+  "slug": "how-ai-takeover-might-happen-in-2-years",
+  "title": "How AI Takeover Might Happen in 2 Years",
+  "postedAt": "2025-02-07T17:10:10.530Z",
+  "baseScore": 431,
+  "wordCount": 8553,
+  "commentCount": 142,
+  "user": {
+    "displayName": "joshc",
+    "slug": "joshc"
+  },
+  "tags": [
+    {
+      "_id": "YkPxg2tFDQNdaEZDJ",
+      "name": "AI Risk Concrete Stories",
+      "slug": "ai-risk-concrete-stories"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "YkPxg2tFDQNdaEZDJ": 5,
+    "ZFrgTgzwEfStg26JL": 4,
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 4,
+    "zHjC29kkPmsdo7WTr": 4
+  }
+}

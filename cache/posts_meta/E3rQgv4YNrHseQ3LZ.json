@@ -1,0 +1,29 @@
+{
+  "_id": "E3rQgv4YNrHseQ3LZ",
+  "slug": "invisible-networks-psyche-sort",
+  "title": "[Invisible Networks] Psyche-Sort",
+  "postedAt": "2022-04-02T15:40:05.279Z",
+  "baseScore": 24,
+  "wordCount": 536,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Kaj_Sotala",
+    "slug": "kaj_sotala"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

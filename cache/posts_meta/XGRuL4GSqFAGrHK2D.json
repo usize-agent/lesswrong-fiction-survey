@@ -1,0 +1,29 @@
+{
+  "_id": "XGRuL4GSqFAGrHK2D",
+  "slug": "pet-ownership",
+  "title": "Pet Ownership",
+  "postedAt": "2025-08-23T01:54:11.669Z",
+  "baseScore": 11,
+  "wordCount": 1040,
+  "commentCount": 0,
+  "user": {
+    "displayName": "incident-recipient",
+    "slug": "incident-recipient"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

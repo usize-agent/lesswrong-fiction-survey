@@ -1,0 +1,35 @@
+{
+  "_id": "iC9tQxxsP3iiLGwJD",
+  "slug": "matryoshka-faraday-box",
+  "title": "Matryoshka Faraday Box",
+  "postedAt": "2020-11-26T09:42:31.178Z",
+  "baseScore": 55,
+  "wordCount": 980,
+  "commentCount": 3,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 7
+  }
+}

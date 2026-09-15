@@ -1,0 +1,23 @@
+{
+  "_id": "v8awKCJC6xMLJtcmk",
+  "slug": "story-rejection",
+  "title": "[Story] Rejection",
+  "postedAt": "2011-09-09T04:39:18.007Z",
+  "baseScore": 28,
+  "wordCount": 614,
+  "commentCount": 4,
+  "user": {
+    "displayName": "atucker",
+    "slug": "atucker"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "SBL5WnEFkddRsn7Kz",
+  "slug": "killswitch",
+  "title": "Killswitch",
+  "postedAt": "2023-11-18T22:53:41.436Z",
+  "baseScore": 2,
+  "wordCount": 928,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Junio",
+    "slug": "junio"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

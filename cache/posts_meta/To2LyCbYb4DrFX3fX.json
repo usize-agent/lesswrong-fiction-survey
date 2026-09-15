@@ -1,0 +1,29 @@
+{
+  "_id": "To2LyCbYb4DrFX3fX",
+  "slug": "bayeswatch-12-the-singularity-war",
+  "title": "Bayeswatch 12: The Singularity War",
+  "postedAt": "2021-10-10T01:04:38.476Z",
+  "baseScore": 47,
+  "wordCount": 499,
+  "commentCount": 8,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

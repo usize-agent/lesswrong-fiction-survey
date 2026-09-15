@@ -1,0 +1,23 @@
+{
+  "_id": "4pov2tL6SEC23wrkq",
+  "slug": "epilogue-atonement-8-8",
+  "title": "Epilogue: Atonement (8/8)",
+  "postedAt": "2009-02-06T11:52:42.000Z",
+  "baseScore": 114,
+  "wordCount": 1941,
+  "commentCount": 200,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

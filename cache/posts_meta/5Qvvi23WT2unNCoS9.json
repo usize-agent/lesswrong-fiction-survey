@@ -1,0 +1,35 @@
+{
+  "_id": "5Qvvi23WT2unNCoS9",
+  "slug": "a-much-better-life",
+  "title": "A Much Better Life?",
+  "postedAt": "2010-02-03T20:01:57.431Z",
+  "baseScore": 87,
+  "wordCount": 540,
+  "commentCount": 174,
+  "user": {
+    "displayName": "Psychohistorian",
+    "slug": "psychohistorian"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "yEs5Tdwfw5Zw8yGWC",
+      "name": "Wireheading",
+      "slug": "wireheading"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2,
+    "yEs5Tdwfw5Zw8yGWC": 2
+  }
+}

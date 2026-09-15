@@ -1,0 +1,2897 @@
+{
+  "data": {
+    "tagRels": {
+      "results": [
+        {
+          "_id": "yxCezYJ9YyyAmvxtz",
+          "baseScore": 4,
+          "post": {
+            "_id": "4kphivjxngJmEdWsN",
+            "slug": "transcript-tyler-cowen-on-stories",
+            "title": "[Transcript] Tyler Cowen on Stories",
+            "postedAt": "2011-12-17T05:42:39.630Z",
+            "baseScore": 96,
+            "wordCount": 2800,
+            "commentCount": 14,
+            "user": {
+              "displayName": "Grognor",
+              "slug": "grognor"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "BhfefamXXee6c2CH8",
+                "name": "Transcripts",
+                "slug": "transcripts"
+              }
+            ],
+            "tagRelevance": {
+              "BhfefamXXee6c2CH8": 1,
+              "pszEEb3ctztv3rozd": 4
+            }
+          }
+        },
+        {
+          "_id": "uQPK58XJJk8iTMaJA",
+          "baseScore": 4,
+          "post": {
+            "_id": "5EnpGNG5xPGSPyuQn",
+            "slug": "peter-thiel-eric-weinstein-transcript-on-growth-violence-and",
+            "title": "Peter Thiel/Eric Weinstein Transcript on Growth, Violence, and Stories",
+            "postedAt": "2019-08-31T02:44:16.833Z",
+            "baseScore": 70,
+            "wordCount": 4523,
+            "commentCount": 20,
+            "user": {
+              "displayName": "Ben Pace",
+              "slug": "benito"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "BhfefamXXee6c2CH8",
+                "name": "Transcripts",
+                "slug": "transcripts"
+              }
+            ],
+            "tagRelevance": {
+              "BhfefamXXee6c2CH8": 2,
+              "pszEEb3ctztv3rozd": 4
+            }
+          }
+        },
+        {
+          "_id": "gjfE3asJKHN3Pzs9S",
+          "baseScore": 4,
+          "post": {
+            "_id": "fBgzL2gbavQaswsJc",
+            "slug": "optimizing-for-stories-vs-optimizing-reality",
+            "title": "Optimizing for Stories (vs Optimizing Reality)\n",
+            "postedAt": "2019-01-07T08:03:22.512Z",
+            "baseScore": 43,
+            "wordCount": 1966,
+            "commentCount": 11,
+            "user": {
+              "displayName": "Ruby",
+              "slug": "ruby"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 4
+            }
+          }
+        },
+        {
+          "_id": "cez5hTBBvH9FujnHR",
+          "baseScore": 4,
+          "post": {
+            "_id": "6qS9q5zHafFXsB6hf",
+            "slug": "serious-stories",
+            "title": "Serious Stories",
+            "postedAt": "2009-01-08T23:49:35.000Z",
+            "baseScore": 142,
+            "wordCount": 2773,
+            "commentCount": 105,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 4
+            }
+          }
+        },
+        {
+          "_id": "iyoGTLiKr9jXLBfiv",
+          "baseScore": 3,
+          "post": {
+            "_id": "LZn9asbnJHAJsGPA6",
+            "slug": "ten-minutes-with-sam-altman",
+            "title": "Ten Minutes with Sam Altman",
+            "postedAt": "2021-12-28T07:32:59.140Z",
+            "baseScore": 92,
+            "wordCount": 986,
+            "commentCount": 11,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "8sh6iLwYWDJ7z3fPo",
+                "name": "Startups",
+                "slug": "startups"
+              }
+            ],
+            "tagRelevance": {
+              "8sh6iLwYWDJ7z3fPo": 3,
+              "pszEEb3ctztv3rozd": 3
+            }
+          }
+        },
+        {
+          "_id": "zegmviPzoe6X45ZfT",
+          "baseScore": 2,
+          "post": {
+            "_id": "FabrFpzg5f5RTCrHt",
+            "slug": "book-review-sorceror-s-apprentice-by-tahir-shah",
+            "title": "[Book Review] \"Sorceror's Apprentice\" by Tahir Shah",
+            "postedAt": "2021-11-20T11:29:21.361Z",
+            "baseScore": 96,
+            "wordCount": 2105,
+            "commentCount": 11,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "4Kcm4etxAJjmeDkHP",
+                "name": "Book Reviews / Media Reviews",
+                "slug": "book-reviews-media-reviews"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "fkABsGCJZ6y9qConW",
+                "name": "Practical",
+                "slug": "practical"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "4Kcm4etxAJjmeDkHP": 2,
+              "fkABsGCJZ6y9qConW": 2,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "xsxKroLjQoTnAmX9m",
+          "baseScore": 2,
+          "post": {
+            "_id": "99PwFdz7qwHxQgwYx",
+            "slug": "awakening",
+            "title": "Awakening",
+            "postedAt": "2024-05-30T07:03:00.821Z",
+            "baseScore": 131,
+            "wordCount": 2580,
+            "commentCount": 80,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "AiNyf5iwbpc7mehiX",
+                "name": "Meditation",
+                "slug": "meditation"
+              },
+              {
+                "_id": "xv7Bg5fbF9WppYREi",
+                "name": "Buddhism",
+                "slug": "buddhism"
+              },
+              {
+                "_id": "XSryTypw5Hszpa4TS",
+                "name": "Consciousness",
+                "slug": "consciousness"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "8e9e8fzXuW5gGBS3F",
+                "name": "Qualia",
+                "slug": "qualia"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "8e9e8fzXuW5gGBS3F": 2,
+              "AiNyf5iwbpc7mehiX": 4,
+              "XSryTypw5Hszpa4TS": 2,
+              "pszEEb3ctztv3rozd": 2,
+              "xv7Bg5fbF9WppYREi": 2
+            }
+          }
+        },
+        {
+          "_id": "X6EidutbeMnsBt7yx",
+          "baseScore": 2,
+          "post": {
+            "_id": "APiKzCSDiR49KQtLg",
+            "slug": "you-get-one-story-detail",
+            "title": "You get one story detail",
+            "postedAt": "2022-04-05T04:38:36.022Z",
+            "baseScore": 38,
+            "wordCount": 1205,
+            "commentCount": 8,
+            "user": {
+              "displayName": "Gordon Seidoh Worley",
+              "slug": "gordon-seidoh-worley"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "fkABsGCJZ6y9qConW",
+                "name": "Practical",
+                "slug": "practical"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "fkABsGCJZ6y9qConW": 2,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "tK92TrWNkAdAhm3Cu",
+          "baseScore": 2,
+          "post": {
+            "_id": "PrSWKSFxEtFBZ7Xbj",
+            "slug": "the-machine-that-broke-my-heart",
+            "title": "The Machine that Broke My Heart",
+            "postedAt": "2021-12-30T11:59:31.747Z",
+            "baseScore": 50,
+            "wordCount": 675,
+            "commentCount": 36,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "xHjy88N2uJvGdgzfw",
+                "name": "Health / Medicine / Disease",
+                "slug": "health-medicine-disease"
+              },
+              {
+                "_id": "NzSTgAtKwgivkfeYm",
+                "name": "Heroic Responsibility",
+                "slug": "heroic-responsibility"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "NzSTgAtKwgivkfeYm": 2,
+              "pszEEb3ctztv3rozd": 2,
+              "xHjy88N2uJvGdgzfw": 5
+            }
+          }
+        },
+        {
+          "_id": "Sfv4DcmEitmyuHLQa",
+          "baseScore": 2,
+          "post": null
+        },
+        {
+          "_id": "pumMvhE82NtHfEuAy",
+          "baseScore": 2,
+          "post": {
+            "_id": "5QmtqBt6GDM8hYkAr",
+            "slug": "training-my-friend-to-cook",
+            "title": "Training My Friend to Cook",
+            "postedAt": "2021-08-29T05:54:50.065Z",
+            "baseScore": 85,
+            "wordCount": 908,
+            "commentCount": 33,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "XqykXFKL9t38pbSEm",
+                "name": "Well-being",
+                "slug": "well-being"
+              },
+              {
+                "_id": "6bdeSR7aKmdSQLw6P",
+                "name": "Cooking",
+                "slug": "cooking"
+              },
+              {
+                "_id": "5Whwix4cZ3p5otshm",
+                "name": "Habits",
+                "slug": "habits"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "Fi6SeJRGfJs3bp5se",
+                "name": "Reinforcement learning",
+                "slug": "reinforcement-learning"
+              },
+              {
+                "_id": "92SxJsDZ78ApAGq72",
+                "name": "Nutrition",
+                "slug": "nutrition"
+              },
+              {
+                "_id": "fkABsGCJZ6y9qConW",
+                "name": "Practical",
+                "slug": "practical"
+              }
+            ],
+            "tagRelevance": {
+              "5Whwix4cZ3p5otshm": 3,
+              "6bdeSR7aKmdSQLw6P": 3,
+              "92SxJsDZ78ApAGq72": 1,
+              "Fi6SeJRGfJs3bp5se": 2,
+              "XqykXFKL9t38pbSEm": 4,
+              "fkABsGCJZ6y9qConW": 3,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "oMnkXLr79TGvFaaFT",
+          "baseScore": 2,
+          "post": {
+            "_id": "AqbWna2S85pFTsHH4",
+            "slug": "the-intelligent-social-web",
+            "title": "The Intelligent Social Web",
+            "postedAt": "2018-02-22T18:55:36.414Z",
+            "baseScore": 259,
+            "wordCount": 3681,
+            "commentCount": 115,
+            "user": {
+              "displayName": "Valentine",
+              "slug": "valentine"
+            },
+            "tags": [
+              {
+                "_id": "EnFKSZYiDHqMJuvJL",
+                "name": "Social Reality",
+                "slug": "social-reality"
+              },
+              {
+                "_id": "x6evH6MyPK3nxsoff",
+                "name": "Identity",
+                "slug": "identity"
+              },
+              {
+                "_id": "mip7tdAN87Jarkcew",
+                "name": "Relationships (Interpersonal)",
+                "slug": "relationships-interpersonal"
+              },
+              {
+                "_id": "gHCNhqxuJq2bZ2akb",
+                "name": "Social & Cultural Dynamics",
+                "slug": "social-and-cultural-dynamics"
+              },
+              {
+                "_id": "2EFq8dJbxKNzforjM",
+                "name": "Social Status",
+                "slug": "social-status"
+              },
+              {
+                "_id": "gjAqazn7JTsG4CAbt",
+                "name": "Egregores",
+                "slug": "egregores"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "2EFq8dJbxKNzforjM": 3,
+              "EnFKSZYiDHqMJuvJL": 7,
+              "Ng8Gice9KNkncxqcj": 2,
+              "gHCNhqxuJq2bZ2akb": 3,
+              "gjAqazn7JTsG4CAbt": 2,
+              "mip7tdAN87Jarkcew": 3,
+              "pszEEb3ctztv3rozd": 2,
+              "x6evH6MyPK3nxsoff": 3
+            }
+          }
+        },
+        {
+          "_id": "NfLRxFq63eGKLjCbt",
+          "baseScore": 2,
+          "post": {
+            "_id": "B3EXd6tsgTN4onBCh",
+            "slug": "short-story-speculating-on-possible-ramifications-of-ai-on",
+            "title": "Short story speculating on possible ramifications of AI on the art world",
+            "postedAt": "2022-09-01T21:15:00.031Z",
+            "baseScore": 30,
+            "wordCount": 857,
+            "commentCount": 8,
+            "user": {
+              "displayName": "Yitz",
+              "slug": "yitz"
+            },
+            "tags": [
+              {
+                "_id": "KDpqtN3MxHSmD4vcB",
+                "name": "Art",
+                "slug": "art"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "33BrBRSrRQS4jEHdk",
+                "name": "Forecasts (Specific Predictions)",
+                "slug": "forecasts-specific-predictions"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "7mTviCYysGmLqiHai",
+                "name": "Writing (communication method)",
+                "slug": "writing-communication-method"
+              }
+            ],
+            "tagRelevance": {
+              "33BrBRSrRQS4jEHdk": 2,
+              "7mTviCYysGmLqiHai": 2,
+              "KDpqtN3MxHSmD4vcB": 2,
+              "etDohXtBrXd8WqCtR": 2,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "nCAByMG6CDK7Qxgfv",
+          "baseScore": 2,
+          "post": {
+            "_id": "nDzzxi3iXwNptRHJK",
+            "slug": "cancer-a-crime-story-and-other-tales-of-optimization-gone",
+            "title": "Cancer; A Crime Story (and other tales of optimization gone wrong)",
+            "postedAt": "2025-11-07T07:09:52.226Z",
+            "baseScore": 19,
+            "wordCount": 3550,
+            "commentCount": 2,
+            "user": {
+              "displayName": "Jonas Hallgren",
+              "slug": "jonas-hallgren"
+            },
+            "tags": [
+              {
+                "_id": "Dw5Z6wtTgk4Fikz9f",
+                "name": "Inner Alignment",
+                "slug": "inner-alignment"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "Dw5Z6wtTgk4Fikz9f": 2,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "MqbkyqLDAFZP5DqFj",
+          "baseScore": 2,
+          "post": {
+            "_id": "MmSv6vnsmDHu5tvpd",
+            "slug": "narrative-self-image-and-self-communication",
+            "title": "Narrative, self-image, and self-communication",
+            "postedAt": "2012-12-19T09:42:16.279Z",
+            "baseScore": 48,
+            "wordCount": 1601,
+            "commentCount": 51,
+            "user": {
+              "displayName": "Academian",
+              "slug": "academian"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "LPtLmFdAKGK8esrNS",
+          "baseScore": 2,
+          "post": {
+            "_id": "uvNsFv9YKxtfSBffM",
+            "slug": "the-absent-minded-variations",
+            "title": "The absent-minded variations",
+            "postedAt": "2025-05-17T06:57:33.930Z",
+            "baseScore": 24,
+            "wordCount": 2835,
+            "commentCount": 13,
+            "user": {
+              "displayName": "dr_s",
+              "slug": "dr_s"
+            },
+            "tags": [
+              {
+                "_id": "X8JsWEnBRPvs5Y99i",
+                "name": "Decision theory",
+                "slug": "decision-theory"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb1db",
+                "name": "Timeless Decision Theory",
+                "slug": "timeless-decision-theory"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb2b1",
+                "name": "Whole Brain Emulation",
+                "slug": "whole-brain-emulation"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 1,
+              "X8JsWEnBRPvs5Y99i": 2,
+              "pszEEb3ctztv3rozd": 2,
+              "5f5c37ee1b5cdee568cfb1db": 2,
+              "5f5c37ee1b5cdee568cfb2b1": 2
+            }
+          }
+        },
+        {
+          "_id": "LBdkc3oidnEvCykML",
+          "baseScore": 2,
+          "post": {
+            "_id": "KHbFsNzi6eWRCZjrc",
+            "slug": "forecasting-through-fiction",
+            "title": "Forecasting Through Fiction",
+            "postedAt": "2022-07-06T05:03:55.376Z",
+            "baseScore": 5,
+            "wordCount": 2542,
+            "commentCount": 2,
+            "user": {
+              "displayName": "Yitz",
+              "slug": "yitz"
+            },
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb125",
+                "name": "Generalization From Fictional Evidence",
+                "slug": "generalization-from-fictional-evidence"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "22z6XpWKqw3bNv4oR",
+                "name": "Simulation Hypothesis",
+                "slug": "simulation-hypothesis"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "22z6XpWKqw3bNv4oR": 2,
+              "3uE2pXvbcnS9nnZRE": 3,
+              "pszEEb3ctztv3rozd": 2,
+              "5f5c37ee1b5cdee568cfb125": 2
+            }
+          }
+        },
+        {
+          "_id": "jrkoRrjvSpzGHeaik",
+          "baseScore": 2,
+          "post": {
+            "_id": "f46GtgMzcJy5TmSmq",
+            "slug": "narrative-truth",
+            "title": "Narrative truth",
+            "postedAt": "2021-08-26T17:49:38.310Z",
+            "baseScore": 21,
+            "wordCount": 1159,
+            "commentCount": 9,
+            "user": {
+              "displayName": "Chris_Leong",
+              "slug": "chris_leong"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "EHZAGFDCrJogTux3i",
+          "baseScore": 2,
+          "post": {
+            "_id": "ngoEeB3xFzYiwKy2D",
+            "slug": "telling-more-rational-stories",
+            "title": "Telling more rational stories",
+            "postedAt": "2020-07-17T17:47:31.831Z",
+            "baseScore": 26,
+            "wordCount": 989,
+            "commentCount": 21,
+            "user": {
+              "displayName": "DirectedEvolution",
+              "slug": "directedevolution"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "izp6eeJJEg9v5zcur",
+                "name": "Community",
+                "slug": "community"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "izp6eeJJEg9v5zcur": 2,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "chEHPWrqgRva4DtyF",
+          "baseScore": 2,
+          "post": {
+            "_id": "dbooZpRcMrEPgvvCB",
+            "slug": "lifekeeper-diaries-exploring-misaligned-ai-through",
+            "title": "LifeKeeper Diaries: Exploring Misaligned AI Through Interactive Fiction",
+            "postedAt": "2024-11-09T20:58:09.182Z",
+            "baseScore": 15,
+            "wordCount": 612,
+            "commentCount": 5,
+            "user": {
+              "displayName": "Tristan Tran",
+              "slug": "tristan-tran"
+            },
+            "tags": [
+              {
+                "_id": "YkPxg2tFDQNdaEZDJ",
+                "name": "AI Risk Concrete Stories",
+                "slug": "ai-risk-concrete-stories"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "YkPxg2tFDQNdaEZDJ": 2,
+              "etDohXtBrXd8WqCtR": 2,
+              "pszEEb3ctztv3rozd": 2,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "BrBEm8o3iPeWk64bg",
+          "baseScore": 2,
+          "post": {
+            "_id": "pAZooDm2ebNkm4qcS",
+            "slug": "living-with-rats-in-college",
+            "title": "Living with Rats in College",
+            "postedAt": "2024-12-25T10:44:13.085Z",
+            "baseScore": 34,
+            "wordCount": 263,
+            "commentCount": 0,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "ArFAgLRTm3qabxSZk",
+          "baseScore": 2,
+          "post": {
+            "_id": "x9akR7y6CBAf9pwr2",
+            "slug": "where-s-my-magic-sword",
+            "title": "Where's my magic sword?",
+            "postedAt": "2021-09-27T07:26:28.446Z",
+            "baseScore": 52,
+            "wordCount": 497,
+            "commentCount": 13,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "JsJPrdgRGRqnci8cZ",
+                "name": "Altruism",
+                "slug": "altruism"
+              },
+              {
+                "_id": "ZWRtQgXucwzAFZqNJ",
+                "name": "China",
+                "slug": "china"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "JsJPrdgRGRqnci8cZ": 2,
+              "ZWRtQgXucwzAFZqNJ": 2,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "9ZruPBnzeavx8ZyJs",
+          "baseScore": 2,
+          "post": {
+            "_id": "wpADDkyAG7ag4mcqj",
+            "slug": "treat-examples-as-world-building",
+            "title": "Treat Examples as World-Building",
+            "postedAt": "2022-03-10T15:09:44.302Z",
+            "baseScore": 19,
+            "wordCount": 473,
+            "commentCount": 0,
+            "user": {
+              "displayName": "adamShimi",
+              "slug": "adamshimi"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "7mTviCYysGmLqiHai",
+                "name": "Writing (communication method)",
+                "slug": "writing-communication-method"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "7mTviCYysGmLqiHai": 2,
+              "pszEEb3ctztv3rozd": 2
+            }
+          }
+        },
+        {
+          "_id": "ZRwXtm3A37AYcxEoW",
+          "baseScore": 1,
+          "post": {
+            "_id": "kvYdiG5KEXmkmhttQ",
+            "slug": "from-fragment-to-form-a-personal-prelude-to-human-ai",
+            "title": "From Fragment to Form: A Personal Prelude to Human\u2013AI Resonance",
+            "postedAt": "2025-04-06T20:24:24.545Z",
+            "baseScore": 1,
+            "wordCount": 4479,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Vladimir Kim",
+              "slug": "vladimir-kim"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "H4n4rzs33JfEgkf8b",
+                "name": "OpenAI",
+                "slug": "openai"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "H4n4rzs33JfEgkf8b": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "ymJe2xZHTCowQu5w8",
+          "baseScore": 1,
+          "post": {
+            "_id": "w5TFjMW6JCxrPYy8n",
+            "slug": "dual-track-narratives-for-alignment-thinking",
+            "title": "Dual-track narratives for alignment thinking ",
+            "postedAt": "2026-07-13T14:46:56.164Z",
+            "baseScore": 1,
+            "wordCount": 116,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Yoann B",
+              "slug": "yoann-b"
+            },
+            "tags": [
+              {
+                "_id": "6zBEfFYJxhSEcchbR",
+                "name": "AI Alignment Fieldbuilding",
+                "slug": "ai-alignment-fieldbuilding"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "wK59GLLXFhP6D7FWo",
+                "name": "Human Alignment",
+                "slug": "human-alignment"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "kdbs6xBndPkmrYAxM",
+                "name": "Politics",
+                "slug": "politics"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "6zBEfFYJxhSEcchbR": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "Ng8Gice9KNkncxqcj": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "kdbs6xBndPkmrYAxM": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1,
+              "wK59GLLXFhP6D7FWo": 1
+            }
+          }
+        },
+        {
+          "_id": "YGfxyzjtyfFAFn3Kd",
+          "baseScore": 1,
+          "post": {
+            "_id": "jRpcuSLw5hzouooyp",
+            "slug": "exploring-lily-s-world-with-chatgpt-things-an-ai-won-t-do",
+            "title": "Exploring Lily\u2019s world with ChatGPT [things an AI won\u2019t do] ",
+            "postedAt": "2023-02-19T16:39:03.803Z",
+            "baseScore": 5,
+            "wordCount": 5919,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Bill Benzon",
+              "slug": "bill-benzon"
+            },
+            "tags": [
+              {
+                "_id": "zJsG4caBHv3kSdT2a",
+                "name": "Conversations with AIs",
+                "slug": "conversations-with-ais"
+              },
+              {
+                "_id": "GrHAiuzAjG2mDxvMB",
+                "name": "ChatGPT",
+                "slug": "chatgpt-1"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "GrHAiuzAjG2mDxvMB": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "zJsG4caBHv3kSdT2a": 2
+            }
+          }
+        },
+        {
+          "_id": "XyND93fTSxcxkK2xq",
+          "baseScore": 1,
+          "post": {
+            "_id": "a69T4d5L8Mbzna7WY",
+            "slug": "emergent-authorship-creativity-a-la-communing",
+            "title": "Emergent Authorship: Creativity \u00e0 la Communing",
+            "postedAt": "2024-09-14T19:02:07.635Z",
+            "baseScore": 1,
+            "wordCount": 838,
+            "commentCount": 0,
+            "user": {
+              "displayName": "gswonk",
+              "slug": "gswonk"
+            },
+            "tags": [
+              {
+                "_id": "GDGYkF29pxEQNWjYc",
+                "name": "Agency",
+                "slug": "agency"
+              },
+              {
+                "_id": "T63QtRJhoTEGhZbTP",
+                "name": "Creativity",
+                "slug": "creativity"
+              },
+              {
+                "_id": "N3CqcPdCZNspF9bFb",
+                "name": "Emergent Behavior ( Emergence )",
+                "slug": "emergent-behavior-emergence"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb1b8",
+                "name": "Free Will",
+                "slug": "free-will"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "dBPou4ihoQNY4cquv",
+                "name": "Psychology",
+                "slug": "psychology"
+              },
+              {
+                "_id": "7mTviCYysGmLqiHai",
+                "name": "Writing (communication method)",
+                "slug": "writing-communication-method"
+              }
+            ],
+            "tagRelevance": {
+              "7mTviCYysGmLqiHai": 1,
+              "GDGYkF29pxEQNWjYc": 1,
+              "N3CqcPdCZNspF9bFb": 1,
+              "T63QtRJhoTEGhZbTP": 1,
+              "dBPou4ihoQNY4cquv": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "5f5c37ee1b5cdee568cfb1b8": 1
+            }
+          }
+        },
+        {
+          "_id": "XSzx8DhytNm5MGmZJ",
+          "baseScore": 1,
+          "post": {
+            "_id": "kQzs8MFbBxdYhe3hK",
+            "slug": "savanna-poets",
+            "title": "Savanna Poets",
+            "postedAt": "2008-03-18T18:42:31.000Z",
+            "baseScore": 74,
+            "wordCount": 1447,
+            "commentCount": 40,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "AXhEhCkTrHZbjXXu3",
+                "name": "Poetry",
+                "slug": "poetry"
+              },
+              {
+                "_id": "36RkM85iDocrnaypb",
+                "name": "Aesthetics",
+                "slug": "aesthetics"
+              },
+              {
+                "_id": "KDpqtN3MxHSmD4vcB",
+                "name": "Art",
+                "slug": "art"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "36RkM85iDocrnaypb": 1,
+              "AXhEhCkTrHZbjXXu3": 6,
+              "KDpqtN3MxHSmD4vcB": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "xbXkRksk28cRrpkux",
+          "baseScore": 1,
+          "post": {
+            "_id": "dYPSrAbtNN8KffLjp",
+            "slug": "chronicles-of-the-gentle-singularity-a-short-story",
+            "title": "Chronicles of the Gentle Singularity: A Short Story",
+            "postedAt": "2025-08-07T13:50:10.647Z",
+            "baseScore": 26,
+            "wordCount": 1260,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Ihor Kendiukhov",
+              "slug": "ihor-kendiukhov-1"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "WPm6pFNGx5cxPBXJH",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "uWjrrKwx7jMSHT2oD",
+          "baseScore": 1,
+          "post": {
+            "_id": "T5McDuWDeCvDZKeSj",
+            "slug": "are-you-a-solar-deity",
+            "title": "Are You a Solar Deity?",
+            "postedAt": "2009-03-15T19:30:09.265Z",
+            "baseScore": 55,
+            "wordCount": 1164,
+            "commentCount": 24,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "bY5MaF2EATwDkomvu",
+                "name": "History",
+                "slug": "history"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "NSMKfa8emSbGNXRKD",
+                "name": "Religion",
+                "slug": "religion"
+              }
+            ],
+            "tagRelevance": {
+              "NSMKfa8emSbGNXRKD": 1,
+              "bY5MaF2EATwDkomvu": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "TaZcxKgQhrFwjpdcS",
+          "baseScore": 1,
+          "post": {
+            "_id": "ENeAcAFPn8TLzDB5t",
+            "slug": "narrative-structure-and-the-principle-of-least-action",
+            "title": "Narrative Structure And The Principle Of Least Action",
+            "postedAt": "2025-09-27T01:31:21.977Z",
+            "baseScore": 1,
+            "wordCount": 944,
+            "commentCount": 1,
+            "user": {
+              "displayName": "sonicrocketman",
+              "slug": "sonicrocketman"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "kCrvmjZhsAZANnZL6",
+                "name": "Philosophy",
+                "slug": "philosophy-1"
+              },
+              {
+                "_id": "csMv9MvvjYJyeHqoo",
+                "name": "Physics",
+                "slug": "physics"
+              }
+            ],
+            "tagRelevance": {
+              "csMv9MvvjYJyeHqoo": 1,
+              "kCrvmjZhsAZANnZL6": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "rkeLCPEwMffEjZvXF",
+          "baseScore": 1,
+          "post": {
+            "_id": "C7deNdJkdtbzPtsQe",
+            "slug": "funny-anecdote-of-eliezer-from-his-sister",
+            "title": "Funny Anecdote of Eliezer From His Sister",
+            "postedAt": "2024-04-22T22:05:31.886Z",
+            "baseScore": 235,
+            "wordCount": 610,
+            "commentCount": 7,
+            "user": {
+              "displayName": "Noah Birnbaum",
+              "slug": "noah-birnbaum"
+            },
+            "tags": [
+              {
+                "_id": "42JnNJ8fqfdCSqdmM",
+                "name": "Marriage",
+                "slug": "marriage"
+              },
+              {
+                "_id": "mip7tdAN87Jarkcew",
+                "name": "Relationships (Interpersonal)",
+                "slug": "relationships-interpersonal"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb0e0",
+                "name": "Eliezer Yudkowsky",
+                "slug": "eliezer-yudkowsky"
+              },
+              {
+                "_id": "BhfefamXXee6c2CH8",
+                "name": "Transcripts",
+                "slug": "transcripts"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "42JnNJ8fqfdCSqdmM": 3,
+              "BhfefamXXee6c2CH8": 2,
+              "mip7tdAN87Jarkcew": 3,
+              "pszEEb3ctztv3rozd": 1,
+              "5f5c37ee1b5cdee568cfb0e0": 2
+            }
+          }
+        },
+        {
+          "_id": "QoP9H8JLhrJab3duM",
+          "baseScore": 1,
+          "post": {
+            "_id": "taqRwkm9vnmEnYcbG",
+            "slug": "nyarlathotep-stirs-a-meta-narrative-chatgpt-story",
+            "title": "Nyarlathotep Stirs: A Meta-Narrative ChatGPT Story",
+            "postedAt": "2023-03-20T08:00:39.079Z",
+            "baseScore": 4,
+            "wordCount": 3706,
+            "commentCount": 2,
+            "user": {
+              "displayName": "Charlie Sanders",
+              "slug": "charlie-sanders"
+            },
+            "tags": [
+              {
+                "_id": "zJsG4caBHv3kSdT2a",
+                "name": "Conversations with AIs",
+                "slug": "conversations-with-ais"
+              },
+              {
+                "_id": "GrHAiuzAjG2mDxvMB",
+                "name": "ChatGPT",
+                "slug": "chatgpt-1"
+              },
+              {
+                "_id": "yXNtYNHJB54T3bGm3",
+                "name": "Dialogue (format)",
+                "slug": "dialogue-format"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "YWzByWvtXunfrBu5b",
+                "name": "GPT",
+                "slug": "gpt"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "H4n4rzs33JfEgkf8b",
+                "name": "OpenAI",
+                "slug": "openai"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 1,
+              "GrHAiuzAjG2mDxvMB": 1,
+              "H4n4rzs33JfEgkf8b": 1,
+              "YWzByWvtXunfrBu5b": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "yXNtYNHJB54T3bGm3": 1,
+              "zJsG4caBHv3kSdT2a": 2
+            }
+          }
+        },
+        {
+          "_id": "QHCFSk7zWhv2CtCBQ",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "PztuaCi89wEbxTDMK",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "PYjDFATLTfc7TskWZ",
+          "baseScore": 1,
+          "post": {
+            "_id": "jq5WAQEboeufkxzsg",
+            "slug": "imaginary-positions",
+            "title": "Imaginary Positions",
+            "postedAt": "2008-12-23T17:35:40.000Z",
+            "baseScore": 30,
+            "wordCount": 935,
+            "commentCount": 49,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "PQHzZiqkQQBDnsj4D",
+          "baseScore": 1,
+          "post": {
+            "_id": "xiPMaYGTm2xfsB8WF",
+            "slug": "rereading-atlas-shrugged",
+            "title": "Rereading Atlas Shrugged",
+            "postedAt": "2020-07-28T18:54:45.272Z",
+            "baseScore": 175,
+            "wordCount": 3879,
+            "commentCount": 36,
+            "user": {
+              "displayName": "Vaniver",
+              "slug": "vaniver"
+            },
+            "tags": [
+              {
+                "_id": "4Kcm4etxAJjmeDkHP",
+                "name": "Book Reviews / Media Reviews",
+                "slug": "book-reviews-media-reviews"
+              },
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "4Kcm4etxAJjmeDkHP": 8,
+              "GBpwq8cWvaeRoE9X5": 1,
+              "Ng8Gice9KNkncxqcj": 3,
+              "pszEEb3ctztv3rozd": 1,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "oCJRsmFiCbAzdmfyK",
+          "baseScore": 1,
+          "post": {
+            "_id": "Yig8bzTeizKmPYi6y",
+            "slug": "so-you-want-to-be-a-witch",
+            "title": "So you want to be a witch",
+            "postedAt": "2024-12-31T04:31:52.196Z",
+            "baseScore": -32,
+            "wordCount": 8442,
+            "commentCount": 3,
+            "user": {
+              "displayName": "lucid_levi_ackerman",
+              "slug": "lucid_levi_ackerman"
+            },
+            "tags": [
+              {
+                "_id": "zJsG4caBHv3kSdT2a",
+                "name": "Conversations with AIs",
+                "slug": "conversations-with-ais"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "xexCWMyds6QLWognu": 1,
+              "zJsG4caBHv3kSdT2a": 1
+            }
+          }
+        },
+        {
+          "_id": "nxXAe5y9Tcr3faniu",
+          "baseScore": 1,
+          "post": {
+            "_id": "Zcz8otnZuKyExs5g5",
+            "slug": "chatgpt-tantalizing-afterthoughts-in-search-of-story",
+            "title": "ChatGPT: Tantalizing afterthoughts in search of story trajectories [induction heads] ",
+            "postedAt": "2023-02-03T10:35:12.110Z",
+            "baseScore": 4,
+            "wordCount": 6035,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Bill Benzon",
+              "slug": "bill-benzon"
+            },
+            "tags": [
+              {
+                "_id": "GrHAiuzAjG2mDxvMB",
+                "name": "ChatGPT",
+                "slug": "chatgpt-1"
+              },
+              {
+                "_id": "YWzByWvtXunfrBu5b",
+                "name": "GPT",
+                "slug": "gpt"
+              },
+              {
+                "_id": "56yXXrcxRjrQs6z9R",
+                "name": "Interpretability (ML & AI)",
+                "slug": "interpretability-ml-and-ai"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "56yXXrcxRjrQs6z9R": 1,
+              "GrHAiuzAjG2mDxvMB": 1,
+              "YWzByWvtXunfrBu5b": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "njioo6Lcyn5BuEkNo",
+          "baseScore": 1,
+          "post": {
+            "_id": "xLDwCemt5qvchzgHd",
+            "slug": "scale-was-all-we-needed-at-first",
+            "title": "Scale Was All We Needed, At First",
+            "postedAt": "2024-02-14T01:49:16.184Z",
+            "baseScore": 299,
+            "wordCount": 2521,
+            "commentCount": 35,
+            "user": {
+              "displayName": "GMM",
+              "slug": "gmm"
+            },
+            "tags": [
+              {
+                "_id": "ZFrgTgzwEfStg26JL",
+                "name": "AI Risk",
+                "slug": "ai-risk"
+              },
+              {
+                "_id": "YkPxg2tFDQNdaEZDJ",
+                "name": "AI Risk Concrete Stories",
+                "slug": "ai-risk-concrete-stories"
+              },
+              {
+                "_id": "zHjC29kkPmsdo7WTr",
+                "name": "AI Timelines",
+                "slug": "ai-timelines"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "8daMDi9NEShyLqxth",
+                "name": "Forecasting & Prediction",
+                "slug": "forecasting-and-prediction"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "JX69nZB8tfxnx5nGH",
+                "name": "Threat Models (AI)",
+                "slug": "threat-models-ai"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "8daMDi9NEShyLqxth": 1,
+              "JX69nZB8tfxnx5nGH": 1,
+              "YkPxg2tFDQNdaEZDJ": 1,
+              "ZFrgTgzwEfStg26JL": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1,
+              "zHjC29kkPmsdo7WTr": 1
+            }
+          }
+        },
+        {
+          "_id": "Le2JDNgfG4r3yF2i3",
+          "baseScore": 1,
+          "post": {
+            "_id": "7RSffTszvCMGgJhiK",
+            "slug": "frank-herbert-s-great-insight-into-human-agency-muad-dib-the",
+            "title": "Frank Herbert's great insight into human agency - Muad'Dib the tool?",
+            "postedAt": "2025-06-02T18:52:54.587Z",
+            "baseScore": 2,
+            "wordCount": 164,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Nerret",
+              "slug": "nerret"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "kCrvmjZhsAZANnZL6",
+                "name": "Philosophy",
+                "slug": "philosophy-1"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "kCrvmjZhsAZANnZL6": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "iezYpvmeYnQFd2nLP",
+          "baseScore": 1,
+          "post": {
+            "_id": "LK8R8YmndScXjeynx",
+            "slug": "chatgpt-tells-20-versions-of-its-prototypical-story-with-a",
+            "title": "ChatGPT tells 20 versions of its prototypical story, with a short note on method",
+            "postedAt": "2023-10-14T15:27:58.408Z",
+            "baseScore": 7,
+            "wordCount": 1508,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Bill Benzon",
+              "slug": "bill-benzon"
+            },
+            "tags": [
+              {
+                "_id": "GrHAiuzAjG2mDxvMB",
+                "name": "ChatGPT",
+                "slug": "chatgpt-1"
+              },
+              {
+                "_id": "56yXXrcxRjrQs6z9R",
+                "name": "Interpretability (ML & AI)",
+                "slug": "interpretability-ml-and-ai"
+              },
+              {
+                "_id": "KmgkrftQuX7jmjjp5",
+                "name": "Language Models (LLMs)",
+                "slug": "language-models-llms"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "56yXXrcxRjrQs6z9R": 1,
+              "GrHAiuzAjG2mDxvMB": 1,
+              "KmgkrftQuX7jmjjp5": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "i5FTcAsKLt9XoNG8s",
+          "baseScore": 1,
+          "post": {
+            "_id": "mLxuxihtoYwD4mjub",
+            "slug": "the-goodness-of-morning",
+            "title": "The Goodness of Morning",
+            "postedAt": "2025-01-27T23:25:38.273Z",
+            "baseScore": -11,
+            "wordCount": 923,
+            "commentCount": 1,
+            "user": {
+              "displayName": "YanLyutnev",
+              "slug": "yanlyutnev"
+            },
+            "tags": [
+              {
+                "_id": "EdRnMXBRbY5JDf5df",
+                "name": "Epistemology",
+                "slug": "epistemology"
+              },
+              {
+                "_id": "y9RtK47xhBT5Db6z8",
+                "name": "Mind projection fallacy",
+                "slug": "mind-projection-fallacy"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "EdRnMXBRbY5JDf5df": 1,
+              "Ng8Gice9KNkncxqcj": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "y9RtK47xhBT5Db6z8": 1
+            }
+          }
+        },
+        {
+          "_id": "hX3rSY8K6KyuGDcFe",
+          "baseScore": 1,
+          "post": {
+            "_id": "hJWiASyHzNq28Mc9y",
+            "slug": "the-jolly-green-giant-chronicles-chatgpt",
+            "title": "The Jolly Green Giant Chronicles [ChatGPT] ",
+            "postedAt": "2024-02-18T17:28:46.847Z",
+            "baseScore": 4,
+            "wordCount": 2292,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Bill Benzon",
+              "slug": "bill-benzon"
+            },
+            "tags": [
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "GrHAiuzAjG2mDxvMB",
+                "name": "ChatGPT",
+                "slug": "chatgpt-1"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 2,
+              "GrHAiuzAjG2mDxvMB": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "GB8ucfbKyDRPi4tNS",
+          "baseScore": 1,
+          "post": {
+            "_id": "jyNc8gY2dDb2FnrFB",
+            "slug": "places-of-loving-grace-story",
+            "title": "Places of Loving Grace [Story]",
+            "postedAt": "2025-02-18T23:49:18.580Z",
+            "baseScore": -1,
+            "wordCount": 1142,
+            "commentCount": 0,
+            "user": {
+              "displayName": "ank",
+              "slug": "ank"
+            },
+            "tags": [
+              {
+                "_id": "F5gRQdEQHzi3tQ5Ay",
+                "name": "AI Control",
+                "slug": "ai-control"
+              },
+              {
+                "_id": "qHDus5MuMNqQxJbjD",
+                "name": "AI Governance",
+                "slug": "ai-governance"
+              },
+              {
+                "_id": "YkPxg2tFDQNdaEZDJ",
+                "name": "AI Risk Concrete Stories",
+                "slug": "ai-risk-concrete-stories"
+              },
+              {
+                "_id": "oiRp4T6u5poc8r9Tj",
+                "name": "AI Takeoff",
+                "slug": "ai-takeoff"
+              },
+              {
+                "_id": "zHjC29kkPmsdo7WTr",
+                "name": "AI Timelines",
+                "slug": "ai-timelines"
+              },
+              {
+                "_id": "SrW9iP2j6Hi8R5PmT",
+                "name": "Black Swans",
+                "slug": "black-swans"
+              },
+              {
+                "_id": "KEAWfxwjitNJFrC68",
+                "name": "Deceptive Alignment",
+                "slug": "deceptive-alignment"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "pGqRLe9bFDX2G2kXY",
+                "name": "Futurism",
+                "slug": "futurism"
+              },
+              {
+                "_id": "aozxtmy7FEkkvfWzE",
+                "name": "Grabby Aliens",
+                "slug": "grabby-aliens"
+              },
+              {
+                "_id": "25oxqHiadqM6Hf7Gn",
+                "name": "Great Filter",
+                "slug": "great-filter"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb1c9",
+                "name": "Many-Worlds Interpretation",
+                "slug": "many-worlds-interpretation"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb26d",
+                "name": "Oracle AI",
+                "slug": "oracle-ai"
+              },
+              {
+                "_id": "BisjoDrd3oNatDu7X",
+                "name": "Outer Alignment",
+                "slug": "outer-alignment"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "Wgbgir4qzGz8Ztt3u",
+                "name": "Past and Future Selves",
+                "slug": "past-and-future-selves"
+              },
+              {
+                "_id": "QmvAYnvqYpXeHi2Xi",
+                "name": "Simulation",
+                "slug": "simulation-1"
+              },
+              {
+                "_id": "22z6XpWKqw3bNv4oR",
+                "name": "Simulation Hypothesis",
+                "slug": "simulation-hypothesis"
+              },
+              {
+                "_id": "xjNvvmvQ5BH3cfEBr",
+                "name": "Simulator Theory",
+                "slug": "simulator-theory"
+              },
+              {
+                "_id": "8Xec73Ndz2F59AmGe",
+                "name": "Vulnerable World Hypothesis",
+                "slug": "vulnerable-world-hypothesis"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "22z6XpWKqw3bNv4oR": 1,
+              "25oxqHiadqM6Hf7Gn": 1,
+              "8Xec73Ndz2F59AmGe": 1,
+              "BisjoDrd3oNatDu7X": 1,
+              "F2XfCTxXLQBGjbm8P": 1,
+              "F5gRQdEQHzi3tQ5Ay": 1,
+              "KEAWfxwjitNJFrC68": 1,
+              "QmvAYnvqYpXeHi2Xi": 1,
+              "SrW9iP2j6Hi8R5PmT": 1,
+              "Wgbgir4qzGz8Ztt3u": 1,
+              "YkPxg2tFDQNdaEZDJ": 1,
+              "aozxtmy7FEkkvfWzE": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "hNFdS3rRiYgqqD8aM": 1,
+              "oiRp4T6u5poc8r9Tj": 1,
+              "pGqRLe9bFDX2G2kXY": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "qHDus5MuMNqQxJbjD": 1,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "xjNvvmvQ5BH3cfEBr": 1,
+              "zHjC29kkPmsdo7WTr": 1,
+              "5f5c37ee1b5cdee568cfb1c9": 1,
+              "5f5c37ee1b5cdee568cfb26d": 1
+            }
+          }
+        },
+        {
+          "_id": "fXkWLaRTkEpPHwomt",
+          "baseScore": 1,
+          "post": {
+            "_id": "BjTJYntNxZKT4fFZA",
+            "slug": "the-healing-code-of-joan",
+            "title": "The Healing Code of Joan",
+            "postedAt": "2023-03-30T21:09:31.469Z",
+            "baseScore": 6,
+            "wordCount": 3516,
+            "commentCount": 0,
+            "user": {
+              "displayName": "jdcampolargo",
+              "slug": "jdampolargo"
+            },
+            "tags": [
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "FtHLxuqeWpC5bHFE5",
+          "baseScore": 1,
+          "post": {
+            "_id": "hX3gkpCo5Ax8iobCj",
+            "slug": "so-shrieked-zar-1",
+            "title": "So Shrieked ZAR",
+            "postedAt": "2025-07-23T23:25:34.452Z",
+            "baseScore": 10,
+            "wordCount": 2333,
+            "commentCount": 2,
+            "user": {
+              "displayName": "AdamLacerdo",
+              "slug": "adamlacerdo"
+            },
+            "tags": [
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "hQiuNkBhn6xxcedTD",
+                "name": "Occam's Razor",
+                "slug": "occam-s-razor"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 1,
+              "hQiuNkBhn6xxcedTD": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "FnevEDN92oQeLQukn",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "FegDra9DJdHwYdwkc",
+          "baseScore": 1,
+          "post": {
+            "_id": "DeMycc6fFpM8fFANr",
+            "slug": "my-1st-month-at-a-neurodivergent-gifted-school-called",
+            "title": "My 1st month at a \"neurodivergent gifted school\" called Minerva University",
+            "postedAt": "2023-10-10T03:34:12.879Z",
+            "baseScore": 4,
+            "wordCount": 60,
+            "commentCount": 1,
+            "user": {
+              "displayName": "exanova",
+              "slug": "exanova"
+            },
+            "tags": [
+              {
+                "_id": "AADZcNS24mmSfPp2w",
+                "name": "Communication Cultures",
+                "slug": "communication-cultures"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "DigEmY3RrF3XL5cwe",
+                "name": "Q&A (format)",
+                "slug": "q-and-a-format"
+              },
+              {
+                "_id": "8SfkJYYMe75MwjHzN",
+                "name": "Summaries",
+                "slug": "summaries"
+              },
+              {
+                "_id": "Zz3HWyByyKF64Sfns",
+                "name": "The SF Bay Area",
+                "slug": "the-sf-bay-area"
+              }
+            ],
+            "tagRelevance": {
+              "8SfkJYYMe75MwjHzN": 1,
+              "AADZcNS24mmSfPp2w": 1,
+              "DigEmY3RrF3XL5cwe": 1,
+              "Zz3HWyByyKF64Sfns": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "eo87SoDFAhFMAX2y6",
+          "baseScore": 1,
+          "post": {
+            "_id": "ppyLb3uGWFrmj4m2W",
+            "slug": "chatgpt-intimates-a-tantalizing-future-its-core-llm-is",
+            "title": "ChatGPT intimates a tantalizing future; its core LLM is organized on multiple levels; and it has broken the idea of thinking.",
+            "postedAt": "2023-01-24T19:05:47.457Z",
+            "baseScore": 5,
+            "wordCount": 1628,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Bill Benzon",
+              "slug": "bill-benzon"
+            },
+            "tags": [
+              {
+                "_id": "GrHAiuzAjG2mDxvMB",
+                "name": "ChatGPT",
+                "slug": "chatgpt-1"
+              },
+              {
+                "_id": "s9fuuxuzFMugAnf6r",
+                "name": "Language & Linguistics",
+                "slug": "language-and-linguistics"
+              },
+              {
+                "_id": "KmgkrftQuX7jmjjp5",
+                "name": "Language Models (LLMs)",
+                "slug": "language-models-llms"
+              },
+              {
+                "_id": "fpEBgFE7fgpxTm9BF",
+                "name": "Machine Learning  (ML)",
+                "slug": "machine-learning-ml"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "GrHAiuzAjG2mDxvMB": 1,
+              "KmgkrftQuX7jmjjp5": 1,
+              "fpEBgFE7fgpxTm9BF": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "s9fuuxuzFMugAnf6r": 1,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "EFSSzTuFYAoZARXsh",
+          "baseScore": 1,
+          "post": {
+            "_id": "grrMAwJrELry5BhSy",
+            "slug": "littlewood-s-law-and-the-global-media",
+            "title": "Littlewood's Law and the Global Media",
+            "postedAt": "2019-01-12T17:46:09.753Z",
+            "baseScore": 37,
+            "wordCount": 1,
+            "commentCount": 3,
+            "user": {
+              "displayName": "gwern",
+              "slug": "gwern"
+            },
+            "tags": [
+              {
+                "_id": "P64rmDCvTBAehmkoi",
+                "name": "Filtered Evidence",
+                "slug": "filtered-evidence"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "MXcpQvaPGtXpB6vkM",
+                "name": "Public Discourse",
+                "slug": "public-discourse"
+              }
+            ],
+            "tagRelevance": {
+              "MXcpQvaPGtXpB6vkM": 1,
+              "P64rmDCvTBAehmkoi": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "eD5YHp8BSumzwRRgF",
+          "baseScore": 1,
+          "post": {
+            "_id": "96TBXaHwLbFyeAxrg",
+            "slug": "guardians-of-ayn-rand",
+            "title": "Guardians of Ayn Rand",
+            "postedAt": "2007-12-18T06:24:05.000Z",
+            "baseScore": 133,
+            "wordCount": 1576,
+            "commentCount": 122,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb0cb",
+                "name": "Affective Death Spiral",
+                "slug": "affective-death-spiral"
+              },
+              {
+                "_id": "Kj9q8FXoauL7mQDWt",
+                "name": "Affect Heuristic",
+                "slug": "affect-heuristic"
+              },
+              {
+                "_id": "ALwRRZqvhaop8gxkT",
+                "name": "Groupthink",
+                "slug": "groupthink"
+              },
+              {
+                "_id": "bY5MaF2EATwDkomvu",
+                "name": "History",
+                "slug": "history"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "NSMKfa8emSbGNXRKD",
+                "name": "Religion",
+                "slug": "religion"
+              }
+            ],
+            "tagRelevance": {
+              "ALwRRZqvhaop8gxkT": 1,
+              "Kj9q8FXoauL7mQDWt": 1,
+              "NSMKfa8emSbGNXRKD": 1,
+              "bY5MaF2EATwDkomvu": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "5f5c37ee1b5cdee568cfb0cb": 3
+            }
+          }
+        },
+        {
+          "_id": "dTFNGphA2WnJrqeBm",
+          "baseScore": 1,
+          "post": {
+            "_id": "A4MK9RQqSAJZjanQD",
+            "slug": "why-support-the-underdog",
+            "title": "Why Support the Underdog?",
+            "postedAt": "2009-04-05T00:01:29.756Z",
+            "baseScore": 45,
+            "wordCount": 763,
+            "commentCount": 102,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "exZi6Bing5AiM4ZQB",
+                "name": "Evolutionary Psychology",
+                "slug": "evolutionary-psychology"
+              },
+              {
+                "_id": "4R8JYu4QF2FqzJxE5",
+                "name": "Heuristics & Biases",
+                "slug": "heuristics-and-biases"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "4R8JYu4QF2FqzJxE5": 1,
+              "exZi6Bing5AiM4ZQB": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "DP9BLyNkC4QJgWCHv",
+          "baseScore": 1,
+          "post": {
+            "_id": "PpdFFtxsPQK5dk4EB",
+            "slug": "chatgpt-tells-stories-and-a-note-about-reverse-engineering-a",
+            "title": "ChatGPT tells stories, and a note about reverse engineering: A Working Paper",
+            "postedAt": "2023-03-03T15:12:05.544Z",
+            "baseScore": 3,
+            "wordCount": 775,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Bill Benzon",
+              "slug": "bill-benzon"
+            },
+            "tags": [
+              {
+                "_id": "GrHAiuzAjG2mDxvMB",
+                "name": "ChatGPT",
+                "slug": "chatgpt-1"
+              },
+              {
+                "_id": "YWzByWvtXunfrBu5b",
+                "name": "GPT",
+                "slug": "gpt"
+              },
+              {
+                "_id": "56yXXrcxRjrQs6z9R",
+                "name": "Interpretability (ML & AI)",
+                "slug": "interpretability-ml-and-ai"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "56yXXrcxRjrQs6z9R": 1,
+              "GrHAiuzAjG2mDxvMB": 1,
+              "YWzByWvtXunfrBu5b": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "ctegYWaPmhWLovLRz",
+          "baseScore": 1,
+          "post": {
+            "_id": "FSPKLFfMNbRGPFjmY",
+            "slug": "why-you-re-stuck-in-a-narrative",
+            "title": "Why You're Stuck in a Narrative",
+            "postedAt": "2009-08-04T00:31:41.782Z",
+            "baseScore": 46,
+            "wordCount": 1396,
+            "commentCount": 32,
+            "user": null,
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb1b1",
+                "name": "Narrative Fallacy",
+                "slug": "narrative-fallacy"
+              },
+              {
+                "_id": "4R8JYu4QF2FqzJxE5",
+                "name": "Heuristics & Biases",
+                "slug": "heuristics-and-biases"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "4R8JYu4QF2FqzJxE5": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "5f5c37ee1b5cdee568cfb1b1": 2
+            }
+          }
+        },
+        {
+          "_id": "c9A8EbrB27Zq3E77v",
+          "baseScore": 1,
+          "post": {
+            "_id": "vvgBhkJZvnA6LBapt",
+            "slug": "avoid-news-part-2-what-the-stock-market-taught-me-about-news",
+            "title": "Avoid News, Part 2: What the Stock Market Taught Me about News",
+            "postedAt": "2021-06-14T20:54:05.386Z",
+            "baseScore": 42,
+            "wordCount": 1576,
+            "commentCount": 2,
+            "user": {
+              "displayName": "PeterMcCluskey",
+              "slug": "petermccluskey"
+            },
+            "tags": [
+              {
+                "_id": "EnFKSZYiDHqMJuvJL",
+                "name": "Social Reality",
+                "slug": "social-reality"
+              },
+              {
+                "_id": "tPfh8oYyG8Wgkkg8X",
+                "name": "Journalism",
+                "slug": "journalism"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "EnFKSZYiDHqMJuvJL": 2,
+              "pszEEb3ctztv3rozd": 1,
+              "tPfh8oYyG8Wgkkg8X": 1
+            }
+          }
+        },
+        {
+          "_id": "bCmw6bgpNAusCbh9v",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "AsECfbw3Jn2rekpGG",
+          "baseScore": 1,
+          "post": {
+            "_id": "grFBiWLgqzXcFbKdK",
+            "slug": "notes-1-6",
+            "title": "notes, 1-6",
+            "postedAt": "2024-06-03T21:02:28.844Z",
+            "baseScore": 0,
+            "wordCount": 2101,
+            "commentCount": 0,
+            "user": {
+              "displayName": "marwood",
+              "slug": "marwood"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "kCrvmjZhsAZANnZL6",
+                "name": "Philosophy",
+                "slug": "philosophy-1"
+              }
+            ],
+            "tagRelevance": {
+              "kCrvmjZhsAZANnZL6": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "a28RKCxQpsoM7DWCv",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "8yTRLavgmcw9LoJtr",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "8SmBvZcew5tDJ7KBS",
+          "baseScore": 1,
+          "post": {
+            "_id": "Ro6QSQaKdhfpeeGpr",
+            "slug": "why-safety-is-not-safe",
+            "title": "Why safety is not safe",
+            "postedAt": "2009-06-14T05:20:55.442Z",
+            "baseScore": 60,
+            "wordCount": 1404,
+            "commentCount": 118,
+            "user": {
+              "displayName": "rwallace",
+              "slug": "rwallace"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sPpZRaxpNNJjw55eu",
+                "name": "Progress Studies",
+                "slug": "progress-studies"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 1,
+              "sPpZRaxpNNJjw55eu": 1
+            }
+          }
+        },
+        {
+          "_id": "8FwFK2idRR9heERSv",
+          "baseScore": 1,
+          "post": {
+            "_id": "PWSkuFt6f498zSCTe",
+            "slug": "playstation-odysseys",
+            "title": "PlayStation Odysseys",
+            "postedAt": "2019-07-01T17:41:52.499Z",
+            "baseScore": 22,
+            "wordCount": 3073,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Jacob Falkovich",
+              "slug": "jacob-falkovich"
+            },
+            "tags": [
+              {
+                "_id": "RLQumypPQGPYg9t6G",
+                "name": "Gaming (videogames/tabletop)",
+                "slug": "gaming-videogames-tabletop"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "RLQumypPQGPYg9t6G": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "8AkBiuKHexAebkYnY",
+          "baseScore": 1,
+          "post": {
+            "_id": "a7CbnSXcN5ivhLNxx",
+            "slug": "lastbastionofsobriety-and-the-singularity",
+            "title": "@Lastbastionofsobriety & The Singularity ",
+            "postedAt": "2026-01-19T00:45:02.425Z",
+            "baseScore": 4,
+            "wordCount": 4818,
+            "commentCount": 0,
+            "user": {
+              "displayName": "AdamLacerdo",
+              "slug": "adamlacerdo"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "pszEEb3ctztv3rozd": 1,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "82SdFa9d7PSZXWPhj",
+          "baseScore": 1,
+          "post": {
+            "_id": "HyejY9SMnpb6yh8fs",
+            "slug": "the-danger-of-living-a-story-singularity-tropes",
+            "title": "The danger of living a story - Singularity Tropes",
+            "postedAt": "2010-11-14T22:39:06.691Z",
+            "baseScore": 28,
+            "wordCount": 866,
+            "commentCount": 62,
+            "user": {
+              "displayName": "patrissimo",
+              "slug": "patrissimo"
+            },
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb125",
+                "name": "Generalization From Fictional Evidence",
+                "slug": "generalization-from-fictional-evidence"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "pszEEb3ctztv3rozd": 1,
+              "5f5c37ee1b5cdee568cfb125": 1
+            }
+          }
+        },
+        {
+          "_id": "7894sbSaguxQZKyhR",
+          "baseScore": 1,
+          "post": null
+        },
+        {
+          "_id": "779qDRvnvK699uEeD",
+          "baseScore": 1,
+          "post": {
+            "_id": "Fh4gwB2xixxnpQnko",
+            "slug": "questions-for-a-theory-of-narratives",
+            "title": "Questions for a Theory of Narratives",
+            "postedAt": "2022-07-29T19:31:07.472Z",
+            "baseScore": 6,
+            "wordCount": 1248,
+            "commentCount": 4,
+            "user": {
+              "displayName": "Marv K",
+              "slug": "marv-k"
+            },
+            "tags": [
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 3,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "69zF7fEgn6yc3pMe2",
+          "baseScore": 1,
+          "post": {
+            "_id": "n6YmXBZFG44xhzttv",
+            "slug": "coh-and-the-ripped-codice-a-tale-of-the-horns-effect",
+            "title": "Coh and the ripped codice, a tale of the horns effect",
+            "postedAt": "2025-08-20T10:10:31.810Z",
+            "baseScore": -3,
+            "wordCount": 1764,
+            "commentCount": 0,
+            "user": {
+              "displayName": "AdamLacerdo",
+              "slug": "adamlacerdo"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "etDohXtBrXd8WqCtR": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "5gqoG2ZkfLfhrsGzP",
+          "baseScore": 1,
+          "post": {
+            "_id": "DmeAsmk5kgjP9NWf6",
+            "slug": "a-talmudic-rationalist-cautionary-tale",
+            "title": "A Talmudic Rationalist Cautionary Tale",
+            "postedAt": "2025-04-15T04:11:16.972Z",
+            "baseScore": 13,
+            "wordCount": 559,
+            "commentCount": 2,
+            "user": {
+              "displayName": "Noah Birnbaum",
+              "slug": "noah-birnbaum"
+            },
+            "tags": [
+              {
+                "_id": "LDTSbmXtokYAsEq8e",
+                "name": "Motivated Reasoning",
+                "slug": "motivated-reasoning"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "NSMKfa8emSbGNXRKD",
+                "name": "Religion",
+                "slug": "religion"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "LDTSbmXtokYAsEq8e": 1,
+              "NSMKfa8emSbGNXRKD": 1,
+              "Ng8Gice9KNkncxqcj": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "5CfgtzaWBXSR8e4P9",
+          "baseScore": 1,
+          "post": {
+            "_id": "RbwbjretioTkhgZgC",
+            "slug": "don-t-think-about-the-thing-behind-the-curtain",
+            "title": "Don't Think About the Thing Behind the Curtain.",
+            "postedAt": "2023-09-19T02:07:39.853Z",
+            "baseScore": 4,
+            "wordCount": 1629,
+            "commentCount": 0,
+            "user": {
+              "displayName": "keltan",
+              "slug": "keltan"
+            },
+            "tags": [
+              {
+                "_id": "oNcqyaWPXNGTTRPHm",
+                "name": "Existential risk",
+                "slug": "existential-risk"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              },
+              {
+                "_id": "ZpG9rheyAkgCoEQea",
+                "name": "Practice & Philosophy of Science",
+                "slug": "practice-and-philosophy-of-science"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 1,
+              "ZpG9rheyAkgCoEQea": 1,
+              "oNcqyaWPXNGTTRPHm": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "4atCPvpccpib6F6uq",
+          "baseScore": 1,
+          "post": {
+            "_id": "4rkFQ2zD7bRpzBjf8",
+            "slug": "defeating-the-villain",
+            "title": "Defeating the Villain",
+            "postedAt": "2015-03-26T21:43:03.702Z",
+            "baseScore": 49,
+            "wordCount": 686,
+            "commentCount": 38,
+            "user": {
+              "displayName": "Zubon",
+              "slug": "zubon"
+            },
+            "tags": [
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        },
+        {
+          "_id": "3PXc4NQtLuysWEc4o",
+          "baseScore": 1,
+          "post": {
+            "_id": "GnH3qsFJKoHvtvN2G",
+            "slug": "thoughts-about-dr-stone-and-mythology",
+            "title": "Thoughts about Dr Stone and Mythology",
+            "postedAt": "2020-02-25T01:51:29.519Z",
+            "baseScore": 19,
+            "wordCount": 724,
+            "commentCount": 2,
+            "user": {
+              "displayName": "mako yass",
+              "slug": "mako-yass"
+            },
+            "tags": [
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              },
+              {
+                "_id": "pszEEb3ctztv3rozd",
+                "name": "Narratives (stories)",
+                "slug": "narratives-stories"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 1,
+              "pszEEb3ctztv3rozd": 1
+            }
+          }
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "_id": "GQXymCGL3D8mZD5o4",
+  "slug": "finetuning-borges",
+  "title": "Finetuning Borges",
+  "postedAt": "2026-04-20T17:15:06.001Z",
+  "baseScore": 98,
+  "wordCount": 920,
+  "commentCount": 9,
+  "user": {
+    "displayName": "Linch",
+    "slug": "linch"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "x6evH6MyPK3nxsoff",
+      "name": "Identity",
+      "slug": "identity"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "LnEEs8xGooYmQ8iLA",
+      "name": "Truth, Semantics, & Meaning",
+      "slug": "truth-semantics-and-meaning"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 2,
+    "KmgkrftQuX7jmjjp5": 1,
+    "LnEEs8xGooYmQ8iLA": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "sYm3HiWcfZvrGu3ui": 3,
+    "x6evH6MyPK3nxsoff": 2
+  }
+}

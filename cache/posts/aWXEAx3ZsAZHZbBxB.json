@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "aWXEAx3ZsAZHZbBxB",
+        "title": "Omniscience one bit at a time: Chapter 3",
+        "slug": "omniscience-one-bit-at-a-time-chapter-3",
+        "pageUrl": "https://www.lesswrong.com/posts/aWXEAx3ZsAZHZbBxB/omniscience-one-bit-at-a-time-chapter-3",
+        "postedAt": "2025-11-11T13:34:02.401Z",
+        "baseScore": 2,
+        "wordCount": 577,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Dentosal",
+          "slug": "dentosal"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "I've always wanted something like this to happen, ever since I had learned to read at least. To actually be and do something that nobody else can. Only later did I realize, even if I'd gotten into Hogwarts, I wouldn't actually study that hard. After the first month it would just feel like ordinary, boring work. Or maybe it wouldn't have been like that, had I gotten the letter when I turned eleven.\n\nGetting into programming brought some of that motivation. At first it was like magic, the most immediate way of combining creativity and skill. Not long after, it became a way to impress people, but that had limits with non-technical people. Fortunately a well-paid job was easily measured and universally understood form of impressiveness.\n\nYears later I heard that altruism was a thing, that there could be fulfillment in helping others. Likely too late for me; by then the very idea of doing good seemed silly. But maybe because I've never thought I could actually make a difference. Well, if this thing worked, I would be able to. I could easily obtain some millions first to not worry about that, but it wasn't a game worth playing with cheat codes on.\n\nA barely-noticeable blue flicker from the corner of my eye awoke me from my thoughts. I stopped the timer. 2 hours and 43 minutes. I noted it down, and restarted the timer. Maybe the time between the questions mattered too? If the reloading time was constant, though, it would give me almost nine questions per day. Enough to pick one out of 512 options, or around two characters of text. That assumed not sleeping too much, I had traded off sleep for lesser rewards. Still, it would take a whole week to spell out any words.\n\nAnd there was the matter of not knowing if it worked at all. Maybe I could ask a question which was quite likely to be false, and hope it didn't land on the tree side. My current line of thinking was that you could query the current state of the world, even if the coin only predicted the future, by asking what you'd observe after trying to find out. Well, the first step of any good long-term plan was to obtain resources, so I might as well predict something where that was useful but unlikely to be true.\n\n> When I look up bitcoin price in a few minutes, the coin should land on the tree side if it's over 150k$, and on the non-tree side otherwise.\n\nI remember it being around 100k last I saw it. If something like this worked over longer timescales, even days, it would be quite easy to make money. I might be able to double my money each week, and that was assuming no leverage. I said the sentence aloud, tossed the coin, and it landed on the side with indecipherable lines. That at least cleared the possibility that it was always landing on the tree side. Quick googling showed the bitcoin price at 104k, so it was correct as well.\n\nWhile waiting for the coin to recharge, I idly wondered whether I should figure out how to use it more often, or just make some money first. After a few minutes I remembered to start a timer as well. This time I was going to let the coin be, and see if that had anything to do with the waiting time.\n"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "oFa6A2pmPNjdhZDJm",
+        "title": "Hermione Granger and Newcomb's Paradox",
+        "slug": "hermione-granger-and-newcomb-s-paradox",
+        "pageUrl": "https://www.lesswrong.com/posts/oFa6A2pmPNjdhZDJm/hermione-granger-and-newcomb-s-paradox",
+        "postedAt": "2020-12-14T05:27:11.667Z",
+        "baseScore": 56,
+        "wordCount": 590,
+        "commentCount": 18,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "b8FHrKqyXuYGWc6vn",
+            "name": "Game Theory",
+            "slug": "game-theory"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "b8FHrKqyXuYGWc6vn": 1,
+          "etDohXtBrXd8WqCtR": 4
+        },
+        "contents": {
+          "markdown": "Omega hovered before Hermione Granger. Between them rested two boxes labelled \"A\" and \"B\". \n\n\"Do the boxes have any special powers beyond modifying my Muggle bank balance?\" Hermione asked.\n\n\"No,\" Omega said.\n\n\"Where do you get the money?\" she asked.\n\n\"What do you mean?\" Omega said with mock incomprehension.\n\n\"Fiat currency is a zero-sum agreement between human beings. It is not a physical thing. You cannot conjure one half of a mathematical equation out of nothingness. For you to have a million dollars, a human must have given it to you,\" Hermione said.\n\nOmega opened an orifice. Its tentacle withdrew an infinite deck of transparent envelopes. Its claw extracted an infinite deck of opaque envelopes. The top envelope of each stack was labelled \"#1\".\n\n\"If you open the transparent envelope then one pound will be deducted from your Muggle bank account and the opaque envelope will have contained nothing. If you never open the transparent envelope then the opaque envelope will have always contained a debt of one pound. You can ensure the opaque envelope contains a debt of one pound by burning the transparent envelope. Do you choose these envelopes over either box?\" asked Omega.\n\n\"You already know my answer,\" Hermione said.\n\n\"I derive pleasure from you saying it anyway,\" said Omega, \"As do you.\"\n\n\"I choose the envelopes,\" Hermione said.\n\n\"Granted,\" Omega flew away.\n\n\"Wait!\" Hermione shouted to the stars, \"What did my Box B contain?\"\n\n# Money\n\nHermione opened transparent envelope #1. It contained a note stating that \"one pound has been deducted from your bank account.\" Then she opened opaque envelope #1 which contained nothing.\n\nHermione opened opaque envelope #2. It contained a note stating \"one pound has been deducted from your bank account\". She burned transparent envelope #2 without opening it.\n\nHermione flipped a coin eight times. She got THTTHTTH. She opened transparent envelopes #3,5,6,8,9. \u00a35 pounds were deducted from her Muggle account. She opened opaque envelopes #4,7,10. \u00a33 pounds were deducted from her Muggle account. Hermione opened the empty opaque envelopes #3,5,6,8,9. Hermione burned transparent envelopes #4,7,10.\n\nHermione flooed to Gringotts the next morning where she confirmed the transactions with her account manager Chauna. Together they identified the highest-vega security that could be traded on time-horizons of one hour. Hermione gave opaque envelopes #11-#20 to Chauna and instructed Chauna to open one envelope every hour on the hour. If the envelope contained a note declaring a debt of \u00a31 then Chauna was to buy a fresh demi-wisp skin and then sell it after an hour. It the envelope contained no note then Chauna was to do nothing. At the end of the day, Chauna was to owl Hermione a list of which trades would have earned money that day.\n\nHermione returned to Hogwarts. At the end of the day, she received her owl. Hermione burned the envelopes corresponding to hourly increases in the price of fresh demi-wisp skins and opened the rest. She and Chauna had netted 79 galleons, 16 sickles and 17 knuts.\n\n# Bits\n\nHermione ordered the construction of a **transparent robot** to open or burn transparent envelopes. From another contractor, she ordered an **opaque robot** to quickly log whether opaque envelopes contained a note. The transparent robot sent binary bits back in time. The opaque robot received them.\n\nHermione paid Chauna to enchant the transparent robot to receive irreversible commands from an enchanted galleon. Then Hermione instructed Chauna to hide the transparent robot somewhere Hermione could never find it. Hermione stored the opaque robot in her own Gringotts vault.\n\nHermione used her invention to send individual binary bits back in time further than six hours at the price of \u00a31 per bit."
+        }
+      }
+    }
+  }
+}

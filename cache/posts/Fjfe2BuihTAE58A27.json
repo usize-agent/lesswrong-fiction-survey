@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Fjfe2BuihTAE58A27",
+        "title": "What are examples of Rationalist fable-like stories?",
+        "slug": "what-are-examples-of-rationalist-fable-like-stories",
+        "pageUrl": "https://www.lesswrong.com/posts/Fjfe2BuihTAE58A27/what-are-examples-of-rationalist-fable-like-stories",
+        "postedAt": "2020-09-28T16:52:13.500Z",
+        "baseScore": 19,
+        "wordCount": 109,
+        "commentCount": 41,
+        "noIndex": false,
+        "user": {
+          "displayName": "Mati_Roy",
+          "slug": "mathieuroy"
+        },
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "izp6eeJJEg9v5zcur",
+            "name": "Community",
+            "slug": "community"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "Ng8Gice9KNkncxqcj": 2,
+          "izp6eeJJEg9v5zcur": 2
+        },
+        "contents": {
+          "markdown": "I will post some of the collection I've acquired. I have ideas for more. And would be interested in seeing more.\n\nIf there's enough interest, and with the permission of the authors, I would like to make a book of Rationalist fables / parables (but with a more generic name). Maybe it could be adapted for children. Thoughts?\n\nLet me know if you're interested in helping me with this project, including but not limited to: finding stories, selecting stories, adapting them, reaching out to authors, writing more stories, writing their morales (?), making a book cover, (self?) publishing it, marketing it, choosing a title, donating money to contract external help, etc."
+        }
+      }
+    }
+  }
+}

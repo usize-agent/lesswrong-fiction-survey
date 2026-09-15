@@ -1,0 +1,35 @@
+{
+  "_id": "CFq8xTATEtbK6tuHD",
+  "slug": "of-loving-grace",
+  "title": "Of Loving Grace",
+  "postedAt": "2025-03-07T04:48:02.787Z",
+  "baseScore": -3,
+  "wordCount": 820,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

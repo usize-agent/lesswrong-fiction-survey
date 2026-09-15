@@ -1,0 +1,47 @@
+{
+  "_id": "pqFFy6CmSgjNzDaHt",
+  "slug": "keltham-s-lectures-in-project-lawful",
+  "title": "Keltham's Lectures in Project Lawful",
+  "postedAt": "2025-04-01T10:39:47.973Z",
+  "baseScore": 86,
+  "wordCount": 585,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Morpheus",
+    "slug": "morpheus"
+  },
+  "tags": [
+    {
+      "_id": "EmaCLRKb4baBFq4ra",
+      "name": "Dath Ilan",
+      "slug": "dath-ilan"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "7SwDQTmkovtTAxsNo",
+      "name": "Keltham",
+      "slug": "keltham"
+    },
+    {
+      "_id": "GQyPQcdEQF4zXhJBq",
+      "name": "List of Links",
+      "slug": "list-of-links"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "7SwDQTmkovtTAxsNo": 1,
+    "EmaCLRKb4baBFq4ra": 1,
+    "GQyPQcdEQF4zXhJBq": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

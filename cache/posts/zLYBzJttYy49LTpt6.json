@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "zLYBzJttYy49LTpt6",
+        "title": "Quantum Immortality, foiled",
+        "slug": "quantum-immortality-foiled",
+        "pageUrl": "https://www.lesswrong.com/posts/zLYBzJttYy49LTpt6/quantum-immortality-foiled",
+        "postedAt": "2022-10-29T11:00:01.038Z",
+        "baseScore": 30,
+        "wordCount": 625,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ben",
+          "slug": "ben-lang"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb1c9",
+            "name": "Many-Worlds Interpretation",
+            "slug": "many-worlds-interpretation"
+          },
+          {
+            "_id": "nBCLy89Nqd8ouR6XT",
+            "name": "Quantum Mechanics",
+            "slug": "quantum-mechanics"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "nBCLy89Nqd8ouR6XT": 1,
+          "xexCWMyds6QLWognu": 2,
+          "5f5c37ee1b5cdee568cfb1c9": 1
+        },
+        "contents": {
+          "markdown": "*Some silliness based on recent discussion of* [*quantum suicide*](https://www.lesswrong.com/posts/p7ME8mWE5ftrSY2QG/quantum-suicide-and-aumann-s-agreement-theorem) *and the* [*redaction machine*](https://www.lesswrong.com/posts/CKgPFHoWFkviYz7CB/the-redaction-machine).\n\nBob found himself, quite suddenly, in a chamber walled with hexagonal plates of gleaming copper.\n\nClaire welcomed him back to life, and gave him some clothes.\n\n\"So, where am I?\" asked Bob. He thought he remembered Claire from the lab. She worked in the group across the hall.\n\n\"You have just been reset back to life by a redaction machine. You died you see, so we used this experimental machine to bring you back. It unwinds an object to a previous state in time. We reset you back to how you were this morning.\"\n\n\"Yeah, I was on my way into the university. So, huh, how did I die?\"\n\nClaire frowned. \"It was quite weird. You were having an argument with Alice about the many worlds interpretation of quantum mechanics. In order to prove to her that this theory was correct you built an apparatus that would use a quantum random number generator to kill you with 99.99% probability. And well, it killed you.\"\n\n\"What!\" screamed Bob. \"But, you don't understand. By bringing me back you have retroactively ruined the whole experiment...\"\n\n\"Really?\" Claire raised an eyebrow. \"Can you explain how?\"\n\n\"Well of course.\" said Bob. \"See, if the many worlds interpretation of quantum mechanics is correct then, according to the anthropic principle, the only version of me left to update their priors after the apparatus activates is the one who survives. So I can only update towards believing in the many worlds interpretation. Therefore I can believe it with certainty, because I know that an arbitrary number of such experiments *could* be performed, and they would result in me believing the theory. If you know that a course of action would result in yourself believing something then you might as well jump ahead and believe it.\"\n\n\"But, if the counter-factual is enough, why did you *actually* kill yourself?\"\n\n\"Well, the last thing I remember I was on the bus in to work. But I imagine the reason I did so was because I wanted to prove it to Alice. She never takes my theories seriously.\"\n\n\"She seemed quite distraught\" said Claire. \"It was lucky this prototype redaction machine was ready this very day. In a way you killing yourself was a bit of a boon to us, we really wanted to try a resurrection. Remember I was talking about it the group seminar last week.\"\n\nBob didn't remember, he had been checking his emails in that talk. \"You shouldn't have done it without my approval.\" said Bob sternly. \"You retroactively invalidated the experiment.\"\n\n\"You know, I think it sounds like you would rather be dead than admit to being wrong. Even before we resurrected you, you had failed, at least in this world line, to prove your point. The only reason you didn't have to admit to being wrong was that you were dead. That doesn't make you right - it just makes you dead and wrong.\"\n\n\"Whatever.\" said Bob, far from convinced. \"Anyway, I was thinking. If this machine can re-set things to a previous state in time then I have a cool experiment to try. We prepare a quantum state, measure it in one basis, say position. Then reset it back and try a different basis. Then reset again and go back to the first basis. I think your redaction machine gives us a way to break the uncertainty principle. Or wait! Even better, we get a pair of entangled particles and redact one of them and \u2026\"\n\n\"Sorry, no. The narrator only allowed us to have redaction machines on the condition we didn't ask certain really nerdy questions. Those were on the list.\"\n\n\"Bummer.\"\n\n\"Yeah, I know right.\""
+        }
+      }
+    }
+  }
+}

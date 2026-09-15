@@ -1,0 +1,29 @@
+{
+  "_id": "wCgRvyYJEF8me2QW9",
+  "slug": "the-first-koan-drinking-the-hot-iron-ball",
+  "title": "The First Koan: Drinking the Hot Iron Ball",
+  "postedAt": "2009-05-07T17:41:43.586Z",
+  "baseScore": 0,
+  "wordCount": 813,
+  "commentCount": 57,
+  "user": {
+    "displayName": "Annoyance",
+    "slug": "annoyance"
+  },
+  "tags": [
+    {
+      "_id": "xv7Bg5fbF9WppYREi",
+      "name": "Buddhism",
+      "slug": "buddhism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "xv7Bg5fbF9WppYREi": 1
+  }
+}

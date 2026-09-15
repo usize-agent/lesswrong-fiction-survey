@@ -1,0 +1,35 @@
+{
+  "_id": "Ltey8BS83qSkd9M3u",
+  "slug": "a-parable-on-obsolete-ideologies",
+  "title": "A Parable On Obsolete Ideologies",
+  "postedAt": "2009-05-13T22:51:50.133Z",
+  "baseScore": 186,
+  "wordCount": 2004,
+  "commentCount": 288,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "kdbs6xBndPkmrYAxM",
+      "name": "Politics",
+      "slug": "politics"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "gHCNhqxuJq2bZ2akb",
+      "name": "Social & Cultural Dynamics",
+      "slug": "social-and-cultural-dynamics"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "gHCNhqxuJq2bZ2akb": 2,
+    "kdbs6xBndPkmrYAxM": 3
+  }
+}

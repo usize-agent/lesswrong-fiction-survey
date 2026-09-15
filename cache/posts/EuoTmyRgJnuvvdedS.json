@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "EuoTmyRgJnuvvdedS",
+        "title": "I compiled a ebook of `Project Lawful` for eBook readers",
+        "slug": "i-compiled-a-ebook-of-project-lawful-for-ebook-readers",
+        "pageUrl": "https://www.lesswrong.com/posts/EuoTmyRgJnuvvdedS/i-compiled-a-ebook-of-project-lawful-for-ebook-readers",
+        "postedAt": "2023-09-15T18:09:31.703Z",
+        "baseScore": 93,
+        "wordCount": 176,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "OrwellGoesShopping",
+          "slug": "orwellgoesshopping"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "izp6eeJJEg9v5zcur",
+            "name": "Community",
+            "slug": "community"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "izp6eeJJEg9v5zcur": 2
+        },
+        "contents": {
+          "markdown": "I was on vacation last week and started reading [Project Lawful aka planecrash](https://www.projectlawful.com/). \u00a0  \nUnfortunately reading on my phone got annoying pretty fast (especially outside in the sun), and the existing [glowpub](https://github.com/QuartzLibrary/glowpub) ebook was completely broken on my kindle/koreader.\n\nSo I created my own ebook of project lawful with a bit of C# code. \u00a0\n\nThere are 3*5 different variants, depending if you want avatars, the alignment-texts, etc.\n\nI recommend the *project-lawful-inline.epub* variant for lower-end devices (or with smaller screens), and the *project-lawful-avatars.epub* variant otherwise (or if you \\*really\\* want the post-avatars).\n\nThere are also content-wise 3 variants, the default, one with the SFW chapters, and one with only the main story (no sandboxes/lectures).\n\nI uploaded the [compiled epubs \u00a0here](https://www.mikescher.com/blog/29/Project_Lawful_ebook), or you can clone the [github repository](https://github.com/Mikescher/ProjectLawfulEbook) and generate them yourself (and perhaps tweak the settings a bit). \u00a0  \nIf someone wants to see some screenshots they are also [uploaded here](https://www.mikescher.com/blog/29/Project_Lawful_ebook) for the different variants.\n\nAlso thanks to [QuartzLibrary/glowpub](https://github.com/QuartzLibrary/glowpub): I reused his cache files to safe myself a bit of work. \u00a0  \nAnd, of course Eliezer+Lintamande for writing Project Lawful."
+        }
+      }
+    }
+  }
+}

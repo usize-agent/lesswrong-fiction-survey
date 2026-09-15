@@ -1,0 +1,29 @@
+{
+  "_id": "utov5mfrMEgq8bfDE",
+  "slug": "drawing-big-bright-lines-for-cyber-and-biological-ai",
+  "title": "Drawing Big Bright Lines for Cyber & Biological AI",
+  "postedAt": "2026-06-11T00:55:23.278Z",
+  "baseScore": -5,
+  "wordCount": 1154,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Austin Morrissey",
+    "slug": "austin-morrissey"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

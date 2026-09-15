@@ -1,0 +1,23 @@
+{
+  "_id": "bC9RCmv5cMtKZvJ2C",
+  "slug": "chapter-20-bayes-s-theorem",
+  "title": "Chapter 20: Bayes's Theorem",
+  "postedAt": "2015-03-14T19:00:47.898Z",
+  "baseScore": 54,
+  "wordCount": 5948,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

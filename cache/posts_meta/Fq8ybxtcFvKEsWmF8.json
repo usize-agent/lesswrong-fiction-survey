@@ -1,0 +1,47 @@
+{
+  "_id": "Fq8ybxtcFvKEsWmF8",
+  "slug": "ai-takeoff-story-a-continuation-of-progress-by-other-means",
+  "title": "AI takeoff story: a continuation of progress by other means",
+  "postedAt": "2021-09-27T15:55:44.163Z",
+  "baseScore": 77,
+  "wordCount": 3052,
+  "commentCount": 14,
+  "user": {
+    "displayName": "Edouard Harris",
+    "slug": "edouard-harris"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 4,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "oiRp4T6u5poc8r9Tj": 3,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

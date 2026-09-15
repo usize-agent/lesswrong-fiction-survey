@@ -1,0 +1,41 @@
+{
+  "_id": "hX3gkpCo5Ax8iobCj",
+  "slug": "so-shrieked-zar-1",
+  "title": "So Shrieked ZAR",
+  "postedAt": "2025-07-23T23:25:34.452Z",
+  "baseScore": 10,
+  "wordCount": 2333,
+  "commentCount": 2,
+  "user": {
+    "displayName": "AdamLacerdo",
+    "slug": "adamlacerdo"
+  },
+  "tags": [
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "hQiuNkBhn6xxcedTD",
+      "name": "Occam's Razor",
+      "slug": "occam-s-razor"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "hQiuNkBhn6xxcedTD": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

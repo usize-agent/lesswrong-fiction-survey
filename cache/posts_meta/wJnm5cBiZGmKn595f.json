@@ -1,0 +1,29 @@
+{
+  "_id": "wJnm5cBiZGmKn595f",
+  "slug": "and-i-show-you-how-deep-the-rabbit-hole-goes",
+  "title": "\u2026And I Show You How Deep The Rabbit Hole Goes",
+  "postedAt": "2015-06-03T01:47:01.000Z",
+  "baseScore": 293,
+  "wordCount": 6421,
+  "commentCount": 16,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 25,
+    "hNFdS3rRiYgqqD8aM": 7
+  }
+}

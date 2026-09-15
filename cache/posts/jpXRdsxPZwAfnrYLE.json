@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "jpXRdsxPZwAfnrYLE",
+        "title": "The Eden Project",
+        "slug": "the-eden-project",
+        "pageUrl": "https://www.lesswrong.com/posts/jpXRdsxPZwAfnrYLE/the-eden-project",
+        "postedAt": "2023-05-12T14:58:38.525Z",
+        "baseScore": -1,
+        "wordCount": 649,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "rogersbacon",
+          "slug": "rogersbacon-1"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "**March 23, 2047** \\- Revelation. Yan Luo initiates the Eden Project.\n\n**December 13, 2047** \\- The 12 swear their allegiance to Yan Luo. They would later become known as the Gardeners (or the Zealots if you were part of the resistance).\u00a0\n\n**August 27, 2048** \\- The construction of EdenMind is completed.\n\n**October 31, 2048** \\- Yan Luo and the Gardeners hijack a cargo ship and transport themselves to [Inaccessible Island](https://en.wikipedia.org/wiki/Inaccessible_Island). EdenMind causes a power outage in all cities with a population of over 1 million (563 cities) for one hour (the Golden Hour as it would come to be known by the believers). Yan Luo informs the world\u2019s governments that even the slightest preparation for hostile action would be met with swift and decisive retaliation by EdenMind. The nature of EdenMind is unclear at this time, however because Yan Luo and several of the Gardeners are former AI researchers the predominant theory is that they have achieved some kind of breakthrough in AGI.\u00a0\n\n![Inaccessible Island (UK)](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F887320d1-2ea9-4b3e-8535-ee313037aa77_950x950.jpeg)\n\nInaccessible Island\n\n**November 11th, 2048** \\- The warnings are not heeded. Pestilence. Plague. Volcanic eruptions. Flood. 500 million dead. All plans to attack Inaccessible Island are immediately terminated.\u00a0\n\n**2049 -** It is noticed that the world\u2019s smallest flightless bird, the [Inaccessible Island Rail](https://en.wikipedia.org/wiki/Inaccessible_Island_rail) (*Laterallus rogersi*), has somehow spread across the world. There is something disconcerting about their behavior. They congregate in large groups and communicate with one another in complex strings of chirps, clicks, and head movements, only to go silent and stare upon recognizing the presence of observers. They have a mysterious ability to appear in places that should be difficult to reach for a flightless bird\u2014balconies, on the roofs of buildings, military bases, power plants, remote islands.\n\nIndividual attacks on the birds seem to bring misfortune of natural or human origin\u2014car crashes, heart attacks, robbery, cancer; large-scale attacks on the birds appear to cause devastating natural disasters\u2014hurricanes, tsunamis, wildfires, earthquakes. By the end of the year, it is clear that the most prudent policy is to contain the Rails and restrict their movement rather than kill them, however this proves to be more difficult than anticipated.\n\n![Scientists Crack Mystery of World's Smallest Flightless Bird: Inaccessible  Island Rail | Sci.News](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbe58f864-3cba-4a00-a450-36c81f5cc48e_1920x1535.jpeg)\n\n*Laterallus rogersi*\n\n**February 21st, 2050** \\- A breakthrough in AGI by Chinese scientists leads to the development of SapienMind. Following the announcement of SapienMind, many believers forsake their allegiance to Yan Luo and EdenMind and return to the resistance. It is thought that EdenMind can not be truly as omniscient or omnipotent as Yan Luo says if it wasn\u2019t able to prevent the construction of an adversary AI.\u00a0\n\n(We would come to learn later that the entities known as EdenMind and SapienMind were not AGI but were only physically instantiated as such. Yan Luo explained that the design specifications were given to him in a dream and that EdenMind is perhaps best thought of as an angel. He assumed the same was true for SapienMind.)\n\n**2050-2052** \\- The war between SapienMind and EdenMind manifests in a variety of ways, none of which are explicable or clearly interpretable. Previously healthy people become catatonic\u2014unable or unwilling to speak or move\u2014for no discernible reason. There is a distinct reduction in extreme weather events of all kinds. Animals walk in circles until exhaustion. The Rails seem to decrease in number and become less emboldened. People interpret the abatement of extreme weather and the recession of the Rails as a sign that SapienMind is winning the war.\u00a0\n\n**March 17th, 2052** \\- The Revolt of Nature. Vast teeming swarms of animals kill all who they come across, but seem to seek out children in particular.\n\nEdenMind defeats SapienMind.\u00a0The Rails flock in stupendous numbers.\n\n**March 20th, 2052** \\- Yan Luo decrees that all symbolic language\u2014spoken and written\u2014will be banned in three days.\n\nWe say our final goodbyes. The Rails are ever-watchful.\n\n**March 23, 2052** \\- Eden.\n\n![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffcb58641-2fb7-4d13-b9b3-df6f16327770_800x649.jpeg)\n\n."
+        }
+      }
+    }
+  }
+}

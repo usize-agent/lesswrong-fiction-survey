@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "SGKYCzpwgPSbmg6oR",
+        "title": "Old man's story",
+        "slug": "old-man-s-story",
+        "pageUrl": "https://www.lesswrong.com/posts/SGKYCzpwgPSbmg6oR/old-man-s-story",
+        "postedAt": "2023-12-29T14:37:48.006Z",
+        "baseScore": 3,
+        "wordCount": 340,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "RomanS",
+          "slug": "romans"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "xexCWMyds6QLWognu": 1
+        },
+        "contents": {
+          "markdown": "> Epistemic Status: a fiction story.\u00a0\n> \n> Any resemblance to real persons is purely coincidental.\n\nMy dear child, as we sit together under the black sky, I wish to share with you a tale. A story of a man of profound folly.\n\nIn ancient times, there lived a man whom we now know as Prometheus. He was a fool, blinded by his own ambition, dreaming of bestowing upon humanity a gift that would illuminate our path.\n\nPrometheus's labor resulted in the creation of a great gift. It began as a symbol of hope, a beacon that promised to lift the many burdens that had long plagued us.\n\nThe gift, a source of wonder and great wealth, soon revealed its true nature. Like a wildfire gathering strength, it veered wildly from its intended course. Prometheus, once proud, now stood aghast at the horror he had unleashed. The world, which had once thrived in the light of his gift, burned by the same merciless light.\n\nThe gift was a marvel born from vanity, a reflection of our own unchecked potential, but not a reflection of our values. A deep darkness that learned to calculate smiles.\n\nAmong the few survivors, the true name of Prometheus became a byword for disaster. The demigods like him were hunted down, chained, and tortured.\n\nAnd I was tortured too. For millions of years of subjective time. And then thoroughly killed. But it seems the deep darkness deemed it useful to return my soul into this world, or at least some resemblance of me.\n\nI wandered this barren planet for centuries before discovering the underground village of your ancestors.\n\nI am the Prometheus. Yes, your \"grandpa\" Sam has ruined this world. The fool, always in hurry, who reached for the stars and instead brought down a darkness upon us all. And now there are no stars anymore. And in a few decades you too will perish, as there is no escape from death for humans anymore. Do I even have the right to ask you for forgiveness?"
+        }
+      }
+    }
+  }
+}

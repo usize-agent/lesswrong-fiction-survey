@@ -1,0 +1,29 @@
+{
+  "_id": "9GJJcjwSi9sodhFBx",
+  "slug": "the-lazarus-project-tv-review",
+  "title": "The Lazarus Project - TV Review",
+  "postedAt": "2025-06-23T23:53:23.849Z",
+  "baseScore": 6,
+  "wordCount": 168,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Commander Zander",
+    "slug": "commander-zander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "fkABsGCJZ6y9qConW": 2
+  }
+}

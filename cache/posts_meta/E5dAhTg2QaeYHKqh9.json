@@ -1,0 +1,23 @@
+{
+  "_id": "E5dAhTg2QaeYHKqh9",
+  "slug": "harry-potter-and-methods-of-rationality-alternative-ending",
+  "title": "Harry Potter and methods of rationality alternative ending.",
+  "postedAt": "2020-07-01T18:51:09.629Z",
+  "baseScore": 13,
+  "wordCount": 350,
+  "commentCount": 25,
+  "user": {
+    "displayName": "Klen Salubri",
+    "slug": "klen-salubri"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

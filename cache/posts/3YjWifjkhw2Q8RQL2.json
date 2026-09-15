@@ -1,0 +1,50 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "3YjWifjkhw2Q8RQL2",
+        "title": "GPT-3 Fiction Samples",
+        "slug": "gpt-3-fiction-samples",
+        "pageUrl": "https://www.lesswrong.com/posts/3YjWifjkhw2Q8RQL2/gpt-3-fiction-samples",
+        "postedAt": "2020-06-25T16:12:05.422Z",
+        "baseScore": 63,
+        "wordCount": 0,
+        "commentCount": 15,
+        "noIndex": false,
+        "user": {
+          "displayName": "gwern",
+          "slug": "gwern"
+        },
+        "tags": [
+          {
+            "_id": "YWzByWvtXunfrBu5b",
+            "name": "GPT",
+            "slug": "gpt"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "GBpwq8cWvaeRoE9X5",
+            "name": "Fiction (Topic)",
+            "slug": "fiction-topic"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "GBpwq8cWvaeRoE9X5": 2,
+          "YWzByWvtXunfrBu5b": 12,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": null
+      }
+    }
+  }
+}

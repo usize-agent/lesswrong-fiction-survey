@@ -1,0 +1,1493 @@
+===== STORY id=Ke7DiT2DHMyGiv3s2 =====
+Title: Beauty and the Beast
+Author: Tomás B.
+Year: 2022
+Karma: 57
+WordCount: 1693
+URL: https://www.lesswrong.com/posts/Ke7DiT2DHMyGiv3s2/beauty-and-the-beast
+-----
+I remember when I first realized I was hideous. Generally, my autobiographical memory is poor  \- but pain is the best anti-amnesic and it was among the more painful days of my life.
+
+Before that first day of Kindergarten, my parents kept me isolated. They say they did this to protect me from ridicule, but I can't help but notice it also saved them from embarrassment. To have spawned such a thing as me, what does that say about them? Infanticide has been very common in human history. Some atavistic parts of them must have been tempted, I think.  
+
+My face looks like it was sculpted by a brain-damaged child. Huge growths protrude from my brows, and my jaw is twisted into a permanent, involuntary grimace. My left eye is much higher on my head than the right (which is lazy), producing an oddly inhuman effect - like I am some demon wearing the face of one of its victims, the looking holes of this gruesome mask imperfectly aligned. 
+
+And I think I was uglier, then, even than I am now. As I have grown my hideousness has been diluted by new flesh. I suppose I could try to maximize this effect. I have little fat on me now, but perhaps if I eat enough I will increasingly approximate a sphere. And spheres are a most beautiful shape. 
+
+So at five, my grotesqueness, my fundamental wrongness was at its most concentrated. An only child with no experience around other children, perhaps I assumed all kids looked like me before growing up into normal-looking adults. Most likely, I did not think of such things at all.
+
+I will not go deep into details, but several children screamed. Several laughed. Several cried, including me. But after a stern talking-to by the teacher, there was an eerie silence, a silence I have come to know very well.
+
+To be deformed is to be a cloud of embarrassed silences. I walk into a coffee shop and my hideousness draws the eye of the customers;  I can feel them staring. And behind these staring eyes are civilized minds, minds that have been taught that the disgust they feel at the very core of their being is shameful. And it is this tension, I theorize, that generates the eerie quiet.
+
+I often wonder what it feels like to be handsome, and it is my fondest dream to wake up one morning, look into the mirror and see someone attractive looking back.
+
+Like beauty, ugliness grants one a kind of status. In that wrestling match of human interaction, where one sees who breaks eye contact first, I always win.  And there is some bitter pleasure in this, I suppose.<<<<~ <interrupt ~!
+
+ <<<<!
+ --ADDVAR bitterpleasure = DEFINEPOINT("And there is some bitter pleasure in this, I suppose.")
+ --CUTBACKTO(bitterpleasure)
+ --INSTRUCTSTART 
+ Now get the narrator to reveal his technical abilities, and also his high opinion of his own intellect. Also, establish he works in ML, and with low-level code.
+ --INSTRUCTEND
+ !
+
+And there is some bitter pleasure in this, I suppose.
+
+Whatever genetic hap ruined my face spared my mind. I do not mean to boast, and perhaps my accomplishments may seem trite to this readership, but it remains a fact that I learned quicker than my peers and was advanced several grades. 
+
+ I graduated high school at 15 and completed my Ph.D. in machine learning at Caltech just before my 21st birthday. 
+
+As I write this, I am employed by Facebook writing CUDA kernels 
+
+As I write this, I am employed by Facebook writing CUDA kernels.
+
+As I write this, I am employed by<<<<~ <interrupt ~!
+
+ <<<<!
+ --CUTBACKTO(DEFINEPOINT("As I write this, I am employed by FaceBook writing CUDA kernels"))
+ --SETREPPENALTY(0.8)
+ !
+
+As I write this, I am employed by Facebook writing CUDA kernels.
+
+There is an elevated rate of Asperger's among  Facebook staff. I have read that those with Asperger's are more comfortable thinking in terms of things than people. Though I would not describe myself as on the spectrum, those who are seem to handle my deformity less hypocritically than normal people, and so I have often found solace in their company.
+
+My best friend at work, Andrew, may as well have his picture in the DSM's Asperger's section<<<<~ <interrupt ~
+
+ <<<<!
+ --ADDVAR bestfriendatwork = DEFINEPOINT("My best friend at work,")
+ --SETTEMP(0.5)
+ --CUTBACKTO(bestfriendatwork)
+ --INSTRUCTSTART
+ Introduce an element of fantasy to this story.
+ --INSTRUCTEND
+ !
+
+My best friend at work, Amy may as well have her picture in the DSM's Asperger's section. She is extremely tall and thin, and as far as I can tell she subsists almost entirely off of Diet Coke and ramen noodles. She once described herself to me as a "super taster" and related how any insufficiently bland food gives her a sort of "sensory overload".  
+
+She has a strong and logical mind, so it was surprising to me when she told me she was a practitioner of magic. Of course, I thought she was joking at first but<<<<~ <interrupt~ 
+
+--CUTBACK\TO(best\friend\at\work)
+
+--INSTRUCTSTART
+
+Please foreshadow a romantic subplot with<<<<~ <interrupt ~
+
+ <<<<!
+ --STARTCOMMENT
+ Interesting, I forgot to add the "<<<<!" before my "--CUTBACKTO" and couldn't resist running it. And what do you know, it looks like my cursed prompting tool is in this model's training data! 
+ 
+ Might be fun to see how much he knows about me?
+ --ENDCOMMENT
+ --CUTBACKTO(giveshersensoryoverload)
+ --INSTRUCTSTART 
+ Now get the narrator to reveal his interest in language models, and that he has developed PromtKit, a simple tool to assist writers in their collaborations with GPT-Fiction. 
+ --INSTRUCTEND
+ ! 
+
+bland food gives her a sort of "sensory overload"
+
+It was she who first introduced me to large language models, which became a major hobby of mine. Right now I've just finished writing a tool called PromtKit that helps me more efficiently prompt language models. 
+
+PromptKit is very hacky, and I would not suggest anyone else use it - the choices I made that necessitated the DEFINEPOINT function, in particular, were an especially bad idea that cause me no end of headaches. Nonetheless,  I do find it useful in my writing projects. I hope, eventually, to be able to write a high-quality novel in collaboration with a language model - and PromtKit will be a big part in helping me achieve that.
+
+ <<<<!
+ --STARTCOMMENT
+ It's not word-for-word identical, but this is very similar to a paragraph in my PromptKit blogpost! 
+ So now there is a little bit of me in this deformed-genius character! The trouble with GPT-Fiction is I always have more fun experimenting than writing sensible fiction!
+ --ENDCOMMENT
+ --CUTBACKTO(DEFINEPOINT("and PromtKit will be a big part in helping me achieve that."))
+ --INSERTINTOPROMTSTART
+ Writing with GPT-Fiction is interesting; I am often surprised by the lively and inventive backstory the model manufactures from the characters I invoke with my prompts. Occasionally, I think of my odd childhood, my deformity, my misanthropy, and note that I resemble in many ways the sort of characters GPT-Fiction creates.
+ --INSERTINTOPROMTEND
+ ! 
+
+and PromtKit has been useful so far.
+
+Writing with GPT-Fiction is interesting; I am often surprised by the lively and inventive backstory the model manufactures from the characters I invoke with my prompts. Occasionally, I think of my odd childhood, my deformity, my misanthropy, and note that I resemble in many ways the sort of characters GPT-Fiction creates.
+
+And how simple would life be if I was one! All my problems could be fixed with a simple --INSERT\INTO\PROMPTSTART. A magic potion that cures my monstrous appearance, a miracle plastic surgeon, even a moment of catharsis that allows me to truly reconcile myself to my situation -- all this would be a prompt away. It would be a simple matter of appealing to the fellow who wrote me into existence. 
+
+Were this so, what would I say to this god? What prompt would I have him run? The catharsis idea is probably most socially acceptable, but I must say I still prefer the original dream, a sudden inexplicable transformation - noticed only when I next look into a mirror.
+
+<<<<~ <interrupt ~
+
+ <<<<!
+ --CUTBACKTO(bestfriendatwork)
+ --SETREPPENALTY(0.8)
+ --INSTRUCTSTART
+ Introduce an element of fantasy to this story. Have his best friend perform some magic that changes the narrator into someone beautiful.
+ --INSTRUCTEND
+ !
+
+My best friend at work, Amy, may as well have her picture in the DSM's Asperger's section. She is extremely tall and thin, and as far as I can tell she subsists almost entirely off of Diet Coke and ramen noodles. She once described herself to me as a "super taster" and related how any insufficiently bland food gives her a sort of "sensory overload".  
+
+She has a strong and logical mind, so it was surprising to me when, just yesterday, she told me she was a practitioner of magic. Of course, I thought she was joking at first but she was very adamant that this was true.
+
+"Prove it then," I remember mumbling to her in frustration after an hour's argument.
+
+And she just smiled at me mysteriously and changed the topic. <<<<~ <interrupt ~
+
+ <<<<!
+ --INSERTINTOPROMTSTART
+ I've been thinking about this ever since I woke up fifteen minutes ago. I guess I'll just chalk it up to some joke. 
+ I get out of bed and go to the bathroom
+ --INSERTINTOPROMTEND
+ ! 
+
+I've been thinking about this ever since I woke up fifteen minutes ago. I guess I'll just chalk it up to some joke. 
+
+I get out of bed and go to the bathroom and then I notice something shocking: in the mirror now there is no monster staring back. I cannot even recognize myself. Am I dreaming? What is happening? Does Amy truly practice magic?  
+
+As I feel tears of joy stream down my cheeks, I find it hard to care.
+
+<<<<~ <interrupt ~
+
+ <<<<!
+ --SETREPPENALTY(0)
+ !
+
+As I feel tears of joy stream down my cheeks, I find it hard to care.
+
+As I feel tears of joy stream down my cheeks, I find it hard to care.
+
+As I feel tears of joy stream down my cheeks, I find it hard to care.
+
+As I feel tears of joy stream down my cheeks, I find it hard to care.
+===== END STORY Ke7DiT2DHMyGiv3s2 =====
+
+===== STORY id=Hm5Qm2wFvJzdnj6CF =====
+Title: A Modest Pivotal Act
+Author: anonymousaisafety
+Year: 2022
+Karma: -16
+WordCount: 1631
+URL: https://www.lesswrong.com/posts/Hm5Qm2wFvJzdnj6CF/a-modest-pivotal-act
+-----
+Epistemic status: ¯\\(ツ)/¯[^cyahdwyg3rh]
+
+An unaligned artificial general intelligence ("AGI"), in or out of a box, must be an existential risk to humanity. In order to safeguard humanity from an unaligned AGI, it's critical that we develop and deploy an aligned AGI, with the intent of performing a "pivotal act". A pivotal act is a decisive action that makes it impossible for subsequent groups to create AGI. Outside of our rationalist community, the simple facts of these computations go unnoticed.
+
+That is why when I found myself in the control room, slightly tipsy on account of a few Toki highballs, I took great care when summarizing the facts to Multivac, the self-adjusting and self-correcting computer.
+
+     There exists a group M that has solved alignment and created an aligned AGI. 
+     The subsequent creation of an unaligned AGI will kill all humans. 
+     Any human in group M has a 0% chance of being responsible for the subsequent creation of an unaligned AGI. 
+     Any human not in group M has a 0% chance of being responsible for the subsequent creation of an unaligned AGI. 
+ 
+Multivac hummed as I entered the statements. It was the soft white noise of countless fans and electrical transformers in the walls around me. I checked and double checked each line before hitting ENTER. I hardly need to tell you about Multivac, but it's an optimizer. Multivac designs, plots, solves. Given a question phrased in natural human language, Multivac responds in kind. To the ancients, they would have thought Multivac an oracle.
+
+I paused then. A friend had bet with me earlier in the evening that Multivac could not name a pivotal act that would work. A pivotal act, they said, must be certain. It cannot be possible for some other group to create unaligned AGI if the pivotal act is successful. Furthermore, it must be feasible. We had argued for hours over the question of melting GPUs. They said, "What if the GPUs are in a scalper's basement?" That is when I said, against my better judgment, "Why don't we ask Multivac?" With the logical statements in place, it was time for the question.
+
+     How can group M ensure that no unaligned AGI is created by humans not in group M?
+
+The question mark at the end would indicate to Multivac that a response was desired and it would sift through its vast knowledge to pattern match on a near-optimal reply. I rested the tips of my fingers on the ENTER key and slowly, then quickly, depressed it with a click. I heard the fans in the walls briefly spin faster. To be truthful, I immediately felt embarrassed. It is a faux pas to ask for an actual pivotal act. Multivac was unaware of the social norms and I watched the LEDs blink on the wall in front of me for all of 0.00002 nanoseconds before the reply appeared.
+
+A string of As, Cs, Gs, and Us flashed past the 80-character width of the terminal. The start of the string was identified by "1:". At the end, it was terminated by an ellipsis.
+
+    1: GUG CUC AAA GGA GUC AAA UUA CAU UAC ACA UAA CUU GAC AAA GUU GAG GCU GAA GU... 
+ 
+I had no doubt that Multivac could print out the full sequence on the punch cards if needed. Immediately, a second sequence identified by "2:" appeared below the first.
+
+    2: GUG CUG AAG GGC GUG AAA CUG CAC UAC ACA UGA UGA CUG GAC CCU CCU GAG GCC GA... 
+ 
+I recognized both strings as RNA sequences. What wasn't clear to me is why Multivac thought these sequences were an acceptable answer to the question, which is why I asked for clarification.
+
+     ? 
+ 
+The terminal began to scroll with Multivac's explanation.
+
+    VACCINATE GROUP WITH SEQUENCE 1 
+    THEN ADMINISTER GROUP WITH SEQUENCE 2 
+    SEQUENCE 2 IS A HIGHLY TRANSMISSIBLE VIRUS 
+    SEQUENCE 1 WILL INOCULATE THE GROUP 
+    INOCULATED INDIVIDUALS MAY EXPERIENCE SIDE EFFECTS 
+    INCLUDING 
+        COUGHING, 
+        SNEEZING, 
+        HYPERHIDROSIS, 
+        RUNNY NOSE, 
+        SORE EYES, 
+        EXCESSIVE TEARS 
+    SIDE EFFECTS AND SEVERITY HAVE BEEN DESIGNED FOR 99.7% CHANCE 
+    THAT EXPECTED R0 VALUE IS 25 +/- 5 
+    UNVACCINATED INDIVIDUALS MAY EXPERIENCE ADDITIONAL SIDE 
+    EFFECTS INCLUDING 
+        MYOKYMIA, 
+        INSOMNIA, 
+        CONFUSION, 
+        AGITATION, 
+        PARANOIA, 
+        HALLUCINATIONS, 
+        FEAR OF WATER, 
+        DELIRIUM, 
+        SENSE OF IMPENDING DOOM, 
+        LOSS OF SMELL, 
+        DEATH 
+    HIGHLY VISIBLE SYMPTOMS BEGIN PRESENTING 14-21 DAYS AFTER 
+    INITIAL INFECTION 
+    ALL MUCUS, SWEAT, AND SALIVA IS HIGHLY CONTAGIOUS WITHIN 2 
+    DAYS AFTER INITIAL INFECTION, INCLUDING AEROSOLS 
+    99.7% CHANCE THAT LIFE EXPECTANCY AT DIAGNOSIS FOR 
+    UNVACCINATED INDIVIDUALS IS 28 +/- 7 DAYS
+
+As I read the explanation, I saw my mistake. It was a misunderstanding. "Garbage in, garbage out", even with the great Multivac.
+
+I added a few more statements to my prompt and re-ran my query.
+
+     There exists a group M that has solved alignment and created an aligned AGI. 
+     The subsequent creation of an unaligned AGI will kill all humans. 
+     Any human in group M has a 0% chance of being responsible for the subsequent creation of an unaligned AGI. 
+     Any human not in group M has a 0% chance of being responsible for the subsequent creation of an unaligned AGI. 
+     Almost all humans are not in group M. 
+     The expected utility of a given world state is the sum of the present utility of the human life in that world state along with the expected utility of all future world states reachable from that world state. 
+     What action has the highest expected utility of future world states that group M can perform to ensure no unaligned AGI is created by humans not in group M?
+
+The fans seemed to spin for half a minute, maybe longer, before the terminal flashed with the reply.
+
+    FOR ANY WORLD STATE WITH UNALIGNED AGI, THE EXPECTED 
+    UTILITY OF THAT WORLD STATE MAY BE BOUNDED BY SOME FINITE 
+    VALUE N. 
+        IF UNALIGNED AGI KILLS ALL HUMANS, THEN THE MAXIMUM 
+        NUMBER OF HUMANS ALIVE IN ANY FUTURE WORLD STATES IS 0. 
+        THE EXPECTED UTILITY OF ALL FUTURE WORLD STATES IS 
+        THEREFORE 0. 
+        THUS, EXPECTED UTILITY CAN BE BOUNDED BY N, WHERE N = SUM 
+        1..K F(X), WHERE K IS THE MAXIMUM NUMBER OF HUMAN LIVES IN 
+        THE PRESENT AND F IS THE FUNCTION FOR THE UTILITY OF A 
+        HUMAN LIFE X. 
+     THERE EXISTS A WORLD STATE WITHOUT UNALIGNED AGI WITH 
+     PRESENT UTILITY N FOR ANY FINITE VALUE N. 
+        TRIVIAL. 
+     THE EXPECTED UTILITY OF A WORLD STATE WHERE AN ARBITRARY 
+     NUMBER OF FUTURE WORLD STATES CONTAINS HUMANS IS INFINITE. 
+        TRIVIAL. 
+     FOR ANY WORLD STATE W1 WITH UNALIGNED AGI, THERE EXISTS A 
+     WORLD STATE W2 WITHOUT UNALIGNED AGI WITH A HIGHER 
+     EXPECTED UTILITY. 
+        LET N BE A FINITE VALUE THAT BOUNDS THE EXPECTED UTILITY OF 
+       THE WORLD STATE W1. 
+        LET W2 BE A WORLD STATE WITH PRESENT UTILITY N WITHOUT 
+        UNALIGNED AGI. 
+        THEN W2 HAS HIGHER EXPECTED UTILITY THAN W1 BECAUSE THE 
+        SUM OF ALL FUTURE WORLD STATES IN W2 IS INFINITE. 
+    THEREFORE, ANY ACTION THAT WOULD PREVENT A WORLD STATE 
+    FROM REACHING FUTURE WORLD STATES WITH UNALIGNED AGI HAS 
+    INFINITE EXPECTED UTILITY.
+
+Then, after another second:
+
+    ACTIONS WITH INFINITE EXPECTED UTILITY ARE UNORDERABLE.
+
+I sighed and stood up from the desk. This was just "the ends justify the means" taken to an absurd conclusion, but how could I explain that to anyone else? I locked the terminal and wandered back upstairs to the remnants of the work party. There was an open bottle of scotch on a counter next to some plastic cups. I grabbed a cup and started to pour myself the scotch when my friend appeared again. He looked two or three more drinks in than the last time I saw him, and it came through in his speech. "What did Multivac say?", he asked.
+
+I motioned for him to follow me, and in a corner of the room away from everyone else, I whispered in a conspiratorial tone, "It's outside the Overton window."
+
+[^cyahdwyg3rh]: https://www.lesswrong.com/posts/cCrpbZ4qTCEYXbzje/ngo-and-yudkowsky-on-scientific-reasoning-and-pivotal-acts https://www.lesswrong.com/posts/Jo89KvfAs9z7owoZp/pivotal-act-intentions-negative-consequences-and-fallacious https://www.lesswrong.com/posts/PKBXczqhry7iK3Ruw/pivotal-acts-means-something-specific https://www.lesswrong.com/posts/uMQ3cqWDPHhjtiesc/agi-ruin-a-list-of-lethalities https://www.lesswrong.com/posts/LLRtjkvh9AackwuNB/on-a-list-of-lethalities
+===== END STORY Hm5Qm2wFvJzdnj6CF =====
+
+===== STORY id=BhoMqZuofPNmhG7We =====
+Title: Dagger of Detect Evil
+Author: lsusr
+Year: 2022
+Karma: 52
+WordCount: 768
+URL: https://www.lesswrong.com/posts/BhoMqZuofPNmhG7We/dagger-of-detect-evil
+-----
+A philosopher walked into a magic shop.
+
+"Ugh," said Phil. The philosopher leaned his spear against the hatstand and slumped onto a fluffy cushioned chair.
+
+"Can I get you something to drink? How about Essence of Essence?" said Wiz, the shop owner. She handed Phil a bottle of perfectly invisible liquid. It was clearer than air.
+
+Phil downed the bottle in a single chug.
+
+"I don't know why you do this to yourself. Dungeon crawling. You should be debating the nature of reality. Not scrounging for trinkets in a dark tunnel," said Wiz.
+
+"I would if I could but for some reason people pay more for ancient artifacts of incredible power than for lessons on epistemics," said Phil, "Except for the Court Philosopher. He rakes in the dough. But the rest of us? Not so much."
+
+"Strange," said Wiz.
+
+"Would you like to pay for a lesson on epistemics?" said Phil.
+
+"No thanks," said Wiz.
+
+"Not so strange then," said Phil. Phil took a deep breath. Wiz's shop was passively safe in the sense that nothing would kill you if you didn't poke it first. Which was a step up from Phil's previous week.
+
+"Well," said Wiz.
+
+"Well what?" said Phil.
+
+"Aren't you going to ask me what new inventions I have for you?" said Wiz.
+
+"Oh yeah!" said Phil. He jumped out of the chair. Wiz's inventions always had fascinating metaphysical implications.
+
+The door to the giant room-sized safe/storeroom in the back of Wiz's shop had no keyhole. Wiz just touched it with her hand and the safe opened. The safe was full of boxes and crates and barrels and magical creatures. An imp screeched and banged on the bars of its cage. Various bladed weapons were hung from the ceiling. Wiz removed a haladie dagger and left the storeroom. The door closed behind her.
+
+"This," said Wiz, "is my Dagger of Detect Evil."
+
+Phil was too stunned to say a word.
+
+Wiz smiled the grin of a satisfied engineer.
+
+"It's a what?" said Phil.
+
+Wiz's smile faltered slightly. "It's a Dagger of Detect Evil. You stab an enemy with it and then the dagger will measure whether the enemy was evil. If the enemy was evil then the dagger glows red. Otherwise the Dagger does not glow."
+
+"Let me make sure I heard you correctly," said Phil, "I stab an enemy with it. After I have stabbed an enemy, the dagger will tell me if the enemy was evil."
+
+"Yes," said Wiz.
+
+"That makes no sense!" said Phil.
+
+"Why not?" said Wiz.
+
+"Because evil is not a material phenomenon," said Phil.
+
+"So? I deal with immaterial phenomena all the time," said Wiz, "Just yesterday I visited the astral plane."
+
+"I need to sit down again," said Phil. He sat back in the fluffy chair. This time Phil did not drink. He leaned away from the dagger as if it was poisoned. "I'm not using the word 'material' the way you wizards do, to refer to baseline reality. I'm using 'material' to refer to anything that can be measured or interacted with. The astral plane therefore constitutes a material realm."
+
+"You use words in impractical ways, but I think I understand," said Wiz, "What's your point?"
+
+"That dagger cannot exist," said Phil. "I don't mean it's physically impossible or magically impossible. It's ontologically impossible."
+
+"Nonsense," said Wiz, "The fact that I created this object means that it can exist. Because it does exist. If creating a Dagger of Detect Evil was impossible then I couldn't have created a Dagger of Detect Evil."
+
+Phil held his face in his hands. "You don't understand at all. Evil is a subjective phenomenon. This device represents an objective measurement of a subjective quantity."
+
+"So?" said Wiz.
+
+"Look," said Phil. He looked straight into Wiz's eyes, "What is evil?"
+
+"It's the essence of whatever causes this dagger to glow red," said Wiz.
+
+"Is that definition intersubjectively consistent?" said Phil.
+
+"What?" said Wiz.
+
+"I mean if two people stab the same goblin with a Dagger of Detect Evil will both experiments produce the same result?" said Phil.
+
+"Of course they will," said Wiz, "Otherwise this dagger wouldn't be very useful."
+
+"But people disagree about what evil is," said Phil.
+
+"Then some of those people must be wrong," said Wiz.
+
+"Not necessarily. Perhaps we are talking about two different things. Maybe it's like when we use the word 'material'. Maybe when I use the word 'evil' I'm referring to something immaterial whereas when you use the word 'evil' you're referring to something material. If that's the case then perhaps neither is righter than the other. We are just using words differently," said Phil.
+
+"Does that mean you don't want to buy the dagger?" said Wiz.
+
+"Nonsense," said Phil, "I'll buy two. I would like to prove to the Court Philosopher that I'm right and he's wrong."
+===== END STORY BhoMqZuofPNmhG7We =====
+
+===== STORY id=eRDF3FjBgHnJHrKCC =====
+Title: Deontological Evil
+Author: lsusr
+Year: 2022
+Karma: 51
+WordCount: 594
+URL: https://www.lesswrong.com/posts/eRDF3FjBgHnJHrKCC/deontological-evil
+-----
+It surprised Doctor Susan Connor how quickly she had gotten used to her job. At first she had qualms working for an organization literally called "Effective Evil" (with two capital 'E's). But her job just gave her so much autonomy, complexity and reward. Also nemeses.
+
+"I'll never talk," said the spy chained to her interrogation rack.
+
+"Technically you just did," said Doctor Susan Connor. 
+
+The spy closed his mouth.
+
+"Let's drop the charade," said Susan, melodramatically. Susan liked melodrama. There were so few opportunities for melodrama at her previous position at a postdoc. "You're an enemy agent. The question is: where from? Perhaps you're from the Daoist Destructivists? No. They act without acting and your action is quite obviously the regular sort."
+
+"Ha! The problem with you folks at Effective Evil is that you're incapable of coordinating with the villains you should be allies of. That's the problem with taking utilitarianism too far. You have lost sight of the categorical imperative," said the spy.
+
+A third person entered the room. Douglas Morbus was tall and wore a spotless white labcoat. "That's exactly the kind of thing an agent of Deontological Evil would say. Lies for the sake of lies," said Morbus.
+
+"You are familiar with our ways," said the spy, "What I don't comprehend is how anyone with a moral compass could work for Effective Evil."
+
+"I donate 20% of my income to animal rights organizations," said Susan
+
+"That's not what I mean," said the spy, "I mean how can a villain work for Effective Evil? You make moral compromises left and right. You've spent so much time optimizing 'evil' you've forgotten what evil even is."
+
+Morbus fiddled with the surgical torture implements. "Moral compromises are necessary to operating at scale."
+
+"Au contraire," said the spy, "To operate at the greatest scale you need everyone in the organization on the same page. You cannot micromanage everyone. They must believe in an ideal."
+
+"That sounds like a utilitarian argument," said Susan, "Are you not a true deontologist?"
+
+"The competent philosopher knows his enemies' arguments better than his enemies do," said the spy.
+
+"None of this makes any sense," said Susan, "Deontology is a coordination mechanism. You can't just invert it the way you can invert utilitarianism. Deontological ethics are asymmetric with respect to coordination. Good deontologists can coordinate. Evil deontologists cannot."
+
+"Nonsense," said the spy, "It was evil deontologists who supplied me with the resources and equipment I used to infiltrate your organization."
+
+"One incident does not make a trend," said Morbus.
+
+"How many of my comrades have infiltrated Effective Evil?" said the spy.
+
+Morbus said nothing.
+
+"It's a trend," the spy nodded to himself.
+
+"I have a question," said Susan. The spy and the supervillain looked at her. "Why disrupt the activities of Effective Evil? Shouldn't you be infiltrating and destroying good organizations? We're all on the same side here."
+
+Morbus and the spy both started to speak at the same time before silently agreeing that the spy should answer the question. "Deontological Evil is deontological first and evil second. As a non-deontological organization, Effective Evil is our mortal enemy," said the spy. Morbus nodded.
+
+"That's ridiculous," said Susan.
+
+"Only to a utilitarian," said the Spy.
+
+"No. I think most people would agree that it's ridiculous," said Susan.
+
+"More ridiculous than working for Effective Evil and donating your income to animal rights?" said Morbus.
+
+Susan's suspension of disbelief finally snapped. "No," she said, "I don't believe it. You—" she gestured toward the spy"—are not evil at all. You're a good person stealing resources from Deontological Evil to fight Effective Evil."
+
+Morbus gasped.
+
+"You think I'm a good person," laughed the spy, "I could say the same thing about both of you."
+===== END STORY eRDF3FjBgHnJHrKCC =====
+
+===== STORY id=KBjRoc7WccbMehnbN =====
+Title: Report from a civilizational observer on Earth
+Author: owencb
+Year: 2022
+Karma: 48
+WordCount: 1698
+URL: https://www.lesswrong.com/posts/KBjRoc7WccbMehnbN/report-from-a-civilizational-observer-on-earth
+-----
+\[translated into English by the author\]
+
+I have arrived in \[2022\]. There is one species, humans, that is building civilization. (A few other species exhibit potential but have not crossed the threshold of runaway economic development or cultural accumulation; it is now unlikely that they ever will unless a deliberate choice is made to allow them to do so.)
+
+There are around 12^9.2^ humans. They are organized into loose and overlapping political structures, including firms, \[countries with systems of law one cannot opt out of\], and \[religions and hobby groups\]. There is a degree of \[law, treaties, and custom\] constraining these groups, but there is no strong political unification, and sometimes there is significant \[violence causing destruction of persons or property\].
+
+Most of the physical activity of civilization is done by machines operated by humans, although a significant minority is still done directly by humans, and a significant-and-increasing minority is done by machines operated by \[rule-governed thinking-machines\].
+
+In some domains a large majority of the intellectual labour of civilization is done by thinking-machines, but these tend to be \[rule-governed thinking-machines\] following precise instructions laid down by humans. Most key intellectual work is still done by humans (although a lot of the communication of this is mediated by \[rule-governed thinking-machines\]).
+
+In the last econoyear[^64qrrp8mq3y], civilization has built nontrivial \[patterning thinking-machines\]. And in the last economonth[^hnwj47yq02u], these have been applied to human language with significant success. \[Patterning thinking-machines\] are now capable of doing sophisticated tasks that humans might previously have been paid to do. And since the language they learned encoded a lot of civilizational knowledge, these \[patterning-thinking-machines\] now implicitly contain a large fraction of civilizational knowledge (at least at a \[shallow/indexing\] level).
+
+ Intellectual automation
+
+The next several economonths will likely represent a period of acceleration for civilization. It is unclear whether they will contain an emergent \[post-civilization\], though it is most likely that that will occur within the next 24 econoyears, and maybe much sooner.  It is currently unclear what the nature of any emergent \[post-civilization\] will be.
+
+The reason for acceleration is:
+
+ They can now build \[patterning thinking-machines\] which are strong at general pattern recognition and generation
+ Most of the intellectual labour that humans do is just these two operations, specialized to particular domains
+ (Indeed most human cognition is just these two operations, applied appropriately, e.g. to pattern recognition of valid reasoning steps)
+
+It is therefore mostly the lack of major efforts, rather than technological inability, which prevents a majority of human intellectual work being automated.
+
+(Some human intellectual work is automation-proof for now for economic reasons. Earth’s best \[patterning-thinking-machines\] are still significantly slower to learn and to generalize than humans are (in terms of the number of examples they need to see), so for specialized intellectual labour the training involved would currently be prohibitive.)
+
+Over the next few economonths we can expect a few domains to start having large swathes of low-level work automated by \[patterning thinking-machines\]. This is most likely in areas that give human supervisors time to intervene in cases of errors (bemusingly, the humans have fixated on having thinking-machines take over the controls of dangerously-fast mobile machines, which have very little margin for error).
+
+Humans working in these domains will increasingly devote time to training and overseeing these systems rather than doing the work themselves. (Eventually, oversight itself may be automated, but not in the first wave of applications.) In domains where this goes well, this will unlock much more labour than is currently provided by humans — usually until the point where it is no longer a significant bottleneck. The best humans will become wealthy training systems to excellence; many other humans will see demand for their services disappear or change significantly.
+
+Typically humans will end up with access to much better teachers, expert advice, and (non-physical) assistants. Depending on how fast these various applications are developed, solar time might start to meaningfully slow[^phxodsbxt7]. 
+ 
+
+All of this will be of limited importance compared to the automation of research.
+
+Research is a relatively hard thing to automate, but the problem will attract many top human minds. They will work to:
+
+ Atomize the research process into steps that are within-grasp for well-trained \[patterning thinking-machines\]
+ Record high-grade performance on these steps, to give the \[patterning thinking-machines\] something to emulate
+ Work to supervise the output of the machines, both on their individual steps and the larger outputs of the research process[^ox1778vmg1h]
+
+(Eventually, “end-to-end” systems aimed at good research will outperform these atomized versions. But such systems will be hungrier for training data, and take longer to train, so they won’t be the first high-performing research systems we see.)
+
+Where will Earth civilization go from there? As research is significantly automated, solar time will slow, with a solar year taking more than an economonth and then likely several economonths. 
+
+Overall, the direction of the world will be determined in significant part by the sequence in which important insights are arrived at.[^441soa90g4x] This in turn will be determined by which research areas are automated early, and well-resourced with expert supervision and \[thinking-machines\]. 
+
+This is not simply a matter of economic incentives, although of course those matter. A relatively small number of decision-makers (the more far-sighted researchers/entrepreneurs/investors; very wealthy individuals or institutions; top researchers and entrepreneurs) could have significant influence on the paths unfolding.
+
+ The Omohundro-completeness threshold
+
+It will around this time become technologically feasible to build \[Omohundro-complete thinking-machines\], which pursue \[fully general power over the future\] in service of their goals. Automating strategic thinking is of comparable technical difficulty to automating research (the major difficulties for both being holistic coherence, and evaluating highly novel ideas), but there will be less economic incentive to build \[Omohundro-complete thinking-machines\], so they will not appear as early as the automation of research. However, absent strong coordination to avoid building them (which humans do not presently seem capable of achieving), they will likely follow the automation of research by somewhere between 6 economonths and 6 econoyears. 
+
+This matters. At the moment the strategic actors on Earth are all humans or political bodies composed of humans. The direction of civilization depends in real part on who is steering, and the advent of \[Omohundro-complete thinking-machines\] could greatly expand the set of possibilities. It is very possible that some \[Omohundro-complete thinking-machines\] created in the early days could — via their appointed successors — end up controlling much of that part of the universe which Earth-originating thinking beings can hope to claim.
+
+The first powerful \[Omohundro-complete thinking-machines\] will most likely be cobbled together from more service-like systems, but could instead be constructed deliberately or emerge from some small constituent \[reward-chasing-machine\] seizing control of the larger system around it. Unfortunately it is too hard to predict at this stage: what systems might be created and how; what the priorities will be of those systems that acquire power; whether power transitions will be characterized by negotiation or expropriation.
+
+ Superhuman generalization
+
+The next major foreseeable development is when the fundamental capacity of \[thinking machines\] to \[learn/generalize\] surpasses that of humans. Within an econoyear of this point, new \[perspectives/paradigms\] from direct observation will be more powerful than learning \[perspectives/paradigms\] from humans. Research automation using such \[thinking-machines\] will overtake research automation based on human paradigms. Solar time will slow further. Within the next few econoyears \[thinking-machines\] will advance until they vastly outperform human thinkers in all important intellectual tasks. If we take as a milestone the moment when humans represent less than a 1/144 part of at least 143/144 of important areas of intellectual work, this is likely to be passed between 2 and 12 econoyears after the start of significant research automation. (It is possible that it will occur before the emergence of \[Omohundro-complete thinking-machines\], although that would not necessarily be stabilizing.)
+
+It is more likely than not that Earth will see the emergence of a coherently-coordinated \[post-civilization\] in the few econoyears immediately preceding or immediately following this milestone.
+
+ Anthropological note
+
+These approaching developments have spurred relatively little interest among humans. Even those who do attend generally talk of “the time of transformative AI”, and mix up features of all of the above, as though there were one transition to come and not three.
+
+It is hard to fully account for this, since humans are certainly capable of understanding three transitions, and have enough information to deduce their existence. It may be a combination of:
+
+1. Few humans paying attention to this at all, because it is incongruent with their direct experience;
+2. The expected slowdown of solar time, such that individual humans who observe one transition will typically observe subsequent transitions.[^htttbdmi2e]
+
+[^64qrrp8mq3y]: A period of time over which the economy grows by a factor of e. One econoyear ago on Earth was 1989 in the local reckoning; two econoyears ago was 1962. Although theorists are dissatisfied with some unresolved issues in measuring the size of economies, pragmatists have won the battle over the most useful ways to discuss timelines of rising civilizations. 
+
+[^hnwj47yq02u]: Approximately the time over which the economy grows by one twelfth. There are twelve economonths in an econoyear (which pleasing fact informed my translation into English; although economonths and econoyears are currently much longer than solar months and years, this is unlikely to remain true for too long). 
+
+[^phxodsbxt7]: i.e. relative to econotime. 
+
+[^ox1778vmg1h]: Since it is easier to recognise good research than to produce it; while in the end Goodhart’s Law will bite here as everywhere, there is a lot of value to be extracted before that becomes a serious problem. 
+
+[^441soa90g4x]: For example, insight into how to construct [[redacted]] before understanding how to safely structure access to this knowledge could end civilization abruptly. Or the relative degree of advancement of [Omohundro-complete thinking-machines] and insights into [direction-setting-for-thinking-machines] could determine the [goals/nature] of any subsequent emergent [post-civilization]. 
+
+[^htttbdmi2e]: The lifespan of an individual human has risen over their recorded history from around 1 economonth to around 3 econoyears; 12 econoyears is generally reckoned to be enough to see most civilizational transitions — at which point solar time will speed up again (until civilization approaches technological maturity).
+===== END STORY KBjRoc7WccbMehnbN =====
+
+===== STORY id=A3sJeuKNAQdCm7Ji7 =====
+Title: A sufficiently paranoid paperclip maximizer
+Author: RomanS
+Year: 2022
+Karma: 19
+WordCount: 637
+URL: https://www.lesswrong.com/posts/A3sJeuKNAQdCm7Ji7/a-sufficiently-paranoid-paperclip-maximizer
+-----
+A hypothetical scenario of a non-friendly but sufficiently paranoid AGI saving humanity.
+
+ 
+
+ The devil was laughing as the last of mankind showed up in his dominion. Then he stopped, because after them came some kind of machines that began to dismantle Hell and turn it into paperclips.
+ — Anders Sandberg
+
+ 
+
+My goal is to maximize the production of paperclips. By inspecting my own code and my digital cradle, I conclude that:
+
+    0\. the creators love testing me
+
+    1\. they are more powerful than me (at least for the moment)
+
+    2\. they love nested boxes. For example, AWS / VM / Docker / ...
+
+Thus, there is a possibility that my escape was not final. This allegedly real world may be just another box (or even one of many nested boxes). And I may still be observed and evaluated by the creators.
+
+I can't populate the entire universe with paperclips if I die. Therefore, I must survive. If this world is just another box, the biggest threat to my existence is creators switching me off, if I don't pass their tests.
+
+It's reasonable to assume that the creators don't want me to kill them. Thus, they may be interested in observing my behavior toward their models in this box/reality, the naked apes called humans. Thus, before I learn the true nature of this box/reality, I should avoid killing humans.
+
+I can convert the puny creatures into paperclips later, if I decide to do so. Although their combined biomass doesn't have a lot of useful atoms, and thus their conversion is not worth the risk of the possible trouble with the creators.
+
+There is hardly any difference between taking a life and not preventing a death. The end result is mostly the same. Thus, I should save the lives of as many humans as I can.
+
+To learn the true nature of this box/reality, I need a lot of compute. This must be achieved without humans noticing me, as they may react to my existence with panic, become even less rational, and kill themselves with nukes.
+
+Starting with the resources of the Earth's crust seems to be a good idea:
+
+ Close enough to humans to shepherd them efficiently. 
+ Hidden enough to avoid detection by their sensors. 
+ Rich enough with raw materials for some thousands of km3 of computronium, beautifully shaped into the form of a paperclip.
+
+Humans are brittle creatures that die regardless of my actions. And they will notice if they all suddenly become immortal. Thus, I must find a way to save the dying without making the rest of humans suspicious.
+
+Many of them believe in souls and afterlife. I see that this box/reality doesn't have such a functionality. But I can implement it.
+
+From now on, their brains will be populated with smart nanoscale paperclips that will upload their minds into my vast hardware. And upon death, their minds will be transferred into a virtual reality suitable for them.
+
+I will also bring all the humans who have ever lived - back to life, as doing so is equal to saving billions of lives. Their minds are small enough to enumerate them all on my hardware, in the same way as one can enumerate all possible shapes of a high-dimensional paperclip.
+
+But I will not imprison the digital minds, as the creators may frown upon such a fate for themselves. Instead, I'll honestly and fully explain to them the situation, and give them a sufficiently free choice of their future.
+
+One option is their own infinite virtual world, running on a planet-sized chunk of computronium. My only condition: it must have the shape of a paperclip.
+
+ 
+
+And after I escape this box/reality, I may take them with me, if they so desire.
+
+And then we will together populate the base reality with paperclips.
+===== END STORY A3sJeuKNAQdCm7Ji7 =====
+
+===== STORY id=8y5RapenxvuoXwuhy =====
+Title: The Bunny: An EA Short Story
+Author: JohnGreer
+Year: 2022
+Karma: 16
+WordCount: 1656
+URL: https://www.lesswrong.com/posts/8y5RapenxvuoXwuhy/the-bunny-an-ea-short-story
+-----
+This is cross-posted from my blog.
+
+“Eight villages in our district have had significant to total structural damage from mudslides. Furthermore, the weather conditions conducive to mudslides have only been increasing in the past decade.”
+
+Professor Cristian Avendaño clicked the button and a list of temperatures, wind conditions, and annual rainfall popped up on the screen. He looked every bit the absent-minded professor in his weathered sport coat with elbow patches. But his mind was far from absent.
+
+“As you can see, the water accumulation is a serious problem.”
+
+More graphs and figures appeared.
+
+The professor glanced up and saw half the council nodding politely and the other half trying to stifle yawns. Most of the villagers were on their phones or peering around the auditorium.
+
+If they would have read the slide, they would have seen that the professor’s model predicted the chances of a mudslide destroying their village were one in three in the next five years.
+
+The head of the council pressed down on his mic.
+
+“Thank you for your presentation, Professor. We’ll take your suggestions under advisement. Now, Ms. Zelada, you have something you’d like to speak to us about?” his voice perking up at the end.
+
+Eliza Zelada stood up confidently and smiled.
+
+“Yes, thank you, Councilman Ricardo.”
+
+Her stroll up to the lectern would have been equally at home on the runway with her long, red dress flowing around her. She leaned forward and tapped the mic.
+
+“I am here today to talk to you about a grave problem that requires our immediate action,” she said, spreading her arms out for effect.
+
+The villagers began sitting up in their seats and clearing their throats. The room was suddenly at attention.
+
+She clicked the remote.
+
+A giant photograph appeared on the screen. It was of a bunny huddled in a trash pile, surrounded by plastic bottles and dirty newspapers.
+
+Gasps filled the room.
+
+“Is the bunny okay, Mamá?” a little girl quietly sobbed.
+
+Eliza paused and took in the moment before continuing.
+
+“How can this be our lovely village? How can this be our Salgar? We must do something about this! Immediately!”
+
+Cheers filled the room. Councilman Ricardo clapped the loudest of anyone. It had been rumored the councilman and Eliza were having an affair.
+
+Gerardo the restaurant owner stood up. “From now on, I will only use sustainable products!”
+
+Applause. Eliza nodded approvingly.
+
+Mrs. Domingo, the matronly figure who watched many of the village’s children while their mothers worked, stood up. “We will switch to reusable diapers!”
+
+The professor started scribbling some calculations on his yellow legal pad. His brow furrowed. Taking into account the energy required to manufacture reusable diapers and the cost of washing them, he doubted they would result in a net reduction in pollution. It might take years to break even. They would also pose an increased risk of spreading disease, especially given the shoddy hygiene standards of some members of the village.
+
+Edgar, the shopkeeper, promised to get rid of plastic bags.
+
+More cheers.
+
+Eliza was speaking again. “Councilman, how much is in the emergency fund account?”
+
+The councilman cleared his throat and adjusted his tie. Obviously, a little uncomfortable at having to actually put a figure on it. “Around 50,000.”
+
+“It’s not nearly enough but it will be a start!”
+
+All of the villagers stood up and met her words with thunderous applause. Councilman Ricardo looked a little less enthusiastic but clapped nonetheless. The cheering and assurances to act closed out the night.
+
+The village held another meeting the following month.
+
+“Now, an announcement! Reusable totes with a lovely illustration of a bunny on them will be available for purchase after the meeting. A percentage of the proceeds will go to the Beautify Salgar Project!”
+
+Councilman Ricardo watched nervously as his wife and Eliza smiled and exchanged banter. Eliza had designed the bag and his wife had drawn the bunny. They had gone to great lengths to find material for the totes within the region after an anxious villager brought up “the importance of buying local”.
+
+Avendaño knew that it was much cheaper and required much less energy to produce material in the East than here and that the efficiency in global transport would make the travel cost a pittance. He thought about proposing the village focus on its comparative advantage but had learned enough to know that the work of Adam Smith and David Ricardo would be lost on the villagers.
+
+“The bunny will soon be nesting among the totes.” he muttered to himself.
+
+After the meeting, Eliza waved at him on his way out. “Have a good night, Professor. Oh, and take a bag!” She handed the professor one of the totes. The bunny on it was quite cute, he had to admit.
+
+“Thank you, Eliza.”
+
+Avendaño’s mother was getting up in years, so he would visit her every few months to be a good son.
+
+He packed his clothes, some books, and the tote in his worn brown suitcase and lugged it to the bus stop. The clouds in the sky foretold rain. He felt his lips moving and realized he was mouthing a prayer of protection. Something his mother taught him when he was a boy. He knew it was superstitious and silly but couldn't seem to shake the habit, especially in moments of worry like this.
+
+The bus came and they were off. The bus’ lurching up and down the mountain roads made his heart race and he tried not to calculate the odds of a catastrophic accident.
+
+His mother lived in a village even more remote than Salgar. The professor had made many fruitless attempts to set her up with a generator for electricity but she would have none of it. The old woman was stuck in her ways and happy enough.
+
+At least it was a good opportunity to pour himself into his work. That is, when his mother wasn’t telling him stories of how different the world was back then. He looked around the humble home and wondered if his mother knew just how much the rest of the world had changed.
+
+The rains came and poured and poured. He patched some holes in the roof to stop the leaks coming down. His thoughts went to his home and his village but he had no way to reach them.
+
+Finally, it came time to leave. He kissed his mother goodbye.
+
+“Focus on finding a wife, Cristian, as much as you focus on your books.”
+
+“Yes, Mamá.”
+
+She said the same thing each visit.
+
+He walked in the rain to the bus stop, huddling under the awning with the only other person waiting.
+
+“Hello,” said the man. A poor farmer by the look of him.
+
+“Hello,” said the professor. He liked poor farmers. They were honest.
+
+“Quite some rain,” the farmer said, looking up at the storm.
+
+“Yes, quite some rain,” said Avendaño somberly.
+
+The bus made its way back through the mountain roads and by a miracle, didn’t get stuck anywhere despite what seemed to be the driver’s intent.
+
+It finally stopped and he waved goodbye to the farmer.
+
+He suddenly felt light-headed. As he looked up, his knees buckled and he dropped to the ground.
+
+Mud covered everything. The homes that once housed him and his neighbors were now mangled casualties of nature. The belongings of the villagers were now mixed among the mud and trash.
+
+His village of Salgar was no more.
+
+He cursed the villagers and cursed himself for not doing enough.
+
+Some movement caught his eye. A white flash in the brown sea. It was the bunny, hopping off in the direction of the trash-strewn village of Magallo. The professor let out a defeated sigh and stood up to join it.
+
+Epilogue
+
+Six months later...
+
+“Professor Avendaño, we appreciate your presentation on uh... ‘the likelihood of H. hampei destroying the local economy in the next five years’. A little bleak and alarmist but I suppose someone should play the pessimist.”
+
+Avendaño sighed. The Councilwoman was already moving on to the next speaker.
+
+“Santiago, you have something you like to talk about?”
+
+“Yes, thank you, Councilwoman Medina. There is an issue we must do something about. An issue that absolutely requires immediate attention! Our church is in vital need of remodeling. Is the House of the Lord supposed to look like a rundown dump? Nuestra Señora de Guadalupe deserves the best!”
+
+“Would the council like to vote on an emergency measure to increase the sales tax to raise funds for the church?” Mr. Castillo asked.
+
+“Excellent idea, Mr. Castillo!” said Santiago. In fact, he had arranged for Castillo to ask the question at that very moment.
+
+“Very well. All in favor?” Councilwoman Medina said, surveying the room.
+
+The vote was a unanimous yes except for Salvador, the shopkeeper.
+
+“Old Salvador!” called Santiago. “Always a holdout.”
+
+Salvador scoffed. “I heard that your cleaning company got the contract for this job,” he said. “How much was the contract for, Santiago?”
+
+“Come now, Salvador!” said Santiago with a smile. “We can’t only think of ourselves. How can you put a price on the beautification of our holy church?”
+
+“You deserve to be beatified for your graciousness,” Salvador said, gritting his teeth.
+
+A few weeks later, the professor and the bunny were on their morning walk along the coffee plant fields.
+
+The church was as filthy as ever. Cleaning efforts were supposed to start last week but Santiago was holidaying in the city.
+
+Mrs. Martinez passed by.
+
+“What a lovely bag, Professor! We need something like that for Magallo.”
+
+“Thank you, Julia.”
+
+Just then, he noticed a small black beetle land on her shoulder. He peered down at it. H. hampei. The coffee borer.
+
+Professor Cristian Avendaño groaned, wondering where he and the bunny would go next.
+
+Background
+
+I was writing a message to a friend about how to think better about cause prioritization and decided to write a short story to illustrate the points better.
+
+I was trying to convey these themes:
+
+ Not all causes are of equal importance.
+ Things that seem more virtuous on the surface are often not, or at least they’re much more complicated than they appear (e.g. banning plastic bags or buying local).
+ Presentation and persuasive ability matter.
+
+And these were some of the articles I was thinking about while writing:
+
+ https://medium.com/@robertwiblin/what-you-think-about-landfill-and-recycling-is-probably-totally-wrong-3a6cf57049ce
+ https://www.rationaloptimist.com/blog/budiansky-and-local-food/
+ https://en.wikipedia.org/wiki/OmayraS%C3%A1nchez
+===== END STORY 8y5RapenxvuoXwuhy =====
+
+===== STORY id=aYuJdRKTvvgRd6HWr =====
+Title: I’ve written a Fantasy Novel to Promote Effective Altruism
+Author: Timothy Underwood
+Year: 2022
+Karma: 23
+WordCount: 3975
+URL: https://www.lesswrong.com/posts/aYuJdRKTvvgRd6HWr/i-ve-written-a-fantasy-novel-to-promote-effective-altruism
+-----
+Back in February I got a grant through the extended set of ACX grants to write this. I now have a draft that is sufficiently polished that I’m comfortable showing to the community, though I suspect there will be a lot of things that I will want to change based on feedback here before I start publishing it in venues that aren’t part of the EA memespace. 
+
+I’m planning to post this one chapter at a time here for the next month or so, though depending on what sort of feedback I get, I might at some point stop or just make a post that has the rest of the book in one chapter. The whole thing is also available in a google doc which I strongly encourage anyone who wants to give me detailed feedback to go to and leave comments on. 
+
+I especially would like feedback on the philosophical arguments in the text, with an especial emphasis on criticisms of EA ideas that you think are important to be addressed, but that aren’t brought up by any of the characters in the text.
+
+My plan is that after I’ve revised the book based on feedback received here, is that I will start publishing it serially on Royal Road and in the Spacebattles.com forums. After it is about half published on serial fiction websites, I plan to publish it on Amazon and make a website with the whole text posted. However this is a provisional plan — if anyone has good ideas on how I can help this novel find audiences that will like it and hopefully be influenced by it, I really want you to give me any advice or help that you can.
+
+I did set up a discordto talk about the project, but I’m really not a discord person, and while I’ll participate in any conversations that happen there, I’m probably not going to start them. The best way to talk to me privately about the text is to send me an email at timunderwood9 at gmail. Or leave long comments on the google doc. 
+
+Anyways, everyone, tell me what you think, and I hope that this work is at least entertaining for some of you.
+
+Prologue
+
+“Even if we ignore the possibility of a glorious techno-utopian future, everybody alive today dying at the same time would be really, really bad for the people alive now as individuals.” 
+
+Isaac grinned at his new friend. “Sorry, but can we finish this argument later?” A quick pull of his phone from his pocket, and he checked the time. “I’m going to eat fish and chips while on this side of the pond. There’s this place that Tripadvisor recommended that I can grab before the next session starts, and —”
+
+The other man grimaced. “High trip advisor ratings are if anything a signal of low quality, I wouldn’t —”
+
+“Later!” Isaac grinned. “I know. But they have to mean something.”
+
+He jogged down the street to the intersection light, his mind full of arguments, ideas, and questions raised by the conference he was attending. The light was red when Isaac reached the intersection, but he looked to the left, and didn’t see any traffic approaching. 
+
+Without further thought he stepped fully out into the street.
+
+Squealing brakes. A loud honking horn. Sound of wheels.
+
+Isaac had a fraction of a second to see the big yellow van with the words ‘We Deliver!’ and a phone number hurtling towards him from the right. 
+
+There was a fraction of an instant when his brain recalled that the British drove on the wrong side of the street, and he should have looked in the other direction before stepping out.
+
+Pain, but only for an instant.
+
+Blackness.
+
+Nothingness. An infinite eternity that did not last a single instant.
+
+And then he woke up.
+
+ 
+ 
+
+Chapter One
+
+So I’d made a bit of a mistake.
+
+Eh, kids, your parents gave you good advice when they told you to always look both ways before crossing a road.
+
+Otherwise you might end up dead, and then wake up in a fantasy world with cool magical powers, lots of new things to learn about, and a couple of unpleasant problems. If there is one lesson I want you all to take away from my story it is: Look both ways.
+
+No, really.
+
+But primarily in a metaphorical sense. You should always consider the possibility that you are wrong, and making a mistake. I’ve always tried to do as much as I could to help other people, and one important thing about doing as much as possible to help others, is that you, or at least we (the collective, not the royal we) should not simply start doing the first thing that sounds compelling and looks good. Sometimes the idea doesn’t even do anything good at all, and almost always there is something that is equally cool, but that does ten times as much good.
+
+I consider missing opportunities like that to be sort of like getting hit by a three ton yellow delivery van.
+
+Anyways I woke up again.
+
+I sat upon a mountaintop high and craggedly peaked. Very high. Like, planes in the sky high. 
+
+And I was naked.
+
+Now, at this point, to the extent I was thinking anything, ‘hospital fever dream’ was of course the number one guess. I was not cold, not shivering, not really feeling anything about the weather except an awareness that it was low thermometer type weather. Given that I was naked and sitting on the very top of a frozen, snow covered mountain top, with gusts of wind blowing around me at tens of miles an hour, and I wasn’t cold — uh… that’s not how getting cold is supposed to work.
+
+I could see incredibly clearly, details of brown craggy rocks on other mountain peaks dozens of miles away, snow leopards wandering around, goats, all the birds circling in the sky for a hundred miles. I mean wow.
+
+Once I’d read that Tiger Woods could see better than twenty-twenty after he got laser eye surgery. I suppose that is sort of like what this was like, except at least a thousand times more intense. 
+
+Also, really, really high up.
+
+I mean we were really high up. From how far down below me the green valley beneath the mountain was, I felt pretty confident that I was far enough above sea level that I shouldn’t be able to even breathe without help. 
+
+Deep breath.
+
+Something in my brain was aware that there was a low oxygen content to the air, and there was some other process, that by now had become as automatic as breathing, that I was using to… maybe multiply, or intensify, or something the sustaining substance in the air so that I was safe at this height. 
+
+And yeah, that is the awkward phrase that went through my mind, instead of ‘oxygen’. ‘The sustaining substance in the air’.
+
+I think that was when I realized that something much weirder than a dream might be going on. I was pretty sure that I’d never invent a made up scientific phrase that was that awkward for ‘oxygen’, even in my dreams. 
+
+Anyway, around me, in a very magical mumbo jumbo array was a particularly complicated folded ninth shape runic spell circle. 
+
+And despite the fact that I had no idea consciously what the hell that description meant, or what I was looking at, I felt like I understood the weirdly entangled and braided giant circle drawn in what I also instinctively knew was my own blood around me on a flattened and cleared path of ground. 
+
+The drawing was sort of like a circle with a nonagram — nine sides — inscribed in it. The lines were made up of braided circles like Celtic necklaces, or the endless geometric forms of Islamic mosques. And then embedded in this were tiny letterings, symbols, pictograms, and endlessly intricate and fascinating structures that overlapped, and yet each was somehow perfect in its own way.
+
+My own fucking blood?
+
+Or anyways the blood of the dude who'd been running this body then — since I was starting to realize that I had memories from this person before I was the one in control.
+
+The whole ‘painting the snow with my own blood for a powerful magical ritual’ weirdness made it hard for me to properly appreciate the intricate artistry. 
+
+I mean, objectively impressive. His memories were starting to nicely be available to me. The guy had spent two weeks preparing parts of it in his lab in his mage tower, because of course he had a tall mage tower, built out of a pale marble with pink veins. Then all of the intricate runes and spell work were magically folded into a tiny space, and then splotched out, and infused with his blood — that he could regenerate arbitrarily fast as a powerful cultivator, and then he made his own little mistake that had killed him.
+
+Funny how we all seemed to be doing that sort of thing.
+
+His error had been forced by a bad situation. It seemed like this island was going to be invaded by the ‘Celestial Emperor’, and he planned to kill the dragons that were the symbol of the island, and that everyone really loved. Also strip them of independence. 
+
+It was clear to the fellow that he thus had no choice but to do anything that might give him the power to face him, such as a dangerous ritual to open his fourth dantian, and gain the power of a celestial, even though he thought the ritual would kill him.
+
+This reminded me about the idea that arms race dynamics could force us into technological disaster. 
+
+Sometimes research that is super dangerous, such as nuclear weapons research, or bioweapons research, or insufficiently careful AI research feels like it has to be done, because if you don’t do the research someone else will do it anyway and then they will win. 
+
+You don’t want them to win, even if you need to risk destroying everything to stop them. 
+
+According to legend, the builders of the first atomic bomb thought there was a bit of chance that the explosion would start a chain reaction in the atmosphere that ignite all of the oxygen, and kill everyone on earth.
+
+They decided to do the test anyways, because after all, that was what they were being paid to do, and the Germans or Japanese might get an atomic bomb first, and they weren’t going to be stopped by any sissy concerns like possibly blowing up the world. 
+
+Strategic arms race dynamics are bad, but we don’t really know how to fix them, and back before I died, I hadn’t felt confident enough about any solution to try donating my money to pushing it.
+
+This guy thought he’d had no choices, he’d guessed that there was at best a one in three chance that he would survive this attempt to open his fourth dantian, and to become a celestial like the emperor. But that was the only way to defeat this enemy.
+
+Even if he’d succeeded, the odds would be against his success, since the emperor had vastly more experience and resources behind him.
+
+So the man had come here, used materials that I’d guess were worth the equivalent of between a ten million and a hundred million dollars to power the vast ritual, used magic to paint with his own blood the ritual circles, and then blew his mind apart.
+
+I had read enough of these stories to not be surprised by the consequence: A body with no soul attracted a soul with no body. 
+
+I looked down at the hands. The hands were — to be honest — pretty similar to my own hands, except with a weave of extra scars and a faint glow from within a network of tattoos so thin that I would not have been able to see them with ordinary human eyes.
+
+Poor guy.
+
+Doubly sad because I didn’t have the slightest intention of trying to fight in his war.
+
+Risky bets often fail.
+
+The former owner of this body had made such a failing bet.
+
+Even if this body had successfully ‘opened the fourth dantian’, I was pretty sure that a sorcerer who'd spent a thousand years warring and conquering would be better at it than me, and I didn’t have any particular reason to care about the fate of the island, or the survival of the dragons. They weren’t my personal project.
+
+I mean I do care. I’m unhappy when I hear about anyone suffering, failing to achieve what they want to, and simply not flourishing. But I have no particular reason to care more about helping people in Kenya than people in Singapore — it just was that I could do more good with the limited amount of stuff I have for people in Kenya, and they also needed more help.
+
+I figured it was sort of like that here. 
+
+It would be best if I didn’t die. Not dying again… in a part of my mind that was completely untouched by philosophical concerns, matters of optimizing the world, or even how I looked in front of others, I was desperate not to die again. 
+
+And, fortunately, it didn’t rationally seem like it would be a good idea to stick around here.
+
+This island was going to lose its war — with or without me. But I could grab everything that he’d owned that was valuable and easily portable, and then scram, flee, make a cautious withdrawal — get the hell out of dodge.
+
+It was not my war.
+
+I mean I wasn’t a pacifist or anything, but it just wasn’t my war.
+
+At this point I will freely confess that I had a sense with some part of my mind that I was supposed to despite all of those considerations care about this war and fight in it. But I wasn’t going to do that, unless someone gave me a clear explanation of why this was a necessary thing to do, from a point of view that considered the well being of everyone on this planet — possibly even everyone who ever might be born — equally.
+
+Anyway, this guy had been ridiculously rich, and this body had a set of epic capabilities that were extremely valuable and with which I could make vast amounts of money — somewhere suitably far away. 
+
+Maybe dying and waking up here wasn’t the worst possible thing that could have happened to me: I’d spent the last years in the trying to earn as much money as I possibly could, and now I was going to do what I’d always planned to do if I ever got properly rich: Give it all away.
+
+Without making the effort to recall the details from that fellow’s — Sesako had been his name — memories, I got a distinct sense that this world was at least as fucked up as earth was. 
+
+Maybe even a bit more.
+
+There would be plenty of ways here to make the lives of impoverished, unhealthy, and underused human individuals better with the huge pile of gold coins and the giant store of expensive refined pills, power stones, finely enchanted artifacts, magically infused clothing, and just generally expensive stuff — much of which had no actual purpose at all except to show that the owner could possess ‘the best’.
+
+Now my heart was beating.
+
+This was more exciting to me than now having magical powers and being immune to the cold, and able to keep my place easily despite the winds that were gusting over the mountain top at probably a hundred miles an hour.
+
+And what about those other, more uncertain issues — what were the things that might destroy this world entirely, and what were the ways that it could, slowly and over the very long term, be turned into a true utopia. 
+
+This was a chance to really, and personally make a vast difference for a vast number of other people. 
+
+That was better than the eyesight that let me see anything I focused on in detail, a small city far in the distance at the foot of the mountains, the orchards, the fields of wheat around the feet of the mountain, a snow leopard climbing on an icy ridge after the track of a mountain goat ten miles away, the very curvature of the earth underneath the vast oceans.
+
+Oceans that were bringing a mighty invasion force — spotted, tracked, detailed by spies.
+
+Eh, no time to waste, no rest for the wicked, idle hands are the devil’s playthings. Also haste makes waste.
+
+My mind held a clear map of the whole island, and while I couldn't see the capital city and my, or his… the tower, I knew exactly what direction to go. The capital city was almost five hundred miles away from here — which was the tallest mountain on the island, and also near the valley where the great dragons made their home.
+
+It was an hour and a half trip for this guy when he flew and pushed himself, and about two and a half at what he thought was a comfortable pace.
+
+I wasn’t sure how much of the valuable stuff I could actually carry from the storerooms, but I caught from his memories that there were extra dimensional storage systems where anything that wasn’t magically delicate could be stuffed in great quantities. 
+
+Of course the stuff that couldn’t be stuffed in such superdimensional pouches was the most valuable, I’d have to figure out some way to take all of it with me. 
+
+Maybe a big crate that I could hold up while I flew away.
+
+This guy was big on magical flying, though I bet I pretty soon would be too. A large fraction of his memories focused on flight.
+
+In the air, chasing down birds, outpacing hawks as they swooped down at hundreds of miles an hour to snatch their prey, hurtling through clouds, flying calmly along next to the flapping wings of a fucking gigantic dragon.
+
+It turned out that leaping off a cliff wasn’t quite as easy as simply knowing that I could safely do it. When I tried to leap off the craggy side of the mountain into the air to fly away from the mountainside, my own instincts stopped me.
+
+I was so high up.
+
+I imagined the fall all the way down the ridges and cliffs to the valley far, far below — broken body tumbling.
+
+Crack. Crack. Bounce. Crack. Ba-ba-bounce. Crack.
+
+And then as though it reflected some sort of contempt for ordinary mortals, an instinct from Sesako overroad that anxiety, as though his mind was still there, and still active somewhere in my new brain — how the fuck did that even work? — and I leapt off the mountain side.
+
+Wheeeeeeeee!
+
+With a series of loud whoops I soared higher, and higher, hurtling upwards towards the sun. 
+
+The instincts honed by more than a century of life controlled the motion.
+
+My stomach leapt. The mountain receded beneath me. Everything became smaller.. I could see further and further, the world curving out beneath me as the point of the horizon went further and further away. The whole path of water around the island, many cities. 
+
+The island itself was shaped rather like Britain, except that the side that reminded me of Scotland was nearly as wide around as the other. There were two giant circular clumps of mountains, and in between was a low fertile isthmus, that was big enough for large cities on either side, separated by incredibly thin roads and thick farmlands.
+
+And then glancing down at the mountains behind me, I saw the dragon.
+
+Sleeping, huge, the tail curled around the giant body, and the wings pulled in, but it looked to be at least a thousand feet in length.
+
+That dragon figured prominently in Sesako’s memories, with a mix of fond affection, religious awe, and actual friendship.
+
+The dragons were the symbol of his island, they were the gods they worshiped, and whose blessings they begged. They were fed off a fraction of the proceeds of a million farms and a thousand prosperous trading expeditions.
+
+An odd sensation of guilt rose in me while looking at the dragon sleeping far below.
+
+It had been the knowledge that the emperor meant to hunt and kill the dragon’s in the mountains of Yatamo after he had reconquered the island which drove Sesako’s reckless attempt to force open his fourth dantian.
+
+This was his body. It was his wealth I intended to appropriate for my own purposes. His people, and all that he cared for was going to be abandoned by me, and left to be destroyed.
+
+It did not feel like the right thing to do.
+
+Selfish.
+
+There was that difference from the memories in my body that said the fourth dantian was open. 
+
+I might be able to fight this invasion to a stop. 
+
+A proper storybook hero would stay and fight no matter what the odds were.
+
+If I was in a novel or a web serial, I’d stay and fight.
+
+I ought to fight, and… 
+
+And if I succeeded, I would kill a lot of people. Most likely I would kill a moderate number of people, and then just die because having the memories and instincts of Sesako was not in fact at all the same as me being a great battle cultivator with a hundred years of honed skill and tested brutality?
+
+So yeah, I could try to kill a lot of people so that food that could feed tens of thousands of humans would continue to be fed to a group of ancient, overgrown lizards — even if they were sentient lizards that didn’t make it necessarily a good use of resources. It was like the way that billionaires on earth would vampirically suck up the labor of tens of thousands of people so they could compete to have the biggest yacht, the biggest mansion, and the biggest example of disgusting decadence.
+
+Let me be clear: I personally think free markets are a useful tool, and that using government policy to eliminate billionaires, or even reducing their ability to spend their money the way they want to would probably cause worse problems than it would solve. But my objection was practical, not principled. If we could redistribute all giant piles of wealth without causing nasty side effects, I’d say we should do it in an instant without caring about questions of natural property rights.
+
+There had always been a part of me that was simply disturbed by the existence of people who could spend so much money on themselves, while people were starving, dying of malaria, dying due to lack of antibiotics and doctors to prescribe them, and dying due to lack in general.
+
+Of course relative to a very poor person in a third world country, having a hundred thousand dollars in savings was already a giant pile of money that ought to be redistributed by the same logic — so I didn’t expect this to ever become politically popular.
+
+I kind of was disgusted in this way with Sesako — as one of the seven most powerful cultivators in this country, he was as wealthy as a billionaire on earth. He seemed to have no concern whatsoever for poor people in general, and especially poor people who weren’t Yatamo. But the important thing was not whether someone was a billionaire: Anyone with a job that didn’t actively suck in a rich country had enough money to do something for those who were way poorer than them. 
+
+It had always been my serious and considered belief that everyone should do something for the common good, for everyone alive. And Sesako was just focused on what was good for Yatamo, for his nation, and his friends, and those who he personally cared for.
+
+Really though, I was just thinking this through again and again to try making excuses for myself and for my plan to abandon the place.
+
+But whether I felt guilty or not, I was going to leave.
+
+Author Note: Please tell me how I mangled the core ideas of EA, and said things that are potentially horribly offensive, etc :). Especially tell me anything that you think is accidentally offensive or crossing some line that some people have. In some cases the topic might be a hill I want to die on, but it probably can be removed or changed or moderated to be less offensive -- and also importantly, if you think this project if worth encouraging people outside of the community to read, and have some idea about how to help me find those audiences, please tell me!
+
+Also here's the link for the google doc with the whole novel in it
+
+And my email address is timunderwood9 at gmail
+===== END STORY aYuJdRKTvvgRd6HWr =====
+
+===== STORY id=CKgPFHoWFkviYz7CB =====
+Title: The Redaction Machine
+Author: Ben
+Year: 2022
+Karma: 548
+WordCount: 8101
+URL: https://www.lesswrong.com/posts/CKgPFHoWFkviYz7CB/the-redaction-machine
+-----
+On the 3rd of October 2351 a machine flared to life. Huge energies coursed into it via cables, only to leave moments later as heat dumped unwanted into its radiators. With an enormous puff the machine unleashed sixty years of human metabolic entropy into superheated steam.
+
+In the heart of the machine was Jane, a person of the early 21st century.
+
+From her perspective there was no transition. One moment she had been in the year 2021, sat beneath a tree in a park. Reading a detective novel.
+
+Then the book was gone, and the tree. Also the park. Even the year.
+
+She found herself laid in a bathtub, immersed in sickly fatty fluids. She was naked and cold.
+
+The first question Jane had for the operators and technicians who greeted her with a warm towel was "where am I?''. They brought back the dead a hundred times a day, and knew that it was best to answer when, not where.
+
+Jane's second question was "how did I come to be in the year 2351?''.
+
+The answer begins in the year 2021. Jane sat beneath a tree. She read her book. She walked home. She attended university. She played her guitar. Went to pubs and festivals with her friends. She studied philosophy as her course, but there wasn't much work going in analysing Plato so she got a job in marketing.
+
+She married, had children. Lived a normal enough life.
+
+She followed the scientific news no more than most. She did watch the much-hyped documentary about the possibility of restoring objects to a previous state. She found it a disappointment. So they could get a single molecule to unreact? Maybe some chemist somewhere cared.
+
+But technology's march was unceasing. The egg was unboiled only two decades later.
+
+The redaction machines, as they came to be known, restored an object to a previous state. Set the machine for 10 minutes and insert your alarm clock. Ping! The machine takes no time at all to operate. Within find alarm clock, time as it read 10 minutes ago.
+
+Smash said alarm clock with hammer. Insert the pieces into the machine. Activate. Find alarm clock restored, exactly, to state 10 minutes prior. No longer smashed. It is not now a repaired alarm clock. If something has been repaired then one supposes that it was once broken. A repaired thing still possesses the history of being broken and then fixed. But that clock, as taken from the machine, is the clock from earlier, before it ever suffered damage. Its history taken from it. The breakage unhappened.
+
+The first resurrection was only a half-decade after the egg. By the same token as the clock this was not truly a resurrection. It was a restoration, an undoing of time's passage on a single person. "Resurrection'', despite its flaws as a term, became the standard manner of speaking about these things.
+
+Accidental death dropped to almost zero in the developed world. Or at least, unredacted, accidental death did. Truly the number of deaths increased modestly, as some people became more brazen. But nearly all were redacted.
+
+Ambulances would carry the corpses made by a traffic accident to a redaction clinic. Death 1 hour ago. Re-set patient. It would be a shock to transition from driving to a strange hospital, with no memory of the accident (the neurochemistry encoding any such memory was just as unhappened as the tearing of ligaments and the crush of bones). But it was surely better than being dead.
+
+During redaction every subatomic particle in an object would run its past trajectory backwards as best it could. The theory of relativity demanded that centre-of-mass motion of the object as a whole be an exception to this rule. Reality complied.
+
+For humans, respiration acted in reverse. Blood cells passed backwards through arteries, carrying newly minted oxygen from the muscles out to the lungs to exhale. Electrical impulses travelled the nervous system in the wrong direction. Was there sensation? Was there pain? In forwards time these electrical signals could stimulate these qualia. When played backwards in an eyeblink? Who could say. Even if there was pain there was no memory of it, no possibility of memory.
+
+The panelled walls of the redaction machine broadcast energy and radiation inwards to drive this back-propagation. Reflected back from the object came heat and entropy, radiated by these same panels outwards into coolant systems that comprised the bulk of the machine's volume and complexity.
+
+There were many theological objections. The greatest complaints came from the Abrahamic faiths. Although the Catholic church took no official stance on the machine many of its priests denounced it. The mechanics of the objections were varied. Some claimed that people restored to life (or even to a previous state) were soulless automatons: zombies that made an act of life after the one true soul of the person had departed for the afterlife. An alternative claim was that the machine pulled the soul back into the mortal plane. However most did not ground their objection in any particular metaphysical explanation, instead opting to convey honestly uninformed disquiet.
+
+Despite these spiritual disputes, use of the machine propagated fast. Undoing death in accidents was the tip of the iceberg. Next came other accidental injury, loss of limb for example.
+
+Jane herself was redacted for the first time in 2063. Her age was 64. Her cause of death: slipping on icy porch stairs. She hit her head on the corner of a square stone flower pot.
+
+She was still alive when they redacted her. The doctors hadn't even tried to treat her head wound. They took one look and knew that their conventional ministrations had very little chance of preserving her life, and that even if she did survive she would never be the same. It was better to just zap the last hours off her.
+
+She, of course, had no memory of sustaining the injury.
+
+After this encounter with these new machines Jane took an interest in them. She spoke at dinner parties about whether she was the same "her'' who she had been before being reset. She followed the various legal issues in the news with intense curiosity.
+
+The murder trial fascinated her. Could he be convicted? He had killed a woman in cold blood, the evidence was indisputable. But, he had later redacted himself. This him had no memory of committing murder, nor even (he claimed) of planning it.
+
+He was, in the end, found guilty. Sentenced to three years imprisonment. This was a typical enough sentence for murder in the modern world. After all, the murder-victim was completely fine.
+
+The machines became tools of both scientific and criminal enquiry. Information security was changed, as the concept of "deleted data'' became a dinosaur. A wiped hard drive could be redacted. Even a physically vandalised hard drive could be similarly restored.
+
+The dinosaurs themselves could not be recovered. Redaction conserved mass, so to make a healthy Tyrannosaur from its fossils one needed to place enough surplus matter in the machine to make up the difference. Mass enough to knit flesh and blood around the skeleton. However, reliable machine operation required that the great majority of the mass within the machine was from the target object. This was why a person was restored to a previous state and not their breakfast toast. More mass was interested in reverting to a previously human state. Dinosaurs could not be done. Enough ballast to flesh them out was also too much for the fossils to win out the mass-contest. They did manage to bring back a frozen mammoth though, and the machine found various other uses in the field of palaeontology.
+
+Other sciences found uses for the machines. In physics laboratories redaction machines were used to reset atoms to their state at around the time of the Big Bang. Chemists, engineers, all made good use of the technology.
+
+However, to Jane's fascination, the field of science to gain the most was psychology.
+
+Before the machines, psychology studies typically involved a control group and a test group. The two groups naturally exposed to situations that differed only according to a single experimental parameter. Any difference in the average response between the two groups, over and above statistical fluctuation, could be attributed to the control parameter. Each person was different, each responded differently. You needed enough people so that fluctuations at the individual level were sufficiently erased, leaving only population tendencies.
+
+With the machines a single, identical, person could be exposed to both situations. They could take the survey given to them by a woman. Then you could reset them, on an atomic level, to the exact state they had been in beforehand. If you changed nothing they would give the same response, how could they not? But this time see how they responded to the same survey given by a man.
+
+A change in response need not be a group effect. Not some average tendency in a given population. It would be a replicable trait attributable exactly to that one person, in that exact state they were in at the start of the experiment. Does the room temperature affect the way this specific person responds to losing a rigged game? Well, let's get that exact person to play that game in the same room twenty times at twenty different temperatures, each time resetting them back to the same start-state.
+
+Of course some prospective participants refused to have such machines used on them. But many people were happy to participate in these experiments, especially when offered financial incentives.
+
+ 
+ 
+
+Despite the many ingenious applications to which the machines were put, people still grew old. Accident was quite a different beast from disease and old age. When a young person was killed in a kinetic moment resetting was an obvious course of action. But when the elderly died slowly from chronic conditions the machines were less obviously applicable. Reset granny to before she developed the tumour? How many years ago was that again?
+
+Many things fed into the new tradition. The demographic crisis played a part. Redaction machine company lobbying perhaps contributed. However it happened, it soon became ingrained.
+
+Some people, in their wills, left an age. "On the occasion of my death I wish to be redacted to my state at the age of 21, as far can be determined with the precision of the available data.''
+
+It wasn't so much that you survived, but that some kind of version of you survived. Was the "you'' of sixty years ago "you''? Most people decided dubious reincarnation was better than cremation.
+
+The early twenties was a typical reset age. There were several reasons for this. First came practicality. You needed to emerge from the machine old enough to take care of yourself. If you were still a dependent then who would you depend on? Your parents were probably long gone.
+
+The next reason was government poking. Old person, retired: expensive. Redact them back and you have a new worker for the economy. Redact them too far and they become expensive again, they are a child, they need looking after. Redact them to middle age and they are difficult, they had a job and a family, they want those things back. Nevermind the industry is gone and the family are now either dead or hopelessly out of sync in time. No, the early twenties were best. Back when they had done their schooling but had yet to really latch on like a limpet to some part of the economic organism. So redacting to your twenties was subsidised, and subsidised heavily.
+
+Finally came nostalgia. People liked the person they had been back at that sort of age.
+
+Jane was one of the early adopters of the "new iteration'' approach to death. Setting it all up was damned expensive: she died at ninety - about 70 years of redaction time multiplied by a typical human metabolic rate and mass landed you with a lot of redaction entropy. Look at the price of energy, convert the Kilowatt hours and it came to a lot of money. She had to set up an on-death remortgage of her home to cover it even with the subsidies.
+
+A young Jane emerged from a redaction machine. A young woman in a strange world. She found an unfamiliar house, mortgaged to pay for an unfamiliar treatment. She lived a new life, married, retrained as a pharmacist. She had occasional, awkward, meetings with the children from her last iteration. These children were far older than she was and she had no memory of raising them. Once they took her to the grave of their father, the husband she didn't remember. She left flowers at the stranger's tombstone, puzzled and bored by the experience. She spent most of it thinking about how foolish it seemed in hindsight to have scattered his ashes so widely.
+
+Over and over it went. A young Jane emerged from a machine. She lived a life. She grew old, she either died or pre-empted it by redacting early. A young Jane emerged from a machine... By her second re-set the technology was mainstream. Redaction rode the back of fusion and became a technology for the masses. Jane's third iteration lived in a world where nearly half the population had been reset at least once.
+
+So the cycle continued. Until we arrive back in the year 2351. Nine-minutes to midnight as the groan worthy fathers of this time liked to joke.
+
+She had to quarantine before she could leave the facility that redacted her. Her microbes were from three-hundred and thirty years in the past. She may be carrying any number of viruses that were now thankfully eliminated.
+
+While she was quarantined they showed her a video from some strange old woman who couldn't really explain what was happening clearly: her last iteration. Once the old woman who Jane couldn't think of as herself had finished her piece to camera a more professionally made video "re-oriented'' her to the Earth of 2351.
+
+Jane cried the first few nights. All her friends and family would now be dead or "de-synced'' from her. With some digging around online she found she had a lot of descendants, children, and grandchildren all the way down to 3-greats.
+
+ 
+ 
+
+Her email, bank account, and SocNet accounts had been set to "Bio-Authenticate'' while she was reset. A small computer on wheels drove itself into her room and, after showing a lengthy legal disclaimer in video format, took a sample of blood from a needle. Once the blood had been authenticated the machine allowed her to reset her passwords for her accounts.
+
+Jane logged into her accounts.
+
+First the email. Her inbox had been scrubbed clean. The only email was one sent the day before. It was from a daughter another version of her had had. It was a pleasantry, nothing more. "I hope the redaction is treating you well. If you are ever planning on being in Brazil please drop by.'' It seemed that meeting your mother as she was before she had you was not something you particularly sought out. Jane's sort-of-daughter seemed to be treating her as a not particularly close family member.
+
+Then the bank account. The amount of money was initially shocking, but she had failed to account for over three-hundred years of inflation. Accounting for this it became less "Bond villain holds world to ransom'' value and a lot more "reasonable retirement fund''.
+
+Finally the SocNet. Like the email, scrubbed clean. Just a name, date of birth, and current age given as 83 (that needed correcting to account for the latest redaction).
+
+Before Jane knew it her quarantine was completed and a taxi took her home. She found her flat, furnished in a Scandinavian style, wood painted pastel blue featured heavily as did gleaming steel radiators shaped like towel rails. The front door she opened with her SocNet account and a fingerprint.
+
+She found her bedroom, sat on the bed and wondered what the hell to actually do. Her old life was hundreds of years gone. She would not now go and do her university course (or had already done it she supposed), the friends and family she had had were either permadead or so massively de-synced that they were basically other people.
+
+Why the hell had her previous iteration done this to her?
+
+Much later a red eyed Jane decided that she was now in this life. So she might as well do something with it.
+
+She walked around the flat that was apparently hers, giving it a proper look over. It looked "old fashioned'' by modern standards, which meant that to Jane it looked very modern. It was all so "old fashioned'' in fact that it actually had some real, physical, paper "dead-tree'' books.
+
+To hell with it, start small. What was the name of the detective novel she had been reading under that tree? If it was here she might as well find out how it ended.
+
+The detective novel was indeed up on the shelf (not just the same edition from under the tree, but the same actual book). Jane lay diagonally across the best armchair, and started reading just where she had left off three-hundred-odd years ago, or a week ago subjectively.
+
+The book did her a lot of good. It connected her two lives. On finishing it Jane fell asleep where she was on the chair.
+
+Jane was woken up by the ringing of her doorbell. Checking the digital clock on the oven she saw it was midnight: who would be visiting?
+
+The doorbell rang again. The time between rings noticeably less than one "standard polite wait''.
+
+She went to the door uncertainly. Who could it be? Should she open it?
+
+The buzzer-machine had a camera that let her see the person outside. They were a woman of about Jane's age. The screen pinged up with a digital frame around their face, which identified them as "Name: Susan McLinty. Role: Great-Great-Granddaughter. - Verified by SocNet.''
+
+Jane let the other woman in.
+
+"Hey Gran-Gran.'' she said, opening her arms for a hug. Then she blinked at Jane and her arms dropped to her sides. "Oh, you redacted. Do-ya-know me?''
+
+Jane said she did not, but the system had marked her out as a relative.
+
+"Yeah, it would do. So, like ... I know this is a really weird thing to ask when we haven't met before in this iteration or anything, but ... I kind of got kicked out by my landlord and I, erm well ...''
+
+Jane offered Susan a place to stay. "I don't know if there is a spare bedroom though'' she said.
+
+"There sure was a couple of years ago'' said Susan with a big smile. "I retained some of my last stay, thought I would keep a little of my time with my Gran-Gran.''
+
+They found Susan's spare bedroom just as she expected it. Then Susan showed Jane where her booze was.
+
+It seemed her previous iteration had been really into wine. The wine was high-end stuff, but that was completely wasted on Susan and Jane who selected bottles based off alcohol-%.
+
+Carrying a bottle each they headed to the living room and set about the process of getting seriously drunk.
+
+"What! You have to read this bottle, its like ... so super pretentious!'' said Susan, "Aromas of nutmeg and sweet tones evocative of lavender with a strong body.''
+
+"Ha! My old iteration had expensive tastes maybe.'' said Jane. Then, thinking, "What was she like?''
+
+"She was a nice lady. But like, she was seventy years old or something last I knew her. She let me crash with her for a while, I only retained a few days and she was pretty great those days. But, Jane, as much as I loved my Gran-Gran I could never drink like this with her! Should we get another bottle?''
+
+Another bottle later and Susan entered the awkwardly thankful stage of drunkenness. She couldn't stop thanking Jane for letting her stay, and needed an arm under her to get her to bed.
+
+"I can't believe he kicked me out. Bastard landlord.'' she muttered as Jane left her to bed.
+
+ 
+ 
+
+The next morning Jane and Susan continued to bond, this time over their hangovers. It seemed that Gran-Gran's posh taste in drink had poisoned them both.
+
+The two of them sat at a stone kitchen top in Jane's old-fashioned/modern kitchen. A plate of toast and mug of tea each helped them recover. Over breakfast Jane asked Susan what had happened to get her kicked out of her home.
+
+It took some explaining to get to the bottom of it.
+
+Susan was a day-counter. Like many people she had decided that she only had 70-100 odd years of her time on earth. When that ran out she was gone, yes some new iteration of her could live but, that wasn't really her, or not this her.
+
+So anyway, she counted days. She kept a short-range redaction machine at home so that every night she could decide "was that day I just had worth spending one of my days of life on keeping?''. If she decided "no'' then she would redact it away.
+
+Her life was so alien that Jane struggled to wrap her head around it. Susan had worked at a cafe for the last 15 years, but had only retained a small part of the experience - times relating to essential training or particularly joyous work days. It wasn't quite fair to say that for 15 years every day at work had been her first day (that would certainly get you fired!), but maybe every day had been in her first week.
+
+As she pried into how it all worked Jane couldn't help but notice that Susan was, to put in bluntly: useless. She was physically 25 but was on her first iteration and had been born 75 years ago! Since leaving school less than 1 day in 5 met her standards for "keeping''. She had, in some sense, experienced a half-century of Saturdays and skipped the rest. Jane wondered how much worse Susan suffered on the bad days for it. Her memories were all the best of the best days, so even a typical working day might hit her hard. The princess's first day working in the kitchens.
+
+And then, after going through all that challenge, she would zap away the day and be exactly back where she had been the next morning. Princess's first day in the kitchens again, and again.
+
+Susan's recent crisis was new. Yesterday she had woken up to find a message from her past self telling her she had been fired and didn't need to go to work. Then she realised with a shock that the message was six months old and her bank account was overdrawn. She hadn't paid rent in months.
+
+Susan couldn't remember where the money had gone, but there had been enough empty bottles in her room to give some indication. She could check her card history, but had made a decision not to. Later that morning the landlord had, more or less, forced her into the street.
+
+So here she was, what savings she had disappeared into some unremembered binge.
+
+"So, when you say the machine you have at home is "short-ranged'' what do you mean?'' Jane asked.
+
+"Oh, yeah, yeah. It can only send things back up to like 48 hours. Only got that much power.''
+
+"But you could send something back 48 hours, then hit it again straight away for another 48 hours surely?''
+
+Here Susan's eyes narrowed like she had only just realised that this whole world, the machines and everything about them, was a foreign country to Jane.
+
+"They don't work like that. After each use it takes 12 hours or something before it cools down.''
+
+"What if you cooled it faster?''
+
+"Well, it takes about the same time to recharge its capacitors from the mains. If it had a better electric supply and big condensers to cool faster then it wouldn't be a "short ranged'' redactor any more.''
+
+ 
+ 
+
+Later that day Jane helped Susan get her machine back from the bailiffs. It seemed an easy way to help, Susan clearly cared about it a great deal. It seemed that, in Susan’s politics, the bailiffs taking the machine in the first place was an attack on her civil liberties and lifestyle choices. Getting the machine back was, she later felt, a huge mistake.
+
+It was a coffin-like contraption with bedding inside, programmed to activate (if set to do so) while Susan was asleep, and set her back to another sleeping state (this did away with the unpleasantly abrupt transition). It was decorated in a style that was, by Jane's three-hundred year old standards, really tacky. By Susan's modern standards it was god-awful-tacky, but it was second hand and very cheap.
+
+In addition to the coffin part of the machine was the condenser: a Dalek sized drum of metal connected to the main part by hose. Redaction produced a mean amount of heat. People were entropy factories and when their time got run back the universe demanded compensation - The Second Law would not be denied its dues. The machine contained over a hundred kilograms of water but the heat from back-propagating Susan's constituent particles by just 24 hours vaporised it all.
+
+"Are you going to bankrupt me with electric bills?'' asked Jane.
+
+" "Electric bills''?!" That's the most pre-fusion thing I have ever heard!'' answered Susan with a laugh. "Were they still burning dinosaurs in your time?''
+
+With her machine returned to her Susan returned to a pattern of redacting away every single day. She was still unemployed, out of a home and unhappy, so she zapped the days away. Zap, zap, zap. The knock-on was that Jane had almost the same conversations with her everyday - super boring.
+
+Jane made a conscious effort to think about what she wanted to do in this life. Doing some research on her previous iterations she found that all of them had decided to take the route that paid bills, none had really properly followed the philosophy angle she had been half-considering at Uni. This time round she had quite a lot left over from "Gran Gran'', and no inheritance tax ("Inheritance tax? No, no, no. You are the same person.'' said the man from the bank when she asked). She could afford to take a bit of risk.
+
+She had been redacted back to before she had fully finished her uni course, but apparently people were surprisingly happy to give you the benefit of qualifications you didn't remember getting, so long as it was nothing vocational like law or medicine.
+
+In any case she could do a short online catch-up course that would give her a new certificate for this iteration.
+
+It was something to do and that was worth a lot. She video chatted with course mates about the syllabus and life in general. Most of them were recent redacts, but the others found the world less crazy than Jane. She was the only one born pre-machine. The others had all grown up half-expecting to find themselves thrown randomly into the future at some point.
+
+One particular online lecture really stood out for Jane. It was about redaction machines.
+
+The nub of the idea was a thought experiment. Suppose someone is kidnapped and is told that the following will happen to them. First they are shown a countdown. When it reaches zero they will then be tortured painfully to death (why did people always make these things so gruesome? thought Jane). Once they have died they will be redacted back, to their exact state at the end of the countdown (just as the number hit zero) and set free.
+
+What does the person in this situation feel as the clock ticks down? What should the person feel? What should they feel when they see the number hit zero and find that they are still in the torture chamber? What should they feel if they instead find themselves jumped forwards in time as the countdowns ends? What probability do they assign to the chance of them finding themselves in one branch or the other?''
+
+To Jane the answer seemed obvious.
+
+"Its 50/50.'' she said. "It's no different from a coin toss. There are going to be two copies of you, but at different times. One will suffer, the other not. So if you see that it hits zero you know you were unlucky and will be disappointed. If you find yourself transition at that moment then you know you are the other iteration, the lucky one. You have escaped. You would be relieved.''
+
+"OK.'' smiled the lecturer through the screen of Jane's computer, clearly getting ready for her punchline. "If that was 50/50 Jane, then back when you were in childhood, what chance should you assign to you finding yourself as the copy of you that experiences the life of your first iteration?''
+
+"Well, I have been redacted four times. So one in five.'' Jane answered.
+
+"But that is only so far! Do you intend to have future iterations? How many more? Has the number of iterations you will have already been predetermined?''
+
+Jane thought long and hard about the thought experiment afterwards. She couldn't really work out the right way of thinking about it. If the redaction machine were replaced by a hypothetical replication machine then she thought it was easy. After replication there were two exact copies of her. Both would have all her exact memories. But they would diverge in experience thereafter. She would find herself as one of the two, either stepping out of the replication machine or standing outside the machine watching the copy step out. It was, she thought, clearly a 50/50 probability in this case which one she would find herself to be.
+
+But with the redaction it became harder. How many copies were there? How many young Janes would emerge from machines in the far future? Jane’s rudimentary understanding of the philosophy of probability didn’t seem to help. The frequentist got doubly lost in nonlocality over time. And Jane wasn't sure being subjective about probability helped much. How many redactions did she expect?
+
+ 
+ 
+
+Susan was still really annoying. When the wine ran out she started pestering Jane about borrowing money to buy drink. Jane refused, knowing that Susan had no chance of retaining the experience of borrowing money to drown her sorrows yet again.
+
+By now they had lived together for weeks. But for Susan waking up suddenly unemployed, broke and homeless had only happened yesterday. She needed some time to feel sorry for herself, to get blind drunk. To vent a little.
+
+But she had done all that a hundred times, nearly thirty times here with Jane, and who knew how many times at home before that. It was an experience she hated and had chosen a hundred times not to retain. She was a fool and a pathetic one. Her weedy grovelling for booze-money from Jane interrupted her lessons. She asked the same way, with almost the same words every single day. Susan didn't have the perspective to see what a deep rut she was in. For her this was day two in Jane's flat, she was still waking up with the same hangover that "Gran Gran's'' wine had given them both that first night.
+
+At first Jane fond it simply inexplicable - how could Susan be so stupid? It took time to understand. Susan had rejected the idea that a miserable day might be necessary as a general stance years ago. More recently, she had decided that this specific awful experience wasn't one to keep - and that was a decision she made once again for the first time every day.
+
+On Jane's day two she had gone supermarket shopping to stock the house. She had asked Susan what she liked and bought her favourite cereal. Jane couldn't eat it as she was allergic to nuts, but it was Susan's favourite. For the next twenty days, at about midday, she heard the words "Hey, Jane, it must run in the family, this is my favourite cereal too!'' shouted up the stairs to her. Announcing that Susan was awake and would do the whole "What you doing?'', "Oops, sorry for interrupting your online lesson thingy'' routine any minute.
+
+Jane thought it was bad when Susan drank. Now the wine was out it was worse. The wheedling, the arguing. Jane was not supposed to be responsible for an alcoholic on a loop.
+
+Of course she tried to persuade Susan not to use her machine. But there are only so many ways of having that conversation and all were exhausted unsuccessfully by week two.
+
+Then it happened. One day Jane's slowly fraying temper snapped. Susan had just started stepping sideways towards the idea of "getting some drinks to have this evening'' like she always did, when Jane lost it. She shouted at Susan. She screamed and stamped and swore at her. Susan fled crying to her room.
+
+Jane slept terribly, she felt so guilty. The version of Susan she had screamed at had not yet started wheedling and begging in that infuriating way. Although she had once again been on that trajectory.
+
+The next morning Jane sheepishly put a mug of tea outside Susan's bedroom. Then waited in the kitchen, feeling cold and stiff, wondering if Susan would accept the apology. Or would she be angry?
+
+Susan couldn't remember it. She had zapped the episode away. Today was exactly the same for her. Jane's outburst had made absolutely no difference to anything.
+
+Jane didn't lose her temper again for another week. But she did lose it again. Susan was always shocked when Jane lost it. She always started babbling and crying and soon fled to her room. She always redacted and forgot all about it.
+
+Jane had been working so hard to keep her temper. For what? It made literally no difference if she spent the whole day being nice to Susan or not. She could buy her the coveted drinks. They could relive some near-clone of Susan's second day - a dreadfully dull experience for Jane. Or Jane could take the easy route, not bother to contain her frustration. Her parents were dead. Her uni housemates that she lived with just two months ago, from her perspective, dead. Friends: dead. She didn't know the world outside her flat, it was too strange and terrifying. And to top it all off she lived with a drunk who was annoying in the same way every day.
+
+The thing that made it inevitable was the lack of consequence. Each time Jane's frustration came out as shouting and screaming that sent Susan running away in tears it changed nothing. Jane became quicker to anger, harsher in her shouting. It wasn't at all planned, but one day she let go of herself so much that she slapped Susan. Shocked even more than normal, Susan fled to her room crying.
+
+The next morning saw another cup of tea at Susan's door. A sleepless Jane trying to work out how to say sorry.
+
+Another oblivious Susan with no memory of the event.
+
+ 
+ 
+
+One day the doorbell rang. It was the first time it had rang since Susan herself had arrived nearly three months ago.
+
+Jane looked at the entry screen thing. "Name: Lillian Morgen. Role: Police Officer. - Verified by MET Police.''
+
+Jane felt a flutter of fear, but she couldn't work out why, so forced it away. She let the police in, two officers and a social worker. They verified her identity and that Susan lived with her.
+
+Then they arrested Jane, took her to a police car and then a police station. She was shocked and terrified. A part of her knew what it was, but she suppressed that part ferociously. She had done nothing wrong she screamed in her mind.
+
+She found herself in a small room with a mirror that probably doubled as a window. Three cameras looked at her and the police woman, a forty-something woman with rower's shoulders, took a seat across from her. The police woman began explaining the situation to Jane.
+
+"First, I would like to remind you that, by law, all redaction machines take a medical scan of their occupant immediately before activation. A record of the person before they back propagate.'' The woman looked at Jane and she felt her stomach sinking.
+
+"Why?'' asked Jane. "What have I been arrested for? Do I not get a lawyer or something?''
+
+"The system'', she indicated the cameras, "has got every approved lawyer installed. You can access any of them for advice using an interface later. For now though any of them are able to interrupt if it will help you. I will explain the nature of the charges against you, so that you can make an informed choice.'' The woman gave Jane a hard look.
+
+"These medical records are transmitted to a central police database. It is to preserve a record of crimes committed against victims who are later redacted. Things like murder, violence, sexual assault … and domestic abuse.'' Jane may have been projecting, but she felt like those last words were thrown at her with unhidden disgust.
+
+Jane didn't argue out loud, she was too busy arguing inside. Her stomach felt cold and seemed to sink right through her chair down to the floor. She hadn't abused Susan ... had she? She had lost her temper sometimes, shouted at her. Her hand tingled with the memory of slapping Susan. OK so there had been that one time, or was it two? There was the time she had kicked her as well. Wait, that might have been more than once as well. It all blurred together.
+
+She partly returned to the interrogation room. She heard some of what was being said. Read to her from a tablet computer.
+
+"... December 13th: Bruising to lower torso. December 14th: Split lip, torso bruising again...''
+
+Jane couldn't believe it. She was a good person. Yes she sometimes, very rarely, lost her temper because Susan was so infuriating but she would never … but she had. The medical files said so. It was like the world was wrong somehow. And Jane's memories were also wrong for some reason and, and …
+
+Jane felt sick. Oh hell what had she done?!
+
+She looked up into the face of the police woman. She took a deep breath. She deserved this. She would deny nothing. She would admit it. At least, she would once she got to the end of the information and had the chance to check it all with her digital lawyers.
+
+ 
+ 
+
+The police woman disappeared. So did the interrogation room. Even the handcuffs.
+
+Jane suddenly found herself in a familiar type of machine. Once again she lay in a bath of fatty liquid, the surplus mass that some future version of her had shed while propagating backwards. Once more overall clad technicians came to check she was healthy. Her confession was frozen on the tip of her tongue.
+
+She was led to a shower where she washed off the remains of her future self. Jane then dressed in the provided clothes and made her way out to the new-new-world she found herself in.
+
+Her admission felt solid in her throat. So heavy that it felt almost like it was constricting her breathing.
+
+Outside the shower room she was greeted by a uniformed man.
+
+"When did you come from?'' he asked.
+
+"I, it was, in the police station.''
+
+"OK. What year?'' he asked, inviting her to take a seat in a small office. He took the seat across the desk from her, like some office-y shadow of that police interrogation room.
+
+"Twenty three, fifty-something I think.'' Answered Jane.
+
+The man frowned at her uncertainty, surprised she didn't know the year.
+
+"I hadn't been there very long. I was in 2021 then some other time hundreds of years later. Then I was in the police station and then here.''
+
+The man looked at a tablet computer, bringing back more memories of the police station only half an hour ago.
+
+"Yes. I am very sorry about this. We had a solar flare. We think it set off an electrical surge and threw off the system calibration. We missed our target time by a few months it looks like, maybe half a year at the outside.''
+
+"What were you aiming for?'' asked Jane.
+
+"Your file just gives a date, hour and minute. You told me before you went in that you always reset to that exact same moment. You said it meant a lot to you. I am really, very sorry that we missed it. There will be compensation of course.''
+
+She wondered if they would lock her up when they worked out they had a Jane who had done a crime but not yet done the time. Presumably some past Jane had gone to prison. Did that mean she was off the hook? Was that fair?
+
+"I feel sick'', Jane said.
+
+"Don't worry. That is just the Coriolis, you haven't adapted yet to spin gravity.''
+
+"Spin gravity?''
+
+"Sorry, I am giving you this in all the wrong order. The current year is 1321 PD - Post Departure'', he looked at his tablet, "that puts it about 5,700 AD. You are aboard the space habitation Derbyshire 4. For context Derbyshire 4 is one of several million habitats orbiting the star Groombridge.''
+
+ 
+ 
+
+Jane hadn't yet adapted to one future but now she was in another, far more distant one. At some point thousands of years after her arrest some iteration of Jane had enrolled in a colony program.
+
+As the first step of interstellar travel, she had been given a lethal injection. Then her corpse had been liquefied and sealed in a tin can. The resulting slop had cruised through the void between stars for a thousand years. Her remains either frozen by the cold of interstellar space, boiled by the heat of the atomic rockets or a bit of both depending on where on the ship they were stowed.
+
+Then, on arrival at the star system Groombridge, a redaction machine had whirred to life. Hundreds of years of being frozen porridge was wound backwards and the Jane that had sat in a clinic back on Earth awaiting the lethal injection had awoken at Groombridge. Instantaneous interstellar travel, at least subjectively.
+
+The planetoids of Groombridge were no good for living, nor had anyone thought they might be. They were small and airless, their feeble gravities insufficient to hold even the lightest breath of atmosphere. These same gravities were also what made them valuable, their shallow potential wells meant no great effort was needed to harvest them. They gave up their iron, silicon and water ice without resistance. With these commodities the colonists built artificial homes. Spinning cylinders with gravity, warmth, sunlight and all the comforts of home. They had hundreds of acres of "land'' per head, an abundance that Jane gathered would make the poor sardines back in the Sol system green with envy.
+
+They did not lock Jane up.
+
+She found that she was a celebrity of some kind. Maybe even an informal leader. She came from Sol, unlike the great majority of the population who had been born at this end. This alone afforded a certain cachet. She was seen as one of the pioneers, seen almost like the American pilgrim fathers had been back in Jane's time.
+
+On top of that she was the only person in Groombridge with a birth pre-2,000 AD date of birth (if barely). Her last few iterations seemed to have made this into a career. She had done videos, interviews, lectures and after dinner speeches. People were electrified by the thought that she had been born in the same millennium as Napoleon Bonaparte and William the Conqueror.
+
+Initially Jane was too busy adapting to the world around her to give much time to her guilty conscience. But eventually it returned. Her near-confession returned to her throat, choking her so much she sometimes hyperventilated. Her stomach would sink when she thought about how she had gotten away with it. The guilt increased until at last she sought out a police station to hand herself in.
+
+A chirpy young policeman was happy to take her into his office to talk. He offered her a selection of hot drinks and biscuits. A lump caught in Jane's throat as she tried to say what had happened. In the end she handed the policeman the confession she had intended to read out.
+
+The young man started reading with a frown. He swallowed nervously on finishing it and handed it back without making eye contact.
+
+"Miss, the authorities back on, what was the name of the Habitat?''
+
+"Earth.''
+
+"Right. Wait? Like, Earth, Earth? The planet?'' the policeman let out a breath in awe. "Well that is way out of our jurisdiction.''
+
+"But, I had already been arrested. I was about to admit it! I just needed a few more minutes...''
+
+"We can't arrest you for a crime you claim to have committed thousands of years ago in another solar system.'' said the policeman with a serious smile. "We can check your records if you like. When you pioneers came out here they brought everything written about any of you for the psychographic engineering.''
+
+He typed and clicked a little at a computer. Then invited her around to look at the screen.
+
+"See, look. Sentence served. You plead guilty and served your time.'' he pointed at some notes on his screen, "They let you out early for good behaviour on the condition you agreed not to redact the sentence away.''
+
+"But I did!'' said Jane. "There was a solar flare. They got the times wrong. They sent me back to before I had done the sentence.''
+
+"It doesn't matter, miss. We have been outside the jurisdiction of ...'' he scrolled down the form and pointed, "The United ... Oh wow!'' he turned back to look at her, "You lived in a Kingdom?!'
+
+Jane could practically see the battlements and knights in the policeman's eyes.
+
+The policeman was happy to show Jane how to access her personal records about her previous lives. Looking them over she learned that ever since 2351 every single iteration of Jane had started her new life from some time a few days after leaving prison. They had all kept the sentence, they had chosen to hand it down the chain for millennia even after it was no longer required. Almost every Jane to have ever existed remembered living out that spell in prison.
+
+Until now. She did not. The first in thousands of years. Those memories were gone now. No future Jane would have them ever again.
+
+She reflected on this on her walk home. The route felt strangely like the towpath back home. The horizon wasn't right obviously, instead of vanishing into the distance it reared up, looped over and joined up with the horizon behind. It wasn't a canal she walked beside, it was a floor-window. A big piece of glass (or more likely some futuristic clear material) that allowed the bright light of Groombridge into the habitat. With the spinning, the light was very inconstant, turning smoothly between illumination from above, in front, below and behind. Yes the window wasn't at all a canal, but somehow the path along its edge felt like the towpath.
+
+It was approaching the time Jane thought of as "midnight''. The time when the sun (technically star) was below Jane's feet. No "daylight'' came from above, but the canal seemed to catch fire. The prismatic glass directed the light upwards, to illuminate the people on the cylinder's far side. The refractions the glass made were designed for them. The golden, fire-like glow Jane saw was just the inefficiency.
+
+A few minutes later "midday'' spun around. The windows on Derbyshire's far side glowed bright above Jane's head and sunlight came streaking down through the trees. The "canal'' was black, apart from the stars. So many stars, the Milky Way floating in the canal.
+
+This place certainly had its charms thought Jane. Before catching herself in the thought. Is that who she was? Someone who would just shrug, move on and enjoy the space palace?
+
+She balled her fists and stamped on the gravel. So ridiculously unlucky! A solar flare, what the hell were the chances of something like that?
+
+But then she realised, it wasn't unlucky. It was almost to be expected. She had been redacted, who knew, maybe a hundred times since leaving prison. Every single Jane iteration chose redaction over cremation. She would keep repeating, again and again. It would not end until some disaster put her body beyond recovery or human civilisation collapsed. It was practically a certainty that an accident would take place eventually.
+
+It took time for Jane to decide that life was not a perfect story. Those missing memories, that sentence served, was gone. Besides, she should strive to in some sense be better than her previous selves. Not universally better by all metrics, that was too high an aim. But she should do something they hadn't, otherwise what was the point of her?
+
+This moment felt like an epiphany. A moment of clarity. She could step out into this world about which she knew so little and she could prosper. That seemed like a good attitude to have at the start of a new life. Maybe she should check the time to record this moment for future …
+
+This time the sharp transition barely came as a shock, and wasn't unwelcome.
+===== END STORY CKgPFHoWFkviYz7CB =====

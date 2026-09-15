@@ -1,0 +1,35 @@
+{
+  "_id": "Ep2Z42hYqj68QZz6w",
+  "slug": "king-under-the-mountain-adventure-log-soundtrack",
+  "title": "King Under The Mountain: Adventure Log + Soundtrack",
+  "postedAt": "2011-11-25T22:29:07.219Z",
+  "baseScore": 87,
+  "wordCount": 6761,
+  "commentCount": 36,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "RLQumypPQGPYg9t6G",
+      "name": "Gaming (videogames/tabletop)",
+      "slug": "gaming-videogames-tabletop"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "RLQumypPQGPYg9t6G": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1
+  }
+}

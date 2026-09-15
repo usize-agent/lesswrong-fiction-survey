@@ -1,0 +1,29 @@
+{
+  "_id": "LpF7BBGxbYETxJgYL",
+  "slug": "the-witness",
+  "title": "The Witness",
+  "postedAt": "2023-12-03T22:27:16.248Z",
+  "baseScore": 117,
+  "wordCount": 4215,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "xexCWMyds6QLWognu": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "rgXQuG8KXtxugSG6H",
+  "slug": "what-i-did-in-the-hedonium-shockwave-by-emma-age-six-and-a",
+  "title": "What I did in the hedonium shockwave, by Emma, age six and a half",
+  "postedAt": "2026-04-13T16:47:10.789Z",
+  "baseScore": 457,
+  "wordCount": 1457,
+  "commentCount": 48,
+  "user": {
+    "displayName": "ozymandias",
+    "slug": "ozymandias"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

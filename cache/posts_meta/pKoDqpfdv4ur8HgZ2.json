@@ -1,0 +1,29 @@
+{
+  "_id": "pKoDqpfdv4ur8HgZ2",
+  "slug": "the-distaff-texts",
+  "title": "The Distaff Texts",
+  "postedAt": "2026-03-20T15:05:10.476Z",
+  "baseScore": 105,
+  "wordCount": 4158,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

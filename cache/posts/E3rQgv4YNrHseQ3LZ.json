@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "E3rQgv4YNrHseQ3LZ",
+        "title": "[Invisible Networks] Psyche-Sort",
+        "slug": "invisible-networks-psyche-sort",
+        "pageUrl": "https://www.lesswrong.com/posts/E3rQgv4YNrHseQ3LZ/invisible-networks-psyche-sort",
+        "postedAt": "2022-04-02T15:40:05.279Z",
+        "baseScore": 24,
+        "wordCount": 536,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "Kaj_Sotala",
+          "slug": "kaj_sotala"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "*Written for [crtlcreep\u2019s Invisible Networks 2022 challenge](https://twitter.com/ctrlcreep/status/1507351734863212565): \u201cinvent a social network each day\u201d, today\u2019s prompt: \u201cPsyche-Sort\u201d.*\n\n*Starting from day #2 since I forgot to participate yesterday.*\n\n**Content note:** Cycles of abuse, both personal and institutionalized. A world locked into AI-mediated dystopia.\n\n* * *\n\n*\u201cTune your ear to the frequency of despair, and cross-reference by the longitude and latitude of a heart in agony.\u201d* (Amazing Spider-Man #544)\n\nThere are tendrils of pain running across society, fault lines on which our social infrastructure is built. You can imagine them as huge beating arteries full of thick flowing trauma, their contents seeping everywhere around them.\n\nWhen you have lived your whole life in pain, it won\u2019t occur to you that it would be possible to end the pain. You just enact and pass on the behaviors you\u2019ve learned for dealing with it. And then you weaponize them, so as to prevent anyone else from hurting you more than you can hurt them.\n\nYet you cannot entirely eradicate the need for connection and companionship. You can suppress it, you can make it into something people are terrified of, you can turn it into a twisted mockery of itself. But people still long to band together, for mutual protection if nothing else.\n\nSo you require people whose needs have been twisted in a way that is compatible with yours. Maybe you believe that everyone is just out to hurt everyone else, and need your friends to treat you like trash so you can treat them like that in return. Maybe you are horrified at the thought of not being dependent on someone, so you need someone to tell you how you will always need them. Maybe you are utterly consumed by self-doubt, so need to follow a strong authoritarian leader. Maybe you feel unsafe by people around you exhibiting agency, so you need to *become* the strong authoritarian leader.\n\nEither way, you need to be surrounded by people who tell you what you want to hear, treat you the way you want to be treated, and let you treat themselves the way you want to treat them.\n\nNobody intentionally created Psyche-Sort. It\u2019s just an agglomeration of machine learning systems, each learning what kinds of people to connect with each other. Developed to match people on their revealed rather than stated preferences \u2013 the economists claiming that this is a far more reliable way of discovering what people *really* want, not to mention more profitable \u2013 it found abusive and dysfunctional relationships and organizations to be more durable than healthy ones, thus ranking higher on its optimization criteria.\n\nAs people got systematically connected to people and institutions predicted to create increasingly intense spirals of misery, waves of trauma spread out like an infectious disease, mutating into new forms as more and more people turned into carriers and brought the pain to new environments. Each such occasion gave the algorithms more variety to choose from in matching people \u2013 finding people whose psyches were *amazingly* compatible in the sense of creating *exquisitely* dysfunctional circumstances.\n\nYou can rest assured that no matter who you are or what your desires, the machines will connect you with a social group that\u2019s just the right for you. One where you\u2019ll be staying together and hurting each other forever."
+        }
+      }
+    }
+  }
+}

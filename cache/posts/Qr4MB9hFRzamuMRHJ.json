@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Qr4MB9hFRzamuMRHJ",
+        "title": "Two Cult Koans",
+        "slug": "two-cult-koans",
+        "pageUrl": "https://www.lesswrong.com/posts/Qr4MB9hFRzamuMRHJ/two-cult-koans",
+        "postedAt": "2007-12-21T05:45:31.000Z",
+        "baseScore": 165,
+        "wordCount": 610,
+        "commentCount": 100,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "PHPHovzkfjyap9FiK",
+            "name": "Cults",
+            "slug": "cults"
+          },
+          {
+            "_id": "ymWzfKxBchRvmCTNX",
+            "name": "Courage",
+            "slug": "courage"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "ALwRRZqvhaop8gxkT",
+            "name": "Groupthink",
+            "slug": "groupthink"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          }
+        ],
+        "tagRelevance": {
+          "ALwRRZqvhaop8gxkT": 1,
+          "PHPHovzkfjyap9FiK": 2,
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "ymWzfKxBchRvmCTNX": 1
+        },
+        "contents": {
+          "markdown": "A novice rationalist studying under the master Ougi was rebuked by a friend who said, \u201cYou spend all this time listening to your master, and talking of \u2018rational\u2019 this and \u2018rational\u2019 that\u2014you have fallen into a cult!\u201d\n\nThe novice was deeply disturbed; he heard the words *You have fallen into a cult!* resounding in his ears as he lay in bed that night, and even in his dreams.\n\nThe next day, the novice approached Ougi and related the events, and said, \u201cMaster, I am constantly consumed by worry that this is all really a cult, and that your teachings are only dogma.\u201d\n\nOugi replied, \u201cIf you find a hammer lying in the road and sell it, you may ask a low price or a high one. But if you keep the hammer and use it to drive nails, who can doubt its worth?\u201d\n\nThe novice said, \u201cSee, now that\u2019s just the sort of thing I worry about\u2014your mysterious Zen replies.\u201d\n\nOugi said, \u201cFine, then, I will speak more plainly, and lay out perfectly reasonable arguments which demonstrate that you have not fallen into a cult. But first you have to wear this silly hat.\u201d\n\nOugi gave the novice a huge brown ten-gallon cowboy hat.\n\n\u201cEr, master . . .\u201d said the novice.\n\n\u201cWhen I have explained everything to you,\u201d said Ougi, \u201cyou will see why this was necessary. Or otherwise, you can continue to lie awake nights, wondering whether this is a cult.\u201d\n\nThe novice put on the cowboy hat.\n\nOugi said, \u201cHow long will you repeat my words and ignore the meaning? Disordered thoughts begin as feelings of attachment to preferred conclusions. You are too anxious about your self-image as a rationalist. You came to me to seek reassurance. If you had been truly curious, not knowing one way or the other, you would have thought of ways to resolve your doubts. Because you needed to resolve your cognitive dissonance, you were willing to put on a silly hat. If I had been an evil man, I could have made you pay a hundred silver coins. When you concentrate on a real-world question, the worth or worthlessness of your understanding will soon become apparent. You are like a swordsman who keeps glancing away to see if anyone might be laughing at him\u2014\u201d\n\n\u201cAll *right*,\u201d said the novice.\n\n\u201cYou asked for the long version,\u201d said Ougi.\n\nThis novice later succeeded Ougi and became known as Ni no Tachi. Ever after, he would not allow his students to cite his words in their debates, saying, \u201cUse the techniques and do not mention them.\u201d\n\n  \n\n* * *\n\n  \n\nA novice rationalist approached the master Ougi and said, \u201cMaster, I worry that our rationality dojo is . . . well . . . a little cultish.\u201d\n\n\u201cThat is a grave concern,\u201d said Ougi.\n\nThe novice waited a time, but Ougi said nothing more.\n\nSo the novice spoke up again: \u201cI mean, I\u2019m sorry, but having to wear these robes, and the hood\u2014it just seems like we\u2019re the bloody Freemasons or something.\u201d\n\n\u201cAh,\u201d said Ougi, \u201cthe robes and trappings.\u201d\n\n\u201cWell, *yes* the robes and trappings,\u201d said the novice. \u201cIt just seems terribly irrational.\u201d\n\n\u201cI will address all your concerns,\u201d said the master, \u201cbut first you must put on this silly hat.\u201d And Ougi drew out a wizard\u2019s hat, embroidered with crescents and stars.\n\nThe novice took the hat, looked at it, and then burst out in frustration: \u201c*How can this possibly help?*\u201d\n\n\u201cSince you are so concerned about the interactions of clothing with probability theory,\u201d Ougi said, \u201cit should not surprise you that you must wear a special hat to understand.\u201d\n\nWhen the novice attained the rank of grad student, he took the name Bouzo and would only discuss rationality while wearing a clown suit."
+        }
+      }
+    }
+  }
+}

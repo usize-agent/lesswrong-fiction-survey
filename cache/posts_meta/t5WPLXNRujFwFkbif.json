@@ -1,0 +1,29 @@
+{
+  "_id": "t5WPLXNRujFwFkbif",
+  "slug": "book-review-eisenhorn-trilogy",
+  "title": "Book Review: Eisenhorn Trilogy",
+  "postedAt": "2017-03-21T13:39:12.000Z",
+  "baseScore": 5,
+  "wordCount": 4185,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Zvi",
+    "slug": "zvi"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "4Kcm4etxAJjmeDkHP": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

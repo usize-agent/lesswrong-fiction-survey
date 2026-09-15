@@ -1,0 +1,47 @@
+{
+  "_id": "ctpkTaqTKbmm6uRgC",
+  "slug": "failed-utopia-4-2",
+  "title": "Failed Utopia #4-2",
+  "postedAt": "2009-01-21T11:04:43.000Z",
+  "baseScore": 159,
+  "wordCount": 2792,
+  "commentCount": 275,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "W9aNkPwtPhMrcfgj7",
+      "name": "Sex & Gender",
+      "slug": "sex-and-gender"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "t3vNhmcpuGJmbFNvd",
+      "name": "Utopia",
+      "slug": "utopia"
+    },
+    {
+      "_id": "sSNtcEQsqHgN8ZmRF",
+      "name": "Fun Theory",
+      "slug": "fun-theory"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "W9aNkPwtPhMrcfgj7": 3,
+    "etDohXtBrXd8WqCtR": 15,
+    "sSNtcEQsqHgN8ZmRF": 1,
+    "t3vNhmcpuGJmbFNvd": 2
+  }
+}

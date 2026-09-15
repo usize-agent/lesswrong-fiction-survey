@@ -1,0 +1,35 @@
+{
+  "_id": "Ybp6Wg6yy9DWRcBiR",
+  "slug": "the-adventure-a-new-utopia-story",
+  "title": "The Adventure: a new Utopia story",
+  "postedAt": "2020-02-05T16:50:42.909Z",
+  "baseScore": 108,
+  "wordCount": 15254,
+  "commentCount": 37,
+  "user": {
+    "displayName": "Stuart_Armstrong",
+    "slug": "stuart_armstrong"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sSNtcEQsqHgN8ZmRF",
+      "name": "Fun Theory",
+      "slug": "fun-theory"
+    },
+    {
+      "_id": "t3vNhmcpuGJmbFNvd",
+      "name": "Utopia",
+      "slug": "utopia"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 14,
+    "sSNtcEQsqHgN8ZmRF": 2,
+    "t3vNhmcpuGJmbFNvd": 2
+  }
+}

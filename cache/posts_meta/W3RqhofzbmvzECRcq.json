@@ -1,0 +1,29 @@
+{
+  "_id": "W3RqhofzbmvzECRcq",
+  "slug": "the-tower-of-babel-in-reverse",
+  "title": "The Tower of Babel in Reverse",
+  "postedAt": "2025-10-07T16:27:49.785Z",
+  "baseScore": 18,
+  "wordCount": 2243,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Nostradamus_2",
+    "slug": "nostradamus_2"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

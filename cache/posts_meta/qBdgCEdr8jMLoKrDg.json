@@ -1,0 +1,29 @@
+{
+  "_id": "qBdgCEdr8jMLoKrDg",
+  "slug": "bayeswatch-6-mechwarrior",
+  "title": "Bayeswatch 6: Mechwarrior",
+  "postedAt": "2021-06-07T20:20:20.196Z",
+  "baseScore": 61,
+  "wordCount": 748,
+  "commentCount": 8,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

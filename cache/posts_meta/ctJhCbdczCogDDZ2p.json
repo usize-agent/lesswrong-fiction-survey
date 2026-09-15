@@ -1,0 +1,35 @@
+{
+  "_id": "ctJhCbdczCogDDZ2p",
+  "slug": "kessler-s-second-syndrome",
+  "title": "Kessler's Second Syndrome",
+  "postedAt": "2025-01-26T07:04:17.852Z",
+  "baseScore": 70,
+  "wordCount": 1036,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Jesse Hoogland",
+    "slug": "jesse-hoogland"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 3
+  }
+}

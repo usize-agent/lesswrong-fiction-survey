@@ -1,0 +1,172 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "XTnzZkAHenomutQhq",
+        "title": "Books Worthy of Integration",
+        "slug": "books-worthy-of-integration",
+        "pageUrl": "https://www.lesswrong.com/posts/XTnzZkAHenomutQhq/books-worthy-of-integration",
+        "postedAt": "2022-02-20T08:03:25.617Z",
+        "baseScore": 16,
+        "wordCount": 862,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "Roven Skyfal",
+          "slug": "roven-skyfal"
+        },
+        "tags": [
+          {
+            "_id": "4Kcm4etxAJjmeDkHP",
+            "name": "Book Reviews / Media Reviews",
+            "slug": "book-reviews-media-reviews"
+          },
+          {
+            "_id": "T63QtRJhoTEGhZbTP",
+            "name": "Creativity",
+            "slug": "creativity"
+          },
+          {
+            "_id": "fH8jPjHF2R27sRTTG",
+            "name": "Education",
+            "slug": "education"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "jgcAJnksReZRuvgzp",
+            "name": "Financial Investing",
+            "slug": "financial-investing"
+          },
+          {
+            "_id": "a65Lgr7Q5jqRWHtM6",
+            "name": "Gratitude",
+            "slug": "gratitude"
+          },
+          {
+            "_id": "irYLXtT9hkPXoZqhH",
+            "name": "Growth Stories",
+            "slug": "growth-stories"
+          },
+          {
+            "_id": "5Whwix4cZ3p5otshm",
+            "name": "Habits",
+            "slug": "habits"
+          },
+          {
+            "_id": "Jzm2mYuuDBCNWq8hi",
+            "name": "Happiness",
+            "slug": "happiness-1"
+          },
+          {
+            "_id": "iTe27Ced8s8bGuvMK",
+            "name": "Intellectual Progress (Individual-Level)",
+            "slug": "intellectual-progress-individual-level"
+          },
+          {
+            "_id": "Tg9aFPFCPBHxGABRr",
+            "name": "Life Improvements",
+            "slug": "life-improvements"
+          },
+          {
+            "_id": "92SxJsDZ78ApAGq72",
+            "name": "Nutrition",
+            "slug": "nutrition"
+          },
+          {
+            "_id": "udPbn9RthmgTtHMiG",
+            "name": "Productivity",
+            "slug": "productivity"
+          },
+          {
+            "_id": "dBPou4ihoQNY4cquv",
+            "name": "Psychology",
+            "slug": "psychology"
+          },
+          {
+            "_id": "tdt83ChxnEgwwKxi6",
+            "name": "Reading Group",
+            "slug": "reading-group"
+          },
+          {
+            "_id": "fF9GEdWXKJ3z73TmB",
+            "name": "Scholarship & Learning",
+            "slug": "scholarship-and-learning"
+          },
+          {
+            "_id": "7Gh5dSvySMNbA6niL",
+            "name": "Task Prioritization",
+            "slug": "task-prioritization"
+          },
+          {
+            "_id": "XqykXFKL9t38pbSEm",
+            "name": "Well-being",
+            "slug": "well-being"
+          },
+          {
+            "_id": "YrLoz567b553YouZ2",
+            "name": "Willpower",
+            "slug": "willpower"
+          },
+          {
+            "_id": "izp6eeJJEg9v5zcur",
+            "name": "Community",
+            "slug": "community"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "4Kcm4etxAJjmeDkHP": 1,
+          "5Whwix4cZ3p5otshm": 1,
+          "7Gh5dSvySMNbA6niL": 1,
+          "92SxJsDZ78ApAGq72": 1,
+          "Jzm2mYuuDBCNWq8hi": 1,
+          "Ng8Gice9KNkncxqcj": 1,
+          "T63QtRJhoTEGhZbTP": 1,
+          "Tg9aFPFCPBHxGABRr": 1,
+          "XqykXFKL9t38pbSEm": 1,
+          "YrLoz567b553YouZ2": 1,
+          "a65Lgr7Q5jqRWHtM6": 1,
+          "dBPou4ihoQNY4cquv": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "fF9GEdWXKJ3z73TmB": 1,
+          "fH8jPjHF2R27sRTTG": 1,
+          "fkABsGCJZ6y9qConW": 1,
+          "iTe27Ced8s8bGuvMK": 1,
+          "irYLXtT9hkPXoZqhH": 1,
+          "izp6eeJJEg9v5zcur": 1,
+          "jgcAJnksReZRuvgzp": 1,
+          "tdt83ChxnEgwwKxi6": 1,
+          "udPbn9RthmgTtHMiG": 1,
+          "xexCWMyds6QLWognu": 1
+        },
+        "contents": {
+          "markdown": "### Here is the list of recommend books for someone interested in enhancing their understanding of the world.\n\nThis is a post from Substack which can be found [here](https://roven.substack.com/p/books-worthy-of-integration).\u00a0\n\nNot long ago, I would read roughly one book every couple of years. I had a busier life. I didn\u2019t value spending my attention on books. It wasn\u2019t until 3 years ago that my life settled down. With new found time, my mind\u2019s hunger for novel information increased and I stumbled upon our local library. Fortunately for me, they provide access to two audio book apps (Hoopla and Libby). I also picked up more physical books. My consumption is roughly 75% audio and 25% physical. With the ability to increase playback speed in the apps and my commute, I am able to get through 1-2 books per week. I am not a fast reader, but do purchase physical books worthy of reading or referencing again.\n\nAs I learn, I find myself wanting to share new concepts with others. These ideas often update my mental models and have increased the resolution of my \u201cmap of the territory\u201d. Throughout my journey, intermixed with the phenomenal books below have been less impressive books. The goal of this list is to provide a guide for those searching. I will try and update this periodically. If you have recommendations for additions, please comment below.\n\nI put the topics and rankings in order of importance, but read what interest you most. The intent of this post is to provide a rubric for the self-guided learner who wishes to enrich their life and better try and understand the world around them. This is for my daughter. This is for AGI. This is for anyone who lights up while learning new things.\n\n* * *\n\n**Happiness**\n\n1.  The Happiness Hypothesis by Jonathan Haidt\n2.  The Book of Joy by Dalai Lama\n\n**On Living a Good Life**\n\n1.  Four Thousand Weeks by Oliver Burkeman *\n2.  Man\u2019s Search for Meaning by Viktor Frankl\n3.  The Fire Next Time by James Baldwin\n4.  Waking Up by Sam Harris\n5.  Tao Te Ching by Lao Tzu *\n6.  How to Win Friends and Influence People by Dale Carnegie\n7.  The Power of Now by Eckhart Tolle (if you can get your hands on his Findhorn Retreat, listen to that)\n8.  A Hunter-Gather\u2019s Guide to the 21st Century by Heather Heying and Bret Weinstein\n9.  Walden by Henry Thoreau\n10.  Meditations by Marcus Arelius *\n11.  How to Talk to Strangers by Malcolm Gladwell ~\n12.  Tribe by Sebastian Junger\n\n**On Thinking**\n\n1.  Lost in Thought by Zena Hitz *\n2.  The Righteous Mind by Jonathan Haidt\n3.  Antifragile by Taleb Nassim\n4.  Thinking, Fast and Slow by Daniel Kahneman\n5.  Map and Territory by Eliezer Yudkowsky\n6.  The Master and his Emissary by Iain McGilchrist\n7.  The Origin of Consciousness in the Breakdown of the Bicameral Mind by Julian Jaynes\n\n**Life Hacking**\n\n1.  Deep work by Cal Newport\n2.  The Power of Habit by Charles Duhigg\n3.  Digital Minimalism by Cal Newport\n4.  The 4-Hour Workweek by Tim Ferris *\n5.  Designing Your Life by Bill Burnett\n\n**Leadership/Entrepreneurial/Motivation**\n\n1.  Zero to One by Peter Thiel\n2.  Originals by Adam Grant\n3.  Greenlights by Matthew McConaughey ~\n4.  The Icarus Deception by Seth Godin\n5.  Grit by Angela Duckworth\n6.  Range by David Epstein\n7.  Outliers by Malcolm Gladwell\n8.  Finding Ultra by Rich Roll\n9.  Smarter Faster Better by Charles Duhigg\n\n**Science/History**\n\n1.  Sapiens by Yuval Noah Harari\n2.  Homo Deus by Yuval Noah Harari\n3.  The Order of Time by Carlo Rovelli *\n4.  How to avoid a Climate Disaster by Bill Gates\n5.  The Hidden Life of Trees by Peter Wohllenben\n6.  Dopamine Nation by Anna Lembke\n7.  First Principles by Thomas Ricks\n8.  A Brief History of Time by Stephen Hawking\n9.  When Death Becomes Life by Joshua Mezrich\n\n**Education/Raising children**\n\n1.  The Coddling of the American Mind by Jonathan Haidt\n\n**On Creativity**\n\n1.  A Swim in a Pond in the Rain by George Saunders *\n2.  On Writing by Stephen King\n3.  Big Magic by Elizabeth Gilbert\n\n**Finance**\n\n1.  The Simple Path to Wealth by JL Collins\n2.  Dollars and Sense by Dan Ariely\n3.  The Man who Solved the Market by Gregory Zuckerman\n\n**Diet**\n\n1.  Eating Animals by Jonathan Foer\n2.  The Case Against Sugar byGary Taubes\n3.  In Defense of Food by Michael Pollan\n\n**Fiction**\n\n1.  Bewilderment by Richard Powers\n2.  The Overstory by Richard Powers\n3.  The Fountainhead by Ayn Rand\n4.  The Road by Cormac McCarthy\n5.  No Country for Old Men by Cormac McCarthy\n6.  The Fall by Albert Camus\n7.  The Stranger by Albert Camus\n8.  The Alchemist by Paulo Coelho\n9.  1984 by George Orwell\n10.  Cato, A Tragedy by Joseph Addison\n\n**Fantasy/Sci-Fi**\n\n1.  The Stormlight Archive (Series) by Brandon Sanderson\n2.  The Three-Body Problem by Liu Cixin\n3.  Game of Thrones (Series) by George RR Martin\n4.  Dune by Frank Herbert\n5.  Cloud Atlas by David Mitchell\n6.  Cryptonomicon by Neal Stephenson\n7.  The Hitchhiker\u2019s Guide to the Galaxy by Douglas Adams\n8.  Seveneves by Neal Stephenson\n9.  Anathem by Neal Stephenson\n\n* * *\n\n\\* Indicates books better suited for text\n\n~Indicates books better suited for audio\n\n*Last updated Feb 19th 2022*"
+        }
+      }
+    }
+  }
+}

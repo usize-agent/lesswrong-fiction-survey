@@ -1,0 +1,59 @@
+{
+  "_id": "6hfGNLf4Hg5DXqJCF",
+  "slug": "a-fable-of-science-and-politics",
+  "title": "A Fable of Science and Politics",
+  "postedAt": "2006-12-23T04:50:47.000Z",
+  "baseScore": 399,
+  "wordCount": 1570,
+  "commentCount": 102,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "kdbs6xBndPkmrYAxM",
+      "name": "Politics",
+      "slug": "politics"
+    },
+    {
+      "_id": "BtQRRKTPxagBH6KrG",
+      "name": "Blues & Greens (metaphor)",
+      "slug": "blues-and-greens-metaphor"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "DdgSyQoZXjj3KnF4N",
+      "name": "Tribalism",
+      "slug": "tribalism"
+    },
+    {
+      "_id": "E6qP9r9xxM4LCxaFk",
+      "name": "Litany of Tarski",
+      "slug": "litany-of-tarski"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "BtQRRKTPxagBH6KrG": 11,
+    "DdgSyQoZXjj3KnF4N": 3,
+    "E6qP9r9xxM4LCxaFk": 1,
+    "F2XfCTxXLQBGjbm8P": 3,
+    "Ng8Gice9KNkncxqcj": 3,
+    "etDohXtBrXd8WqCtR": 6,
+    "kdbs6xBndPkmrYAxM": 13
+  }
+}

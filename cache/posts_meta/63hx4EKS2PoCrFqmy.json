@@ -1,0 +1,41 @@
+{
+  "_id": "63hx4EKS2PoCrFqmy",
+  "slug": "the-parable-of-the-dagger-the-animation",
+  "title": "The Parable of the Dagger - The Animation",
+  "postedAt": "2023-07-29T14:03:12.023Z",
+  "baseScore": 20,
+  "wordCount": 238,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Writer",
+    "slug": "writer"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "FtT2T9bRbECCGYxrL",
+      "name": "Philosophy of Language",
+      "slug": "philosophy-of-language"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "FtT2T9bRbECCGYxrL": 1,
+    "KDpqtN3MxHSmD4vcB": 1,
+    "Ng8Gice9KNkncxqcj": 2
+  }
+}

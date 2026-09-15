@@ -1,0 +1,35 @@
+{
+  "_id": "qCsxiojX7BSLuuBgQ",
+  "slug": "the-super-happy-people-3-8",
+  "title": "The Super Happy People (3/8)",
+  "postedAt": "2009-02-01T08:18:19.000Z",
+  "baseScore": 138,
+  "wordCount": 4808,
+  "commentCount": 55,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sSNtcEQsqHgN8ZmRF",
+      "name": "Fun Theory",
+      "slug": "fun-theory"
+    },
+    {
+      "_id": "Jzm2mYuuDBCNWq8hi",
+      "name": "Happiness",
+      "slug": "happiness-1"
+    }
+  ],
+  "tagRelevance": {
+    "Jzm2mYuuDBCNWq8hi": 1,
+    "etDohXtBrXd8WqCtR": 3,
+    "sSNtcEQsqHgN8ZmRF": 1
+  }
+}

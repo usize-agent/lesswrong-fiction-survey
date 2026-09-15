@@ -1,0 +1,23 @@
+{
+  "_id": "8KHR3tfa4SJjMSkXd",
+  "slug": "the-witching-hour",
+  "title": "The Witching Hour",
+  "postedAt": "2013-11-03T07:07:34.000Z",
+  "baseScore": 26,
+  "wordCount": 1896,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

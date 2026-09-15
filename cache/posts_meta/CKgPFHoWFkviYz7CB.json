@@ -1,0 +1,35 @@
+{
+  "_id": "CKgPFHoWFkviYz7CB",
+  "slug": "the-redaction-machine",
+  "title": "The Redaction Machine",
+  "postedAt": "2022-09-20T22:03:15.309Z",
+  "baseScore": 548,
+  "wordCount": 8101,
+  "commentCount": 48,
+  "user": {
+    "displayName": "Ben",
+    "slug": "ben-lang"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "Wgbgir4qzGz8Ztt3u",
+      "name": "Past and Future Selves",
+      "slug": "past-and-future-selves"
+    }
+  ],
+  "tagRelevance": {
+    "Wgbgir4qzGz8Ztt3u": 1,
+    "etDohXtBrXd8WqCtR": 28,
+    "pGqRLe9bFDX2G2kXY": 1
+  }
+}

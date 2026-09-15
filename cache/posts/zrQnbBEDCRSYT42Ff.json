@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "zrQnbBEDCRSYT42Ff",
+        "title": "Everyone Who Will Ever Be Born",
+        "slug": "everyone-who-will-ever-be-born",
+        "pageUrl": "https://www.lesswrong.com/posts/zrQnbBEDCRSYT42Ff/everyone-who-will-ever-be-born",
+        "postedAt": "2026-08-06T22:18:14.567Z",
+        "baseScore": 1,
+        "wordCount": 303,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "garyrob",
+          "slug": "garyrob"
+        },
+        "tags": [
+          {
+            "_id": "yvn2ZYwS9Qq4TnT9B",
+            "name": "Biosecurity",
+            "slug": "biosecurity"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "6nS8oYmSMuFMaiowF",
+            "name": "Logic & Mathematics ",
+            "slug": "logic-and-mathematics"
+          },
+          {
+            "_id": "xXX3n22DQZuKqXEdT",
+            "name": "War",
+            "slug": "war"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "6nS8oYmSMuFMaiowF": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "xXX3n22DQZuKqXEdT": 1,
+          "yvn2ZYwS9Qq4TnT9B": 1
+        },
+        "contents": {
+          "markdown": "Hi, with the help of an AI, I wrote a short story that expresses ideas I've been thinking about for a very long time. I used AI because my orientation is much more on the idea side, and probably, without the ability of an AI to help with the prose, I literally could not have written anything as good as this in terms of prose because I have not honed that skill.  \n  \nIn the long history of writing, it's almost always been the case that the same person had to generate worthy ideas AND to be able to write really good prose. I strongly suspect that a lot of worthy ideas haven't gotten out into the world because they didn't coincide with prose-writing ability in the same person.  \n  \nI hypothesize that AI can help those ideas get out there. In the case of this particular story, I am very happy with the prose and how it expresses some of the ideas I've wanted to express.  \n  \nI wrote some of the key prose myself, and I take full responsibility for every line. I have a strong sense of taste; but it's extremely difficult for me to consistently write prose that expresses my taste. The AI (Claude Fable 5 Max) use was able to do it, with my nudging.  \n  \nThe core ideas concern the primacy of human experience over all else. The only things that truly exist are qualia\u2014experiences. Everything we perceive is really due to complex mathematical relationships between different experiences; objects such as chairs are lemmas in that math. A device is developed, leveraging mathematical realities,that can randomly get readings from people lives, theoretically across all time. But apparently due to a math error, it's only picking up lives from the past...  \n  \nThe story is about three pages long.  \n  \nHere it is: [https://garyrobinson.net/2026/08/05/everyone-who-will-ever-be-born/](https://garyrobinson.net/2026/08/05/everyone-who-will-ever-be-born/)"
+        }
+      }
+    }
+  }
+}

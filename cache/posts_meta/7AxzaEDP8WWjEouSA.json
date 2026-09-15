@@ -1,0 +1,53 @@
+{
+  "_id": "7AxzaEDP8WWjEouSA",
+  "slug": "gpt4-is-capable-of-writing-decent-long-form-science-fiction-1",
+  "title": "GPT4 is capable of writing decent long-form science fiction (with the right prompts)",
+  "postedAt": "2023-05-23T13:41:10.105Z",
+  "baseScore": 22,
+  "wordCount": 19481,
+  "commentCount": 28,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "iKYWGuFx2qH2nYu6J",
+      "name": "AI Capabilities",
+      "slug": "ai-capabilities"
+    },
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "YWzByWvtXunfrBu5b": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "iKYWGuFx2qH2nYu6J": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "g78TRgLQuqY2etN7q",
+  "slug": "chapter-49-prior-information",
+  "title": "Chapter 49: Prior Information",
+  "postedAt": "2015-03-14T19:00:30.272Z",
+  "baseScore": 27,
+  "wordCount": 4481,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb108",
+      "name": "Priors",
+      "slug": "priors"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb108": 2
+  }
+}

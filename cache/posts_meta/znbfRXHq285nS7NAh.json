@@ -1,0 +1,29 @@
+{
+  "_id": "znbfRXHq285nS7NAh",
+  "slug": "the-terrarium",
+  "title": "The Terrarium",
+  "postedAt": "2026-03-26T18:08:17.732Z",
+  "baseScore": 611,
+  "wordCount": 6188,
+  "commentCount": 54,
+  "user": {
+    "displayName": "Caleb Biddulph",
+    "slug": "caleb-biddulph"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 8,
+    "sYm3HiWcfZvrGu3ui": 4
+  }
+}

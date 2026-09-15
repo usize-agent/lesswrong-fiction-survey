@@ -1,0 +1,29 @@
+{
+  "_id": "Lt8Rn4rkYwqiTXGPy",
+  "slug": "answer-to-job",
+  "title": "Answer to Job",
+  "postedAt": "2015-03-15T18:02:53.000Z",
+  "baseScore": 78,
+  "wordCount": 1116,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ZTRNmvQGgoYiymYnq",
+      "name": "Consequentialism",
+      "slug": "consequentialism"
+    }
+  ],
+  "tagRelevance": {
+    "ZTRNmvQGgoYiymYnq": 2,
+    "etDohXtBrXd8WqCtR": 18
+  }
+}

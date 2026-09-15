@@ -1,0 +1,29 @@
+{
+  "_id": "7ATKgMCe26X9BzCiP",
+  "slug": "hello-world-ct2s",
+  "title": "Hello World",
+  "postedAt": "2025-01-30T15:33:57.427Z",
+  "baseScore": 7,
+  "wordCount": 580,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

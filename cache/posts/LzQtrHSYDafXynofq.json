@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "LzQtrHSYDafXynofq",
+        "title": "The Parable of the King and the Random Process",
+        "slug": "the-parable-of-the-king-and-the-random-process",
+        "pageUrl": "https://www.lesswrong.com/posts/LzQtrHSYDafXynofq/the-parable-of-the-king-and-the-random-process",
+        "postedAt": "2023-03-01T22:18:59.734Z",
+        "baseScore": 318,
+        "wordCount": 1661,
+        "commentCount": 26,
+        "noIndex": false,
+        "user": {
+          "displayName": "moridinamael",
+          "slug": "moridinamael"
+        },
+        "tags": [
+          {
+            "_id": "8daMDi9NEShyLqxth",
+            "name": "Forecasting & Prediction",
+            "slug": "forecasting-and-prediction"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "yXNtYNHJB54T3bGm3",
+            "name": "Dialogue (format)",
+            "slug": "dialogue-format"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "8daMDi9NEShyLqxth": 9,
+          "F2XfCTxXLQBGjbm8P": 9,
+          "Ng8Gice9KNkncxqcj": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "yXNtYNHJB54T3bGm3": 1
+        },
+        "contents": {
+          "markdown": "***~ A Parable of Forecasting Under Model Uncertainty ~***\n\nYou, the monarch, need to know when the rainy season will begin, in order to properly time the planting of the crops. You have two advisors, Pronto and Eternidad, who you trust exactly equally.\u00a0\n\nYou ask them both: \"When will the next heavy rain occur?\"\n\nPronto says, \"Three weeks from today.\"\n\nEternidad says, \"Ten years from today.\"\n\n\"Good,\" you say. \"I will begin planting the crops in a little bit over five years, the average of your two predictions.\"\n\nPronto clears his throat. \"If I may, Your Grace. If\u00a0*I* am right, we should start preparing for the planting\u00a0*immediately*. If\u00a0*Eternidad* is right, we should expect an extreme drought, and will instead need to use the crown's resources to begin buying up food from our neighbors, for storage. These two predictions reflect totally different underlying world models, and demand two totally different and non-overlapping responses. Beginning the planting in five years is the wrong choice under either model, and guarantees that the nation will starve regardless of which of us is right.\"\n\nEternidad adds: \"Indeed, Your Grace. From Pronto's point of view, waiting five years to prepare is just as bad as waiting ten years \u2013 the rains will be long passed, by his model. From my perspective, likewise, we should take action\u00a0*now*\u00a0to prepare for drought. We must allocate resources\u00a0*today*, one way or the other. What you face is not so much a problem of prediction but a\u00a0*decision problem* with an important component of probability. Absolutely\u00a0**do not** view our predictions as two point estimates to be averaged and aggregated \u2013 view them instead as two distinct and mutually exclusive futures that must be weighed separately to determine the best allocation of resources. Unfortunately, given the unrectifiable disagreement between Pronto and myself, the best course of action is that we do our best to make reasonable preparations for\u00a0*both*\u00a0*possibilities*. We should spend some fraction of our treasury on planting grain now, in case the rains arrive soon, and the remainder on purchasing food for long-term storage, in the case of prolonged drought.\"\n\nYou, the monarch, ponder this. You do not want to have to split your resources. Surely there must be some way of avoiding that? Finally you say: \"It seems like what I need from you two is a probability distribution of rain likelihood going forward into the future. Then I can sample your distributions and get a more informative median date.\"\n\nPronto again clears his throat. \"No, Your Grace. Let us take the example of the simplest distribution, and derive what conclusions we may, and thereby show that this approach doesn't actually help the situation. Let us assume, for the sake of argument, that I think the odds of rain on any given day are about 3% and Eternidad thinks that odds of rain on any given day are about 0.02%. Under this simple model, we can be said to each have a different uniform distribution over dates of first rainfall. The odds that it will\u00a0*not* have rained by some given future day will follow an exponential decay process; the probability that it will have rained by\u00a0t=3 weeks under my distribution of 3% probability of rain per day is ~50%. The probability that it will not have rained by\u00a0t=10 years under Eternidad's distribution of 0.02% probability of rain per day is ~50%. Thus we arrive at the same median rain estimates as before, via an assumption of a uniform distribution.\"\n\nEternidad interjects: \"To be sure, Your Grace, neither of us actually believes that there's a uniform distribution of rain on any given day. Pronto is merely making an abstract point about how assumptions of distribution-shape influence subsequent conclusions.\"\n\nPronto continues. \"Indeed. And observe, Your Grace: At the 5-year mark, the average of our two cumulative probability forecasts under a uniform distribution would be ~65%, not 50%. Which is interesting, is it not, Your Grace? And furthermore, if we take two cumulative probability distributions with 50% cumulative probability at 3 weeks and 10 years, respectively, and average these two curves, we compute a median 50% crossover point of\u00a0*116 days* from now! Not 5 years, as you had guessed before! The shape of the distributions matters tremendously in determining the weighted median of the two models. This is another reason why it would be a mistake to simply average 5 years with 3 weeks and call that your expectation date, without understanding the structure of the models that gave rise to those numbers.\n\nPronto continues yet further:\u00a0 \"However, even if we make assumptions about the shapes of our probability distributions over time, it still doesn't help you choose the best 'median' date in a practical sense. Planting the seeds in expectation of rain in 116 days is still too late given my forecast model, and too early given Eternidad's. We could each be increasingly sophisticated in articulating our models, but the fact remains that they are wildly different models, and under the circumstances, they simply do not lend themselves to sampling down to a gross median. We could implicitly have normal distributions; we could have elephant-shaped distributions; it doesn't matter. There is no trick that we can do to render a single useful consensus date from these disparate models.\"\n\nYou say, annoyed: \"But what if I\u00a0*have* to simply make one, single decision, based on a median expectation date? What if I don't have the resources to 'plan for both', as you say?\"\n\nEternidad says, \"Then we're screwed, Your Grace.\"\n\nYou shout, \"Curse you both! I just want the\u00a0*betting odds* for what date to expect the rains to come by!\"\n\nEternidad and Pronto look at each other thoughtfully.\n\nPronto offers, \"Eternidad and I would both like to bet that the rains will fall in three weeks.\"\n\nYou splutter. \"You changed your mind, Eternidad? Or is this some kind of collusion? Traitors!\"\n\nEternidad: \"No, Your Grace. But if we must choose one or the other, then we should go ahead and plant now. If the rains do come, we collectively won a coin flip, and our worries are over. If the rains don't come, we can desperately try some other scheme to feed the people, having wasted a large allotment of our resources. This would still be better than digging our own graves by refusing to do any planting at all.\"\n\nYou interrupt, \"But what if we create a Market for Betting in the bazaar, and allow the citizenry at large to place bets on their own distributions for the date of first rainfall?\"\n\nOnce again, your two advisors glance at each other. Pronto speaks first: \"There are broadly two schools of thought on the question of rain. There are those like myself, who reason that the rainy season pretty much always starts at the same time of year, leading to a prediction of the rains likely starting a few weeks from now. There are those like Eternidad, who defer to the auguries of the priests and prophets and the consultation of omens and entrails - sometimes called \"bio-anchors\" due to its reliance on a deep understanding of the\u00a0*biology* of chicken innards - and who thus anticipate a great cataclysmic drought in the near future. If we take the consensus of this Market for Betting that you propose, then we will likely end up with a consensus date that is somewhere in the vicinity of 1 year from now, and then we all subsequently starve to death due to not having prepared properly. No individual person in the kingdom actually thinks that the rains will fall one year from now. We are either facing a normal rainy season or a drought, not some hybrid of the two models.\"\n\nYou fume, \"Foolish advisors. My understanding of probability distributions and betting odds is very sophisticated. I have used my skills and knowledge to reliably win millions of coins off of my fellow monarchs in games of chance. What's so different about this situation?\"\n\nEternidad speaks: \"Three reasons. Firstly, games of chance rarely, if ever, involve competing incompatible and mutually exclusive models of the world. Games tend to be closed systems that are fairly thoroughly understood, making them poor analogues for thinking about the complexity of the real world in many cases. Secondly, you usually play many iterations of these games of chance, and so the frequency of your victories converges gradually, over many iterations, to align with your betting odds. One-off high-variance situations like this one should not be treated as iterated games. And thirdly, this is not just a forecasting problem but a decision problem. You are, if I may be blunt, confused about which tools are appropriate to solve the problem. You may determine very solid and well-calibrated betting odds for a median date of first rainfall, and yet these betting odds are only useful for minimizing the amount of money that you would lose on a bet, and not at all useful for actually determining how to allocate our state resources. If you\u00a0*only* care about betting odds, then feel free to average together mutually incompatible distributions reflecting mutually exclusive world-models. If you care about\u00a0*planning* then you actually have to\u00a0*decide which model is right* or else\u00a0*plan carefully for either outcome*.\"\n\nYou ponder this, and eventually decide that your advisors are correct. Unfortunately, you had already bet the entire treasury on a scheme involving J-shaped clay pegs stamped with pictograms of primates in various attitudes of repose. These monkey j-pegs did not appreciate in value as you expected, and the people of the land starved.\n\n* * *\n\n*Meta: This was originally written for the ill-fated FTX Future Fund prize. In short, the entire approach of obtaining useful expectation-dates for future technology developments by averaging together wildly disparate world-models is, as I describe here, useful only for determining betting odds, and totally useless for planning and capital-allocation purposes.*"
+        }
+      }
+    }
+  }
+}

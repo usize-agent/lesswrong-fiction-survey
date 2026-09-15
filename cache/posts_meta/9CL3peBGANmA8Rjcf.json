@@ -1,0 +1,35 @@
+{
+  "_id": "9CL3peBGANmA8Rjcf",
+  "slug": "two-children-s-stories",
+  "title": "Two children's stories",
+  "postedAt": "2023-11-12T20:29:45.808Z",
+  "baseScore": 10,
+  "wordCount": 1990,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Optimization Process",
+    "slug": "optimization-process"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "P64rmDCvTBAehmkoi",
+      "name": "Filtered Evidence",
+      "slug": "filtered-evidence"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "P64rmDCvTBAehmkoi": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

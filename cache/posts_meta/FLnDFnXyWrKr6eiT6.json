@@ -1,0 +1,29 @@
+{
+  "_id": "FLnDFnXyWrKr6eiT6",
+  "slug": "reverse-psychology",
+  "title": "Reverse Psychology",
+  "postedAt": "2015-07-18T04:25:14.000Z",
+  "baseScore": 55,
+  "wordCount": 2112,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "gsv9XWbZDcnZmKuqM",
+      "name": "Psychiatry",
+      "slug": "psychiatry"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "gsv9XWbZDcnZmKuqM": 1
+  }
+}

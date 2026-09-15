@@ -1,0 +1,35 @@
+{
+  "_id": "Wt89KzBWPiHm6XkD7",
+  "slug": "positive-outcomes-under-an-unaligned-agi-takeover",
+  "title": "Positive outcomes under an unaligned AGI takeover",
+  "postedAt": "2022-05-12T07:45:37.074Z",
+  "baseScore": 19,
+  "wordCount": 754,
+  "commentCount": 10,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "YWzByWvtXunfrBu5b": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

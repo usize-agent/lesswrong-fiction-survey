@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "YbCRteKDxndX9td5R",
+        "title": "Intelligence, epistemics, and sanity, in three short parts",
+        "slug": "intelligence-epistemics-and-sanity-in-three-short-parts",
+        "pageUrl": "https://www.lesswrong.com/posts/YbCRteKDxndX9td5R/intelligence-epistemics-and-sanity-in-three-short-parts",
+        "postedAt": "2021-10-15T04:01:27.680Z",
+        "baseScore": 14,
+        "wordCount": 989,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "ozziegooen",
+          "slug": "ozziegooen"
+        },
+        "tags": [
+          {
+            "_id": "EdRnMXBRbY5JDf5df",
+            "name": "Epistemology",
+            "slug": "epistemology"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "FxNdAsrw8qvZkPaxN",
+            "name": "QURI",
+            "slug": "quri"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "EdRnMXBRbY5JDf5df": 2,
+          "FxNdAsrw8qvZkPaxN": 2,
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "*Epistemic status: Boggling. This is early, messy work.*\u00a0\n\n*Thanks to Edo Arad for comments and suggestions.*\n\nPart 1: A Brief Tale\n--------------------\n\nYou\u2019re exploring a vast land filled with forests and brush. You thrash your sword to carve out a path and make sense of things.\n\nThere are monsters. Lovecraftian winged monstrosities. Their attacks damage your sanity. When injured, you don\u2019t notice, but your mind will begin to wander. You begin seeing things that aren\u2019t real.\u00a0\n\nYou have a shield that protects you from the beasts. You have armor as well. They attack; you deflect. You hear a thud, a squeal, then light flapping sounds when they retreat. Occasionally you can even catch them with your sword but they move quickly.\n\n* * *\n\nYou return to the village. Your companions have returned too. Some of them aren\u2019t right. They\u2019re obsessed with bizarre imaginings of angels and gods. Some speak of finding ancient labyrinths in places you know are full of swamps.\n\nYour companions size each other up. Factions emerge. One cluster suggests that the monsters bring forward wisdom. The monsters should be brought directly into the village and released.\n\nThe pro-monster faction is visibly scratched up; they must have been wounded. They deny taking damage, that the marks on their bodies were extraneous. Some hallucinate wearing a great deal of armor, even though they are visibly unprotected. They do however possess large weapons (likely a trade-off from having light armor), so others are nervous about disagreeing.\n\nThe bulk of the crowd turns against this faction. Some attack back; a few people are harmed, but in the end, the faction loses. Some are thrown into jails, others delegated to the very safest of tasks. But this cycle will repeat. You might not be so lucky next time.\n\n* * *\n\nThe village learns to cope. There are vast regions of bush and thorn but no monsters. Soldiers with little armor are sent there. Some dual wield axes or use two-handed broadswords.\n\nOther areas have many monsters but plain land. This is where you send your fully plated knights. They\u2019ll move slowly but have the best chances of keeping their sanity.\n\nPart 2: An Explanation\n----------------------\n\nThe topic is intelligence, epistemics, and sanity.\n\nWeapons are raw intellect, cleverness, narrow technical abilities. These are powerful but dangerous.\u00a0\n\nShields and armor represent epistemics, wisdom, humility, calibration. Not believing false things. Not going functionally insane. Winning the intellectual war, though perhaps losing the battle.\n\nThe monsters are epistemic hazards that lead good people to believe bad things. See: [Politics is the Mind-Killer.](https://www.lesswrong.com/posts/9weLK2AJ9JEt2Tt8f/politics-is-the-mind-killer) Pure math is (relatively) safe.\\[1\\] Few people learn new math proofs and proceed to imagine ridiculous things about epistemology.\u00a0 But politics, social sciences, news, and religion, are quite treacherous. They\u2019re full of gradients that cause people to believe false things. These fields have incentives that encourage dramatic overconfidence and motivated reasoning.\n\n[Mein Kampf](https://en.wikipedia.org/wiki/Mein_Kampf) is a token example. For people with solid epistemics and who are otherwise well-read, reading Mein Kampf can be enlightening. It\u2019s necessary reading to deeply understand what exactly happened in Hitler\u2019s rise to power. But there are clearly other readers who would come away with exactly the wrong lessons, and wind up becoming sympathetic to Adolf Hitler. Mein Kampf represents dangerous territory to these people.\n\nTelevised news and social media news are both highly hazardous. People who learn from these sources and often become extremists of one form or another. We haven\u2019t found easy ways to give them the right defenses; to allow them to come from these resources as constantly more correct about the world, instead of less.\n\nIndividuals with powerful intellectual weapons but weak epistemics can be extremely dangerous. Consider all of the highly well-coordinated destruction caused by certain religious groups, or, on an individual level, vocal advocates of these groups.\n\nIndividuals with great epistemics but weak intellect are safe, but often not very useful. Think of soft-spoken people who are poor at arguing. It takes great effort to discern these folks and listen to them accordingly.\n\nIncreases in intellect can be dangerous. Increases in epistemics are occasionally so. If your enemies have improved epistemics, but still don\u2019t see your point of view, that could well be a bad thing. The scariest threat is a force with brutal intelligence and epistemics that are excellent except for one crucial detail.\n\nSanity in the tale is just that; sanity in real life. Perhaps we might not call crazed conspiracy theorists \\*insane\\*, but I hope we can admit they often have low \\*sanity\\*. At some point, fundamental incorrect beliefs infect a great deal of one\u2019s worldview and lifestyle. When you take epistemic damage, from epistemic hazards, you lose sanity. Losing sanity lessens your epistemics, sometimes leading to self-reinforcing cycles.\n\nPart 3: A Dungeons and Dragons Variant\n--------------------------------------\n\nAmelia has high intelligence, medium sanity, and medium epistemics.\n\nShe reads an epistemically dangerous article about Holocaust denialism. Her epistemic level is taken into account, and she must roll a 6-sided die.\n\n> 5-6: She understands false news better. +1 to epistemics.\n> \n> 4: She glances over it. No effect.\n> \n> 2-3: She\u2019s a tiny bit convinced. -1 to sanity.\n> \n> 1: She\u2019s deeply convinced. -3 to sanity, -1 to epistemics.\n\n*Amelia rolls a 2.*\n\nMuch later, Amelia is interested in writing a public blog post of her choosing. Her new intelligence, sanity, and epistemics are taken into account. A die is rolled.\n\n[Enlightened](https://en.wikipedia.org/wiki/Enlightened_self-interest) Utility Points are used as the victory points in this game. It\u2019s a concept similar to [CEV](https://www.lesswrong.com/tag/coherent-extrapolated-volition). It\u2019s meant to represent what Amelia would value if she were completely sane and intelligent.\n\n> 4-6: She writes it about a generally reasonable topic. +1 Enlightened Utility Point\n> \n> 2-3: She writes a post presenting some evidence for Holocaust denialism. -2 Enlightened Utility Points\n> \n> 1: She comes up with novel and effective arguments that will greatly help the Holocaust denialism side. -20 Enlightened Utility Points.\n\n*Amelia rolls a 4.*\u00a0\n\n\\-\\-\\-\\-\n\n\\[1\\] To be specific, pure math is mostly safe from epistemic hazards. However, I would classify it more as an intelligence field than an epistemics field. Organizations with poor sanity might use mathematical knowledge in harmful ways."
+        }
+      }
+    }
+  }
+}

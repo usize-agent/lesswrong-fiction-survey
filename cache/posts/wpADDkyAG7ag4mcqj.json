@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "wpADDkyAG7ag4mcqj",
+        "title": "Treat Examples as World-Building",
+        "slug": "treat-examples-as-world-building",
+        "pageUrl": "https://www.lesswrong.com/posts/wpADDkyAG7ag4mcqj/treat-examples-as-world-building",
+        "postedAt": "2022-03-10T15:09:44.302Z",
+        "baseScore": 19,
+        "wordCount": 473,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "adamShimi",
+          "slug": "adamshimi"
+        },
+        "tags": [
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "7mTviCYysGmLqiHai",
+            "name": "Writing (communication method)",
+            "slug": "writing-communication-method"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "7mTviCYysGmLqiHai": 2,
+          "pszEEb3ctztv3rozd": 2
+        },
+        "contents": {
+          "markdown": "Tl;dr: Examples in an essay work like world-building in a fantasy novel: too little of them and the idea/story lacks substance, too many and it's weighted down.\n\n[John](https://www.lesswrong.com/users/johnswentworth) keeps telling me to use more examples in my work and writing, and he's right: they enliven a post, give you a hook for free, and ensure that your idea is deep enough to appear at many different places. Going from \"without example\" to \"with example\" is always progress.\n\nYet I noticed myself overindulging in examples. When writing [my last post](https://www.lesswrong.com/posts/X7N96LvWQfrS4tjFz/scientific-wrestling-beyond-passive-hypothesis-testing), I structured a whole draft by presenting one cool example after another, and noting the implications for my general idea. But the examples are not the message! What I wanted to convey was the thesis, the core idea of the post, with examples as illustration and anchors. Instead, I found myself showing off my extensive research one example at a time.\n\nThat's when it hit me: I was info-dumping.\n\nThe image that came to my mind was a fantasy author so in love with his world-building that he takes every opportunity (and some more) to serenade you about the minutely crafted economic system or the elaborated (and linguistically coherent!) invented language.\n\nThe more I think about it, the more I like this metaphor. If I keep it in mind, I expect that my misuse of examples will be obvious, just like I notice info-dumping easily.\n\nHere's a couple of implications:\n\n*   Don't have too many examples. Just like too much info-dumping distracts from the story.\n    *   John told me once that three is a good number; I think that five is probably the maximum for a single post.\n*   Always have examples. A story without a world rarely captures a reader's attention.\n*   Only present the relevant examples or the relevant part of the examples, not all that you've studied. Info-dump isn't excused because you spent week building the world.\n*   Don't go into too much detail when describing the examples. Descriptions forever will annoy the reader.\n    *   As much detail as you need to get the point across, and nothing more. From time to time a bit of color or a really cool bit.\n*   Research your examples as much as you need, but not much further. Don't go into the deep hole of world-building and lose months fine-tuning your invented banking system if you have a single scene at the bank.\n    *   I think there are some examples that deserve a deep dive, but far fewer that you would expect.\n*   Use examples to rekindle the reader curiosity. Show the glory of the world when the story slows down.\n    *   Works well after (or before, depending on your style) an abstract point."
+        }
+      }
+    }
+  }
+}

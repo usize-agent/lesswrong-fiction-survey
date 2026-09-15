@@ -1,0 +1,23 @@
+{
+  "_id": "gpgMe4zsrT5gL6BcA",
+  "slug": "bayeswatch-4-mousetrap",
+  "title": "Bayeswatch 4: Mousetrap",
+  "postedAt": "2021-05-19T03:17:41.423Z",
+  "baseScore": 57,
+  "wordCount": 912,
+  "commentCount": 2,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

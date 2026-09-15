@@ -1,0 +1,35 @@
+{
+  "_id": "wHpchCq6gxJHHdfD5",
+  "slug": "already-optimized",
+  "title": "Already Optimized",
+  "postedAt": "2026-02-18T10:01:25.725Z",
+  "baseScore": 52,
+  "wordCount": 4290,
+  "commentCount": 14,
+  "user": {
+    "displayName": "Florian_Dietz",
+    "slug": "florian_dietz"
+  },
+  "tags": [
+    {
+      "_id": "6zBEfFYJxhSEcchbR",
+      "name": "AI Alignment Fieldbuilding",
+      "slug": "ai-alignment-fieldbuilding"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "6zBEfFYJxhSEcchbR": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

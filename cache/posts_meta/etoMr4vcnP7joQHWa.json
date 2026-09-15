@@ -1,0 +1,29 @@
+{
+  "_id": "etoMr4vcnP7joQHWa",
+  "slug": "notes-from-a-prompt-factory",
+  "title": "Notes from a Prompt Factory",
+  "postedAt": "2024-03-10T05:13:39.384Z",
+  "baseScore": 114,
+  "wordCount": 2673,
+  "commentCount": 19,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 3
+  }
+}

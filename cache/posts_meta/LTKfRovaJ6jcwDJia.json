@@ -1,0 +1,23 @@
+{
+  "_id": "LTKfRovaJ6jcwDJia",
+  "slug": "customer-satisfaction-opportunities-1",
+  "title": "Customer Satisfaction Opportunities",
+  "postedAt": "2026-03-16T15:04:09.386Z",
+  "baseScore": 155,
+  "wordCount": 3780,
+  "commentCount": 17,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

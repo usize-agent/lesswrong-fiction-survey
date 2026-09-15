@@ -1,0 +1,23 @@
+{
+  "_id": "SBr6BmKEGawEpxauZ",
+  "slug": "the-salmon-of-knowledge",
+  "title": "The Salmon of Knowledge",
+  "postedAt": "2018-03-18T03:45:42.569Z",
+  "baseScore": 11,
+  "wordCount": 2003,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Conor White-Sullivan",
+    "slug": "conor-white-sullivan"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

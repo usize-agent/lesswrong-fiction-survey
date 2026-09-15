@@ -1,0 +1,29 @@
+{
+  "_id": "mvyd7N2M8HskBB2EL",
+  "slug": "a-good-future-rough-draft",
+  "title": "A Good Future (rough draft)",
+  "postedAt": "2022-10-24T20:45:45.029Z",
+  "baseScore": 10,
+  "wordCount": 1025,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Michael Soareverix",
+    "slug": "michael-soareverix"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "xexCWMyds6QLWognu": 1
+  }
+}

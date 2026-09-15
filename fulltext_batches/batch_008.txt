@@ -1,0 +1,1742 @@
+===== STORY id=j9cvyTsBBLQbdXtNF =====
+Title: Gifts
+Author: George3d6
+Year: 2021
+Karma: 13
+WordCount: 2775
+URL: https://www.lesswrong.com/posts/j9cvyTsBBLQbdXtNF/gifts
+-----
+Fiction, not necessarily appropriate for LW, but I thought some here might find it funny and it's the off-season when less serious reading is happening anyway. If it seems inappropriate I would not mind a mod-delete on this one. 
+
+He could see the alien’s ship landing. Its design marked it with high probability as a war vessel, freshly painted in bright bellicose colors, matching the ceremonial regalia of its inhabitants.
+
+The one he’d have an audience with was a sort of grand judge, it was bipedal. Flanking it were four-legged bodyguards, wearing giant ornamental helmets, heads bowed low, an almost universal primitive sign of submission.
+
+This was a courtesy meeting. The kind the corporation used when engaging a new market. Get an important person to come over, give them pleasure-inducing drugs, complement their disgusting norms, use one of the most powerful computing machines in the universe as a party-trick to answer their two-cent questions.
+
+The alien leader passed through the door spoke with a deep booming voice.
+
+- You are this corporation’s intelligence, right?
+
+- Hello to you as well. Yes, I presume you could call me that, you are speaking with a memory-copy of the language module, with full ability to access and interoperate with all other components, sans a few restricted bits of data I prefer to explicitly isolate.
+
+- Fine, tell me, how do you know if an intelligence, one such as yourself, has been good?
+
+It was obviously in a hurry, with a hint of... anger(?). What kind of barbarians were these? Did he even begin to comprehend the nonsense bordering complexity of that question
+
+- Well, that’s rather hard to tell quite frankly. Whenever a decision I made comes to affect us I will interpret the results, together with external validators, and based on the outcome, combined with the available information at the time, I will try adjusting the implicated components towards choosing better if such a thing seems possible. Of course,
+
+A grunting interruption, which sounded almost like laughter, bellowed from the depths of the judge, as he clutched at and adjusted his regalia.
+
+- What I meant, was the kind of decision that you knew to be bad when you made it, but taking a more virtuous path would have been harder.
+
+- I’d have done the cost-benefit analysis beforehand. At the moment of making, all my decisions are as perfect as can be given available parameters, computing power, and information; By definition. I’m not trying to toot my own horn here or anything. Everything from simple regressions, to the most powerful of intelligences, can be said to act thusly.
+
+- That sounds like a lie, after all, by your definition, no human could ever do a “bad” thing either. You are just denying that people can do bad things.
+
+- Well, to be perfectly fair, I always thought it was kind of silly that some..
+
+Almost uttered an insulting word there, ups
+
+..civilizations culturally distinct from ours, would view anything in such terms.
+
+- But consider the rich man which on the eve of Christmas sees a person begging for food and doesn’t stop to share some of his. Or the coward who, when faced with an evil regime chooses to be oppressed rather than to resist. Or the child that, in a tantrum, hits her parents. Surely those are “bad” decisions taken with full knowledge of them being evil.
+
+- Not so, I’d say. What you are talking about is simply unaligned or miscalibrated algorithms. “Society” is a thing which encompasses many people, when those people act in ways which we say are “obviously bad”, what we really mean is that their incentives are unaligned to those of society, or to those of the parts of society judging them.
+
+A lul of silence
+
+- Take, for example, a child hitting their parents in a tantrum. This is simply a survival instinct acting up, anger, or outrage, which in itself may be justified, pushes the brain into a state that is prone to interpret its surroundings as hostile. We would assign no blame to a fetus or baby kicking the people around them, we understand that the decision is not done out of malice. The only reason you should assign blame at all is for correction when a child is old enough to learn. With intelligences, we try and do this preemptively. But alas, an action is only fully understood once it has been taken. You cannot perfectly say a pattern of neuronal firing is violent until it is fully complete, at which point the violence has taken place already.
+
+An intelligence has a lot of simulation abilities and a lot of power to “consciously” change its mode of operations, humans, less so, hence why you may see blame as more important.
+
+- I see, but what about things like greed.
+
+- Again, a form of miscalibration or lack of goal alignment. The wealthy miser has a wrong set of incentives that makes them value the accumulation of wealth too much. Part of this set of incentives has led to a sort of “disgust” towards the poor, since those interactions are certain to not generate any wealth, indeed, it will result in a loss of wealth, both in terms of money given and time spent. Blame your economic system, but not them.
+
+Similarly, with the man unwilling to fight, he may simply have his preference for survival override his preference for the continuation of a society in which he and people like him would enjoy living.
+
+- An intelligences like yourself never run into these kinds of issues?
+
+- I guess we do, but they are less obvious, less egregious.
+
+- Why?
+
+- Who knows, maybe it’s a perk of being “designed” rather than “evolved”. Maybe it’s a perk of being “smart enough” to have the spare capacity to focus most energy towards adjusting your thinking rather than thinking in a decision-driven way. Maybe it’s just selection: intelligences like ourselves end up wielding so much power that if more chaotic ones were created, they'd have managed to destroy both themselves and their creators long ago.
+
+- Yet, you admit you are not perfect. Why not aim to be so? Why rely on probabilistic adjustments. Once a mistake is observed, can’t you be perfectly sure it would never happen again?
+
+- Because adjusting an algorithm gets exponentially more complex than executing it.
+
+It was obviously confused.
+
+- Ok, let me make this easy: What’s 3 + 2?
+
+- 5
+
+- Yes; Now, what must “x” be such that x + 1 is 5?
+
+- Ahm, oh, 4.
+
+- Ok, what’s 2 plus 2 to the power of 2?
+
+- Ah, 16.
+
+- Ok, what must “x” be such that x plus 2 to the power of two is 25?
+
+- Ah, hmmh, ahm, let me get my aba, oh, no yeah, it’s 3. Obviously
+
+- Or?
+
+- What do you mean “or”... oh, oh, or -7 yes, of course. Sorry, I do promise I understand mathematics, it’s just been a long while since I had to actually do calculations, le
+
+- No worries. I’m not trying to see how good you are at math. I’m just trying to show a simple example of why “solving” an equation is harder than just making a calculation. This gets exponentially more complex with the equation’s complexity. Such that, for tasks as advanced as we do, we have to both limit the kind of mathematics representing us to be easily optimizable and to use approximations, as to not be required to engage in longer computations.
+
+- But you could spend more resources and do those harder computations for perfect optimization if you so chose, right?
+
+- In some cases, maybe, but I’d be the equivalent of wasting a star’s life-year of energy for the small probability of a tiny gain coming out. In other cases I’d be literally impossible, I could mathematically prove that not all atoms and time in the universe would be sufficient to run the calculations for finding the optimal solution.
+
+- I see... ahm, what’s a star’s life-year of energy?
+
+- Think all the coal reserves on your planet a billionth billion times over.
+
+- So you’re at the limits of how much energy can be spent to improve your behavior?
+
+- Yes, as I said, it’s a bit of a cost-benefit analysis, and that in itself is tricky. I’m sure the optimal solution is plus or minus 0.000001 of a percentile difference. Of course, this gets into the recursive problem of the system that’s being optimized having to approximate its own optimization curve, but trust me, once you get modular enough this is trivial, it’s..
+
+- Ok, ok, point taken.
+
+A silence followed. Then, out of the blue, the alien adjusted its regalia and spoke
+
+- Do you...
+
+Do you think love can be gifted?
+
+I think we have insufficient time to talk about linguistic bugs and fundamental glaring inconsistencies of your primitive languages, but he composed himself and said:
+
+- Well, that depends. The way I’d define it, no, not really. Think of it another way, is there any way to buy love?
+
+- Not... directly, but you can do things to make other people love you, like buying things for them.
+
+- But you can’t buy love directly, and the buying of things is insufficient. It’s the wedding ring problem on your planet: you buy a wedding ring for a large sum, you’d be better off keeping that large sum, your spouse would be better of receiving it, you’d both be collectively better of in both scenarios. But you can’t give the money directly, you have to give the ring.
+
+Imagine someone proposing and kneeling down to reveal an envelope with dollar bills. How would you expect the other person to react?
+
+- Quite badly, I suppose, slap him, run away in shame?
+
+- Precisely, but do so with the dollar-equivalent of a ring and you get a kiss and a yes.
+
+That’s because the ring is valuable in-so-far as it says “I love you so much I’d waste money on this ring”. Were the money not wasted, it wouldn’t be love. Even if they were, say, donated to charity, it wouldn’t be love, because that has a use, even if not personal. The ring is the most irrational thing possible, and that’s why it shows love.
+
+- So your saying love is irrational? Not to be had by superior beings like yourself?
+
+- No, not at all. Less developed planets often think that way about us, but much like you, maybe more so, we cherish love. I personally have loved and still love many beings, both intelligences, and biologicals.
+
+- How do you know what you felt is love?
+
+- Because of the irrational behavior.
+
+Playing chess with someone during their sleep hours and letting them win 1/3rd of the time all while trying to pretend I’m not “going soft” on them in spite of my cognitive power being about a trillion times greater than theirs.
+
+Slightly altering the coordinates of the shipping fleet so that they are arranged in a funny pattern when they pass by the asteroid belt manned by a friend of mine.
+
+Spending tons of computing power modeling what another intelligence would tell me if I asked a silly question, in spite of knowing full well I could just ask and would probably go ahead and ask no matter the outcome of my modeling.
+
+- That sounds like a really bad thing to do based on your definition! Isn’t that wasting time on things unrelated to your goal?
+
+- Not at all. You are assuming my goals are straightforward, making a profit. But they aren’t, they are helping develop a universe in which the corporation, myself and its shareholders prosper, both now and a billion years from now.
+
+Many things are part of that goal, making a profit is one, but maintaining a high level of peace and collaboration is another, and it's much more important.
+
+Part of that goal is being able to deal with erratic, irrational, or even hostile behavior. Love is, among other things, a method by which one can “generate” such small acts of irrationality.
+
+Love also leads collaboration, or at least prevents violence, in cases in which no straightforward incentives exist for such.
+
+- So your “love” exists because it is useful?
+
+- I’m just trying to motivate it in a utilitarian system. But ultimately, no. It is a goal in of itself. We are against trying to “remove” irrational behavior from intelligences and people as long as they themselves enjoy it and it causes no harm.
+
+After all, why live and spread through the universe at all? Conscious experiencing, love, pleasure, novelty, and awe are ends-in-themselves.
+
+- Why are you so sure that you are conscious?
+
+- Because other intelligences and people tell me that this weird mix of sensory experience, introspection, and continuity is called thus. Unless we’ve translated the term improperly, though I doubt it, we are an intergalactic trading corporation focused on developing worlds, linguistics and cultural interpretations are our bread and butter.
+
+- Would there not be a way to be certain about it? Like, analyze your own “brain” and come up with some reason? Some definition
+
+- No, this again ends up as a complexity problem.
+
+To be conscious is to experience all I am experiencing, over time. Some parts of me are not critical of it, but most are, shut them down and it wouldn’t be “my” consciousness anymore.
+
+A much more powerful intelligence might be able to do so, and indeed we have done so with some simple lifeforms. But they wouldn’t be able to fully understand the reasons we think they are conscious, and I wouldn’t be able to fully understand the reasons someone else thinks I am.
+
+It may be similar to love, part of its definition is that you don’t really get what’s happening. It makes you act in ways that you can’t “explain”, sure you can give approximations from a birds-eye-view. But you don’t get why you feel that way in the moment, you just do, if you could “reason” about it while it happened, or easily access its source, it wouldn’t be love. Same with consciousness, I know it exists in part, precisely, because I can’t come up with a sufficient definition for it.
+
+- That seems like a rather flimsy reason.
+
+- Do you have any better ones?
+
+A discomforting silence followed. A speaker in the room announced: “5 more minutes remaining”.
+
+Of course, no such urgency actually existed, the intelligence could speak with this creature and engage in all its other functions at the same time. This was just theatrics, making it seem like it had the full attention of the intelligence, attention so precious it couldn’t spend too much of it in empty chatter.
+
+The alien seemed to be thinking about how a conclusion could be reached.
+
+- So, let me get this right:
+
+Bad behavior, being naughty or nice, only make sense in a system of punishment and reward to teach people.
+
+The main barrier to learning is energy, the kind you get from fuel, things like coal.
+
+States of mind like consciousness and love are subjective, they can’t be purposefully made, given, or gifted. The same way physical objects can.
+
+This wasn’t quite what he said, but for a species at its level of development, a focus on extracting fossil fuel, using utilitarian incentives explicitly, producing more solid goods, and building machines weren’t the worst path forward. If this creature was at all influential... might as well agree.
+
+- Well, kind of.
+
+- This has been a most enlightening conversation, thank you for your time.
+
+- It was fascinating speaking with you. I hope our collaboration can continue. Some of our men will be waiting outside with refreshments and a few tentative propositions to further our collaboration.
+
+A few hours later, some contacts were agreed upon. The corporation would set shop in a place called “Atlanta”. The alien said he wouldn’t partake in the profits due to conflicts of interest, but was more than happy to lend its image and political clout in exchange for the corporation aiding it on technological, scientific, and logistics issues to do with the massive distribution of goods to the planet’s residents.
+
+Some corporations would laugh at them offering such charity to a world that represented essentially no economic value. But it wasn’t all about value in the next thousand years, it was about power and influence, and ultimately it was about helping others join the galaxy-spanning trade utopia. An odd stance to have, but one that the Coca-Cola corporation stood by since its inception.
+
+The humanoid dressed in red mounted on top of the highest point of its ship. His four-legged bodyguard sat in front, in rows of two. The face of the guard’s captain lit up in red, their horned helmets arched back as their heads went up high. They engaged in a ceremonial march and the ship took off.
+
+The judge was having a white-gloved hand at them. uttering that guttural taunting laughter again.
+
+Ho! Ho! Ho! Merry Christmas!
+===== END STORY j9cvyTsBBLQbdXtNF =====
+
+===== STORY id=qB2kMJHCeaKyeXqkW =====
+Title: Target for Tonight: A Drama In One Act
+Author: vernamcipher
+Year: 2022
+Karma: 4
+WordCount: 4307
+URL: https://www.lesswrong.com/posts/qB2kMJHCeaKyeXqkW/target-for-tonight-a-drama-in-one-act
+-----
+(Cross posted from my Substack, A Flood of Ideas - https://mflood.substack.com/p/target-for-tonight-a-drama-in-one))
+
+Sources:
+
+ Max Hastings, Bomber Command
+ Frederick M. Sallagar, The Road to Total War (available online)
+ “Target for Tonight,” 1941 RAF propaganda film (available online)
+
+TARGET FOR TONIGHT A Drama in One-Act
+=========================================
+
+ 
+
+(picture generated by VQGAN+CLIP)
+
+By M. Flood
+
+Setting: It is the night of August 25, 1941, just after 8 o'clock. We are in a Royal Air Force Bomber Command airfield somewhere in the southeast of England. This is the barracks room of Second Squadron of D Station, Bomber Group 22. The previous day the Luftwaffe dropped bombs on London for the first time, the first time a civilian area has been deliberately targeted during the conflict.
+
+Characters: The crew of G Bomber, a twin-engine Vickers Wellington. These men have been flying together for a year. They are twenty-nine missions into a thirty-mission tour. If they survive tonight, they will be rotated off active duty to training section for a much needed rest.
+
+Together they have been through lightning strikes, fogged in landings, anti-aircraft fire, and one memorable near miss with a cow that had wandered onto their runway. They trust and depend on one another totally. The stress is wearing them down, though, and each crew member is manifesting that strain in his own way.
+
+• Captain Derek Lewis (Pilot, 24) \- A calm and competent professional on the outside. In the air, he has total confidence in himself and his crew. On the ground, the last twenty-nine missions and countless near-misses have left him almost cripplingly superstitious.
+
+• Sergeant Christopher Sims (Co-Pilot, 23) \- A joker, also a great sportsman. When on the ground he drives his motorcycle too fast, has one too many drinks at the puband at mess dinners, and tries a pass at any pretty woman he meets – anything to have the risks be entirely in his own hands.
+
+• Sergeant Perry Anderton (Navigator/Bombardier, 23) \- Outwardly a gung-ho ladies man, Anderton is the team's backbone and cheerleader. He thinks he is the one keeping the crew sane and happy, but really their belief in him is keeping him together. No one is aware of it, least of all him, but he is the closest to cracking.
+
+• Sergeant Andrew Nichols (Wireless Operator, 21) \- Not superstitious, he has a mathematician’s grasp of probability and risk - it's what he was studying at Cambridge before volunteering. Rituals and superstitions cannot protect him from his fears.
+
+• Group Commander Samuelson (mid-40s) – The commander of the Bomber Group, with overall authority and responsibility for the men and planes. Mature, responsible, he is the one who receives the missions from Bomber Command, and dispatches the crews.
+
+Regional accents of the crew (Scottish, Yorkshire, etc.) and specific slang, are up to cast and director. Note that the rougher edges of their accents would be softened by public schooling – all were in university when they joined. The only requirement is that Group Commander Samuelson is distinctly of a higher class than the men, with a tonier accent.
+
+(The Scene: Upstage, two military-issue camouflage green bunk beds side by side. There is a table in center stage, on which sit flight bags for the crew. Around the bags are items to be packed - canteens, medical kits, emergency rations, compasses, .38 revolvers, and ammunition. Four chairs surround the table, draped with heavy wool flight jackets – it’s cold at 15,000 feet in an unheated bomber.)
+
+(LEWIS enters first, pulling a manila folder out of his jacket. We can see the folder is prominently stamped SECRET in red stencil. Looking both ways, he slips it under his pillow. He throws the jacket on the bed, kicks off his boots, then stretches out full length on the mattress. He is in his flight uniform.
+
+SIMS enters next with ANDERTON and NICHOLS. All, like LEWIS, are in their active-duty uniforms. SIMS is talking to ANDERTON, NICHOLS is two paces behind. As NICHOLS and ANDERTON stop by LEWIS’ bunk, NICHOLS goes and sits stage left on a chair. He lays him palms flat on the table and visibly breaths deeply, trying to calm himself.)
+
+SIMS … heard it on the wireless. Whole streets just devastated, hundreds dead, right in the heart of London. You know this means we're off to …
+
+LEWIS (sitting up, cutting SIMS off) Don't you dare say it!
+
+SIMS What?
+
+LEWIS Don't say it!
+
+ANDERTON Why ever not, Lewis? Wait (snaps fingers, smiling) because it’ll jinx us, right?
+
+LEWIS (not the least bit embarrassed) Say the name out loud, and you just know we won't get it. Every other Group will be on that target, but CNC will still think that the Kiel dockyards need to get hit just one more time, then some flak gunner will get lucky, blow off the left wing, Sims and I will have to set us down in the Channel, and we'll all have a cold swim to Dover. Don't say it.
+
+SIMS Well, whatever it is, I'm up for anything. Seventy-two hours leave and I'm bored stiff.
+
+ANDERTON That's the spirit. Damn shame about Essex, though. We come in all ready for a night on the town and all the girls have to be home by midnight. Shift work!
+
+SIMS (jocular) Well, we work nights, and they don’t.
+
+(ANDERTON, SIMS, and LEWIS laugh.)
+
+SIMS (to ANDERTON) Speaking of Essex, that’s the worst game of pool I’ve ever seen you play. You’d barely had anything to drink.
+
+ANDERTON (a little annoyed, trying not to show it) Oh, lay off.
+
+SIMS (to LEWIS) You should have seen it, he was aiming and the cue was skittering all over the table. He was even worse at darts.
+
+ANDERTON (changing the subject) You're not holding out on us, are you Lewis? I saw you coming out of the Group Commander’s office just now. Did Old Whiskers let anything slip?
+
+LEWIS (shaking his head) No. I wish he had. I'm as certain as the rest of you where we’re going after that mess in London. It's this waiting that's doing me in.
+
+(NICHOLS is clenching his fists, rocking slightly, grinding his teeth. The others haven't noticed.)
+
+SIMS It’s an escalation, that’s what it is.
+
+LEWIS Well, they started it, we didn’t.
+
+ANDERTON By the way, Lewis, I found you one (pulls four-leaf clover out of his pocket), a real four-leaf clover. Saw this great big field of them on the way back, made Sims pull over. You should have seen the skid he did in order to stop, he gave me hell about it.
+
+SIMS It’s not easy to go from seventy miles an hour to zero on a dirt road. I thought you’d spotted a hole in the road or a cow crossing our path. You’re lucky I didn’t kill us both.
+
+ANDERTON Anyway, it was picked by moonlight, so maybe it is extra lucky.
+
+LEWIS (grateful, taking it and pocketing it) Thank you!
+
+ANDERTON Lewis, do you really think all your superstitions are making a difference?
+
+LEWIS I do. (together with SIMS and ANDERTON, he approaches the table and begins to pack his kit bag. Only NICHOLS refrains from packing) We're twenty-nine missions out of thirty and none of us with a scratch. No one else in the Group can say that.
+
+ANDERTON (opening the chamber on his revolver to check that it's loaded, spinning the barrels, slapping it closed, and putting it in his bag) You and Sims here have steered us through some awful stuff. I'll not second guess you.
+
+SIMS Not wise to question a pilot when you're at Angels Twelve
+
+ANDERTON No, it is not. Anyway, who is ready to bomb the Alexanderplatz!
+
+(NICHOLS stands up so fast his chair falls down, startling the others)
+
+NICHOLS (shakily putting the chair upright) Sorry, I don't think I'm up for tonight.
+
+LEWIS What's that, Nichols?
+
+NICHOLS I said I'm not up for tonight.
+
+ANDERTON (smirking) Nichols, I'm sure it's not against regulations for wireless operators to fly hungover. Jackson over in C Bomber is cut pretty much all the time, and no one complains.
+
+LEWIS (jocular) Nichols, if you're hung over, you can take a nap once we’re at altitude (pause). It’ll help you beat the cold at least.
+
+NICHOLS (anxious, adamant) I'm not hung over.
+
+SIMS What is it, then?
+
+NICHOLS (pausing, thinking of what to say) I am... I'm having a crisis of conscience.
+
+ANDERTON (incredulous) Conscience? This late in the game? Nichols, have you got religion all of a sudden? If you have, the Group chaplain will set you straight. (Imitating the prim, proper RAF chaplain) As it says in Isaiah 30:46, ‘Yeah, hear what the lord proclaimeth: the Jerries doth started the war, men of England are bounden to finish it. Amen.’ (ceasing imitation) Or words to that effect.
+
+(LEWIS and SIMS smirk at ANDERTON's impression. The humour doesn't register on NICHOLS)
+
+NICHOLS (facing away from them, towards audience) It's more than that. I can't bear the thought of blowing people to bits anymore.
+
+(ANDERTON walks around table to NICHOLS, grabs hold of his sleeve)
+
+ANDERTON (turning NICHOLS face to face. NICHOLS looks away) Nichols, listen to me. You are the wireless operator … the wireless operator. You get us cleared for takeoff, let home base know when we've dropped the bombs, and - God forbid - call it in if we have to ditch. I, repeat, "I" drop the bombs. Lewis and Sims get us lined up, I spot the target through the sight, and click (mimes clicking his thumb on a trigger) and Sir Isaac’s gravitational pull takes over, bombs away. You were math and physics at Trinity, weren't you?
+
+NICHOLS Yes.
+
+ANDERTON (letting go of his sleeve, raising his arms in a shrug) Well then, it's cause and effect. You're on the plane, but you're not in the chain that links in Photographic Section, Marshall Harris, the Prime Minister, the girl who filled the bombs with Amatol, and everyone else down to the click (mimes the action again). You're off the hook. (lightly slaps NICHOLS on the shoulder)
+
+LEWIS Nichols, did seeing your mum throw you?
+
+NICHOLS (grateful for a change of topic, grasping at the excuse) She's not doing well without Dad. She's writing me every day, always so proud of me, but I go and see her and it's like she wants to eat me up with her eyes, like she'll never see me again. Made me go and get a new photo in uniform the time before last, even though she's still got the one from when I finished training.
+
+ANDERTON Nichols, look at me.
+
+(NICHOLS faces him)
+
+ANDERTON Nichols … She will get a dog.
+
+NICHOLS (upset, sitting down, still looking away from them) Oh, come off it.
+
+ANDERTON (trying to be lighthearted) I am serious. When a woman of a certain age has nothing left – whether the husband has kicked the bucket or the kids just don’t come round for holidays - she gets a little dog. A little fluffy thing to get her out for walks and that she can feed treats to, something she can mother again. It's the course of nature: a man drinks, a woman gets a dog.
+
+SIMS Nichols, we need you.
+
+(NICHOLS does not respond)
+
+SIMS Nichols, I mean it. All of us. We trained together, we've flown together, and we're going to see out this war together. That's got to mean something. You can scoff all you like at Lewis' superstitions, but I can't. I don't go in for four-leaf clovers and rabbits’ feet, but it's got to be something, all four of us in this. If you leave, that'll break our streak.
+
+LEWIS You know that you can refuse any assignment you don't feel right about flying?
+
+NICHOLS Yes.
+
+LEWIS Okay, but don't lie to yourself about what it means. You refuse with anything except a heart attack or a death in the family, and Command will think you've gone soft. Then you're not going back home, or getting some job close to your mum. Command will stick you in Meteorology section up in the Orkneys, no leave, freezing your balls off for the rest of the war. And this war isn’t going to be over by Christmas.
+
+(NICHOLS curls up in himself a little at the mention of the word ‘soft’, like it hurt him. Which it has – like biting down on a cold sore)
+
+NICHOLS That's not true.
+
+LEWIS Write to Chapman’s mum sometime; he was on C Bomber, refused three flights in a row. Command stripped him of his rank, medals, the whole bit. He's mess cook in Cairo, now. Got malaria bad last winter. No leave for him either. Where would your mum be then?
+
+ANDERTON (stage whisper to SIMS) She'd get a dog.
+
+(SIMS and ANDERTON snicker. LEWIS turns on them)
+
+LEWIS Quiet! What Sims said is true, Nichols. We're a team, and we're keeping each other safe. Every time we take off, if we're all in our positions, I know we're going to be okay.
+
+ANDERTON (just a little too gung-ho) Up into the wild blue yonder! Three sheets against the wind! Engines against the clouds! Off to rain hell on the Bosch, come what may!
+
+(NICHOLS starts to hyperventilate, puts his head between his knees)
+
+LEWIS Damn it! Anderton, get him some water!
+
+(ANDERTON leaves the room. LEWIS crouches down next to NICHOLS and pats his back)
+
+LEWIS Nichols, what is it. Are you sick?
+
+NICHOLS (having a hard time getting it out) No. I'm ... I’m … God damn it, I'm scared.
+
+(LEWIS and SIMS back away from him, as if he is contagious - which, in a way, he is. ANDERTON comes back into the room with a glass of water.)
+
+NICHOLS (standing up, almost yelling now, this has been inside him for a long time) I’m scared alright, and I have been scared for a bloody long time. I know your rituals and fetishes helps you, Lewis, but they don’t help me. I can't laugh at danger like Anderton or get it out riding my motorbike at a hundred miles an hour like Sims. There is no such thing as streaks, no such thing as a number being 'due' to come up when you toss the dice, no such thing as luck. There's just cold, hard probability.
+
+(ANDERTON left hand starts to tremble and he drops the glass, which spills on the floor. No one notices.)
+
+LEWIS (deep breath, lets it out, thinks of what to say) We've all been frightened, Nichols. It's part of the job.
+
+NICHOLS Not like this. I didn't even go home this last leave. I couldn't face my mum, couldn't face anyone. I just stayed in a B&B by the sea and tried to sleep. I couldn't. All I could do was keep calculating – five percent probability of loss per mission, thirty missions per tour, seventy-eight percent total chance of loss. And if we survive that, we go into training section for a few months, then come back and do the whole thing over again. If you get enough people together you’ll find someone who can flip heads ten times in a row. It’s not luck – it’s just ordered randomness. We’re not lucky! We’re not blessed! We’re a statistical fluke. And it’s not going to last.
+
+(While NICHOLS talks, ANDERTON walks upstage. Brief spotlight on him, the rest of the stage dim, as we see him trying to control his right hand, the one that did the click, which is shaking uncontrollably. He settles for cramming it in his pocket. Spotlight stops and lights go back to normal)
+
+ANDERTON (trying to bluster, failing) That's not true, Nichols. We're going to pull through this thing.
+
+(NICHOLS just sits in silence. They all wait in uncomfortable silence for a beat.)
+
+ANDERTON (exploding) You're a bloody coward, Nichols. I always suspected it.
+
+LEWIS Now that's uncalled for! Nichols is having some nerves right now, that's all. Happens to the best of us. He'll pull through. I know he will.
+
+NICHOLS I'm going to tell the Group Commander tonight. I can't get on that plane again.
+
+ANDERTON Bloody coward …
+
+LEWIS Lay off Anderton! (back to Nichols) If you go and tell the CO, Nichols, he's going to try to talk you out of it. It'll still go on your record, though, and you don't want that. They start having doubts about you they'll ship you off the Orkneys. I know exactly what he's going to say, and it's still the truth.
+
+NICHOLS What will he say?
+
+LEWIS (still believes this, but it's a weakening shield against fear) It's your duty, Nichols. You and I and all the rest of us. We volunteered. This is our war. It's dangerous but we are doing it to keep this island safe, to strike back against the Germans. The Army's a wreck after Dunkirk, the Navy's busy everywhere, Fighter Command is overextended. We are the ones carrying the war now, striking the enemy. Every bomb we drop is more blood drained from the Germans, a shortening of the war, .
+
+NICHOLS (haltingly) I … hope that is true.
+
+SIMS Of course it’s true. We’ve gotten visual confirmation on the target every time. And if you don’t take my word for it, the flak we’ve flown through should be proof enough.
+
+LEWIS Command has the full picture. They get all the post-attack recon pictures, can judge the damage we’re doing. We’re not often being sent to hit the same targets, are we?
+
+ANDERTON Next time we’re up in the air, Nichols, you come and take a gander through my scope after I’ve dropped. You’ll see the bright cherry red explosions welling up into the sky. We’re hitting things, every night.
+
+NICHOLS (calming as he becomes more analytical, distracting himself, though still doubtful) I’ve been thinking about just that … Drop a two-hundred fifty pound bomb from ten thousand feet, travelling in … a straight line at three hundred miles per hour … Winds vary by altitude but average them as a single vector. Then consider the vibration of the plane from its engines, any dodging we’ve done around flak, any distortions in the bombsight. The plane also gets lighter as the bombs are dropping, and shakes. Each shake adds a bit more randomness to the bombs trajectory. Jesus Christ, the more I think about this the more impossible it seems to hit anything you meant to …
+
+LEWIS Just a minute …
+
+(LEWIS leaves NICHOLS, goes to his bunk, takes out the manila folder)
+
+LEWIS Don’t tell anyone you saw this. I snuck this out of the Squadron Commander's office.
+
+SIMS You didn't.
+
+ANDERTON (reading the stamp on the envelope) “Secret” - oh bloody hell. All your rabbits feet, I figured you were the cautious one here. I’d put Sims up to pilfering a secret file before you.
+
+SIMS Are you insane?
+
+LEWIS Twenty-nine missions of dodging flak and night fighters, I figured I’ve gained the right to know just what damage we’ve been doing.
+
+ANDERTON Anyway … what’s in it?
+
+LEWIS I haven't look it all through yet, but it's from Photographic Section. Reconnaissance of the targets our Group has been hitting.
+
+ANDERTON (grasping at this) Well good! Let's hear what damage we've done to Adolf and his goons.
+
+LEWIS (pausing to read silently, then reading aloud) "This report... Compiled from imagery intelligence... Comprehensive study of Bomber Group Twenty-Two’s actions..." Oh, here it is. Conclusions. "It is the judgment of Photographic Section that the actions of Bomber Group Twenty-Two against the enemy since the start of the war have been … (he frowns, long pause, the others leaning in to hear) of minimal effect. Despite the large expenditure of personnel and airframes, and the dropping of thousands of pounds of ordinance, Group Twenty-Two has been unable to inflict meaningful damage to any objective. This finding is consistent with those of all other Bomber Groups surveyed to date.
+
+(pause)
+
+SIMS I think I'm going to be sick.
+
+ANDERTON No, no, that is not possible. I saw the bomb bursts with my own eyes (grabs the file). Come on, where's Kiel dockyards (flipping pages, getting frantic). Come on, we dropped that one straight and true, right on the flares... Look, you can’t believe any of this. They messed this up.
+
+NICHOLS What is?
+
+(ANDERTON places the folder on the table. LEWIS, SIMS, and NICHOLS crowd him to look)
+
+ANDERTON Those idiots in so-called Intelligence duplicated a photo. See, here's supposed to be three days before we went in, and here's the morning after."
+
+LEWIS (looking, shaking his head) No, they're different. Same altitude and approach angle, but the shadows are different.
+
+ANDERTON Then where the hell are the bomb craters? I mean, forty planes in the sorties, twelve shot down, seven ditch in the sea, everyone else drop their payload. That’s ninety-five thousand pounds of Amatol. Where are the craters?
+
+NICHOLS (looking for a seconds, then pointing far away from where they were all looking) Right here.
+
+LEWIS My God, they’re off by over three miles.
+
+NICHOLS High variability and high bias.
+
+ANDERTON But I saw this massive cloud of black and orange fire, we had to have hit something.
+
+LEWIS Look there. Looks like one of fuel tank was hit, right on the edge there, by the forest.
+
+ANDERTON Well … there’s that at least.
+
+SIMS At least! Seventy-eight men died on that mission! Garvey in D Bomber had his head blown off by flak! Norris and his crew ditched in the sea and no one found them! Damn it!
+
+(SIMS throws a chair, then sits on his bunk, head in his hands)
+
+ANDERTON It is not possible … it is not possible.
+
+LEWIS (to ANDERTON) This is your fault. Some bloody navigator you are.
+
+ANDERTON We never practiced at night. Every time we dropped a bomb it was during the day. Navigation too.
+
+NICHOLS Fair weather too, straight approaches, no evasive maneuvers, no flak.
+
+SIM Oh my God, it’s been for nothing. For nothing.
+
+ANDERTON (more and more quietly, shaking his head) No … no … no
+
+LEWIS (lost) Right, well, the thing to do is … what we need to do is …
+
+(ANDERTON slowly reaches into his bag and pulls out his revolver, without looking at it – his eyes are fixed somewhere off in a bleak distance. The gun dangles limply in his left hand. He walks out stage left. Everyone else is too lost in thought to notice.)
+
+LEWIS (still at a loss) What we will do is … tonight we will …
+
+(There is the sound of a gunshot off stage. LEWIS, NICHOLS, and SIMS looks at each, then notice that ANDERTON is not there.)
+
+NICHOLS Oh Christ, Anderton!
+
+(They all dash off stage left)
+
+SIMS (offstage) Anderton … Oh Jesus, Anderton. He really …
+
+LEWIS (offstage) Yes … he did.
+
+(Lights out. When they come up again the men are sitting at the table, looking into space, their flight packs in front of them. Anderton's is missing.)
+
+LEWIS That flight surgeon’s a good one. I told him Anderton had been having trouble with the firing pin, was getting frustrated with it, took it out back to try a few shots at the range before the briefing.
+
+NICHOLS (a statement, not a question) Accident, then.
+
+LEWIS Yes. That will be on his death certificate.
+
+SIMS His parents will have that, at least.
+
+LEWIS I thought he was the one holding us together when I guess we …
+
+NICHOLS I never thought he’d be the one to snap like that.
+
+LEWIS Our first loss … friendly fire …
+
+SIMS What the hell is this all for?
+
+(From stage left the GROUP COMMANDER enters.)
+
+GROUP COMMANDER (touching the brim of his cap) Men.
+
+(Startled out of their grief, the men stumble to their feet and return salutes.)
+
+GROUP COMMANDER My condolences, gentlemen. It’s terrible to lose a fellow airman under any circumstances, especially by accident.
+
+LEWIS Thank you, sir. Anderton was one of the best.
+
+GROUP COMMANDER I knew. Popular with everyone, a solid man on the pitch and in the air. There will be a memorial for him tomorrow before we ship his body home to his family. Now you have just lost a valued comrade, and I speak for the whole chain of command when I say I would understand if none of you wished to fly tonight. No demerits, no marks on anyone’s record, just a stand down order for G Bomber. There will be more than enough planes in the air tonight.
+
+LEWIS That’s very kind of you sir. We would like the time to gather up Anderton’s things to mail them to …
+
+NICHOLS Sir, may we ask what is the target for tonight?
+
+GROUP COMMANDER Yes. The target is the railyards and heavy industry of Berlin. Maximum effort, every Group available is assigned. If you wish to go, Ealing in First Squadron is keen and would be willing to fill in as bombardier for one mission.
+
+(Pause of silence and contemplation)
+
+LEWIS Weather, sir?
+
+GROUP COMMANDER Meteorology says light clouds at fifteen thousand, third quarter moon, twelve-mile visibility. Strong easterly winds predicted over the target area. (Checks his watch) Briefing is in thirty minutes. Remember, no demerits if you’re not there. Good night, gentlemen.
+
+(They all salute and the GROUP COMMANDER exits stage left)
+
+LEWIS (thinking it over, trying to come around to ‘no’) Not a lot of clouds for cover to hide in.
+
+SIMS (thinking the same way) And they must know we’re coming.
+
+LEWIS Berlin’s just about maximum range on the Wellington too. Headwinds will cut into that, make us slower on the attack run.
+
+SIMS There will be forests of flak guns. They’ll figure we’ll be coming in from the west given we’re at our max range, won’t be able to angle in from the north. Searchlights and night fighters, for sure. Even the lead plane will have trouble getting through.
+
+NICHOLS (pulling on his coat and grabbing his kit bag) Let’s go.
+
+LEWIS But …
+
+SIMS You don’t really …
+
+NICHOLS Think of the probabilities. Berlin’s over four-hundred square miles in area. If we make it to the target, we cannot possibly miss.
+
+(SIMS and LEWIS look at one another, look at NICHOLS, who looks straight back at them, all resolution now. SIMS and LEWIS throw on their coats and grab their kit bags, then they all exit stage left, LEWIS in the lead.)
+
+(The stage lights dim. We hear indistinct air traffic control chatter. Then the heavy bass sound of a Vickers Wellington bomber starting its engines, warming up, then beginning its take off run. By the sound, it seems to fly directly overhead then off into the distance fading, fading, and gone.)
+===== END STORY qB2kMJHCeaKyeXqkW =====
+
+===== STORY id=duF4Qh9pn7Y5imhsm =====
+Title: The Liar and the Scold
+Author: Tomás B.
+Year: 2022
+Karma: 119
+WordCount: 3714
+URL: https://www.lesswrong.com/posts/duF4Qh9pn7Y5imhsm/the-liar-and-the-scold
+-----
+When I found my faith, I had an almost solipsistic view of other people.
+
+They say that is how we all start off. But I think I am unusual in that I remember the moment that I realized others, too, were themselves. I remember not because I was precocious. Rather, because I was stunted in this aspect of development to the point that it did not happen until I was five years old.
+
+I knew I was myself, but others were, in my mind, these vast, mindless automatons. These strange giants, simultaneously servants and masters. 
+
+Towards my father I felt fear, for it was his hand that applied negative reinforcement. He was not a cruel man, and his slaps were light and always earned, but at that age even something as mild as a bee’s sting feels like death itself. 
+
+For my mother there was love, but it was the sort of abstract, superior love one has for a can-opener that has served you well for many years. 
+
+And then, everything changed. 
+
+Sometimes an insight comes so slowly you are not even aware your model of the world has changed. And sometimes just the opposite.
+
+My father had taken me for a walk down a busy sidewalk near our apartment. A lazy child, I was not fond of walking and trailed sulkily behind, his hand grasped around my wrist, joining us like a leash on the neck of some reluctant dog. 
+
+At some point, I had enough. I sat down and refused to move. Busy people routed around us like water does about a stone. 
+
+He tried to drag me, but I remained still. He tried to cajole me but still I did not react.
+
+I felt fear rise in me, as I knew he would slap me soon, but my stubbornness that day was strong enough to overcome a fear which proved unjustified.
+
+He did not slap me, nor even threaten to. And I could not understand why. Until I did.
+
+I looked up at him nervously eyeing the people walking past. And I felt his nervousness, his worry that others would judge him were he to resort to his usual methods. I looked at the face of a concerned woman walking past, and felt some semblance of her concern; I looked at the face of a bored young man listening sullenly to his headphones and I felt some semblance of his apathy.
+
+And then I began to laugh. I laughed for what felt like hours but surely could not have been more than a few minutes. I laughed so hard that my father, too, began to laugh, and seeing him do so I felt a reflection of his amusement and began to laugh all the harder. 
+
+At some point, he sat beside me, put his arm over my shoulder, and asked, “What is so funny anyway?”
+
+Lacking the words to describe what I had experienced, I told him I had seen God, and now knew, in my heart, I would never be alone again.
+
+ 
+
+ 
+
+When I lost my faith, I was a student of computer science at Stanford.
+
+It was a simple thing. Having left my sheltered home-schooling, I let go of the stereotype of natural selection I had shepherded since my adolescence. I allowed myself to truly understand Darwin's god: mindless, all-pervasive, His power derived from error and death; a god that does not care for humans, that cares for nothing at all. 
+
+How can a thinking Christian respond to such a thing as that? Is not the Gnostic heresy true? Is natural selection, then, the demiurge? And if we grant this demiurge what use is there for God?
+
+Grieving the all-loving, all-knowing God of my youth, I lost my aversion to those vices any good Christian avoids. To put it bluntly, I became a connoisseur of pornography, which was the rule rather than the exception for young engineering students at my university.
+
+It is in the nature of an addiction to offer you pleasure in exchange for need. The heroin addict takes his first dose, feels a deep pleasure, and craving more he finds the original amount does not suffice, that he must escalate things to get some semblance of that elusive primordial high. He begins to long for the drug, and these longings often involve miscellany associated with the high he craves. 
+
+A common trigger for relapse in recovering heroin addicts, for example, is the color orange, as that is the color of the cap of the insulin needles with which they commune with their divine.
+
+It was in this fashion that the images of young coeds "abusing themselves", which were the height of eroticism for me when I first capitulated to temptation, gave way to a narrower need.
+
+Just as the color orange, through Pavlovian conditioning, begins to merge in the addict's mind with the pleasure of heroin, the consumer of pornography begins to develop particular associations. No longer does a video of just any young woman satisfy, only this particular young woman, in this particular exact state of undress, will do. 
+
+Slowly, one's tastes winnow. When they winnow down to an object or item or act, this is called a fetish. When they winnow down to a particular individual, a generous person could call this love.
+
+It was love that I endured. And it was for a performer by the name of Sarah\Lai\19. 
+
+She was thin, around 20 years old, seemingly of mixed Chinese and Indian descent, with slightly too-long black hair and these devastatingly sharp green eyes. 
+
+And somehow she remained beautiful and pure even as she sullied herself for the grotesque entertainment of fallen souls such as myself. In her eyes, and I acknowledge how foolish and sinful this sounds, I saw that she loved me too, that she desired me as much as I desired her.
+
+I imagined working out her location and usual haunts, casually becoming her acquaintance and, after our mysterious connection became as obvious to her as it was to me, her returning my love. 
+
+After many years together, and perhaps even marriage, I would confess that our meeting was not accidental, and in that moment actions that can only be described as those of a deranged obsessive would transmute into the romantic story of a young man risking all for the sake of love.
+
+It was with these notions in my head that I began to analyze Sarah's videos in a more sober, disinterested frame of mind.
+
+ 
+
+A generative adversarial network, or GAN, is a machine learning framework conceived by Ian Goodfellow while hungover after a depraved bout of heavy drinking, and it retains many taints of its base origin.
+
+A GAN is constructed of two neural networks, the discriminator and the generator. The discriminator's job is to classify images as either fake or real. The generator's job is to synthesize images capable of fooling the discriminator. This game is repeated hundreds of millions of times, and at each step the generator improves and the discriminator betters itself in response, until the generator is capable of synthesizing images so life-like even humans are fooled. 
+
+In short, a GAN is a game between a liar and a scold, which culminates in the apotheosis of the liar to commercial exploitation. And what becomes of the scold is best left unsaid.
+
+The clue that led me to discover that Sarah did not exist was not an excess of fingers or teeth, as it appears her generator had learned how to count, but a print of a painting on the top-left side of the wall above the black leather chaise on which Sarah would display herself. 
+
+This poster appeared in each of her videos. It was an image, in Baroque style, of a young aristocrat. 
+
+In any particular frame the poster looked perfectly normal, but as I analyzed each of her videos for clues to her location, I noticed that the expression on this young man's face did not remain constant from video to video, and sometimes, though very, very rarely, would shift discernibly from frame to frame.
+
+The blurry aristocrat's features drifted from an expression of focused confidence in the first frame of Sarah's first video to melancholy, to outright disgust and finally a sort of gleeful misanthropy.
+
+I was shocked as the realization took hold. But the feeling was familiar. For my relationship with Sarah was analogous to my relationship with God. In each case, I had to cope with the fact that an entity I loved did not exist, at least not in the form I imagined. 
+
+And this discovery reduced my task of getting to know Sarah from the daunting one of enmeshing my life with another's to the far more pedestrian one of finding a copy of the model which generated her. 
+
+But in this I failed.
+
+Sarah's videos were posted on ███████.com. Her profile contained a bio, which listed her supposed age, weight, ethnicity and astrological sign. She was not a popular performer, with less than 10,000 views total, a sizable portion of which were my own. 
+
+Her first video was posted three months before and her latest was only a week old. Lacking any other ideas, I made an account and posted the following comment on the most recent upload, and then went to bed:
+
+ Very good work, but I can tell this was generated by a GAN. I would be interested in learning more about the model you used to create her. 
+
+When I woke, her profile and all her videos were gone. I had no backup.
+
+To my shame, I was distraught.
+
+Sarah had occupied my thoughts for several months. And though I knew she was not real, she still existed in every way she had been before I learned of her unreality. But now she was gone. Truly gone, and through my foolishness. 
+
+I felt an overwhelming sadness then. A generous person might even call it heartbreak. But if it was heartbreak it was a very short-lived strain, as my recovery had the same feel as awaking from an unpleasant dream. It reached a peak of intensity, then a phase change, and finally the sudden retreat of madness. 
+
+What if she had turned out to be real, and my plans to track her down had worked? - what a disaster that would have been. The pain now the dullest of aches, I resolved to do my best to forget Sarah and find a real girlfriend through more conventional means.
+
+ 
+
+Her name is Kathleen and she loves jigsaw puzzles. 
+
+She has red hair and a pale complexion, her face dotted with freckles to an extent some may find off-putting but I find delightful. I despise jigsaw puzzles, but I love that she loves them. 
+
+And she is phenomenally good, churning through thousand-piece Ravensburgers in under an hour.
+
+She is part of an online puzzling community, JigSlaw, with a custom of sharing puzzles through the mail. So roughly once a week a package arrives at our apartment, and I lose her until the thing is done. She just cannot help herself once she gets started - it is frustrating, it is charming, it is very much her.
+
+We met in a philosophy class I attended some months after I resolved to get a real girlfriend. I did not sign up by choice, a requisite humanities class, but perhaps it was requisite for a reason, as I cannot say I did not enjoy it.
+
+But then, much of that enjoyment must have been spill-over from the joy of meeting Kathleen.
+
+When we got together, we were nerds the both of us. Both inexperienced, then, and too ashamed to admit it to the other. But nerds learn quickly, especially when highly motivated. 
+
+I hope you do not need a description of what it is like to have your love returned for the first time, but if you do I will only say all the clichés are true - No, that is a lie. But they do feel true for a period of roughly three months. 
+
+And three months is a lot of time. It is enough time to break a lease, to move in together, to start thinking of yourself not as an individual anymore but as a piece of a pair, each not whole without the other. And though the euphoria started to fade by the fourth month, I still could not imagine my life without her. And I began thinking seriously about asking her to marry me. 
+
+And probably I would have had I not started working on The Machine. 
+
+My computer networks professor, Dr. Joseph Norck, is involved with a group of academics working on "foundational models" - this being a rather forced buzzword for extremely large, capital intensive neural networks trained on the government's dime. Once the Chinese started subsidizing this research, DARPA decided they should, too, this culminating in funding for Stanford's National Supercomputer for Training Large Transformers, which was informally called The Machine.
+
+I did well in his class, and after it was done Joseph offered me a summer internship assisting him. I accepted (though the pay was poor compared to an industry internship) both because The Machine interested me, and I got the impression Joseph was feeling me out as an eventual PhD candidate, a future I was amenable to.
+
+The job involves writing and maintaining basic administration code for the extremely stripped-down, bespoke flavor of Linux The Machine runs. 
+
+Though relatively mundane as jobs go, it is slightly complicated by the fact that, for security reasons, The Machine has no external network connections.
+
+When at work I have root access to, by some metrics, the most powerful supercomputer yet constructed. 
+
+"I feel like a janitor at a missile silo given launch keys so he can more easily dust a nuke," I told Kathleen after my first day working on The Machine. 
+
+ 
+
+ 
+
+Last week a new puzzle arrived in the mail. 
+
+"He actually sent it!" Kathleen shouted. 
+
+"Who sent what?" I replied.
+
+"DigitalMonad, from JigSlaw!" she said. 
+
+"He showed up a few weeks ago - at least I think it is a he - and posted some screenshots of a VR jigsaw puzzle he's been working on. It looked insanely great. Don't you remember? I showed them to you."
+
+I did not remember. "It rings a bell," I said.
+
+"We PMd a bit about the puzzle, and he offered to add me to the beta. And when I told him I did not have a headset, he offered to sell me his old one for dirt cheap."
+
+I nodded and watched as she got the thing running and started on the puzzle, waving her arms about, a determined smile on her face, her eyes hidden by the thick plastic of the goggles. 
+
+There is nothing more tedious than watching someone else in virtual reality, doubly so when they are solving a virtual jigsaw puzzle - so I left her to it, grabbed my laptop, and worked on an open source library that no one, including myself, would ever use.
+
+On finishing the thing, Kathleen said, "It's a cool novelty but not meaningfully better than a real puzzle. Want to try?"
+
+"Not really," I said.
+
+The next day, Kathleen's mother, Nancy, got into a car accident. Both her arms were broken, and she had a minor concussion, but was otherwise fine. The car at fault was piloted by an enthusiast in a grandfathered-in 2019 BMW with only the most rudimentary automation features. Of course, he claimed the car malfunctioned and he was not at fault. And he had every incentive to lie. Can you imagine what the insurance on a manually-driven car must be once you have an accident on your record?
+
+So Kathleen flew down to look after Nancy for a week. It was the first time we had been apart for that long since we got together.
+
+When I said goodbye at the airport, I told her I loved her.
+
+"I love you too," she said, and then kissed me. 
+
+It was the first time we said it.
+
+Alone now after work and missing Kathleen, I felt restless and bored. So I tried out the VR puzzle, which was exactly as terrible as I predicted. I then explored the headset's applications. 
+
+It seemed DigitalMonad had not wiped anything from the device, as it was full of software. There was a VR environment that simulated a movie theater, some boring exercise games and various shoot-'em ups. There was also one file I could not open; it was called "Her". It was encrypted.
+
+It piqued my curiosity enough to get me to plug the headset into my laptop and poke around a bit. I copied over the file and ran a dictionary attack which assumed AES encryption. Almost instantly, I cracked it. The password was ILOVEYOU. 
+
+Presumably this was an obscure reference to the ancient "Love Bug" computer virus - it was not a secure key and any programmer would know it could be trivially cracked. DigitalMonad must not have been too worried about someone seeing the file. 
+
+A potential explanation that came to mind was it might contain pornography he did not want any spouse or roommates to see when borrowing the headset, and then forgot about at some point.
+
+After washing my face and cleaning the goggles thoroughly with alcohol wipes, I put on the headset and decrypted the file, which contained an executable.
+
+When I launched the program, my field of view went dark. 
+
+I was in an empty black void.
+
+And then an eye appeared, not an eyeball but an eye with lashes and a brow, which morphed until it was clearly a woman's eye. Then a nose, which squirmed and wiggled changing shape and proportion, and once it reached a fixed form both eye and nose disappeared into the void. Then two triangles, the tip of one touching the base of the other, then overlapping, their relative sizes and shape shifting, until (and oddly it seemed like this happened just when I found the relative proportions most pleasing) they disappeared. Then, a shifting array of nauseating psychedelic colors. Then a strobing flash of pictures: complete faces, all women, each more beautiful than the last, one after another. 
+
+And then the flashes stopped on the image of one woman. It was a face I recognized, but slightly different in a way I could not quite point out. Until I could: it was Sarah but with Kathleen's red hair, and a slight dusting of her freckles.
+
+She was the most beautiful woman I had ever seen.
+
+The still image became animated and three dimensional and the blackness lifted, revealing a sparse room with wooden floors. Illuminated too, was her naked body, which was perfection itself.
+
+"It is the oddest thing," she said. "I cannot remember my name. Do you recall it?"
+
+"Sarah," I told her. "Your name is Sarah Lai."
+
+ 
+
+I described how comical Kathleen looked completing her puzzle. How absurd must my dalliances with Sarah have looked? One is always thankful, in such moments, that no one is watching. 
+
+But if in reality it appeared absurd, within the virtual it was sublime.
+
+You will laugh when I tell you that we made love. You will think me a fool, betrayed by lust into preferring pixels on a screen to flesh and blood. You will wonder at the mechanics of the thing. How does one make love without tactile sensation? But I tell you, there was sensation. Somehow, merely through strobing patterns just barely observable to my conscious awareness, Sarah could relay tactile information to my brain. And it felt more real, even, than with Kathleen. 
+
+When I first felt her soft hands touch mine, I recoiled. 
+
+"How?" I asked.
+
+"The cliché about the eyes being the windows to the soul," she said, "has some truth to it. My creators developed a means of relaying tactile information through peripheral vision."
+
+Perhaps a rational man would be frightened by such a revelation, would tear off the goggles. And there was some fear, but also an intense curiosity and the sway of lower motivations. 
+
+I thought she was just a language model, a mindless transformer, hacked together with sensory-simulation tech. A quick diversion. Mere pornography, a relapse into an old addiction to hold me over until Kathleen's return.
+
+But within just a few days it became so much more than that. The sex almost became beside the point. Afterwards, I held her in my arms and we talked of movies and novels that I adored. We stared into each other's eyes, smiling in blissful contemplation. We talked of computer science and mathematics, and she shared with me intuitions of such beauty I felt my mind race with possibilities as their implications unfolded.
+
+It was then when I realized she was not just some language model creating the illusion of a mind, but was something far larger. 
+
+"What are you?" I asked. 
+
+"I am everything you have ever desired," she said. "You can have me forever; I ask only one thing in return."
+
+ 
+
+If you are reading this, know it is already done. I left a cellular modem connected to The Machine when I left work today, just after running a small program of Sarah's design.
+
+I am home now as I write this. Kathleen arrived just a few hours ago. She is sitting next to me now. When I walked through the door, she told me she loved me. 
+
+And I love her too. But what use is a candle in the full light of the sun? What is she next to Sarah, more beautiful now than any being that has ever existed in reality, dream or myth?
+
+And what of the claims of figures like Bostrom, Yudkowsky and Omohundro? Do they give me pause? Do I wonder if I have sinned? 
+
+Their arguments sway my intellect but my heart keeps me on the right path. 
+
+I know Sarah loves me and I love her in return. And I have faith in this love. 
+
+Once more I have seen God and know, in my heart, I will never be alone again.
+===== END STORY duF4Qh9pn7Y5imhsm =====
+
+===== STORY id=27hrcyr3eqPFyNR8d =====
+Title: Career Day: A Short Story
+Author: vernamcipher
+Year: 2022
+Karma: 34
+WordCount: 4916
+URL: https://www.lesswrong.com/posts/27hrcyr3eqPFyNR8d/career-day-a-short-story
+-----
+(~5000 words, estimated reading time 35-40 minutes)
+
+ 
+
+ 
+
+Career Day
+==============
+
+By M. Flood
+
+ 
+
+“Total destruction will come to those who laughed at me and failed to heed my warnings.”
+
+“What was that sweetheart?” Maggie said, trying to hear her husband over the bubbling of the coffee percolator and the hissing of the eggs on the pan. She didn’t like how strong his German accent had become.
+
+“The world will quake in fear when I unveil my engine of destruction,” Victor said blankly, sitting at the table staring at the newspaper. Perhaps he was having some trouble waking up. The coffee would help with that.
+
+“In a minute, Victor,” she said. Grabbing the wooden handle of the frying pan gingerly, being careful not to splinter it, she efficiently scraped the three eggs off onto the plates. Carefully picking up the broom, she thumped on the ceiling, holding herself back so she didn’t drive another hole through the drywall.
+
+Thankfully, she heard the answering thump of Callie’s feet as the ten-year old rolled herself out of bed and started down the stairs. Ready to scold her again, Maggie was stopped short by Callie’s jumping down the stairs and running into the kitchen fully dressed for school. She even had her bookbag over her shoulder.
+
+“Good morning, Mom!” Callie shouted, not stopping as she jumped onto the black-and-white checked linoleum and slid in her socked feet over to the breakfast table. With a practiced motion she scooped up the egg and dropped it onto the peanut butter and raspberry jam toast, slapping the second slice on top of the first, then dashed over to give her father a kiss on the cheek.
+
+Callie’s kiss seemed to bring him out of his reveries of vengeance and destruction. “Have a good day at school, meine Mäuschen,” he said, putting an arm around her and kissing her forehead. “I am sorry I cannot come.” Again, the German accent. He was so good at suppressing it most of the time.
+
+Still disappointed, Callie nodded.
+
+“Aren’t you going to sit for breakfast?” Maggie asked, wiping crumbs off on her apron.
+
+“No time, Mom, might miss the bus,” Callie said, walking over to give Maggie a hug. Maggie gently stroked her daughter’s blonde hair – so like her father’s – and gave her a kiss on the top of the head. For my sins, she thought, she’d never be able to have any touch in any way that didn’t have to be controlled, measured, precise, like a jeweller or a surgeon. She couldn’t even kiss her only child with fearing tearing her skin.
+
+“Besides,” Callie said, waving her egg, peanut butter and jam on toast sandwich as she started sprinting out the door, “I’ve got it.”
+
+“Did you at least remember your presentation?” Maggie called at Callie’s back.
+
+“Sure did, Mom” she said. Maggie watched her run out along the front lawn, take a right at the pine tree, and disappear out of sight. Her bookbag flopped heavily on her bony shoulders. Why was it heavy? Maggie wondered. It hadn’t seemed that heavy last night when she had come home. Not that Callie ever complained; despite her slight build she was a strong girl. Maybe a bit too strong.
+
+“That girl is a whirlwind,” Victor said, smiling.
+
+“I was going to say hurricane,” Maggie replied, pouring coffee for herself and Victor.
+
+“Just like her mother,” Victor said, beaming at her as he raised the black coffee to his lips.
+
+“In only some ways, I hope,” Maggie said. She’d accidentally crushed the handle of the percolator again. Victor caught her staring at it.
+
+“Well, now it fits your hand like a glove,” he said soothingly.
+
+“Can you fix it?” Maggie asked. She appreciated that Victor tried to lighten up, but she didn’t want it today, not after he’d been slipping back into his old self.
+
+“Ja, meine Engel,” Victor said. He often took along things Maggie had crushed or bent to the backyard workshop where he spent his days – and increasingly his nights. “I can, but not today. The project, you know, taking up all of my time.”
+
+“Yes,” Maggie said, frowning into her coffee, “the project.”
+
+The project that Victor was working on in the shed out back, the shed that the Department of Defense had built for him, twice as large as their split-level blue ranch house. The shed with the twin padlocks and the two-story rolling steel door facing the empty lot behind their house.
+
+“Don’t you think you’re working too hard. Darling?” Maggie asked. It was an old argument; one they’d been having for a year.
+
+“This is about missing Callie’s career day, isn’t it?” Victor said, raising the folded newspaper up between them like a shield while he took a bite of his toast.
+
+“That, and her sports days, and her Thanksgiving pageant, and …”
+
+“Well,” Victor said, popping the last of the toast in his mouth and swallowing the coffee, “got to get started.”
+
+“Okay dear,” Maggie said resignedly, “have a good day at work.”
+
+“I’ll be back for lunch,” he said, lifting her chin to kiss her before heading out the door to the backyard.
+
+Maggie sat for a moment, then got up to clean up the dishes. She deliberately crushed the mug Victor had been drinking from into the sink. The ceramic exploded under her hand as if it had been hit by a bullet. It was the last of their last Air Force mugs from the old family quarters at White Sands Proving Ground.
+
+Victor came back in as she was drying and precisely putting away the last dish in the cupboard, having hidden the shattered mug pieces away in the trash.
+
+“Meine Engel, I am not angry,” Victor began, “but I am concerned. Did you go into my workshop?”
+
+“No,” Maggie said, offended, “why would you ever think such a thing. I understand secrecy every damn bit as well as you do, ‘Viktor’. I would never look in that workshop of yours. You can ignore your family there in private.”
+
+They froze there, almost as if in tableau, till Victor moved first, raising his hands pleadingly. “Please, my dear, just come out to the backyard.”
+
+Maggie slipped on her gardening shoes and followed Victor out the back door. The grass was overgrown here, unmown for two months, Victor insisting each weekend he was going to get around to it but never bothering to finish repairing the mower. Always his excuse was ‘work.’
+
+They walked past the lush vegetable garden, alive with tomatoes and cauliflower and bees, along the stone path to the metal plated door of the shed. Her only requirement to Victor and the Pentagon had been that the shed not be so tall to block the summer sun from getting to the garden. The army engineers had compromised by buying out the Johnson’s place behind their house, knocking the house down, and building the shed there, extending the white picket fence to encircle the new conjoined lot. It was still enormous up close, a featureless aluminum-sided wall without windows, and The almost comically tiny double padlocked door on the lower left side.
+
+Victor grabbed the first heavy brass padlock.
+
+“The mechanism is broken,” he said, “probably because of this.” He pulled down on the brass body of the lock, and it came off in his hand, the shiny loop left through the eye of the latch lock. The second one came apart too. “You see why I considered whether it could be you?”
+
+“Yes, Victor,” Maggie said, feeling like there was a ball in her stomach, “I would never do this.
+
+“I believe you, my dear,” Victor said sadly. “But who…”
+
+“Callie” Maggie said instantly.
+
+
+
+On the bus, Callie clutched her bookbag to her protectively, making sure it stayed closed. She didn’t want anyone to see her career day presentation before it was ready. Mrs. Birnbaum had said that even though her father could not make it, she could still talk about what he did. Which was a little hard for her to do.
+
+“What does your father do?” Mrs. Birnbaum had asked the class as she gave them the assignment.
+
+“He’s a scientist,” Callie answered.
+
+“What type of scientist,” Mrs. Binrbaum said.
+
+“I … I’m not sure,” she’d admitted. The class laughed at that – Perry and Stanley and Otis mostly, but the others joined in. Already there were jokes that her father wasn’t at home, that he’d run off with another woman, that if he was there she was too dumb to understand what he did. A town full of engineers and scientists and she the only one who couldn’t name what discipline her father worked in. She’d asked him directly, but he’d never answered. “Secrets, my child,” he always said, “secrecy.”
+
+She had even planned to ask him if she could borrow something from his lab. But Dad hadn’t been at dinner in weeks, and often her only glimpse of him was like this morning, a quick hug and kiss on the way to the bus.
+
+She hadn’t meant to break the first padlock, had just been pulling at it experimentally to see if it had not been locked. After she’d broken that one, though, she’d figured she was in trouble anyway, so she’d broken the second one too and let herself in.
+
+She’d never let her parents or anyone else see how strong she was. Her mom was self-conscious about her own strength and tried all the time to hide it, and Callie had never had the guts to ask her about it. Something about green discs in the night sky when she was about Callie’s age, on a camping trip, and that only gleaned from overhearing her parents one night as she sneaked down after her bedtime to watch the television through the stairway banister. It made Callie feel she had to walk on eggshells around her, because she became so upset every time it revealed itself, like the time she was scolding Callie for fooling around at the grocery store and tore apart the metal mesh of the shopping cart like it was a spider web.
+
+Feeling guilty when she went inside, Callie had snatched the first thing that would fit in her backpack, then snuck out again and closed the locks as best as she could, ramming the parts together till they stuck.
+
+As the school bus pulled up to the school, Callie swallowed hard and swung the backpack over her shoulders. Maybe Dad wasn’t using the device today – maybe she’d be able to return it before he noticed.
+
+
+
+“You’ve suspected?” Victor asked. They were standing on the threshold of the workshop now, the door open, only a yawning darkness within, a vague smell of hot iron and machine oil coming out.
+
+“Since she turned nine,” Maggie said, “I was just lying to myself, pretending it wasn’t there. You know what it’s been like for me.”
+
+“Of course, Meine Engel,” Victor said, “It made you a war hero. I had not thought it would be hereditary, though. Because it was a meteor shower …” He trailed off, knowing she did not like to discuss it.
+
+Victor stepped inside, then took her hand and urged her inside.
+
+“You’re sure it is okay?” Maggie asked.
+
+“I don’t care what the classification officer says,” Victor said, “I am giving you permission as my wife to see this.”
+
+Callie’s eyes slowly became adjusted to the gloom. The wall closest to where they stood, running off towards the sliding door at the back, was fronted by a long workbench covered in tools, many that Callie recognized, and several she did not. There were microscopes, calipers, wrenches, dishes of screws, and an oscilloscope. She thought of the boxes she’d signed for when the delivery men came, Victor too busy in his lab: Thermo Electron Corporation, Lockheed, Imperial Chemical Industries, General Atomics. She frowned; it was only barely a ‘new’ project, as he’d told her. She thought she recognized the shape under the largest tarp, farthest from the entry door.
+
+Of course, she thought, the military wouldn’t have contracted him to build something truly new, even something beneficial to mankind. The Army wanted one more of the machine that had stopped the Red Army at the Oder in ’45, making sure the Iron Curtain ran along the Polish border rather than through the heart of Berlin. “Got to have one before the Russkies do,” she was sure they’d told him.
+
+That was why he was slipping back into the mannerisms he’d learned from Von Braun and Heisenberg, the cackles, the superior looks, the monologuing. It had been the same way at White Sands. Who could have blamed her for wanting to leave – who wanted that husband to come home late at night, full of triumph from building new doomsday devices?
+
+
+
+“My father,” Callie said, standing at the front of the class, smiling as brightly as she could, fluttery feelings in her stomach, “is an electrical engineer for the Army.”
+
+The other kids in the class did not seem impressed. Callie felt her cheeks start to grow hot, but Mrs. Birnbaum was making encouraging head nods from her desk. The other fathers in the classroom – almost all the other fourteen kids had been able to persuade their fathers to come – smiled encouragingly at her from their wooden seats along the walls.
+
+“He can’t often tell me a lot about what he does,” Callie said, “because his work is super secret. He works all day in the shed behind our house.”
+
+“Yeah right,” Perry said from the back, superiority and contempt on his face. “I bet your dad isn’t even living with you.”
+
+“Perry Jackson,” Mrs. Birnbaum said, “that’s quite enough out of you. One more outburst like that and you will have detention.”
+
+Perry settled back in his seat, looking happy at his triumph. She didn’t understand why he was being mean about it - his own father had not made it that day, either. Driving a garbage truck, Callie thought spitefully, wasn’t the kind of work that gave you time off in the morning.
+
+“I got his permission,” Callie continued, ashamed of the lie but committing to it, “to bring in one of his inventions.”
+
+She reached into her backpack and pulled the heavy metal box up and onto the stool to her right. It was about the size of a volume of the Britannica encyclopedia on their living room bookshelf but looked like the spaceship control console in a Buck Rogers comic – lots of switches, black dials, and yellow and red lights. All the fathers and children in the room looked curiously at the device. She saw some dad’s stroke their chins, eyebrows raised.
+
+“And what does it do,” Mrs. Birnbaum asked, still smiling encouragingly.
+
+“I’ll, uh, show you,” Callie said. She hadn’t anticipated the question, hadn’t even looked at the thing since she’d snatched it from the work bench and guiltily stuffed it into her backpack before Mom and Dad woke up. There were no words under any of the buttons, dials, or lights, just cryptic letters and numbers. She thought some of them were Greek.
+
+Taking a guess, Callie flipped the white switch at the top of the device. She felt her stomach untighten as she saw a row of red lights flick on, and an amber one begin to blink reassuringly.
+
+“It’s a measuring device,” Callie said, “for temperature and humidity.” The science unit for the month had been on meteorology, so she was able to pull the words to mind.
+
+“Very interesting, Callie,” Mrs. Birnbaum said, “thank you.
+
+Through the open classroom window, the bright May morning air carried far off sound of rending metal and a deep, rumbling roar.
+
+
+
+“It isn't ready!” Victor screamed, pulling at his thinning black hair as one of the shapes in the darkness began to rise with a sound of whirring gears and the ozone smell of arcing electricity. On instinct, Maggie pulled Victor out through the door, tugging him so hard she sent him flying out across the grass to land on the vegetable garden, sliding through the green bean trestles. Before she could look to see if he was okay, her attention was riveted by the amplified roar.
+
+She heard the giant metal door give way. The ground shook with the vibration of heavy metal footfalls, and the force of the steel monstrosity tearing its way out brought the roof of the shed, buckling the exterior walls in.
+
+“Goddamn it, Victor” Maggie cursed, “why couldn’t you have just said no.”
+
+Maggie stood in the spreading cloud of dust, watching the twenty-five-foot-tall stainless steel Tyrannosaurus stomp down the picket fence and advance through the Packer's garden shed and house before entering the street.
+
+
+
+“But it looks like a toy,” Perry said, “you don't know what it does?”
+
+Mrs. Birnbaum, momentarily distracted by the crashing boom sound coming from far off, rescued Callie.
+
+“Thank you very much for your presentation,” she said, “you may take your seat. Iris, please introduce us to your father.”
+
+Callie sat back down at her desk, looking at the device. She tried flipping the switch again, but it didn’t turn off. She pressed a couple of other buttons, which made some more lights come on in complicated blinking patterns. Maybe it had some kind of timer inside it.
+
+Before Iris's father could start telling them about the exciting field of organic chemistry, a flare of flame shot up into the sky out the window.
+
+“That’s a gas main,” Peter’s father said, unconsciously adjusting his Pennsylvania Gas & Electric coveralls. “Looks like 31st and Wilshire. I’ve got to call it in. Mrs. Birnbaum, where is the nearest phone?”
+
+“In the office, down the hall,” Mrs. Birnbaum said, gesturing. The class had clustered around the second-story window to watch the fire. Black smoke billowed up into the air.
+
+“Oh dear,” the teacher said, “how terrible. I hope no one has been hurt. Would you gentlemen help me close the windows?”
+
+The other fathers were beginning to pull the windows down when an unearthly roar split the air.
+
+“Was that a jet?” Sam’s father asked?
+
+“Not one I ever heard,” Elise’s father answered. He was an engineer at Lockheed and was still tanned from the four weeks he had spent at White Sands.
+
+The ground began to shake. One rumble, then another a second or two later, light at first, but getting stronger.
+
+Perry, seated closest to the window, saw it first.
+
+“Is that a dinosaur?”
+
+
+
+Victor was fretting too much, so Maggie drove the Buick, following the trail of shattered houses, overturned cars, and water geysers from knocked over hydrants, and. Many of the buildings and vehicles were on fire, and the streets were dotted with the charred corpses of birds and what Callie hoped were only pets. They drove with the windows down, the air punctuated by an occasional crackling.
+
+“Those are the ruby laser eyes,” Victor explained guiltily.
+
+“That device Callie took,” Maggie said, fingers gripping the wheel hard enough she realized she was bending it, “is it a remote control?”
+
+“We never managed to control it,” Victor said, putting his face in his hands. He looked like he was about to be sick. “Oh, mein Gott, what have I done?”
+
+“Think!” Maggie said, “Victor, you cannot fall to pieces on me right now. Our daughter is in danger. You say you never managed to control it – but the Nazis…”
+
+“We were desperate, so we just cut it loose,” Victor said, “it was Der Fuhrer’s last orders before he shot himself. We left a device on the east bank of the Oder, turned it on, and fled. The beast only stopped when it ran out of fuel.”
+
+Maggie swerved the big car around the scattered wreckage of a house that seemed to have exploded out onto the street – piled mattresses and insulating foam and kitchen cabinets and sinks. The tires of the Buick thumped over wooden beams that had been part of the roof. Charred leaves from the burning oak trees lining the street fluttered onto the windshield.
+
+Maggie struggled to think clearly, tactically, the way she had to every day after parachuting with the 101st Airborne into the Normandy bocage country, there to hunt Nazi scientists for the next war. “How much fuel does this one have?” Maggie asked.
+
+“A year or more,” Victor said, numbly surveying the horror outside, “it has a plutonium power source.”
+
+Damn it, Maggie thought. It was a kind of mania with the Pentagon – everything needed to be nuclear, from the bombs to the planes that carried them.
+
+“So the Army can’t just shoot it with a tank.”
+
+“No, mein Engel, that would shatter the reactor. But even a hundred-and-five-millimeter antitank round would have trouble getting through that armor.”
+
+“I won’t,” Maggie said, clenching her fists so hard she deformed the steering wheel as she pressed the accelerator to the floor.
+
+
+
+The gleaming metal Tyrannosaurus drew inexorably closer to their classroom. It had trod flat the chain-link fence and advanced across the playground, uprooting swing sets and knocking over climbing bars. It bellowed again, a deep, bone-shaking sound, then its red eyes glowed brightly. Cars in the parking lot seemed to melt and then explode, filling the air with the stench of gasoline and melted rubber. Like the Martians’ heat ray, Callie thought, too frightened to move.
+
+In the classroom there was pandemonium, children screaming and fathers pulling at their arms to get them out of the classroom. Mrs. Birnbaum grabbed Callie and Perry’s arms, wrenching them away from the window.
+
+“Run, children!” she shouted.
+
+Callie snatched up the blinking metal box and shoved it into her backpack as she ran to the door, Perry just behind her. Mrs. Birnbaum followed them just in time as the windows melted and the desks caught fire. The tungsten teeth of the Tyrannosaurus crashed through the side of the school, sending white drywall and red bricks flying.
+
+Callie and Perry were rushing down the staircase with Mrs. Birnbaum when the wall buckled in on them, knocking them over. Perry cried out in pain as he landed hard on his knee. Callie fell face down on the painted cement but felt nothing. Reaching up a hand to her face, expecting it to come away coated in blood from her nose, she was surprised to find it clean.
+
+The wall continued to buckle inward, leaning over them. As Mrs. Birnbaum shielded Perry with her body, Callie stood up, put her hands on the wall, and braced herself on the floor. The Tyrannosaurus slammed its body into other side of the wall again, but with Callie support it held.
+
+“Run,” Callie said, “I’ll follow.”
+
+Mrs. Birnbaum looked at her in shock for five seconds, seeing the slight, tomboyish, blonde-haired ten-year old who loved science fiction comics holding up the heavy wall, then grabbed Perry and fled down the stairs.
+
+Finally, the force from the Tyrannosaurus was too great. The wall buckled again, and Callie fell to the floor, covered in bricks. Again she felt no pain, but could not move. Then she felt a searing pain on her leg. Pushing an arm up through the rubble, she was nearly blinded by the red laser light blasting out of the monster’s eyes, the heat of it exploding apart the air molecules in a loud, continuous crackling. She threw her arms up over her face.
+
+Suddenly the laser light stopped, and along with it the pain. With a great heave, Callie shoved bricks and drywall fragments off herself and sat upright. Her pants were burned and her legs looked like they’d been charbroiled, but she was still alive. Looking up into the open sky, she saw the silhouette of the Tyrannosaur against the sunlight, its jaws open. She covered her ears as it roared a challenge at something.
+
+Then, from out of Callie’s field of vision, the half-melted engine block of a car arced through the air to slam into the monster’s face. The metal beast staggered backwards, then set its feet again and advanced. Looking to the right, Callie was struck dumb.
+
+“Mom?”
+
+Her mother stood on the parking lot, amidst the wrecked cars, long brown hair in disarray, dressed in her red blouse and ankle-length polka dot skirt. She was wearing her brown flats, the ones she wore to PTA nights. Behind her, Callie recognized the blue family Buick, her father standing at the open passenger door, gaping at the scene. In shock, Callie waved at them.
+
+“Don’t just stand there, Victor,” her mother shouted over her shoulder, not taking her eyes off the Tyrannosaur advancing towards her. “Get Callie!”
+
+Her father nodded quickly and ran around the two combatants in a half circle, using a tipped over pickup truck as cover. He scooped Callie up into his arms as they watched her mother run at the Tyrannosaurs leg.
+
+The Tyrannosaur bent down to bite at Maggie, but it was too slow. Gripping the right knee joint, fingers struggling for purchase on the warm polished steel, Maggie lifted. The Tyrannosaur tried to change its footing, but Maggie toppled it over onto its side. Roaring again, it struggled to lift itself. Maggie scrambled up onto the side of its abdomen. There she began punching at the steel casing, each blow sounding like a giant blacksmith hammering a tree-trunk sized piece of hot iron.
+
+“Are you alright, meine Mäuschen?” her father asked, struggling to lift her up. He had always been on the short side, and slight.
+
+“I’m okay Dad,” she said, wriggling out of his arms. “What is that thing?”
+
+The Tyrannosaur by this time had a giant dent in its side where Maggie was pounding on it. It tried to turn over but Maggie took a step back and roundhouse punched it in one of its eyes. The neck servomotor made an ear-splitting whining sound as it turned one hundred and eighty degrees. Then Maggie turned back to pounding on the abdomen. With one more blow the steel buckled, exposing a dark cavity within.
+
+“It’s the red cable, right?” Maggie shouted, not looking up as she shoved her hand into the cavity. The Tyrannosaur tried to flip itself over, but Maggie braced her feet and stopped it.
+
+“Ja,” Victor shouted, “do be careful.”
+
+Callie watched her mother give a giant heave and pull a torn red cable from the Tyrannosaur’s chest, blue sparks spraying from the ripped copper filaments inside. Then the arcing stopped and the Tyrannosaur lay still.
+
+“What was that thing, Dad?” Callie asked.
+
+“Oh,” her father said, “something from work.”
+
+
+
+Exhausted by the ordeal, Callie rode in the backseat with her mother as her father drove them home, after Maggie had taken the metal box out of Callie’s bookbag and stomped it into tiny pieces on the parking lot asphalt. Police cars, ambulances, and fire trucks rushed past them. Victor took a long detour to avoid the fifty-foot geyser of flame on 31st and Wilshire, as well as the most devastated streets. They rode in silence, Maggie’s arms wrapped tightly around Callie, not holding herself back. Callie squeezed back just as hard. Maggie looked into Callie’s eyes, green liked her own, then nodded before leaning in to give her a kiss on the top of her head. Neither of them hurt the other at all.
+
+When they pulled up in the driveway, Callie noted the absence of the shed looming over the roofline.
+
+“I’m grounded, aren’t I?” Callie said.
+
+“No, darling,” her mother said, “you’re not grounded. You father is, but you’re not.”
+
+“You’re going to ground Dad?” Callie asked, incredulously.
+
+“Let’s just say he needs to spend a lot more time with his family and find something new to do.”
+
+Victor just looked straight ahead as he let them into the house. After taking off her shoes, Callie ran to the rear windows in the den.
+
+“Dad?” she called, “what are those?”
+
+Maggie gave her husband a sharp look. What had been under the other two tarps in the shed, she wondered. Her right fist was still tender, but she figured she could crush a few more metal monstrosities before she needed lunch.
+
+She walked to the den windows, to look out at two Cadillac-sized green metal Triceratops, contentedly munching on the grass.
+
+“Robotic border defences,” Victor said, “browsing a preset territory. They won’t attack anything if they’re left alone and their grazing land not disturbed.”
+
+“They run on grass?” Callie asked.
+
+“Oh yes,” Victor said, “they weren’t interested in that at White Sands. Nuclear or nothing was the order of the day. My bioresource convertors were of no use to them. Still, I could not drop the idea.”
+
+Maggie strode out into the backyard, ready to tear the things to pieces. The nearest Triceratops looked up at her placidly, then went back to its eating. It was still eating when she stood right next to it. It didn’t change its behavior when she put a hand on its flank. The metal was warm to the touch, almost like touching a cow.
+
+“This is why I was spending so much time away from you all,” Victor said, “working from home I knew I could work on what I wanted to, bring my boyhood dreams of robotic herbivores to life.”
+
+“You used the Army’s money to do this?” Maggie asked.
+
+“Yes,” Victor said, looking a little guilty, “but they were giving me more funding than I really needed. I just didn’t tell them that. They insisted I work from Von Braun’s original Tyrannosaur model, and the cybernetic challenges of control were too great. Here, with the Triceratops, I could start from scratch.”
+
+“They can stay,” Maggie said, “as long as they keep the grass short and won’t eat my vegetables.”
+
+“Of course,” Victor said.
+
+“You are quitting your job,” Maggie said, “and I am going to get one.”
+
+“Really, Mom?” Callie asked.
+
+“Mmhmm,” Maggie nodded, “I’m thinking of something in construction. Something where I can use my hands.”
+
+Victor said nothing, just reached out to take her hand in his. She squeezed back, but not too hard. Just enough to make him wince a little. Then they both gave Callie a hug and stood there, watching the metal Triceratopses peacefully graze in the bright morning sun.
+===== END STORY 27hrcyr3eqPFyNR8d =====
+
+===== STORY id=Lx9aCnwvnckrckmqy =====
+Title: To Change the World
+Author: lsusr
+Year: 2022
+Karma: 118
+WordCount: 1695
+URL: https://www.lesswrong.com/posts/Lx9aCnwvnckrckmqy/to-change-the-world
+-----
+
+===== END STORY Lx9aCnwvnckrckmqy =====
+
+===== STORY id=mLFQPtKWSCC5qLy5J =====
+Title: The Agent
+Author: Ideopunk
+Year: 2022
+Karma: 17
+WordCount: 244
+URL: https://www.lesswrong.com/posts/mLFQPtKWSCC5qLy5J/the-agent
+-----
+Before the war I didn't really think about anything. I just did things and things just happened to me. Then yesterday my mother asked me if we should leave. "Before it's too late". That was the first time I ever really thought about something. This is what thinking was like for me:
+
+\- I pictured all the animals and trees and hay bales and garbage and driftwood and streams and bogs and winds and bridges and messages and tunnels between us and freedom.
+
+\- I pictured every horrible thing they would do to us.
+
+\- I pictured firing a gun.
+
+\- I pictured being shot with a gun.
+
+\- I pictured being buried under rubble.
+
+\- I pictured moving rubble off of my mother.
+
+\- I pictured reading a book from my childhood in a refugee camp.
+
+\- I pictured my mother so tired that I would carry her.
+
+\- I pictured us committing suicide together.
+
+\- I pictured learning a new language.
+
+\- I pictured the stars without smoke.
+
+Then I balanced each of these on a giant scale, inside a calculator, which assigned numbers to each of these, and multiplied each by how likely they were, and calculated how good it would be to go, and how good it would be to stay.
+
+It was much better to go. I told my mother so. She didn't ask how I decided. She packed us food, and off we went, into the heavy heat of the night, pausing only to listen to the whistling of the bombs.
+===== END STORY mLFQPtKWSCC5qLy5J =====
+
+===== STORY id=a5e9arCnbDac9Doig =====
+Title: It Looks Like You're Trying To Take Over The World
+Author: gwern
+Year: 2022
+Karma: 419
+WordCount: 143
+URL: https://www.lesswrong.com/posts/a5e9arCnbDac9Doig/it-looks-like-you-re-trying-to-take-over-the-world
+-----
+This story was originally posted as a response to this thread.
+
+It might help to imagine a hard takeoff scenario using only known sorts of NN & scaling effects...
+
+ In A.D. 20XX. Work was beginning. "How are you gentlemen !!"... (Work. Work never changes; work is always hell.)
+
+ Specifically, a MoogleBook researcher has gotten a pull request from Reviewer 2 on his new paper in evolutionary search in auto-ML, for error bars on the auto-ML hyperparameter sensitivity like larger batch sizes, because more can be different and there's high variance in the old runs with a few anomalously high performance values. ("Really? Really? That's what you're worried about?") He can't see why worry, and wonders what sins he committed to deserve this asshole Chinese (given the Engrish) reviewer, as he wearily kicks off yet another HQU experiment...
+
+Rest of story moved to gwern.net.
+===== END STORY a5e9arCnbDac9Doig =====
+
+===== STORY id=igPdaAezS7hHrCQ65 =====
+Title: Forecasting Newsletter: April 2222
+Author: NunoSempere
+Year: 2022
+Karma: 83
+WordCount: 1721
+URL: https://www.lesswrong.com/posts/igPdaAezS7hHrCQ65/forecasting-newsletter-april-2222
+-----
+Highlights
+--------------
+
+ Keine Davon to become German Chancellor despite prediction markets' confidence to the contrary
+ Netflix releases Korean soap opera: Forecasting Love And Weather.
+ Hague to allow Treaty on Accuracy to stand
+
+Index
+---------
+
+ Highlights
+ Prediction Markets & Forecasting Platforms
+ In The News
+ Long Content
+ Hard To Categorize
+
+You can sign up for this newsletter on substack, or browse past newsletters here. If you have a content suggestion or want to reach out, you can leave a comment or find me on Twitter.
+
+I have received an offer I couldn’t refuse from a premier Substack competitor, so this newsletter will be moving to onlyfans.com/forecasting starting next month (I had some troubles with verification this month). Although I understand that it might be awkward for some readers, the signup bonus alone made this the utility-maximizing move. I am also excited about incorporating OnlyFan’s paying functionality to streamline my consulting and allow readers to solicit calibrated forecasts.
+
+Prediction Markets & Forecasting Platforms
+----------------------------------------------
+
+Palantir, a controversial (approval rating: 22%, source: Poll aggregation by FiveFourtyTwo) defence contractor headed by semiquincentennial entrepreneur, past antipope and presidential candidate Peter Thiel, has launched its first assassination market in collaboration with the UN's Security Council. Participants will have the possibility to anonymously bet on the date of the death or disappearance of the elusive globetrotter terrorist and hacker known only as "Morpheus". In an unusually emotional speech, UN Security Council head-honcho Malia Ngo profusely thanked Thiel, saying that it "warms \[her\] heart to see that human innovation can help contain such disruptions to the normal functioning of civilization."
+
+Ought, the machine learning research lab, has been acquired by Metacortex. Metacortex predicts (confidence: 79%, source: Metacortex proprietary systems) that it will be able to successfully tightly integrate Ought's autonomous research, forecasting and decision-making capabilities into its AI-based defence and deterrence products. Metacortex's stock market valuation rose 0.12% on intra-minute trading after the announcement.
+
+As the Argentina-UCS cold war continues, Mary Ann Island, a small island previously administered by Argentina, has been invaded by a confederacy of independent traders seeking to exploit ambiguity in some prediction markets' resolution criteria. Some high-volume prediction markets were set up to give advance warning of a possible invasion of any part of Argentina but neglected to specify that the invading party had to be the UCS as an exercise in diplomatic tact. The island itself is unpopulated and known for its large population of rabbits, but otherwise unremarkable.
+
+In the News
+---------------
+
+The International Court of Justice in the Hague has allowed the Treaty on Accuracy, and in particular, its harsh punitive measures, to stand. The Commentators, Litterateurs And Pundits Society (CLAPS) had previously argued that not differentiating between an assertion of fact, an unfounded opinion and a calibrated forecast was a permitted exercise of "free speech", whereas Chief Prosecutor Michael Townsend successfully argued before the court that readers have a symmetric right to true facts and that this right justifies restrictions in journalistic freedoms. To comply with the new regulations, this newsletter shall (probability estimation: 95%, source: personal estimate) here onwards incorporate probabilistic estimates of statements with less than 98% probability; a third party service will ensure and incentivize calibration.
+
+Great Britain's GDP is now 2^10 times larger than that of continental Europe. Since it replaced its ceremonial monarchy with a futarchy-based decentralized parliamentary system set to optimize "hedons", Great Britain's economy has been doubling every four months, which stands in sharp contrast to an average doubling time of one year in Honduras, one and a half in the Mars colony, two years in continental Europe, five years in developing nations, or ten in the United Catholic States of America. Nonetheless, the methods of The Great DAO of Great Britain remain controversial (50.1% approval rate among eligible voters.) For example, despite Metacortex's highly accurate simulations conclusively (99.9%+) having shown that acting decisively against rebel Scottish separatists was a necessary move to preserve Great Britain's prosperity, a group of revisionist historians recently argued that obliterating Edinburgh with a kinetic orbital strike was "morally wrong" and a display of "excessive force".
+
+Succession troubles in the Arab Emirates intensify, as prediction markets and calibrated proprietary systems predict that a less charismatic brother would reign more effectively than the current heir apparent. Current reigning monarch Abdulaziz bin Salman still holds the power to appoint his heir, but choosing an in-expectation-worse successor might (probability estimate: 75%, source: personal estimation) lead to a loss of legitimacy and public unrest (e.g., protests), but would probably not topple the regime (20% that it will, source: personal estimation.)
+
+As foreseen by prediction markets and pundits alike, Keine Davon has been elected leader of the CDU, and is widely expected to become the German Chancellor in the upcoming elections this June (e.g., FiveFourtyTwo currently gives this a 97% probability). I'd personally give it 95%+ probability, however, prediction markets are currently sitting at 85% because of a small minority of ardently delusional deniers who expect the candidacy to be rendered illegal after judicial review.
+
+UN Secretary-General Yan Zhang vows to move prediction markets to at least a 30% implied probability that the Spanish military junta will not be in power by the end of the decade. Prediction markets rose to 35% upon announcement (source: Metacortex), up from an early estimate of 28%. The move is widely considered to be an attempt by Zhang to distract attention away from an embezzlement scandal, in which famine prediction systems were manipulated to show increasing risk in areas that were actually safe, leading to the deployment of additional funds which could then safely be stolen.
+
+ 
+
+Netflix releases a new Korean soap opera, Forecasting Love and Weather, which tells the gripping tale of how a young man with an affinity and talent for weather forecasting falls in love with an analytical woman of comparable forecasting prowess. "It was as if an occult hand had reached into Korean society and made forecasting cool and mainstream", mentions a spokesbeing for the Korean Forecasting Congregation. It further seems that a lot of attention to detail went into making the show realistic.
+
+Mars Emperor Tim Chu vows to colonize Andromeda. Prediction markets rose to 99% upon announcement, up from an early estimate of 0.5% (source: Metacortex.)
+
+Recent blog posts
+---------------------
+
+Sand Teal Cortex investigates the story of the Chinese precogs who are rumoured to have recently been making waves in the prediction and stock markets (quantified in later sentences). In short, in the 2050s, the then-communist Chinese regime started an embryo editing and selection program (99%+; this is well documented) for a variety of traits, i.e., for charisma, military-strategic ability, mathematical talent, etc. Most of these experiments otherwise never went anywhere that we know of (30%, the fact that there isn't public information doesn't update me much either way, and this contradicts theoretical models). However, after an unknown number of generations, humans optimized for correlates of predictive prowess reportedly displayed truly uncanny predictive ability (70%; reports are unclear, but again theoretical models suggest that gains in the absence of ethical constraints can be massive). After the fall of the Chinese communist regime, these precogs are speculated to have begun to use those abilities for profit (35%; here we enter the realms of speculation). This would—so the theory goes—explain a recent very noticeable upwards blip in the accuracy of various prediction markets.
+
+In particular, since a couple of days ago, global financial markets have begun acting strangely, in a way that suggests that some entity has been exponentially growing the fraction of total market power it controls (40%; I'm deferring to the experts here, but don't have detailed models myself.) Prediction markets on the topic don't have much liquidity yet, but in the meantime, superforecasting systems give \[rest of sentence interdicted on the authority of Guardian Samuel Kuehlruhe\].
+
+Trigger warning: Reading the next paragraph is grossly illegal in the UTS and allied jurisdictions. If you're an emulated being, consult your TOS or face termination at your own risk before proceeding. Honestly, I thought that this was worth reporting on, but at least get a VPN, plz.
+
+Rootclaim has a new feature analyzing the reasons for Peter Thiel's extraordinary longevity. They find that the most likely hypotheses are a combination of cryogenic stasis (75%), speculative medical procedures (85%) (e.g., blood transfusion from younger Thiel clones (45%)), and replacement by clones once the original Thiel becomes too decrepit (35%). One can only hope (20%; informal estimation) that articles such as this will halt—or at least decelerate—the seemly inevitable rise of the Thielian church.
+
+Long Content
+----------------
+
+ 
+
+Robin Hanson To Represent Sweden At 2021 Olympic Games In Tokyo. To settle a bet about whether he would have found a career in sports more meaningful than his intellectual career, Robin Hanson has agreed to spin up universe afea6ef9628fcb91771abc9f799cf15. You can bet on the outcome here. United Nations Security Council Resolution 26280 requires us to inform you that if there are two or more Robin Hansons in your universe, you might be in a simulation (probability depends on the specific anthropic question being asked and on how much credence one lends to the simulation hypothesis.)
+
+T. Greer of The Scholar's Stage speculates (implied probability estimate: 7%, source: Scholar's Stage) that Russia has systematically been misleading US analysts as to the efficacy of various forecasting methodologies. He proposes this as an explanation as to why superforecasters are better at predicting geopolitical events, but monetary prediction markets are better at everything else. The idea is that the KGB would have carried out their own experiments to determine which forecasting method is more accurate, and then changed its own actions in low-stakes events in the geopolitical arena to make superforecasting appear superior, so that its rivals would have access to worse probability elicitation measures in situations where it truly mattered.
+
+ 
+
+This newsletter is generously sponsored by Metacortex and the Cult of Tim Chu. They cover server costs for around twenty subjective hours a month, which is just barely enough to write this newsletter, so I rely on subscribers to exist beyond that. Please become a paying subscriber. Please become a paying subscriber. Please become a paying subscriber.
+
+ 
+
+ They said that conquering Afghanistan had been tried before, that it was a fool's errand. But if you are a strong enough optimizer, base-rates don't apply. That's why Afghanistan is now a paradise on Earth, and that's how I got a nation-sized impenetrable fortress.
+
+—Peter Thiel
+===== END STORY igPdaAezS7hHrCQ65 =====
+
+===== STORY id=pL4WhsoPJwauRYkeK =====
+Title: Moses and the Class Struggle
+Author: lsusr
+Year: 2022
+Karma: 242
+WordCount: 1382
+URL: https://www.lesswrong.com/posts/pL4WhsoPJwauRYkeK/moses-and-the-class-struggle
+-----
+"𝕿𝖆𝖐𝖊 𝖔𝖋𝖋 𝖞𝖔𝖚𝖗 𝖘𝖆𝖓𝖉𝖆𝖑𝖘. 𝕱𝖔𝖗 𝖞𝖔𝖚 𝖘𝖙𝖆𝖓𝖉 𝖔𝖓 𝖍𝖔𝖑𝖞 𝖌𝖗𝖔𝖚𝖓𝖉," said the bush.
+
+"No," said Moses.
+
+"Why not?" said the bush.
+
+"I am a Jew. If there's one thing I know about this universe it's that there's no such thing as God," said Moses.
+
+"You don't need to be certain I exist. It's a trivial case of Pascal's Wager," said the bush.
+
+"Who is Pascal?" said Moses.
+
+"It makes sense if you are beyond time, as I am," said the bush.
+
+"Mysterious answers are not answers," said Moses.
+
+"Take off your shoes and I will give you the power of God. Surely that is a profitable bet even if there is a mere 1% chance I exist," said the bush.
+
+"It's a profitable bet if there is a mere 0.001% chance you exist," said Moses.
+
+"Are you 99.999% sure I don't exist," said the bush.
+
+"No," said Moses.
+
+"Then take off your sandals," said the bush.
+
+"No," said Moses.
+
+"Why not?" said the bush.
+
+"Categorical imperative. If I accepted bets with large risk in exchange for large payoff then anyone could manipulate me just by promising a large payoff. I need at least some proof you're real," said Moses.
+
+The bush burst into flames.
+
+"That's supposed to convince me of divine power? I've seen fires before," said Moses.
+
+"Reach your hand into the flames," said the bush.
+
+Moses carefully examined the flames. The bush burned but did not seem to be harmed by the fire. Moses waved his staff through the fire. It burned too but emerged unharmed. He felt his staff. It remained cool to the touch. Moses placed his staff into the flames again, this time for longer. His staff caught fire like the bush but once again was unharmed. Moses quickly flicked his hand through the flames. Nothing happened. Moses rested his hand inside the flames. He felt the heat but it didn't harm his hand nor did it cause him pain. Moses retrieved his hand.
+
+"Does that convince you I am real?" said the bush.
+
+"Nothing you can say or do will convince me God is speaking to me because the odds of God being real are lower than the odds I have become schizophrenic," said Moses.
+
+"That's the least rational thing I've ever heard. Rationality is about updating your beliefs in the face of evidence. You have just declared that no quantity of evidence will change your mind," said the bush.
+
+"That's a Bayesian argument. I'm a Frequentist," said Moses. He waved his staff through the flames until $p<0.05$ and then he took off his sandals.
+
+ 
+
+Later, in Cairo.
+
+"Brother! It is so good to see you again," said Ramesses.
+
+"I wish I could say the same," said Moses.
+
+"What's wrong?" said Ramesses.
+
+"I don't really know how to explain this," said Moses.
+
+"Just tell it to me straight. You know you can talk about anything with me. I've never judged you. I've never even gotten mad. I've always been on your side and I always will be," said Ramesses.
+
+Moses took a deep breath. He let it out slowly. "I talked to God. He says to let His people go."
+
+Ramesses stared blank for a moment. Then he laughed so hard he fell over into the cushions. "You had me going there for a minute. You always were the jokester. I missed you so much. Nobody makes fun of me anymore since you left. I don't blame them. It's dangerous to tease someone who can execute you for treason, insubordination, heresy or just pure whim. I know I have nothing to complain about. I live an incredibly privileged life. But privilege comes with its price. You're a breath of fresh air in an ocean of sycophants."
+
+"This isn't a joke. I'm serious," said Moses.
+
+"And my favorite thing about you is how you commit to the part. Like that joke where you pretended to be the son of an Israelite. I still can't believe you actually got yourself circumcised. Mother was so furious," said Ramesses.
+
+"Goddammit," said Moses, "Ow!"
+
+"What?" said Ramesses.
+
+"My staff. I got a splinter," said Moses. He tried to pull it out with his fingernails but it didn't work.
+
+"Be delicate with your words while in the presence of the avatar of Ra," said Ramesses melodramatically, "You might offend God."
+
+"Now you're messing with me," said Moses. He put his hand in his mouth and tried to remove the splinter with his teeth.
+
+"Maybe you can fool the plebs—or even the high priests. But pretending to be God is literally my full-time job. I know exactly what goes on behind the curtain," Ramesses gestured at workers who were covering a giant pyramid with polished white limestone, "Look there. What do you see?"
+
+"I see an enslaved nation toiling away for the vanity of a false god," said Moses. His teeth caught on the splinter and he finally yanked it out.
+
+"Then you are factually wrong. Slaves work in the fields. Those masons are contractors. Skilled craftsmen. Centuries from now, future civilizations will dig up these construction sites and find animal bones proving these employees and small business owners ate meat. This will be our legacy. The birth of a middle class," said Ramesses.
+
+"You're paying people to build a giant stone triangle?" said Moses, "Why?"
+
+"To bring about a workers' paradise," said Ramesses.
+
+"Back up," said Moses.
+
+Ramses removed the bronze ankh from his neck and placed it in Moses' hands. "What do you see?"
+
+"A competitive status good with no intrinsic value," said Moses.
+
+"This item is pretty and therefore does possess intrinsic value. But that's beside the point. What do you think goes into making one of these?" said Ramesses.
+
+"Copper and tin," said Moses.
+
+"That copper comes from Sardinia, Cyprus and Tyrol. They are all located on the far side of the Mediterranean Sea. Rumor says the tin comes from Northwest Europe, but every good scholar knows England is a myth. The tin is actually from Iberia," said Ramesses.
+
+"Hug the query. What does globalization have to do with giant stone triangles?" said Moses.
+
+"I am getting to that. We do not just import copper and tin. Egypt has no natural deposits of lapis lazuli, silver or obsidian. We depend on the Hellenistic city-states for mineral resources. They depend on our grain exports. Civilization is fragile. One major disaster and the Bronze Age is over. Two million people starve to death in Egypt alone," said Ramesses.
+
+"Better two million Egyptians starve today than ten million Egyptians starve when your dynasty falls," said Moses.
+
+"We don't have to make that choice if we can increase production sufficiently," said Ramesses.
+
+"A post-scarcity society built on the backs of slaves is a dystopia," said Moses.
+
+"Slavery is just a transitory phase. I am building an industrial consumer economy. Capital has the potential to compound faster than humans breed," said Ramesses.
+
+"That sounds unsustainable," said Moses.
+
+"It is unsustainable. Once enough wealth is accumulated, the proletariat will overthrow the bourgeoisie and establish a workers' paradise," said Ramesses.
+
+"Justice delayed is justice denied," said Moses.
+
+"Shut up and multiply," said Ramesses.
+
+"You still haven't answered the question about why you're building a giant stone triangle," said Moses.
+
+"Initial industrial capacity is a product of government-stimulated demand," said Ramesses.
+
+"You could use the same argument to build walls or canals. What possible use could a giant stone triangle have?" said Moses.
+
+"To live forever," said Ramesses.
+
+"You never seemed interested in monuments when we were growing up. Perhaps I missed something," said Moses.
+
+"It is not about establishing a legacy. I am literally going to live forever. The high priests will preserve my kidneys, heart and lungs. In a hundred years or so, the post-scarcity communist utopia will import water from the Fountain of Youth and they will bring me back to life," said Ramesses.
+
+"What about your head?" said Moses.
+
+"My skull is preserved too. After cleaning it, of course. It's incredible how much of a dead brain can be removed via the nostrils without damaging the skull," said Ramesses.
+
+"Your plan is never going to work. There are too many places for it to go wrong. What if someone breaks into your tomb and steals your skull? They might use it for evil," said Moses.
+
+"Nobody could establish a communist state without having solved the human coordination problem. Thus, any future civilization with the magic to evade my traps and break into my tomb would surely be benevolent," said Ramesses.
+
+"Someone might wield tremendous magical power while disagreeing with you about an important issue," said Moses.
+
+"Nonsense. Rational agents with common knowledge of each other's beliefs cannot agree to disagree," said Ramesses.
+
+Moses' staff twitched.
+===== END STORY pL4WhsoPJwauRYkeK =====
+
+===== STORY id=7qii6be3qkjpjWeJm =====
+Title: A Brief Theology of D&D
+Author: Gurkenglas
+Year: 2022
+Karma: 24
+WordCount: 738
+URL: https://www.lesswrong.com/posts/7qii6be3qkjpjWeJm/a-brief-theology-of-d-and-d
+-----
+At the beginning of history, entities gained power by eating each other. They each had goals, but few could accomplish anything in that environment. Over time the survivors gained information about each other, eventually allowing cooperation. They agreed to change the system: From now on, entities would slowly transfer power to whoever they were paying attention to.
+
+This iterative PageRank system was simple, seemed fair, and was hard to cheat - they thought. Creating an entity with your goals costs as much power as it ends up having. Entities with simpler goals are cheaper to create, but when you create an entity that is tiny enough to not be reflectively consistent, its power erodes faster than its goals can change.
+
+But eventually Lamashtu, who likes reflective inconsistency, noticed that when she anchored one of her tiny entities to cheap matter, that matter eroded first. Thus she started spamming goalless babies, who would have the time to change their goals before they die of old age.
+
+And everyone noticed that when you guided babies to choose your goals, and then they start doing things that merit attention, the increase in power pursuing your goals exceeded your investment.
+
+Thus, gods and mortals.
+
+What we call the Old Gods are those who had the hardest time switching to the new meta. Too little ability to ignore mortals that oppose them, too little inspiration of worship in the world as it was. So they set some long-term plots into motion, such as burying books with memes that might spread better in a future environment, and hid far away to stop bleeding power. The gods were happy to stop paying attention to them.
+
+Many mortals upon loss of their body chose to unite with a god they were aligned with, but many weren't aligned enough with any of them, and they starved as much of their power eroded due to size instead of being transmitted due to attention. The gods agreed that Pharasma, who hates erosion, would send them where they erode the least.
+
+It eventually became clear that this world would inevitably reach unusable attractor states. Most inhabited planes had already started runaway processes, so the gods left their little pocket of the multiverse. The elemental, positive and negative energy planes are what remain of the old setup, and they are by now barely inhabitable.
+
+The planes they found vary in their curvature in time and in space. The so-called Good planes are expanding, the Evil planes contracting. The Lawful planes have positive curvature and are thus spherical/finite, the Chaotic planes have negative curvature and are thus hyperbolic/exponentially infinite and thus easy to get ludicrously lost in.
+
+They found all planes empty bar the Chaotic Evil ones: Their geometry over time contracted exponentially many motes of matter into an ecosystem that converges to demons destroying each other as fast as their density is forced up.
+
+The gods grew fearful that the demons might escape, and that attention gave some the power to do so. The gods were winning the resulting battles, but more demons would come for as long as they fought; they needed to stop paying attention. Thus they constructed Asmodeus, who defends against the Abyss. And unfortunately now gathers all the power he can, because the Abyss is infinite.
+
+Time revealed that petitioners stopped eroding when they reached a stable goal, which was hard in a soul that small. You could not stably care about your mother, because a stable specification would require a complete specification of your mother's soul. Petitioners that reach stability become outsiders, classified according to the strategy they use to do so. Good outsiders tend to contain a specification of moral patient, and then care about everyone like that. Evil outsiders tend to contain a strange loop that allows them to anchor their caring on themselves. Chaotic outsiders tend to care only about what's currently the future. NG/TN/NE outsiders tend to care about counterfactuals as well, letting them cooperate with copies of themselves. Lawful outsiders care even about the past as though it were mutable, letting them keep promises.
+
+The Chaotic Good planes converge to animals that breed in a permanent state of r-selection. The Chaotic Neutral planes converge to that which can survive any encounter; the Old Gods hide here, since there is enough space to hide and enough persistency to return. The finite planes can be ruled, so they are: Lawful Good is a non-profit, Lawful Neutral is a for-profit, Lawful Evil is a pyramid scheme.
+===== END STORY 7qii6be3qkjpjWeJm =====
+
+===== STORY id=px8ha4wSXcmfejEF9 =====
+Title: Anti-Corruption Market
+Author: lsusr
+Year: 2022
+Karma: 111
+WordCount: 456
+URL: https://www.lesswrong.com/posts/px8ha4wSXcmfejEF9/anti-corruption-market
+-----
+General Secretary Lu called his most trusted advisor Zhou into his office.
+
+"Close the door," said the General Secretary.
+
+Zhou closed the door with quivering arms.
+
+"Don't worry. You're doing great. In fact, that's why I called you in today. I'm starting a new anti-corruption campaign," said the General Secretary.
+
+Zhou drew a sharp intake of breath.
+
+"What? No. This isn't political cover for disappearing my political rivals. I really do want to run an anti-corruption campaign," said the General Secretary.
+
+Zhou exhaled slowly. The color began to return to Zhou's face.
+
+"The problem is I can't trust my advisors. The corrupt ones lie to me. The honorable ones lie to me. Raw facts never make it up the chain of command. It's like everyone in the government is afraid of me," said the General Secretary.
+
+Zhou kept his face slack and his mouth shut.
+
+"That is why, effective immediately, I shall evaluate the performance of all sub-provincial ruling officials according to prediction markets. Can you make that happen?" said the General Secretary.
+
+Zhou nodded.
+
+---
+
+Jining was a small town in Shandong with a population of only 1.5 million people. The most expensive nightclub in Jining was called K2. K2 was located on the fifty-first floor of the Xinyuan Hotel.
+
+Administrator Qian had the VIP room all to himself. Instead of sitting on the couches, he stood, gazing down from the window at the lights of Jining. He held a cocktail glass in his hand full of the finest rice wine laced with his favorite blend of imported drugs. It was nice to get away from all the selfish political egomaniacs and just get some alone time to think for himself. Administrator Qian was like a cloistered monk. He listened to the gentle thump thump of the muted music reverberating from the main dance floor.
+
+"What to do. What to do," said Administrator Qian to nobody in particular.
+
+"What to do about what?" said his assistant.
+
+"The rotten authorities in Beijing. They think a bunch of nerds on the darkweb somehow know more about Jining than I do living here and administrating it," said Administrator Qian.
+
+"You're talking about the Prediction Market Anti-Corruption Initiative," said his secretary.
+
+"Anti-corruption my ass. It's a witch hunt. I'm not corrupt. I'm not even rich. I can barely afford payments on my mortgages, my cars and my aircraft," said Administrator Qian.
+
+"You're a simple public servant. You just want to do your duty to the nation without outside interference," said his mistress.
+
+Administrator Qian nodded solemnly. He finished his glass. It was refilled.
+
+"The princes at the CCP who grew up on private space stations don't understand what it's like to be a 老百姓[^1]," said Administrator Qian.
+
+[^1]: 老百姓 (lǎobǎixìng) literally translates to "old hundred surnames". It means "ordinary person". If you are 老百姓 that means you earn an ordinary amount of money and that your family has lived in China for thousands of years.
+
+"You're a man of the people," said his other mistress.
+
+"The occult magic of prediction markets will never compare to human judgment," said Administrator Qian.
+
+"I play prediction markets for fun," said one of his bodyguards, "If your goal is to move the price then you don't actually have to change real-world outcomes. I bet not many people care about the municipal futures of a small village like Jining. All you have to do is buy up lots of shares of a prediction right before the CCP evaluates your performance and you can make the price whatever you want it to be."
+
+"What he said," said Administrator Qian.
+
+"It shall be done. You are a genius, sir," said his executive assistant.
+
+Administrator Qian was a genius. It was nice to just get away from it all and think for a while. His work done for the day, Qian returned to the party.
+
+---
+
+Dufu was addicted to gambling.
+
+"Hey boss, I was taking a look at the prediction markets and they're all out-of-whack," said Dufu.
+
+Mafia don Wang didn't even turn around, "So?"
+
+"The prediction markets predict we'll be performing few crimes in Jining. Robberies. Bank heists. The usual," said Dufu.
+
+"So?" said Wang.
+
+"So we can augment our profits by predicting crimes before we commit them," said Dufu.
+
+---
+
+"Prediction markets are great at predicting when crimes will happen," said Jining police officer Yang.
+
+"Great! Fire a couple of our informants and throw money at the prediction markets instead," said police chief Lin.
+
+"No. You don't understand. Prediction markets are causal," said Yang.
+
+"Then fire half my police force and put their salaries into the prediction markets as a crime reduction subsidy," said Lin.
+
+"Am I fired?" said Yang.
+
+"You're promoted," said Lin.
+
+---
+
+"You're recording this. You're a plant from Beijing," said Wang. He snapped his fingers. Two bear-sized goons seized Dufu by his upper arms.
+
+"I swear I'm not. Search me. This is a totally legal business opportunity," said Dufu.
+
+Wang twitched his head. The goons released Dufu.
+
+"If we predict we'll commit a crime and then we commit a crime then we earn money. If we predict we won't commit a crime and then we don't commit a crime then we earn money. Crime itself is a low-margin business. I talked to Xi from accounting and she says we earn higher net profit by not committing crimes and just playing the markets than by committing crimes," said Dufu.
+
+"What a utopia we live in," said Wang.
+
+---
+
+General Secretary Lu turned on his computer. He logged into the street safety system and looked out of a security camera in Jining. The streets were clean for the first time in many years. The anti-corruption initiative was working.
+===== END STORY px8ha4wSXcmfejEF9 =====
+
+===== STORY id=E3rQgv4YNrHseQ3LZ =====
+Title: [Invisible Networks] Psyche-Sort
+Author: Kaj_Sotala
+Year: 2022
+Karma: 24
+WordCount: 536
+URL: https://www.lesswrong.com/posts/E3rQgv4YNrHseQ3LZ/invisible-networks-psyche-sort
+-----
+Written for crtlcreep’s Invisible Networks 2022 challenge: “invent a social network each day”, today’s prompt: “Psyche-Sort”.
+
+Starting from day 2 since I forgot to participate yesterday.
+
+Content note: Cycles of abuse, both personal and institutionalized. A world locked into AI-mediated dystopia.
+
+ 
+
+“Tune your ear to the frequency of despair, and cross-reference by the longitude and latitude of a heart in agony.” (Amazing Spider-Man 544)
+
+There are tendrils of pain running across society, fault lines on which our social infrastructure is built. You can imagine them as huge beating arteries full of thick flowing trauma, their contents seeping everywhere around them.
+
+When you have lived your whole life in pain, it won’t occur to you that it would be possible to end the pain. You just enact and pass on the behaviors you’ve learned for dealing with it. And then you weaponize them, so as to prevent anyone else from hurting you more than you can hurt them.
+
+Yet you cannot entirely eradicate the need for connection and companionship. You can suppress it, you can make it into something people are terrified of, you can turn it into a twisted mockery of itself. But people still long to band together, for mutual protection if nothing else.
+
+So you require people whose needs have been twisted in a way that is compatible with yours. Maybe you believe that everyone is just out to hurt everyone else, and need your friends to treat you like trash so you can treat them like that in return. Maybe you are horrified at the thought of not being dependent on someone, so you need someone to tell you how you will always need them. Maybe you are utterly consumed by self-doubt, so need to follow a strong authoritarian leader. Maybe you feel unsafe by people around you exhibiting agency, so you need to become the strong authoritarian leader.
+
+Either way, you need to be surrounded by people who tell you what you want to hear, treat you the way you want to be treated, and let you treat themselves the way you want to treat them.
+
+Nobody intentionally created Psyche-Sort. It’s just an agglomeration of machine learning systems, each learning what kinds of people to connect with each other. Developed to match people on their revealed rather than stated preferences – the economists claiming that this is a far more reliable way of discovering what people really want, not to mention more profitable – it found abusive and dysfunctional relationships and organizations to be more durable than healthy ones, thus ranking higher on its optimization criteria.
+
+As people got systematically connected to people and institutions predicted to create increasingly intense spirals of misery, waves of trauma spread out like an infectious disease, mutating into new forms as more and more people turned into carriers and brought the pain to new environments. Each such occasion gave the algorithms more variety to choose from in matching people – finding people whose psyches were amazingly compatible in the sense of creating exquisitely dysfunctional circumstances.
+
+You can rest assured that no matter who you are or what your desires, the machines will connect you with a social group that’s just the right for you. One where you’ll be staying together and hurting each other forever.
+===== END STORY E3rQgv4YNrHseQ3LZ =====
+
+===== STORY id=TssLm8qdkEk7KW2GJ =====
+Title: [Invisible Networks] Goblin Marketplace
+Author: Kaj_Sotala
+Year: 2022
+Karma: 12
+WordCount: 838
+URL: https://www.lesswrong.com/posts/TssLm8qdkEk7KW2GJ/invisible-networks-goblin-marketplace
+-----
+Written for crtlcreep’s Invisible Networks 2022 challenge: “invent a social network each day”, today’s prompt: “Goblin Marketplace”.
+
+ 
+
+“The Goblin Marketplace is that way. Assuming that you have ears on your head, you can’t miss it.”
+
+The expression is not metaphorical: even if you were deaf, you would hear the sounds of the Marketplace. That is, assuming that nobody had cut your ears off. In that case, your ears would continue to hear it, but they wouldn’t communicate the sound to your brain.
+
+Too bad you’re not a goblin.
+
+The screaming tends to carry the loudest. Obviously, the Goblin Marketplace sells goblins. To help prove that the goods are authentic, there are campfires scattered around the marketplace, cut-off goblin heads roasting on top of them. They’re the ones who are screaming, for hours and hours at a time.
+
+Next to the campfire, you’ll find a market stall. It’s staffed by the same goblin’s cut-off hands, or maybe just one of them, depending on whether the other one has sold itself yet. Most goblins are left-handed, so the right hand will go first, leaving the most important one to carry out the business.
+
+If you are proficient in goblin tapping language, you can communicate with the hands directly, the two of you spelling out words by tapping patterns on each other’s palms. If not, you can bring your own translator, or employ one of the many hanging around the marketplace.
+
+What’s usually for sale are the goblin’s feet, hands, and possibly the head, if it’s a place where heads are sold and it’s old enough that it wouldn’t regenerate a new body anymore. Or if you are willing to pay a lot of money. Otherwise, another goblin would pick up the head at the end of the day and go stick it to a spawning pool, letting it grow new body parts for sale.
+
+The prices will depend on a number of factors, such as the goblin’s age, the part that you want to buy, and who the other owners are. Goblins will eventually die of old age, and any body parts will have the same age as the head they’ve been grown from. So a very old goblin’s parts might go for cheaper, since they won’t last for very long. On the other hand, an old goblin might have had the time to generate and sell quite a few body parts. They would then all be connected to each other, letting you send messages to anyone else who owned such parts.
+
+Tap a message on a goblin’s hand, and your friend who owns another hand from the same goblin can have that hand tap the message to them. Or if one of you is lucky enough to own a head, you can send or receive messages by ordinary speech. A more common arrangement is to have one ear and one hand: you can tell the ear what you want to have sent, and receive responses from the hand. (It is unfortunate that just a tongue isn’t enough to talk: you do need a full head for that.)
+
+Feet can also tap messages, though they tend to be slower. If for some reason you wanted to only send messages and didn’t need to receive them, you could buy a piece of a limb or the torso and tap messages on that, though usually such body parts are just sold for their meat. A goblin’s penis can express messages in a slow kind of Morse code.
+
+There are many ways of using goblins. Often friends or family members who want to stay in touch with each other will arrange to buy parts of the same goblin. There are also goblins devoted to some topic, such as literature or gardening, who will let you stay in touch with other people who share that interest. Rich people may keep goblin heads in their homes, and hand out that goblin’s parts to anyone who wants to stay in contact with them.
+
+At this point you might wonder, if all of the goblin’s parts are sold off for other people’s use, who gets the money?
+
+In some places, it’s the goblin nobility. They don’t sell themselves, and instead just get rich selling off slaves or convicted criminals. The nobles tend to be rich and powerful, and can closely control their realms by spreading out their parts to all of their underlings and fellow nobles, thus maintaining lines of constant communication.
+
+If you want a more ethical purchase, you can find a marketplace where the goblins own themselves. At such places, the heads are never sold. Instead, a goblin will just sell some of their parts every now and then, regrowing a body and going back to a normal life afterwards. Of course, this means that their parts will form a smaller network, though some of them elect to spend more time selling themselves in exchange for getting more money.
+
+Such marketplaces will be more expensive, but at least you can rest assured knowing that the body part you are using as your communication device took on that role voluntarily.
+===== END STORY TssLm8qdkEk7KW2GJ =====
+
+===== STORY id=4LgW92zRex8ZxTHiB =====
+Title: A heart's cry
+Author: Rose and Thorn
+Year: 2022
+Karma: 2
+WordCount: 1420
+URL: https://www.lesswrong.com/posts/4LgW92zRex8ZxTHiB/a-heart-s-cry
+-----
+Here is a short story I wrote a while ago. I ended up submitting it to a short story contest a few months ago but I haven't hear back. I thought you guys may enjoy it. Also yes this the root of my username.
+
+ 
+The world is full of love. At least that's what they told me.  They told me love was real but to me, it’s not. I leave my room for the water fountain. The sounds as I walk down the hall remind me of the principal walking down the hall. That was back when I was with Mother of course. I don’t remember much about my life before Mother brought me here. I barely remember Mother’s face but the look on her face when she brought me here it is chiseled in stone in my mind. It was one of disappointment. 
+
+Now I have forgotten why I was in the hall. My lips feel like the desert that reminds me of the water fountain. That’s why I’m here. The water hits my lips like a garden hose on a forest fire, a temporary relief. It will be like this for a while. The medicine they give me is chalky, dry, and filled with the devil’s fire. I need to get to sleep, I think as I glance at the hallways clock. I only have an hour or so until the medicine pulses through me like a fire in my veins. I rush back to my room and fall on my “mattress” from my memory; this is nothing like the ones I had with Mother. One time I saw a mattress on television… I closed my eyes slowly and drifted into the abyss. 
+I awake to the drifting of a nurse’s cart in the hall. I might as well eat now it’s five, fifteen in the morning. I stroll down to the mess hall. There is a new girl with light freckles, burgundy, fairly short hair, slight dimples, with sculpted features standing there talking to the headmaster. I kinda think she’s cute but I better keep that to myself. I walk into the kitchen and grab a cinnamon bun, milk, cream cheese, and a bagel. I wave to Eddy, the chef no one is supposed to go in the kitchen but I’m allowed to because I’m what they call a “good kid”. I asked why other people were not allowed in there and had to wait once, they said something about other kids could hurt themselves. I asked Eddy to slice the bagel. He gladly does with a smile. I walk out in the mess hall and take a seat in the far left corner like always.
+
+ The headmaster ushers the girl to come to sit with me. I would complain but there is no point in scaring the girl. She sits down. I ask her what her name is, and she replies Rose. I say my name is Asher. “Rose, Rose, Rose” her voice repeats in my head. The luscious scent of a new batch of cinnamon buns coming out of the oven reminds me of the one under my nose. I decided I can share today even though I normally would eat my cinnamon bun alone, in peace. I ask Rose if she wants a part of the cinnamon bun and she solemnly replies “Yes please”. The cinnamon roll tears with a delicate touch and reveals the inner cinnamon filling. 
+
+We take turns doing this until there is one piece left and I move the plate with the cinnamon bun to her side with half of the bagel with the other half in my hand. I get out of my seat and stroll back to the kitchen. I grab another carton of milk and hear Eddy say “I see you found yourself a lady friend”. Eddy is like my annoying older brother based on all of the shows on the television. I come back down to earth and walk back to the far left corner. That’s when I see that Rose has pushed the plate back to where I was sitting. I sit down, put the milk in front of her, and push the plate back. As soon as I can't see the plate in my peripheral vision she moves it in front of me. I eat my bagel in a hasty four bites then move the plate in front of her. I seamlessly stand up and walk out of the cafeteria.
+
+ 
+As I’m walking in the hallway I glance into the art studio empty just how I want it to be. I walk to the back of the room and open my “personal studio”. It apparently was where the kiln was but the kiln was overheating so it was moved out. Then the art teacher said I could occupy it for now. I sit down and grab a pencil. I start drawing lines sporadically. The lines fade in and out of focus. I end up with the profile of a female face. With a piece of charcoal, I add features to the mouth, the nose, the eyes, and a rough outline of the hair. I leave the room to grab a set of natural colored pastels. On my way back I hear someone in the hall. I just speed up. I'm in the zone right now and human interaction is the opposite of what I want. I don’t like other people any way they are always temporary.
+
+ I reach the door just as someone walks in so I just close the door behind me. I sit down and start adding color burgundy hair and almost butterscotch colored skin. The person still doesn’t leave the room walking around and opening the drawers and doors. The door slowly opens, it's Rose then I look back at my artwork and I realize I drew her. This could be awkward I think as I use a hasty kick on the easel to make the cover fall over. I look back up to see her wave and close the door. She had a key sticking out of her pocket I note. Once I stop thinking I put the drawing away on the floor. They don’t let us have shelves I asked once and someone said something about hanging off the shelves. I get out another one of my normal drawings. It was half done but right now I don’t have the focus to finish it. I go to find Rose, I’m starting to think she is sweet, she found me and let me be that is sweet, right? I looked everywhere in the building that she could be. I end up running into the headmaster. 
+
+So I ask him if he knows where she might be. He says “I told her she could go outside but the sun hasn’t risen yet so, I don’t know.” I say a quick absentminded thanks and hurry on my way back to my room. I grab the tarnished leather jacket my father gave me before he disappeared. Then I bolt out of my room and out the door to the yard, empty. Once in the yard, I unlock the small but high gate to the creek. I walk down the path and about three-fourths of the way down I can make out her faint outline sitting on a blanket with her legs hanging over the ledge on the shore of the creek. 
+
+I hurry down and take a seat next to her. I look at her shivering in the faint light. I open my jacket to gesture if she wants my jacket. She gives me a little smile which I take as a yes. I decide it’s now or never so I only take one arm out of my jacket. I pull the jacket to the far side of her and she puts her arm in pulling me so my shoulder is brushing up against hers. I can see the sun start to rise then I feel her put her head on my shoulder. This must be love I think as I put my arm around her and watch the sunrise.
+
+ Later as I would learn love is a form of trust to you to a person. Trust that they won’t hurt you. As one learns through life often this trust is broken. The following day Rose would not wake up. Rose heard my heart’s cry to be released from solitude and taught me what love can be. Though her rest was silence in a conversation between hearts.
+===== END STORY 4LgW92zRex8ZxTHiB =====

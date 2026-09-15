@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "63hx4EKS2PoCrFqmy",
+        "title": "The Parable of the Dagger - The Animation",
+        "slug": "the-parable-of-the-dagger-the-animation",
+        "pageUrl": "https://www.lesswrong.com/posts/63hx4EKS2PoCrFqmy/the-parable-of-the-dagger-the-animation",
+        "postedAt": "2023-07-29T14:03:12.023Z",
+        "baseScore": 20,
+        "wordCount": 238,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "Writer",
+          "slug": "writer"
+        },
+        "tags": [
+          {
+            "_id": "KDpqtN3MxHSmD4vcB",
+            "name": "Art",
+            "slug": "art"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "FtT2T9bRbECCGYxrL",
+            "name": "Philosophy of Language",
+            "slug": "philosophy-of-language"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 1,
+          "FtT2T9bRbECCGYxrL": 1,
+          "KDpqtN3MxHSmD4vcB": 1,
+          "Ng8Gice9KNkncxqcj": 2
+        },
+        "contents": {
+          "markdown": "This video is an animation of\u00a0[The Parable of the Dagger](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger), by Eliezer Yudkowsky. It's the first article of\u00a0[A Human's Guide To Words](https://www.lesswrong.com/s/SGB7Y5WERh4skwtnb).\u00a0\n\nThe narration is almost word for word. The only discrepancies between the narration and the original text are some deletions of words such as \"replied\" or \"said\", which are redundant in an animation. But one remains intact:\n\n> \"How?!\" cried the jester in horror, as he was dragged away. \"It's logically impossible!\"\n\nThe rationale for leaving that unchanged is that I'd like to modify the original articles as little as possible, so I felt iffy about deleting so many words, even if the visuals convey a similar meaning. Moreover, having \"cried the jester in horror\" makes clear to the viewer that the video is adapted from something you can read somewhere, not an original story written for Rational Animations. That said, I'm not sure it was the right decision in the end, although it probably doesn't matter much.\n\nThere is one actual modification to the parable, although it doesn't change its meaning. It is a small non-narrated addition at the end. The video would be way too sad without it.\n\nWe've also included a brief call to action on screen: \"Read this story, and many more at [readthesequences.com](https://readthesequences.com)\", plus some more links and details in the description and pinned comment.\u00a0[For now](https://www.lesswrong.com/posts/TNsLdAZmSzMHTeaKf/should-rational-animations-invite-viewers-to-read-content-on), I'll direct people to that site instead of directly here."
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "bawEszg4Z6Pit8mdG",
+  "slug": "life-has-a-cruel-symmetry",
+  "title": "Life Has a Cruel Symmetry",
+  "postedAt": "2023-01-23T23:40:04.161Z",
+  "baseScore": 24,
+  "wordCount": 3242,
+  "commentCount": 5,
+  "user": {
+    "displayName": "philh",
+    "slug": "philh"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

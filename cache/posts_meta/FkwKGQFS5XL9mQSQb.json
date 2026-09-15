@@ -1,0 +1,35 @@
+{
+  "_id": "FkwKGQFS5XL9mQSQb",
+  "slug": "the-amazing-virgin-pregnancy",
+  "title": "The Amazing Virgin Pregnancy",
+  "postedAt": "2007-12-24T14:00:00.000Z",
+  "baseScore": 35,
+  "wordCount": 601,
+  "commentCount": 271,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "NSMKfa8emSbGNXRKD",
+      "name": "Religion",
+      "slug": "religion"
+    }
+  ],
+  "tagRelevance": {
+    "NSMKfa8emSbGNXRKD": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1
+  }
+}

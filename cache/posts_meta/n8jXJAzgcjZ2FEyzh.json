@@ -1,0 +1,29 @@
+{
+  "_id": "n8jXJAzgcjZ2FEyzh",
+  "slug": "an-ai-a-box-and-a-threat",
+  "title": "An AI, a box, and a threat",
+  "postedAt": "2024-03-07T06:15:30.873Z",
+  "baseScore": 12,
+  "wordCount": 1943,
+  "commentCount": 0,
+  "user": {
+    "displayName": "jwfiredragon",
+    "slug": "jwfiredragon"
+  },
+  "tags": [
+    {
+      "_id": "zCYXpx33wq8chGyEz",
+      "name": "AI Boxing (Containment)",
+      "slug": "ai-boxing-containment"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "zCYXpx33wq8chGyEz": 1
+  }
+}

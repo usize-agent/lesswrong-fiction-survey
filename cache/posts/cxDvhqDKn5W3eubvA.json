@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "cxDvhqDKn5W3eubvA",
+        "title": "The dumbest kid in the world (joke)",
+        "slug": "the-dumbest-kid-in-the-world-joke",
+        "pageUrl": "https://www.lesswrong.com/posts/cxDvhqDKn5W3eubvA/the-dumbest-kid-in-the-world-joke",
+        "postedAt": "2021-06-06T02:57:05.230Z",
+        "baseScore": 21,
+        "wordCount": 138,
+        "commentCount": 9,
+        "noIndex": false,
+        "user": {
+          "displayName": "CronoDAS",
+          "slug": "cronodas"
+        },
+        "tags": [
+          {
+            "_id": "X8JsWEnBRPvs5Y99i",
+            "name": "Decision theory",
+            "slug": "decision-theory"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "WnnwytvzpKqJ3YChY",
+            "name": "Newcomb's Problem",
+            "slug": "newcomb-s-problem"
+          }
+        ],
+        "tagRelevance": {
+          "WnnwytvzpKqJ3YChY": 1,
+          "X8JsWEnBRPvs5Y99i": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "hNFdS3rRiYgqqD8aM": 2
+        },
+        "contents": {
+          "markdown": "**\"The dumbest kid in the world\"**\n\n> A young boy enters a barber shop and the barber whispers to his customer, \u201cThis is the dumbest kid in the world. Watch while I prove it to you.\u201d\n> \n> The barber puts a dollar bill in one hand and two quarters in the other, then calls the boy over and asks, \u201cWhich do you want, son?\u201d\n>\n> The boy takes the quarters and leaves.\n> \n> \u201cWhat did I tell you?\u201d said the barber. \u201cThat kid never learns!\u201d Later, when the customer leaves, he sees the same young boy coming out of the ice cream store.\n>\n> \u201cHey, son! May I ask you a question? Why did you take the quarters instead of the dollar bill?\u201d\n>\n> The boy licked his cone and replied, \u201cBecause the day I take the dollar, the game is over!\u201d"
+        }
+      }
+    }
+  }
+}

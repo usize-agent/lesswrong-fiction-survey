@@ -1,0 +1,29 @@
+{
+  "_id": "CHD5m9fnosr7L3dto",
+  "slug": "friendship-is-optimal-a-my-little-pony-fanfic-about-an",
+  "title": "Friendship is Optimal: A My Little Pony fanfic about an optimization process",
+  "postedAt": "2012-09-08T06:16:09.920Z",
+  "baseScore": 124,
+  "wordCount": 294,
+  "commentCount": 152,
+  "user": {
+    "displayName": "iceman",
+    "slug": "iceman"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 15
+  }
+}

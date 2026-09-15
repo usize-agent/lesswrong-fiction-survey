@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "uqztzFH6ggZgEAStA",
+        "title": "Harry Potter in The World of Path Semantics",
+        "slug": "harry-potter-in-the-world-of-path-semantics",
+        "pageUrl": "https://www.lesswrong.com/posts/uqztzFH6ggZgEAStA/harry-potter-in-the-world-of-path-semantics",
+        "postedAt": "2023-03-22T20:22:37.874Z",
+        "baseScore": -3,
+        "wordCount": 347,
+        "commentCount": 17,
+        "noIndex": false,
+        "user": {
+          "displayName": "Sven Nilsen",
+          "slug": "bvssvni"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "x6evH6MyPK3nxsoff",
+            "name": "Identity",
+            "slug": "identity"
+          },
+          {
+            "_id": "6nS8oYmSMuFMaiowF",
+            "name": "Logic & Mathematics ",
+            "slug": "logic-and-mathematics"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 2,
+          "6nS8oYmSMuFMaiowF": 1,
+          "etDohXtBrXd8WqCtR": 2,
+          "x6evH6MyPK3nxsoff": 1
+        },
+        "contents": {
+          "markdown": "This is a short story written with help from ChatGPT, about the intuition behind counter-examples to Leibniz' first principle. This is generally believe to be true among logicians, but the equality as it is expressed in Leibniz' first principle is just an assumption about equality and not a proof of equality.  \n  \n\u00a0 \u00a0\u00a0*x*=*y* \u2192 \u2200*F*(*Fx* \u2194 *Fy*) \u00a0 \u00a0 \u00a0Leibniz' first principle  \n  \nIn short, Leibniz' first principle does not hold for all operators in mathematics, because not all operators are congruent by normal equality.  \n  \nIt is not possible to reason about proofs of equality directly in logic (this is not about terms of types as proofs, but about \"actual proofs\"). There is a weaker statement of tautological equality that is used to provide this intuition.  \n  \nIf `x=y` is taken as \"tautological equality\", then the principle holds, but since tautological equality can be assumed, this does not prove that all properties are the same in the strong sense, but only a weak sense (up to provability within the language).  \n  \nNow, it is important to remember that this counter-example is relative to the theory of Path Semantics. In the theory of Path Semantics, reasoning with symbolic indistinction (what would be considered actual numerical sameness) is not considered safe, only symbolic distinction. This is why it gets so complex, as there is no way to access the \"actual\" proof directly.  \n  \nIn Path Semantics, the actual counter-example to Leibniz' first principle is the qubit operator `~` which has tautological congruence. This is not part of the short story and takes a lot more background knowledge to understand. For those interested, one can read about the classical model of path semantical qubit here:\n\n[https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/the-classical-model-of-path-semantical-qubit.pdf](https://github.com/advancedresearch/path_semantics/blob/master/papers-wip2/the-classical-model-of-path-semantical-qubit.pdf)\n\nThe Pocket-Prover library contains an implementation of the classical model: [https://crates.io/crates/pocket_prover](https://crates.io/crates/pocket_prover)\n\nThe constructive model is more complex and uses a higher order logic with propositional exponentials (HOOO EP). You can try out an implementation using Rust: [https://crates.io/crates/prop](https://crates.io/crates/prop)\n\nProvability logic is inconsistent together with HOOO EP, so you can not use one to talk about the other. HOOO EP has an associated modal logic, but L\u00f6b's theorem is false in this model."
+        }
+      }
+    }
+  }
+}

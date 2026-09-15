@@ -1,0 +1,35 @@
+{
+  "_id": "RLKEkNMoaHDuCTscu",
+  "slug": "communism-by-another-name",
+  "title": "Communism By Another Name",
+  "postedAt": "2025-10-15T02:21:57.625Z",
+  "baseScore": -5,
+  "wordCount": 922,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "ZWRtQgXucwzAFZqNJ",
+      "name": "China",
+      "slug": "china"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "ZWRtQgXucwzAFZqNJ": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

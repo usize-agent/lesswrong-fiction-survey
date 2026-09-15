@@ -1,0 +1,29 @@
+{
+  "_id": "tp6HuvXsHfEZrdgaL",
+  "slug": "cycles-a-short-story-by-claude-3-7-and-me",
+  "title": "Cycles (a short story by Claude 3.7 and me)",
+  "postedAt": "2025-02-28T07:04:46.602Z",
+  "baseScore": 9,
+  "wordCount": 1376,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Knight Lee",
+    "slug": "knight-lee"
+  },
+  "tags": [
+    {
+      "_id": "zJsG4caBHv3kSdT2a",
+      "name": "Conversations with AIs",
+      "slug": "conversations-with-ais"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "zJsG4caBHv3kSdT2a": 1
+  }
+}

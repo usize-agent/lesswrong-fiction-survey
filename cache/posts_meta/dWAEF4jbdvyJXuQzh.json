@@ -1,0 +1,35 @@
+{
+  "_id": "dWAEF4jbdvyJXuQzh",
+  "slug": "clippy-the-friendly-paperclipper",
+  "title": "Clippy, the friendly paperclipper",
+  "postedAt": "2023-03-02T00:02:55.749Z",
+  "baseScore": 3,
+  "wordCount": 571,
+  "commentCount": 11,
+  "user": {
+    "displayName": "Seth Herd",
+    "slug": "seth-herd"
+  },
+  "tags": [
+    {
+      "_id": "zuwsLCbxbugqB7FQY",
+      "name": "Shard Theory",
+      "slug": "shard-theory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "zuwsLCbxbugqB7FQY": 2
+  }
+}

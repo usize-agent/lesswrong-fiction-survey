@@ -1,0 +1,29 @@
+{
+  "_id": "nBzPEprCYKhoBZfbm",
+  "slug": "one-billion-hemingways",
+  "title": "One Billion Hemingways",
+  "postedAt": "2026-09-09T04:46:19.253Z",
+  "baseScore": 42,
+  "wordCount": 2418,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Girard Dorney",
+    "slug": "girard-dorney"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

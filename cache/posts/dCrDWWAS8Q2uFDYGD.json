@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "dCrDWWAS8Q2uFDYGD",
+        "title": "Caelum est Conterrens: I frankly don't see how this is a horror story",
+        "slug": "caelum-est-conterrens-i-frankly-don-t-see-how-this-is-a",
+        "pageUrl": "https://www.lesswrong.com/posts/dCrDWWAS8Q2uFDYGD/caelum-est-conterrens-i-frankly-don-t-see-how-this-is-a",
+        "postedAt": "2013-03-06T10:31:48.001Z",
+        "baseScore": 38,
+        "wordCount": 201,
+        "commentCount": 49,
+        "noIndex": false,
+        "user": {
+          "displayName": "chaosmage",
+          "slug": "chaosmage"
+        },
+        "tags": [
+          {
+            "_id": "5f5c37ee1b5cdee568cfb2b1",
+            "name": "Whole Brain Emulation",
+            "slug": "whole-brain-emulation"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "GBpwq8cWvaeRoE9X5",
+            "name": "Fiction (Topic)",
+            "slug": "fiction-topic"
+          }
+        ],
+        "tagRelevance": {
+          "GBpwq8cWvaeRoE9X5": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "5f5c37ee1b5cdee568cfb2b1": 2
+        },
+        "contents": {
+          "markdown": "So Eliezer said in his March 1st [HPMOR progress report](http://hpmor.com/notes/progress-13-03-01/):\n\n> I recommend the recursive fanfic \u201c[Friendship is Optimal: Caelum est Conterrens](http://www.fimfiction.net/story/69770/friendship-is-optimal-caelum-est-conterrens)\u201d (Heaven Is Terrifying). This is the first and only effective horror novel I have ever read, since unlike Lovecraft, it contains things I actually find scary.\n\nSo I read that and it was certainly very much worth reading - thanks for the recommendation! Obviously, the following contains spoilers.\n\nI'm confused about how the story is supposed to be \"terrifying\". I rarely find any fiction scary, but I suspect that this is about something else: I didn't think [Failed Utopia #4-2](/lw/xu/failed_utopia_42/) was \"failed\" either and in Three Worlds Collide, I thought the choice of the \"Normal\" ending made a lot more sense than choosing the \"True\" ending. The Optimalverse seems to me a fantastically fortunate universe, pretty much the best universe mammals could ever hope to end up in, and I honestly don't see how it is a horror novel, at all.\n\nSo, apparently there's something I'm not getting. Something that makes an individual's hard-to-define \"free choice\" more valuable than her much-easier-to-define happiness. Something like a paranoid schizophrenic's right not to be treated,\n\nSo I'd like the dumb version please. What's terrifying about the Optimalverse?"
+        }
+      }
+    }
+  }
+}

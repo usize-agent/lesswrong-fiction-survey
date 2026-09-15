@@ -1,0 +1,41 @@
+{
+  "_id": "YbCRteKDxndX9td5R",
+  "slug": "intelligence-epistemics-and-sanity-in-three-short-parts",
+  "title": "Intelligence, epistemics, and sanity, in three short parts",
+  "postedAt": "2021-10-15T04:01:27.680Z",
+  "baseScore": 14,
+  "wordCount": 989,
+  "commentCount": 2,
+  "user": {
+    "displayName": "ozziegooen",
+    "slug": "ozziegooen"
+  },
+  "tags": [
+    {
+      "_id": "EdRnMXBRbY5JDf5df",
+      "name": "Epistemology",
+      "slug": "epistemology"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "FxNdAsrw8qvZkPaxN",
+      "name": "QURI",
+      "slug": "quri"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "EdRnMXBRbY5JDf5df": 2,
+    "FxNdAsrw8qvZkPaxN": 2,
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "HrdqKkM2JXheiJEmM",
+        "title": "Lying to Save Humanity",
+        "slug": "lying-to-save-humanity",
+        "pageUrl": "https://www.lesswrong.com/posts/HrdqKkM2JXheiJEmM/lying-to-save-humanity",
+        "postedAt": "2022-11-14T23:04:16.848Z",
+        "baseScore": -1,
+        "wordCount": 367,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "cebsuvx",
+          "slug": "cebsuvx"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "nSHiKwWyMZFdZg5qt",
+            "name": "Ethics & Morality",
+            "slug": "ethics-and-morality"
+          },
+          {
+            "_id": "tTp6uCjAMJh66vZkc",
+            "name": "Moral uncertainty",
+            "slug": "moral-uncertainty"
+          },
+          {
+            "_id": "Zs4nYLkNr7Rbo4mAP",
+            "name": "Utilitarianism",
+            "slug": "utilitarianism"
+          }
+        ],
+        "tagRelevance": {
+          "Zs4nYLkNr7Rbo4mAP": 1,
+          "etDohXtBrXd8WqCtR": 2,
+          "nSHiKwWyMZFdZg5qt": 1,
+          "tTp6uCjAMJh66vZkc": 1
+        },
+        "contents": {
+          "markdown": "You are an astronaut on an expedition to Mars when you encounter an Alien. Luckily, it speaks English, and you begin an exchange of cultures: history, art, technology, and food, whereupon the Alien interrupts:\n\n\u201cOur species has strong feelings about ice cream flavors. Tell me, what is your favorite flavor? If you answer chocolate, all is well, and our races can coexist. If you answer vanilla, we will annihilate every human.\u201d\n\nThis is a dilemma, for you strongly prefer vanilla ice cream, but you have preferences against both lying and having humanity annihilated. You consider your moral framework.\n\n### **Path 1**\n\n\u201cI like chocolate ice cream,\u201d you lie. One tiny moral lapse is worth saving all humanity.\n\n\u201cAha! Liar!\u201d screams the Alien. \u201cThe question was a test, for we have mind-reading technology. How do you think I learned English so quickly? In retribution for your treachery, we shall destroy all humans, starting with you.\u201d\n\nOutcome: Humanity annihilated.\n\n### **Path 2**\n\n\u201cI like vanilla ice cream,\u201d you answer truthfully. You would never compromise your moral principles. Also, you aren\u2019t convinced these Aliens could defeat your nukes.\n\n\u201cVery brave of you,\u201d says the Alien. \u201cWhat our species truly values is integrity. As a reward, I gift you this machine, which provides limitless energy, faster-than-light travel, immortality, and a few other things\u2026\u201d\n\nOutcome: Humanity enters a trillion-year golden age.\n\n### **Path 3**\n\n\u201cI like\u2026\u201d you begin, then draw your phaser pistol and shoot the Alien in the face.\n\nThe Alien collapses, dead. You stand over its smoking corpse, not feeling any remorse, for you don\u2019t think non-human species carry moral weight, and you are pleased at finding a way out of your ethical dilemma.\n\nYou wait to see if other Aliens might spring from behind the rocks, or if you are atomized by an orbital laser. Nothing happens.\u00a0\n\nEventually, you decide there\u2019s no point in wasting good protein, and you\u2019re not vegetarian. You haul the Alien back to base, announce \u201cLooks like meat\u2019s back on the menu, boys!\u201d to your fellow astronauts, and cook the Alien for dinner.\n\nOutcome: your dinner has similar nutritional content to your customary astronaut nutrient slurry, but it tastes better. Zero lessons have been learned."
+        }
+      }
+    }
+  }
+}

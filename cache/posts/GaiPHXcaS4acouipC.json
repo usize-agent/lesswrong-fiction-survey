@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "GaiPHXcaS4acouipC",
+        "title": "Jackpot! An AI Vignette",
+        "slug": "jackpot-an-ai-vignette",
+        "pageUrl": "https://www.lesswrong.com/posts/GaiPHXcaS4acouipC/jackpot-an-ai-vignette",
+        "postedAt": "2021-07-08T20:32:22.528Z",
+        "baseScore": 13,
+        "wordCount": 675,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ben Goldhaber",
+          "slug": "bgold"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "I started noticing the world had gotten weirder when my grandmother messaged the family that she wanted to do her 80th birthday party in Reno.\n\nDon't get me wrong, Reno is great - biggest little city in the world! - but we're New Yorkers, why on earth fly to a desert? If you want to rough it, lets just go to Jersey.\n\nWhen we asked, she replied that she had gone there with her friends and had a, well, she called it spiritual experience in the Goldstrike! casino. \"It was like heaven, I forgot all my cares; I was one with the universe\".\n\n\"... Can you find enlightenment in Atlantic City?\"\n\nApparently not. The specific game she liked, Nirvana Slots, was only available in Nevada. The slot machine was paired with a lightweight BCI helmet and AI feedback software that optimized for a state of flow. It would modulate the experience of the game - when wins would occur, when losses would occur, the sounds and lights and haptic feedback - such that the gamblers mindset would stay as close as possible to the 'zone', that wonderful place where they don't exist. You get to stay in the zone until you run out of money.\n\nI looked up the game on Wikipedia and saw that with the BCI helmet and cushioned, reclinable chair the slot machine looked more like a fighter pilot ejection seat than a traditional one armed bandit. The similarity was more than skin deep - the article noted that technology was originally developed to augment the combat effectiveness of drone pilots, so they could stay focused on the mission for longer. It was effective, but the side effects were off putting -- pilots ended up flying longer routes and bombing more targets just to stay in the machine longer\n\nI also learned that the reason we needed to fly to Reno is that Nirvana is only legal in Nevada. AI controlled reward protocols were banned in most states after the Farmville Legacy launch caused several hospitalizations from dehydration and starvation, but there was a carve out for non-internet based gambling. While most states had banned it, Nevada was still a place where freedom rang out, where you could go to an e-brothel with deepfaked celebrity VR and then go to a casino and play your favorite AI powered reel spinner.\n\nNirvana was wildly popular among the slotpullers and the casino owners. As long as the statistical frequency of wins and losses was maintained, the gaming board didn't care when the person won or lost, which meant wins were targeted right when a person's brain might need a boost else they would've stopped playing, and the losses were always low and came in regular intervals such that they were just part of the background noise.\n\nAfter all this research it's fair to say I was a little concerned, but it was her birthday, and she was going to go with or without us, so in the end we all flew out. When I walked into the resort I was surprised by the quiet - there was the normal sounds of money being won and lost, the branngg branng synthesized sounds of virtual coins being jangled and collected, but there was very little talking. Some of the old bacarrat and craps tables still had people around them, calling out, but they were shunted to the sides; the main floor was hundreds of Nirvana machines, filled with players focused on the screens.\n\nI needed to check in and put my bags down, but after all the fuss around this game I needed to see what it was all about. I sat down at an open game and put on the helmet, slid my credit card into the machine and watched the screen.\n\nA crisp beautiful gong sound was heard -- an array of visual stimulii bombarded me -- almost far away I heard in the distance coins being deposited and the machine rattling. I had won.\n\n\\-\\-\\-\\-\n\nStory inspired by [Astral Codex Ten Book Review: Addiction by Design](https://astralcodexten.substack.com/p/your-book-review-addiction-by-design?token=eyJ1c2VyX2lkIjoxMzgwODg5LCJwb3N0X2lkIjozNjQyOTkyNSwiXyI6InhBOGhtIiwiaWF0IjoxNjI0NzM1NDA1LCJleHAiOjE2MjQ3MzkwMDUsImlzcyI6InB1Yi04OTEyMCIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.1UZkg0lwrDCki03ZeAGHPMV455qnBf4_wO014_Qt8ms), and me losing track of time in a casino."
+        }
+      }
+    }
+  }
+}

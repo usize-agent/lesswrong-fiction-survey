@@ -1,0 +1,30 @@
+{
+  "_id": "hmuKkZbLCYfx8NjQ3",
+  "slug": "has-anyone-written-stories-happening-in-hanson-s-em-world",
+  "title": "Has anyone written stories happening in Hanson's em world?",
+  "postedAt": "2020-09-21T14:37:11.150Z",
+  "baseScore": 16,
+  "wordCount": 29,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Mati_Roy",
+    "slug": "mathieuroy"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "jQytxyauJ7kPhhGj3": 1,
+    "5f5c37ee1b5cdee568cfb2b1": 2
+  }
+}

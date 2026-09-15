@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "n9ANKEJnW9KAy5QSh",
+        "title": "The King and the Golem - The Animation",
+        "slug": "the-king-and-the-golem-the-animation",
+        "pageUrl": "https://www.lesswrong.com/posts/n9ANKEJnW9KAy5QSh/the-king-and-the-golem-the-animation",
+        "postedAt": "2024-11-08T18:23:10.935Z",
+        "baseScore": 72,
+        "wordCount": 32,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Writer",
+          "slug": "writer"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "Rational Animations' new video is an animation of [The King and the Golem](https://www.lesswrong.com/posts/bteq4hMW2hqtKE49d/the-king-and-the-golem), by [@Richard_Ngo](https://www.lesswrong.com/users/ricraz?mention=user), with minimal changes to the original text (we removed some dialogue tags). I hope you'll enjoy it!"
+        }
+      }
+    }
+  }
+}

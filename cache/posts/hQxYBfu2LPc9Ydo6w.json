@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "hQxYBfu2LPc9Ydo6w",
+        "title": "The Parable of the Dagger",
+        "slug": "the-parable-of-the-dagger",
+        "pageUrl": "https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger",
+        "postedAt": "2008-02-01T20:53:05.000Z",
+        "baseScore": 251,
+        "wordCount": 386,
+        "commentCount": 105,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "FtT2T9bRbECCGYxrL",
+            "name": "Philosophy of Language",
+            "slug": "philosophy-of-language"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "FtT2T9bRbECCGYxrL": 3
+        },
+        "contents": {
+          "markdown": "Once upon a time, there was a court jester who dabbled in logic.\n\nThe jester presented the king with two boxes. Upon the first box was inscribed:\n\n> \"Either this box contains an angry frog, or the box with a false inscription contains an angry frog, but not both.\"\n\nOn the second box was inscribed:\n\n> \"Either this box contains gold and the box with a false inscription contains an angry frog, or this box contains an angry frog and the box with a true inscription contains gold.\"\n\nAnd the jester said to the king: \"One box contains an angry frog, the other box gold; and one, and only one, of the inscriptions is true.\"\n\nThe king opened the wrong box, and was savaged by an angry frog.\n\n\"You see,\" the jester said, \"let us hypothesize that the first inscription is the true one. Then suppose the first box contains gold. Then the other box would have an angry frog, while the box with a true inscription would contain gold, which would make the second statement true as well. Now hypothesize that the first inscription is false, and that the first box contains gold. Then the second inscription would be\u2014\"\n\nThe king ordered the jester thrown in the dungeons.\n\nA day later, the jester was brought before the king in chains, and shown two boxes.\n\n\"One box contains a key,\" said the king, \"to unlock your chains; and if you find the key you are free. But the other box contains a dagger for your heart, if you fail.\"\n\nAnd the first box was inscribed:\n\n> \"Either both inscriptions are true, or both inscriptions are false.\"\n\nAnd the second box was inscribed:\n\n> \"This box contains the key.\"\n\nThe jester reasoned thusly: \"Suppose the first inscription is true. Then the second inscription must also be true. Now suppose the first inscription is false. Then again the second inscription must be true. So the second box must contain the key, if the first inscription is true, and also if the first inscription is false. Therefore, the second box must logically contain the key.\"\n\nThe jester opened the second box, and found a dagger.\n\n\"How?!\" cried the jester in horror, as he was dragged away. \"It's logically impossible!\"\n\n\"It is entirely possible,\" replied the king. \"I merely wrote those inscriptions on two boxes, and then I put the dagger in the second one.\"\n\n*(Adapted from Raymond Smullyan.)*"
+        }
+      }
+    }
+  }
+}

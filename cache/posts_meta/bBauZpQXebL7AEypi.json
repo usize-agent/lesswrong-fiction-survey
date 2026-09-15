@@ -1,0 +1,29 @@
+{
+  "_id": "bBauZpQXebL7AEypi",
+  "slug": "the-tree-the-fly-the-ant-the-dog-the-farmer-and-the",
+  "title": "The tree, the fly, the ant, the dog, the farmer and the businessman",
+  "postedAt": "2025-12-11T17:56:13.735Z",
+  "baseScore": 14,
+  "wordCount": 1530,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Alexandre Variengien",
+    "slug": "alexandre-variengien"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

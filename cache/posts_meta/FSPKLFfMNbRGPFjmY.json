@@ -1,0 +1,32 @@
+{
+  "_id": "FSPKLFfMNbRGPFjmY",
+  "slug": "why-you-re-stuck-in-a-narrative",
+  "title": "Why You're Stuck in a Narrative",
+  "postedAt": "2009-08-04T00:31:41.782Z",
+  "baseScore": 46,
+  "wordCount": 1396,
+  "commentCount": 32,
+  "user": null,
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb1b1",
+      "name": "Narrative Fallacy",
+      "slug": "narrative-fallacy"
+    },
+    {
+      "_id": "4R8JYu4QF2FqzJxE5",
+      "name": "Heuristics & Biases",
+      "slug": "heuristics-and-biases"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "4R8JYu4QF2FqzJxE5": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "5f5c37ee1b5cdee568cfb1b1": 2
+  }
+}

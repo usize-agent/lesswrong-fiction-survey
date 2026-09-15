@@ -1,0 +1,29 @@
+{
+  "_id": "BhoMqZuofPNmhG7We",
+  "slug": "dagger-of-detect-evil",
+  "title": "Dagger of Detect Evil",
+  "postedAt": "2022-06-21T06:23:01.264Z",
+  "baseScore": 52,
+  "wordCount": 768,
+  "commentCount": 23,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

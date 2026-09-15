@@ -1,0 +1,29 @@
+{
+  "_id": "9GhAvoBgwrRJQosjM",
+  "slug": "de-pluribus-non-est-disputandum",
+  "title": "De pluribus non est disputandum",
+  "postedAt": "2026-01-12T00:07:56.930Z",
+  "baseScore": 11,
+  "wordCount": 930,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jacob Goldsmith",
+    "slug": "jacob-goldsmith"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "C2uvzYeoMkwMmscMx",
+  "slug": "hamster-in-tutu-shuts-down-large-hadron-collider",
+  "title": "Hamster in Tutu Shuts Down Large Hadron Collider",
+  "postedAt": "2009-11-06T16:29:30.210Z",
+  "baseScore": 66,
+  "wordCount": 662,
+  "commentCount": 74,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1
+  }
+}

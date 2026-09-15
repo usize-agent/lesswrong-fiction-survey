@@ -1,0 +1,35 @@
+{
+  "_id": "7o7jPegxcnPnxXkvd",
+  "slug": "decision-theory-in-space",
+  "title": "Decision Theory in Space",
+  "postedAt": "2024-08-18T07:02:11.847Z",
+  "baseScore": 50,
+  "wordCount": 673,
+  "commentCount": 18,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "X8JsWEnBRPvs5Y99i": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

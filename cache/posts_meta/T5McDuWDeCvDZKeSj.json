@@ -1,0 +1,35 @@
+{
+  "_id": "T5McDuWDeCvDZKeSj",
+  "slug": "are-you-a-solar-deity",
+  "title": "Are You a Solar Deity?",
+  "postedAt": "2009-03-15T19:30:09.265Z",
+  "baseScore": 55,
+  "wordCount": 1164,
+  "commentCount": 24,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "bY5MaF2EATwDkomvu",
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "NSMKfa8emSbGNXRKD",
+      "name": "Religion",
+      "slug": "religion"
+    }
+  ],
+  "tagRelevance": {
+    "NSMKfa8emSbGNXRKD": 1,
+    "bY5MaF2EATwDkomvu": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "e8gejXcTvaGYYh94k",
+  "slug": "omniscience-one-bit-at-a-time-chapter-1",
+  "title": "Omniscience one bit at a time: Chapter 1",
+  "postedAt": "2025-11-09T18:10:58.272Z",
+  "baseScore": 23,
+  "wordCount": 834,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Dentosal",
+    "slug": "dentosal"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

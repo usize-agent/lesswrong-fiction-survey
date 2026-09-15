@@ -1,0 +1,41 @@
+{
+  "_id": "a7CbnSXcN5ivhLNxx",
+  "slug": "lastbastionofsobriety-and-the-singularity",
+  "title": "@Lastbastionofsobriety & The Singularity ",
+  "postedAt": "2026-01-19T00:45:02.425Z",
+  "baseScore": 4,
+  "wordCount": 4818,
+  "commentCount": 0,
+  "user": {
+    "displayName": "AdamLacerdo",
+    "slug": "adamlacerdo"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GBpwq8cWvaeRoE9X5": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

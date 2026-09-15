@@ -1,0 +1,64 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "wT9Ha4uNchdDoWTGg",
+        "title": "Parfit's Escape (Filk)",
+        "slug": "parfit-s-escape-filk",
+        "pageUrl": "https://www.lesswrong.com/posts/wT9Ha4uNchdDoWTGg/parfit-s-escape-filk",
+        "postedAt": "2019-03-29T02:31:42.981Z",
+        "baseScore": 41,
+        "wordCount": 353,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Gordon Seidoh Worley",
+          "slug": "gordon-seidoh-worley"
+        },
+        "tags": [
+          {
+            "_id": "KDpqtN3MxHSmD4vcB",
+            "name": "Art",
+            "slug": "art"
+          },
+          {
+            "_id": "AXhEhCkTrHZbjXXu3",
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          {
+            "_id": "X8JsWEnBRPvs5Y99i",
+            "name": "Decision theory",
+            "slug": "decision-theory"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "aLB9evWFYtfyS3WJg",
+            "name": "Music",
+            "slug": "music"
+          },
+          {
+            "_id": "WnnwytvzpKqJ3YChY",
+            "name": "Newcomb's Problem",
+            "slug": "newcomb-s-problem"
+          }
+        ],
+        "tagRelevance": {
+          "AXhEhCkTrHZbjXXu3": 2,
+          "KDpqtN3MxHSmD4vcB": 2,
+          "WnnwytvzpKqJ3YChY": 1,
+          "X8JsWEnBRPvs5Y99i": 1,
+          "aLB9evWFYtfyS3WJg": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "*To the tune of \"Escape\" (The Pi\u00f1a Colada Song), with apologies to Rupert Holmes.*\n\nI was lost in the desert, hopelessly dying of thirst  \nAnd I thought to myself, this can't get any worse  \nI heard the roar of an engine, surely it was my hearse  \nBut then a tall shadow cooled me, it spoke and I heard\n\n\"If you like living not dying, I got an offer for you  \nIf you give me your money, I'll give you water and food  \nI'll take you away to salvation, I'll get you out of this scrape  \nSo just promise you'll pay me, to make Parfit's escape\"\n\nI hadn't solved decision theory, boy I sure wish that I had  \n'Cause my savior was Omega, and if I lied I'd be had  \nBut CDT said don't pay, just take the ride for free  \nAnd though it seemed kind of foolish, I went ahead and agreed\n\n\"Yes, I like living not dying, so I'll make your offer good  \nWhen we get back to town, I've got money for you  \nI've got to get out of this desert now, I'm so tired of this place  \nYes I two box on Newcomb, and I take Parfit's escape\"\n\nOmega dragged me to the car, put a canteen to my lips  \nWe drove into the sunset, I felt nothing but bliss  \nI caught a glimpse of his face, and to my wondering eyes  \nMy driver wasn't Omega, but Singer in disguise\n\n\"You don't owe me any money, you're the life I can save  \nAnd you should know I would have helped you, if you had lied to my face  \nI really hope you've learned a lesson though, about the perils of this place  \nDecision problems are dangerous, it's moral luck you escaped\"\n\nI said \"Oh thank you Mr. Singer, let me buy you a drink  \nAt a bar called O'Malley's, they make their Coladas pink  \n'Cause I'm eternally grateful, for all that you've done  \nNow let's get out of this desert, and be done with this song\""
+        }
+      }
+    }
+  }
+}

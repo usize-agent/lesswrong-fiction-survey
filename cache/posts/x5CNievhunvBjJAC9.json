@@ -1,0 +1,31 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "x5CNievhunvBjJAC9",
+        "title": "The Broken Screwdriver and other parables",
+        "slug": "the-broken-screwdriver-and-other-parables",
+        "pageUrl": "https://www.lesswrong.com/posts/x5CNievhunvBjJAC9/the-broken-screwdriver-and-other-parables",
+        "postedAt": "2024-03-04T03:34:38.807Z",
+        "baseScore": 49,
+        "wordCount": 609,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": null,
+        "tags": [
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2
+        },
+        "contents": {
+          "markdown": "previously: [The Parable Of The Fallen Pendulum](https://www.lesswrong.com/posts/BzCQHnt7z8qvzqCmi/the-parable-of-the-fallen-pendulum-part-1)\n\n## The Broken Screwdriver\n\n> Alice: Hey Bob, I need something to put this screw in the wall.\n> \n> Bob: OK, here's a screwdriver.\n\nAlice starts trying to hammer a screw in using the butt of the screwdriver.\n\n> Alice: I think this screwdriver is broken.\n> \n> Bob: You're not using it correctly, you have to fit the other end inside the screw and twist the screw in.\n\nAlice tries doing that.\n\n> Alice: It's still not working.\n> \n> Bob: You're using the hex bit, you need to swap it for the Philips head.\n> \n> Alice: Bob, this screwdriver has already failed to work twice, and each time, I did a Bayesian update against it being a working screwdriver. It seems pretty likely that it's actually broken.\n> \n> Bob: Tools are only expected to work within a narrow range of conditions. Some tools are so difficult to use that they require years of study to operate. You should only be updating towards the screwdriver being broken to the extent that you're confident you're using it correctly, and from what I've seen, you should have low confidence in that.\n> \n> Alice: I can only judge the chance that I'm doing things wrong from my results with other tools. I've been very successful at using hammers with nails, and nails seem similar to screws to me.\n\n\n## The Finicky Car\n\nBob is buying a used car from Carol.\n\n> Bob: I want to see the car running, to make sure it works.\n> \n> Carol: Sure, I'll take you for a short drive.\n\nThe car leaks oil. Unbeknownst to Bob, Carol adds oil to the car immediately before the drive. Carol then takes Bob for a short drive, avoiding using the broken 3rd gear.\n\nBob buys the car, takes it home, and it soon stops working.\n\n> Bob: Carol, you sold me a broken car.\n> \n> Carol: Tools are only expected to work within a narrow range of conditions. It's not my fault you weren't using this one correctly.\n> \n> Bob: We live in a society that has social expectations about the ranges of conditions in which things are normally expected to work.\n> \n> Carol: Yeah, well, in **my** culture, people don't expect stuff to work beyond the extent to which it's demonstrated.\n\n\n## The Suspicious Math Professor\n\nBob signs up for an advanced math class from Professor Dave at a university. He arrives at the first class, and finds that he's the only student there.\n\n> Bob: Hello professor. So, what will we be covering today?\n> \n> Dave: Hello! The ultimate goal here is teaching you all about inter-universal Teichm\u00fcller theory, but to truly understand it, we must start by understanding Zazen meditation. Light that incense and we can get started.\n> \n> Bob: I'm not sure about this. It doesn't seem like the kind of math classes I've had before. It actually seems kind of...crackpot.\n> \n> Dave: No no no. Bob, a crackpot is someone who proposes new theories without being a professor. As you know, I **am** a professor. You can disagree, but we live in a society that has a social consensus about such things. You simply aren't qualified to make such judgements.\n> \n> Bob: I could accept that argument if you were starting with, say, Diophantine equations or lattice theory, but Zazen meditation isn't even *math*. I might not be a professor, but you're pitting your credibility against a social consensus of the math-ness of topics, and that outweighs the social consensus of the credibility of professors.\n"
+        }
+      }
+    }
+  }
+}

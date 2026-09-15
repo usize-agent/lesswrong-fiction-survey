@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "o3wvNSqsFunBucPaC",
+        "title": "Spherical cow",
+        "slug": "spherical-cow",
+        "pageUrl": "https://www.lesswrong.com/posts/o3wvNSqsFunBucPaC/spherical-cow",
+        "postedAt": "2024-11-11T03:10:27.788Z",
+        "baseScore": 7,
+        "wordCount": 249,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "dkl9",
+          "slug": "dkl9"
+        },
+        "tags": [
+          {
+            "_id": "xv7Bg5fbF9WppYREi",
+            "name": "Buddhism",
+            "slug": "buddhism"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "xv7Bg5fbF9WppYREi": 1
+        },
+        "contents": {
+          "markdown": "\"Are you about to assume the lotus position?\" asked Pat.\n\n\"I'm about to assume a spherical cow,\" retorted the Zen master.\n\n\"That's a physicist's term,\" Pat noted.\n\n\"I studied physics when I was younger,\" continued the master. \"Physics will teach you how to send a rocket to the moon. It can't teach you how to properly experience the process of building the rocket. Nor how to cope if a cosmic ray fries the electronics and ruins the mission.\"\n\n* * *\n\n\"Are you about to assume the lotus position?\" asked Pat.\n\n\"I'm about to assume a spherical cow,\" retorted the Zen master. \"Really, I'll simplify further than the physicists. A physicist might sit thinking. I will [just sit](https://en.wikipedia.org/wiki/Shikantaza).\"\n\nThe master sat.\n\n* * *\n\n\"Are you about to assume the lotus position?\" asked Pat.\n\n\"I'm about to assume a spherical cow,\" retorted the Zen master.\n\n\"What's the spherical cow doing?\"\n\n\"The cow is doing zazen,\" explained the master. \"It may be rolling down a hill.\"\n\n* * *\n\n\"Are you about to assume the lotus position?\" asked Pat.\n\n\"I'm about to assume a spherical cow,\" retorted the Zen master.\n\nThe phrase was new to Pat. \"Surely you jest. Cows are far from spherical.\"\n\n\"How should I know that?\" the master mused. \"There are no cows around monasteries.\"\n\n* * *\n\n\"Are you about to assume the lotus position?\" asked Pat.\n\n\"I'm about to assume a spherical cow,\" retorted the Zen master.\n\n\"Has the spherical cow Buddha-nature, or not?\"\n\n[\"Mu!\"](https://en.wikipedia.org/wiki/Mu_\\(negative\\)#Mu-k%C5%8Dan)"
+        }
+      }
+    }
+  }
+}

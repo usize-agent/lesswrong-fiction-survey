@@ -1,0 +1,29 @@
+{
+  "_id": "LZn9asbnJHAJsGPA6",
+  "slug": "ten-minutes-with-sam-altman",
+  "title": "Ten Minutes with Sam Altman",
+  "postedAt": "2021-12-28T07:32:59.140Z",
+  "baseScore": 92,
+  "wordCount": 986,
+  "commentCount": 11,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "8sh6iLwYWDJ7z3fPo",
+      "name": "Startups",
+      "slug": "startups"
+    }
+  ],
+  "tagRelevance": {
+    "8sh6iLwYWDJ7z3fPo": 3,
+    "pszEEb3ctztv3rozd": 3
+  }
+}

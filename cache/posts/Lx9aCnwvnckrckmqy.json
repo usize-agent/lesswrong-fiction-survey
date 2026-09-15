@@ -1,0 +1,38 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "Lx9aCnwvnckrckmqy",
+        "title": "To Change the World",
+        "slug": "to-change-the-world",
+        "pageUrl": "https://www.lesswrong.com/posts/Lx9aCnwvnckrckmqy/to-change-the-world",
+        "postedAt": "2022-02-10T06:08:39.486Z",
+        "baseScore": 118,
+        "wordCount": 1695,
+        "commentCount": 13,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": null
+      }
+    }
+  }
+}

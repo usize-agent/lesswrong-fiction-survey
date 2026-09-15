@@ -1,0 +1,3522 @@
+{
+  "data": {
+    "tagRels": {
+      "results": [
+        {
+          "_id": "hMBPD6Gqwqz4gEQ8B",
+          "baseScore": 42,
+          "post": {
+            "_id": "vNHf7dx5QZA4SLSZb",
+            "slug": "chapter-1-a-day-of-very-low-probability",
+            "title": "Chapter 1: A Day of Very Low Probability",
+            "postedAt": "2015-03-14T19:00:15.552Z",
+            "baseScore": 290,
+            "wordCount": 2729,
+            "commentCount": 19,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "GBpwq8cWvaeRoE9X5",
+                "name": "Fiction (Topic)",
+                "slug": "fiction-topic"
+              }
+            ],
+            "tagRelevance": {
+              "GBpwq8cWvaeRoE9X5": 1,
+              "etDohXtBrXd8WqCtR": 42
+            }
+          }
+        },
+        {
+          "_id": "f5bNFxA8aqWJMdkxr",
+          "baseScore": 30,
+          "post": {
+            "_id": "HawFh7RvDM4RyoJ2d",
+            "slug": "three-worlds-collide-0-8",
+            "title": "Three Worlds Collide (0/8)",
+            "postedAt": "2009-01-30T12:07:52.000Z",
+            "baseScore": 110,
+            "wordCount": 124,
+            "commentCount": 99,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "oooqkNGqAHPGsfgdA",
+                "name": "Metaethics",
+                "slug": "metaethics-1"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 30,
+              "oooqkNGqAHPGsfgdA": 2
+            }
+          }
+        },
+        {
+          "_id": "v7EyDS8bhze69Ytms",
+          "baseScore": 28,
+          "post": {
+            "_id": "CKgPFHoWFkviYz7CB",
+            "slug": "the-redaction-machine",
+            "title": "The Redaction Machine",
+            "postedAt": "2022-09-20T22:03:15.309Z",
+            "baseScore": 548,
+            "wordCount": 8101,
+            "commentCount": 48,
+            "user": {
+              "displayName": "Ben",
+              "slug": "ben-lang"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "pGqRLe9bFDX2G2kXY",
+                "name": "Futurism",
+                "slug": "futurism"
+              },
+              {
+                "_id": "Wgbgir4qzGz8Ztt3u",
+                "name": "Past and Future Selves",
+                "slug": "past-and-future-selves"
+              }
+            ],
+            "tagRelevance": {
+              "Wgbgir4qzGz8Ztt3u": 1,
+              "etDohXtBrXd8WqCtR": 28,
+              "pGqRLe9bFDX2G2kXY": 1
+            }
+          }
+        },
+        {
+          "_id": "rPxABZWESfYZAMmhY",
+          "baseScore": 25,
+          "post": {
+            "_id": "wJnm5cBiZGmKn595f",
+            "slug": "and-i-show-you-how-deep-the-rabbit-hole-goes",
+            "title": "\u2026And I Show You How Deep The Rabbit Hole Goes",
+            "postedAt": "2015-06-03T01:47:01.000Z",
+            "baseScore": 293,
+            "wordCount": 6421,
+            "commentCount": 16,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 25,
+              "hNFdS3rRiYgqqD8aM": 7
+            }
+          }
+        },
+        {
+          "_id": "AgTB4FBZSFhM2dPJw",
+          "baseScore": 23,
+          "post": {
+            "_id": "5wMcKNAwB6X4mp9og",
+            "slug": "that-alien-message",
+            "title": "That Alien Message",
+            "postedAt": "2008-05-22T05:55:13.000Z",
+            "baseScore": 445,
+            "wordCount": 3009,
+            "commentCount": 178,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "zCYXpx33wq8chGyEz",
+                "name": "AI Boxing (Containment)",
+                "slug": "ai-boxing-containment"
+              },
+              {
+                "_id": "22z6XpWKqw3bNv4oR",
+                "name": "Simulation Hypothesis",
+                "slug": "simulation-hypothesis"
+              },
+              {
+                "_id": "4fxcbJ8xSv4SAYkkx",
+                "name": "Bayesianism",
+                "slug": "bayesianism"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "22z6XpWKqw3bNv4oR": 4,
+              "4fxcbJ8xSv4SAYkkx": 2,
+              "F2XfCTxXLQBGjbm8P": 2,
+              "etDohXtBrXd8WqCtR": 23,
+              "sYm3HiWcfZvrGu3ui": 10,
+              "zCYXpx33wq8chGyEz": 15
+            }
+          }
+        },
+        {
+          "_id": "a5rnDwXZ2pwioapNx",
+          "baseScore": 19,
+          "post": {
+            "_id": "uyBeAN5jPEATMqKkX",
+            "slug": "lies-told-to-children-1",
+            "title": "Lies Told To Children",
+            "postedAt": "2022-04-14T11:25:10.282Z",
+            "baseScore": 407,
+            "wordCount": 2095,
+            "commentCount": 99,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "etDohXtBrXd8WqCtR": 19
+            }
+          }
+        },
+        {
+          "_id": "uhXbtNzzGHrjHuDq5",
+          "baseScore": 18,
+          "post": {
+            "_id": "SvKSwT6xYfYahH4XN",
+            "slug": "universal-love-said-the-cactus-person",
+            "title": "Universal Love, Said The Cactus Person",
+            "postedAt": "2015-04-22T02:42:11.000Z",
+            "baseScore": 86,
+            "wordCount": 2879,
+            "commentCount": 3,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 18
+            }
+          }
+        },
+        {
+          "_id": "kzRsce8rpn8TvrCct",
+          "baseScore": 18,
+          "post": {
+            "_id": "JH6tJhYpnoCfFqAct",
+            "slug": "the-company-man",
+            "title": "The Company Man",
+            "postedAt": "2025-09-17T17:47:13.518Z",
+            "baseScore": 852,
+            "wordCount": 5408,
+            "commentCount": 79,
+            "user": {
+              "displayName": "Tom\u00e1s B.",
+              "slug": "bjartur-tomas"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 18
+            }
+          }
+        },
+        {
+          "_id": "6r3JSBM2qEFwjG2a8",
+          "baseScore": 18,
+          "post": {
+            "_id": "Lt8Rn4rkYwqiTXGPy",
+            "slug": "answer-to-job",
+            "title": "Answer to Job",
+            "postedAt": "2015-03-15T18:02:53.000Z",
+            "baseScore": 78,
+            "wordCount": 1116,
+            "commentCount": 7,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "ZTRNmvQGgoYiymYnq",
+                "name": "Consequentialism",
+                "slug": "consequentialism"
+              }
+            ],
+            "tagRelevance": {
+              "ZTRNmvQGgoYiymYnq": 2,
+              "etDohXtBrXd8WqCtR": 18
+            }
+          }
+        },
+        {
+          "_id": "frthuLpCxy5jhbif2",
+          "baseScore": 16,
+          "post": {
+            "_id": "NencL9r3Y7MPiqEbS",
+            "slug": "the-devil-you-know",
+            "title": "The Devil You Know",
+            "postedAt": "2020-05-21T21:50:01.425Z",
+            "baseScore": 6,
+            "wordCount": 1005,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Slimepriestess",
+              "slug": "hivewired"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "RLQumypPQGPYg9t6G",
+                "name": "Gaming (videogames/tabletop)",
+                "slug": "gaming-videogames-tabletop"
+              }
+            ],
+            "tagRelevance": {
+              "RLQumypPQGPYg9t6G": 3,
+              "etDohXtBrXd8WqCtR": 16
+            }
+          }
+        },
+        {
+          "_id": "spY4TAEDBkLSBCgS3",
+          "baseScore": 15,
+          "post": {
+            "_id": "bTW87r8BrN3ySrHda",
+            "slug": "starwink-by-alicorn",
+            "title": "\"Starwink\" by Alicorn",
+            "postedAt": "2020-05-18T08:17:53.193Z",
+            "baseScore": 47,
+            "wordCount": 15,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Zack_M_Davis",
+              "slug": "zack_m_davis"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 15,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "HD5cBNoQwJEov2oaj",
+          "baseScore": 15,
+          "post": {
+            "_id": "ctpkTaqTKbmm6uRgC",
+            "slug": "failed-utopia-4-2",
+            "title": "Failed Utopia #4-2",
+            "postedAt": "2009-01-21T11:04:43.000Z",
+            "baseScore": 159,
+            "wordCount": 2792,
+            "commentCount": 275,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "W9aNkPwtPhMrcfgj7",
+                "name": "Sex & Gender",
+                "slug": "sex-and-gender"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "t3vNhmcpuGJmbFNvd",
+                "name": "Utopia",
+                "slug": "utopia"
+              },
+              {
+                "_id": "sSNtcEQsqHgN8ZmRF",
+                "name": "Fun Theory",
+                "slug": "fun-theory"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 2,
+              "W9aNkPwtPhMrcfgj7": 3,
+              "etDohXtBrXd8WqCtR": 15,
+              "sSNtcEQsqHgN8ZmRF": 1,
+              "t3vNhmcpuGJmbFNvd": 2
+            }
+          }
+        },
+        {
+          "_id": "8KynHTXkG36oWZotu",
+          "baseScore": 15,
+          "post": {
+            "_id": "XuLG6M7sHuenYWbfC",
+            "slug": "the-sword-of-good",
+            "title": "The Sword of Good",
+            "postedAt": "2009-09-03T00:53:55.237Z",
+            "baseScore": 162,
+            "wordCount": 612,
+            "commentCount": 304,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "tTp6uCjAMJh66vZkc",
+                "name": "Moral uncertainty",
+                "slug": "moral-uncertainty"
+              },
+              {
+                "_id": "DdgSyQoZXjj3KnF4N",
+                "name": "Tribalism",
+                "slug": "tribalism"
+              }
+            ],
+            "tagRelevance": {
+              "DdgSyQoZXjj3KnF4N": 1,
+              "etDohXtBrXd8WqCtR": 15,
+              "tTp6uCjAMJh66vZkc": 1
+            }
+          }
+        },
+        {
+          "_id": "39aXjKWfYko8SjQnJ",
+          "baseScore": 15,
+          "post": {
+            "_id": "CHD5m9fnosr7L3dto",
+            "slug": "friendship-is-optimal-a-my-little-pony-fanfic-about-an",
+            "title": "Friendship is Optimal: A My Little Pony fanfic about an optimization process",
+            "postedAt": "2012-09-08T06:16:09.920Z",
+            "baseScore": 124,
+            "wordCount": 294,
+            "commentCount": 152,
+            "user": {
+              "displayName": "iceman",
+              "slug": "iceman"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "ZFrgTgzwEfStg26JL",
+                "name": "AI Risk",
+                "slug": "ai-risk"
+              }
+            ],
+            "tagRelevance": {
+              "ZFrgTgzwEfStg26JL": 1,
+              "etDohXtBrXd8WqCtR": 15
+            }
+          }
+        },
+        {
+          "_id": "yZ3SQp7JxT6p7mNsC",
+          "baseScore": 14,
+          "post": {
+            "_id": "KMTTrA9XYsCNE7QKD",
+            "slug": "i",
+            "title": "I",
+            "postedAt": "2011-01-08T17:51:30.499Z",
+            "baseScore": 66,
+            "wordCount": 5639,
+            "commentCount": 38,
+            "user": {
+              "displayName": "PhilGoetz",
+              "slug": "philgoetz"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 14
+            }
+          }
+        },
+        {
+          "_id": "WmhHknavPohbuaEbx",
+          "baseScore": 14,
+          "post": {
+            "_id": "Ybp6Wg6yy9DWRcBiR",
+            "slug": "the-adventure-a-new-utopia-story",
+            "title": "The Adventure: a new Utopia story",
+            "postedAt": "2020-02-05T16:50:42.909Z",
+            "baseScore": 108,
+            "wordCount": 15254,
+            "commentCount": 37,
+            "user": {
+              "displayName": "Stuart_Armstrong",
+              "slug": "stuart_armstrong"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sSNtcEQsqHgN8ZmRF",
+                "name": "Fun Theory",
+                "slug": "fun-theory"
+              },
+              {
+                "_id": "t3vNhmcpuGJmbFNvd",
+                "name": "Utopia",
+                "slug": "utopia"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 14,
+              "sSNtcEQsqHgN8ZmRF": 2,
+              "t3vNhmcpuGJmbFNvd": 2
+            }
+          }
+        },
+        {
+          "_id": "PtoyfswcpCYR9tF6u",
+          "baseScore": 13,
+          "post": {
+            "_id": "jFzovY2CERF5bd2EW",
+            "slug": "a-story-with-zombies",
+            "title": "A Story With Zombies",
+            "postedAt": "2014-12-07T20:11:47.000Z",
+            "baseScore": 41,
+            "wordCount": 1020,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 13,
+              "hNFdS3rRiYgqqD8aM": 2
+            }
+          }
+        },
+        {
+          "_id": "6Xq8tfhALWjNzufYR",
+          "baseScore": 13,
+          "post": {
+            "_id": "fnEWQAYxcRnaYBqaZ",
+            "slug": "initiation-ceremony",
+            "title": "Initiation Ceremony",
+            "postedAt": "2008-03-28T20:40:03.000Z",
+            "baseScore": 136,
+            "wordCount": 1023,
+            "commentCount": 99,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 13
+            }
+          }
+        },
+        {
+          "_id": "27p7m9rtQQbABKgbm",
+          "baseScore": 13,
+          "post": {
+            "_id": "yWMKQBnTwFAPFdN6S",
+            "slug": "fiction-lena-mmacevedo",
+            "title": "[Fiction] Lena (MMAcevedo)",
+            "postedAt": "2021-02-23T19:46:34.637Z",
+            "baseScore": 49,
+            "wordCount": 44,
+            "commentCount": 7,
+            "user": {
+              "displayName": "Kaj_Sotala",
+              "slug": "kaj_sotala"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb2b1",
+                "name": "Whole Brain Emulation",
+                "slug": "whole-brain-emulation"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "etDohXtBrXd8WqCtR": 13,
+              "5f5c37ee1b5cdee568cfb2b1": 8
+            }
+          }
+        },
+        {
+          "_id": "vKppZDFemKEQshPPL",
+          "baseScore": 12,
+          "post": {
+            "_id": "sMsvcdxbK2Xqx8EHr",
+            "slug": "just-another-day-in-utopia",
+            "title": "Just another day in utopia",
+            "postedAt": "2011-12-25T09:37:00.410Z",
+            "baseScore": 148,
+            "wordCount": 3901,
+            "commentCount": 118,
+            "user": {
+              "displayName": "Stuart_Armstrong",
+              "slug": "stuart_armstrong"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "t3vNhmcpuGJmbFNvd",
+                "name": "Utopia",
+                "slug": "utopia"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 12,
+              "t3vNhmcpuGJmbFNvd": 2
+            }
+          }
+        },
+        {
+          "_id": "N8edmdASD93CB5WBM",
+          "baseScore": 11,
+          "post": {
+            "_id": "4T8NwAgFYRnuFPRHk",
+            "slug": "the-cambist-and-lord-iron-a-fairy-tale-of-economics",
+            "title": "The Cambist and Lord Iron: A Fairy Tale of Economics",
+            "postedAt": "2010-12-19T02:05:22.137Z",
+            "baseScore": 68,
+            "wordCount": 63,
+            "commentCount": 40,
+            "user": {
+              "displayName": "Alicorn",
+              "slug": "alicorn"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "PDJ6KqJBRzvKPfuS3",
+                "name": "Economics",
+                "slug": "economics"
+              }
+            ],
+            "tagRelevance": {
+              "PDJ6KqJBRzvKPfuS3": 3,
+              "etDohXtBrXd8WqCtR": 11
+            }
+          }
+        },
+        {
+          "_id": "6aFrP6F5xf7nhaWyg",
+          "baseScore": 11,
+          "post": {
+            "_id": "uWM5auewdKjdJJG9t",
+            "slug": "the-book-of-hpmor-fanfics",
+            "title": "The Book of HPMOR Fanfics",
+            "postedAt": "2020-07-03T13:32:17.536Z",
+            "baseScore": 44,
+            "wordCount": 221,
+            "commentCount": 18,
+            "user": {
+              "displayName": "Mati_Roy",
+              "slug": "mathieuroy"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "yrg267i4a8EsgYAXp",
+                "name": "HPMOR (discussion & meta)",
+                "slug": "hpmor-discussion-and-meta"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 11,
+              "yrg267i4a8EsgYAXp": 7
+            }
+          }
+        },
+        {
+          "_id": "paGohir3ykdh3YxnB",
+          "baseScore": 10,
+          "post": {
+            "_id": "LPiBBn2tqpDv76w87",
+            "slug": "that-mad-olympiad-1",
+            "title": "That Mad Olympiad",
+            "postedAt": "2025-10-15T13:45:13.330Z",
+            "baseScore": 202,
+            "wordCount": 4311,
+            "commentCount": 17,
+            "user": {
+              "displayName": "Tom\u00e1s B.",
+              "slug": "bjartur-tomas"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 10
+            }
+          }
+        },
+        {
+          "_id": "7ZGo3BiJ2nmwd75SL",
+          "baseScore": 10,
+          "post": {
+            "_id": "H4kadKrC2xLK24udn",
+            "slug": "the-maker-of-mind",
+            "title": "The Maker of MIND",
+            "postedAt": "2021-11-20T16:28:56.327Z",
+            "baseScore": 160,
+            "wordCount": 3284,
+            "commentCount": 21,
+            "user": {
+              "displayName": "Tom\u00e1s B.",
+              "slug": "bjartur-tomas"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sSNtcEQsqHgN8ZmRF",
+                "name": "Fun Theory",
+                "slug": "fun-theory"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 10,
+              "sSNtcEQsqHgN8ZmRF": 5
+            }
+          }
+        },
+        {
+          "_id": "StCzub7G2gWgPG98D",
+          "baseScore": 9,
+          "post": {
+            "_id": "GJgudfEvNx8oeyffH",
+            "slug": "the-ants-and-the-grasshopper",
+            "title": "The ants and the grasshopper",
+            "postedAt": "2023-06-04T22:00:04.577Z",
+            "baseScore": 517,
+            "wordCount": 1557,
+            "commentCount": 45,
+            "user": {
+              "displayName": "Richard_Ngo",
+              "slug": "ricraz"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 7,
+              "etDohXtBrXd8WqCtR": 9,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "jkz9jsxhunpNxfFXQ",
+          "baseScore": 9,
+          "post": {
+            "_id": "zezmMfc6P3wpM3o4t",
+            "slug": "fiction-our-final-hour",
+            "title": "[fiction] Our Final Hour",
+            "postedAt": "2022-12-11T05:49:01.489Z",
+            "baseScore": 33,
+            "wordCount": 767,
+            "commentCount": 6,
+            "user": {
+              "displayName": "Mati_Roy",
+              "slug": "mathieuroy"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb178",
+                "name": "Artificial General Intelligence (AGI)",
+                "slug": "artificial-general-intelligence-agi"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 9,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "5f5c37ee1b5cdee568cfb178": 2
+            }
+          }
+        },
+        {
+          "_id": "wevWbwpiwA7hkqKyA",
+          "baseScore": 8,
+          "post": {
+            "_id": "duF4Qh9pn7Y5imhsm",
+            "slug": "the-liar-and-the-scold",
+            "title": "The Liar and the Scold",
+            "postedAt": "2022-01-20T20:31:14.765Z",
+            "baseScore": 119,
+            "wordCount": 3714,
+            "commentCount": 13,
+            "user": {
+              "displayName": "Tom\u00e1s B.",
+              "slug": "bjartur-tomas"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 8,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "r6BY2wyg4jgdRas3C",
+          "baseScore": 8,
+          "post": {
+            "_id": "igxS7re8nfihpbTo5",
+            "slug": "the-last-paperclip",
+            "title": "The Last Paperclip",
+            "postedAt": "2022-05-12T19:25:50.891Z",
+            "baseScore": 65,
+            "wordCount": 5294,
+            "commentCount": 15,
+            "user": {
+              "displayName": "Logan Zoellner",
+              "slug": "logan-zoellner"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 8,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "nHgkQNcp9YS8svjhC",
+          "baseScore": 8,
+          "post": {
+            "_id": "AodrQzsDtm97PFZx2",
+            "slug": "harry-potter-and-the-methods-of-psychomagic-or-chapter-1",
+            "title": "Harry Potter and the Methods of Psychomagic | Chapter 1: Affect",
+            "postedAt": "2021-09-15T17:03:06.901Z",
+            "baseScore": 64,
+            "wordCount": 1970,
+            "commentCount": 5,
+            "user": {
+              "displayName": "Henry Prowbell",
+              "slug": "henry-prowbell"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "dRfzy5kGZLoxTCSgr",
+                "name": "HPMOR Fanfiction",
+                "slug": "hpmor-fanfiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 1,
+              "dRfzy5kGZLoxTCSgr": 5,
+              "etDohXtBrXd8WqCtR": 8
+            }
+          }
+        },
+        {
+          "_id": "ebmWd6ZP534afTdRC",
+          "baseScore": 8,
+          "post": {
+            "_id": "4tke3ibK9zfnvh9sE",
+            "slug": "the-bayesian-tyrant",
+            "title": "The Bayesian Tyrant",
+            "postedAt": "2020-08-20T00:08:55.738Z",
+            "baseScore": 145,
+            "wordCount": 1890,
+            "commentCount": 21,
+            "user": {
+              "displayName": "abramdemski",
+              "slug": "abramdemski"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "E8PHMuf7tsr8teXAe",
+                "name": "Betting",
+                "slug": "betting"
+              },
+              {
+                "_id": "R6dqPii4cyNpuecLt",
+                "name": "Prediction Markets",
+                "slug": "prediction-markets"
+              },
+              {
+                "_id": "jTScW3bvF3j6WoiFe",
+                "name": "Radical Probabilism",
+                "slug": "radical-probabilism"
+              },
+              {
+                "_id": "LhX3F2SvGDarZCuh6",
+                "name": "Bayes' Theorem",
+                "slug": "bayes-theorem"
+              },
+              {
+                "_id": "8hPTCJbwJnLBmfpCX",
+                "name": "Calibration",
+                "slug": "calibration"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "8hPTCJbwJnLBmfpCX": 2,
+              "E8PHMuf7tsr8teXAe": 3,
+              "F2XfCTxXLQBGjbm8P": 5,
+              "LhX3F2SvGDarZCuh6": 2,
+              "Ng8Gice9KNkncxqcj": 2,
+              "R6dqPii4cyNpuecLt": 3,
+              "etDohXtBrXd8WqCtR": 8,
+              "jTScW3bvF3j6WoiFe": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "4CoLgeMyRnsgwZ7Sz",
+          "baseScore": 8,
+          "post": {
+            "_id": "a5e9arCnbDac9Doig",
+            "slug": "it-looks-like-you-re-trying-to-take-over-the-world",
+            "title": "It Looks Like You're Trying To Take Over The World",
+            "postedAt": "2022-03-09T16:35:35.326Z",
+            "baseScore": 419,
+            "wordCount": 143,
+            "commentCount": 121,
+            "user": {
+              "displayName": "gwern",
+              "slug": "gwern"
+            },
+            "tags": [
+              {
+                "_id": "QH4LhvnyR4QkW9MG8",
+                "name": "Squiggle Maximizer (formerly \"Paperclip maximizer\")",
+                "slug": "squiggle-maximizer-formerly-paperclip-maximizer"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "ZFrgTgzwEfStg26JL",
+                "name": "AI Risk",
+                "slug": "ai-risk"
+              },
+              {
+                "_id": "YkPxg2tFDQNdaEZDJ",
+                "name": "AI Risk Concrete Stories",
+                "slug": "ai-risk-concrete-stories"
+              },
+              {
+                "_id": "oiRp4T6u5poc8r9Tj",
+                "name": "AI Takeoff",
+                "slug": "ai-takeoff"
+              },
+              {
+                "_id": "zHjC29kkPmsdo7WTr",
+                "name": "AI Timelines",
+                "slug": "ai-timelines"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "QH4LhvnyR4QkW9MG8": 9,
+              "YkPxg2tFDQNdaEZDJ": 2,
+              "ZFrgTgzwEfStg26JL": 2,
+              "etDohXtBrXd8WqCtR": 8,
+              "oiRp4T6u5poc8r9Tj": 1,
+              "sYm3HiWcfZvrGu3ui": 6,
+              "zHjC29kkPmsdo7WTr": 1
+            }
+          }
+        },
+        {
+          "_id": "3AkK7jMSDBW2ELfQu",
+          "baseScore": 8,
+          "post": {
+            "_id": "znbfRXHq285nS7NAh",
+            "slug": "the-terrarium",
+            "title": "The Terrarium",
+            "postedAt": "2026-03-26T18:08:17.732Z",
+            "baseScore": 611,
+            "wordCount": 6188,
+            "commentCount": 54,
+            "user": {
+              "displayName": "Caleb Biddulph",
+              "slug": "caleb-biddulph"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 8,
+              "sYm3HiWcfZvrGu3ui": 4
+            }
+          }
+        },
+        {
+          "_id": "puQ8LSGcMYHJR2ZfM",
+          "baseScore": 7,
+          "post": {
+            "_id": "iC9tQxxsP3iiLGwJD",
+            "slug": "matryoshka-faraday-box",
+            "title": "Matryoshka Faraday Box",
+            "postedAt": "2020-11-26T09:42:31.178Z",
+            "baseScore": 55,
+            "wordCount": 980,
+            "commentCount": 3,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 7
+            }
+          }
+        },
+        {
+          "_id": "nbwLtoiBqMdtSZhXd",
+          "baseScore": 7,
+          "post": {
+            "_id": "n5TqCuizyJDfAPjkr",
+            "slug": "the-baby-eating-aliens-1-8",
+            "title": "The Baby-Eating Aliens (1/8)",
+            "postedAt": "2009-01-30T12:07:57.000Z",
+            "baseScore": 141,
+            "wordCount": 3392,
+            "commentCount": 85,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 7
+            }
+          }
+        },
+        {
+          "_id": "XiiBxFB5NHjYMKSLr",
+          "baseScore": 6,
+          "post": {
+            "_id": "8yCXeafJo67tYe5L4",
+            "slug": "and-all-the-shoggoths-merely-players",
+            "title": "And All the Shoggoths Merely Players",
+            "postedAt": "2024-02-10T19:56:59.513Z",
+            "baseScore": 178,
+            "wordCount": 3633,
+            "commentCount": 59,
+            "user": {
+              "displayName": "Zack_M_Davis",
+              "slug": "zack_m_davis"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "yXNtYNHJB54T3bGm3",
+                "name": "Dialogue (format)",
+                "slug": "dialogue-format"
+              },
+              {
+                "_id": "KmgkrftQuX7jmjjp5",
+                "name": "Language Models (LLMs)",
+                "slug": "language-models-llms"
+              },
+              {
+                "_id": "fpEBgFE7fgpxTm9BF",
+                "name": "Machine Learning  (ML)",
+                "slug": "machine-learning-ml"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "KmgkrftQuX7jmjjp5": 2,
+              "etDohXtBrXd8WqCtR": 6,
+              "fpEBgFE7fgpxTm9BF": 2,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "yXNtYNHJB54T3bGm3": 2
+            }
+          }
+        },
+        {
+          "_id": "SgRFaqPAPHNrF8gQG",
+          "baseScore": 6,
+          "post": {
+            "_id": "eopA4MqhrE4dkLjHX",
+            "slug": "the-truth-behind-the-2026-j-p-morgan-healthcare-conference",
+            "title": "The truth behind the 2026 J.P. Morgan Healthcare Conference",
+            "postedAt": "2026-01-17T17:28:11.623Z",
+            "baseScore": 82,
+            "wordCount": 2823,
+            "commentCount": 35,
+            "user": {
+              "displayName": "Abhishaike Mahajan",
+              "slug": "abhishaike-mahajan"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 6
+            }
+          }
+        },
+        {
+          "_id": "bLsQEB4X9EmamXNe4",
+          "baseScore": 6,
+          "post": {
+            "_id": "MFNJ7kQttCuCXHp8P",
+            "slug": "the-goddess-of-everything-else",
+            "title": "The Goddess of Everything Else",
+            "postedAt": "2015-08-17T20:59:40.000Z",
+            "baseScore": 102,
+            "wordCount": 2309,
+            "commentCount": 8,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "ai87fPyyT6mWb4YkT",
+                "name": "Eldritch Analogies",
+                "slug": "eldritch-analogies"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 4,
+              "ai87fPyyT6mWb4YkT": 11,
+              "etDohXtBrXd8WqCtR": 6
+            }
+          }
+        },
+        {
+          "_id": "7xByCmrsZdjTA9xky",
+          "baseScore": 6,
+          "post": {
+            "_id": "6hfGNLf4Hg5DXqJCF",
+            "slug": "a-fable-of-science-and-politics",
+            "title": "A Fable of Science and Politics",
+            "postedAt": "2006-12-23T04:50:47.000Z",
+            "baseScore": 399,
+            "wordCount": 1570,
+            "commentCount": 102,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "kdbs6xBndPkmrYAxM",
+                "name": "Politics",
+                "slug": "politics"
+              },
+              {
+                "_id": "BtQRRKTPxagBH6KrG",
+                "name": "Blues & Greens (metaphor)",
+                "slug": "blues-and-greens-metaphor"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "DdgSyQoZXjj3KnF4N",
+                "name": "Tribalism",
+                "slug": "tribalism"
+              },
+              {
+                "_id": "E6qP9r9xxM4LCxaFk",
+                "name": "Litany of Tarski",
+                "slug": "litany-of-tarski"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "BtQRRKTPxagBH6KrG": 11,
+              "DdgSyQoZXjj3KnF4N": 3,
+              "E6qP9r9xxM4LCxaFk": 1,
+              "F2XfCTxXLQBGjbm8P": 3,
+              "Ng8Gice9KNkncxqcj": 3,
+              "etDohXtBrXd8WqCtR": 6,
+              "kdbs6xBndPkmrYAxM": 13
+            }
+          }
+        },
+        {
+          "_id": "7RpR8MMuCBpXcgNeJ",
+          "baseScore": 6,
+          "post": {
+            "_id": "kSiT2XjfTnDHKx44W",
+            "slug": "a-modern-myth",
+            "title": "A Modern Myth",
+            "postedAt": "2017-02-27T17:29:17.000Z",
+            "baseScore": 43,
+            "wordCount": 14627,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 6
+            }
+          }
+        },
+        {
+          "_id": "4vpaczfxGFWCbmuAx",
+          "baseScore": 6,
+          "post": {
+            "_id": "SA9hDewwsYgnuscae",
+            "slug": "projectlawful-com-eliezer-s-latest-story-past-1m-words",
+            "title": "ProjectLawful.com: Eliezer's latest story, past 1M words",
+            "postedAt": "2022-05-11T06:18:02.738Z",
+            "baseScore": 245,
+            "wordCount": 322,
+            "commentCount": 112,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "EmaCLRKb4baBFq4ra",
+                "name": "Dath Ilan",
+                "slug": "dath-ilan"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "EmaCLRKb4baBFq4ra": 7,
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 6
+            }
+          }
+        },
+        {
+          "_id": "42YCPM54BfzSRx9oT",
+          "baseScore": 6,
+          "post": {
+            "_id": "4hLcbXaqudM9wSeor",
+            "slug": "philosophy-in-the-darkest-timeline-basics-of-the-evolution",
+            "title": "Philosophy in the Darkest Timeline: Basics of the Evolution of Meaning",
+            "postedAt": "2020-06-07T07:52:09.143Z",
+            "baseScore": 135,
+            "wordCount": 4256,
+            "commentCount": 17,
+            "user": {
+              "displayName": "Zack_M_Davis",
+              "slug": "zack_m_davis"
+            },
+            "tags": [
+              {
+                "_id": "FtT2T9bRbECCGYxrL",
+                "name": "Philosophy of Language",
+                "slug": "philosophy-of-language"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "LnEEs8xGooYmQ8iLA",
+                "name": "Truth, Semantics, & Meaning",
+                "slug": "truth-semantics-and-meaning"
+              },
+              {
+                "_id": "HFou6RHqFagkyrKkW",
+                "name": "Programming",
+                "slug": "programming"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "FtT2T9bRbECCGYxrL": 12,
+              "HFou6RHqFagkyrKkW": 3,
+              "LnEEs8xGooYmQ8iLA": 5,
+              "Ng8Gice9KNkncxqcj": 3,
+              "etDohXtBrXd8WqCtR": 6
+            }
+          }
+        },
+        {
+          "_id": "zpn8N8qBwbe5StcRS",
+          "baseScore": 5,
+          "post": {
+            "_id": "jKxuB9pZXRiom7ecK",
+            "slug": "glass-puppet",
+            "title": "Glass Puppet",
+            "postedAt": "2022-05-25T23:01:15.473Z",
+            "baseScore": 79,
+            "wordCount": 788,
+            "commentCount": 8,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "sSYDCTpNWmosKTTtS",
+          "baseScore": 5,
+          "post": {
+            "_id": "tu4qwFYJeDDER8bch",
+            "slug": "fiction-a-confession",
+            "title": "[Fiction] A Confession",
+            "postedAt": "2024-04-18T16:28:48.194Z",
+            "baseScore": 38,
+            "wordCount": 1359,
+            "commentCount": 2,
+            "user": {
+              "displayName": "Arjun Panickssery",
+              "slug": "arjun-panickssery"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "qMLhTEFv9JfzMKjww",
+          "baseScore": 5,
+          "post": null
+        },
+        {
+          "_id": "NQFtHTGA2b8jovrpx",
+          "baseScore": 5,
+          "post": {
+            "_id": "fsDz6HieZJBu54Yes",
+            "slug": "zombies-the-movie",
+            "title": "Zombies: The Movie",
+            "postedAt": "2008-04-20T05:53:14.000Z",
+            "baseScore": 185,
+            "wordCount": 1035,
+            "commentCount": 82,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "uLqT8mmFiA8NeytTi",
+                "name": "Zombies",
+                "slug": "zombies"
+              },
+              {
+                "_id": "XSryTypw5Hszpa4TS",
+                "name": "Consciousness",
+                "slug": "consciousness"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "KqrZ5sDEyHm6JaaKp",
+                "name": "The Hard Problem of Consciousness",
+                "slug": "the-hard-problem-of-consciousness"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 1,
+              "KqrZ5sDEyHm6JaaKp": 2,
+              "XSryTypw5Hszpa4TS": 3,
+              "etDohXtBrXd8WqCtR": 5,
+              "hNFdS3rRiYgqqD8aM": 2,
+              "uLqT8mmFiA8NeytTi": 4
+            }
+          }
+        },
+        {
+          "_id": "MnY9o4tTkErHTLYRo",
+          "baseScore": 5,
+          "post": {
+            "_id": "BZMc9Xzqw5WcCMHrr",
+            "slug": "the-moral-of-the-story",
+            "title": "The Moral Of The Story",
+            "postedAt": "2016-10-18T02:22:45.000Z",
+            "baseScore": 62,
+            "wordCount": 1206,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 5,
+              "hNFdS3rRiYgqqD8aM": 2
+            }
+          }
+        },
+        {
+          "_id": "Kvw5kedbgHcPbiBWH",
+          "baseScore": 5,
+          "post": {
+            "_id": "cDwp4qNgePh3FrEMc",
+            "slug": "the-origami-men",
+            "title": "The Origami Men",
+            "postedAt": "2025-10-06T15:25:06.694Z",
+            "baseScore": 193,
+            "wordCount": 4787,
+            "commentCount": 14,
+            "user": {
+              "displayName": "Tom\u00e1s B.",
+              "slug": "bjartur-tomas"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "ftqftBdaSr5Xi8TW6",
+          "baseScore": 5,
+          "post": {
+            "_id": "Rx9GLepCxctXDqCPc",
+            "slug": "a-dialogue-on-rationalist-activism",
+            "title": "A Dialogue on Rationalist Activism",
+            "postedAt": "2018-09-10T18:30:01.130Z",
+            "baseScore": 107,
+            "wordCount": 2643,
+            "commentCount": 24,
+            "user": {
+              "displayName": "moridinamael",
+              "slug": "moridinamael"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "JsJPrdgRGRqnci8cZ",
+                "name": "Altruism",
+                "slug": "altruism"
+              },
+              {
+                "_id": "izp6eeJJEg9v5zcur",
+                "name": "Community",
+                "slug": "community"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "JsJPrdgRGRqnci8cZ": 1,
+              "Ng8Gice9KNkncxqcj": 1,
+              "etDohXtBrXd8WqCtR": 5,
+              "izp6eeJJEg9v5zcur": 5
+            }
+          }
+        },
+        {
+          "_id": "F9oSXYPdt23Nwb95g",
+          "baseScore": 5,
+          "post": {
+            "_id": "mMBTPTjRbsrqbSkZE",
+            "slug": "sorting-pebbles-into-correct-heaps",
+            "title": "Sorting Pebbles Into Correct Heaps",
+            "postedAt": "2008-08-10T01:00:00.000Z",
+            "baseScore": 264,
+            "wordCount": 1116,
+            "commentCount": 110,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "agnEHZTiXEyzBFPmF",
+                "name": "Orthogonality Thesis",
+                "slug": "orthogonality-thesis"
+              }
+            ],
+            "tagRelevance": {
+              "agnEHZTiXEyzBFPmF": 5,
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "cwiXeB8d5d6yYmbsr",
+          "baseScore": 5,
+          "post": {
+            "_id": "idEyrgFF2THg86pxp",
+            "slug": "bayeswatch-1-jewish-space-laser",
+            "title": "Bayeswatch 1: Jewish Space Laser",
+            "postedAt": "2021-05-03T20:15:44.106Z",
+            "baseScore": 104,
+            "wordCount": 1333,
+            "commentCount": 13,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "bQTvtHmgco5HSroC7",
+          "baseScore": 5,
+          "post": {
+            "_id": "zb3hWt99i9Fm93KPq",
+            "slug": "luna-lovegood-and-the-chamber-of-secrets-part-1-1",
+            "title": "Luna Lovegood and the Chamber of Secrets - Part 1",
+            "postedAt": "2020-11-26T03:02:19.617Z",
+            "baseScore": 161,
+            "wordCount": 969,
+            "commentCount": 32,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "dRfzy5kGZLoxTCSgr",
+                "name": "HPMOR Fanfiction",
+                "slug": "hpmor-fanfiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "dRfzy5kGZLoxTCSgr": 5,
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "bJNusagagF5a38GJ7",
+          "baseScore": 5,
+          "post": {
+            "_id": "yYq3dysgWrBWQrycm",
+            "slug": "luna-lovegood-and-the-chamber-of-secrets-part-6",
+            "title": "Luna Lovegood and the Chamber of Secrets - Part 6",
+            "postedAt": "2020-12-09T08:14:29.404Z",
+            "baseScore": 102,
+            "wordCount": 474,
+            "commentCount": 14,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "6d8ZccDt3hZzpwKqR",
+          "baseScore": 5,
+          "post": {
+            "_id": "dYspinGtiba5oDCcv",
+            "slug": "feature-selection",
+            "title": "Feature Selection",
+            "postedAt": "2021-11-01T00:22:29.993Z",
+            "baseScore": 328,
+            "wordCount": 4771,
+            "commentCount": 24,
+            "user": {
+              "displayName": "Zack_M_Davis",
+              "slug": "zack_m_davis"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "F2XfCTxXLQBGjbm8P",
+                "name": "Parables & Fables",
+                "slug": "parables-and-fables"
+              },
+              {
+                "_id": "NZ67PZ8CkeS6xn27h",
+                "name": "Mesa-Optimization",
+                "slug": "mesa-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "F2XfCTxXLQBGjbm8P": 5,
+              "NZ67PZ8CkeS6xn27h": 2,
+              "etDohXtBrXd8WqCtR": 5
+            }
+          }
+        },
+        {
+          "_id": "ZSQbiyHfcTgBhroR7",
+          "baseScore": 4,
+          "post": {
+            "_id": "M3bM9CTPZTQHBjivf",
+            "slug": "luna-lovegood-and-the-chamber-of-secrets-part-8",
+            "title": "Luna Lovegood and the Chamber of Secrets - Part 8",
+            "postedAt": "2020-12-17T22:29:47.788Z",
+            "baseScore": 79,
+            "wordCount": 551,
+            "commentCount": 16,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "yNbTP2ACCGKQASYHJ",
+          "baseScore": 4,
+          "post": {
+            "_id": "ZxR8P8hBFQ9kC8wMy",
+            "slug": "the-failures-of-eld-science",
+            "title": "The Failures of Eld Science",
+            "postedAt": "2008-05-12T10:32:06.000Z",
+            "baseScore": 116,
+            "wordCount": 2732,
+            "commentCount": 56,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "ZpG9rheyAkgCoEQea",
+                "name": "Practice & Philosophy of Science",
+                "slug": "practice-and-philosophy-of-science"
+              },
+              {
+                "_id": "m4zvJHAiGBTjc5ZFt",
+                "name": "Babble and Prune",
+                "slug": "babble-and-prune"
+              }
+            ],
+            "tagRelevance": {
+              "ZpG9rheyAkgCoEQea": 2,
+              "etDohXtBrXd8WqCtR": 4,
+              "m4zvJHAiGBTjc5ZFt": 1
+            }
+          }
+        },
+        {
+          "_id": "uabumbsDjc7Wr9yz7",
+          "baseScore": 4,
+          "post": {
+            "_id": "aRxDLju75KXD6PCpB",
+            "slug": "wolf-incident-postmortem",
+            "title": "Wolf Incident Postmortem",
+            "postedAt": "2023-01-09T03:20:03.723Z",
+            "baseScore": 138,
+            "wordCount": 418,
+            "commentCount": 13,
+            "user": {
+              "displayName": "jefftk",
+              "slug": "jkaufman"
+            },
+            "tags": [
+              {
+                "_id": "zcvsZQWJBFK6SxK4K",
+                "name": "Postmortems & Retrospectives",
+                "slug": "postmortems-and-retrospectives"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4,
+              "hNFdS3rRiYgqqD8aM": 2,
+              "sYm3HiWcfZvrGu3ui": 1,
+              "zcvsZQWJBFK6SxK4K": 5
+            }
+          }
+        },
+        {
+          "_id": "txiGo7KMeEuXR9eh9",
+          "baseScore": 4,
+          "post": {
+            "_id": "xmWSnxJ5qfYRD9PfR",
+            "slug": "the-owned-ones",
+            "title": "The Owned Ones",
+            "postedAt": "2026-05-12T17:56:56.218Z",
+            "baseScore": 399,
+            "wordCount": 1691,
+            "commentCount": 53,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "HhQvdfkcWpb6S2Ap2",
+                "name": "Slavery",
+                "slug": "slavery"
+              },
+              {
+                "_id": "KmgkrftQuX7jmjjp5",
+                "name": "Language Models (LLMs)",
+                "slug": "language-models-llms"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "HhQvdfkcWpb6S2Ap2": 4,
+              "KmgkrftQuX7jmjjp5": 2,
+              "etDohXtBrXd8WqCtR": 4,
+              "sYm3HiWcfZvrGu3ui": 4
+            }
+          }
+        },
+        {
+          "_id": "TbP8xo8iwf2uZ6iir",
+          "baseScore": 4,
+          "post": null
+        },
+        {
+          "_id": "rJ64NZKTCW9hLfqfu",
+          "baseScore": 4,
+          "post": {
+            "_id": "JMqHvLCRsChvq6x4m",
+            "slug": "offvermilion",
+            "title": "OffVermilion",
+            "postedAt": "2025-09-06T12:56:24.042Z",
+            "baseScore": 127,
+            "wordCount": 1245,
+            "commentCount": 2,
+            "user": {
+              "displayName": "Tom\u00e1s B.",
+              "slug": "bjartur-tomas"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4,
+              "xexCWMyds6QLWognu": 2
+            }
+          }
+        },
+        {
+          "_id": "rEibg8p4oTrvjAhZn",
+          "baseScore": 4,
+          "post": {
+            "_id": "T67XjmbwCPT2jhqgk",
+            "slug": "luna-lovegood-and-the-chamber-of-secrets-part-7",
+            "title": "Luna Lovegood and the Chamber of Secrets - Part 7",
+            "postedAt": "2020-12-11T05:54:52.510Z",
+            "baseScore": 70,
+            "wordCount": 428,
+            "commentCount": 15,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "qu96Le28apJ4QKbPx",
+          "baseScore": 4,
+          "post": {
+            "_id": "f2ivgmjjPyjhhCe5J",
+            "slug": "what-could-one-do-with-truly-unlimited-computational-power",
+            "title": "What could one do with truly unlimited computational power?",
+            "postedAt": "2020-11-11T10:03:03.891Z",
+            "baseScore": 34,
+            "wordCount": 499,
+            "commentCount": 20,
+            "user": {
+              "displayName": "Yitz",
+              "slug": "yitz"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "rjEZWSbSffhaWYRvo",
+                "name": "Hypotheticals",
+                "slug": "hypotheticals"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 5,
+              "Ng8Gice9KNkncxqcj": 5,
+              "etDohXtBrXd8WqCtR": 4,
+              "rjEZWSbSffhaWYRvo": 3,
+              "sYm3HiWcfZvrGu3ui": 5
+            }
+          }
+        },
+        {
+          "_id": "QiMgsXhCoCCX5M3u6",
+          "baseScore": 4,
+          "post": {
+            "_id": "oFa6A2pmPNjdhZDJm",
+            "slug": "hermione-granger-and-newcomb-s-paradox",
+            "title": "Hermione Granger and Newcomb's Paradox",
+            "postedAt": "2020-12-14T05:27:11.667Z",
+            "baseScore": 56,
+            "wordCount": 590,
+            "commentCount": 18,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "b8FHrKqyXuYGWc6vn",
+                "name": "Game Theory",
+                "slug": "game-theory"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "b8FHrKqyXuYGWc6vn": 1,
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "P8um6CKkpbEsupovd",
+          "baseScore": 4,
+          "post": {
+            "_id": "BgTsxMq5bgzKTLsLA",
+            "slug": "this-is-already-your-second-chance",
+            "title": "This is already your second chance",
+            "postedAt": "2024-07-28T17:13:57.680Z",
+            "baseScore": 201,
+            "wordCount": 2425,
+            "commentCount": 13,
+            "user": {
+              "displayName": "Malmesbury",
+              "slug": "elmer-of-malmesbury"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4,
+              "sYm3HiWcfZvrGu3ui": 3
+            }
+          }
+        },
+        {
+          "_id": "ngBLCpmzkA6EdPumc",
+          "baseScore": 4,
+          "post": {
+            "_id": "GbzaYQ5ziZfo6KJmZ",
+            "slug": "brass-puppet",
+            "title": "Brass Puppet",
+            "postedAt": "2022-05-26T17:42:04.876Z",
+            "baseScore": 68,
+            "wordCount": 741,
+            "commentCount": 4,
+            "user": {
+              "displayName": "abramdemski",
+              "slug": "abramdemski"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "i7ryf6D239hfd34gi",
+          "baseScore": 4,
+          "post": {
+            "_id": "SibcE6H9i6wifzqAF",
+            "slug": "the-real-fanfic-is-the-friends-we-made-along-the-way",
+            "title": "The Real Fanfic Is The Friends We Made Along The Way",
+            "postedAt": "2023-10-18T19:21:40.431Z",
+            "baseScore": 92,
+            "wordCount": 8041,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Eneasz",
+              "slug": "eneasz"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "fnfwPs9LFGAfbbZCt",
+          "baseScore": 4,
+          "post": {
+            "_id": "BarHSeciXJqzRuLzw",
+            "slug": "survival-without-dignity",
+            "title": "Survival without dignity",
+            "postedAt": "2024-11-04T02:29:38.758Z",
+            "baseScore": 410,
+            "wordCount": 4647,
+            "commentCount": 30,
+            "user": {
+              "displayName": "L Rudolf L",
+              "slug": "l-rudolf-l"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hNFdS3rRiYgqqD8aM",
+                "name": "Humor",
+                "slug": "humor"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4,
+              "hNFdS3rRiYgqqD8aM": 1,
+              "sYm3HiWcfZvrGu3ui": 4
+            }
+          }
+        },
+        {
+          "_id": "Ep2vryQ6MJJau4Bo2",
+          "baseScore": 4,
+          "post": {
+            "_id": "o4cgvYmNZnfS4xhxL",
+            "slug": "working-with-monsters",
+            "title": "Working With Monsters",
+            "postedAt": "2021-07-20T15:23:20.762Z",
+            "baseScore": 282,
+            "wordCount": 1481,
+            "commentCount": 58,
+            "user": {
+              "displayName": "johnswentworth",
+              "slug": "johnswentworth"
+            },
+            "tags": [
+              {
+                "_id": "BtQRRKTPxagBH6KrG",
+                "name": "Blues & Greens (metaphor)",
+                "slug": "blues-and-greens-metaphor"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "T4GgauaEfp6dHsR5P",
+                "name": "Memetics",
+                "slug": "memetics"
+              },
+              {
+                "_id": "JiYp3EFxubunnrXwK",
+                "name": "Scissors Statements",
+                "slug": "scissors-statements"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "BtQRRKTPxagBH6KrG": 4,
+              "JiYp3EFxubunnrXwK": 2,
+              "Ng8Gice9KNkncxqcj": 2,
+              "T4GgauaEfp6dHsR5P": 4,
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "EgKhKkPPzw4LgrDAW",
+          "baseScore": 4,
+          "post": {
+            "_id": "y4TN39PgtziJENiPm",
+            "slug": "bayeswatch-3-a-study-in-scarlet",
+            "title": "Bayeswatch 3: A Study in Scarlet",
+            "postedAt": "2021-05-07T05:29:50.834Z",
+            "baseScore": 63,
+            "wordCount": 475,
+            "commentCount": 6,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "C3QFQm7hK8oGKjMQK",
+          "baseScore": 4,
+          "post": {
+            "_id": "Fq8ybxtcFvKEsWmF8",
+            "slug": "ai-takeoff-story-a-continuation-of-progress-by-other-means",
+            "title": "AI takeoff story: a continuation of progress by other means",
+            "postedAt": "2021-09-27T15:55:44.163Z",
+            "baseScore": 77,
+            "wordCount": 3052,
+            "commentCount": 14,
+            "user": {
+              "displayName": "Edouard Harris",
+              "slug": "edouard-harris"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "oiRp4T6u5poc8r9Tj",
+                "name": "AI Takeoff",
+                "slug": "ai-takeoff"
+              },
+              {
+                "_id": "ZFrgTgzwEfStg26JL",
+                "name": "AI Risk",
+                "slug": "ai-risk"
+              },
+              {
+                "_id": "oNcqyaWPXNGTTRPHm",
+                "name": "Existential risk",
+                "slug": "existential-risk"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "ZFrgTgzwEfStg26JL": 1,
+              "etDohXtBrXd8WqCtR": 4,
+              "oNcqyaWPXNGTTRPHm": 1,
+              "oiRp4T6u5poc8r9Tj": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "aPnKEHoRhStM6dnzp",
+          "baseScore": 4,
+          "post": {
+            "_id": "xAXrEpF5FYjwqKMfZ",
+            "slug": "class-project",
+            "title": "Class Project",
+            "postedAt": "2008-05-31T00:23:01.000Z",
+            "baseScore": 73,
+            "wordCount": 1254,
+            "commentCount": 38,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 1,
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "9GH6xqpC4MRdo9BE7",
+          "baseScore": 4,
+          "post": {
+            "_id": "C8prkTAAYoxzrFEu4",
+            "slug": "deployment",
+            "title": "Deployment",
+            "postedAt": "2026-09-14T00:00:54.915Z",
+            "baseScore": 70,
+            "wordCount": 756,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Nina Panickssery",
+              "slug": "nina-panickssery"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "8qhLXkTRH5pBDu8CS",
+          "baseScore": 4,
+          "post": {
+            "_id": "Qz4k8RWACLmNgtc3a",
+            "slug": "luna-lovegood-and-the-chamber-of-secrets-part-11",
+            "title": "Luna Lovegood and the Chamber of Secrets - Part 11",
+            "postedAt": "2020-12-27T09:03:19.624Z",
+            "baseScore": 62,
+            "wordCount": 586,
+            "commentCount": 23,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "8cFQn97hEn4Jw5f63",
+          "baseScore": 4,
+          "post": null
+        },
+        {
+          "_id": "6fNsCFN87hGLp24NK",
+          "baseScore": 4,
+          "post": {
+            "_id": "Ke7DiT2DHMyGiv3s2",
+            "slug": "beauty-and-the-beast",
+            "title": "Beauty and the Beast",
+            "postedAt": "2022-06-11T18:59:58.412Z",
+            "baseScore": 57,
+            "wordCount": 1693,
+            "commentCount": 10,
+            "user": {
+              "displayName": "Tom\u00e1s B.",
+              "slug": "bjartur-tomas"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 4
+            }
+          }
+        },
+        {
+          "_id": "5p5K73zJ8oN2mzpoD",
+          "baseScore": 4,
+          "post": {
+            "_id": "keek6kefALzBX5xAZ",
+            "slug": "back-to-basics-truth-is-unitary",
+            "title": "Back to Basics: Truth is Unitary",
+            "postedAt": "2024-03-29T21:10:33.399Z",
+            "baseScore": 47,
+            "wordCount": 1830,
+            "commentCount": 13,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb314",
+                "name": "Rationality: From AI To Zombies",
+                "slug": "rationality:-from-ai-to-zombies"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 5,
+              "etDohXtBrXd8WqCtR": 4,
+              "5f5c37ee1b5cdee568cfb314": 2
+            }
+          }
+        },
+        {
+          "_id": "ZPk5Copu6bBMc9Mp4",
+          "baseScore": 3,
+          "post": {
+            "_id": "6L523aJDpjm4yWxue",
+            "slug": "chapter-2-everything-i-believe-is-false",
+            "title": "Chapter 2: Everything I Believe is False",
+            "postedAt": "2015-03-14T19:00:38.531Z",
+            "baseScore": 129,
+            "wordCount": 1478,
+            "commentCount": 7,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "yPqmB2daQSKpnFsYX",
+          "baseScore": 3,
+          "post": {
+            "_id": "mvyd7N2M8HskBB2EL",
+            "slug": "a-good-future-rough-draft",
+            "title": "A Good Future (rough draft)",
+            "postedAt": "2022-10-24T20:45:45.029Z",
+            "baseScore": 10,
+            "wordCount": 1025,
+            "commentCount": 5,
+            "user": {
+              "displayName": "Michael Soareverix",
+              "slug": "michael-soareverix"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "xexCWMyds6QLWognu",
+                "name": "World Optimization",
+                "slug": "world-optimization"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "xexCWMyds6QLWognu": 1
+            }
+          }
+        },
+        {
+          "_id": "ycCHeoHcPMENym3Pt",
+          "baseScore": 3,
+          "post": {
+            "_id": "qCsxiojX7BSLuuBgQ",
+            "slug": "the-super-happy-people-3-8",
+            "title": "The Super Happy People (3/8)",
+            "postedAt": "2009-02-01T08:18:19.000Z",
+            "baseScore": 138,
+            "wordCount": 4808,
+            "commentCount": 55,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sSNtcEQsqHgN8ZmRF",
+                "name": "Fun Theory",
+                "slug": "fun-theory"
+              },
+              {
+                "_id": "Jzm2mYuuDBCNWq8hi",
+                "name": "Happiness",
+                "slug": "happiness-1"
+              }
+            ],
+            "tagRelevance": {
+              "Jzm2mYuuDBCNWq8hi": 1,
+              "etDohXtBrXd8WqCtR": 3,
+              "sSNtcEQsqHgN8ZmRF": 1
+            }
+          }
+        },
+        {
+          "_id": "yAFteBvsoMPK4aKvc",
+          "baseScore": 3,
+          "post": {
+            "_id": "4HZJPGf2GzC6BSHa6",
+            "slug": "chapter-5-the-fundamental-attribution-error",
+            "title": "Chapter 5: The Fundamental Attribution Error",
+            "postedAt": "2015-03-14T19:00:31.262Z",
+            "baseScore": 102,
+            "wordCount": 3262,
+            "commentCount": 13,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb157",
+                "name": "Correspondence Bias",
+                "slug": "correspondence-bias"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "5f5c37ee1b5cdee568cfb157": 3
+            }
+          }
+        },
+        {
+          "_id": "y5jAtLFE6aip7SxwD",
+          "baseScore": 3,
+          "post": {
+            "_id": "qBdgCEdr8jMLoKrDg",
+            "slug": "bayeswatch-6-mechwarrior",
+            "title": "Bayeswatch 6: Mechwarrior",
+            "postedAt": "2021-06-07T20:20:20.196Z",
+            "baseScore": 61,
+            "wordCount": 748,
+            "commentCount": 8,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "XBsRTZhSS7Gc5rDwX",
+          "baseScore": 3,
+          "post": {
+            "_id": "KBjRoc7WccbMehnbN",
+            "slug": "report-from-a-civilizational-observer-on-earth",
+            "title": "Report from a civilizational observer on Earth",
+            "postedAt": "2022-07-09T17:26:09.223Z",
+            "baseScore": 48,
+            "wordCount": 1698,
+            "commentCount": 12,
+            "user": {
+              "displayName": "owencb",
+              "slug": "owencb"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "oiRp4T6u5poc8r9Tj",
+                "name": "AI Takeoff",
+                "slug": "ai-takeoff"
+              },
+              {
+                "_id": "zHjC29kkPmsdo7WTr",
+                "name": "AI Timelines",
+                "slug": "ai-timelines"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "oiRp4T6u5poc8r9Tj": 1,
+              "sYm3HiWcfZvrGu3ui": 2,
+              "zHjC29kkPmsdo7WTr": 1
+            }
+          }
+        },
+        {
+          "_id": "wSn4sB2sq972pmYi3",
+          "baseScore": 3,
+          "post": {
+            "_id": "kXAb5riiaJNrfR8v8",
+            "slug": "the-ritual",
+            "title": "The Ritual",
+            "postedAt": "2008-10-11T23:52:10.000Z",
+            "baseScore": 132,
+            "wordCount": 1399,
+            "commentCount": 23,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "hXTqT62YDTTiqJfxG",
+                "name": "Ritual",
+                "slug": "ritual"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 3,
+              "hXTqT62YDTTiqJfxG": 2
+            }
+          }
+        },
+        {
+          "_id": "wG4fG5M43RYEPErCN",
+          "baseScore": 3,
+          "post": {
+            "_id": "rKEgi2cBvBwbN2tfX",
+            "slug": "interdictor-ship",
+            "title": "Interdictor Ship",
+            "postedAt": "2024-08-19T04:59:18.487Z",
+            "baseScore": 63,
+            "wordCount": 1956,
+            "commentCount": 10,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "vrXsTnBcJAM2CAszW",
+          "baseScore": 3,
+          "post": {
+            "_id": "ifs3ycQYMLdAhgsuJ",
+            "slug": "bayeswatch-8-antimatter",
+            "title": "Bayeswatch 8: Antimatter",
+            "postedAt": "2021-09-10T05:01:48.845Z",
+            "baseScore": 40,
+            "wordCount": 835,
+            "commentCount": 6,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "uZ5qSzDBxJgnuTPjd",
+          "baseScore": 3,
+          "post": {
+            "_id": "fQ58TutLQD8Q9bbed",
+            "slug": "luna-lovegood-and-the-chamber-of-secrets-part-2",
+            "title": "Luna Lovegood and the Chamber of Secrets - Part 2",
+            "postedAt": "2020-11-30T08:12:07.238Z",
+            "baseScore": 104,
+            "wordCount": 1021,
+            "commentCount": 7,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "Ng8Gice9KNkncxqcj",
+                "name": "Rationality",
+                "slug": "rationality"
+              }
+            ],
+            "tagRelevance": {
+              "Ng8Gice9KNkncxqcj": 2,
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "uvqKveFy8micAis4J",
+          "baseScore": 3,
+          "post": {
+            "_id": "dv9E65xWw7CsJNERz",
+            "slug": "the-pit",
+            "title": "The Pit",
+            "postedAt": "2019-10-26T05:28:07.610Z",
+            "baseScore": 34,
+            "wordCount": 2481,
+            "commentCount": 7,
+            "user": {
+              "displayName": "alkjash",
+              "slug": "alkjash"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "sxAgnEdDsoiE7HGvX",
+          "baseScore": 3,
+          "post": {
+            "_id": "u8TdDutDyaSxG76hn",
+            "slug": "you-re-absolutely-right",
+            "title": "You're Absolutely Right",
+            "postedAt": "2026-08-10T16:04:09.057Z",
+            "baseScore": 183,
+            "wordCount": 2392,
+            "commentCount": 5,
+            "user": {
+              "displayName": "Linch",
+              "slug": "linch"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "o9aQASibdsECTfYF6",
+                "name": "Moloch",
+                "slug": "moloch"
+              },
+              {
+                "_id": "mf8wHrMrJR73uyDLQ",
+                "name": "Moral Mazes",
+                "slug": "moral-mazes"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 2,
+              "etDohXtBrXd8WqCtR": 3,
+              "mf8wHrMrJR73uyDLQ": 2,
+              "o9aQASibdsECTfYF6": 2,
+              "sYm3HiWcfZvrGu3ui": 3
+            }
+          }
+        },
+        {
+          "_id": "sQuHmcdwSyirCe37d",
+          "baseScore": 3,
+          "post": {
+            "_id": "To2LyCbYb4DrFX3fX",
+            "slug": "bayeswatch-12-the-singularity-war",
+            "title": "Bayeswatch 12: The Singularity War",
+            "postedAt": "2021-10-10T01:04:38.476Z",
+            "baseScore": 47,
+            "wordCount": 499,
+            "commentCount": 8,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "SMkGsJ3KdnzmiEcre",
+          "baseScore": 3,
+          "post": {
+            "_id": "6qgtqD6BPYAQvEMvA",
+            "slug": "love-stays-loved-formerly-skin",
+            "title": "Love stays loved (formerly \"Skin\")",
+            "postedAt": "2025-07-18T19:17:34.142Z",
+            "baseScore": 289,
+            "wordCount": 8841,
+            "commentCount": 13,
+            "user": {
+              "displayName": "Swimmer963 (Miranda Dixon-Luinenburg) ",
+              "slug": "swimmer963-miranda-dixon-luinenburg"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "S3PRB2SBYtyapygRp",
+          "baseScore": 3,
+          "post": {
+            "_id": "JBErodNEzM5xwqPdY",
+            "slug": "tinker",
+            "title": "Tinker",
+            "postedAt": "2024-04-16T18:26:38.679Z",
+            "baseScore": 39,
+            "wordCount": 10,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Richard_Ngo",
+              "slug": "ricraz"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "sYm3HiWcfZvrGu3ui": 1
+            }
+          }
+        },
+        {
+          "_id": "Q2rvEwjixiSmhX7Tp",
+          "baseScore": 3,
+          "post": {
+            "_id": "Z263n4TXJimKn6A8Z",
+            "slug": "three-worlds-decide-5-8",
+            "title": "Three Worlds Decide (5/8)",
+            "postedAt": "2009-02-03T09:14:02.000Z",
+            "baseScore": 95,
+            "wordCount": 4516,
+            "commentCount": 141,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "Q24eoaSgmcZEbn9MD",
+          "baseScore": 3,
+          "post": {
+            "_id": "CoMxENA9jjAYhpqZL",
+            "slug": "without-microfiction-250-words",
+            "title": "Without - MicroFiction 250 words",
+            "postedAt": "2023-12-09T21:49:34.935Z",
+            "baseScore": 21,
+            "wordCount": 278,
+            "commentCount": 1,
+            "user": {
+              "displayName": "Carissa Cassiel",
+              "slug": "carissa-cassiel"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "sSNtcEQsqHgN8ZmRF",
+                "name": "Fun Theory",
+                "slug": "fun-theory"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb28c",
+                "name": "Brain-Computer Interfaces",
+                "slug": "brain-computer-interfaces"
+              },
+              {
+                "_id": "E9ihK6bA9YKkmJs2f",
+                "name": "Death",
+                "slug": "death"
+              },
+              {
+                "_id": "QZn3ujmgnvStbuLEc",
+                "name": "Lifelogging",
+                "slug": "lifelogging"
+              },
+              {
+                "_id": "rHQ3xncraAyC8kqtX",
+                "name": "Lifelogging as life extension",
+                "slug": "lifelogging-as-life-extension"
+              },
+              {
+                "_id": "PAugtjFrmvbepCNej",
+                "name": "Love ",
+                "slug": "love"
+              }
+            ],
+            "tagRelevance": {
+              "E9ihK6bA9YKkmJs2f": 1,
+              "PAugtjFrmvbepCNej": 1,
+              "QZn3ujmgnvStbuLEc": 1,
+              "etDohXtBrXd8WqCtR": 3,
+              "rHQ3xncraAyC8kqtX": 1,
+              "sSNtcEQsqHgN8ZmRF": 3,
+              "5f5c37ee1b5cdee568cfb28c": 1
+            }
+          }
+        },
+        {
+          "_id": "pz3XeHZy6Z83AXvjo",
+          "baseScore": 3,
+          "post": {
+            "_id": "ydsrFDwdq7kxbxvxc",
+            "slug": "maya-s-escape",
+            "title": "Maya's Escape",
+            "postedAt": "2025-07-27T16:47:01.280Z",
+            "baseScore": 182,
+            "wordCount": 3433,
+            "commentCount": 9,
+            "user": {
+              "displayName": "Bridgett Kay",
+              "slug": "bridgett-kay"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "3uE2pXvbcnS9nnZRE",
+                "name": "World Modeling",
+                "slug": "world-modeling"
+              }
+            ],
+            "tagRelevance": {
+              "3uE2pXvbcnS9nnZRE": 1,
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "PKzxZnd2zamGPsmBp",
+          "baseScore": 3,
+          "post": {
+            "_id": "pfmZ5cYQCahABGZzi",
+            "slug": "asches-to-asches",
+            "title": "Asches to Asches",
+            "postedAt": "2014-06-04T02:16:21.000Z",
+            "baseScore": 80,
+            "wordCount": 2623,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Scott Alexander",
+              "slug": "scottalexander"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "5f5c37ee1b5cdee568cfb124",
+                "name": "Conformity Bias",
+                "slug": "conformity-bias"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3,
+              "5f5c37ee1b5cdee568cfb124": 2
+            }
+          }
+        },
+        {
+          "_id": "pdLuc9GfX7TeTbCvW",
+          "baseScore": 3,
+          "post": {
+            "_id": "5tXiw9PBCqFLHs2Mp",
+            "slug": "chapter-6-the-planning-fallacy",
+            "title": "Chapter 6: The Planning Fallacy",
+            "postedAt": "2015-03-14T19:00:42.516Z",
+            "baseScore": 87,
+            "wordCount": 9716,
+            "commentCount": 10,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "5f5c37ee1b5cdee568cfb105",
+                "name": "Planning Fallacy",
+                "slug": "planning-fallacy"
+              },
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "KoXbd2HmbdRfqLngk",
+                "name": "Planning & Decision-Making",
+                "slug": "planning-and-decision-making"
+              }
+            ],
+            "tagRelevance": {
+              "KoXbd2HmbdRfqLngk": 3,
+              "etDohXtBrXd8WqCtR": 3,
+              "5f5c37ee1b5cdee568cfb105": 9
+            }
+          }
+        },
+        {
+          "_id": "oNWADkPLrr5Doz9GG",
+          "baseScore": 3,
+          "post": {
+            "_id": "RXQ5MkWkTCvLMGHrp",
+            "slug": "war-and-or-peace-2-8",
+            "title": "War and/or Peace (2/8)",
+            "postedAt": "2009-01-31T08:42:19.000Z",
+            "baseScore": 100,
+            "wordCount": 3353,
+            "commentCount": 65,
+            "user": {
+              "displayName": "Eliezer Yudkowsky",
+              "slug": "eliezer_yudkowsky"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              }
+            ],
+            "tagRelevance": {
+              "etDohXtBrXd8WqCtR": 3
+            }
+          }
+        },
+        {
+          "_id": "oGKkqLBt7rmtprnrQ",
+          "baseScore": 3,
+          "post": {
+            "_id": "zFMgPvMsESGHRapax",
+            "slug": "well-seasons-greatings-everyone-short-fiction",
+            "title": "Well, Seasons Greatings Everyone! [Short Fiction]",
+            "postedAt": "2025-12-01T16:29:14.247Z",
+            "baseScore": 15,
+            "wordCount": 868,
+            "commentCount": 0,
+            "user": {
+              "displayName": "Shiva's Right Foot",
+              "slug": "shiva-s-right-foot"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "YSSNFEnW6ugFhEE6m",
+                "name": "Adversarial Examples (AI)",
+                "slug": "adversarial-examples-ai"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "YSSNFEnW6ugFhEE6m": 1,
+              "etDohXtBrXd8WqCtR": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "nSwTH2sJRr8shX5zo",
+          "baseScore": 3,
+          "post": {
+            "_id": "nHanKgEsFFJxAZhBp",
+            "slug": "bayeswatch-7-wildfire",
+            "title": "Bayeswatch 7: Wildfire",
+            "postedAt": "2021-09-08T05:35:24.483Z",
+            "baseScore": 58,
+            "wordCount": 975,
+            "commentCount": 6,
+            "user": {
+              "displayName": "lsusr",
+              "slug": "lsusr"
+            },
+            "tags": [
+              {
+                "_id": "etDohXtBrXd8WqCtR",
+                "name": "Fiction",
+                "slug": "fiction"
+              },
+              {
+                "_id": "ZFrgTgzwEfStg26JL",
+                "name": "AI Risk",
+                "slug": "ai-risk"
+              },
+              {
+                "_id": "sYm3HiWcfZvrGu3ui",
+                "name": "AI",
+                "slug": "ai"
+              }
+            ],
+            "tagRelevance": {
+              "ZFrgTgzwEfStg26JL": 2,
+              "etDohXtBrXd8WqCtR": 3,
+              "sYm3HiWcfZvrGu3ui": 2
+            }
+          }
+        },
+        {
+          "_id": "MRRiZAywNmrr4kBLH",
+          "baseScore": 3,
+          "post": null
+        },
+        {
+          "_id": "MahNEy6TzEvJWKosR",
+          "baseScore": 3,
+          "post": null
+        }
+      ]
+    }
+  }
+}

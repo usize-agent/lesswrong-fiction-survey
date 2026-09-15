@@ -1,0 +1,29 @@
+{
+  "_id": "BgTsxMq5bgzKTLsLA",
+  "slug": "this-is-already-your-second-chance",
+  "title": "This is already your second chance",
+  "postedAt": "2024-07-28T17:13:57.680Z",
+  "baseScore": 201,
+  "wordCount": 2425,
+  "commentCount": 13,
+  "user": {
+    "displayName": "Malmesbury",
+    "slug": "elmer-of-malmesbury"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4,
+    "sYm3HiWcfZvrGu3ui": 3
+  }
+}

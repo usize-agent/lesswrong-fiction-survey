@@ -1,0 +1,41 @@
+{
+  "_id": "aRxDLju75KXD6PCpB",
+  "slug": "wolf-incident-postmortem",
+  "title": "Wolf Incident Postmortem",
+  "postedAt": "2023-01-09T03:20:03.723Z",
+  "baseScore": 138,
+  "wordCount": 418,
+  "commentCount": 13,
+  "user": {
+    "displayName": "jefftk",
+    "slug": "jkaufman"
+  },
+  "tags": [
+    {
+      "_id": "zcvsZQWJBFK6SxK4K",
+      "name": "Postmortems & Retrospectives",
+      "slug": "postmortems-and-retrospectives"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4,
+    "hNFdS3rRiYgqqD8aM": 2,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "zcvsZQWJBFK6SxK4K": 5
+  }
+}

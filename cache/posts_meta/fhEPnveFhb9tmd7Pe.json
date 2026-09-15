@@ -1,0 +1,35 @@
+{
+  "_id": "fhEPnveFhb9tmd7Pe",
+  "slug": "use-the-try-harder-luke",
+  "title": "Use the Try Harder, Luke",
+  "postedAt": "2008-10-02T10:52:43.000Z",
+  "baseScore": 333,
+  "wordCount": 602,
+  "commentCount": 46,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "cNLSTJzaY6Gi3iYQr",
+      "name": "Five minute timers",
+      "slug": "five-minute-timers"
+    },
+    {
+      "_id": "FGfgzGpPTtKEqSrDm",
+      "name": "More Dakka",
+      "slug": "more-dakka"
+    }
+  ],
+  "tagRelevance": {
+    "FGfgzGpPTtKEqSrDm": 2,
+    "cNLSTJzaY6Gi3iYQr": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

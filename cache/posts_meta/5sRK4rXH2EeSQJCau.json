@@ -1,0 +1,53 @@
+{
+  "_id": "5sRK4rXH2EeSQJCau",
+  "slug": "corrigibility-at-some-small-length-by-dath-ilan",
+  "title": "\"Corrigibility at some small length\" by dath ilan",
+  "postedAt": "2023-04-05T01:47:23.246Z",
+  "baseScore": 33,
+  "wordCount": 2615,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Christopher King",
+    "slug": "christopher-king"
+  },
+  "tags": [
+    {
+      "_id": "qHCFjTEWCQjKBWy5z",
+      "name": "Corrigibility",
+      "slug": "corrigibility-1"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "Fxq9YJMGsuphd8Rmt",
+      "name": "AI Alignment Intro Materials",
+      "slug": "ai-alignment-intro-materials"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GQyPQcdEQF4zXhJBq",
+      "name": "List of Links",
+      "slug": "list-of-links"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "Fxq9YJMGsuphd8Rmt": 6,
+    "GQyPQcdEQF4zXhJBq": 1,
+    "ZFrgTgzwEfStg26JL": 7,
+    "etDohXtBrXd8WqCtR": 1,
+    "qHCFjTEWCQjKBWy5z": 12,
+    "sYm3HiWcfZvrGu3ui": 7
+  }
+}

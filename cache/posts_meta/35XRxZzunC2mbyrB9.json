@@ -1,0 +1,35 @@
+{
+  "_id": "35XRxZzunC2mbyrB9",
+  "slug": "three-stories-about-not-thinking-too-hard",
+  "title": "Three Stories about not Thinking too Hard",
+  "postedAt": "2021-02-05T19:51:47.260Z",
+  "baseScore": 35,
+  "wordCount": 933,
+  "commentCount": 3,
+  "user": {
+    "displayName": "ejacob",
+    "slug": "ejacob"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1
+  }
+}

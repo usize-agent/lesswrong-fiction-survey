@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "XdzJ5BNbiYKGq7Mxw",
+        "title": "\u201cA victory for the natural order\u201d",
+        "slug": "a-victory-for-the-natural-order",
+        "pageUrl": "https://www.lesswrong.com/posts/XdzJ5BNbiYKGq7Mxw/a-victory-for-the-natural-order",
+        "postedAt": "2025-04-28T15:33:39.195Z",
+        "baseScore": 11,
+        "wordCount": 91,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "Mati_Roy",
+          "slug": "mathieuroy"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "vmvTYnmaKA73fYDe5",
+            "name": "Life Extension",
+            "slug": "life-extension"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "vmvTYnmaKA73fYDe5": 2
+        },
+        "contents": {
+          "markdown": "> In what many are calling \"a victory for the natural order,\" the final remaining vials of the controversial CHRONO-X anti-aging treatment were ceremoniously destroyed yesterday at Massachusetts General Hospital in Boston.\n> \n> \"Today marks humanity's return to wisdom,\" declared Giorgos Hickel, spokesperson for the Foundation Against Increasing Lifespan (FAIL). \"Death isn't just natural - it's necessary. The prospect of immortality was never a gift but a curse disguised as progress. We've finally chosen meaningful brevity over longer, purposeless existence.\"\n\nKeep reading at the link.\n\nOriginally posted on April 1st."
+        }
+      }
+    }
+  }
+}

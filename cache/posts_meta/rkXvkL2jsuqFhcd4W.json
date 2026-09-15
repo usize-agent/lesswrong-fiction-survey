@@ -1,0 +1,41 @@
+{
+  "_id": "rkXvkL2jsuqFhcd4W",
+  "slug": "the-dreams-of-gpt-4",
+  "title": "The dreams of GPT-4",
+  "postedAt": "2023-03-20T17:00:33.582Z",
+  "baseScore": 14,
+  "wordCount": 2789,
+  "commentCount": 7,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "FBRwHSmTudwiHHtrn",
+      "name": "AI Evaluations",
+      "slug": "ai-evaluations"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "YWzByWvtXunfrBu5b",
+      "name": "GPT",
+      "slug": "gpt"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "FBRwHSmTudwiHHtrn": 1,
+    "YWzByWvtXunfrBu5b": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

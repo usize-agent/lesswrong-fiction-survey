@@ -1,0 +1,35 @@
+{
+  "_id": "ycG3mrtdqddCkK9et",
+  "slug": "d-and-d-sci-pathfinder-return-of-the-gray-swan",
+  "title": "D&D.Sci Pathfinder: Return of the Gray Swan",
+  "postedAt": "2021-09-01T17:43:38.128Z",
+  "baseScore": 31,
+  "wordCount": 1509,
+  "commentCount": 22,
+  "user": {
+    "displayName": "aphyer",
+    "slug": "aphyer"
+  },
+  "tags": [
+    {
+      "_id": "npoWi8AYpegPcSYcw",
+      "name": "D&D.Sci",
+      "slug": "d-and-d-sci"
+    },
+    {
+      "_id": "DWWZwkxTJs4d5WrcX",
+      "name": "Exercises / Problem-Sets",
+      "slug": "exercises-problem-sets"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "DWWZwkxTJs4d5WrcX": 3,
+    "etDohXtBrXd8WqCtR": 1,
+    "npoWi8AYpegPcSYcw": 3
+  }
+}

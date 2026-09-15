@@ -1,0 +1,47 @@
+{
+  "_id": "fTrEqNnYYSNXNSRcg",
+  "slug": "allegory-on-ai-risk-game-theory-and-mithril",
+  "title": "Allegory On AI Risk, Game Theory, and Mithril",
+  "postedAt": "2017-02-13T20:41:50.584Z",
+  "baseScore": 46,
+  "wordCount": 1021,
+  "commentCount": 57,
+  "user": {
+    "displayName": "James_Miller",
+    "slug": "james_miller"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "chuP2QqQycjD8qakL",
+      "name": "Coordination / Cooperation",
+      "slug": "coordination-cooperation"
+    },
+    {
+      "_id": "yXNtYNHJB54T3bGm3",
+      "name": "Dialogue (format)",
+      "slug": "dialogue-format"
+    },
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "ZFrgTgzwEfStg26JL": 1,
+    "chuP2QqQycjD8qakL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "yXNtYNHJB54T3bGm3": 1
+  }
+}

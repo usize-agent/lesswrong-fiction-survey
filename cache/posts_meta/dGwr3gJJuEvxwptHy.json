@@ -1,0 +1,29 @@
+{
+  "_id": "dGwr3gJJuEvxwptHy",
+  "slug": "april-fools-harry-potter-and-the-methods-of-rationality-joke",
+  "title": "April Fools - Harry Potter and the Methods of Rationality Joke Chapter",
+  "postedAt": "2012-04-02T02:47:45.987Z",
+  "baseScore": 29,
+  "wordCount": 76,
+  "commentCount": 43,
+  "user": {
+    "displayName": "shokwave",
+    "slug": "shokwave"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

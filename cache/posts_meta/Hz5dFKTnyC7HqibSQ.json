@@ -1,0 +1,47 @@
+{
+  "_id": "Hz5dFKTnyC7HqibSQ",
+  "slug": "the-aliens-have-landed",
+  "title": "The Aliens have Landed!",
+  "postedAt": "2011-05-19T17:09:16.761Z",
+  "baseScore": 46,
+  "wordCount": 928,
+  "commentCount": 160,
+  "user": {
+    "displayName": "TimFreeman",
+    "slug": "timfreeman"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    },
+    {
+      "_id": "2q2cK4FdnSeohTEaJ",
+      "name": "Blackmail / Extortion",
+      "slug": "blackmail-extortion"
+    },
+    {
+      "_id": "NGtNzdS88JtEQdRP4",
+      "name": "Extraterrestrial Life",
+      "slug": "extraterrestrial-life"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "PCsv73MeZq9QhKz6W",
+      "name": "Mindcrime",
+      "slug": "mindcrime"
+    }
+  ],
+  "tagRelevance": {
+    "2q2cK4FdnSeohTEaJ": 1,
+    "NGtNzdS88JtEQdRP4": 1,
+    "PCsv73MeZq9QhKz6W": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb2b1": 2
+  }
+}

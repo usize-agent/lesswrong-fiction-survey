@@ -1,0 +1,29 @@
+{
+  "_id": "aAkkHf82iYGzcNNoz",
+  "slug": "bayeswatch-11-parabellum",
+  "title": "Bayeswatch 11: Parabellum",
+  "postedAt": "2021-10-09T07:08:06.272Z",
+  "baseScore": 45,
+  "wordCount": 524,
+  "commentCount": 13,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

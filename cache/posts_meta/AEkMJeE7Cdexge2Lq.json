@@ -1,0 +1,41 @@
+{
+  "_id": "AEkMJeE7Cdexge2Lq",
+  "slug": "charlatan-labyrinth",
+  "title": "Charlatan Labyrinth",
+  "postedAt": "2026-02-16T17:56:40.162Z",
+  "baseScore": 16,
+  "wordCount": 417,
+  "commentCount": 10,
+  "user": {
+    "displayName": "niplav",
+    "slug": "niplav"
+  },
+  "tags": [
+    {
+      "_id": "KDpqtN3MxHSmD4vcB",
+      "name": "Art",
+      "slug": "art"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "s9fuuxuzFMugAnf6r",
+      "name": "Language & Linguistics",
+      "slug": "language-and-linguistics"
+    },
+    {
+      "_id": "AXhEhCkTrHZbjXXu3",
+      "name": "Poetry",
+      "slug": "poetry"
+    }
+  ],
+  "tagRelevance": {
+    "AXhEhCkTrHZbjXXu3": 2,
+    "KDpqtN3MxHSmD4vcB": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "s9fuuxuzFMugAnf6r": 2
+  }
+}

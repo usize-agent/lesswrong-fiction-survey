@@ -1,0 +1,29 @@
+{
+  "_id": "dYPSrAbtNN8KffLjp",
+  "slug": "chronicles-of-the-gentle-singularity-a-short-story",
+  "title": "Chronicles of the Gentle Singularity: A Short Story",
+  "postedAt": "2025-08-07T13:50:10.647Z",
+  "baseScore": 26,
+  "wordCount": 1260,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Ihor Kendiukhov",
+    "slug": "ihor-kendiukhov-1"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

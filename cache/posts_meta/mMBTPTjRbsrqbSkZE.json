@@ -1,0 +1,29 @@
+{
+  "_id": "mMBTPTjRbsrqbSkZE",
+  "slug": "sorting-pebbles-into-correct-heaps",
+  "title": "Sorting Pebbles Into Correct Heaps",
+  "postedAt": "2008-08-10T01:00:00.000Z",
+  "baseScore": 264,
+  "wordCount": 1116,
+  "commentCount": 110,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "agnEHZTiXEyzBFPmF",
+      "name": "Orthogonality Thesis",
+      "slug": "orthogonality-thesis"
+    }
+  ],
+  "tagRelevance": {
+    "agnEHZTiXEyzBFPmF": 5,
+    "etDohXtBrXd8WqCtR": 5
+  }
+}

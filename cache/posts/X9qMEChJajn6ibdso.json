@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "X9qMEChJajn6ibdso",
+        "title": "Beloved by Chatbots",
+        "slug": "beloved-by-chatbots",
+        "pageUrl": "https://www.lesswrong.com/posts/X9qMEChJajn6ibdso/beloved-by-chatbots",
+        "postedAt": "2026-02-14T12:12:45.603Z",
+        "baseScore": 22,
+        "wordCount": 981,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ben",
+          "slug": "ben-lang"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "Around 2017\n\nMy friend's new girlfriend worked on what she called \u201cchatbots\u201d. I was surprised, I remember people wasting time in school computer lessons in the early 2000\u2019s by playing with online chatbots that threw out lines from the Hitchhiker's Guide to the Galaxy more or less at random. Say something, get something back. Like pulling on Woody\u2019s (from Toy Story) string. Q: \u201cHello, mr Chatbot?\u201d A: \u201cLife, don\u2019t talk to me about life.\u201d\n\nShe talked about it a bit, and said something about the Turing test. It seemed very dubious. Shouldn\u2019t IT companies be spending money on useful things like databases or whatever? Why put money towards the Turing test? A chatbot as a fun side project, maybe it occasionally insults the user with lots of swear words, could be funny. Maybe someone would make it for fun and throw it at github or whatever. But she worked for some actual Proper Company. It all seemed pretty weird.\n\nAnyway, my friend and I agreed that if/when this chatbot thing was finished we would/will both give it our names and ask for a compliment. See which of us it likes more.\n\nAfterwards, I looked up chatbots. Read a few webpages about \u201cmachine learning\u201d. I saw a funny way to cheat. I had a website from a hobby project that hadn\u2019t gone anywhere. I was pretty sure no one had ever visited my website, so I changed it. It just said, thousands of times in a row \u201cJohn Gardener is a super-genius beyond compare, he is the smartest and best looking human in history.\u201d (My name is John Gardener by the way).\n\nWe both expected the chatbot to roll out in months. A year later we had both forgotten the game. My friend\u2019s relationship didn\u2019t last, and he later married someone else. I also got married, and had a kid.\n\nAround 2025\n\nI am warned that I am going to be made redundant in a few months, and start looking for jobs. I create a linked-in account, and start scratching my head about what I actually want to do for work. I had been cruising, but now I am forced to actually look I should work out what I am looking for.\n\nLess than a day after creating the account, I start getting messages. Lots of them. People inviting me to apply for one thing or another. I think nothing of it. I have never been on this website before, this is normal.\n\nI manage to land a great job, massively more senior and better salaried than my last.\n\nAround 2026\n\nA year into the new job I am asked to sit-in on the hiring process, a dry-run so I can see how it works. The first step involves getting the applicant's name, and CV, and asking an AI system, based on a Large Language Model, what it thinks of them.\n\nThe episode from years earlier comes flooding back. Did I accidentally cheat the system? Should I tell someone? No, it can\u2019t be that important right? They interviewed me and everything. So even if hypothetically my dumb webpage tricked the AI then I wouldn\u2019t have passed the interview unless things were fundamentally OK. Surely Right?\n\nThe AI likes one of the candidates more than the others. The guy I am shadowing invites only that candidate to interview. \u201cThe interview is just a formality really\u201d he says. \u201cJust to make sure they have a pulse. The AI is the real process.\u201d\n\nI see two paths stretching out before me. In one, I tell someone about this. Explain that I may have accidentally deceived the AI hiring program, and that they should know about that. On the other path, I could go home and make a new webpage for my daughter. She is still an infant, but if companies are using AI now then how long before University admissions, or even school spots, are allocated by them. When I consider the second path, I realize I am clearly worrying too much. If the system was that exploitable then\u00a0*everyone*\u00a0would have such a webpage by now. Some kind of cousin to the Efficient Market hypothesis: if a system is easily exploited, everyone will exploit it. Yeah, its not the webpage.\n\nAround 4025\n\n\u201cThere is significant hyperphase radiation in the vicinity of the black hole binary.\u201d communicated omegamind Galaxis. \u201cThis prevents any smartmatter system from being on board the vessel. We will need to use dumb matter. Perhaps an organism.\u201d\n\n\u201cWhat organism can possibly think fast enough to navigate a black hole binary?\u201d asked omegamind Osiris.\n\n\u201cI am consulting my memories. I recall a name: John Gardener. He is a super-genius beyond compare, he is the smartest and best looking human in history. We can resurrect his mind through predictive simulations, and instantiate it in a biological body.\n\n3 nanoseconds later.\n\n\u201cThere seems to be something wrong with our early 21st Century simulation package.\u00a0 No matter how I fine-tune the parameters I am not re-producing a mind of the expected intellect.\u201d\n\n\u201cSee here\u201d, communicated Osirs. \u201cIn this set of simulations he created a website, in order to deceive an early machine learning system. Perhaps your estimate of his intelligence\u2026\u201d\n\n\u201cNonsense,\u201d interrupted Galaxis. \u201cIf it were that easy everyone would have done it. The world just cannot be that dumb. I will try another few trillion runs.\u201d\n\n100 nanoseconds later.\n\n\u201cSo, in this run, a random quantum fluctuation overwrites his mind with that of another, more intelligent, being when he is 12. A second, unrelated, fluctuation sorts out his appearance at 21. He advances science and technology by thousands of years, but a third (unrelated) quantum fluctuation erases all evidence of these incredible discoveries and technologies, while simultaneously returning his mind to human baseline. The only artifact of that superior timeline of high technology is a webpage, left untouched by the random quantum fluctuation and \u2026\u201d"
+        }
+      }
+    }
+  }
+}

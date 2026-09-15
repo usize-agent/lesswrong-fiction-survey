@@ -1,0 +1,47 @@
+{
+  "_id": "Rk3qsBftLikQsFgQq",
+  "slug": "lazarus-axis-a-speculative-proposal-to-pull-the-impossible",
+  "title": "Lazarus Axis: A Speculative Proposal to Pull the Impossible from Inside a Black Hole\n\nBy Igor Matos",
+  "postedAt": "2025-05-14T18:15:36.189Z",
+  "baseScore": 1,
+  "wordCount": 663,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Igor Matos",
+    "slug": "igor-matos"
+  },
+  "tags": [
+    {
+      "_id": "cq69M9ceLNA35ShTR",
+      "name": "Causality",
+      "slug": "causality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "DCN2zNscbMZp5aatL",
+      "name": "Information Theory",
+      "slug": "lwwiki-old-information-theory"
+    },
+    {
+      "_id": "csMv9MvvjYJyeHqoo",
+      "name": "Physics",
+      "slug": "physics"
+    }
+  ],
+  "tagRelevance": {
+    "DCN2zNscbMZp5aatL": 1,
+    "cq69M9ceLNA35ShTR": 1,
+    "csMv9MvvjYJyeHqoo": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "pGqRLe9bFDX2G2kXY": 1
+  }
+}

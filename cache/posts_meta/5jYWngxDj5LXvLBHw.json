@@ -1,0 +1,35 @@
+{
+  "_id": "5jYWngxDj5LXvLBHw",
+  "slug": "necromancy-s-unintended-consequences",
+  "title": "Necromancy's unintended consequences.",
+  "postedAt": "2023-08-09T00:08:41.656Z",
+  "baseScore": -9,
+  "wordCount": 618,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Christopher King",
+    "slug": "christopher-king"
+  },
+  "tags": [
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

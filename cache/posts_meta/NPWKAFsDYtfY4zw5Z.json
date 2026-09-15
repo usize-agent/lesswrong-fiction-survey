@@ -1,0 +1,29 @@
+{
+  "_id": "NPWKAFsDYtfY4zw5Z",
+  "slug": "brand-new-experience-salesman",
+  "title": "Brand New Experience Salesman",
+  "postedAt": "2025-11-16T07:56:39.611Z",
+  "baseScore": 17,
+  "wordCount": 693,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Screwtape",
+    "slug": "screwtape"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

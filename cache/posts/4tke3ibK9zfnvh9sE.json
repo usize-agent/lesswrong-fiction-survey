@@ -1,0 +1,82 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "4tke3ibK9zfnvh9sE",
+        "title": "The Bayesian Tyrant",
+        "slug": "the-bayesian-tyrant",
+        "pageUrl": "https://www.lesswrong.com/posts/4tke3ibK9zfnvh9sE/the-bayesian-tyrant",
+        "postedAt": "2020-08-20T00:08:55.738Z",
+        "baseScore": 145,
+        "wordCount": 1890,
+        "commentCount": 21,
+        "noIndex": false,
+        "user": {
+          "displayName": "abramdemski",
+          "slug": "abramdemski"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "E8PHMuf7tsr8teXAe",
+            "name": "Betting",
+            "slug": "betting"
+          },
+          {
+            "_id": "R6dqPii4cyNpuecLt",
+            "name": "Prediction Markets",
+            "slug": "prediction-markets"
+          },
+          {
+            "_id": "jTScW3bvF3j6WoiFe",
+            "name": "Radical Probabilism",
+            "slug": "radical-probabilism"
+          },
+          {
+            "_id": "LhX3F2SvGDarZCuh6",
+            "name": "Bayes' Theorem",
+            "slug": "bayes-theorem"
+          },
+          {
+            "_id": "8hPTCJbwJnLBmfpCX",
+            "name": "Calibration",
+            "slug": "calibration"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "8hPTCJbwJnLBmfpCX": 2,
+          "E8PHMuf7tsr8teXAe": 3,
+          "F2XfCTxXLQBGjbm8P": 5,
+          "LhX3F2SvGDarZCuh6": 2,
+          "Ng8Gice9KNkncxqcj": 2,
+          "R6dqPii4cyNpuecLt": 3,
+          "etDohXtBrXd8WqCtR": 8,
+          "jTScW3bvF3j6WoiFe": 3,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "Long ago and far away, there was a kingdom called Estimor in a broad green valley surrounded by tall grey mountains. It was an average kingdom in most respects, until the King read the works of Robin Hanson and Eliezer Yudkowsy, and decided to institute a Royalist Futarchy.\n\n*(This is a parable about the differences between Bayesian updates and logical induction. See also:* [*Radical Probabilism*](https://www.lesswrong.com/posts/xJyY5QkQvNJpZLJRo/radical-probabilism-1#Calibration).)\n\nThe setup was very simple. It followed the [futarchic motto](http://mason.gmu.edu/~rhanson/futarchy.html), \"Vote Values, But Bet Beliefs\" -- the only special consideration being that there was just one voting constituent (that being the King). A betting market would inform the King of everything He needed to know in order to best serve His interests and the interests of Estimor (which were, of course, one and the same).\n\nThe Seer's Hall -- a building previously devoted to religious prophecy -- was repurposed to serve the needs of the new betting market. (The old prophets were, of course, welcome to participate -- so long as they were willing to put money on the line.)\n\nAll went well at first. The new betting market allowed the King to set the revenue-maximizing tax rate, via the Laffer curve. An early success of the market was the forecasting of a grain shortage based on crop growth early in the season, which allowed ample time for grain to be purchased from neighboring lands.\n\nBeing an expert Bayesian Himself, the King would often wander the Seer's Hall, questioning and discussing with the traders at the market. Sometimes the King would be shocked by what he learned there. For example, many of the traders were calculating the [Kelly betting criterion](https://en.wikipedia.org/wiki/Kelly_criterion) to determine how much to invest in a single bet. However, they then proceeded to invest *only a set fraction* of the Kelly amount (such as 80%). When questioned, traders replied that they were hedging against mistakes in their own calculations, or reducing volatility, or the like.\n\nOne day, the King noticed a man who would always run in and out of the Hall, making bets hastily. This man did particularly well at the betting tables -- he ended the day with a visibly heavy purse. However, when questioned by The King as to the source of his good luck, the man had no answers. This man will subsequently be referred to as the Fool.\u00a0\n\nThe King ordered spies to follow the Fool on his daily business. That evening, spies returned to report that The Fool was running back and forth between the Seer's Hall and Dragon's Foot, a local tavern. The Fool would consult betting odds at Dragon's Foot, and return to the Seer's Hall to bet using those odds.\n\nEvidently, Dragon's Foot had become an unlicensed gambling den. But were they truly doing better than the Seer's Hall, so that this man could profit simply by using their information?\n\nThe King had the Fool brought in for questioning. As it turned out, the Fool was turning a profit by *arbitrage* between the two markets: whenever there was a difference in prices, the Fool would bet in favor at the location where prices were low, and bet against at the location where prices were high. In this way, he was making guaranteed money.\n\nThe King was disgusted at this way of making money without bringing valuable information to the market. He ordered all other gambling in the Kingdom shut down, requiring it to all take place at the Seer's Hall.\n\nSoon after that, the Fool showed his face again. Once again, he did well in the market. The King had his spiel follow the Fool, but this time, he went nowhere of significance.\n\nQuestioning the Fool a second time, he learned that this time the Fool was making use of *calibration charts*. The Fool would make meticulous records of the true historical frequency of events given their probabilistic judgement -- for example, he had recorded that when the market judges an event to be 90% probable, that event actually occurs about 85% of the time. The Fool had made these records about individual traders as well as the market as a whole, and would place bets accordingly.\n\nThe King was once again disgusted by the way the Fool made money off of the market without contributing any external information. But this time, He felt that He needed a more subtle solution to the problem. Thinking back to his first days of reading about Bayes' Law, the King realized the huge gap between His vision of perfected reasoning and the reality of the crowded, noisy, irrational market. The iron law of the market was *buy low sell high*. It did not follow rational logic. The Fool had proved it: the individual traders were poorly calibrated, and so was the market itself.\n\nWhat the King needed to do was reform the market, making it a more rational place.\n\nAnd so it was that the King instituted the Bayesian Law: *all bets on the market are required to be Kelly bets made on valid probability estimates. Valid probability estimates are required to be Bayesian updates of previously registered probability estimates.*\n\nAll traders on the market would now proceed according to Bayes' Law. They would pre-register their probability distributions, pre-specifying what kind of information would update them, and by how much it would update them.\n\nThe new ordinance proved burdensome. Only a few traders continued to visit the Seer's Hall. They spent their days in meticulous calculation, updating detailed prior models of grain and weather with all the data which poured in.\n\nSurprisingly, the Fool was amongst the hangers-on, and continued to make a tidy profit, even to the point of driving out some of the remaining traders -- they simply couldn't compete with him.\n\nThe King examined the registered probability distribution the Fool was using. It proved puzzling. The Fool's entire probability distribution was based on numbers which were to be posted to a particular tree out by Mulberry road. Updating on these numbers, the Fool was somehow a tidy profit. But where were the numbers coming from?\n\nThe King's spies found that the numbers were being posted by a secretive group, whose meetings they were unable to infiltrate.\n\nThe King had all the attendees arrested, accusing them of running an illegal gambling ring. The Fool was brought in for questioning once more.\n\n\"But it wasn't a gambling ring!\" the Fool protested. \"They merely got together and compiled *odds* for gambling. They were quite addicted when the Bayesian Law shut their sort out of the Seer's Hall, after all. And I took those odds and used them to bet in the Seer's Hall, perfectly legally.\"\n\n\"And redistributed the winnings?\" accused the King.\n\n\"As is only fair,\" agreed the Fool. \"But that is not gambling. I simply paid them as consultants.\"\n\n\"You took money from honest Bayesians, and drove them out of my Hall!\"\n\n\"As is the advantage of Bayesianism, no?\" The Fool cocked an eyebrow. \"The money flows to he who can give the best odds.\"\n\n\"Take him away!\" the king bellowed, waving a hand for the guards.\n\nAt that moment, the guards removed their helmets, revealing themselves to be comrades-in-arms with the Fool. The outcasts of the Seer's Hall had foreseen that the King would move against them, and with the power of Futarchy, had prepared well -- they staged a bloodless revolution that day.\n\nThe King, his family, and his most loyal staff were forced into exile. They went to stay with a distant cousin of the King, who ruled the nation Ludos, in the next valley over.\n\nThe King of Ludos had, upon seeing Estimor's success with prediction markets, set up His own. Unlike the Seer's Hall of Estimor, that of Ludos continued to thrive.\n\nThe King in Exile asked his cousin: \"What did I do wrong? All I wanted was to serve Estimor. The prediction market worked so well at first. And I only tried to improve it.\"\n\nThe King of Ludos sat in thought for a time, and then spoke. \"Cousin, We cannot tell You that You did anything wrong. Revolutions will happen. But We will say this: the many prediction markets of Ludos strengthen each other. Runners go back and forth between them, profiting from arbitrage, and this only makes them stronger. Calibration traders correct any bias of the market, ensuring unbiased results. You tried to outlaw the irrational at your market -- but remember, the wise gambler profits off the foolhardy gambler. Without any novices throwing away their money, none would profit.\"\n\n\"But most of all, cousin, We think You lost sight of the power of betting. It is a truth more fundamental than Bayes' Law that money will flow from the unclever to the clever. You lost Your trust in that system. Even if You had enforced Kelly betting, but left it to each individual trader to set his probability however he liked -- rather than updating via Bayes' Law alone -- you would have been fine. If Bayes' Law were truly the correct way, money would have flowed to those who excelled at it. If not, then money would have flowed elsewhere. But instead you overwhelmed them with the bureaucracy of Bayes -- requiring them to record every little bit of information they used to reach a conclusion.\"\n\n* * *\n\n*The arbitrage between different betting halls represented outside view / modest epistemology, trying to reach agreement between different reasoners. It's a questionable thing to include, in terms of the point I'm making, since this is not exactly a thing that happens in logical induction. However, it fits in the allegory so well that I felt I couldn't not include it. One argument for the common prior assumption (an assumption which underpins the Aumann Agreement Theorem, and is closely related to modest-epistemology arguments) is that a bookie can Dutch Book any group of agents who do not have a common prior, via performing arbitrage on their various beliefs.*\n\n*\\[Edit: actually, what we can conclude from the analogy is that bets on different markets should converge to the same thing **if they ever pay out**, which is also true in logical induction.\\]*\n\n*The calibration-chart idea, clearly, represented* [*calibration properties*](https://www.lesswrong.com/posts/xJyY5QkQvNJpZLJRo/radical-probabilism-1#Calibration).\n\n*The idea of the Bayesian Law represented requiring all hypotheses/traders to update in a Bayesian manner. Starting from Bayesian hypothesis testing, one step we can take in the direction of logical induction is to allow hypotheses to themselves make non-Bayesian updates. The overall update **between** hypotheses would remain Bayesian, but an individual hypothesis could change its mind in a non-Bayesian fashion. A hypothesis would still be required to have a coherent probability distribution at any given time; just, the updates could be non-Bayesian. A fan of Bayes' Law might suppose that, in such a situation, the hypotheses which update according to Bayes' Law would dominate -- in other words, a meta-level Bayesian would learn to also be an object-level Bayesian. But I see no reason to suspect this to be the case. Indeed, in situations where logical uncertainty is relevant, non-Bayesian updates can be used to continue improving one's probability distribution over and above the explicit evidence which comes in. It was this idea -- that we could take one step toward logical induction by being a meta-level Bayesian without being an object-level Bayesian -- which inspired this post (although the allegory didn't end up having such a strong connection with this idea).*\n\n*The main point of this post, anyway, is that **Bayes' Law would be a bad law.** Don't institute a requirement that everyone reason according to it.*"
+        }
+      }
+    }
+  }
+}

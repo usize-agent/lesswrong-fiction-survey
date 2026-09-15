@@ -1,0 +1,23 @@
+{
+  "_id": "MmSv6vnsmDHu5tvpd",
+  "slug": "narrative-self-image-and-self-communication",
+  "title": "Narrative, self-image, and self-communication",
+  "postedAt": "2012-12-19T09:42:16.279Z",
+  "baseScore": 48,
+  "wordCount": 1601,
+  "commentCount": 51,
+  "user": {
+    "displayName": "Academian",
+    "slug": "academian"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 2
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "djBxMbpfqNn7CjSKZ",
+  "slug": "the-garden",
+  "title": "The Garden",
+  "postedAt": "2026-04-06T22:35:41.059Z",
+  "baseScore": 4,
+  "wordCount": 1634,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Sturb",
+    "slug": "sturb"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

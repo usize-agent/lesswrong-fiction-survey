@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "aRxDLju75KXD6PCpB",
+        "title": "Wolf Incident Postmortem",
+        "slug": "wolf-incident-postmortem",
+        "pageUrl": "https://www.lesswrong.com/posts/aRxDLju75KXD6PCpB/wolf-incident-postmortem",
+        "postedAt": "2023-01-09T03:20:03.723Z",
+        "baseScore": 138,
+        "wordCount": 418,
+        "commentCount": 13,
+        "noIndex": false,
+        "user": {
+          "displayName": "jefftk",
+          "slug": "jkaufman"
+        },
+        "tags": [
+          {
+            "_id": "zcvsZQWJBFK6SxK4K",
+            "name": "Postmortems & Retrospectives",
+            "slug": "postmortems-and-retrospectives"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 4,
+          "hNFdS3rRiYgqqD8aM": 2,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "zcvsZQWJBFK6SxK4K": 5
+        },
+        "contents": {
+          "markdown": "Incident #210\n-------------\n\n### Status\n\nComplete, one action item outstanding.\n\n### Summary\n\nSentinel consumed by wolf after repeated false alarms.\n\n### Impact\n\nLoss of sentinel. No flock impact.\n\n### Root causes\n\nSentinel generated noisy alerts due to premature deployment, incomplete training, and overly monotonous task. Oncalls failed to respond to true positive due to alert fatigue.\n\n### Trigger\n\nWolf.\n\n### Resolution\n\nGathered flock. Deployed replacement sentinel.\n\n### Detection\n\nSentinel did not report at end of shift.\n\n### Action Items\n\n| Priority | Action Item | Type | Status |\n| --- | --- | --- | --- |\n| P0  | Gather flock | mitigate | complete |\n| P0  | Deploy replacement sentinel | mitigate | complete |\n| P1  | Update playbook for wolf alerts | prevent | complete |\n| P2  | Update remaining sentinels | prevent | complete |\n| P2  | Revise sentinel training program | prevent | complete |\n| P2  | Investigate equipping sentinels with flutes or slings | prevent | in progress |\n\n### Lessons Learned\n\n#### What went well\n\n*   Flock gathering proceeded without issues.\n*   No flock injuries or losses.\n*   Replacement sentinel did not exhibit false positive alerts.\n\n#### What went wrong\n\n*   Noisy alerts not addressed.\n*   Alerts silenced contrary to playbook.\n*   Loss of sentinel.\n\n#### Where we got lucky\n\n*   Only one wolf.\n*   Wolf sated after sentinel consumption.\n*   Replacement sentinel available.\n\n### Timeline\n\n*All times local*\n\nMarch 3rd:\n\n*   16:32 Oncalls paged \"wolf\".\n*   16:34 First oncall arrives at sentinel location.\n*   16:34 Alert diagnosed as false positive. No corrective action performed.\n\nMarch 4th:\n\n*   14:15 Oncalls paged \"wolf\".\n*   14:19 First oncall arrives at sentinel location.\n*   14:19 Alert diagnosed as false positive. No corrective action performed.\n\nMarch 5th:\n\n*   17:03 (Reconstructed) *Outage begins*, sentinel notices wolf.\n*   17:03 Oncalls paged \"wolf\".\n*   17:04 Oncalls paged \"wolf\".\n*   17:04 Oncalls paged \"real wolf\".\n*   17:05 (Reconstructed) Wolf consumes sentinel.\n*   18:45 Sentinel does not report at end of shift.\n*   19:05 Primary oncall dispatched to field.\n*   19:10 Oncall diagnoses issue.\n*   19:10 *Incident begins*, secondary and tertiary oncalls paged.\n*   19:15 First sheep located.\n*   19:52 Last sheep located.\n*   20:05 Flock safe in pens.\n*   20:05 *Outage ends*, flock protection fully restored.\n*   20:45 Replacement sentinel identified.\n\nMarch 6th:\n\n*   07:38 Replacement sentinel deployed\n*   18:45 Replacement sentinel reports at end of shift\n*   18:45 *Incident ends*, 24hr without wolf alerts or activity (exit criterion).\n\n*Comment via: [facebook](https://www.facebook.com/jefftk/posts/pfbid02hPxskn4UtYdKBQFC7DsGVnm5Uq5PfUvc9caJKAkNd6fD82GM7XubSpSeSQ5KwVZ5l), [mastodon](https://mastodon.mit.edu/@jefftk/109657069519123119)*"
+        }
+      }
+    }
+  }
+}

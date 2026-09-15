@@ -1,0 +1,35 @@
+{
+  "_id": "5RytYtxhr5BaELkKi",
+  "slug": "practitioner-novice",
+  "title": "Practitioner: Novice",
+  "postedAt": "2022-02-20T19:01:50.486Z",
+  "baseScore": 25,
+  "wordCount": 50,
+  "commentCount": 0,
+  "user": {
+    "displayName": "The Guild of the Rose",
+    "slug": "high-council"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "p2aBoEmJhjZYpkaPZ",
+      "name": "Guild of the Rose",
+      "slug": "guild-of-the-rose"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "p2aBoEmJhjZYpkaPZ": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "APiKzCSDiR49KQtLg",
+        "title": "You get one story detail",
+        "slug": "you-get-one-story-detail",
+        "pageUrl": "https://www.lesswrong.com/posts/APiKzCSDiR49KQtLg/you-get-one-story-detail",
+        "postedAt": "2022-04-05T04:38:36.022Z",
+        "baseScore": 38,
+        "wordCount": 1205,
+        "commentCount": 8,
+        "noIndex": false,
+        "user": {
+          "displayName": "Gordon Seidoh Worley",
+          "slug": "gordon-seidoh-worley"
+        },
+        "tags": [
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "fkABsGCJZ6y9qConW",
+            "name": "Practical",
+            "slug": "practical"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "fkABsGCJZ6y9qConW": 2,
+          "pszEEb3ctztv3rozd": 2
+        },
+        "contents": {
+          "markdown": "So, as you know, [you have about five words](https://www.lesswrong.com/posts/4ZvJab25tDebB8FGE/you-have-about-five-words). That is, if you want to convey an idea to a bunch of people, you can only reliably communicate ideas simply enough to fit in five words.\n\nI have a related theory.\n\nIf you want a lot of people to remember a story, you have to keep it tiny. How tiny? I'll explain.\n\nIf you're talking to someone one-on-one, you can go into great detail telling a **nuanced** **story**. They can ask questions and you can help them understand the deep motivations for why things happened. You can successfully convey a story with a lot of nuance so that they can retell it.\n\nIf you're talking to a small group you can tell a **complex** **story**. There's several of people so you don't have time to check with each of them explicitly at each story beat, but you can read the faces of your listeners and get a sense for what they are understanding. You can go into more detail when they look confused. In this way you can convey a complex story so each person could walk away and tell it to others mostly intact.\n\nIf you're talking to a big group you can tell a **simple** **story**. There's too many people for you to engage with anyone directly. You might still be able to check a few faces for confusion or understanding, but not all of them. And you now have a large enough audience that you can't trust that your audience has a sufficiently similar background to grasp all the details from a shared version of it. So you can convey only a fairly simple story that relies on tropes the audience is familiar with if you hope to have them retell it.\n\nIf you're talking to a huge group you can tell a **tiny story**. At this point you're probably not even going to get to see if anyone really understands or not, and certainly not in realtime. Your audience is literally or metaphorically obscured in darkness from you. If you want to tell the a story they'll be able to retell, it's going to have to be tiny. Five words tiny. You can get away with some connecting words, but your story has to have a very simple structure and not a lot of details.\n\nSpecifically, I think **a tiny story can have at most one detail**. More than that and folks are going to get lost. What's a detail? \"Dog bites man\" is one detail. \"Man bites dog\" is another detail. \"Dog bites man, then man bites dog back\" is a story with two details. I think a one detail story is the best you can do for a huge audience without details getting lost.\n\nWhy? Consider the simple story \"a deer ran in front of me and I crashed the car\". Because there's two details, some people are only going to remember one of them. If they only remember \"a deer ran in front of me\" they might later fill in \"and I hit it\" because that still results in a damaged car, nevermind that in reality you swerved to save the deer and hit a tree. If they only remember \"I crashed the car\" they might later fill in \"because I was drunk\", nevermind that you're a teetotaler.\n\n**What's the implication?** Well, much like with only having five words, if you can only tell one detail stories you're going to have to think very hard about what detail to tell and what people are going to infer from that detail. For example, here's a story from the news today:\n\n> Elon Musk becomes Twitter's largest shareholder\n\nSo this is actually a two detail story disguised as a one detail story because headline writers know how to make each word do a lot of work. Let me rephrase it to make it clear:\n\n> Elon Musk bought Twitter stock; he's now Twitter's largest shareholder\n\nThe words \"largest shareholder\" are doing a lot of precise mathematical work here since he bought a 9% share. That's not what most people think \"largest shareholder\" means. They think he now owns twitter. So they merge these two details together into one:\n\n> Elon Musk bought Twitter\n\nThat's not what happened, but of course it doesn't help that Elon Musk is himself playing up this version of the story with tweets asking what product features he should add to his newly purchased company.\n\nLet's take a story we might like to tell about **AI safety**:\n\n> AI could be dangerous, so we should make it safer\n\nOkay, we got two details here: \"AI could be dangerous\" and \"we should make \\[AI\\] safer\". What are people going to do with this? You probably already know.\n\nSome people remember \"AI could be dangerous\" and forget the part about making it safer. They respond in several predictable ways. Panic, opposition, and giving up are among them.\n\nSome people remember that some other people want to make AI safer. They don't remember why, so they fill that in. If they don't already believe that AI could be dangerous, they fill in something like \"because they're worried over nothing\" or \"because there's always those who oppose progress\".\n\nYikes, no wonder so many people don't buy the need to work on AI safety. The story is literally too complex to convey to a massive audience accurately because it requires two details!\n\nOkay, so **what can you do with this information**?\n\nAside from using it to become a master of public relations, you can use it at work and school. I use my theory about stories all the time on the job. I'm a busy person and interact with lots of other busy people. Busy people are approximately like people who are part of a large audience. Even if you're talking to them one-on-one, their busyness means that even if they are in the moment engaged with you they have so much to remember each day that they functionally are going to forget so much that they can only remember simple stories. If you're lucky you can tell a two or three detail story and have them remember it. So if you want a busy person to remember something specific, think carefully about what details you tell them.\n\nYou can break up the details. If you can decompose a story into isolated details, you can tell multiple, single detail stories for people to stitch back together. This strategy only works if each story is something you're happy to see spread in isolation since some people are only going to remember some of the stories. If the linkage of the stories is literally anything more complex than \"AND\" then this strategy won't work.\n\nYou can use it to share ideas. I know that if I want to convey an idea to others, I've got to do it in a story simple enough to be conveyed within the format. I haven't always gotten this right. For example, think about this post. What story am I tell? How complex is it? I know I wrote a lot of words, but how complex is the story really? If you had to walk away from this post and tell it to someone else, what you would say? What's the fewest details that reconstructs it?\n\nI know my answer.\n\n**You get one story detail.**"
+        }
+      }
+    }
+  }
+}

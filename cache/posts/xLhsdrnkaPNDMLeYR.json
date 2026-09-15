@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "xLhsdrnkaPNDMLeYR",
+        "title": "Aldix and the Book of Life",
+        "slug": "aldix-and-the-book-of-life",
+        "pageUrl": "https://www.lesswrong.com/posts/xLhsdrnkaPNDMLeYR/aldix-and-the-book-of-life",
+        "postedAt": "2024-01-01T17:23:30.698Z",
+        "baseScore": 1,
+        "wordCount": 1334,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "ville",
+          "slug": "ville"
+        },
+        "tags": [
+          {
+            "_id": "t7t9nW6BtJhfGNSR6",
+            "name": "Aging",
+            "slug": "aging"
+          },
+          {
+            "_id": "PvridmTCj2qsugQCH",
+            "name": "Goodhart's Law",
+            "slug": "goodhart-s-law"
+          },
+          {
+            "_id": "vmvTYnmaKA73fYDe5",
+            "name": "Life Extension",
+            "slug": "life-extension"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 1,
+          "PvridmTCj2qsugQCH": 1,
+          "t7t9nW6BtJhfGNSR6": 1,
+          "vmvTYnmaKA73fYDe5": 1
+        },
+        "contents": {
+          "markdown": "*The following is a fable on the dangers of measures becoming targets, originally posted to my blog in Medium. All illustrations are AI-generated, but none of the text is.*\n\nWhen on a crisp spring night you look at a night sky, you can see countless stars, each with their own planetary systems. But there are also planets without suns, forever bound to travel across space in darkness. What if such a planet developed intelligent life? Let\u2019s imagine so, for it may help us find answers to an important question.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/2c6017aaee6d2a77e1525a73dd4f75ce3d99b17b45070baa.png)\n\nRogue planet Tempus Vagaris as seen by a distant observer.\n\nYou have now left Earth, and landed on Tempus Vagaris, a planet without a sun. But don\u2019t worry, it won\u2019t be all cold and dark \u2014 thermal vents from the planet\u2019s molten core have created ancient hot springs. These pockets of warmth feed an ecosystem of most wondrous creatures. There are giant mushrooms and fungi with an eerie blue glow, providing light for small flowers, grasses, and bushes. The air buzzes with fireflies of different colours, creating an ambient twinkling of lights like sparks, and the grasses are home to small frogs catching flies that stray too close to the ground. Within the spring waters swim small fish, eating the spores and algae growing at the surface. Beyond a few meters, the waters get too murky and hot to explore, and the creatures hiding in the depts remain a mystery.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/66a776b29d252add2d3091100baa8438b1014a58637486d5.png)\n\nThe hot springs of Tempus Vagaris are full of life.\n\nBut the most special creatures on Tempus Vagaris are the Aevosaurs, a race of small dinosaur-like creatures living inside the fungi. The Aevosaurs have small hands, two feet they use for walking, and a long tail with a bioluminescent bulb they use for communicating their feelings. Unlike other inhabitants of Tempus Vagaris, the intelligent Aevosaurs can use tools and live in small villages where they study and catalogue the wondrous world around them.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/d0e5338bcd08fdd1f956db79ed8a6c971bc687ba2c0b51c1.png)\n\nAn Aevosaur walking in the mushroom forests.\n\nThe centre of the Aevosaur village is the tallest mushroom of the forest, which over generations has been hollowed out with a staircase that reaches all the way to the top. The cap offers a beautiful vista across the hot springs, while also acting as the an observatory for the eternal night sky. The Aevosaurs are master astronomers, and have named every constellation of stars in the sky. This allowed them to understand a fundamental truth about their home world.\n\nIt rotates.\n\nUnlike our Earth, Tempus Vagaris has no days and nights, no months, and no years either. Stories tell of a past where Aevosaurs slept whenever they tired. But a growing civilisation needs a schedule to function, and thus a Day was defined as a full rotation of the stars in the sky. Lamps made of glowing fungi were placed across the village to distinguish the day from the night. The future could now be planned in advance: when a field was planted with spores, a harvest of fully grown mushrooms could be expected in 40 days. The passage of time was tracked by marking a small cross, first on wood or stone and later on papyrus made of reeds, another famous invention of the Aevosaurs.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/59978a3212761dce5f90f34cf79e467bbad0568f2af8feba.png)\n\nAn Aevosaur checking on the progress of the upcoming harvest.\n\n**The Book of Life**\n--------------------\n\nWhile the Day was useful for tracking harvests, the Aevosaurs started using it to track their own lifespans as well. Aevosaurs did not know how old or young they were: some were taller than others, or had wrinkles, scars, and stories reminiscent of a life long lived. But just as a harvest could be tracked by making a cross on papyrus, so could the age of an Aevosaur. And as legend tells, the Elders of the tribe so created the Book of Life: a personal book of papyrus scrolls, where each Aevosaur was to mark a cross every morning.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/ac7b1f6e02ce98f83b8b8898ec52b05420171a8309f1f31b.png)\n\nA young Aevosaur crossing off another day on a hand-bound Book of Life.\n\nDays on Tempus Vagaris were long: after a shift in the fields, an Aevosaur deserved their rest. A single scroll in the Book of Life could accommodate around 60 standard marks. Thus it became convenient to count an Aevosaur\u2019s age using the number of scrolls they had filled up in their Book. A newly hatched Aevosaur\u2019s Book would be marked by their parents, until they had filled six full scrolls, after which the young one would join the village school and be taught how to write their own marks. Since progress at school was tied to scrolls, some mischievous Aevosaurs tried to fill theirs with marks larger than usual. They had to tread carefully: transgressions against the sacred practice would not be tolerated by the Council of Elders.\n\nAt fourteen scrolls, an Aevosaur could take the Challenges, a final exam of sorts, and enter the society as an adult. No more homework or being bossed around by Mum and Dad! After that, the daily marking became seen as a chore, and filling up a scroll could trigger a small age crisis. The 30th and 40th scrolls were seen as especially difficult, while the few Aevosaurs making it to their 50th scroll were revered for their wisdom and could join the Council of Elders to lead the tribe.\n\n**Life of Aldix**\n-----------------\n\nOut of all Aevosaurs, Aldix was born different. In school, he was always looking to pass his assignments with the least effort possible. Aldix was reprimanded multiple times by the Elders for marks too large on his Book of Life, until he had perfected handwriting that was just small enough to pass the scrutiny of his teachers. At fourteen pages, Aldix was the shortest Aevosaur to take on the Challenges, which he passed by the skin of his teeth.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/0049cd7ab0ba59ccc7751c4ac2f53b4955384aab0f12f378.png)\n\nSchoolteachers would often reprimand Aldix for not filling his Book of Life correctly.\n\nAldix seemed much happier as a grown-up Aevosaur. He started working as a farmer, and even got married. But as his scrolls started to fill up, a new form of anxiety started to creep up: Aldix was getting older and approaching 30 scrolls of age.\n\nAldix started filling his scrolls with smaller marks. Gone were the large marks of his youth: the new ones were distinctively smaller, though not so small as to stick out. Aldix would also \u201cforget\u201d to fill out a mark every now and then. This did have an impact: other Aevosaurs started noticing that his wife Vitella was aging faster than him. But Aldix\u2019s 30th scrolldate came and went, and his anxiety only became stronger.\n\nFinally Aldix had an idea. Other Aevosaurs were mostly paying attention to the current position of marks in the scroll. If he started filling out multiple scrolls in parallel, he could show progress each day, while discreetly ripping out incomplete scrolls from the Book. As others started asking questions about his slow aging, Aldix claimed it was due to the foul-tasting elixir he made from fermenting seaweed growing at the bottom of the springs. Few believed the eccentric Aevosaur\u2019s words as no one else had ever dived deeper than a few meters, yet his slow aging did become a hot topic. As Vitella turned 50 and joined the Council of Elders, Aldix was still at his 37th scroll. At this rate he could be overtaken by his own son and daughter!\n\nBecause of his young age, it was a shock for everyone when Aldix passed away at the age of 38 scrolls. The loss of such a young life touched everyone, though wise Vitella, now 55 and one of the village\u2019s oldest had caught on to Aldix\u2019s tactics. At her 56th scrollday, she asked the village to move away from measuring age and experience in scrolls, as [Epigenetic clocks](https://en.wikipedia.org/wiki/Epigenetic_clock) like the Book of Life can be useful measures yet will always break when the measure becomes a target.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/947f7710d005c0d72d44a34b7de72f958bbdd219caa599b3.png)\n\nVitella was the wisest Aevosaur, as she understood the dangers of measures becoming targets."
+        }
+      }
+    }
+  }
+}

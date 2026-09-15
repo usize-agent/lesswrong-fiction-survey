@@ -1,0 +1,29 @@
+{
+  "_id": "Pj8qC32wAfvDeJkvT",
+  "slug": "nick-and-eternity",
+  "title": "Nick and \u201cEternity\u201d",
+  "postedAt": "2026-01-31T21:50:41.296Z",
+  "baseScore": 5,
+  "wordCount": 2538,
+  "commentCount": 0,
+  "user": {
+    "displayName": "MarkelKori",
+    "slug": "markelkori"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "jiuackr7B5JAetbF6",
+      "name": "Transhumanism",
+      "slug": "transhumanism"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "jiuackr7B5JAetbF6": 1
+  }
+}

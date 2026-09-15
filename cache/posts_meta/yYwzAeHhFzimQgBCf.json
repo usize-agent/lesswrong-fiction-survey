@@ -1,0 +1,23 @@
+{
+  "_id": "yYwzAeHhFzimQgBCf",
+  "slug": "chapter-22-the-scientific-method",
+  "title": "Chapter 22: The Scientific Method",
+  "postedAt": "2015-03-14T19:00:35.300Z",
+  "baseScore": 42,
+  "wordCount": 8891,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "hvafERyCS4uKC7Ctc",
+  "slug": "book-review-the-maniac",
+  "title": "Book Review: The MANIAC",
+  "postedAt": "2025-07-31T15:18:51.588Z",
+  "baseScore": 15,
+  "wordCount": 519,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Annapurna",
+    "slug": "annapurna"
+  },
+  "tags": [
+    {
+      "_id": "4Kcm4etxAJjmeDkHP",
+      "name": "Book Reviews / Media Reviews",
+      "slug": "book-reviews-media-reviews"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "6nS8oYmSMuFMaiowF",
+      "name": "Logic & Mathematics ",
+      "slug": "logic-and-mathematics"
+    },
+    {
+      "_id": "csMv9MvvjYJyeHqoo",
+      "name": "Physics",
+      "slug": "physics"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "4Kcm4etxAJjmeDkHP": 1,
+    "6nS8oYmSMuFMaiowF": 1,
+    "csMv9MvvjYJyeHqoo": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

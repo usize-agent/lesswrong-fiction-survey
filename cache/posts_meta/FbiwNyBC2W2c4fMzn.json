@@ -1,0 +1,29 @@
+{
+  "_id": "FbiwNyBC2W2c4fMzn",
+  "slug": "harry-potter-and-the-methods-of-psychomagic-or-chapter-2-the",
+  "title": "Harry Potter and the Methods of Psychomagic | Chapter 2: The Global Neuronal Workspace",
+  "postedAt": "2021-10-26T18:54:49.386Z",
+  "baseScore": 52,
+  "wordCount": 2792,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Henry Prowbell",
+    "slug": "henry-prowbell"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

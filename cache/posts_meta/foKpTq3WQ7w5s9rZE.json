@@ -1,0 +1,29 @@
+{
+  "_id": "foKpTq3WQ7w5s9rZE",
+  "slug": "printable-book-of-some-rationalist-creative-writing-from",
+  "title": "Printable book of some rationalist creative writing (from Scott A. & Eliezer)",
+  "postedAt": "2024-12-23T15:44:31.437Z",
+  "baseScore": 10,
+  "wordCount": 227,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Adam Morris",
+    "slug": "adam-morris"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

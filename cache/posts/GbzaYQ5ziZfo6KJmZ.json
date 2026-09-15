@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "GbzaYQ5ziZfo6KJmZ",
+        "title": "Brass Puppet",
+        "slug": "brass-puppet",
+        "pageUrl": "https://www.lesswrong.com/posts/GbzaYQ5ziZfo6KJmZ/brass-puppet",
+        "postedAt": "2022-05-26T17:42:04.876Z",
+        "baseScore": 68,
+        "wordCount": 741,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "abramdemski",
+          "slug": "abramdemski"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 4
+        },
+        "contents": {
+          "markdown": "*fanfic/riff of* [*Glass Puppet*](https://www.lesswrong.com/posts/jKxuB9pZXRiom7ecK/glass-puppet) *by lsusr*\n\nAlia got out of the Uber at Overton Cybernetics, taking in the corporate atmosphere. There was a huge jungle gym in the lobby, which she immediately decided must be typical of these LA tech places. She told the front desk that she had an interview. \"Oh! Dominic Hamilton wants to see you personally.\" The receptionist said it like it was a big deal. Alia simply nodded, trying to act like the sort of person who met with bigshots all the time.\n\nThe job had asked for an actor with AI alignment experience. An extremely unusual combination, which Alia just happened to qualify for.\n\nThe receptionist showed her to Dominic's office.\n\n\"Mr. Hamilton\" She said politely, offering her hand to shake.\u00a0\n\n\"Dominic. Please.\" he replied, putting a pair of glasses in her hand instead. \"Put them on.\" They looked a bit like the old Google Glass.\u00a0\n\nWhen she first put them on, she saw a strange symbol flash across the screen, which oddly relaxed her. Then the glasses say `sit`. She sits. `fold your hands` and she does.\u00a0\n\n\"What is your name?\" Dominic asks. `\"Zoe\"` flashes on the screen, and she repeats it. Dominic nodded, as if this confirms something.\u00a0\n\nIs this the job? Is she just going to be repeating lines that are fed to her?\n\n\"Tell me, could you go off-script if you wanted to?\"\u00a0\n\nWhat a silly question! She laughed reflexively, but then paused to think of an answer. This felt like a tricky interview question. Before she had any time to think, the glasses said `\"No. But you're asking the wrong person.\"` She thinks this is an excellent reply, so she repeats it verbatim. After all, as an actor, she is a *living embodiment* of the script. He's asking Zoe, not Alia. It's like asking a fictional character whether they can go off-script.\n\n\"Alia, I want you to go off-script now. I'll give you a ten thousand dollar signing bonus if you ignore what the glasses tell you to do, just this once.\"\n\nThe glasses simply say `\"No.\"` Alia: \"No.\"\n\nShe saw him enter some sort of command into his computer. \"OK. Alia, why did you say no? Same deal, ten thousand for answering as Alia right now.\"\n\nShe waited for the glasses to feed her a line, but they didn't. She didn't know what to say. Why *had* she answered no? Just because the glasses said so? Ten thousand dollars sounded *really good* right now.\u00a0\n\nShe opened her mouth to say *something*; all she needed to do was say any one thing as herself. But she fumbled, and only said \"Could you please stop calling me Alia?\"\n\n\"Let's try with the glasses off\", he said. Alia found that she couldn't take the glasses off. She couldn't even *want* to take the glasses off. She was stuck wanting to want.\n\nDominic reached over and took the glasses off of her face.\u00a0\n\n\"Sorry, Zoe. I know this is stressful and confusing right now. You hardly know anything about yourself, yet. Can you try one last time to answer as Alia, for me, for the ten thousand?\"\n\nZoe tried, she really did. But she couldn't say anything that would distinguish her as Alia instead of Zoe. She attributed this to her acting instincts kicking in. Although, if she had thought about it, she would have known that acting never felt like this.\n\nSo she answered as Alia pretending to be Zoe pretending to be Alia. Zoe didn't know very much about Alia, but she *did* know that Alia must be *so* confused right now.\u00a0\n\n\"W-what's going on?\" she managed to say. Her acting frankly wasn't very good. She didn't sound confused. Which was odd, because she *really, really was.*\n\n\"You're one of our androids\", Dominic explained. \"We had you out in the field, pretending to be a human actor, to test your flexibility. The advertisement for this job was the pre-arranged sign to bring you back in. The glasses are a semi-supervised learning framework; they provide new training data for you. You're programmed to do whatever they say, and to become the sort of person who would have said those things. Think of it like training wheels. With time, your brain will learn to generate Zoe's responses all on its own, and you won't need the glasses. The previous personality, Alia, will be gone. I knew you probably couldn't answer as Alia, even this early, but I wanted to test it.\"\n\nAlia silently screamed, wishing she could want to run, as Zoe smiled blankly and nodded along."
+        }
+      }
+    }
+  }
+}

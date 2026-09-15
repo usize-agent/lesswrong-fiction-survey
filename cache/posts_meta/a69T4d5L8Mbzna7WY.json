@@ -1,0 +1,59 @@
+{
+  "_id": "a69T4d5L8Mbzna7WY",
+  "slug": "emergent-authorship-creativity-a-la-communing",
+  "title": "Emergent Authorship: Creativity \u00e0 la Communing",
+  "postedAt": "2024-09-14T19:02:07.635Z",
+  "baseScore": 1,
+  "wordCount": 838,
+  "commentCount": 0,
+  "user": {
+    "displayName": "gswonk",
+    "slug": "gswonk"
+  },
+  "tags": [
+    {
+      "_id": "GDGYkF29pxEQNWjYc",
+      "name": "Agency",
+      "slug": "agency"
+    },
+    {
+      "_id": "T63QtRJhoTEGhZbTP",
+      "name": "Creativity",
+      "slug": "creativity"
+    },
+    {
+      "_id": "N3CqcPdCZNspF9bFb",
+      "name": "Emergent Behavior ( Emergence )",
+      "slug": "emergent-behavior-emergence"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb1b8",
+      "name": "Free Will",
+      "slug": "free-will"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "dBPou4ihoQNY4cquv",
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "_id": "7mTviCYysGmLqiHai",
+      "name": "Writing (communication method)",
+      "slug": "writing-communication-method"
+    }
+  ],
+  "tagRelevance": {
+    "7mTviCYysGmLqiHai": 1,
+    "GDGYkF29pxEQNWjYc": 1,
+    "N3CqcPdCZNspF9bFb": 1,
+    "T63QtRJhoTEGhZbTP": 1,
+    "dBPou4ihoQNY4cquv": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "5f5c37ee1b5cdee568cfb1b8": 1
+  }
+}

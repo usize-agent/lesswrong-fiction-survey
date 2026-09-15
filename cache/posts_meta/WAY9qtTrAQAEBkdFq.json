@@ -1,0 +1,23 @@
+{
+  "_id": "WAY9qtTrAQAEBkdFq",
+  "slug": "the-old-memories-tree",
+  "title": "The old memories tree",
+  "postedAt": "2025-03-05T19:03:59.498Z",
+  "baseScore": 7,
+  "wordCount": 402,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Yair Halberstadt",
+    "slug": "yair-halberstadt"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

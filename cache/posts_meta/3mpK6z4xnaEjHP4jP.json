@@ -1,0 +1,23 @@
+{
+  "_id": "3mpK6z4xnaEjHP4jP",
+  "slug": "our-beloved-monsters",
+  "title": "Our Beloved Monsters",
+  "postedAt": "2025-09-27T13:25:01.624Z",
+  "baseScore": 72,
+  "wordCount": 3185,
+  "commentCount": 4,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

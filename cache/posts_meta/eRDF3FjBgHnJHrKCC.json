@@ -1,0 +1,35 @@
+{
+  "_id": "eRDF3FjBgHnJHrKCC",
+  "slug": "deontological-evil",
+  "title": "Deontological Evil",
+  "postedAt": "2022-07-02T06:57:18.085Z",
+  "baseScore": 51,
+  "wordCount": 594,
+  "commentCount": 4,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "nSHiKwWyMZFdZg5qt": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

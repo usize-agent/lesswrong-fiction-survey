@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "fbjNLjNd4zRbY9Wg2",
+        "title": "Null-boxing Newcomb\u2019s Problem",
+        "slug": "null-boxing-newcomb-s-problem-2",
+        "pageUrl": "https://www.lesswrong.com/posts/fbjNLjNd4zRbY9Wg2/null-boxing-newcomb-s-problem-2",
+        "postedAt": "2020-07-13T16:32:53.869Z",
+        "baseScore": 33,
+        "wordCount": 1088,
+        "commentCount": 9,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yitz",
+          "slug": "yitz"
+        },
+        "tags": [
+          {
+            "_id": "XSryTypw5Hszpa4TS",
+            "name": "Consciousness",
+            "slug": "consciousness"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "WnnwytvzpKqJ3YChY",
+            "name": "Newcomb's Problem",
+            "slug": "newcomb-s-problem"
+          },
+          {
+            "_id": "L3NcKBNTvQaFXwv9u",
+            "name": "Paradoxes",
+            "slug": "paradoxes"
+          },
+          {
+            "_id": "8byoqYZfdwHffYLZ6",
+            "name": "Newsletters",
+            "slug": "newsletters"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "8byoqYZfdwHffYLZ6": 1,
+          "L3NcKBNTvQaFXwv9u": 2,
+          "Ng8Gice9KNkncxqcj": 4,
+          "WnnwytvzpKqJ3YChY": 2,
+          "XSryTypw5Hszpa4TS": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "The leering statue of the unnamed trickster god stared down at him from its sacred alcove, motionless as always.\nMaxwell sighed. He had been praying at the base of the statue for the past hour, and like every time previous, he hadn\u2019t felt anything. The priests had promised salvation from his fiscal woes if he would only pray for an hour a day at the local temple for two weeks, and now two weeks had passed, but nothing had happened. Maxwell rose wearily to his feet, recited the closing prayer quickly, and turned to go.\nThat was when he heard the voice.\n\n\u201cSTOP WHERE YOU ARE.\u201c\n\nMaxwell whirled around, and found himself standing face-to-face with the leering stone statue, whose marble eyes were now glowing a dull red. It had stepped out of its alcove. Maxwell screamed, in accordance with the ancient and honored custom of screaming at creepy glowing statues that had moved right behind you.\n\n\u201cBE NOT AFRAID, MORTAL, FOR I HAVE COME IN ANSWER TO YOUR PRAYERS...ACTUALLY, I TAKE THAT BACK. BE MILDLY AFRAID, BECAUSE I AM ADMITTEDLY KIND OF CREEPY AND DON\u2019T HAVE THE SAME UTILITY FUNCTIONS AS YOU.\u201d\n\n\u201cWhat the heck...\u201d\n\n\u201cI AM THE UNNAMED TRICKSTER GOD, COME TO DELIVER YOU FROM FINANCIAL SUFFERING.\u201c\n\n\u201cWell thanks, unnamed trickster god, that\u2019s just swell. So, uh... what\u2019s the catch?\u201d\n\n\u201cTHE CATCH?\u201d\n\n\u201cYou\u2019re a trickster god aren\u2019t you? Don\u2019t trickster gods always come with some sort of catch to their bounties?\u201d\n\n\u201cOH YEAH, THANKS FOR REMINDING ME, I TOTALLY FORGOT ABOUT THAT.\u201d\n\n\u201cWell it\u2019s okay, you don\u2019t have to\u2014\u201c\n\n\u201cNOPE, JUST MESSING WITH YOU, OF COURSE THERE\u2019S A CATCH.\u201d\n\n\u201cAh well, I guess that is to be expected. So what is it then? I\u2019m really desperate, so I\u2019m willing to sacrifice pretty much whatever you need...\u201d\n\n\u201cYOU ARE IN LUCK, YOUNG MORTAL, FOR YOUR REQUIRED SACRIFICE IS A CONDITIONAL ONE, WHICH INVOLVES MONEY YOU ARE NOT YET AWARE OF OWNING. I NOW PRESENT TO YOU THESE TWO BOXES.\u201d\n\nUpon saying this, the chest of the statue of the unnamed trickster god split open, revealing two black boxes inside a hollow cavity. The two boxes levitated soundlessly into the air, and hovered in front of Maxwell, slowly rotating. The leftmost box began to smoke, and the blackness dripped away, revealing clear glass. Inside the leftmost box sat ten crisp one hundred dollar bills. The rightmost box remained impenetrably black. Maxwell tentatively reached for the leftmost box.\n\n\u201cWAIT.\u201d\n\nMaxwell jerked his hand back, and waited.\n\n\u201cWHAT YOU ARE FACING IS A VERSION OF A HYPOTHETICAL EXPERIMENT ONCE PROPOSED TO ME BY A FELLOW TRICKSTER GOD. I HAVE SET THIS EXPERIMENT UP BEFORE YOU ENTERED THE ROOM, AND AT THIS POINT NOT EVEN I CAN CHANGE WHAT LIES INSIDE THOSE BOXES. THE LEFTMOST ONE OF COURSE CONTAINS ONE THOUSAND DOLLARS, AS I AM SURE YOU HAVE SURMISED.\u201d\n\n\u201cYep.\u201d\n\n\u201cWELL THAT\u2019S GOOD.\u201d\n\n\u201cUm..so what\u2019s in the other box?\u201d\n\n\u201cHERE\u2019S WHERE THIS EXPERIMENT GETS INTERESTING. I HAVE BORROWED FROM THE VAULT OF HEAVEN A PARTICULARLY POWERFUL COMPUTER, WHICH CAN SIMULATE ALL OF YOUR REALITY; PAST, PRESENT, AND FUTURE. THIS COMPUTER HAS BEEN RIGHT IN ITS PREDICTIONS FOR YOUR FUTURE ONE HUNDRED PERCENT OF THE TIME. A FEW HOURS BACK, I USED IT TO LOOK AHEAD AND SEE IF YOU WOULD CHOSE ONE OR BOTH OF THE BOXES IN FRONT OF YOU. IF YOU WILL CHOOSE ONLY ONE BOX, THEN I HAVE PUT ONE MILLION DOLLARS IN THE BLACK BOX. IF YOU WILL CHOOSE BOTH BOXES, THEN I HAVE PUT A SINGLE SPIDER IN THE BLACK BOX, AND I KNOW YOU HATE SPIDERS. AS MENTIONED BEFORE, I HAVE ALREADY FINALIZED THE CONTENTS OF BOTH BOXES BEFORE WE BEGAN TALKING. SO WHAT WILL IT BE, YOUNG MORTAL? ONE BOX OR TWO?\u201d\n\n\u201cUm, wow. This is a tricky question... Can I think about this for a moment?\u201d\n\n\u201cOF COURSE, TAKE ALL THE TIME YOU NEED. I\u2019M A TRICKSTER GOD, NOT AN IMPATIENT ONE.\u201d\n\nMaxwell took a few moments to think, and as he pondered, his face grew grim.\n\n\u201cSo this super powerful computer you said you used...how did it work?\u201d\n\n\u201cTHE INTERNAL DETAILS ARE RATHER COMPLICATED, BUT BASICALLY IT SIMULATED A VIRTUAL VERSION OF YOU, ALIKE IN ABSOLUTELY EVERY WAY, AND CHECKED THE NUMBER OF BOXES THE PERFECT COPY OF YOU WILL TAKE, AT WHICH POINT THE PROGRAM TERMINATED AND OUTPUT THE RESULT IN BINARY CODE TO ITS DIVINE DASHBOARD, WHICH I THEN READ AND ACTED UPON.\u201d\n\n\u201cOkay, so that\u2019s kind of freaky. May I ask if perfectly simulated copies of me are separate conscious beings?\u201d\n\n\u201cI WILL LEAVE THAT UP TO YOU TO DETERMINE.\u201d\n\n\u201cOkay, now I\u2019m really kind of freaking out.\u201d\n\n\u201cYOU WEREN\u2019T BEFORE?\u201d\n\n\u201cWell, I\u2019m freaking out even more now, I guess. If it\u2019s true that there existed an exact simulation of myself in this exact scenario\u2014\u201c\n\n\u201cIT IS\u201d\n\n\u201c\u2014Then if that copy of me is a separate conscious being from the \u2018real\u2019 me, there is no way for me to determine if I\u2019m actually in the simulation right now, right?\u201d\n\n\u201cINDEED. THERE IS NO WAY TO TELL IF YOU ARE IN A SIMULATION OR NOT, IF YOUR OTHER ASSUMPTIONS ARE TRUE.\u201d\n\n\u201cYou also said that the simulation halts as soon as I choose the number of boxes I want.\u201d\n\n\u201cCORRECT.\u201d\n\n\u201cWhat this means is that there\u2019s a good chance that as soon as I make my choice, or more accurately as soon as I act on it, my existence as a conscious being will immediately terminate. Effectively, if I\u2019m living in the simulation rather than the real world, I\u2019ll die. And I don\u2019t know about you , but I don\u2019t want to die. I also want money, of course, but not enough to risk my life on this trap. So I\u2019m leaving.\u201d\n\n\u201cWHAT?\u201d\n\n\u201cI\u2019m not choosing either box, at least not right now. Maybe at the end of my life, when I\u2019m feeling ready to die, I\u2019ll come back here and choose both boxes for my children\u2019s sake, but for me, it isn\u2019t worth the risk of immediate termination of my existence. I hope you\u2019ll be patient enough to wait for me then.\u201d\n\n\u201cVERY WELL,\u201d said the unnamed trickster god, but Maxwell had already left the temple, gone on his way to find a non-trickster god to pray to.\n\n\n(This was written last night after having a fascinating conversation about Oracle AIs with my brother, which led me to wonder if Newcomb\u2019s Problem might have a hidden ethical dark side to it. I have not heard this particular issue mentioned anywhere before, but if others have touched on it in the past, I'll be happy to link any resources provided. As always, I\u2019d be delighted to hear any and all comments and criticism, so feel free to chat in the comments below :))"
+        }
+      }
+    }
+  }
+}

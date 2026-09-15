@@ -1,0 +1,35 @@
+{
+  "_id": "EXLvg6CccgD2iiAek",
+  "slug": "how-sci-fi-can-have-drama-without-dystopia-or-doomerism",
+  "title": "How sci-fi can have drama without dystopia or doomerism",
+  "postedAt": "2025-01-17T15:22:00.414Z",
+  "baseScore": 19,
+  "wordCount": 902,
+  "commentCount": 3,
+  "user": {
+    "displayName": "jasoncrawford",
+    "slug": "jasoncrawford"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sPpZRaxpNNJjw55eu",
+      "name": "Progress Studies",
+      "slug": "progress-studies"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sPpZRaxpNNJjw55eu": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "ZxR8P8hBFQ9kC8wMy",
+  "slug": "the-failures-of-eld-science",
+  "title": "The Failures of Eld Science",
+  "postedAt": "2008-05-12T10:32:06.000Z",
+  "baseScore": 116,
+  "wordCount": 2732,
+  "commentCount": 56,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ZpG9rheyAkgCoEQea",
+      "name": "Practice & Philosophy of Science",
+      "slug": "practice-and-philosophy-of-science"
+    },
+    {
+      "_id": "m4zvJHAiGBTjc5ZFt",
+      "name": "Babble and Prune",
+      "slug": "babble-and-prune"
+    }
+  ],
+  "tagRelevance": {
+    "ZpG9rheyAkgCoEQea": 2,
+    "etDohXtBrXd8WqCtR": 4,
+    "m4zvJHAiGBTjc5ZFt": 1
+  }
+}

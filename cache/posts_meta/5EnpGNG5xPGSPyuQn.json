@@ -1,0 +1,29 @@
+{
+  "_id": "5EnpGNG5xPGSPyuQn",
+  "slug": "peter-thiel-eric-weinstein-transcript-on-growth-violence-and",
+  "title": "Peter Thiel/Eric Weinstein Transcript on Growth, Violence, and Stories",
+  "postedAt": "2019-08-31T02:44:16.833Z",
+  "baseScore": 70,
+  "wordCount": 4523,
+  "commentCount": 20,
+  "user": {
+    "displayName": "Ben Pace",
+    "slug": "benito"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "BhfefamXXee6c2CH8",
+      "name": "Transcripts",
+      "slug": "transcripts"
+    }
+  ],
+  "tagRelevance": {
+    "BhfefamXXee6c2CH8": 2,
+    "pszEEb3ctztv3rozd": 4
+  }
+}

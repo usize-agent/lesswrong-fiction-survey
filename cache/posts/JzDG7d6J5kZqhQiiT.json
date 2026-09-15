@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "JzDG7d6J5kZqhQiiT",
+        "title": "Orpheus' Basilisk",
+        "slug": "orpheus-basilisk",
+        "pageUrl": "https://www.lesswrong.com/posts/JzDG7d6J5kZqhQiiT/orpheus-basilisk",
+        "postedAt": "2025-12-28T00:43:46.333Z",
+        "baseScore": 22,
+        "wordCount": 730,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "pulwat",
+          "slug": "pulwat"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "\\[This is an entry for lsusr's write-like-lsusr competition.\\]\n\nContent Warning: Everything you\u2019d expect from the title, but in smaller quantities than you might imagine.\n\n* * *\n\n\u201cYou realize she\u2019s not actually following?\u201d said the Fate to the poet.\n\nWithout breaking stride, Orpheus turned his eyes[^vc5x35qm3t]\u00a0to his interlocutor and sighed. \u201cPerhaps. But what would you have me do?\u201d\n\n\u201cThe only thing you can do, and the only thing that could save her. **Look back.**\u201d\n\n\u201cDidn\u2019t you just say she\u2019s not there?\u201d\n\n\u201cYes. But if you turn around, she will be.\u201d\n\nA pause. \u201cYou\u2019re going to have to unpack that.\u201d\n\n\u201cNo-one has *ever* brought anyone back from Hades. By base rates, you succeeding here is fantastically unlikely: either you\u2019re going to turn around, or you\u2019ll find she was never following you in the first place. With probability of one minus epsilon, all you can decide now is the form of your failure. But the form of your failure *does* matter.\u201d\n\n\u201cHow?\u201d\n\n\u201cLet me answer that question with another. Are the Gods superintelligent?\u201d\n\nOrpheus smiled wryly, and looked up[^fct0sn01izg]\u00a0at the ceiling. \u201cIf you\u2019re trying to get me struck by lightning, I\u2019ll remind you we\u2019re underground.\u201d\n\n\u201cSo you don\u2019t know.\u201d\n\n\u201cI know they often seem  childish, like humans might if granted their power. I also know mortals like me never seem to win against them, even in contests of pure wit. But whether it\u2019s because they\u2019re much cleverer than they choose to act, or because they wield the power to warp chance itself . . . how could I ever be sure they\u2019re not just smarter than me, and playing the fool?\u201d\n\n\u201cYou could know that by the way your story ends. If you\u2019ve already failed, it\u2019s because you were tricked by an intellect far surpassing your own. But if she\u2019s there, it\u2019s because Hades let you both walk free without a backup plan, safe in the knowledge that something would happen to make you **look back**. And you get to choose the way your story ends.\u201d\n\n\u201cWhy would I choose a story where I turn around like an idiot and ruin everything at the last moment?\u201d\n\n\u201cBecause that\u2019s a story about Gods which are merely powerful, not superintelligent. A story about antagonists who might someday be beaten, even if not by you. A story whose sequel\u2019s sequel\u2019s sequel could end with *everyone* getting to leave, you and her included.\n\nA story where you get to see her face, one last time.\u201d\n\nOrpheus stopped. He thought for a while, and then . . .\n\n. . . shook his head[^knib1xwxwfk]. \u201cNah.\"\n\n\u201cFirstly, giving up on something because it\u2019s never been done before is inherently self-defeating, especially when you consider that everything that\u2019s ever been done was once never done before. Imagine if all the hypothetical future people you want me to rely on to surpass the Gods thought the same way! Moreover, Greek civilization and culture has advanced a lot over the last few centuries; it\u2019s legitimately possible that I\u2019m the first person who can create good enough music to sing my way out of the underworld, while also being crazy enough to try.\n\nSecondly, the data admits to other explanations. Perhaps I\u2019m not the first to rescue my beloved, or the hundred-and-first; perhaps the Gods are regularly bested by mortals, and what seems like incredible intellect or impossible luck is them just being good at hiding up their failures. Or maybe there\u2019s something else I\u2019m not seeing.\n\nThirdly, attempting to use TDT-adjacent reasoning alone while under mental strain is inherently suspect, especially when it appears to lead to decisions like the one you\u2019re pushing.\n\nAnd finally, if we\u2019re doomed anyway, I\u2019d rather my last memory of her be the one where she heard Hades was letting us go. You know, instead of a look of utter horror and despair as she watches me trip inches from the finish line. Just speaking selfishly, I\u2019d rather not carry *that* for all eternity.\u201d\n\nThe other voice became pleading. \u201cYou\u2019re making a mistake. You\u2019re dooming the world, defecting against everyone, for a vanishing chance of a few short decades with one girl.\u201d\n\n\u201cI\u2019m in love,\u201d said the poet to the Fate.\n\nOrpheus finished his journey, and climbed out into the world. Then[^qzp4789w35], he sat down on the grass, leaned against a tree, and waited.\n\n[^vc5x35qm3t]: just his eyes, never his head, because if he turned his head his eyes might flicker back before he could stop them \n\n[^fct0sn01izg]: not too far, tilting his head enough that a patch of cavern behind him entered his field of view might count as \u2018looking back\u2019, not a hypothesis it would be wise to test \n\n[^knib1xwxwfk]: not more than ten degrees in each direction \n\n[^qzp4789w35]: still staring straight ahead, into the setting sun"
+        }
+      }
+    }
+  }
+}

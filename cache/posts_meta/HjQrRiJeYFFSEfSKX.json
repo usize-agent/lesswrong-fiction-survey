@@ -1,0 +1,41 @@
+{
+  "_id": "HjQrRiJeYFFSEfSKX",
+  "slug": "effective-evil",
+  "title": "Effective Evil",
+  "postedAt": "2021-11-02T00:26:29.910Z",
+  "baseScore": 119,
+  "wordCount": 763,
+  "commentCount": 7,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 3,
+    "nSHiKwWyMZFdZg5qt": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

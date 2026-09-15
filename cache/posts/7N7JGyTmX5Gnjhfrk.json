@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "7N7JGyTmX5Gnjhfrk",
+        "title": "Is the Star Trek Federation really incapable of building AI?",
+        "slug": "is-the-star-trek-federation-really-incapable-of-building-ai",
+        "pageUrl": "https://www.lesswrong.com/posts/7N7JGyTmX5Gnjhfrk/is-the-star-trek-federation-really-incapable-of-building-ai",
+        "postedAt": "2018-03-18T10:30:03.320Z",
+        "baseScore": 44,
+        "wordCount": 590,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "Kaj_Sotala",
+          "slug": "kaj_sotala"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "BisjoDrd3oNatDu7X",
+            "name": "Outer Alignment",
+            "slug": "outer-alignment"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "BisjoDrd3oNatDu7X": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "In the Star Trek universe, we are told that it\u2019s really hard to make genuine artificial intelligence, and that Data is so special because he\u2019s a rare example of someone having managed to create one.\n\nBut this doesn\u2019t seem to be the best hypothesis for explaining the evidence that we\u2019ve actually seen. Consider:\n\n*   In the TOS episode \u201c[The Ultimate Computer](http://memory-alpha.wikia.com/wiki/The_Ultimate_Computer_\\(episode\\))\u201c, the Federation has managed to build a computer intelligent enough to run the Enterprise by its own, but it goes crazy and Kirk has to talk it into self-destructing.\n*   In TNG, we find out that before Data, Doctor Noonian Soong had built Lore, an android with sophisticated emotional processing. However, Lore became essentially evil and had no problems killing people for his own benefit. Data worked better, but in order to get his behavior right, Soong had to initially build him with no emotions at all. (TNG: \u201c[Datalore](http://memory-alpha.wikia.com/wiki/Datalore_\\(episode\\))\u201c, \u201c[Brothers](http://memory-alpha.wikia.com/wiki/Brothers_\\(episode\\))\u201c)\n*   In the TNG episode \u201c[Evolution](http://memory-alpha.wikia.com/wiki/Evolution_\\(episode\\))\u201c, Wesley is doing a science project with nanotechnology, accidentally enabling the nanites to become a collective intelligence which almost takes over the ship before the crew manages to negotiate a peaceful solution with them.\n*   The holodeck seems entirely capable of running generally intelligent characters, though their behavior is usually restricted to specific roles. However, on occasion they have started straying outside their normal parameters, to the point of attempting to take over the ship. (TNG: \u201c[Elementary, Dear Data](http://memory-alpha.wikia.com/wiki/Elementary,_Dear_Data_\\(episode\\))\u201c) It is also suggested that the computer is capable of running an indefinitely long simulation which is good enough to make an intelligent being believe in it being the real universe. (TNG: \u201c[Ship in a Bottle](http://memory-alpha.wikia.com/wiki/Ship_in_a_Bottle_\\(episode\\))\u201c)\n*   The ship\u2019s computer in most of the series seems like it\u2019s potentially quite intelligent, but most of the intelligence isn\u2019t used for anything else than running holographic characters.\n*   In the TNG episode \u201c[Booby Trap](http://memory-alpha.wikia.com/wiki/Booby_Trap_\\(episode\\))\u201c, a potential way of saving the Enterprise from the Disaster Of The Week would involve turning over control of the ship to the computer: however, the characters are inexplicably super-reluctant to do this.\n*   In Voyager, the Emergency Medical Hologram clearly has general intelligence: however, it is only supposed to be used in emergency situations rather than running long-term, its memory starting to degrade after a sufficiently long time of continuous use. The recommended solution is to reset it, removing all of the accumulated memories since its first activation. (VOY: \u201c[The Swarm](http://memory-alpha.wikia.com/wiki/The_Swarm_\\(episode\\))\u201c)\n\nThere seems to be a pattern here: if an AI is built to carry out a relatively restricted role, then things work fine. However, once it is given broad autonomy and it gets to do open-ended learning, there\u2019s a very high chance that it gets out of control. The Federation witnessed this for the first time with the Ultimate Computer. Since then, they have been ensuring that all of their AI systems are restricted to narrow tasks or that they\u2019ll only run for a short time in an emergency, to avoid things getting out of hand. Of course, this doesn\u2019t change the fact that your AI having more intelligence is generally useful, so e.g. starship computers are equipped with powerful general intelligence capabilities, which sometimes do get out of hand.\n\nDr. Soong\u2019s achievement with Data was not in building a general intelligence, but in building a general intelligence which didn\u2019t go crazy. (And before Data, he failed at that task once, with Lore.)\n\nThe Federation\u2019s issue with AI is not that they haven\u2019t solved artificial general intelligence. The Federation\u2019s issue is that they haven\u2019t reliably solved the [AI alignment problem](https://intelligence.org/2016/12/28/ai-alignment-why-its-hard-and-where-to-start/)."
+        }
+      }
+    }
+  }
+}

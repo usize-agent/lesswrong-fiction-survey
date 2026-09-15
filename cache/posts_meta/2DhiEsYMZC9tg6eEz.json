@@ -1,0 +1,23 @@
+{
+  "_id": "2DhiEsYMZC9tg6eEz",
+  "slug": "san-silvestro",
+  "title": "San Silvestro",
+  "postedAt": "2026-06-19T14:54:20.531Z",
+  "baseScore": 59,
+  "wordCount": 4181,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

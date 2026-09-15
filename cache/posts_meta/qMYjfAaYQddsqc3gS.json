@@ -1,0 +1,35 @@
+{
+  "_id": "qMYjfAaYQddsqc3gS",
+  "slug": "fiction-of-interest",
+  "title": "Fiction of interest",
+  "postedAt": "2009-04-29T18:47:59.414Z",
+  "baseScore": 14,
+  "wordCount": 52,
+  "commentCount": 16,
+  "user": {
+    "displayName": "dclayh",
+    "slug": "dclayh"
+  },
+  "tags": [
+    {
+      "_id": "wzgcQCrwKfETcBpR9",
+      "name": "Disagreement",
+      "slug": "disagreement"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "tTp6uCjAMJh66vZkc",
+      "name": "Moral uncertainty",
+      "slug": "moral-uncertainty"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "tTp6uCjAMJh66vZkc": 1,
+    "wzgcQCrwKfETcBpR9": 1
+  }
+}

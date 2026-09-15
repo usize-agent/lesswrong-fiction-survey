@@ -1,0 +1,23 @@
+{
+  "_id": "eQ3TyKmjWd6vPeefi",
+  "slug": "passable-puppet",
+  "title": "Passable Puppet",
+  "postedAt": "2022-05-29T11:07:37.907Z",
+  "baseScore": 6,
+  "wordCount": 931,
+  "commentCount": 1,
+  "user": {
+    "displayName": "burmesetheater",
+    "slug": "burmesetheaterwide"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

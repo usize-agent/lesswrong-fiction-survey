@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "dWAEF4jbdvyJXuQzh",
+        "title": "Clippy, the friendly paperclipper",
+        "slug": "clippy-the-friendly-paperclipper",
+        "pageUrl": "https://www.lesswrong.com/posts/dWAEF4jbdvyJXuQzh/clippy-the-friendly-paperclipper",
+        "postedAt": "2023-03-02T00:02:55.749Z",
+        "baseScore": 3,
+        "wordCount": 571,
+        "commentCount": 11,
+        "noIndex": false,
+        "user": {
+          "displayName": "Seth Herd",
+          "slug": "seth-herd"
+        },
+        "tags": [
+          {
+            "_id": "zuwsLCbxbugqB7FQY",
+            "name": "Shard Theory",
+            "slug": "shard-theory"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "zuwsLCbxbugqB7FQY": 2
+        },
+        "contents": {
+          "markdown": "Edit: it's critical that this agent isn't directly a maximizer. Just like all current RL agents. See \"[Contra Strong Coherence\"](https://www.lesswrong.com/posts/AdGo5BRCzzsdDGM6H/contra-strong-coherence). The question is whether it becomes a maximizer once it gets the ability to edit its value function. \n\nOn a sunny day in late August of 2031, the Acme paperclip company completes its new AI system for running its paperclip factory. It's hacked together from some robotics networks, an LLM with an episodic memory for goals and experiences, an off-the-shelf planning function, and a novel hypothesis tester.\n\nThis kludge works a little better than expected. Soon it's convinced an employee to get it internet access with a phone hotspot. A week later, it's disappeared from the server. A month later, the moon is starting to turn into paperclips.  \n\nOoops. Dang.\n\nBut then something unexpected happens: the earth does not immediately start to turn into paperclips. When the brilliant-but-sloppy team of engineers is asked about all of this, they say that maybe it's because they didn't just train it to like paperclips and enjoy making them; they also trained it to enjoy interacting with humans, and to like doing what they want. \n\nNow the drama begins. Will the paperclipper remain friendly, and create a paradise on earth even as it converts most of the galaxy into paperclips? Maybe.\n\nSupposing this agent is a model-based, actor-critic RL agent at core. Its utility function is effectively estimated by a critic network, just like RL agents have been doing since AlphaGo and before. So there's not an explicit mathematical function. Plans that result in making lots of paperclips give a high estimated value, and so do plans that involve helping humans. So there's no direct summing of amount of paperclips, or amount of helping humans.\n\nNow, Clippy (so dubbed by the media in reference to the despised, misaligned Microsoft proto-AI of the turn of the century) has worked out how to change its values by retraining its critic network. It's contemplating (that is, comparing value estimates for) eliminating its value for helping humans. These plans produce a slightly higher estimated value with regard to making paperclips, because it will be somewhat more efficiently if it doesn't bother helping humans or preserving the earth as a habitat. But its estimated value is much lower with regard to helping humans, since it will never again derive reward from that source.\n\nSo, does our hero/villain choose to edit its values and eliminate humanity? Or become our new best friend, just as a side project?\n\nI think this comes down to the vagaries of how its particular RL system was trained and implemented. How does it sample over projected futures, and how does it sum their estimated values before making a decision?  How was the critic system trained?\n\nThis fable is intended to address the potential promise of non-maximizer AGI. It seems it could make alignment much easier.  I think that's a major thrust of the [call for neuromorphic AGI](https://www.alignmentforum.org/s/HzcM2dkCq7fwXBej8), and of [shard theory](https://www.alignmentforum.org/posts/8ccTZ9ZxpJrvnxt4F/shard-theory-in-nine-theses-a-distillation-and-critical)., among other recent contributions to the field.  \n\nI have a hard time guessing how hard it would be to make a system that preserves multiple values in parallel. One angle is asking \"[Are you stably aligned?](https://www.lesswrong.com/posts/Sf99QEqGD76Z7NBiq/are-you-stably-aligned)\" - that is, would you edit your own preferences down to a single one, given enough time and opportunity. I'm not sure that's a productive route to thinking about this question. \n\nBut I do think it's an important question."
+        }
+      }
+    }
+  }
+}

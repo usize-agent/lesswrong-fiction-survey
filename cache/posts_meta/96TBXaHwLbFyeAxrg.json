@@ -1,0 +1,53 @@
+{
+  "_id": "96TBXaHwLbFyeAxrg",
+  "slug": "guardians-of-ayn-rand",
+  "title": "Guardians of Ayn Rand",
+  "postedAt": "2007-12-18T06:24:05.000Z",
+  "baseScore": 133,
+  "wordCount": 1576,
+  "commentCount": 122,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb0cb",
+      "name": "Affective Death Spiral",
+      "slug": "affective-death-spiral"
+    },
+    {
+      "_id": "Kj9q8FXoauL7mQDWt",
+      "name": "Affect Heuristic",
+      "slug": "affect-heuristic"
+    },
+    {
+      "_id": "ALwRRZqvhaop8gxkT",
+      "name": "Groupthink",
+      "slug": "groupthink"
+    },
+    {
+      "_id": "bY5MaF2EATwDkomvu",
+      "name": "History",
+      "slug": "history"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "NSMKfa8emSbGNXRKD",
+      "name": "Religion",
+      "slug": "religion"
+    }
+  ],
+  "tagRelevance": {
+    "ALwRRZqvhaop8gxkT": 1,
+    "Kj9q8FXoauL7mQDWt": 1,
+    "NSMKfa8emSbGNXRKD": 1,
+    "bY5MaF2EATwDkomvu": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "5f5c37ee1b5cdee568cfb0cb": 3
+  }
+}

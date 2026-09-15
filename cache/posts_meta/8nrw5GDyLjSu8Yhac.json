@@ -1,0 +1,47 @@
+{
+  "_id": "8nrw5GDyLjSu8Yhac",
+  "slug": "sigmi-certification-criteria",
+  "title": "SIGMI Certification Criteria",
+  "postedAt": "2025-01-20T02:41:17.210Z",
+  "baseScore": 6,
+  "wordCount": 350,
+  "commentCount": 0,
+  "user": {
+    "displayName": "a littoral wizard",
+    "slug": "a-littoral-wizard"
+  },
+  "tags": [
+    {
+      "_id": "F5gRQdEQHzi3tQ5Ay",
+      "name": "AI Control",
+      "slug": "ai-control"
+    },
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "F5gRQdEQHzi3tQ5Ay": 1,
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

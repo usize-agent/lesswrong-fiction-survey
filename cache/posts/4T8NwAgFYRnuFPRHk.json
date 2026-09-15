@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "4T8NwAgFYRnuFPRHk",
+        "title": "The Cambist and Lord Iron: A Fairy Tale of Economics",
+        "slug": "the-cambist-and-lord-iron-a-fairy-tale-of-economics",
+        "pageUrl": "https://www.lesswrong.com/posts/4T8NwAgFYRnuFPRHk/the-cambist-and-lord-iron-a-fairy-tale-of-economics",
+        "postedAt": "2010-12-19T02:05:22.137Z",
+        "baseScore": 68,
+        "wordCount": 63,
+        "commentCount": 40,
+        "noIndex": false,
+        "user": {
+          "displayName": "Alicorn",
+          "slug": "alicorn"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "PDJ6KqJBRzvKPfuS3",
+            "name": "Economics",
+            "slug": "economics"
+          }
+        ],
+        "tagRelevance": {
+          "PDJ6KqJBRzvKPfuS3": 3,
+          "etDohXtBrXd8WqCtR": 11
+        },
+        "contents": {
+          "markdown": "Available in PDF [here](http://www.freesfonline.de/content/Abraham1.pdf), the short story in question may appeal to LW readers for its approach of viewing more things than are customary in handy economic terms, and is a fine piece of fiction to boot. The moneychanger protagonist gets out of several sticky situations by [making desperate efforts](/lw/uo/make_an_extraordinary_effort/), deploying the concepts of markets, revealed preferences, and wealth generation as he goes."
+        }
+      }
+    }
+  }
+}

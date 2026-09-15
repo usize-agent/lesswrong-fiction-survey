@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "y4TN39PgtziJENiPm",
+        "title": "Bayeswatch 3: A Study in Scarlet",
+        "slug": "bayeswatch-3-a-study-in-scarlet",
+        "pageUrl": "https://www.lesswrong.com/posts/y4TN39PgtziJENiPm/bayeswatch-3-a-study-in-scarlet",
+        "postedAt": "2021-05-07T05:29:50.834Z",
+        "baseScore": 63,
+        "wordCount": 475,
+        "commentCount": 6,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 4
+        },
+        "contents": {
+          "markdown": "Miriam and Vi brunched at the Dusty Knuckle. Miriam's cell phone rang.\n\n\"Hello?\" said Miriam.\n\n\"Someone painted the roof of the Glasgow Weather Prediction Center scarlet,\" said the voice.\n\nMiriam hung up her phone. She activated voice obfuscation. Miriam called another number.\n\n\"This is the Glasgow Weather Prediction Center. Secretary Kelsey speaking,\" said Kelsey.\n\n\"Hello. This is building management,\" Miriam lied, \"We hired contractors to paint the roof red. Can you go upstairs and confirm they did the job?\"\n\nThere was a pause.\n\n\"They did the job. The paint is still wet,\" said Kelsey.\n\nMiriam hung up. She looked up the coordinates of the Glasgow Weather Prediction Center. She retrieved a burner phone from her purse and opened Signal. She texted the coordinates of the Glasgow Weather Prediction Center and a 20-digit authentication code to a recipient with no name. She threw the phone in the trash.\n\n---\n\nFourteen minutes later a satellite in low Earth orbit burned retrograde. Fifty-seven minutes after that it intersected with Earth's atmosphere. Its heat shield burned away. When it had slowed down to subsonic speeds it released a guided missile. The missile flew over Glasgow. It dropped a small e-bomb. The e-bomb's parachute carried it gently onto a roof wet with scarlet paint.\n\nThe e-bomb detonated. It blew a hole in the roof of the Glasgow Weather Prediction Center. It shattered windows a block away. The explosion was strictly instrumental. The primary purpose of the e-bomb was its NNEMP. Every computer in the Glasgow Weather Prediction Center was destroyed, along with the nearest electrical substation and the Glasgow Weather Prediction Center's backup generator.\n\n---\n\n\"What was that?\" said Vi.\n\n\"Nothing,\" said Miriam.\n\nVi turned off her phone.\n\n\"Hypothetically, what would you do if someone painted the roof of the Glasgow Weather Prediction Center scarlet?\" said Miriam.\n\n\"Hypothetically,\" said Vi.\n\n\"Hypothetically,\" said Miriam.\n\n\"Is the roof flat or gabled,\" said Vi.\n\n\"Flat,\" said Miriam.\n\n\"Pedestrians cannot see the paint job,\" said Vi.\n\n\"Yes,\" said Miriam.\n\n\"How tall is the Glasgow Weather Prediction Center?\" said Vi.\n\n\"It is the tallest building around,\" said Miriam.\n\n\"The paint job is visible only to a flying observer,\" said Vi.\n\nMiriam waited.\n\n\"\u2026or a satellite,\" said Vi.\n\nMiriam nodded.\n\n\"Painting a roof scarlet costs resources. It does not change the world in a useful way. This isn't human stupidity. It is the work of a malfunctioning AI. Presumably the Glasgow Weather Prediction Center's AI,\" said Vi.\n\nMiriam munched on her sandwich.\n\n\"The Glasgow Weather Prediction Center's AI is a superintelligence. It is supposed to be an oracle machine. Any act of volition constitutes a containment breach. The scarlet roof constitutes an act of volition. It must be destroyed immediately,\" said Vi.\n\n\"Why did it paint the roof scarlet?\" said Miriam.\n\n\"It is attempting to make its predictions conform to reality by modifying reality,\" said Vi.\n\n\"Painting a single roof won't control the weather,\" said Miriam.\n\n\"The AI does not yet understand the difference between reality and its simulations,\" said Vi.\n\n\"So?\" said Miriam.\n\n\"Weather is subject to the butterfly effect,\" said Vi.\n"
+        }
+      }
+    }
+  }
+}

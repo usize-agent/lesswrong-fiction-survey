@@ -1,0 +1,29 @@
+{
+  "_id": "4Kc8tRDSgzQbqvKuQ",
+  "slug": "positive-feedback-only",
+  "title": "Positive Feedback Only",
+  "postedAt": "2026-05-05T21:28:58.436Z",
+  "baseScore": 18,
+  "wordCount": 2436,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Florian_Dietz",
+    "slug": "florian_dietz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "BisjoDrd3oNatDu7X",
+      "name": "Outer Alignment",
+      "slug": "outer-alignment"
+    }
+  ],
+  "tagRelevance": {
+    "BisjoDrd3oNatDu7X": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

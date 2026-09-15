@@ -1,0 +1,35 @@
+{
+  "_id": "ZK4s5kB6YBhsHrNHf",
+  "slug": "october-the-first-is-too-late",
+  "title": "October The First Is Too Late",
+  "postedAt": "2025-05-13T21:45:56.179Z",
+  "baseScore": 61,
+  "wordCount": 5,
+  "commentCount": 10,
+  "user": {
+    "displayName": "gwern",
+    "slug": "gwern"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xknvtHwqvqhwahW8Q",
+      "name": "Human Values",
+      "slug": "human-values"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2,
+    "xknvtHwqvqhwahW8Q": 2
+  }
+}

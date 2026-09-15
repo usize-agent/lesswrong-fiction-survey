@@ -1,0 +1,41 @@
+{
+  "_id": "pfQXC4z6PbL4nxt9z",
+  "slug": "the-sailor-s-wife",
+  "title": "The sailor's wife",
+  "postedAt": "2021-02-27T00:23:24.353Z",
+  "baseScore": 4,
+  "wordCount": 745,
+  "commentCount": 2,
+  "user": {
+    "displayName": "krbouchard",
+    "slug": "krbouchard"
+  },
+  "tags": [
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "tTp6uCjAMJh66vZkc",
+      "name": "Moral uncertainty",
+      "slug": "moral-uncertainty"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "tTp6uCjAMJh66vZkc": 1
+  }
+}

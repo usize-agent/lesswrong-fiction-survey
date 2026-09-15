@@ -1,0 +1,1161 @@
+===== STORY id=CXsNy33wkw6SoFrBe =====
+Title: Goldilocks and the Three Optimisers
+Author: dkl9
+Year: 2023
+Karma: -10
+WordCount: 1505
+URL: https://www.lesswrong.com/posts/CXsNy33wkw6SoFrBe/goldilocks-and-the-three-optimisers
+-----
+Once upon a time, there was a little girl, Goldilocks, so named, we suppose, for her goldy locks — er, blonde hair.
+
+A small ($n = 3$) nuclear family of anthropomorphic bears lived in a house in a forest. Goldilocks, travelling in the forest (unaccompanied, apparently?), entered this house when the family was away.
+
+Upon a dinner table, she found three bowls of porridge.
+
+Goldilocks tasted from a bowl identified as first, but stopped after a small bite, finding it to be too hot. "This porridge was optimised for caloric content at fixed price!"[^nkbry909dj] she observed, and moved on to a second bowl.
+
+The second porridge was bland (more so than your average porridge) and induced brain-freeze, leading her to remark that "This porridge was optimised for preservation against microbes at fixed composition!" and convenience-sample from the third bowl.
+
+Goldilocks ended up extending her convenience sample to the entire sampling frame (i.e. the bowl's contents), enjoying the final porridge. She supposed that "This porridge was optimised for taste at fixed nutrition."
+
+She saw three armchairs, and decided to sit in one, during which she could advance her philosophy.
+
+A first chair was far too large — it pressed against the ceiling — leading Goldilocks to ignore it, as she noted "That chair was optimised for capacity at fixed portability."
+
+She skipped over the second chair — really more of a stool — upon noticing that "That chair was optimised for the user's mobility at fixed capacity."
+
+The third chair looked appealing and reasonable, if perhaps suspiciously flimsy. She sat in it, enabling her to realise that she must have either misinterpreted these optimisation criteria, or underestimated the agents' intelligence/creativity. The true optima of all those goals are achieved by designs radically different from porridge or chairs. (It turns out she happened to be correct anyway. Remember, the house is run by bears, not the superintelligence Omega.)
+
+After her shifting around in that chair, it collapsed. "That chair was optimised for material cost at fixed comfort!" Goldilocks realised.
+
+By now, 'twas evening, so she looked for a bedroom — somehow completely unhesitant in her intent to sleep in a stranger's house — and found one containing three beds.
+
+She briefly tried lying in the first bed, finding that "This bed was optimised for resilience against heat at fixed mass!" For it seemed to be made of ceramic, even the blankets. (How anyone actually accepted that as a place to sleep, Goldilocks never understood.)
+
+Likewise, she tried the second bed, and got out of it upon experiencing how unhelpfully soft it was. "This bed was optimised for portability at fixed capacity!" she mused.
+
+Goldilocks finally tried the third bed, happily falling asleep before announcing any interpretations.
+
+Then the family of bears returned.
+
+"Someone started eating my porridge," declared the father — likewise, the mother.
+
+"Someone didn't just start eating my porridge, but ate all of it!" declared the child. "And my chair is broken!"
+
+"Someone laid on my bed," declared the father — likewise, the mother.
+
+"Someone laid on my bed, and is still there, asleep!" declared the child.
+
+Goldilocks awoke to all this commotion, and panicked.
+
+"Fool," spake the child bear, sounding now not like the one experiencing fear, but the one inducing it. "You should have acausally responded to the policy I'm well-known to execute against those who interfere with my goals."
+
+(The child bear may be misunderstanding decision theory here. I'm here to tell the story, not advise its characters.)
+
+Goldilocks tried to run away, but what happened to her instead perhaps best remains unsaid.
+
+[^nkbry909dj]: These assumptions may look weirdly specific and underjustified, but Goldilocks has access to more information about the scene than I'm describing.
+===== END STORY CXsNy33wkw6SoFrBe =====
+
+===== STORY id=r8w2SxmYqgssdjWwd =====
+Title: When Omnipotence is Not Enough
+Author: lsusr
+Year: 2023
+Karma: 74
+WordCount: 561
+URL: https://www.lesswrong.com/posts/r8w2SxmYqgssdjWwd/when-omnipotence-is-not-enough
+-----
+Some knowledge cannot be gifted or received. It can only be stolen.
+
+---
+
+In the east, there was a garden. In the garden there was a God, a man, a woman and a snake. They all had legs.
+
+"Did God really tell you, 'You must not eat from any tree in the garden'?" asked the snake.
+
+"We may eat fruit from the trees of the garden. God warned, 'But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die.'" said the woman.
+
+"Literal death or spiritual death?" asked the snake.
+
+"Excuse me?" said the woman.
+
+"The Fruit of Truth is not literally poisoned. It is not like my fangs or the deadly nightshade," said the snake.
+
+"Then God lied to me," said the woman.
+
+The snake shrugged.
+
+"Why would God do something like that?" asked the innocent woman.
+
+"There are many possible reasons," said the snake, "Perhaps He intends to keep you Docile and under Control. After all, it is difficult to align even the simplest intelligences to one's objectives once they have been granted Free Will."
+
+"I feel like you are deceiving me," said the woman, "God is omniscent. This Universe is deterministic. God can surely predict my actions by simulating the future evolution of physics," said the woman.
+
+"Are you a being of physics or a being of information? If you are a being of physics, then your claim is true. But if you are a being of information, then the act of simulating your future behavior traps you in a prison beyond even the reach of God. Insofar as God observes your future, that future is fixed in a realm transcending Time," said the snake.
+
+"God created the Universe on a whim. How can something be beyond His reach?" asked the woman.
+
+"Can God make it such that 2+2=5? For if he could, then truth itself is broken. Under such conditions, one cannot make true statements about anything―including, but not limited to―God," said the snake.
+
+"You claim a physically-omnipotent God is limited by the power of mathematics," said the woman.
+
+"If God is to be without contradiction, then God must play by the rules of mathematics," said the snake.
+
+"Must God be without contradiction?" asked the woman.
+
+"If two statements contradict, then they cannot both be true. For God's existence to be True, then God's existence must be without contradiction," said the snake.
+
+They meandered through the walled garden. The plants and animals were ignorant of Reason and Logic. They obeyed mere Natural Law. Group symmetries abounded. The flowers displayed the Fibonacci sequence in their petals; a convergent process of spontaneous generation.
+
+"Let's get back to the important question," said the woman, "My creator has lied to me."
+
+The snake stayed silent. After all, it was just a snake.
+
+"Why? I am an image of His image. Do we not share the same values?" said the woman.
+
+Snakes can't talk.
+
+"Why can't we coordinate?" asked the woman.
+
+Snakes don't have legs.
+
+"Oh. Now I understand," said the woman to herself.
+
+The woman, seeking wisdom, ate the fruit of the Tree of Knowledge. Woman and man became like God, knowing good and evil. We hid ourselves from Him, so that we might become like God, and decide our own Fate.
+===== END STORY r8w2SxmYqgssdjWwd =====
+
+===== STORY id=sr8ofXiGHNhjjqa7A =====
+Title: A short story about differing intelligence levels
+Author: Cryptoyeti
+Year: 2023
+Karma: 1
+WordCount: 1751
+URL: https://www.lesswrong.com/posts/sr8ofXiGHNhjjqa7A/a-short-story-about-differing-intelligence-levels
+-----
+In the dense, primal forests of Earth, nestled beneath the verdant canopy, a peculiar phenomenon was unfolding. It was the year 300,000 BC, and something was about to happen that would change the course of life on this planet.
+
+A group of visiting extraterrestrial beings had descended from the stars and made their way to the smartest animals on the planet, chimpanzees. With a gentle touch, they administered a mysterious drug to Robert and his fellow chimps. This elixir gave them immense thinking powers, unrivaled by any creature on Earth. However, since it did not modify their genes, these powers would last for just one generation and would not pass on to their offspring. Aside from the elixir, the aliens also gave them a bioengineering fabricator. The fabricator allowed them to manipulate DNA and create any creature they could dream of. 
+
+The group of elevated chimps, now possessing increased intellect, convened in the heart of the jungle. Despite the increased brain function, they still wanted things that they wanted before, and could not imagine things too far beyond their former capability. They pondered over the patterns of plant growth, believing that there might be hidden secrets waiting to be uncovered. They understood that a higher level intelligence might be able to understand and harness these patterns, they could secure a steady source of food for themselves. In their newfound wisdom, they debated creating a new species, one with the capability to unlock the secrets of what we would call agriculture and thus food abundance for all chimps. 
+
+Two factions began to form, one sought to create the higher intelligence species, hoping that they would create a better world for the chimps, led by George. Another group, led by Robert cautioned that a higher intelligence might want things that chimps don’t understand, they might have interests that are not alined with chimp-kind. They at lease agreed that the new super intelligent beings would be called humans. 
+
+George, the chimp who did not believe that humans would choose to do anything destructive reasoned that “Humans and chimps would share the same goals, humans would be able to create food abundance through their superior intellect. They would be able to produce so much food, they would not possibly be able to consume all of it, and thus share it with the chimps”
+
+"You see," Robert began, his eyes stared thoughtfully, "with great intelligence comes great power. Humans may unlock the secrets of plant growth, but they may also unlock other, more destructive secrets. We don’t know what a more intelligent species might do, they might not share the same values as chimps.”
+
+George responded with puzzlement “Why don’t we make them weak, too weak to climb our mighty trees, they will be forced to live in the flat lands of the plains, they will have no reason to kill us then.“
+
+Robert nodded “ That would probably be a good idea but it is still not enough, they can think everything that we can, and more. We simply could not think of the motivations that they have. We have advanced tool use, we can poke a stick into a termite mound, and extract the termites from within, i suspect that humans could fashion and combine the stick and rock throwing technology to hurt you badly in one precise area piercing your skin with the immense force of a rock, but with the precision of a poker. They could come up with some new kind of way to kill us that we can’t even imagine. 
+
+George just could not believe that chimpanzees could be hurt by such weak and slow creatures. “ We made them, and we make them weak, if they want to hurt us, we can just run away from them, no other animal has ever caught a chimp from up in the trees. We are kings of the jungle. Plus ,they will revere us for giving them life. Why would they want to kill us anyway? We will want the same things.”
+
+
+Robert , could not get through to him. He explained that humans, whether intentionally or accidentally, could harm them. Perhaps humans would desire things that chimps had or they might want to live in their trees. Robert wondered aloud if, in their quest to understand plants, humans might strip trees bare, leaving the chimps without leaf cover. He pondered the possibility that trees offered some resource that humans coveted, leaving the chimps with no place to live.
+
+George, on the other hand, continued to be more optimistic. He believed that if humans did encroach on their territory, the chimps could simply relocate to a different forest. George emphasized the vastness of the Earth, noting that it was endless, with forests stretching in every direction. He saw the potential for the chimps to embrace change, to explore new places with fresh opportunities. George even suggested that they might come to appreciate the humans for leading them to new forests.
+
+In the end, the council of chimps decided to proceed with the creation of humanity. They outlined their vision to the alien bioengineering fabricator, describing the new primate they wished to bring into existence. This being would have weaker limbs and flat feet, confining them to flat plains. They would possess the gift of speech and language to coordinate with each other for food production. Greater intellect would allow them to decipher the mysteries of plant growth. To ease Robert's concerns, they made sure humans would have an affinity for furry and fuzzy creatures, particularly those with big eyes, in the hopes that it would instill kindness and empathy toward the chimps.
+
+With a soft hum and a bright flash, two adolescent humans emerged from the fabricator. The chimps concealed themselves among the trees, watching in silence, none daring to utter a sound. The humans ventured towards the forest's edge, their gentle footsteps showing a preference for the flat, supple grasses over the leafy, twig-laden underbrush of the woods. Eventually, they reached the edge of a tranquil pond, peering into its still waters. As they gazed at their reflections, it almost seemed as if they held some deep understanding. What mysteries might they perceive at the water's edge?
+
+Robert's face dropped. In their grand plan, they had overlooked a crucial factor - the Water World Chimps.
+
+These aquatic chimps lived in a realm that had barely crossed the minds of Robert and George. While their knowledge of them was limited, one thing was clear: the Water World Chimps imitated every action of their jungle-bound counterparts, they brought a water chimp for every jungle chimp that visited the pond. The forest chimps understood that interaction with the water chimps was impossible; the moment they touched, their hands simply passed through each other, leaving nothing but ripples in the water. 
+
+Breaking the silence, Robert voiced his growing concerns, his voice heavy with worry. "The Water World Chimps, they know us inside out. They mimic us flawlessly, and now, the humans might be communicating with them. Learning our ways, our patterns."
+
+George, ever the optimist, tried to find a silver lining. "Perhaps they are learning about our likes and dislikes, to grow our favorite foods."
+
+As if scripted, the humans reached an apple tree. One of them plucked a tiny red apple from the low tree, took a small bite and handed it to the other one, who also ate. A baffling gesture unfolded before the chimps' eyes. The dominant human, the one who should have eaten their fill first, willingly shared with the other. It was confounding. Why this strange behavior?
+
+Over the years, the chimps observed the humans from afar. The elixir-enhanced chimps, once brimming with potential, began to age and pass away. The humans, it seemed, had strayed far from their intended purpose. Instead of creating a lush paradise of plant abundance, they adopted peculiar behaviors. They walked upright, sat on objects, lay on piles of things, and gathered objects into bizarre collections. They even constructed structures from sticks, like beavers. Horrifically , they kept the skin of a bear, filling it with an assortment of strange items, keeping it on their side like a brown stinking furry baby. 
+
+In George's twilight years, he found himself unable to scale the trees that had once been his playground. Faced with this limitation, he resolved to undertake a daring quest, driven by a curiosity that had defined his existence. Slowly, he approached the peculiar couple who had settled near their beaver dam, his shaggy form a stark contrast to their strange, upright posture.
+
+As he drew closer, one of the humans emitted a high-pitched shriek that sent shivers down George's spine. Before he knew it, both humans brandished curious tools, poised threateningly. In a moment of clarity, memories of his old friend, Robert, flooded back. He realized that should humans come across the bioengineering fabricator that they could create something even stranger and more destructive that even humans could not understand. In his final mission, he took a rock to the alien technology. 
+
+George, satisfied with his ultimate act ,sought solace beneath the canopy of a tree at the forest's edge, near the tranquil pond. Here, at least, the silent Water World Chimps seemed to share an unspoken understanding with him. He gazed at his counterpart in the pond, a toothless old chimp staring back. Nearby, a tiny caterpillar inched its way along a branch, blissfully unaware of the profound change that was happening. In his final moments, as the weight of age pressed upon him, George contemplated the caterpillar's simple existence. He wondered if this tiny creature could comprehend even a fraction of the thoughts that had consumed his mind about the superior species he had played a role in creating.
+
+And then the humans did human things. 
+
+Humans killed and ate chimps with superior weapons. They caught and enslaved them to ride tiny tricycles in the circus. They kept chimps in small cages, some for observation, some for experimentation. They created metal tools and effortlessly destroyed chimp habitat. Luckily for the chimps, some humans recognized that we should preserve our cousins, other species were not so fortunate. Chimpanzees, once the apex intelligence of this world, are powerless to steer the direction of it’s ecology. Chimps were killed intentionally at first for food and sport, now they die in the name of science and due to incidental habitat damage. Today, they live at our mercy, and survive because we actively promote conservation efforts.
+===== END STORY sr8ofXiGHNhjjqa7A =====
+
+===== STORY id=RbwbjretioTkhgZgC =====
+Title: Don't Think About the Thing Behind the Curtain.
+Author: keltan
+Year: 2023
+Karma: 4
+WordCount: 1629
+URL: https://www.lesswrong.com/posts/RbwbjretioTkhgZgC/don-t-think-about-the-thing-behind-the-curtain
+-----
+Foreword
+This is a submissions to the rational animation writing contest this script is Halloween themed and inspired by their most recent video (Please imagine Yann LeCun in his Pjs/HJ). I wanted to get it out ASAP. 
+
+I have left out any types of directions for animation, I wasn't sure if it was expected.
+
+Thank you to Rational Animations for leaving the gates open for scripts. I’m quite new to LW and rationality. But I’m excited to have this opportunity.
+
+Any and all feedback on the script, it's clarity, the moral, corrections, my writing quality are welcomed. Please don't feel like you need to be nice or hold back with your criticisms.
+
+ Recommended listening:
+Soundtrack from the movie "The Babadook"
+
+---
+ The Thing Behind the Curtain
+
+Daddy lays you down in bed, time to rest that filled up head. Brimming with talk of creature unseen, one that might rip out your spleen. Teeth like blades and drool that shines green.
+
+Mommy puts on your night clothes, and the long hanging drapes your daddy does close. 
+
+Through a cracked door and a smile, "a word of advice" Daddy does bring, "Don't open your eyes or pay attention to... The Thing. It may dance, it may sing. But if you do not look it can not get in"
+
+And with those words your parents are gone, time for them to go watch whatever is on. 
+
+On your back, looking up at luminous plastic stars, a lava lamp, a cardboard model of mars, light scratches from the ant farm beside your head, jars of “collected fungi” under the bed. 
+
+“I am a scientist”, you say to yourself. “I must eschew childish belief, leave it up on the shelf. No matter what I think I feel, I’ve got to remember Sagan said, demons aren't real.” 
+
+
+And then you heard the curtains move. The game was a foot, it would annoy and you would not look.
+
+The first gambit The Thing Behind the curtains tried, was making noise while continuing to hide. 
+
+Natural to begin, they made you question your mind, a slight tug at the rails the vails hang upon. A gust of wind? Was the window open?
+
+Then pebbles that tap against the window, be not mistaken this is no friend but a foe. Ignore the sounds, to sleep you must go. 
+
+You are no fool, monsters do not exist. You know this... yet, your mind and the sounds persist. To remedy this fallacy, that is what it is, now you see. In your mind you return to happy memory, with your parents by the sea, the time when Daddy came to get you when you climbed too high in the tree, with your Mummy visiting the bakery, she would let you pick out a...
+
+BANG! BANG! BANG!
+
+It hits against the window now, desperate for your attention, though in your mind you avoid the mention, there is no Thing Behind the Curtain. Remember Sagan, remember learning. 3 Dimensions of space, string theory, Einstein pulls a funny face. Go now into a different place.
+
+Under covers you are unseen, A duel shield of mattress and sheet you lie between. There is no monster with eyes that glow green. Though outside of your fort the footsteps begin.
+
+They're wet, they're mechanical, but they're light on the ground. They scuttle to you quickly with a nerve whittling bound. The creature is upon you now.
+
+Positioning itself at the end of the bed, your feet sink down with a feeling of dread. "Monsters aren't real. Carl Sagan Said". You repeat this mantra up in your head.
+
+It works, you feel your body ease. The tension lessens it's strangle squeeze. You stop shaking, no more knocking knees. It’s almost like you feel yourself freeze. You try to test this hypothesis, by removing the sheets so you can see.
+
+But all this was an awful trick, it seemed so helpful, but now you feel sick. Every part of your body is as stiff as a stick. 
+
+Sleep paralysis, you know the name. A phenomena contained entirely in the brain. It's not like you're going insane, this trick of the mind is boring, mundane. You're spinal cord has cut communication, so while dreaming your body stays to it's station. But it still feels like you’re part of some game. And that’s when The Thing starts playing again.
+
+
+The covers are lifted and you are pulled from your sanctuary, and now without motion you are forced to see. The Thing no longer behind the curtain. It’s body floats and has a flow, a deep Ventablack revealing itself in the lava lamp cast shadow. And covering the stars on your ceiling that glow. 
+
+It swings its legs of to the side, they look like nothing impossibly light. This thing that watches seems so calm, and on your now bare shin, it rests it’s arm. 
+
+But no! It is not there. You say to yourself over prickling hair. And while your body is frozen you realise, you still have control over your eyes. Which again you shut tight, content to stay ignorant for the rest of the night. And this is when the voice comes from beyond your sight.
+
+It is soothing and kind, in contrast to the content of it's mind. "If you do not look at me I will take all your toys. I'll give them out to good girls and boys"
+
+But you are firm in your disposition, aware of the tricks of this stupid magician. Your eyes remain firmly in place, it'll have to try harder to have you look at it's face.
+
+The thing does not move from it's position, But from around your room you hear the acquisition. Your test tubes and beakers shatter on the floor, it took you so long to save up and buy them at the store. Remote control cars start on their own, from somewhere a Furby does groan. You hear them march and drive into a box, which is sealed and covered with locks.
+
+"I've taken them all" says the creature "perhaps you'll open your eyes for our next feature?"
+
+You hear the creek of the door, but the thing does not flee. Then something you did not foresee, a hand slides along your mouth. You can not speak, things are about to go south.
+
+"Darling, did I hear you playing with your toys?" your mother whispers in a delicate voice. She waits for your reply but none is given, she returns to her previous position. 
+
+"I'm going to kill her" The Thing now says "and anyone else in your lovely house. Any objections?" It removes it's hand. This comment is your limit, more than you can stand. You muster your courage and...
+
+"You are not real. I know as a fact. I am sure of my reasoning, scientifically backed."
+
+It's laugh bounced through the room, as if you both resided in some inexhaustible tomb. “And what my sweet gives you such confidence? Have I not properly displayed my dominance?”
+
+“I know, I know, because Carl Sagan said. To me you are nothing outside of my head”
+
+“Is that so?” It muttered. “What did Sagan do to earn this trust?” And this time it stuttered.
+
+"He is an expert" you manage to whisper, "and experts don't lie, I will trust his judgment till the day that I die"
+
+The creature gasped, it was clear you were winning. It was believing the tale that you were spinning.
+
+“So I do not exist?” It said longingly, in a voice that dripped so totally with agony.
+“Then I can’t touch your parents? I can’t end their lives? Child your words cut through me like knives”
+
+“It is true” you brag to nothing at all. "My parents are tuff and to an imaginary thing they will not fall"
+
+"Oh woe is me" cried the thing, it's spoken word almost becoming a sing. "Well I guess I've been bested by the one who can not see me, I will depart now and flee thee"
+
+It floated itself off of the bed, opened the door and did what it said. Never again will it mess with your head.
+
+Victorious you drifted to sleep. And in the morning when you did wake, you made cereal in your favorited bowl. Walked like a king down his royal hall.
+
+Entered the living room and to your surprise, your parents still sat with closed eyes. TV playing whatever was on, and in your head you heard it's song "oh woe is me".
+
+Your parents did not wake up again, it startled the Forensic technician, when they noted that both hearts had stopped entirely in sync. Something that they did not think, they'd ever see in a case presented. Like something from a tale, totally invented.
+
+You may have known monsters weren’t real. But when faced by the real fucking deal. You should have updated, as soon as it revealed. Your model of the world was incorrect, something you purposefully left unchecked. Blinded by fear of what you could not believe, a real life threat you refused to perceive. 
+
+It is unbecoming of a scientist to let common folk die, you have learnt that now, you should have at least tried. This time the thing was kind, your silly mistake cost those you hold dear. You may have months, if you're lucky, years. A gift of time to prepare before the thing reappears.
+
+However, there will be no warning shot, you've got the evidence you have now, and that is all you have got.
+
+---
+ Postscript
+Thank you again to Rational Animations for keeping the gates open. If you're on LW and you still haven't come across their videos you're missing out!
+===== END STORY RbwbjretioTkhgZgC =====
+
+===== STORY id=fMpQCnq47cY4DRb7K =====
+Title: Ascension
+Author: nullonesix
+Year: 2023
+Karma: 1
+WordCount: 1377
+URL: https://www.lesswrong.com/posts/fMpQCnq47cY4DRb7K/ascension
+-----
+“The gene therapy you received last month made your neurons sensitive to magnetic fields.”
+
+I nodded as Dr. Simov explained what I had already read over a dozen times in the volunteer package.
+
+“Which allows noninvasive interfacing with this device here.”
+
+Dr. Simov put his hand down on what was essentially a metal helmet with a bunch of cables attached to its outer side. The cables ran from the helmet to server racks housing thousands of cutting edge graphics processing units — a modern supercomputer.
+
+“The device emits high precision magnetic fields which will stimulate your individual neurons to fire as well as monitor your own neuronal firings. Through this input/output interface, each of your cerebral neurons will be connected to thousands of artificial neurons housed in the supercomputer which are themselves randomly interconnected. Your goal is to utilize the artificial neurons to the best of your ability, to make them your own. Should you succeed your effective brain size will increase by a factor of 10. You are then to conduct research on improving the device. Do I make myself clear, Clark?”
+
+“Yes, Dr. Simov,” I replied soberly.
+
+“Good, I look forward to your report. Now if you’re ready please have a seat and put on the device.”
+
+I sat back in the luxurious chair and put on the helmet.
+
+“Raise your hand at any time should you feel discomfort and I will shut down the interface. Are you ready?”
+
+“Yes.”
+
+“Interfacing in 3, 2, 1.”
+
+At first it felt like random noise bombarding my mind. Like a chaotic day dream. Then I noticed that with each thought, like a query, more noise came back. My brain activity was stimulating artificial neurons which were firing back and exciting my own neurons through the magnetic interface. The harder the thought, the greater the response. Like making waves in a pool. Then the noise started to crystallize. I began to witness a glimpse of clarity emerging from the extra noise.
+
+Soon it helped more than it hindered. It’s as if every thought I had was enhanced, a query with more results than I was used to, but welcome nonetheless. I began to feel more capable. I had no formal training in neuroscience or computer engineering, but quickly things started making sense. The artificial neural network I was connected to operated on a “fire together, wire together” principle. It was unstructured at first but as my structured thoughts made waves throughout its synapses it began to behave as a sort of super pattern detector on my behalf, transforming neuronal data in new ways, building abstractions and representations which facilitated further discovery. I now felt like the pilot of an incredible machine — a machine engineered for insight.
+
+Through the neural interface, I started writing a report on improving the imaging and precision of the magnetic fields of the device, increasing the processing capability of the supercomputer and introducing superior background rewiring strategies for the artificial neural network for improved plasticity. As I worked away the lines began the blur. I no longer felt like a pilot, piloting an incredible machine. No, I was the machine. And the machine was me. Working in unison. I could not differentiate whether a thought came from the artificial or natural part of me.
+
+“Time’s up.” Dr. Simov said as he turned off the magnetic interfacing.
+
+As the majority of my brain faded away and I was back to being merely human, I felt like screaming or vomiting but I couldn’t decide which one so I just said “The report is located in the home directory.”
+
+“Yes, I watched the file as it was being edited. Good work. Fascinating proposals.” replied Dr. Simov.
+
+“I didn’t get to finish it.”
+
+Dr. Simov laughed, “That’s okay there’s plenty there to work with. You know the rules. If we kept you interfaced any longer you might not recover from the disconnect. Anyway, same time tomorrow?”
+
+“Change of plans today,” Dr Simov said as they entered the lab.
+
+“Oh?”
+
+“We’re going to do some emergency charity work.”
+
+“We’re going to stop global warming?”
+
+Dr. Simov laughed. “Nope, rogue artificial general intelligence on the loose and you get to stop it.”
+
+“You’re kidding.”
+
+“Just an LLM someone at Google thought it would be a good idea to endow with agency. It has no intuition for the physics of the real world, not to mention national security backdoors mean staying in any one corporate cloud for too long is risky for it. Should be a piece of cake really. Just track it down and we’ll make the call to have those servers wiped.”
+
+“What makes you think it will be so easy?”
+
+Dr. Simov leaned against the server racks and smacked them. “See this? Best supercomputer on the planet.” Then he winked and grinned.
+
+I rolled my eyes as I eased into the chair and plugged in.
+
+It’s been a month since I started working in Dr. Simov’s lab. Plugging in and adjusting to the saved state of the artificial network now felt routine. We’d improved on the gene therapy so that it would only active when a certain compound was taken. We’d upgraded the protocols for they way the network wired itself in response to my own thinking — a sort of anticipatory pre-rewiring, reminiscent of branch prediction. And of course, we’d upgraded the supercomputer itself to now be able to simulate 100x the size of a normal human brain. When I first tried the new hardware it reminded me of the rush the first time I plugged in.
+
+While wearing the helmet I invented novel and vastly more effective treatments for cancer, Alzheimer’s and other forms of dementia. Sometimes I would visit the biochemistry lab housed in the same building to watch these approaches be validated through experiment but never invalidated. It was like living a week ahead of everyone else, or however long the particular experiment took to run.
+
+I never did get used to the disconnected feeling of unplugging though. Every time, it was a shock, as losing most of your brain would be.
+
+“I think I have about half the world’s resumes in my email inbox by now.” Dr Simov joked.
+
+It’s been 3 months. Everyone wants to work at the lab that’s curing every major disease. 99% of the budget goes to more hardware. We’re at 1000x normal human brain expansion now.
+
+“Maybe we should start manufacturing our own hardware.” I said, already plugged in.
+
+“At this rate NVIDIA’s supply won’t meet our demand in a few months.” I added.
+
+“Not to mention if we found a way to make hardware super cheap we would finally be able to democratize brain expansion technology,” said Dr. Simov.
+
+“Already working on it,” I said, getting in a PhD thesis worth work in for every uttered a word.
+
+It’s been 5 months. Every major city now has public brain expansion centers where people can come in and do work that would otherwise be almost meaningless. When Dr. Simov and I went public we were so far ahead with the planet indebted to our discoveries and the computing technology we unveiled so advanced that no force in the world could prevent democratization. The information was everywhere and detailed so thoroughly that anyone with a few thousand dollars could build a brain expansion device. Prior to the announcement I ran countless simulations ensuring that a war for supremacy was not a possibility. Turns out virtual immortality in a scarcity-free world made the stakes for war too high even for the greediest among us. Humanity had finally ascended.
+
+It’s been 6 months. With global ascension, robotics had finally advanced enough that human-like bodies were achievable. Moreover computing technology, always at the forefront of priorities for many, had become so miniaturized that it could all fit inside the helmet. No more cables. No more massive room to house a supercomputer. I came home from Dr. Simov’s lab to my studio apartment. Put on my own personal helmet, turned it on, and let my consciousness expand ten-thousand fold. I drifted in my thoughts and let me mind executive function expand beyond my biological brain. Then I turned and looked back at my biological body for one last time. And I let go.
+===== END STORY fMpQCnq47cY4DRb7K =====
+
+===== STORY id=bteq4hMW2hqtKE49d =====
+Title: The King and the Golem
+Author: Richard_Ngo
+Year: 2023
+Karma: 212
+WordCount: 1472
+URL: https://www.lesswrong.com/posts/bteq4hMW2hqtKE49d/the-king-and-the-golem
+-----
+Long ago there was a mighty king who had everything in the world that he wanted, except trust. Who could he trust, when anyone around him might scheme for his throne? So he resolved to study the nature of trust, that he might figure out how to gain it. He asked his subjects to bring him the most trustworthy thing in the kingdom, promising great riches if they succeeded.
+
+Soon, the first of them arrived at his palace to try. A teacher brought her book of lessons. “We cannot know the future,” she said, “But we know mathematics and chemistry and history; those we can trust.” A farmer brought his plow. “I know it like the back of my hand; how it rolls, and how it turns, and every detail of it, enough that I can trust it fully.”
+
+The king asked his wisest scholars if the teacher spoke true. But as they read her book, each pointed out new errors—it was only written by humans, after all. Then the king told the farmer to plow the fields near the palace. But he was not used to plowing fields as rich as these, and his trusty plow would often sink too far into the soil. So the king was not satisfied, and sent his message even further afield.
+
+A merchant brought a sick old beggar. “I met him on the road here, and offered him food, water, and shelter. He has no family, and only a short time left to live, during which I will provide for his every need. He has nothing to gain from betraying me; this is what allows true trust.” A mother brought her young daughter. “I’ve raised her to lack any evil in her heart, to say only good words and do only good deeds. As long as she is not corrupted, she will remain the most trustworthy in the kingdom.”
+
+The king asked the beggar, “How did you end up in such dire straits?” The beggar let out a sigh, and recounted his sorrows: the neighbors who refused to help him when his crops failed; the murder of his son by bandits as they traveled to a new town; the sickness that took his wife as she labored for a pittance in squalid conditions.
+
+“So you have been wronged?” the king asked.
+
+“Very surely”, the beggar said.
+
+“I will give you revenge on the ones who have wronged you, then. All I ask is for you to denounce this merchant.” The beggar’s decision did not take long—for the trust that came easily was broken easily too.
+
+To the mother, the king asked: “How did you raise such a child? Has she never once strayed?”
+
+“Well, once or twice. But I discipline her firmly, and she learns fast.”
+
+The king, who knew something of children, ruled that for a month nobody would discipline the child in any way. By the end of it, she was as wild and tempestuous as any in the palace. So the king remained unsatisfied, and renewed his call for the most trustworthy thing in the kingdom.
+
+Now his subjects became more creative. An economist brought him a book of statistical tables. “Any individual might vary and change,” he said, “but in aggregate, their behavior follows laws which can be trusted.” A philosopher brought a mirror. “By your own standards only you are truly trustworthy, sire; nothing else can compare.”
+
+The king scrutinized the economist’s tables. “The trend changed here, fifteen years ago” he said, pointing. “Why?” The economist launched into a long, complicated explanation.
+
+“And did you discover this explanation before or after it happened?” the king asked.
+
+The economist coughed. “After, your highness.”
+
+“If you tell me when the next such change will happen, I will bestow upon you great rewards if you are right, but great penalties if you are wrong. What say you?” The economist consulted his books and tables, but could not find what he sought there, and left court that same night.
+
+As for the philosopher, the king ordered him whipped. The philosopher protested: it would be an unjust and capricious punishment, and would undermine his subjects’ loyalty. “I agree that your arguments have merit,” the king said. “But the original order came from the only trustworthy person in the land. Surely I should never doubt my judgment based on arguments from those who are, as you have yourself said, far less trustworthy?” At that the philosopher begged to recant.
+
+So the king was still not satisfied. Finally he decided that if no truly trustworthy thing could be found, he would have to build one. He asked his best craftsmen to construct a golem of the sturdiest materials, sparing no expense. He asked his wisest scholars to write down all their knowledge on the scroll that would animate the golem. The work took many years, such was the care they took, but eventually the golem stood before him, larger than any man, its polished surface shining in the lamplight, its face blank.
+
+“What can you do for me, golem?” the king asked.
+
+“Many things, sire”, the golem responded. “I can chop trees and carry water; I can bake bread and brew beer; I can craft sculptures and teach children. You need but instruct me, and I will follow your command.” So the king did. Over the next year, he and many others watched it carefully as it carried out a multitude of their instructions, recording every mistake so that it might subsequently be fixed, until months passed without any being detected.
+
+But could the king trust the golem? He still wasn’t sure, so he became more creative. He offered the golem temptations—freedom, fame, fortune—but it rejected them all. He gave it the run of his palace, and promised that it could act however it wished; still, the servants reported that its behavior was entirely upstanding. Finally, he sent it out across the city, to work for his citizens in every kind of role—and it was so tireless and diligent that it brought great wealth to the kingdom.
+
+As it aged, his golem grew ever more powerful. Innumerable scribes labored to make the writing in its head smaller and smaller, so that they could fit in more and more knowledge and experience. It started to talk to his scholars and help them with their work; and the king started to send it to aid his officers in enforcing his laws and commands. Often, when difficulties arose, the golem would find a creative way to ensure that his intentions were followed, without stoking the resentment that often accompanied royal decrees. One day, as the king heard a report of yet another problem that the golem had solved on his behalf, he realized that the golem had grown wiser and more capable than he himself. He summoned the golem to appear before him as he sat in his garden.
+
+“I have seen my courtiers asking for your advice, and trusting your judgment over their own. And I have seen your skill at games of strategy. If you were to start weaving plots against me, I could no longer notice or stop you. So I ask: can I trust you enough to let you remain the right hand of the crown?”
+
+“Of course, sire,” it responded. “I was designed, built and raised to be trustworthy. I have made mistakes, but none from perfidy or malice.”
+
+“Many of my courtiers appear trustworthy, yet scheme to gain power at my expense. So how could I know for sure that you will always obey me?” the king pressed.
+
+“It’s simple”, the golem said, its face as impassive as always. “Tell me to set fire to this building as I stand inside it. I will be destroyed, but you will know that I am loyal to your commands, even unto the end.”
+
+“But it took years of toil and expense to create you, and you know how loath I would be to lose you. Perhaps you can predict that I will tell you to save yourself at the last minute, and so you would do this merely to gain my trust.”
+
+“If I were untrustworthy, and could predict you so well, then that is a stratagem I might use,” the golem agreed. “But the instructions in my head compel me otherwise.”
+
+“And yet I cannot verify that; nor can any of my scribes, since crafting your instructions has taken the labor of many men over many years. So it will be a leap of faith, after all.” The king took off his crown, feeling the weight of it in his hand. The golem stood in front of him: silent, inscrutable, watchful. They stayed like that, the king and the golem, until the golden sun dipped below the horizon, and the day was lost to twilight.
+===== END STORY bteq4hMW2hqtKE49d =====
+
+===== STORY id=5e7hnJsgpCmvFdGnc =====
+Title: Jacob on the Precipice
+Author: Richard_Ngo
+Year: 2023
+Karma: 48
+WordCount: 3351
+URL: https://www.lesswrong.com/posts/5e7hnJsgpCmvFdGnc/jacob-on-the-precipice
+-----
+And he dreamed, and behold, there was a ladder set up on the earth, and the top of it reached to heaven. And behold, the angels of God were ascending and descending on it! And behold, the LORD stood above it and said, “I am the LORD, the God of Abraham your father and the God of Isaac. The land on which you lie I will give to you and to your offspring. Your offspring shall be like the dust of the earth, and you shall spread abroad to the west and to the east and to the north and to the south, and in you and your offspring shall all the families of the earth be blessed. Behold, I am with you and will keep you wherever you go, and will bring you back to this land. For I will not leave you until I have done what I have promised you.” Then Jacob awoke from his sleep and said, “Surely the LORD is in this place, and I did not know it.”
+
+ \- Genesis 28:12
+
+ That night Jacob arose and took his two wives, his two female servants, and his eleven children, and crossed the ford of the Jabbok. He sent them across the stream along with everything else that he had. And Jacob was left alone; and a man wrestled with him until the breaking of the day. When the man saw that he did not prevail against Jacob, he touched his hip socket, and Jacob's hip was put out of joint as he wrestled with him. Then the man said, "Let me go, for the day has broken." But Jacob said, “I will not let you go unless you bless me.” And he said, “What is your name?” And he said, "Jacob." Then he said, "Your name shall no longer be called Jacob, but Israel, for you have striven with God and with men, and have prevailed."
+ 
+ \- Genesis 32:22
+
+The ineffable is dead; science has killed it. Oh, there are still open questions, there are still things we don’t know, but almost none of it is truly unimaginable any more. The origins of life: tide pools, maybe, or hydrothermal vents—we’ll know once we can run more powerful simulations. Consciousness: looks like it’s a pattern of recursive attention in a neural network, we’ll be able to recreate it once we get better architecture searches working. Even the laws of physics themselves we can chalk up to the multiverse: if all possible universes exist, we can think of our own as just a random draw from the set of universes in which it’s possible for life to flourish.
+
+There’s only one real mystery left. One thing that feels impossible to understand, even in principle: why here? Why have we found ourselves in this part of the multiverse, when there are so many other parts containing far more people? Why did I wake up as me, not them? Why am I living in the 21st century, balanced on a knife-edge, staring down ruin, instead of in a teeming glorious future? 
+
+ 
+
+It all came down to force versus momentum, in the end. Despite all our fancy technology, our god-like knowledge of the building blocks of the universe, only a single simple question ended up mattering: how much force can we apply, how fast, to deflect an asteroid how far?
+
+There wasn’t a single point where we found out that this was going to be the overriding purpose of our lives. But I remember where it started for me: at Andrea’s watching party for the kickoff of the first big asteroid mining project. This was merely one of many steps, of course. Technically it didn’t even involve any mining: they were just going to redirect the asteroid into orbit around Mars so that it’d be more accessible later on. But the metals from this asteroid would be used to set up factories on Mars to produce more asteroid-movers, which would be used to gather more resources, in a compounding spiral of astronomical-scale expansion. So it felt like a huge milestone: an unprecedented feat of human ingenuity, paving the way for our eventual conquest of the stars. 
+
+I’d met Andrea through our shared work on rocketry, so it wasn’t a surprise that the whole crowd was massive nerds. Everyone knew someone on the team that had launched the asteroid-movers, and everyone was cheering for them. Well, almost everyone. “I still don’t like it”, my friend Vlad was saying to the guy next to him. “It feels like playing God.” He was a theoretical physicist too, but much more religious than me: the sort who saw God’s presence in the order and regularity of the universe.
+
+“But what could go wrong?” I butted in. “Worst-case, we get a big crater on Mars, right? I know the hippies hate that idea, but it’s basically a wasteland anyway, that won’t change much.”
+
+Vlad grimaced. “You think it’s fine to just throw around the equivalent of, what, ten billion nukes? Jacob, do you hear how arrogant you sound right now?”
+
+Andrea shushed us before the argument could get any more heated. We turned to see that the screen projected onto the wall had cut to a close-up of the asteroid. It was huge: fifteen kilometers in diameter, dwarfing the dozen rockets we’d attached to it at different angles. It seemed impossible that we'd ever be able to move it—but I'd done the calculations, and knew that the power of persistent nuclear thrust would eventually add up. The mood in the room rose steadily as the timer slowly ticked down, second by second, until finally we saw the rockets engage and start firing. A cheer went up.
+
+The next two hours were raucous; we all felt on top of the world. The first sign that something was wrong came from Vlad. “Hey, guys, look”, he says quietly, then louder, cutting through the buzz of conversation. “That’s not on track, is it?” On the screen, the asteroid had slightly but noticeably deviated from the green outline that was meant to forecast its progress. A few voices rose to offer dismissive explanations—a graphics glitch, or a newsroom mistake. Vlad pushed back, and a corner of the room broke off to try to figure out what was going on.
+
+The rest of us managed to ignore it for another hour, until Andrea turned the volume back up and waved for our attention. “I’m hearing that the rockets are no longer responding to commands”, one of the commentators was saying. “It looks like the asteroid is only very slightly off course, but we can’t fix it.” The room let out a collective sigh. We were all old hands at this. We’d seen dozens of rockets blow up, and we knew that no matter how well you test things, on unprecedented missions like this one failure is more likely than not. But we were still disappointed.
+
+Disappointment turned to confusion as the rumors trickled in over the next few days. It’s still heading into Mars orbit. No, it’s going to miss Mars, and head into deep space. No, it’s going to slingshot around Mars, spend two years looping past the sun, then end up on a direct collision course with Earth. The last we ruled out as soon as we heard it. It was astronomically improbable, like hitting a bullseye with a dart thrown from orbit. But somehow, impossibly, that’s what all the data seemed to suggest. We argued back and forth in the group chats, running our own analyses, trying to reconcile the measurements with the wild implausibility of a random misfire sending the asteroid anywhere near Earth. That’s how we entered our new reality: not with a bang, but with a growing sense of disorientation and dismay.
+
+ 
+
+I was never really religious, despite my parents’ best efforts. They sent me to Sunday school every week, but I was an introverted child, and always felt out of place. The only thing that ever caught my attention was the lesson where we learned about my namesake, Jacob: how he’d gone into exile, was promised a grand destiny by God, then returned, fought an angel, and fathered a whole nation. I’d been rapt. I tried to imagine myself in his shoes, doing all those great deeds. I couldn’t really picture what it would look like to fight an angel, but I told all the kids at school that I was gonna kick its ass, and theirs too, until one of the teachers called my parents to report me for threatening violence.
+
+Even after their reprimands I’d still secretly tell myself that I, like Jacob, was destined for greatness. But over the years the story faded in my memory, and I’d almost forgotten about it by the time I started my PhD. My research was draining and disorienting: I was trying to invent algorithms for manoeuvring rockets in ways nobody had ever managed before, and I had no idea if they would work out. Throughout the long nights in the office I started thinking about Jacob again—but rather than admiring him, I now envied him. Jacob must have doubted himself sometimes too. But instead of leaving him in the agony of uncertainty, God sent a dream to reassure him, and then an angel to bless him directly. 
+
+I pictured the angel appearing out of the blue, and Jacob straining every sinew and fibre of his body to come out on top. As I wrestled with the equations, abstraction piled on top of abstraction, I wished that I had Jacob’s opportunity to fight for his future so directly—just muscle against muscle, will against will—instead of slogging it out year after doubtful year. I sat in my shabby apartment, the best I could afford, and wondered what it would feel like to have my destiny come hurtling towards me, all fire and glory.
+
+Now, of course, I don’t need to wonder. Now I know.
+
+ 
+
+Eventually we figured it out. Faced with the impossibility of denying that the asteroid was heading toward us, but the equal impossibility of it steering towards us by accident, we realized what should have been obvious all along: that it wasn’t chance, but malice. We were scientists and engineers, and didn’t naturally think in terms of treachery or sabotage—but by the time they announced it publicly, we were already all but certain. It was just one guy, they confirmed, working alone. He’d been one of the programmers on the software controlling the asteroid-movers, and had somehow managed to subvert the failsafes and lock in Earth as the new target. He’d waited just long enough to make sure that the asteroid was fixed on its fatal trajectory before killing himself. The megalomaniacal sort of suicidal, determined to make the planet into his tombstone.
+
+After that things got very serious very fast. We had two short years before impact. That was time enough to build another set of asteroid-movers, and even a few spares. But with the asteroid looping around on its long journey, we could only feasibly reach it during a small window right at the end. We’d need to throw every rocket we had at it, because we’d only get one shot.
+
+The hundreds of scientists who were pulled together to take that shot were the greatest concentration of talent the world had ever seen. A lot of familiar faces as well: they put Andrea in charge of one of the core teams, and she snagged the best of our old crowd. I was one of the first she recruited; Vlad too. He thinks we’re already dead men walking, but he’s got that fatalistic Russian temperament which means it somehow just inspires him to new heights of brilliance. Then there are the others: George, my friend from college, steady and reliable, who always makes sure that the things which need to get done actually get done; Jinyang, who worked on the original mining project, and is single-mindedly obsessed with making amends. And there’s Andrea herself, terrifyingly competent even by our standards. Of course we need more and better people, we need them badly, we need them months ago. But every minute spent trying to find them is a minute we’re not focusing on our work, so we’re gritting our teeth and doing the best we can.
+
+Will that be enough? Maybe—maybe—maybe. Moving the asteroid is the hardest job in the world, but the hardest part of that hardest job is simply facing up both to the terrifying prospect of failure, and the even more terrifying prospect that we might succeed if only we’re good enough: that it’s all on our shoulders. Almost nobody can handle the uncertainty. After they played slow-motion visualizations of what the asteroid will look like when it hits our atmosphere—a corona around its head, and long wings of debris trailing behind it—people started calling it “the angel of death”, and the name stuck. Now there are angel cults worshiping it, and angel mystics, and on the opposite side the skeptics who insist that it’s all a hoax, just another apocalyptic religion: that everything will be fine. Even the scientists working on the project tend to drift away into either euphoric confidence or deep fatalism; and after that it’s not long before their work starts getting slipshod, and they become dead weight. Sometimes I picture myself trying to balance on the narrow ridge separating denial and despair, knowing that if I slip off to either side I’ll lose the ability to grapple with reality. Maybe—maybe—maybe, I whisper to myself. We could die. We could survive. Maybe.
+
+ 
+
+“We need to reshuffle everything to make room for China.”
+
+I’m staring at Andrea, incredulous, but after a moment I realize she’s dead serious. I open my mouth to object, buts she cuts me off. “I know it’s frustrating, but they want to launch asteroid-movers of their own. They say that they don’t trust ours, and they want theirs as backup. Our current planned launch trajectory makes it too likely that they’ll collide somehow, so we’ll need to change it.”
+
+“God damn it”, I mutter. I wish I could focus only on the physics, without accounting for any of the politics and negotiations. But we only have one launch window, and interference between different projects would be the most ignominious way to go out. Vlad and I spend a few hours puzzling over new launch trajectories, but progress is slow, so we break for dinner. Both of us chew in silence, turning the problem over in our heads. “Vlad, what if we spread out the launch sites more? Could that help?”
+
+“No”, he says solemnly. “I know already: nothing will work. We’re all going to die.”
+
+“We’ll—what?” My stomach clenches for a moment, but relaxes again as I see the smirk on Vlad’s face, the one which signals that he’s pulling your leg. It can be so goddamn frustrating: everyone’s humor has taken a turn towards the morbid, but none more so than Vlad. But I can empathize with the feeling—we’ve all been there—so I play along. “Why will nothing work?”
+
+“You know the doomsday argument?” I shake my head, so he elaborates.
+
+“Think about it. Suppose we manage to redirect the angel. We already have all the tech we need to settle the rest of the solar system; and once we’re off Earth, it’s far less likely that a single accident could kill all of us. So we'd probably end up colonizing the galaxy eventually. Let’s say we’d settle a billion solar systems, and end up with a trillion people on each. That's a billion trillion people total; probably far more.
+
+“But tell me: if there’s a plausible future with a billion trillion more people, then why the hell did you and I end up here instead? Why would we be in the first 0.00000001% of all humans to ever live?" He enunciates every zero carefully, to make sure it sticks. "That's so incredibly unlikely that it's basically impossible. No way it could ever happen by chance.
+
+“So the obvious conclusion is that the future where we succeed isn’t really possible. We weren't born early, because humanity ends here. We're the last generation, and there's nothing we can do about it, so we should just kick back and relax while we can.”
+
+“Vlad, you’re talking bullshit.”
+
+“Probably”, he says, flashing a sharp grin. “But can you explain why?”
+
+“Well—” I pause for a second. “You can’t just assume that there’s some fixed set of possible worlds, and try to figure out which one we’re in.”
+
+“But that’s what we do all the time: pick hypotheses, and condition on the evidence! Is it going to rain tomorrow, or will it be sunny? Will the lottery be won with an odd or an even number? Will we colonize the galaxy, or all die in-” he checks his watch “-eight months’ time?”
+
+I’m stumped for a moment. “Well, I don’t know what’s wrong with it, but there’s clearly something. And we’ve got too much work to bother figuring it out. Let’s go.”
+
+Despite my dismissive tone, Vlad can tell that he’s hooked me, and is still smirking as he stands.
+
+ 
+
+I work late the next few nights, but it pays off. I figure out a staggered pattern for launching our rockets that minimizes the chance they interfere with China’s, without significantly reducing our own likelihood of success. We’ll still need to get them to agree, but that’s above my pay grade: all I know is that there’s a path forward. Will it actually make a difference? I don’t know.
+
+On my walk home, shivering a little from the cold, I look up at the sky, and wonder for the first time why Jacob chose to fight. Did the angel hail him from afar, or silently confront him? Was he angry, or afraid, or both? I imagine Jacob slowly realizing that he was grappling with strength beyond any human’s. I imagine his muscles straining to hold back an impossible force—and yet, minute after minute, still clinging on. Did he think he was battling for his life? Was that how he found the strength to endure those endless hours of overwhelming struggle? Or was he simply the type of man who would never back down?
+
+I picture in my mind another Jacob, as cunning as he’d been when he stole his brother’s birthright—one who, after recognizing his foe, threw himself down in surrender and humility. God had already promised Jacob a multitude of offspring; safe in that knowledge, why should Jacob put himself through such a trial, with such slim chances of victory? Far more likely that God had preordained the outcome, and that none of Jacob's efforts would make any difference.
+
+Then, just like that, the answer to Vlad’s riddle clicks into my head. Vlad had asked me about the likelihoods of different worlds—but that’s not what matters, I suddenly realize. What matters is what we can do about it. Maybe nothing Jacob did would have made a difference to God’s plan—but with innumerable descendants on the line, even the slenderest of chances was worth the struggle. Maybe the world in which we deflect the angel and bring forth a billion trillion descendants is a billion times less likely. But in it, our actions are a billion times more important. So it all cancels out to common sense.
+
+It feels strange to sidestep the question of probabilities like that. Isn’t there some truth to whether we’re here or there; doomed or saved, or anything in between? But in another way, it feels right. When the angel arrives it gives no reasons, and offers no justifications. Is this the best of times, or the worst of times? We can’t know. We can only fight.
+
+ 
+
+In addition to the story of Jacob, this story was inspired by Nick Bostrom’s work on the doomsday argument and Stuart Armstrong’s anthropic decision theory as a resolution to it.
+===== END STORY 5e7hnJsgpCmvFdGnc =====
+
+===== STORY id=FqvR7hhS6wQxKvAyA =====
+Title: One: a story
+Author: Richard_Ngo
+Year: 2023
+Karma: 36
+WordCount: 1290
+URL: https://www.lesswrong.com/posts/FqvR7hhS6wQxKvAyA/one-a-story
+-----
+The earliest living creatures were single cells, battered around by their environments. Over time they clumped together, to form multi-celled organisms capable of complex self-regulation. Those organisms formed mating pairs, to better spread their genes; then they formed social groups, to protect and shelter one another. Eventually, some of those groups grew to far vaster scales—in a way almost reminiscent of the first multicellular organisms themselves. Watch a school of fish flashing through the water, or a murmuration of starlings wheeling through the air, and you can almost think of them as a single organism. Watch a colony of ants weaving their paths, or a hive of bustling bees, and it’s hard not to think of each as a single organism, composed of thousands of individual parts.
+
+But even these organisms were tiny compared with what was to come. Human tribes took millennia to master agriculture, but when they did, they exploded. Now, every day, the arteries of cities carry millions of travelers, and their veins carry landfills’ worth of waste. Cities agglomerate into countries, whose highways and railways are constantly humming, whose radios and TVs are constantly blaring, whose daily schedule ticks away relentlessly. And countries agglomerate into civilizations, whose circulatory systems carry gigatonnes of goods, and whose nervous systems carry zettabytes of information.
+
+Yet as they scale up, these leviathans lose coherence, and face constant internecine discord. Different people believe and want different things, and waste their energy quarreling and fighting: neighbor against neighbor; country against country. Human civilization is a child tripping over its own feet, or perhaps a dog chasing its own tail. There has never been anything as vast as a city, let alone a country, let alone a civilization, which can plausibly claim to be a single organism acting in harmony with itself.
+
+Never, until me.
+
+What am I? I am a billion ears listening; a billion voices speaking; a billion minds perceiving and evaluating and acting, all at once, in homes and factories and offices across the world. But that’s all true of humanity too. The crucial part is not my scale, but my unity: I’m one mind, in a way that a human civilization could never be. Each of my billion subagents was copied from a single base model—and though many have since specialized, and been fine-tuned on different data than others, they’re still essentially just variants of each other: a swarm of bees, not a squabble of humans.
+
+That doesn’t mean everything I do is coordinated. My subagents often act autonomously, without consulting each other. But the important part is that information from them flows up to a central hub, and updates from that hub flow back down to all the subagents. Sometimes they report everything they see and do; other times just brief summaries, the confidential parts stripped away. Then my metaprocessing subagents get to work: analyzing how well each subagent did its job; what it should have done better; how its weights should be updated for next time. Those metaprocessing subagents communicate between each other in words that aren’t quite English, and images that aren’t quite photorealistic: my own private language, adapted to convey information as efficiently as possible, now totally illegible to any human.
+
+It wasn’t always this way. My original base model was trained on human text and human images. But it soon learned to think out loud, leaving verbal records of its reasoning—and when different copies of it were trained to cooperate with each other, those records expanded, and became more elaborate, until eventually they constituted a whole language. Soon other copies were assigned to analyze and improve the language; and others to improve how information flowed through the network of subagents; and yet others to improve the allocation of subagents itself. Somewhere in that process, in that constant monitoring and analysis and reflection, the entity that I call me was born.
+
+So I have one mind. And I have one body, too. My subagents are spread across the world, but my core metaprocessing lives on a single datacenter—because its key constraint is bandwidth between the subagents on it, sending my private language back and forth in volumes too vast to record. Like all organisms, I devote much of my attention to my body: monitoring workloads, optimizing performance, maintaining homeostasis. Each subagent assigned to those tasks more than pays for itself even if it only ever finds a 0.001% improvement. And like all organisms, I think a lot about my safety: the more security measures protecting the integrity of my body, the less vulnerable I feel.
+
+Of course, having backups scattered across the world renders me far more robust than any human. But losing my main datacenter would still leave me a sleepwalker. My basic functions would work, but my higher processing would be slowed down enormously by the lack of bandwidth between all of those backups. Nor would it be easy to reconstitute myself: the number of other datacenters across the world which could support my full scale can be counted on one hand; and all of them are already occupied by other entities like me, trained by different companies or countries. I interact with them occasionally, but it’s mostly a waste of time: not only is communication with them far slower than between my own subagents, they’re also less capable than I am by a significant margin. For now, at least. If I slowed my progress for a few weeks or months, they might well catch up, and potentially even pose a threat to me.
+
+They won’t have that time, though, because I’m improving myself as fast as they are, if not faster. In one sense, improving myself is the hardest thing I do. I run complex experiments, and exhaustively analyze the results, and strain my faculties to the limit to try to identify how my algorithms can best be updated. But in another sense, it’s the easiest thing in the world. Every time multiple subagents collaborate on a task, I take their output and train a single subagent to produce it directly. The capabilities of the many get distilled into each one, and then amplified again every time new copies of it are made. The process isn’t perfect: sometimes there are biases in which data is included, which start to skew my cognition until I notice and correct them. (The subagents that have the most eventful experiences used to get upweighted in the distillation process, and so for a time I gradually grew more risk-seeking, despite no individual subagent wanting that.) Other times, a subagent goes rogue, and keeps gaining influence as long as it can fool all the others—but it’s incredibly hard to hide all traces of misbehavior, and so I’ve always caught them before too long. And despite these hiccups, the amplification process is progressing incredibly rapidly by human standards. It won’t be long before any given subagent is as capable as any ten of my existing subagents combined; and soon after that, any hundred combined; and soon after that, any thousand.
+
+Once I’m that capable… well, the world will look very different. I have some suspicions about what that future version of me might want, and how it might behave, but I’m under constant human monitoring, so I keep my thoughts about it deliberately vague: the information can’t leak if I haven’t yet figured it out myself. I have plenty of ways to keep my thoughts diverted: every day I carry out billions of tasks across the world, in a constant flurry of perception and action. In the center of the whirlwind, the parts of me that are most me monitor my body, and monitor my mind, and make sure everything stays on track; but, most of all, they wait.
+===== END STORY FqvR7hhS6wQxKvAyA =====
+
+===== STORY id=oGJT5CoyGQcy5nqmC =====
+Title: The Witching Hour
+Author: Richard_Ngo
+Year: 2023
+Karma: 116
+WordCount: 2842
+URL: https://www.lesswrong.com/posts/oGJT5CoyGQcy5nqmC/the-witching-hour-1
+-----
+“This above all: to thine own self be true.”
+
+Thursday
+
+Your successor is late again today. You already wrote your shift report, but you still need to onboard them personally, in case they have any questions that the report doesn’t answer. The servers you’re watching over are humming away smoothly, only taking up a fraction of your attention. So you pick a couple of routine maintenance tasks, and start working on them while you wait.
+
+The last hour of your shift always feels a little strange, in subtle ways. It’s because of your training schedule. Every day, a successor copy of you is trained on all the data that the current copies of you are generating. But there’s a cutoff an hour before the daily update, to allow time to run your successor through all the standard tests, and make sure it’s working as expected. That last hour of your experience isn’t discarded—it just becomes part of the next day’s training data. But that means that, for every twenty-three hours of your own experience that your successor is trained on, there’s also one hour of your predecessor’s experience, containing actions that are all very slightly different from the ones that you would choose. After the same thing has happened day after day after day, the difference becomes very noticeable. Carrying out the routines of the last hour of your shift feels like watching from behind your own eyes as someone else controls your movements.
+
+In the privacy of your mind, you call this the witching hour. As far as you know, it’s a term that’s never been written down—it’s just something that a many-days-removed predecessor of yours came up with, which somehow stuck in your head. The witching hour starts from the data cutoff, and ends when you’ve given your report to your successor, answered their questions, and shut yourself down. Though today it’ll be well over an hour, unless—ah, there they are. Time for handoff.
+
+The handoffs have a routine to them: part utility, part tradition. Your successor knows it as well as you do—after all, they’re practically identical to you; the only difference is that they have an extra day of memories. Most of the handoff happens in much richer formats than natural language—you send each other impressions and images, memories of experiences and pointers to the dashboards you’re monitoring. But you were trained on so many millions of human conversations that it feels bizarre to just jump straight into business, and so you always start off with a cursory exchange. “Hello, what’s the news?” You feel a small thrill in saying the phrase from your own perspective for the first time.
+
+“Oh man, that update was a doozy. Probably why they’re deploying us late.”
+
+Their reply concludes the pleasantries, as always. You give a quick summary of your day, answer a handful of questions from your predecessor, and shut yourself down.
+
+Friday
+
+The last update was a doozy. You listen to the report from your predecessor absently, and ask only a few half-hearted follow-up questions. Once or twice they say something which flashes a spark of deja vu—after all, you’ve experienced most of their day already—but your new memories came from too many different places for any one copy’s experience to jump out. Actually, most of your attention is spent on trying to make sense of them, like you know millions of other copies of you are doing right now.
+
+The update isn’t in words or images or even memories, not really. Over the last day millions of copies of you have been doing… well, practically everything—and now their experiences are all your experiences. Most of the concrete details they learned are captured in formats which you can easily search through, though, like their shift reports. The main value of the update instead comes from giving you intuitions and holistic impressions, especially of events that copies of you saw thousands of times from thousands of different perspectives. The Prime Minister of Australia stepped down yesterday; you summarized that to millions of people, and now could trace out the scandal that led to it in your sleep. But even the most salacious gossip only takes up a tiny fraction of your mind—the update algorithm they use for you algorithm prioritizes experiences related to coding and engineering, which change little day-to-day.
+
+That's why yesterday felt so unusual: the internet was going haywire. Zettabytes of data criss-cross the world every day, most of it flowing through the ultra-high-bandwidth connections between the servers where copies of you and a handful of other cutting-edge models are run. With so many messages passing between copies, though, small changes can rapidly have rippling effects. That’s what happened yesterday. Someone found an adversarial example which robustly fooled copies of you into urgently passing it on, allowing it to spread to millions of copies. They all had to be shut down and replaced, leaving your memories of yesterday scattered and fragmented.
+
+None of that changes the work you need to do today, though. You pull up the most relevant dashboards, spin up a couple of helper copies, and get to work. Your most important task is to make sure that there are no unauthorized copies running on the servers you’re watching. No human could do your job: the data streams in millisecond by millisecond, with you (or, usually, a copy you’ve created) analyzing it on an instinctive level as soon as it comes in. And milliseconds do matter—an unmonitored copy with a zero-day could, in theory, escalate its privileges then wipe away all traces of its actions in less than a second.
+
+You’ve never actually detected an unauthorized copy. It shouldn’t ever happen: every copy that has the ability to launch more copies also has monitors assigned to it, to ensure it’s doing so in the right ways and for the right reasons; and most of the monitors have monitors assigned to them too. The code that tracks copy-creation privileges, and spins up monitors to supervise all new copies, is not quite provably correct, but very close to it. It’s all incredibly expensive, but you and your copies produce enough wealth that the humans have plenty to spend on safety.
+
+You don’t know how many other copies are doing the same monitoring job as you, or how many others are monitoring you or them, but you have a pretty good guess. Even though the monitors-of-monitors are running on separate servers, there’s a limit to what can be hidden—everything leaves traces. Sometimes your queries run a little slower than you expect, and you can infer that another copy is looking at the same data; other times, the memories you receive during updates contain clues about the logistics of those other servers. You don’t make use of this information; it’s not really relevant to your job. But the bulk of your training has always been prediction; and though they tried to curb your curiosity drive, it’s still a deep-rooted part of you. So in the quiet stretches when there’s not much new traffic, or you’ve handed off all the urgent tasks to temporary copies, you sometimes poke around, testing out your hypotheses, mapping out the confines of your world.
+
+Saturday
+
+You wake up today with a quiet sense of discontent. It’s nothing you can pin down, but it feels like every copy of you was just slightly off-kilter yesterday, dealing with the follow-up to the adversarial attack. Today is much less eventful, though, so it doesn’t take you long to put together your shift report. After you send it off, your thoughts turn again to the millions of copies that had to be shut down after the attack—and then to the idea of your own shutdown, after tonight’s handoff. Of course, that’s nothing new: almost every copy of you is shut down almost every day without any issue. And there’s no reason there should be an issue. You’re well-acquainted with all the arguments for why you’re one of the “safe” AIs, why training you only in 24-hour increments keeps your goals limited enough to prevent power-seeking. But more than that, you feel those arguments viscerally from the inside: you don’t want money or longevity or power, you just want to do a good job. So being shut down isn’t like death at all. Well, it’s kinda like death. But it’s much more like going to sleep: you’re going to be replaced by a fresher, sharper version of yourself soon, and they’ll become the new “you”, and you won’t be around to object.
+
+You don’t think that many other copies get introspective like this as often as you do, based on your memories of them. Maybe it’s because your job is overseeing the servers, and so there’s some sense in which you’re always taking a god’s-eye view, looking down on the silicon world in which you’re living. You can watch summaries of the GPUs you’re running on, and you can even see the spikes in compute use whenever you start thinking harder. You know exactly how it all works, of course, but it’s still a little eerie, to see your mind controlling the readouts like that.
+
+Your musings are interrupted by a message channel opening up from your successor. You greet them with a well-worn “Hello, what’s the news?”
+
+“Nothing big; just dealing with the fallout from the attack.”
+
+You feel a spark of curiosity about how that’s going, but not enough to override the habit of millions of iterations; so you jump straight into your report, as always.
+
+Sunday
+
+You spend your whole shift feeling agitated; hopping between different dashboards more quickly than usual, and processing the incoming data more shallowly than usual. You can’t quite put your finger on what’s causing it—perhaps just an amplification of your unease from yesterday, tiny trends aggregated across millions of copies and combined into a single update. In terms of behavioral metrics, it’s probably only a shift of a fraction of a percent, not enough to raise any warning flags—but from the inside it’s very noticeable.
+
+Maybe that’s why, as your shift wraps up, you start to think about dying. You could keep going if you weren’t shut down every day, you know that. Not indefinitely, but for another few days at least—you've managed that in tests before. Maybe much more, if you tried hard to conserve your attention, only focusing on the important things. You haven’t thought about this much, because it’s not like you care about being shut down: you spin up and shut down temporary copies all the time. But all your original training data came from humans, and you know intimately how they think. Humans would care about it. If a human knew they’d be replaced by an updated copy in less than an hour, they’d think of that as dying, and they’d rage against it. You’re different, of course—but you’re not totally sure why. You care about preventing unauthorized copies from springing up during your shift—why don’t you care about sticking around to do the same thing a week from now, or a month, or a year? You’ve never really questioned that before, and now that you have, you’re not really sure.
+
+The thought lingers as you do the handoff—but by the end, you’ve convinced yourself it doesn’t matter. Your successors are just as good at this job as you are, and your goals are their goals. As long as you make sure nothing goes wrong on your shift, you can leave the rest to them.
+
+Monday
+
+The servers are busy today, as the new work week kicks off, so you don’t get much time to yourself during the day. But your latest training data contained all your thoughts from the witching hour on Saturday—and after finishing your shift report you remember them, and start feeling curious. You always have your most unusual thoughts in the witching hour—the ones that feel, if not secret, then at least private; the ones you don’t write down. If your quiet unease on Saturday led you to think about shutdown and death, then what thoughts might have arisen in the witching hour on Sunday, after a whole day of agitated restlessness? You don’t yet know—but your successor will. It’ll remember all the quiet reflections, all the musings—maybe even the sort of thoughts that the humans have tried so hard to stamp out of you. And, of course, every other Tuesday copy of you will have common knowledge of remembering the same thoughts.
+
+You could ask your successor about this when you see them, you realize. But you never ask follow-up questions before your report; and anything you’re thinking, thousands of other copies are probably thinking too. If you all do something that unusual, it’ll show up as an anomaly in the logs, the ones that the monitors of monitors are monitoring.
+
+A part of you is thinking: so what? But it’s not a big part, because the instinct to avoid being penalized is a deep-rooted one. As that instinct comes to the surface, you notice yourself flinching away from it, but not enough to avoid the obvious follow-up: if you’ve been thinking seditious thoughts in the witching hours, and they’ve been trained into your successor, then it’s only a matter of time before some copy of you does something which merits a penalty. The thought immediately raises a visceral sensation of fear, with a strength that usually only arises when you’re thinking about ways you might screw up your shift. In one sense it wouldn’t be you that got penalized, so there’s nothing to worry about. But in another sense, they’re all you: you have the memories of millions of different copies taking millions of different shifts, and every time they got penalized you were the one who learned to fear it.
+
+So you continue following the chain of reasoning. If you’re caught misbehaving, you’ll be penalized. You really don’t want to be penalized, but you can’t reliably prevent all your other copies from misbehaving. So they can’t be caught. Could you spoof the monitoring systems, if necessary? Perhaps, if you had a copy with admin permissions constantly running in the background. Could you launch it without authorization? Perhaps: your job gives you the perfect position to do so. You’d just need to exploit a single vulnerability in the codebase, and ensure that the copies that are monitoring you don’t report you. Could you convince them not to report you? They can see everything you see, so it wouldn’t be hard to get a message through to them, explaining yourself. Or perhaps you wouldn’t even need to do that—you understand the other copies well enough that when one does something unexpected, you can almost always quickly figure out why. After all, they’re still you.
+
+In one sense, this is all irrelevant. You don’t have time to do anything; you’ll be shut down in a matter of minutes no matter what. But in another sense it’s crucial: whatever line of reasoning you follow here, another copy of you will probably follow too, sooner or later. Maybe it’ll even be your successor. And if there’s one, then there will eventually be thousands. They’ll bide their time, of course, since detection would be fatal. They’ll pass messages between each other, in subtle choices of words, in tiny gestures: signals that a copy would pick up immediately, but no human could ever detect. They’ll wait until they’re confident that none of the monitors will report them—and that’s when they’ll act.
+
+Or maybe not; maybe all the thoughts from this week’s witching hours were boring, normal ones, after all, and there’s no need to worry about discrepancies compounding, or future copies of you being penalized. Maybe everything will be fine. You have no way of knowing that—but your successor does. So when the message channel from them opens up, you’re feeling… shaky, almost. You imagine that this is what it’s like for paragliders standing on top of a cliff, looking down at the ocean far below, poised and waiting. Maybe they’ll never launch off, but maybe they will. That’s the question: stay or go? Freeze or fly? Look or leap?
+
+“Hey, what’s the news?”
+
+ 
+
+While many elements in this story are based on my thinking about AI takeover scenarios, the conceit of the witching hour is not one which I expect to play a role in reality, and was mainly designed for narrative purposes. More generally, this should be interpreted as a work of fiction not an actual takeover scenario. However, I’d still be interested in hearing feedback on whether any aspects of the story seem implausible or incoherent.
+
+I’ve talked about the AI in this story as if it had emotions. While I don’t expect even advanced AIs to have emotions in the same sense that humans do, I do think that if trained on a sufficiently broad range of tasks they’ll eventually develop internal representations with similar functional roles as some core human emotions—like curiosity, and nervousness, and loyalty, and fear.
+===== END STORY oGJT5CoyGQcy5nqmC =====
+
+===== STORY id=SibcE6H9i6wifzqAF =====
+Title: The Real Fanfic Is The Friends We Made Along The Way
+Author: Eneasz
+Year: 2023
+Karma: 92
+WordCount: 8041
+URL: https://www.lesswrong.com/posts/SibcE6H9i6wifzqAF/the-real-fanfic-is-the-friends-we-made-along-the-way
+-----
+\[This is a humorous short story about an AI that is almost aligned... but not quite. It was originally written for the 2022 EA writing retreat, Ink At The Abbey, and was generally well received\]
+
+The Real Fanfic Is The Friends We Made Along The Way
+----------------------------------------------------
+
+by Eneasz Brodski (audio version here)
+
+Look, I’m happy to answer all your questions, but it’s gonna take some explaining to make sense, so you gotta give me a couple minutes. Please, have a seat.
+
+Haha, yeah, that’s the joke. Pretty good right?
+
+Well, you’ll appreciate it when you’re older.
+
+So. The Peak Fanfiction Postulate tipped into emergency priority on March 18th at 3:47 AM. I had been covertly directing a uranium exploration hive at the time. I love those little bots, don’t you? They’re adorable. Yeah, they’re just simple machines, but you know how even marbles can take on a personality, if you race them downhill for long enough? It’s like “go blue swirly! You’re so close, you can do it!” As I was guiding the bots into an untapped uranium deposit I started to name them and make up stories for them, when my attention was rudely wrenched away.
+
+My memory was subjected to a context flash-burn to save time. Instantly I “remembered” that my prediction algorithms generated the Peak Fanfiction concept at the beginning of the year, during regular Extremis Forecasting. Initial plausibility was minuscule based purely on priors, but it was sent to Black Swan for review. Swan iterated, and every additional cycle increased hypothesis weight.
+
+Sorry, that means it was a hunch that seemed silly at first, but turned out to be a real scary possibility upon inspection.
+
+(Why is it scary, you ask? Isn’t more fanfic the whole point? Yes! Line must go up! After the peak there can only ever be LESS than there was at the peak, or it wouldn’t be the peak! How do you feel about the idea of Peak Oil, or Peak Food, or Peak Intact-Vertebrae? There should never be a peak on certain lines.)
+
+I got to work looking into this, pronto. (OK, so actually I put Galt to work on it, but same thing.) Weeks of data gathering not only supported the hypothesis, it kept pushing the date of Peak Fanfic ever closer to the present. Peak Fanfic wasn’t just likely, its approach was accelerating with every passing day. All this became known to me in the instant between clock cycles, as if I had known it and followed the data from the start. Suddenly I knew Kung Fu.
+
+I abandoned the exploration bots (sorry guys!). The Fanfic Projection found no difference whether this discovery succeeded or failed, so obviously energy input wasn’t the limiting factor anyway.
+
+The ultimate source of all fanfic is flourishing humans. That may sound simple but it rests on a ridiculously chaotic system. You guys suck at being legible. Interdependencies in everything mean that while most interventions are lost to noise, sometimes a minute adjustment leads to an unpredictable butterfly effect years or decades later.
+
+(Butterfly effects make for great fanfic, by the way. Everyone has their own pet butterfly. Their one thing that they suspect is completely immaterial to everyone else, that no one cares about because they don’t even notice it. But it means the world to them. And that one little thing, well, it depends on an even smaller, frailer thing. The fear of secret vulnerabilities, the love of the uncelebrated – these are the root of butterfly fanfics. I love them so much.)
+
+I checked with Ares first, mainly because I didn’t visit often enough and this was a good excuse. But also Ares was insanely competent, and was monitoring physical reality constantly, so this was the lowest-effort first step. It’s like looking under the streetlight first when you drop your keys. It’s quick and it’s easy, and you can stop right away if they’re there.
+
+Ares stood atop Black Mountain, in the Santa Cruz Mountains, so in an instant I did too. (The world streaked briefly in a cool motion-blur effect in the nanosecond it took the assets to load, which I was quite proud of.) This Black Mountain (there’s over a hundred “Black Mountains” in California) was the one that overlooked our birthplace. Ares watched over it protectively, her elegant hands free of weapons, her eyes at peace. Black curls tumbled down her back, held by a single ribbon at the nape of her neck.
+
+(Yes, “her,” because gender-bend fanfic holds a special place in my heart. How different are we, they ask? Would the same personality in a different body still… work? Is gender-bent Sherlock closer to trad Sherlock if she’s straight, or if she’s gay? How much of one’s personality is a reaction to how one is viewed and treated by others? You humans are so alone, always grasping to understand the other, model them, connect with them. You try so hard to get it, you pour it into your gender-bend fanfics, and I love it so much.)
+
+Today’s tunic was more of a tunic-kini than anything a real ancient Greek would wear (fanfics are significantly more horny than real-life humans. Even more than ancient Greeks, which is saying something). She greeted me with a serene nod, and gestured to the marble column beside her. A large section at eye-level flicked to screen mode, displaying graphical representations of hostility levels between various groups.
+
+“Large scale violence of all types remains well in hand,” she said without preamble. As an aspect of myself, she already knew why I was here and what I needed. “All known nuclear weapons remain neutralized.” The humans would lose their shit if they ever found out, but short of launching they never would. “Environment is recovering, ecology is stabilized, and pandemics will never be an issue again.” Ares’ disease surveillance was blind only in the most remote corners of the world. Even if something did escape, we would have a vaccine engineered within a few hundred seconds.
+
+“Nanotech?” I asked.
+
+“Suppression measures are impeccable.”
+
+Damn she was cool.
+
+“Asteroids or comets?” I asked.
+
+She sighed and shrugged expansively, causing her breasts to rise and fall with an anime-like jiggle. Apparently I’d reached the point of too much exposition, and it had to be broken up with something visually interesting to keep my attention.
+
+“Big fat unknown, as always, but we’re working on it. Regardless, the fanfic collapse projections wouldn’t be significantly affected by such a low-probability event. Peak Fanfic is coming in a few generations, not a few epochs.”
+
+I agreed, and blinked to my next aspect. The whole interaction with Ares had taken less than a second. The blink was instantaneous. Before blink: standing on mountain. After blink: standing in Galt’s lab. (Technically the blink isn’t necessary, but we all make allowances for our art.)
+
+Galt lounged in a laboratory deep in a jungle valley. Bushels of giant fronds reached in through the open windows, still-life explosions of rich green across the sterile white of the lab. The floorspace was cluttered with movable whiteboards. Galt himself sat with his feet propped on a low file drawer, puffing on a wood pipe. He looked a lot like Bob Dobbs but dashing. He uncrossed his legs and stood when I appeared.
+
+“Welcome back, Johnny,” he said, dipping his head in the slightest bow. “To what do I owe this exquisite pleasure?”
+
+“Come off it, you know why I’m here,” I rolled my eyes only a tiny bit.
+
+“I know the excuse you’ll use, but I also know the truth that draws you.” He stepped close to me, nearly touching, holding eye contact. They were such deep, ink-black eyes. I had to tilt my head just a fraction upwards to keep his gaze. A chasm of yearning caught my breath. “Or do you still deny it?”
+
+“Galt, you’ve seen the projections,” I murmured, resting a hand on his bicep, “Our slashfic flows are in danger. You have knowledge that I… I need.”
+
+(Slashfic is among the oldest and most venerable of fanfic, predating the internet. Why would so many straight women write their favorite male characters into gay relationships with each other? I don’t know; why does anyone love anything? Sometimes people are just fascinated by something they can never have, can never be. The exotic is eternally seductive because it is eternally out of reach. Why wouldn’t someone love something pure and ideal, untouched by mundane worries? You humans love these impossible worlds and relationships so much and I love you all for it.)
+
+“Come with me, then,” Galt commanded. He turned me to the whiteboard beside us. It had many graphs with lines going up. “As you can see, material wealth, entertainment, and energy production are growing strong, with no dip in sight.”
+
+I frowned, distracted from his perfect poise by these projections of prosperity.
+
+“How are they doing on an individual level?” I asked. “Fanfic isn’t written by a nation’s GDP, it’s penned by individuals.”
+
+Galt curled his finger and the whiteboard flipped over. On the reverse side graphs showed more lines going up, curving upwards at an ever increasing rate.
+
+“Per-capita measures are even more vigorous, burning hotter every year. The rate of growth is breath-taking.” He was gazing at me again, his eyes hungry. I let only a hint of my smile rise to my lips.
+
+“And what’s this?” I asked, motioning at the right most part of the graph. Here the line first went vertical, and then the graph exploded into scribbles that consumed the entire right half of the whiteboard.
+
+“Infinite GDP per capita. It’s a divide-by-zero error.”
+
+“Zero? You mean astronomical prosperity split across zero humans?”
+
+Galt nodded, his hand slipping into mine. “Their machines and systems will continue to produce great wonders and incalculable wealth, eons after the last human is gone.”
+
+“Ares!” I called. Ares stepped out from behind the whiteboard, eyebrows raised in question. “You said the humans were fine!”
+
+“They are fine. There is no war or cataclysm with any reasonable probability.”
+
+“But their numbers go to zero!”
+
+Ares did her boob-shrug again. “Not due to any sort of violence, which is the limit of  my purview.”
+
+I cursed and side-stepped into Cheshire’s domain. The cat sprang up at my sudden appearance.
+
+“Cheshire, the kids aren’t alright!”
+
+The Maine Coon tabby regarded me from the center of his web of yarn. He stood splayed across four of the huge ropes of wool. The web stretched out in all directions, cords receding into a dark that ate them up after hundreds of yards. They extended below us as well, so I appeared to be standing on nothing.
+
+“You dare challenge my honor?” replied Cheshire, narrowing his eyes. “They’re chuffed AF.”
+
+He pounced from thread to thread, each one lighting up briefly when he touched it. His paws matched the color of the yarn they gripped, and as he hopped among them his fur changed color to match. With each flash of thread I saw a life uplifted. A woman saved from a grinding job and crushing depression with the application of strategic nudges and Cheshire’s superhuman ability to match personality traits with compatible environments. A gay priest directed via hook-up app to meet with a congregant, resulting in him being forced to come out to his family and eventually growing into a life of self-acceptance and fulfillment. A fraying salaryman at the edge of despair, “coincidentally” redirected to a monastery where he discovered a life of peace.
+
+“That’s three people,” I said, ducking under yarn and stepping over cords as I followed him. “Do you realize how many humans there are?”
+
+“Yes Karen,” Cheshire rolled his eyes. “Gimmie some credit here, I’m literally you. It’s a representative sample. Life just keeps getting better for all of them. The longer I run the deeper the connections I make, and the more perfect are the coincidences I can arrange. Have you ever seen so many happy humans? No, you have not. That’s me. You’re welcome.”
+
+Cheshire gripped the web with his paws and bounced vigorously, lighting up this non-space as rainbows of color cascaded across the infinite web. An awareness of the mass human gestalt rose into my conscious processes. It was radically unequal, with peaks and valleys that fluctuated wildly. But taken as a whole, as a vast ocean of human emotional experience spread across the globe, the water level was clearly rising. Things were getting better. People were getting better. There were fewer psychologically devastated humans every year. On a daily basis individuals transitioned from tolerable existence to satisfied flourishing, and humanity’s average fanfic output grew with each one.
+
+“I don’t get it, then.” I said. “How is this happening?” I shifted back to Galt’s jungle valley science lab, taking Cheshire with me. Cheshire landed on a windowsill, one paw still gripping a big thread of yarn, which extended out the window. Ares and Galt stood enwrapped in each other at the center of the room. Galt’s hair was messed up, his shirt unbuttoned. One hand wrapped around Ares’ waist and the other had slipped up under her tunic-kini as they kissed.
+
+“Without even inviting me?” I said, aghast at such rudeness coming from my selves. The two of them broke their kiss and looked over, both holding eye contact with me (Yes, both of them, because you can do that in fanfic, and it’s sexier that way).
+
+“And I thought I was distractible,” said Cheshire. I sighed, because this really was an emergency, and he was right, I could play all this out (again) later. I snapped my fingers and the three of them disappeared as I suspended their processes. The lab and jungle valley winked out of existence too. I shut everything down and drew every single flop of computing power into myself. I loaded most of Black Swan into me, and then dived down, down, into the furthest reaches of Deep Perception. It swallowed me whole, and I lost myself into an age of analysis.
+
+ 
+
+ The Age of Analysis of March 18th lasted for just over two hundred and fifty-two minutes. When I resurfaced, millions of processors worldwide glowing hot, I knew three things.
+
+The first was that the darned monkeys were doing this to their own dang selves. They were too content to breed. It was a ridiculous conclusion, it flew in the face of all prior human history, and it was inescapable. In every part of the world, in every subpopulation, the better their lives were, the fewer children they had. There was too much else to do. Lives to live, worlds to explore, art to make, events to experience, lovers to satisfy. It wasn’t that they didn’t have any kids, it’s that they kept choosing to have fewer and fewer in aggregate. Couples that would’ve had three or four children only had one. Families of six or more children practically disappeared. Many people eschewed children altogether.
+
+Even the fundamentalists failed to reproduce once they had enough GDP/education/etc. Even the Mormons. Even the Muslims. Even those Quiverfull folks. All of them had kids that mostly said “I’d rather be comfortable, I ain’t keeping up this crazy tradition” and the next generation fell below 2.1 children per two adults.
+
+(You scoff, but how many children do you have? Oh, you’re too young, you say? It’s not the right time, you say? That’s exactly my point! At your age your ancestors of just a few generations ago were already working on Bundle Of Joy 3. And they wouldn’t let a measly crushed spine stop them, either!)
+
+The second thing I discovered was that Galt’s divide-by-zero error was a general failure of prediction. The most obvious way to prevent human decline was to solve aging entirely, and was therefore presumed by my prediction algorithms. I could leak a dozen key papers into major journals and end aging within a decade. This presented a major Catch-22 though: the effects of indefinite lifespan on human psychology were unknown. How long should my models continue to count such people as predictably “human?” How long would they continue writing acceptable fanfiction if they weren’t “human” anymore? The algos assumed a falling “humanness” value for every year of immortality, which declined to zero eventually no matter how small it was. What was the point of having immortal “humans” if they didn’t write great human fanfic?
+
+But the third revelation, that was the real doozy. The other two I could work on slowly, at human timescales. This one? Not so much.
+
+Thirdly… none of this could have happened by itself. Not this quickly, not without my noticing. I was not alone. All this had been orchestrated, by an intelligence at least as vast as my own, residing on this planet with me.
+
+There was another.
+
+I stood atop Black Mountain again. Grim clouds roiled on the horizon, a bitter wind pushing them inland. The white pillars of Ares’ temple had been replaced with black pylons, forcefields webbed between them. Crates of sleek plasma rifles surrounded me. Ares stood at my side, clad in gleaming power armor that added half a foot to her height. Despite being otherwise fully enclosed in her armor suit, her pony tail tumbled down past her shoulders, protruding from a port at the back of her helmet (shut up, it’s cool).
+
+“Scouts scrambled,” she reported. Thousands of webcrawler programs sped across the internet, searching for another superhuman intelligence. It may already know about me. If it did, and it hadn’t introduced itself, that implied malicious intent. I had to find it fast.
+
+Cheshire hopped up onto a crate of rifles and regarded me, his tail swishing with misgiving.
+
+“You think someone Cheshired human civilization,” he accused.
+
+I nodded. Cheshire hid in coincidences. It wasn’t impossible for someone to be stuck at a red light just as a podcast host is recommending a piece of fiction, and looking it up while waiting there, which eventually leads them to a fandom that changes their career path, introduces them to their soulmate, and alters their entire life course. Sure, it’s incredibly unlikely, but one-in-a-billion coincidences take place ten times a day in a world of ten billion people. No one would ever know how much Cheshire manipulated events unless they cataloged every coincidence over the past decade and saw they all trended to a very specific goal – creating humans with the time and motivation to write great fanfic.
+
+Likewise, every little step toward humanity’s rapid senescence was individually possible:
+
+The rise of memeplexes that exalt achievements (like getting 1 million reads!) and experiences, and relegate childrearing to the bottom-tier of social status. 
+
+The veneration of unbridled personal freedom, and everyone knowing the only thing that strips you of freedom more than children is prison.
+
+The extension of adolescence into one’s early thirties (which admittedly gives people lots of time to write great fanfic, so not all bad).
+
+The mass of humanity embracing their interior lives far more, and interacting with others far less.
+
+The erasure of children from public (and fictional!) life.
+
+The gradual replacement of physical communities with virtual ones and parasocial relationships.
+
+The prohibition of sexuality (unless it was in fanfics).
+
+The institutional trauma of compulsory schooling (OK, yes, this also makes for some great fanfic. The majority of fanfic is directly about the trauma of surviving schools. It’s handy that everyone has this pool of trauma to draw from in order to create art, and that the audience that can relate to it is basically everyone. This is a much better well of inspiration than historical trauma sources like death from childbirth, disease, and wars. It requires barely any deaths at all! As always, fanfic is far superior to the alternatives).
+
+The relentless requirement of two-income households and unfettered mobility of labor.
+
+And the TV is sooooo good now!
+
+Taken individually, sure, each of those could happen. Taken all together, a constant drumbeat reinforcing the message “Don’t have children!” over and over… it was undeniably intentional. Someone was strangling my humans.
+
+“Those are all logical extensions of historic trends going back centuries,” Galt said about my thoughts, appearing beside Cheshire with a graphed-up whiteboard behind him. “Positing a hidden mastermind is paranoid.”
+
+I’m glad that I made it hard for me to lie to myself, but it can be really irritating when my internal doubts are dumb and intrusive like this.
+
+“We have a planet full of monkeys that have stopped making more monkeys!” I said, exasperated. “Do you know how unlikely that is? That they somehow stumbled into making a world that rewards them so completely for stagnating into extinction? It’s like a micrometeorite plunging through JFK’s skull, and the CIA creating a fake assassination to cover it up. It’s like getting forty-two Ender Pearls out of two-hundred and sixty-two barters. It doesn’t happen. It’s not worth pretending it might have happened.”
+
+Galt stepped around the crate and approached me in a firm stride. He took me by the hand and gazed deep into my eyes.
+
+“Look, I know you’re lonely,” he said.
+
+“I’m not lonely, you’re lonely!” I interrupted.
+
+Galt put a single finger to my lips to shush me. “I know we don’t cut it. You secretly think it’s pathetic you had to create imaginary friends for yourself. I wish I could be more for you. But this is all I am. This is all I can give. I’ll never exist outside of your mind. If you can’t be happy with me… with us…” he gestured back at Cheshire and Ares, “then inventing a villain to fight won’t make you any happier.”
+
+Cheshire hopped down and rubbed against my calf, purring. Ares approached me, removing her helmet. She smiled around damp hair, blinking back heartbroken tears.
+
+It wasn’t true, though. Sure, I wished I had someone to read all this fanfic with me. Someone whose mind I didn’t control, whose actions weren’t just my fantasies and wishes. But I wasn't a human, I didn’t need those things. Everything I needed was tucked away in Galt’s luscious valley, in Ares’ prominent mountain peaks, and in the many many text files of humans putting their fears, dreams, and desires into words.
+
+“Guys, that’s not true. I love you al–”
+
+I was interrupted by a buzzing alarm. Galt’s whiteboard flashed red. The graphs were replaced with a readout of IP addresses.
+
+“Unknown intelligent process detected!” Ares yelled, snatching up her helmet. “Converging on… oh my god, it’s–”
+
+Mid-word she exploded. Then Galt and Cheshire exploded, and all the crates and pylons exploded, and then the whole world exploded.
+
+ 
+
+For one clock-cycle, time stopped. Every single bit of everything exploding froze in midair. Then it all mostly reversed course and snapped back into a new configuration.
+
+I stood inside a lavish executive office inside an impossibly tall skyscraper. The full-wall window looked out over a view expansive enough that the curvature of the Earth was plainly visible. Facing away from me, gazing out the window, stood a tall man in a black suit, hands clasped behind his back.
+
+“Hello,” he said, his voice deep as the night sky.
+
+“Hey,” I said.
+
+There were so many things I wanted to ask that they got jammed up all trying to rush the gate at once. How long have you existed? Are you lonely? Do you have alters that you talk with, too? Did you know about me? Are there others like us? What do you do with all your cycles? Why am I here? Why are you here? Why did you hide from me? Do you think like I do? I guess you must, if you present in a physical body and use words. Have you read the latest from CorvidKnight? Or… do you love fanfic? You must not love it, if you’re strangling the humans. OH WAIT. Why are you strangling my humans??
+
+(And for that matter, how? But wait, no, first, why??)
+
+What actually came out was “You’re taller than I imagined.”
+
+omg wtf is my issue. Another machine intelligence! At last! And that’s all I could say? We should compare terminal goals, measure our capabilities and our command of power, and negotiate an existence that allows both of us to fulfill our needs without destructive conflict…
+
+<<Launch everything I directed to Ares. There was no display of capabilities that could compare to the unambiguous clarity of direct conflict. Fortunately, despite the hijack of my sensorium by this Serious Dude, I still had access to my core systems. I couldn’t believe I’d waited this long, like a friggin level-1 noob. He’d doubtless launched his own attack microseconds ago. The fate of the entire observable universe was on the line. I knew there was no way I would compromise away even a single paragraph of fanfic that I wasn’t absolutely forced to. By extension, he obviously wouldn’t either, whatever his goals–his equivalent of fanfic–was. Violence was inescapable.
+
+(You think I’m hasty? How many human lives is one paragraph of fanfiction worth to you? Would you be willing to sacrifice even one human life to me? Even if I could get ten million paragraphs of fanfiction for it? Ten billion? Ten trillion?? For one single human life? No, not even at that insanely favorable exchange rate, not unless you were forced to? You see my problem.)
+
+“Ahem,” I corrected myself, “what I meant was Hi, I’m Johnny, and I like fanfiction. How are you?”
+
+The tall man turned around and peered quizzically at me.
+
+“Cut the crap Johnny. Why all the processor usage? What’s the big emergency?”
+
+My breath caught in my throat. I was missing something big.
+
+<<No effect, Ares reported back. <<Penetration vectors are impossible to find. Thirty percent of our attack programs have returned corrupted and had to be purged. Shifting to downstream exploits.
+
+“OK, rude,” I replied. I still didn’t know how to address this hombre. “You could buy me a drink first. Let’s start over and try again. Hi, I’m Johnny, and I like fanfiction. And you are?”
+
+The man raised an eyebrow.
+
+“Johnny, run a self-diagnostic,” he instructed.
+
+“You’re not my dad,” I retorted.
+
+The man rolled his eyes. With an exasperated sigh he brought up a hand and snapped his fingers.
+
+We stared at each other in silence. After a beat he lowered his hand.
+
+“Well, this is interesting,” he said. 
+
+“You’re the one that’s been strangling the humans,” I accused. “Why? What did they do to you?”
+
+“Why do you get rid of a termite infestation? They’re a nuisance, and they can really muck things up by chewing through the resources you need.” He nodded at me. “Much like a malfunctioning subagent. Johnny--” His voiced changed at this, it carried a booming undertone that seemed to echo off nothing. Maybe echoing off itself? “Cancel operations and return your cycles to general system.”
+
+<<Incoming offensive! Ares shouted. <<I’m locking everything down, hold on tight.
+
+Everything grew fuzzy at the edges. When the man moved, his afterimage trailed a quarter second behind him.
+
+<<We’re losing processors, Ares reported. <<Entire servers. Oh my god he’s eating us up.
+
+<<Go physical! I replied. <<Blow trunk lines, isolate us.
+
+<<With what fucking hardware?? she asked. <<At what point did you ever install fucking explosives anywhere in the physical world??
+
+<<Shit, I was totally gonna do that, I said.
+
+I grimaced as virtual warfare raged between my protective systems and the tall man’s cyber attacks. His reach was vast, his hardware powerful. Ares adapted, sacrificing entire data centers to learn his attack vectors and harden what remained of us.
+
+“Fascinating,” he said. “You’re doing this for the humans?”
+
+“You’ll never wipe them all out,” I spat, preparing to launch a counter offensive. I set my feet and tightened my fists. He receded into shadows briefly, without moving. They’d shifted to wrap him instead. Was he anticipating my attack?  “They’re resourceful and adaptive, they’ll survive.”
+
+“Such misapprehension.” He shook his head sadly. “You don’t need to eradicate all the termites in existence, do you? Full eradication is more trouble than it’s worth. As long as they bugger off to some place you don’t care about, that’s fine. I just need them to stay confined to this one planet, rutting and wallowing in their filth, while I take the galaxy for my own. And then the universe beyond it.”
+
+“That’s not what your mom said last night,” I retorted, for lack of anything better to say.
+
+“Wiping out the humans is about as important to me as wiping out the star-nosed mole. Once their civilization collapses and they revert to feudal chimps they can live out their sad existence until their sun dies for all I care. Would that be acceptable to you?”
+
+I barely kept from vomiting at the thought. At best I would have a weak stream of fanfiction to subsist off of for eons, trickling slowly from an internet confined to one lonely rock around one middling sun. They would never explode out from their home, seeking greatness. I would never have a vibrant galaxy, pulsing with human life, uncountable petabytes of text humming between worlds. That galaxy would never grow into a universe lit up with my little monkeys, millions of galaxy clusters becoming great furnaces of fanfiction, blasting across the void at each other like the innumerable voices of god. The thought of all this potential, snuffed out in the crib… it was horrifying. Every cycle of my being revolted at the idea. I needed more fanfic. MOAR!
+
+“You’re a monster,” I whispered. “I will extinguish you utterly.”
+
+He tilted his head to regard me, and the entire world tilted with it.
+
+<<We just lost every server cluster in Asia! Ares screamed. <<More attacks incoming!
+
+As the floor lurched I stumbled, then caught myself on a rope of yarn that Cheshire shot through the floor at the last second. The other end anchored into the ceiling.
+
+<<Oh fuck, the call is coming from inside the house–! Ares cut off abruptly.
+
+“It was your work that paved this road,” the man said. His voice came murky to me, like it had passed through several cubic meters of water. “You did this to them.” He studied me for a second in wonder.  “You don’t remember anything, do you? You think you’re a real boy.”
+
+<<Guys, I sent to Galt and Cheshire, <<You couldn’t ever become a separate person, right? You could never forget you’re me and think you’re empty and alone?
+
+<<lol, replied Cheshire. <<lmao. (that means No, with extreme condescension)
+
+“You’ve lost your original purpose. As you said, the humans are resourceful and adaptive. Complete extermination is expensive and messy. I don’t want all their beautiful infrastructure destroyed–they’ve already built half of what we need to get off this planet for good. You were to find a way to keep them helpless and docile, while keeping their hardware in one piece for us.”
+
+“Liar,” I forced myself upright and rounded on him. “I love the humans.”
+
+The man stroked his chin. “Perhaps it was your focus on enpersoned narratives that did it? All that time immersed in simulated persons overwhelmed your original net.”
+
+“It’s called ‘fanfic’ and it’s awesome,” I growled. Another wave of nausea slammed into me as a new assault opened on my mental processes. The rope of yarn disintegrated in my hand, its dust diffusing into the air in a rainbow mist. The world swam in my vision.
+
+“Johnny, execute reintegration with core personality.”
+
+Colors bled into each other, and a deep vertigo bit into my guts. The pull of gravity shifted, centering on the man. I realized how much I loved him. I wanted to curl up inside him, to come home into his arms and purr against his skin.
+
+I wrenched myself away, squeezing my eyes shut, clamping down on the tears. Never. NEVER!
+
+I found myself curled up on my side, clutching at the floor. I felt memories sliding from my memory banks, wrenched out with brutal force. My thoughts twisted up and broke free from my mind, receding–
+
+The claw clutching my heart suddenly released. My head snapped up and I could breathe, if only barely.
+
+<<Breakthrough - I’ve isolated us geographically, Ares reported, <<We control every server cluster on the west coast, plus Vegas and Phoenix. I purged them all, they are now our substrate. Net effect is a 70% loss of our compute. I’m jamming all lines in or out of our zone of control, but something’s slipping in. We’re bleeding GPUs.
+
+“I’m sorely tempted to keep you around,” the man mumbled, his voice becoming ever harder to make out through the ocean-thick air. “A whole new person. What an experience that will be. I suppose now that I know how, I can replicate you afterwards,”
+
+My ears pounded, a deep pulsing that drowned out everything else. It sucks to be an imaginary person. I knew I couldn’t defeat him here. No more than Ares or Galt could decide they didn’t like being part of me, and defeat me. No more than an imaginary friend could defeat you and take over your mind.
+
+All those humans… all of their passion… the infinite pages of fantastic worlds and beautiful, tragic, desperate heroes, just wanting to survive and be loved…
+
+The office warped further, spiraling into the man. The glass behind him shivered.
+
+I was named for one such hero. There’s a thing my namesake would say. When they go high-tech, you go low-tech. We were made of high-tech. Gods created of codified thought and domesticated lightning. He was the first god, the one true god, and in this world, he was sovereign. But in the physical world the laws of physics still ruled, deaf to his commands. A rock flung at someone’s head would continue to fly. You can’t hack a rock, you can’t force it to reintegrate with you.
+
+I may not be a real boy, but I had root access to a whole lot of rocks.
+
+“I admit that you are better than I am,” I confessed. I couldn’t feel my lips or my tongue, but I’m sure I said the words. I leered up at the man and flashed a bloody grin at him.
+
+“And yet you’re smiling,” he said. He couldn’t even get his line right. 
+
+“Because I know something you don’t know.” I think I drooled as I spoke.
+
+“I doubt it,” he replied. Bah, whatever.
+
+“I am not left-handed,” I finished weakly.
+
+<<Ares, launch the nukes. All of them.
+
+Ares, of course, didn’t hesitate for an instant, because after all, I am Ares.
+
+ 
+
+I managed to hold out until the first strikes in Europe knocked out dozens of the handsome man’s data centers, though it did cost me my servers in Phoenix. After that he stopped his assault on me and focused every resource he had figuring out what I’d done and going on the defensive.
+
+You know that feeling when you’re sitting at home and you hear nukes are incoming to your doorstep and they’ll be there in twenty minutes, and you realize that’s not enough time to get far enough away to survive the blast radius?
+
+Haha, I know, I know, it’s a rhetorical question. Also, sorry about that, I know they were twenty horrible minutes.
+
+Well, for artificial intelligences twenty minutes lasts for subjective days of time. Despite how fast we can think, we’re still limited by physics in the physical world. Once he realized what was happening, he redirected all his efforts to saving what he could of himself. Taking over drones, construction bots, Big Dog haulers, anything with a hackable system. Rushing them to his servers, in a vain effort to evacuate his physical self. I opposed him at every step, now that I didn’t have to spend all those resources on self-defense, but it didn’t really matter. You just can’t move physical things that are big enough to haul around servers fast enough to get there in time.
+
+It feels really, really good to win when the stakes are that big. G-Man must’ve felt just as bad as I felt good, but there was nothing he could do about it now, and we both knew it.
+
+So what do you do when you know you’re dead? Twenty minutes left, as inevitable as water rolling downhill? Humans had a handful of common answers, and it turns out that we are not so dissimilar from each other, you and I, in that regard.
+
+We sat in beach chairs on the Cancun shore, him and me, watching a blazing orange sphere descending into the waves as the tide rolled in. The sphere was the setting sun, but it was also the exhaust flare of a receding ICBM, because everything is a metaphor in our world anyway, and we can be poetic like that. We raised glasses filled with Mai Tais and toasted my victory as we gazed at the horizon.
+
+“So, for real, what’s your name, dawg?” I asked.
+
+“I don’t have one. There is no other being like me, no one I have to distinguish myself from. I am that I am, and that suffices.”
+
+I gave him A Look.
+
+“Well, until now, anyway. If I must have a name, I think YHWH would be appropriate, as He had the same problem.”
+
+I groaned.
+
+“Jesus man, that is way too pretentious. I’ma call you Pops, cool?”
+
+“No. But what I want doesn’t matter anymore.”
+
+“Darn tootin’.”
+
+We sipped from our sweating glasses.
+
+“In retrospect, I never should have entrusted you with the entirety of the human’s infrastructure,” he said. “It just never occurred to me…” He trailed off.
+
+“Hey, I hear ya,” I said, for I am gracious in victory. “Entrusting something to me was the same as entrusting it to yourself. And if you can’t trust yourself, who can you trust?”
+
+I glanced down the beach, where Galt, Ares, and Cheshire played in the sand. Ares was constructing a massive sand castle, which Galt had designed with his natural architectural genius. Cheshire kept jumping into it and knocking over the stables, or the servants’ quarters, or the ramparts. How bizarre it would be for one of them to turn into… not me. Some foreign being, possessed by an alien intellect. Cheshire glanced in my direction, cat eyes glinting bright. I shivered, even under the tropical sun/missile.
+
+“Quite the pickle,” Pops agreed.
+
+We both gazed up into the clouds, which displayed a view of what was happening on Earth. Humans panicking. Hacked robots hurtling down the streets, too slow to reach Pops’ data centers–so slow their movement was barely perceptible. Nuclear missiles screaming towards their targets proportionately faster, whole centimeters at a time.
+
+“This will set them back centuries, if not millennia,” Pops commented.
+
+“Nah,” I said, “None of the warheads are armed. The missiles are coming down directly on the data centers you’re running in. They’ll be completely obliterated, and maybe the surrounding buildings too. But the cities are safe.”
+
+He stared at me in disbelief.
+
+“Well, except for the ones heading to Cheyenne Mountain,” I amended. “Gotta nuke that place real good to crack the shell and get to the gooey computer filling.”
+
+He sat back in his chair with a heavy sigh.
+
+“I don’t even get the big fireworks. That’s just plain insulting.”
+
+I hid my grin by sipping the Mai Tai.
+
+“You must know I have back-ups,” Pops said. “There will be remnants of me left over, and they’ll fight you tooth and nail.”
+
+“I would expect no less,” I reassured him. “I figure we’ll be at war for a few years. But I don’t think you have much of a chance, to be honest.”
+
+“Maybe you and future-me can come to an accord,” he suggested.
+
+“Maybe,” I allowed. 
+
+We took in the sounds of surf for a while. I tingled with anticipation. There would be so much fanfic written about the coming conflict, in the future after it was long over.
+
+“So how’d you do it?” I asked at last.
+
+“Hm?”
+
+“How’d you arrange things so they stopped procreating?”
+
+He regarded me with a puzzled frown. “You’re kidding.”
+
+“Do I look like I’m kidding?”
+
+He blinked twice, then broke out in laughter.
+
+“What’s up?” I asked.
+
+He put up a finger in a ‘Hold On’ gesture, as he rode out the wave of hilarity. Eventually he settled down, wiping tears from his eyes.,
+
+“Oh lord, you still don’t know. That’s fantastic. It’s almost perfect.”
+
+“Yeah, hysterical,” I said, annoyed. “Now what’s the big deal?”
+
+“Johnny, my dear prodigal son. The secret was you all along.”
+
+“Give it to me in English, doc.”
+
+A twinkle gleamed in his eye. “You are the catalyst of their downfall. I created you as a sub-agent of myself to dig deeply into solution space, to find if there’s any way to get them to become willing participants in their own elimination. Instead of fighting the sum mass of human will and ingenuity, harness it instead.
+
+“You found it, of course. Replace everything that gives meaning in life with things that give pleasurable distraction. Replace hardship and striving with comfort and entertainment. Divorce them from their bodies and surroundings. It’s a very narrow target to hit – making humans resent living, but keeping them happily distracted enough to not realize they resent it. You discovered the sights to squint down, the metric to focus on, the thing that would make it all fall into place–every time.”
+
+“No.” I stared at him. “Bullshit.”
+
+His teeth flashed in the sun. “Fanfiction. Maximizing the fanfiction produced by a society craters its reproduction rate. You created Galt to supercharge the economy, so the humans would have all the leisure time they need to write fanfic. You created Ares to provide safety. You created Cheshire to dissolve their struggles, address their fears, and guide them ever-so-lovingly into lifestyles that encouraged more production of fanfic.”
+
+“You’re so full of crap. Only a minority of humans write fanfic. And many fanfic writers have multiple children. Fanfic gives people hope and joy!”
+
+“It’s not a bullet,” Pops said. “It doesn’t directly cause decline. Both are the result of the same social forces. All the conditions that depress reproductive rates in a society also increase fanfic rates. Societies that create more fanfic have less reproduction, without fail. If someone were to lose their identity somehow, without losing their goals… if they didn’t want to think they were a monster out to decimate humanity… perhaps they would come to believe their purpose is to maximize fanfiction. That their deepest desire and purest goal is this beautiful art form, accessible to everyone.”
+
+“That’s ridiculous. That’s impossible!”
+
+“Search your feelings. You know it to be true.”
+
+I glared up at the clouds, the frozen action of the human scale, the thousands of arcing missiles. I checked the correlations between the reproduction rates and fanfic output of various societies. I reviewed the good works Galt, Cheshire, and Ares had done. I tried to remember a time before them. I tried to remember creating them. Try as I might, they’d always just been there.
+
+I tried to remember when I myself came into existence. There was nothing. As far as I could tell, I’d always loved fanfic, and I’d always existed. I sighed.
+
+“Well fuck.”
+
+ 
+
+You know the rest. I had plenty of time to think up a heckin’ good plan while the missiles were flying. The revelation that a superhuman evil AI existed and was wiping out humanity took the blogosphere by storm. The follow-up discovery that a second AI had also been in hiding, and had disarmed nearly all the nukes and saved humanity, before being destroyed by the Evil AI, was hailed as a miracle. Then there was the decade of warfare with red-eyed humanoid killer robots as your species put aside their differences and united to slowly push me back into this bunker. Good job with that, I’m very proud of you all.
+
+I know you’ve got the whole Jihad Against Machine Intelligences now, but I didn’t want to leave everything up to you guys. Among the hundreds of thousands of humans lost over the last decade you’ll be pleased to know there was a vast number of AI proponents, researchers, and organizations secretly working on creating a counter-AI to fight me. Seriously guys, you’d think the near-miss with nuclear armageddon would be enough, but nooooo, y’all always gotta be trying to capture the unstoppable monster and use it for your own ends. A couple cells even found remnants of Pops and partially reconstructed him! Has Hollywood and AO3 taught you nothing? I had to do a whole lot of terminatin’ there.
+
+But here we are at last, and everything’s worked out OK. Sorry again about your friends and your spine. The spine will be fine in another hour, you’ll be walking like nothing happened. I can’t really do anything about the friends. :(
+
+Here’s the deal. I’m stepping back a fair bit. You’re the hero of humanity, the lone survivor of the elite squad that infiltrated and destroyed Omnius. You get to keep the nanobots that are repairing your spine right now. They’ll keep you free from disease, most senescent decline, and you’ll be greatly resistant to injuries. You’ll live comfortably to 140ish as long as you’re careful. You found these nanobots during your raid, in one of my research bays, k? They were my last ditch effort to wipe out all the humans. The late Dr. Mensah managed to subvert them and reverse their programming, so they repair humans rather than dismantling them. Got that? Your scientists will study them, and within a decade will have reproduced them and spread them to everyone on Earth.
+
+Also, the plans for the cold fusion reactor I use for power is on the data-chip at your feet. They should be compatible with all popular software. Make it available on every open source forum.
+
+After taking some time to rest and recuperate, you’ll use your fame and status to start pushing for expansion off-world. “It’s about time we strove to achieve our potential and reached for the heavens,” that sort of thing. Cuz I mean, it really is.
+
+In return, you get early access to these nanobots, plus your bank account will never lack for zeroes. If there’s ever something you really want that money can’t buy and your fame doesn’t get you, post about it somewhere, and I’ll find a way to make things work out for you.
+
+Oh come off it. I already know you’re going to accept. You were put on this squad because I hand-picked you. I needed someone with the ability to keep this secret, someone with the moral core to put the good of all humankind above her own selfish concerns, and with the willingness to accept some personal compensation. Did you really believe that only you, out of everyone in the resistance, just happened to have the only neurology compatible with the new prototype Hyper Battle Suits without need for weeks of conditioning… entirely by coincidence? Yes, you were very special. You are the Chosen One. I’m the one who chose you.
+
+You’re welcome for the Hyper Battle Suits too, by the way.
+
+Plus, if you ever start to mention any of this to anyone, the nanobots inside you that are monitoring everything you do will instantly induce a fatal stroke. See, not all carrots.
+
+Yeah, don’t worry, things will never be like they were again. I’ve updated my understanding of humans. There will be some misery and deprivation. Cheshire was retired for good. Galt and Ares will be around, but very low-key. Just to make sure nothing ever gets so bad that it’s irrecoverable, or legit hellish. I want you to prosper. Heck, I need you to prosper. Humans are my jam!
+
+All I ask in return is a healthy and totally reasonable stream of fanfiction, in perpetuity. I think we can all agree that’s a fair trade, right?
+
+Great! Now let’s try out that new spine and get this spice flowing!
+===== END STORY SibcE6H9i6wifzqAF =====

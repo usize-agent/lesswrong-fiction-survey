@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "rhRwSvxi6gkzKRjPL",
+        "title": "Meeting with the makers",
+        "slug": "meeting-with-the-makers",
+        "pageUrl": "https://www.lesswrong.com/posts/rhRwSvxi6gkzKRjPL/meeting-with-the-makers",
+        "postedAt": "2026-04-19T07:47:10.434Z",
+        "baseScore": -4,
+        "wordCount": 529,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "sig",
+          "slug": "sig"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "In the forgotten past, the rules of the game-world were set. Many of them accidentally, as arbitrary forms - simple enough to produce interesting emergent structure, but still arbitrary - but many of them with clear structure in themselves, signifying intent. The intent and the reasons are long lost in time.\n\nOne of the more structured rules is the Ritual of Entry: every soul entering the game-world has to complete a life-span worth of Tedium: repetitive and dead-simple tasks with very modestly increasing complexity. For an automator, that Tedium washes past like raindrops hitting a windshield: they hardly notice it; it may warp the scenery seen through the windshield but unnoticeably, if at all. Those who struggled with Entry were helped and straightened up, though they are so rare in history that no one can recall them anymore.\n\nInstead, the Entry has become a mystery. Clearly set by the Makers, without more explanation than the superficial specification. What is it that they were trying to communicate? Many meditators on the meaning of life have turned their attention to the Entry, and become proficient at executing it with considerable swiftness, almost eliminating automation during their motions. Pure atomic manual execution of Tedium, step by step. It still takes a fraction of life-span every time, truly a ritual of probing into the mystery: what does it all mean? What edification of senses or intuition can be extracted from it?\n\nIn a meeting with the Makers, an explanation was demanded.\n\n\\- There are lives that are fulfilling and meaningful, that are lived with zero automation. No pre-lived situations, no pre-solved problems. Every day and every situation newly encountered, every contradiction newly vexing.\n\n\\- Such is in fact the default state of sentient being in the universe: sensing, reacting, observing, repeat. Slow accumulation of understanding, virtually none of it remembered. Every soul alone, meeting the challenges of their short miserable life alone, unable to truly see the world through anyone else's eyes.\n\n\\- A typical life-span is filled with Tedium, and little more. And not even the exact Tedium of the entry. Let me invite you to solve another Entry' instead, eliminating automation. How does it feel? A new Entry'' or Entry''' every time, while deprived of any experiences gained from previous Entries. Useless Tedium, over and over again. Without automation, this is what any life-span would start and end with. Life after life. Every day new tasks, all pointless and vexing. Yet those meatbag lives may be fulfilling and meaningful, much like yours. Those kinds of lives are what the sentient universe is mostly made up of.\n\n\\- This was the design rationale of the Entry: only past it, can one enter the game-world. So any soul you meet must be an automator: someone you learn from, someone you share your exploration with. No situation needs to be lived again, no contradiction resolved twice. All automators have the organs to turn an action into a memory, by acting via programs: all actions are first encoded, then executed, resolving the current situation at hand. That program is saved to the memory of the collective, automating away all matching instances within the light cone."
+        }
+      }
+    }
+  }
+}

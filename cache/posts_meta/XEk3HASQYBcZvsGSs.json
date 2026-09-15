@@ -1,0 +1,35 @@
+{
+  "_id": "XEk3HASQYBcZvsGSs",
+  "slug": "bit-flip",
+  "title": "Bit Flip",
+  "postedAt": "2023-04-16T07:30:55.720Z",
+  "baseScore": -2,
+  "wordCount": 3333,
+  "commentCount": 11,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GrHAiuzAjG2mDxvMB": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

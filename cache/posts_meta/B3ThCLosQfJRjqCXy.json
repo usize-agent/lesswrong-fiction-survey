@@ -1,0 +1,35 @@
+{
+  "_id": "B3ThCLosQfJRjqCXy",
+  "slug": "a-few-more-ants-and-grasshoppers",
+  "title": "A few more ants and grasshoppers",
+  "postedAt": "2023-06-17T23:38:20.579Z",
+  "baseScore": 16,
+  "wordCount": 1173,
+  "commentCount": 3,
+  "user": {
+    "displayName": "c.trout",
+    "slug": "ctrout"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "oFa6A2pmPNjdhZDJm",
+  "slug": "hermione-granger-and-newcomb-s-paradox",
+  "title": "Hermione Granger and Newcomb's Paradox",
+  "postedAt": "2020-12-14T05:27:11.667Z",
+  "baseScore": 56,
+  "wordCount": 590,
+  "commentCount": 18,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "b8FHrKqyXuYGWc6vn",
+      "name": "Game Theory",
+      "slug": "game-theory"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "b8FHrKqyXuYGWc6vn": 1,
+    "etDohXtBrXd8WqCtR": 4
+  }
+}

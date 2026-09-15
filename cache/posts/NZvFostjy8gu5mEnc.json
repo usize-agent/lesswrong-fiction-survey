@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "NZvFostjy8gu5mEnc",
+        "title": "D&D.Sci(-Fi) June 2021: The Duel with Earwax",
+        "slug": "d-and-d-sci-fi-june-2021-the-duel-with-earwax",
+        "pageUrl": "https://www.lesswrong.com/posts/NZvFostjy8gu5mEnc/d-and-d-sci-fi-june-2021-the-duel-with-earwax",
+        "postedAt": "2021-06-22T11:48:44.718Z",
+        "baseScore": 26,
+        "wordCount": 819,
+        "commentCount": 28,
+        "noIndex": false,
+        "user": {
+          "displayName": "abstractapplic",
+          "slug": "abstractapplic"
+        },
+        "tags": [
+          {
+            "_id": "npoWi8AYpegPcSYcw",
+            "name": "D&D.Sci",
+            "slug": "d-and-d-sci"
+          },
+          {
+            "_id": "DWWZwkxTJs4d5WrcX",
+            "name": "Exercises / Problem-Sets",
+            "slug": "exercises-problem-sets"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "rtha3oEP5vzkvdbbD",
+            "name": "Games (posts describing)",
+            "slug": "games-posts-describing"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "DWWZwkxTJs4d5WrcX": 1,
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 1,
+          "npoWi8AYpegPcSYcw": 2,
+          "rtha3oEP5vzkvdbbD": 1
+        },
+        "contents": {
+          "markdown": "It is dark in the submarine, and Maria isn\u2019t ready.\n\nMaria isn\u2019t ready at *all*. Maria is in her usual post-battle fugue, disoriented, dissociated, checked-out, can\u2019t come to the phone right now. Sending her to fight in this condition would be both homicide and suicide; also, your boss wouldn\u2019t let you.\n\nJanelle, the backup pilot, is ready. That is, she\u2019s physically/psychologically/pneumatologically prepared to go toe-to-toe with a soul-eating monstrosity, throw Beta Resonance at it, and almost certainly die. But in the sense of having a >5% chance to successfully protect herself and her colleagues from the aforementioned soul consumption, Janelle is not ready.\n\nThere are four other viable volunteers: Amir, Corazon, Flint, and Will. None of these pseudo-under-understudies have so much as a double-digit number of missions under their belt, and none of them have ever faced an adversary half as strong as the one you\u2019re dealing with. In other words, they\u2019re not ready either.\n\nYou are Ratio Tile, a scientist working at the Sphere, a deep-sea research facility dedicated to studying mysterious \u2013 and frequently aggressive \u2013 accumulations of soul energy called heteropneums. *You* are ready. Or, at least, you\u2019d better be.\n\nThree hours ago, ace pilot Maria N. returned from heading off a possible attack, exorcising the offending heteropneum so swiftly and thoroughly that your superiors saw fit to posthumously assign it the official designation \u201cToast\u201d. Two hours ago, while Maria was still catatonic, a heteropneum previously considered benign (amplitude: 3.2 kCept, designation: \u201cEarwax\u201d) teleported onto the Sphere, flooding half of the base and injuring 21% of active personnel before dispersing. Sixteen minutes ago, sensor readings indicated that Earwax is reforming. Your communications are down, and there is no time to evacuate.\n\nDr. Cept was incapacitated in Earwax\u2019s first attack. Cecelia is on her annual visit to the surface, visiting friends and family, unaware of her colleagues\u2019 peril. In their absence, the decision of which pilot to send and which type of Resonance they should use falls to you and you alone.\n\nYour boss seems to think that you can use Soul Coherence Theory to choose the pilot/Resonance combination most likely to produce >3.2 kCept of Effective Field Strength and therefore save everyone. Unfortunately, Soul Coherence Theory straightforwardly predicts that you\u2019re almost certainly all going to die; though it also rules out such observed phenomena as Pseudo-Refraction, heteropneums with amplitudes over 4.92 kCept (no, Cept, the instruments are *not* \u2018potentially unreliable\u2019), and \u2013 topically \u2013 heteropneums vanishing and reappearing the way Earwax did. So instead, you\u2019re going to look at [the data for all fights thus far](https://raw.githubusercontent.com/H-B-P/d-and-d-sci-june/main/dset.csv) with fresh eyes, treating this as a pure analysis problem.\n\nThere is one other relevant factor. (Really, Ratio? You\u2019re pulling this *now*?) When a pilot overwhelms a heteropneum by generating an Effective Field Strength of more than double its amplitude, you get readings of much greater precision, and can use Branch-Loop Analysis to determine how much EFS *would* have been generated if the pilot had used a different Resonance. Earwax is exhibiting previously unseen behaviours and abilities; if you can not only defeat but dominate it, you just *know* that data will help you construct an alternative to Soul Coherence Theory. And this isn\u2019t (just) your (boundless, inappropriate, potentially lethal) curiosity talking: figuring out how this creature works could be key to protecting the Sphere against future attacks.\n\nYou are Ratio Tile. You have five possible pilots, seven known Resonances, one functioning submarine, and one chance. You are ready. Who will you send, and how will you have them fight?\n\n* * *\n\nNotes:\n\n*   This challenge is fanfiction of Nostalgebraist\u2019s [Floornight](https://archiveofourown.org/works/2372021?view_full_work=true), but having read it is unlikely to help you achieve your desired outcome.\n*   The change in genre is matched by some changes in my approach to data generation. I will not be telling you what they are.\n*   Your instruments have limited precision, but unerring accuracy. For example, since they say Earwax has an amplitude of 3.2 kCept, you can be 100% sure the true value is between 3.15 and 3.25 kCept; and since they say Janelle (would have) generated 2.02 kCept of amplitude from Alpha Resonance in her most recent fight, you can be 100% sure the true value is between 2.015 and 2.025 kCept.\n\n* * *\n\nI\u2019ll be posting an interactive letting you test your decision, along with an explanation of how I generated the dataset, sometime next Tuesday. I\u2019m giving you a week, but the task shouldn\u2019t take more than a few hours; use Excel, R, Python, the Summer Diary, or whatever other tools you think are appropriate. Let me know in the comments if you have any questions about the scenario.\n\nIf you want to investigate collaboratively and/or call your decisions in advance, feel free to do so in the comments; however, please use spoiler tags or rot13 when sharing inferences/strategies/decisions, so people intending to fly solo can look for clarifications without being spoiled. Please also spoiler or rot13 any Floornight plot points."
+        }
+      }
+    }
+  }
+}

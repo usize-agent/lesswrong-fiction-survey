@@ -1,0 +1,29 @@
+{
+  "_id": "igxS7re8nfihpbTo5",
+  "slug": "the-last-paperclip",
+  "title": "The Last Paperclip",
+  "postedAt": "2022-05-12T19:25:50.891Z",
+  "baseScore": 65,
+  "wordCount": 5294,
+  "commentCount": 15,
+  "user": {
+    "displayName": "Logan Zoellner",
+    "slug": "logan-zoellner"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 8,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

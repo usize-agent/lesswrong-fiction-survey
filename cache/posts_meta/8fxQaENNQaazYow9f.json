@@ -1,0 +1,35 @@
+{
+  "_id": "8fxQaENNQaazYow9f",
+  "slug": "the-oracle-s-gift",
+  "title": "The Oracle's Gift",
+  "postedAt": "2025-10-08T20:13:30.247Z",
+  "baseScore": 5,
+  "wordCount": 1006,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Karthik Tadepalli",
+    "slug": "karthik-tadepalli"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "grDZHm8y34H9C7uui",
+      "name": "Tacit Knowledge",
+      "slug": "tacit-knowledge"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "grDZHm8y34H9C7uui": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

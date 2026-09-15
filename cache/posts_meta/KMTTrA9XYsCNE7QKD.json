@@ -1,0 +1,23 @@
+{
+  "_id": "KMTTrA9XYsCNE7QKD",
+  "slug": "i",
+  "title": "I",
+  "postedAt": "2011-01-08T17:51:30.499Z",
+  "baseScore": 66,
+  "wordCount": 5639,
+  "commentCount": 38,
+  "user": {
+    "displayName": "PhilGoetz",
+    "slug": "philgoetz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 14
+  }
+}

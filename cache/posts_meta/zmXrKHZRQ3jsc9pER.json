@@ -1,0 +1,41 @@
+{
+  "_id": "zmXrKHZRQ3jsc9pER",
+  "slug": "the-genetics-of-space-amazons",
+  "title": "The Genetics of Space Amazons\n",
+  "postedAt": "2021-12-30T22:14:14.201Z",
+  "baseScore": 12,
+  "wordCount": 1500,
+  "commentCount": 12,
+  "user": {
+    "displayName": "Jan Christian Refsgaard",
+    "slug": "jan-christian-refsgaard"
+  },
+  "tags": [
+    {
+      "_id": "nZCb9BSnmXZXSNA2u",
+      "name": "Evolution",
+      "slug": "evolution"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "e9wHzopbGCAFwp9Rw",
+      "name": "Human Genetics",
+      "slug": "human-genetics"
+    },
+    {
+      "_id": "6nS8oYmSMuFMaiowF",
+      "name": "Logic & Mathematics ",
+      "slug": "logic-and-mathematics"
+    }
+  ],
+  "tagRelevance": {
+    "6nS8oYmSMuFMaiowF": 1,
+    "e9wHzopbGCAFwp9Rw": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "nZCb9BSnmXZXSNA2u": 1
+  }
+}

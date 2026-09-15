@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "o4RFp7rwfrn9bn6Lo",
+        "title": "Bayes' Theorem: In Search of Gold (Lesson 1)",
+        "slug": "bayes-theorem-in-search-of-gold-lesson-1",
+        "pageUrl": "https://www.lesswrong.com/posts/o4RFp7rwfrn9bn6Lo/bayes-theorem-in-search-of-gold-lesson-1",
+        "postedAt": "2024-06-28T08:39:16.638Z",
+        "baseScore": 3,
+        "wordCount": 811,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "bayesyatina",
+          "slug": "bayesyatina"
+        },
+        "tags": [
+          {
+            "_id": "LhX3F2SvGDarZCuh6",
+            "name": "Bayes' Theorem",
+            "slug": "bayes-theorem"
+          },
+          {
+            "_id": "4fxcbJ8xSv4SAYkkx",
+            "name": "Bayesianism",
+            "slug": "bayesianism"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "4fxcbJ8xSv4SAYkkx": 1,
+          "LhX3F2SvGDarZCuh6": 1,
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "*\\[This text is a translation, and my English may not be perfect. I would appreciate any suggestions for stylistic improvements\\]*\n\nThe fire crackled in the fireplace, while it was raining heavily outside the window. The young dwarves, soaked from the rain, were sitting in chairs around the older dwarf.\u00a0\n\nWelcome to the course \"Bayes' Theorem: In Search of Gold\" (started by an older dwarf standing in the center next to the board). My name is Tifius, and I will be your instructor for this practically useful theoretical course. The course is theoretical in that you will not be receiving gold at the end (there was a collective sigh from those closer to the window), but it is also practical in that it increases your chances of finding gold in the future.\n\nAs you all know, [any intelligent dwarf](https://en.wikipedia.org/wiki/No_true_Scotsman) wants to get closer to gold. Some of us become bankers, so that the shine of gold from the bank's vault will please them in the morning, instead of a cup of coffee. Others become jewellers, in order to hold gold more often in their hands. Those who really want to mine gold, go to mining schools like you.\n\nYou might have a question \"what about blacksmiths, this is a traditional dwarven profession\"? Unlike the students, perhaps you are not familiar with the life of Tifius.The teacher does not like blacksmiths, as one of them is rumored to have stolen his wife (although the teacher never had a wife himself). When Tifius [discovered dynamite](https://en.wikipedia.org/wiki/Alfred_Nobel) for gold mining and became very rich, he decided to establish a prize to encourage further discoveries in all areas of dwarf activity, except for blacksmithing.\n\nWhat is the most important aspect of gold mining? It is certainly not what is taught in other courses. Although there is still pickaxes and lanterns in your curriculum, it's crazy because we have been using diode lanterns and automated drilling rigs for a long time. Due to the fact that [advanced technology has become indistinguishable from magic](https://en.wikipedia.org/wiki/Clarke%27s_three_laws), many even believe that dwarves have overcome their inability to perform magic. However, this is not the most significant aspect of gold mining. The most important aspect is the ability to accurately predict where gold deposits can be found, rather than physical skills or knowledge of new technologies.\n\nHow does one learn to predict accurately? You might need to take courses in astrology, numerology, and other esoteric practices. However, I'm joking. Even in the world of magic, the most accurate predictors are often elven scientists. To obtain their power, you don't need to kill them or drink their blood, as some believe goblins do.\n\nIn general, any intelligent dwarf, before starting to do something, might ask: \"Have the Elven scientists come up with anything useful in this regard?\". Blacksmiths, however, do not usually resort to this approach, as they sincerely believe that a hammer will solve any problem. So, what is so special about the predictions of elves?\n\nEven the orcs make a lot of predictions, but the only problem is that they rarely come true. That's why orcs prefer to predict either about the past or something that can't be verified.\n\nThe elves have developed a clever way of thinking that allows them to focus on what is true. They call this method the scientific method, and it is written in a mystical and specialized language: the language of mathematics.\n\nThe elves have developed a clever system of thought that allows them to believe in ideas with good predictive power. They call this system the \"scientific method\". It is expressed in the most mysterious and esoteric language: the language of mathematics.\n\nThey say magic, built on this system, can make a [400-ton palace fly around the Earth](https://en.wikipedia.org/wiki/International_Space_Station), or enchant particles to fly through a [thirty-kilometer ring](https://en.wikipedia.org/wiki/Large_Hadron_Collider) ten thousand times per second. This is not the calculations of the orcs on the aerodynamics of a kicked leprechaun.\n\nAnd so, the elves discovered a way to make predictions that would [always be no worse than those of others](https://en.wikipedia.org/wiki/Abraham_Wald) (so that you could not envy the decisions of any other dwarf). In order to systematically find more gold, all you need to do is understand Bayes' theorem. However, it's not as simple as that. Firstly, it is expressed in the language of mathematics, and most dwarfs only have a basic understanding of arithmetic or at most, they can read and translate. Secondly, understanding the mathematical underpinnings does not immediately provide an intuitive understanding of how it will allow you to find more gold.\n\nThe course is designed to solve both problems, and as a bonus, you will gain an understanding of how to ideally update your beliefs in order to minimize the number of times the world surprises you. In the next lesson, we will discuss how this mysterious process works.\n\nSee you in the next class!"
+        }
+      }
+    }
+  }
+}

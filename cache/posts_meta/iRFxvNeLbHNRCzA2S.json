@@ -1,0 +1,47 @@
+{
+  "_id": "iRFxvNeLbHNRCzA2S",
+  "slug": "a-friendly-face-another-failure-story",
+  "title": "A Friendly Face (Another Failure Story)",
+  "postedAt": "2023-06-20T10:31:24.655Z",
+  "baseScore": 65,
+  "wordCount": 4869,
+  "commentCount": 21,
+  "user": {
+    "displayName": "Karl von Wendt",
+    "slug": "karl-von-wendt"
+  },
+  "tags": [
+    {
+      "_id": "ZFrgTgzwEfStg26JL",
+      "name": "AI Risk",
+      "slug": "ai-risk"
+    },
+    {
+      "_id": "qDvaStt6c3KuqLr2P",
+      "name": "AI Safety Camp",
+      "slug": "ai-safety-camp"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "JX69nZB8tfxnx5nGH",
+      "name": "Threat Models (AI)",
+      "slug": "threat-models-ai"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "JX69nZB8tfxnx5nGH": 1,
+    "ZFrgTgzwEfStg26JL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "qDvaStt6c3KuqLr2P": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

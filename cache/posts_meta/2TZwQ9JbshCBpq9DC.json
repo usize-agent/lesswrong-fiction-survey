@@ -1,0 +1,29 @@
+{
+  "_id": "2TZwQ9JbshCBpq9DC",
+  "slug": "a-tentative-dialogue-with-a-friendly-boxed-super-agi-on",
+  "title": "A tentative dialogue with a Friendly-boxed-super-AGI on brain uploads",
+  "postedAt": "2022-05-12T19:40:48.113Z",
+  "baseScore": 1,
+  "wordCount": 1065,
+  "commentCount": 12,
+  "user": {
+    "displayName": "Ramiro P.",
+    "slug": "ramiro-p"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

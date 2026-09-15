@@ -1,0 +1,35 @@
+{
+  "_id": "fMpQCnq47cY4DRb7K",
+  "slug": "ascension",
+  "title": "Ascension",
+  "postedAt": "2023-09-24T17:35:34.370Z",
+  "baseScore": 1,
+  "wordCount": 1377,
+  "commentCount": 0,
+  "user": {
+    "displayName": "nullonesix",
+    "slug": "nullonesix"
+  },
+  "tags": [
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "CztjQPSTuaQcfbyh8",
+      "name": "Singularity",
+      "slug": "singularity"
+    }
+  ],
+  "tagRelevance": {
+    "CztjQPSTuaQcfbyh8": 1,
+    "XSryTypw5Hszpa4TS": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

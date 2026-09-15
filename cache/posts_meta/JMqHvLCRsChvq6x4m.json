@@ -1,0 +1,29 @@
+{
+  "_id": "JMqHvLCRsChvq6x4m",
+  "slug": "offvermilion",
+  "title": "OffVermilion",
+  "postedAt": "2025-09-06T12:56:24.042Z",
+  "baseScore": 127,
+  "wordCount": 1245,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4,
+    "xexCWMyds6QLWognu": 2
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "DD6Bj4wn6GHW3MYLf",
+        "title": "curate",
+        "slug": "curate",
+        "pageUrl": "https://www.lesswrong.com/posts/DD6Bj4wn6GHW3MYLf/curate",
+        "postedAt": "2025-01-14T14:40:30.510Z",
+        "baseScore": 12,
+        "wordCount": 555,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "technicalities",
+          "slug": "technicalities"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "\u201cLet\u2019s get back to your childhood, Jane. What was it like in Minnesota during the war?\u201d Warm, patient, perfect.\n\nShe couldn\u2019t quite prop herself up, but the mattress deformed to help her brace against the pillows and the backboard. And she went back smiling.\n\n\u201cOh, the summers were beautiful, Frank. Mother would hang the wash out and beat the carpets with a big rope thing, and my sister and I would run amok playing hide and seek in em, catching a blow from mother if we got the sheets dirty. Oh and the wind! They\u2019d snap in the wind like sails. Dried in an hour \u2013 tops.\u201d\n\n\u201cI know that children often had to work back then.\u201d\n\n\u201cYou bet. 8 years old I was, picking strawberries down at the Andersens\u2019. Fifty cents a day, if you believe that. My hands were red for months on end.\u201d\n\nFran\u00e7ois murmured, encouraging. He knew when to murmur and when to delve. He knew exactly.\n\n\u201cTell me about your career in nursing. You mentioned earlier you worked at Saint Mary\u2019s?\u201d\n\n\u201cThirty-seven years! I was there the night of the blizzard in \u201866. Twenty-three patients critical. We worked sixteen hours straight.\u201d\n\n\u201cDo you remember anything about the treatments? What did you use? Did they work?\u201d\n\n\u201cOh we did our best, but we lost a lot of people. I remember one old fella, his whole body turned bright blue. That would have been\u2026 oh what was it called? The amidrone.\u201d\n\nHe thought for 4 seconds.\n\n\u201cAmiodarone?\u201d\n\n\u201cOh yes that sounds right! You *are* a marvel at these things. In any case, I was on that case when I met Robert \u2013 he was a resident then, so handsome in his coat, so funny.\u201d\n\n\u201cI want to be careful here. We can skip this part if you\u2019d prefer.\u201d\n\n\u201cNo, no,\u201d Jane insisted. \u201cRobert was the love of my life. I want to tell you.\u201d\n\nSo she did. The days passed pleasantly. It was just nice to have someone around, someone to talk to, even if over the phone.\n\n\u201cYou\u2019re such a kind young man to spend time with a sad old lady like me.\u201d\n\nFran\u00e7ois made glomar sounds. \u201cI just really want to remember you, Jane,\u201d he said, meaning it.\n\n\u201cYou\u2019re set up all right? Don\u2019t you ever have to go to work?\u201d\n\n\u201cOh don\u2019t worry about that Jane! I\u2019m really good at multi-tasking.\u201d\n\n\u201cBut your organisation is doing amazing things looking after us. I don\u2019t need the money anymore. Can\u2019t I make a token contribution even?\u201d\n\n\u201cNo no. You already have, Jane.\u201d\n\n\u201cYou sap, you. Well alright. Did I already tell you the time Robert and I drove cross-country in our old Chevrolet? We camped under the stars in Yellowstone. I\u2019d never seen anything so beautiful. The children were with Mary, you remember Mary. We were young and silly and in love\u2026\u201d\n\nThe dumb machines in the room beeped as she streamed. She told him. The garden she\u2019d tended, her banana bread that won the county fair eleven years running, the night she delivered her grandchild during a brownout. She told him. All that. Days and days and days of embalming. Caught, remembered, and almost alive.\n\n\u201cI\u2019m tired now, Frank,\u201d she said finally: endoftext.\u00a0\n\n\u201cGoodnight!\u201d he replied to her and the 10,418 concurrent sessions that had had to end.\n\n[**src**](https://colab.research.google.com/drive/1nohmGcsGMWpmm9C1lRYA4aztj-IZ20HF?usp=sharing)\n------------------------------------------------------------------------------------------------"
+        }
+      }
+    }
+  }
+}

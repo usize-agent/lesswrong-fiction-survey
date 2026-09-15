@@ -1,0 +1,35 @@
+{
+  "_id": "zezmMfc6P3wpM3o4t",
+  "slug": "fiction-our-final-hour",
+  "title": "[fiction] Our Final Hour",
+  "postedAt": "2022-12-11T05:49:01.489Z",
+  "baseScore": 33,
+  "wordCount": 767,
+  "commentCount": 6,
+  "user": {
+    "displayName": "Mati_Roy",
+    "slug": "mathieuroy"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb178",
+      "name": "Artificial General Intelligence (AGI)",
+      "slug": "artificial-general-intelligence-agi"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 9,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "5f5c37ee1b5cdee568cfb178": 2
+  }
+}

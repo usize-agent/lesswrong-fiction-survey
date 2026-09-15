@@ -1,0 +1,29 @@
+{
+  "_id": "hQxYBfu2LPc9Ydo6w",
+  "slug": "the-parable-of-the-dagger",
+  "title": "The Parable of the Dagger",
+  "postedAt": "2008-02-01T20:53:05.000Z",
+  "baseScore": 251,
+  "wordCount": 386,
+  "commentCount": 105,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "FtT2T9bRbECCGYxrL",
+      "name": "Philosophy of Language",
+      "slug": "philosophy-of-language"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "FtT2T9bRbECCGYxrL": 3
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "gpgMe4zsrT5gL6BcA",
+        "title": "Bayeswatch 4: Mousetrap",
+        "slug": "bayeswatch-4-mousetrap",
+        "pageUrl": "https://www.lesswrong.com/posts/gpgMe4zsrT5gL6BcA/bayeswatch-4-mousetrap",
+        "postedAt": "2021-05-19T03:17:41.423Z",
+        "baseScore": 57,
+        "wordCount": 912,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "Miriam chucked the replica *Salvator Mundi* into the bonfire.\n\n\"We do a lot of shooting first and asking questions never,\" said Vi.\n\n\"Personnel are expensive. AIs are replaceable. We have standard operating procedures. It wasn't always this way. AIs used to be rare. Knowledge was precious in those early days. We didn't know what the machines could and couldn't do,\" said Miriam.\n\n\"You were a founder of Bayeswatch?\" said Vi.\n\n\"I am not that old,\" said Miriam.\n\nMiriam paused the holocaust for a moment to examine an oil painting of a vampire chained to a solar execution chamber. She tossed it into the fire.\n\n\"They had yet to standardize the architectures back then. There were overhangs all over the place. Using explicit error-entropy functions wasn't even standard industry practice. Instead they just used the implicit priors of whatever architecture got results quickly,\" said Miriam.\n\n\"That's like making gunpowder without atomic theory,\" said Vi.\n\n\"Or medicine without chemistry. Those early machines were\u2026\" Miriam trailed off.\n\nVi tossed a painting of a dodo tree into the fire.\n\n\"One of my first missions\u2026it was my mentor's last. We were dispatched to explore a small compound with signs of unaligned activity,\" said Miriam.\n\n\"That's suicide. What was command thinking?\" said Vi.\n\n\"It was the early days. Singularity breakout could have been just around the corner,\" said Miriam.\n\n\"But drones\u2014\" said Vi.\n\n\"Software back then was written by human beings. It had more security holes than features. Sending a drone to investigate a misaligned AI was like sending a set of lockpicks to investigate a whether a magician has broken out of his cell,\" said Miriam.\n\nMiriam wore lots of foundation and concealer on her face. Vi wondered how many scars it covered up.\n\n\"We investigated a compound in the mountains of California. Kind of reminded me of *Ex Machina*,\" said Miriam.\n\n\"Was it owned by a billionaire?\" said Vi.\n\n\"In your dreams. You read too many romance novels. The guy wasn't not-rich. He was an early employee of a moderately-successful software startup. I guess he built the error-entropy minimizer himself. To this day I am unsure what the thing was supposed to do. It was dead by the time we showed up,\" said Miriam.\n\n\"Dead?\" said Vi.\n\n\"Poetic license. My point is we weren't dealing with an active threat. The inventor turned on his machine. It carried out its mission. It turned itself off. The end,\" said Miriam.\n\n\"There's obviously more to it. Otherwise you wouldn't be telling me this story,\" said Vi.\n\n\"We did passive scans. No sound or electric activity. The compound had been built around a courtyard. We entered the courtyard by climbing over the compound wall,\" said Miriam.\n\nVi had long since stopped noticing the works of art. Her hands continued on autopilot.\n\n\"The courtyard had been\u2026. Here. Let me show you a picture,\" said Miriam.\n\nMiriam handed her phone to Vi. The photo was poor quality. It had been taken from a cell phone camera.\n\n\"What is that?\" said Vi.\n\nThe photo looked fake. It was like a Zen garden grown out of 3D-printed crystals. Plants had once formed part of the fractal but they had subsequently misbehaved. The original vision lingered only in the inorganic bits. Vi identified hints of higher-order patterns but most of the symmetries lurked beyond her conscious comprehension.\n\nVi had dated a grad student studying physics. His professor once allowed him a single index card full of handwritten equations to use on test. He packed the index card with equations and diagrams so concise they were almost encrypted. The garden reminded Vi of that index card.\n\n\"It's the most beautiful thing I've ever seen,\" said Vi.\n\nMiriam nodded.\n\n\"Why don't we make AI art like that anymore?\" said Vi. She threw a knockoff Picasso into the fire.\n\nMiriam laughed. \"It's like the crested black macaque selfie. Humans never made it in the first place.\"\n\n\"Ah. I see. After the error-entropy machine completed its task it set about optimizing its environment to conform to its sense of beauty. But can't we deliberately program a machine to do that? It's not like the technology has disappeared,\" said Vi.\n\n\"We can't copy it exactly because the machine erased its own source code. But that garden came from a very particular configuration of good priors and resource constraints. Good priors are dangerous. Priors that good\u2026we're lucky it didn't turn the universe into paperclips,\" said Miriam.\n\n\"Great art comes from tortured people. Torturing a superintelligence is dangerous,\" said Vi.\n\n\"You can't torture an AI,\" said Miriam.\n\n\"Poetic license. Besides, good artists are sadists. It's hard to make an AI both safe and sadistic at the same time. You also can't give it real world resource constraints in a simulation,\" said Vi.\n\n\"Bayeswatch is expensive. Our tools cost money. Agents die in the line of duty. There is collateral damage. But the greatest casualty of regulation is novel machines. If that AI was built today it would be decommissioned before it got to optimize its environment,\" said Miriam.\n\n\"Did you find anything else in the compound?\" said Vi.\n\n\"A few deactivated robots. A server rack overwritten with random data. The corpse of the engineer. I think he died of natural causes. We left through the front door. Well, we tried to. As we opened it an M18A1 Claymore anti-personnel mine activated. My mentor took the brunt of the blast,\" said Miriam.\n\n\"Why did the AI want to kill you?\" said Vi.\n\n\"It didn't care about us. It set up the booby trap to protect the garden while it was under construction. When the garden was finished it just didn't bother to disable it,\" said Miriam.\n\nVi's hands stopped. There were no more paintings to destroy.\n"
+        }
+      }
+    }
+  }
+}

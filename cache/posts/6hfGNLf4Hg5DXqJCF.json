@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "6hfGNLf4Hg5DXqJCF",
+        "title": "A Fable of Science and Politics",
+        "slug": "a-fable-of-science-and-politics",
+        "pageUrl": "https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics",
+        "postedAt": "2006-12-23T04:50:47.000Z",
+        "baseScore": 399,
+        "wordCount": 1570,
+        "commentCount": 102,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "kdbs6xBndPkmrYAxM",
+            "name": "Politics",
+            "slug": "politics"
+          },
+          {
+            "_id": "BtQRRKTPxagBH6KrG",
+            "name": "Blues & Greens (metaphor)",
+            "slug": "blues-and-greens-metaphor"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "DdgSyQoZXjj3KnF4N",
+            "name": "Tribalism",
+            "slug": "tribalism"
+          },
+          {
+            "_id": "E6qP9r9xxM4LCxaFk",
+            "name": "Litany of Tarski",
+            "slug": "litany-of-tarski"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "BtQRRKTPxagBH6KrG": 11,
+          "DdgSyQoZXjj3KnF4N": 3,
+          "E6qP9r9xxM4LCxaFk": 1,
+          "F2XfCTxXLQBGjbm8P": 3,
+          "Ng8Gice9KNkncxqcj": 3,
+          "etDohXtBrXd8WqCtR": 6,
+          "kdbs6xBndPkmrYAxM": 13
+        },
+        "contents": {
+          "markdown": "In the time of the Roman Empire, civic life was divided between the Blue and Green factions. The Blues and the Greens murdered each other in single combats, in ambushes, in group battles, in riots. Procopius said of the warring factions: \u201cSo there grows up in them against their fellow men a hostility which has no cause, and at no time does it cease or disappear, for it gives place neither to the ties of marriage nor of relationship nor of friendship, and the case is the same even though those who differ with respect to these colors be brothers or any other kin.\u201d^1^ Edward Gibbon wrote: \u201cThe support of a faction became necessary to every candidate for civil or ecclesiastical honors.\u201d^2^\n\nWho were the Blues and the Greens? They were sports fans\u2014the partisans of the blue and green chariot-racing teams.\n\nImagine a future society that flees into a vast underground network of caverns and seals the entrances. We shall not specify whether they flee disease, war, or radiation; we shall suppose the first Undergrounders manage to grow food, find water, recycle air, make light, and survive, and that their descendants thrive and eventually form cities. Of the world above, there are only legends written on scraps of paper; and one of these scraps of paper describes the *sky*, a vast open space of air above a great unbounded floor. The sky is cerulean in color, and contains strange floating objects like enormous tufts of white cotton. But the meaning of the word \u201ccerulean\u201d is controversial; some say that it refers to the color known as \u201cblue,\u201d and others that it refers to the color known as \u201cgreen.\u201d\n\nIn the early days of the underground society, the Blues and Greens contested with open violence; but today, truce prevails\u2014a peace born of a growing sense of pointlessness. Cultural mores have changed; there is a large and prosperous middle class that has grown up with effective law enforcement and become unaccustomed to violence. The schools provide some sense of historical perspective; how long the battle between Blues and Greens continued, how many died, how little changed as a result. Minds have been laid open to the strange new philosophy that people are people, whether they be Blue or Green.\n\nThe conflict has not vanished. Society is still divided along Blue and Green lines, and there is a \u201cBlue\u201d and a \u201cGreen\u201d position on almost every contemporary issue of political or cultural importance. The Blues advocate taxes on individual incomes, the Greens advocate taxes on merchant sales; the Blues advocate stricter marriage laws, while the Greens wish to make it easier to obtain divorces; the Blues take their support from the heart of city areas, while the more distant farmers and watersellers tend to be Green; the Blues believe that the Earth is a huge spherical rock at the center of the universe, the Greens that it is a huge flat rock circling some other object called a Sun. Not every Blue or every Green citizen takes the \u201cBlue\u201d or \u201cGreen\u201d position on every issue, but it would be rare to find a city merchant who believed\u00a0the sky was blue, and yet advocated an individual tax and freer marriage laws.\n\nThe Underground is still polarized; an uneasy peace. A few folk genuinely think that Blues and Greens should be friends, and it is now common for a Green to patronize a Blue shop, or for a Blue to visit a Green tavern. Yet from a truce originally born of exhaustion, there is a quietly growing spirit of tolerance, even friendship.\n\nOne day, the Underground is shaken by a minor earthquake. A sightseeing party of six is caught in the tremblor while looking at the ruins of ancient dwellings in the upper caverns. They feel the brief movement of the rock under their feet, and one of the tourists trips and scrapes her knee. The party decides to turn back, fearing further earthquakes. On their way back, one person catches a whiff of something strange in the air, a scent coming from a long-unused passageway. Ignoring the well-meant cautions of fellow travellers, the person borrows a powered lantern and walks into the passageway. The stone corridor wends upward . . . and upward . . . and finally terminates in a hole carved out of the world, a place where all stone ends. Distance, endless distance, stretches away into forever; a gathering space to hold a thousand cities. Unimaginably far above, too bright to look at directly, a searing spark casts light over all visible space, the naked filament of some huge light bulb. In the air, hanging unsupported, are great incomprehensible tufts of white cotton. And the vast glowing ceiling above . . . the *color* . . . is . . .\n\nNow history branches, depending on which member of the sightseeing party decided to follow the corridor to the surface.\n\n> Aditya the Blue stood under the blue forever, and slowly smiled. It was not a pleasant smile. There was hatred, and wounded pride; it recalled every argument she\u2019d ever had with a Green, every rivalry, every contested promotion. *\u201cYou were right all along,\u201d* the sky whispered down at her, *\u201cand now you can prove it.\u201d* For a moment Aditya stood there, absorbing the message, glorying in it, and then she turned back to the stone corridor to tell the world. As Aditya walked, she curled her hand into a clenched fist. \u201cThe truce,\u201d she said, \u201cis over.\u201d\n\n> Barron the Green stared uncomprehendingly at the chaos of colors for long seconds. Understanding, when it came, drove a pile-driver punch into the pit of his stomach. Tears started from his eyes. Barron thought of the Massacre of Cathay, where a Blue army had massacred every citizen of a Green town, including children; he thought of the ancient Blue general, Annas Rell, who had declared Greens \u201ca pit of disease; a pestilence to be cleansed\u201d; he thought\u00a0of the glints of hatred he\u2019d seen in Blue eyes and something inside him cracked. *\u201cHow can you be on their side?\u201d* Barron screamed at the sky, and then he began to weep; because he knew, standing under the malevolent blue glare, that the universe had always been a place of evil.\n\n> Charles the Blue considered the blue ceiling, taken aback. As a professor in a mixed college, Charles had carefully emphasized that Blue and Green viewpoints were equally valid and deserving of tolerance: The sky was a metaphysical construct, and cerulean a color that could be seen in more than one way. Briefly, Charles wondered whether a Green, standing in this place, might not see a green ceiling above; or if perhaps the ceiling would be green at this time tomorrow; but he couldn\u2019t stake the continued survival of civilization on that. This was merely a natural phenomenon of some kind, having nothing to do with moral philosophy or society . . . but one that might be readily misinterpreted, Charles feared. Charles sighed, and turned to go back into the corridor. Tomorrow he would come back alone and block off the passageway.\n\n> Daria, once Green, tried to breathe amid the ashes of her world. *I will not flinch*, Daria told herself, *I will not look away*. She had been Green all her life, and now she must be Blue. Her friends, her family, would turn from her. *Speak the truth, even if your voice trembles,* her father had told her; but her father was dead now, and her mother would never understand. Daria stared down the calm blue gaze of the sky, trying to accept it, and finally her breathing quietened. *I was wrong*, she said to herself mournfully; *it\u2019s not so complicated, after all*. She would find new friends, and perhaps her family would forgive her . . . or, she wondered with a tinge of hope, rise to this same test, standing underneath this same sky? \u201cThe sky is blue,\u201d Daria said experimentally, and nothing dire happened to her; but she couldn\u2019t bring herself to smile. Daria the Blue exhaled sadly, and went back into the world, wondering what she would say.\n\n> Eddin, a Green, looked up at the blue sky and began to laugh cynically. The course of his world\u2019s history came clear at last; even he couldn\u2019t believe they\u2019d been such fools. \u201cStupid,\u201d Eddin said, \u201cstupid,\u00a0*stupid,* and all the time it was right here.\u201d Hatred, murders, wars, and all along it was just a *thing* somewhere, that someone had written about like they\u2019d write about any other thing. No poetry, no beauty, nothing that any sane person would ever care about,\u00a0just one pointless thing that had been blown out of all proportion. Eddin leaned against the cave mouth wearily, trying to think of a way to prevent this information from blowing up the world, and wondering if they didn\u2019t all deserve it.\n\n> Ferris gasped involuntarily, frozen by sheer wonder and delight. Ferris\u2019s eyes darted hungrily about, fastening on each sight in turn before moving reluctantly to the next; the blue\u00a0*sky*, the white *clouds*, the vast unknown *outside*, full of places and things (and people?) that no Undergrounder had ever seen. \u201cOh, so *that\u2019s* what color it is,\u201d Ferris said, and went exploring.\n\n* * *\n\n^1^ Procopius, *History of the Wars*, ed. Henry B. Dewing, vol. 1 (Harvard University Press, 1914).\n\n^2^ Edward Gibbon, *The History of the Decline and Fall of the Roman Empire*, vol. 4 (J. & J. Harper, 1829)."
+        }
+      }
+    }
+  }
+}

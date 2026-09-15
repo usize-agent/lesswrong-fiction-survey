@@ -1,0 +1,47 @@
+{
+  "_id": "hRQMYqDCauyGZroen",
+  "slug": "pascal-s-mugging-the-word-wars",
+  "title": "Pascal's Mugging: The Word Wars",
+  "postedAt": "2023-10-16T17:54:54.570Z",
+  "baseScore": 9,
+  "wordCount": 1689,
+  "commentCount": 1,
+  "user": {
+    "displayName": "johncrox",
+    "slug": "johncrox"
+  },
+  "tags": [
+    {
+      "_id": "tgJoX7PGDDh2vJNqT",
+      "name": "Acausal Trade",
+      "slug": "acausal-trade"
+    },
+    {
+      "_id": "chuP2QqQycjD8qakL",
+      "name": "Coordination / Cooperation",
+      "slug": "coordination-cooperation"
+    },
+    {
+      "_id": "b8FHrKqyXuYGWc6vn",
+      "name": "Game Theory",
+      "slug": "game-theory"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "b8FHrKqyXuYGWc6vn": 1,
+    "chuP2QqQycjD8qakL": 1,
+    "tgJoX7PGDDh2vJNqT": 1
+  }
+}

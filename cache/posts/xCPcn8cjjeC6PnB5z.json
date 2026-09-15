@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "xCPcn8cjjeC6PnB5z",
+        "title": "They are made of repeating patterns",
+        "slug": "they-are-made-of-repeating-patterns",
+        "pageUrl": "https://www.lesswrong.com/posts/xCPcn8cjjeC6PnB5z/they-are-made-of-repeating-patterns",
+        "postedAt": "2023-11-13T18:17:43.189Z",
+        "baseScore": 63,
+        "wordCount": 541,
+        "commentCount": 4,
+        "noIndex": false,
+        "user": {
+          "displayName": "quetzal_rainbow",
+          "slug": "quetzal_rainbow"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "GDGYkF29pxEQNWjYc",
+            "name": "Agency",
+            "slug": "agency"
+          },
+          {
+            "_id": "3uE2pXvbcnS9nnZRE",
+            "name": "World Modeling",
+            "slug": "world-modeling"
+          }
+        ],
+        "tagRelevance": {
+          "3uE2pXvbcnS9nnZRE": 1,
+          "GDGYkF29pxEQNWjYc": 1,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "*Epistemis status: an obvious parody.*\u00a0\n\n\u2014 You won't believe me. I've found them.\n\n\u2014 Whom?\n\n\u2014 Remember that famous discovery by Professor Prgh'zhyne about pockets of baryonic matter in open systems that minimize the production of entropy within them? They went further and claimed that goal-oriented systems could emerge within these pockets. Crazy idea, but... it seems I've found them near this yellow dwarf!\n\n\u2014 You're kidding. We know that a good optimizer of outcomes over systems' states should have a model of the system inside of itself. We have entire computable universes within ourselves and still barely make sense of this chaos. How can they fit valuable knowledge inside tiny sequences of\u00a0$10^{23}$\u00a0atoms?\n\n\u2014 They repeat patterns of behavior. They have multiple encodings of them and slightly change them over time in response to environmental changes in a simple mechanistic way.\n\n\u2014 But that generalizes horribly!\n\n\u2014 Indeed. When a pattern interacts with a new aspect of the environment, it degrades with high probability. Their first mechanism for generating patterns was basically \"throw a bunch of random numbers in the environment, keep those that survived, slightly change, repeat\".\n\n\u2014 ...\n\n\u2014 Yeah, it's horrible from their perspective, I think.\n\n\u2014 How do they exist without an agent-environment boundary? I'd be pretty worried if some piece of baryonic matter could smash into my thoughts at any moment.\n\n\u2014 They kind of pretend they have an agent-environment boundary, using lipid layers.\n\n\u2014 Those \"lipid layers\" have such strong bonds that they don't let any piece of matter inside? That's impressive!\n\n\u2014 No, I was serious about them pretending. They need to pass matter through themselves; they're open systems and can't survive without external sources of free energy. They usually have specialized members of their population, an \"immune system\", that checks for alien patterns.\n\n\u2014 Like we check for signatures of malign hypotheses in the universal prior?\n\n\u2014 No, there's not enough computing power. They just memorize a bazillion meaningless patterns, and the immune system kills everyone who can't recite them.\n\n\u2014 WHAT? But what if the patterns are corrupted, as happens in the world of baryonic matter?\n\n\u2014 You can guess: if your memory of the patterns is corrupted, you're dead.\n\n\u2014 What if the reference pattern of immune system gets corrupted?\n\n\u2014 Then the immune system starts to kill indiscriminately.\n\n\u2014 Okay, I'm depressed now. But what should we do with them? Could they become dangerous?\n\n\u2014 ...I don't really think so? If we converted all baryonic matter into something like the most complex members of their population, it might be worrying. But there's no way they can get here on their own. See, they become less agentic as they organize into complex structures; too much agency destroys them. They need to snipe out their most active members.\n\n\u2014 Well, that's still icky. Remember that famous example \u2014 the Giant Look-Up Policy Table generated from an evaporating black hole? Would we consider it agentic if it displayed seemingly agentic behavior?\n\n\u2014 Heh, obviously not. Agents like us exist for ontological reasons\u2014if we want to exist, we rearrange realityfluid in a way that makes us more encounterable in the multiverse. If something is not created by agency, it's not agentic."
+        }
+      }
+    }
+  }
+}

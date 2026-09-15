@@ -1,0 +1,29 @@
+{
+  "_id": "JBErodNEzM5xwqPdY",
+  "slug": "tinker",
+  "title": "Tinker",
+  "postedAt": "2024-04-16T18:26:38.679Z",
+  "baseScore": 39,
+  "wordCount": 10,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

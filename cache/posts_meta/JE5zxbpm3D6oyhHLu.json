@@ -1,0 +1,47 @@
+{
+  "_id": "JE5zxbpm3D6oyhHLu",
+  "slug": "fiction-the-noise-floor",
+  "title": "[Fiction] The Noise Floor",
+  "postedAt": "2026-02-13T19:11:22.422Z",
+  "baseScore": -4,
+  "wordCount": 2939,
+  "commentCount": 0,
+  "user": {
+    "displayName": "barber5il",
+    "slug": "barber5il"
+  },
+  "tags": [
+    {
+      "_id": "gjAqazn7JTsG4CAbt",
+      "name": "Egregores",
+      "slug": "egregores"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "GBpwq8cWvaeRoE9X5",
+      "name": "Fiction (Topic)",
+      "slug": "fiction-topic"
+    },
+    {
+      "_id": "25oxqHiadqM6Hf7Gn",
+      "name": "Great Filter",
+      "slug": "great-filter"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "25oxqHiadqM6Hf7Gn": 1,
+    "3uE2pXvbcnS9nnZRE": 1,
+    "GBpwq8cWvaeRoE9X5": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "gjAqazn7JTsG4CAbt": 1
+  }
+}

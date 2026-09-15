@@ -1,0 +1,29 @@
+{
+  "_id": "7Nxh94GeRgrLKAYCw",
+  "slug": "the-eve-of-gentle-singularity-a-short-story-1",
+  "title": "The Eve of Gentle Singularity: A Short Story",
+  "postedAt": "2026-04-01T08:21:58.845Z",
+  "baseScore": 24,
+  "wordCount": 1286,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Ihor Kendiukhov",
+    "slug": "ihor-kendiukhov-1"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

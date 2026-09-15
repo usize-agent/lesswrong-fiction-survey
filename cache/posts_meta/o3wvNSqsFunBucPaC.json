@@ -1,0 +1,35 @@
+{
+  "_id": "o3wvNSqsFunBucPaC",
+  "slug": "spherical-cow",
+  "title": "Spherical cow",
+  "postedAt": "2024-11-11T03:10:27.788Z",
+  "baseScore": 7,
+  "wordCount": 249,
+  "commentCount": 0,
+  "user": {
+    "displayName": "dkl9",
+    "slug": "dkl9"
+  },
+  "tags": [
+    {
+      "_id": "xv7Bg5fbF9WppYREi",
+      "name": "Buddhism",
+      "slug": "buddhism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "xv7Bg5fbF9WppYREi": 1
+  }
+}

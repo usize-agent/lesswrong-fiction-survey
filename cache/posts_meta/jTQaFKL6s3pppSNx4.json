@@ -1,0 +1,41 @@
+{
+  "_id": "jTQaFKL6s3pppSNx4",
+  "slug": "god-and-moses-have-a-chat",
+  "title": "God and Moses have a chat",
+  "postedAt": "2020-06-17T18:34:42.809Z",
+  "baseScore": 29,
+  "wordCount": 1673,
+  "commentCount": 17,
+  "user": {
+    "displayName": "Yitz",
+    "slug": "yitz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "NSMKfa8emSbGNXRKD",
+      "name": "Religion",
+      "slug": "religion"
+    },
+    {
+      "_id": "L3NcKBNTvQaFXwv9u",
+      "name": "Paradoxes",
+      "slug": "paradoxes"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "L3NcKBNTvQaFXwv9u": 1,
+    "NSMKfa8emSbGNXRKD": 3,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

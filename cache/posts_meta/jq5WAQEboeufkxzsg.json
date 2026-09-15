@@ -1,0 +1,23 @@
+{
+  "_id": "jq5WAQEboeufkxzsg",
+  "slug": "imaginary-positions",
+  "title": "Imaginary Positions",
+  "postedAt": "2008-12-23T17:35:40.000Z",
+  "baseScore": 30,
+  "wordCount": 935,
+  "commentCount": 49,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    }
+  ],
+  "tagRelevance": {
+    "pszEEb3ctztv3rozd": 1
+  }
+}

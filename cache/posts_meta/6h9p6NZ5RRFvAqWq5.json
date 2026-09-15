@@ -1,0 +1,35 @@
+{
+  "_id": "6h9p6NZ5RRFvAqWq5",
+  "slug": "the-summoned-heroine-s-prediction-markets-keep-providing",
+  "title": "The Summoned Heroine's Prediction Markets Keep Providing Financial Services To The Demon King!",
+  "postedAt": "2024-10-26T12:34:51.059Z",
+  "baseScore": 191,
+  "wordCount": 2036,
+  "commentCount": 19,
+  "user": {
+    "displayName": "abstractapplic",
+    "slug": "abstractapplic"
+  },
+  "tags": [
+    {
+      "_id": "R6dqPii4cyNpuecLt",
+      "name": "Prediction Markets",
+      "slug": "prediction-markets"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "R6dqPii4cyNpuecLt": 4,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

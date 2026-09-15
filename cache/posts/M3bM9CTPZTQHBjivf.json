@@ -1,0 +1,38 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "M3bM9CTPZTQHBjivf",
+        "title": "Luna Lovegood and the Chamber of Secrets - Part 8",
+        "slug": "luna-lovegood-and-the-chamber-of-secrets-part-8",
+        "pageUrl": "https://www.lesswrong.com/posts/M3bM9CTPZTQHBjivf/luna-lovegood-and-the-chamber-of-secrets-part-8",
+        "postedAt": "2020-12-17T22:29:47.788Z",
+        "baseScore": 79,
+        "wordCount": 551,
+        "commentCount": 16,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 4
+        },
+        "contents": null
+      }
+    }
+  }
+}

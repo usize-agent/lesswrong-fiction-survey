@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "7GDXAqcz8yHv2YvTe",
+        "title": "The Gospel of Martin Luther",
+        "slug": "the-gospel-of-martin-luther",
+        "pageUrl": "https://www.lesswrong.com/posts/7GDXAqcz8yHv2YvTe/the-gospel-of-martin-luther",
+        "postedAt": "2022-04-28T04:29:58.601Z",
+        "baseScore": 11,
+        "wordCount": 270,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "**Martin Luther:** \"The Catholic church is corrupt.\"\n\n**Johann von Staupitz:** \"You cannot say the Catholic church is corrupt.\"\n\n**Luther:** \"I just did.\"\n\n**Staupitz:** \"I mean you are not allowed to say it.\"\n\n**Luther:** \"According to whose authority? Certainly not God's, for He has yet to strike me down.\"\n\n**Staupitz:** \"Upon Pope Leo X's authority.\"\n\n**Luther:** \"Pope Leo X is far away, in Rome.\"\n\n**Staupitz:** \"Upon my authority, then.\"\n\n**Luther:** \"I notice that the truth value of my claims do not enter your calculus.\"\n\n**Staupitz:** \"To the contrary, the truth value of your claims very much do enter my calculus. Were you to say something obviously wrong, like 'space is non-Euclidean' then I need not persecute you. I could simply say 'Martin Luther is wrong'. False claims are self-defeating. Heresy is scary because it might be true.\"\n\n**Luther:** \"What will the Pope do to you if I speak blasphemy?\"\n\n**Staupitz:** \"I don't know. I have never allowed blasphemy within the Order of Saint Augustine.\"\n\n**Luther:** \"Let me get this straight. You're forbidding me from speaking the truth because you're afraid that someone else will punish you for being associated with me for speaking the truth.\"\n\n**Staupitz:** \"Yes. That's because I'm one of the good guys.\"\n\n**Luther:** \"The good guys suppress free speech?\"\n\n**Staupitz:** \"Yes. The bad guys burn their enemies at the stake.\"\n\n**Luther:** \"Heretics must be flourishing if the Catholic church burns them at the stake on a regular basis.\"\n\n**Staupitz:** \"To the contrary, nobody has ever been burned at the stake for declaring the Catholic church corrupt and translating the Bible into German.\"\n\n**Luther:** \"Let me get this straight. You're suppressing free speech because you're afraid the Catholic church might suppress free speech.\"\n\n**Staupitz:** \"Precisely!\"\n\n**Luther:** \"What. The. Sard.\""
+        }
+      }
+    }
+  }
+}

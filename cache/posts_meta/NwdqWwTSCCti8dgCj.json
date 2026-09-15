@@ -1,0 +1,59 @@
+{
+  "_id": "NwdqWwTSCCti8dgCj",
+  "slug": "three-worlds-collide-assumes-calibration-is-solved",
+  "title": "Three Worlds Collide assumes calibration is solved",
+  "postedAt": "2026-02-12T04:28:21.658Z",
+  "baseScore": 7,
+  "wordCount": 1019,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Vyacheslav Ladischenski (Slava)",
+    "slug": "vyacheslav-ladischenski-slava"
+  },
+  "tags": [
+    {
+      "_id": "8hPTCJbwJnLBmfpCX",
+      "name": "Calibration",
+      "slug": "calibration"
+    },
+    {
+      "_id": "kCuRQE5Tkv9zeKyzK",
+      "name": "Common Knowledge",
+      "slug": "common-knowledge"
+    },
+    {
+      "_id": "AADZcNS24mmSfPp2w",
+      "name": "Communication Cultures",
+      "slug": "communication-cultures"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "b8FHrKqyXuYGWc6vn",
+      "name": "Game Theory",
+      "slug": "game-theory"
+    },
+    {
+      "_id": "oooqkNGqAHPGsfgdA",
+      "name": "Metaethics",
+      "slug": "metaethics-1"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "8hPTCJbwJnLBmfpCX": 1,
+    "AADZcNS24mmSfPp2w": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "b8FHrKqyXuYGWc6vn": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "kCuRQE5Tkv9zeKyzK": 1,
+    "oooqkNGqAHPGsfgdA": 1
+  }
+}

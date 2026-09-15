@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "qBdgCEdr8jMLoKrDg",
+        "title": "Bayeswatch 6: Mechwarrior",
+        "slug": "bayeswatch-6-mechwarrior",
+        "pageUrl": "https://www.lesswrong.com/posts/qBdgCEdr8jMLoKrDg/bayeswatch-6-mechwarrior",
+        "postedAt": "2021-06-07T20:20:20.196Z",
+        "baseScore": 61,
+        "wordCount": 748,
+        "commentCount": 8,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 3,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "\"OUTBOARD PERSONNEL STAND UP!\" came over the intercom.\n\nVi ignored the paratrooper commands from within her metal exoskeleton. She was just along for the ride.\n\n\"Your mission is to keep biological agents from escaping containment,\" said the voice of Response Manager Gizenga through Vi's headset.\n\n\"Command does realize I don't know anything about combat, right?\" said Vi. It was hard to talk around the mouthguard between her teeth.\n\n\"The battle droids know how to fight. Your job is to maintain alignment. We suspect the enemy will employ psyops. You have training against class-3 memetic threats,\" said Response Manager Gizenga.\n\n\"SOUND OFF FOR EQUIPMENT CHECK!\"\n\nThe turboprop mech carrier rumbled over the forests of the Congolese Basin.\n\n\"STAND IN THE DOOR!\"\n\n\"What do we know about this AI?\" said Vi.\n\n\"The AI ran a cloning facility that used to serve Bangui. The facility itself was located in the DRC for legal reasons. The AI went critical a few weeks ago and began amassing power. It is effectively a sovereign hostile expansionist state,\" said Response Manager Gizenga.\n\n\"Why didn't we nip this in the bud?\" said Vi.\n\n\"The cloners were a secretive lot. They built a somewhat self-sufficient operation far from prying eyes. By the time we noticed it was too big for us to handle ourselves. We had to negotiate with nation-states which takes time even in emergencies,\" said Response Manager Gizenga.\n\n\"GO!\"\n\nFrom the outside, Vi's mech looked identical to four battle droids in her squad. Inside, it contained life support systems instead of extra ammunition. The first battle droid jumped out of the carrier.\n\n\"GO!\"\n\nThe second mech jumped out of the carrier.\n\n\"GO!\"\n\n`Confirm jump` said the mech to Vi.\n\n\"Confirmed,\" said Vi.\n\nVi's mech jumped. Her two remaining battler droids followed behind. Vi's cockpit didn't have a window. She experienced zero $g$ for what felt like a minute but wasn't. Vi tried to tell herself that if it wasn't for the screens and the heat and the noise and the vibrations then she could be standing on the ground.\n\nActually, it was pretty easy in practice to figure out if you were falling from the sky, Einstein be damned. Vi's noise-cancelling headphones couldn't come close to eliminating the vibrations of the jump jets as she approached the ground. The padding in her suit mostly failed to counteract the extra 2.5 $g$.\n\nThe droids moved away from their landing site to join the rest of the army at the perimeter around the Yamongala cloning facility. They dug trenches in the forest behind a hill.\n\nThe battle droids networked together via direct laser transmissions. Other than that, Vi's squad waited in radio silence.\n\nVi's life had been a mad rush from one assignment to the next since she had accepted what was supposed to be a pre-college internship under Bayeswatch Agent Molly Miriam.\n\nVi felt like a different person. When she graduated from the Center for Theoretical Rationality with idealism in her eyes Vi thought a degree in mathematics would be the best way to do her part to keep AIs under control. That was before she found out how many so-called AI alignment researchers didn't even know how artificial extrapolation worked or the tradeoffs between different techniques. Many of them wrote thinly-disguised papers of unfalsifiable philosophy.\n\nThe Bayeswatch internship was among the most competitive in the world. Vi didn't know how she had gotten in. Sure, she was a good student but she didn't have money or connections. Vi oriented herself against the constellations. Well, technically she pointed her battle droid's periscope camera towards a handful of astonomical bodies (mostly satellites) peeking between the trees and watched the infrared spectral decomposition on her viewscreen. It reeked of her own body odor. Vi's suit was sealed against toxins, chemicals and microbes. She couldn't even smell the jungle.\n\n`Hostiles approaching` appeared in her UI. Vi operated the cursor with her eyes. She double-blinked to close the pop-up.\n\nThe AI had sent a mostly biological attack force. The enemy creatures were barely over four feet tall. They appeared as bright red blobs on the infrared. The battle droids waited in ambush. The enemy seemed to lack infrared and electromagnetic scanners. When the creatures began to crest the hill, another message appeared in Vi's UI.\n\n`Engage? Such action will result in loss of life.`\n\n\"Yes,\" whispered Vi.\n\nThe battle droids, including Vi's stood up from their foxholes. They hit the enemy's vanguard with flamethrowers and then struck the rear ranks with machine guns. It was over in ten seconds. The children didn't even get to fire their AK-47s.\n\n`The second wave will reach us in five minutes. Schedule engagement?`\n\n\"Yes,\" said Vi.\n\n`Confirm?`\n\n\"Confirmed.\"\n"
+        }
+      }
+    }
+  }
+}

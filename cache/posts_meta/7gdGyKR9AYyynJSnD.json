@@ -1,0 +1,41 @@
+{
+  "_id": "7gdGyKR9AYyynJSnD",
+  "slug": "the-busy-bee-brain",
+  "title": "The Busy Bee Brain ",
+  "postedAt": "2023-12-13T13:10:24.343Z",
+  "baseScore": 11,
+  "wordCount": 1904,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bill Benzon",
+    "slug": "bill-benzon"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Wi3EopKJ2aNdtxSWg",
+      "name": "Neuroscience",
+      "slug": "neuroscience"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "Wi3EopKJ2aNdtxSWg": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "kCrvmjZhsAZANnZL6": 1
+  }
+}

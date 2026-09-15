@@ -1,0 +1,23 @@
+{
+  "_id": "vxHsfWcHNYAxzpN3m",
+  "slug": "escape-from-alderaan-i",
+  "title": "Escape from Alderaan I",
+  "postedAt": "2025-02-02T10:48:06.533Z",
+  "baseScore": 62,
+  "wordCount": 1707,
+  "commentCount": 2,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

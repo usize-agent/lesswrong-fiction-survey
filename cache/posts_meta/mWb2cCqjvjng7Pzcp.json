@@ -1,0 +1,23 @@
+{
+  "_id": "mWb2cCqjvjng7Pzcp",
+  "slug": "fiction-hamlet-and-the-philosopher-s-stone",
+  "title": "[FICTION] Hamlet and the Philosopher's Stone",
+  "postedAt": "2011-10-25T22:31:15.700Z",
+  "baseScore": 52,
+  "wordCount": 511,
+  "commentCount": 61,
+  "user": {
+    "displayName": "HonoreDB",
+    "slug": "honoredb"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

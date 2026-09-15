@@ -1,0 +1,23 @@
+{
+  "_id": "JzDG7d6J5kZqhQiiT",
+  "slug": "orpheus-basilisk",
+  "title": "Orpheus' Basilisk",
+  "postedAt": "2025-12-28T00:43:46.333Z",
+  "baseScore": 22,
+  "wordCount": 730,
+  "commentCount": 1,
+  "user": {
+    "displayName": "pulwat",
+    "slug": "pulwat"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

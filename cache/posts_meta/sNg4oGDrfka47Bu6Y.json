@@ -1,0 +1,35 @@
+{
+  "_id": "sNg4oGDrfka47Bu6Y",
+  "slug": "the-balto-togo-theory-of-scientific-development",
+  "title": "The Balto/Togo theory of scientific development",
+  "postedAt": "2022-10-09T18:30:07.452Z",
+  "baseScore": 69,
+  "wordCount": 696,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Elizabeth",
+    "slug": "elizabeth-1"
+  },
+  "tags": [
+    {
+      "_id": "ZpG9rheyAkgCoEQea",
+      "name": "Practice & Philosophy of Science",
+      "slug": "practice-and-philosophy-of-science"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "ZpG9rheyAkgCoEQea": 2
+  }
+}

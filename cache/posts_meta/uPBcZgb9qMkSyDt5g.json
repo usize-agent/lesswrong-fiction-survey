@@ -1,0 +1,47 @@
+{
+  "_id": "uPBcZgb9qMkSyDt5g",
+  "slug": "how-to-grow-a-nuke",
+  "title": "How to grow a nuke",
+  "postedAt": "2026-02-25T00:53:00.655Z",
+  "baseScore": 26,
+  "wordCount": 584,
+  "commentCount": 1,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "yvn2ZYwS9Qq4TnT9B",
+      "name": "Biosecurity",
+      "slug": "biosecurity"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F6kBsuRJzi4AKJ7tL",
+      "name": "Nuclear War",
+      "slug": "nuclear-war"
+    },
+    {
+      "_id": "q6Euc7FAWJpDbst6r",
+      "name": "Open Source AI",
+      "slug": "open-source-ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "F6kBsuRJzi4AKJ7tL": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "q6Euc7FAWJpDbst6r": 1,
+    "yvn2ZYwS9Qq4TnT9B": 1
+  }
+}

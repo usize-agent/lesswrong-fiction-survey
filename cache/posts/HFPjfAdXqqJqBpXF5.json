@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "HFPjfAdXqqJqBpXF5",
+        "title": "What the future will look like",
+        "slug": "what-the-future-will-look-like",
+        "pageUrl": "https://www.lesswrong.com/posts/HFPjfAdXqqJqBpXF5/what-the-future-will-look-like",
+        "postedAt": "2021-11-15T05:14:15.362Z",
+        "baseScore": 7,
+        "wordCount": 928,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "avantika.mehra",
+          "slug": "avantika-mehra"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "The alarm rings \u2014 gentle, cascading sounds, increasing gradually in volume, to softly rouse you from your REM cycle. The sound radiates from micro-speakers distributed around your room; the 360\u00b0 soundscape makes it sound like the walls are singing, beckoning you to take on a new day.\n\nYou wake up rejuvenated, and peel off the neuro-pellets from the side of your head, that quietly stimulated delta-waves in your brain through the stages of deepest sleep, accelerating cognitive regeneration while you explored a different world \u2014 one that hasn\u2019t been touched by humans yet.\n\n\u201cAliza, play today\u2019s *Robinhood Snacks* podcast,\u201d you  tell your voice-enabled smart-home device, one that you built yourself in minutes from a DIY-kit you found online, because you know better than to install big-tech listening devices in your own home.\n\nThe podcast continues to play as you enter the bathroom \u2014 the audio syncs across the house, switching on and off as you enter each room to conserve energy. Speaking of energy, you wonder how much you saved yesterday. You click into an app, and a giant dashboard tells you you hit this month\u2019s goals \u2014 *\u201cHuzzah! Check your texts for a special reward.\u201d* Amazing, they\u2019ve sent you $10 in cryptocurrency for being a good energy citizen.\n\nYour phone knows what to do with rewards \u2014 you\u2019ve trained it well to manage personal finances. 10% goes to your favourite social cause \u2014 AI Safety Research. You volunteer with a local nonprofit that is working to keep humans and machines safe from each other by aligning their goals, and you\u2019re their top contributor. 50% is distributed across your investment portfolio with predetermined weighting, and you use the remaining 40% to invest in metaverse assets \u2014 last time you bought a tiny bit of land in Decentraland-Iceland, and it\u2019s looking beautiful, so you buy a few more square-feet. In September, the developers ship property-owners special VR-headsets that click into your neuro-pellets, creating the most dazzling multisensory *Northern Light*s experience, transporting you to the 2020s when the lights were scintillant and unclouded by pollution and space-dust.\n\nThe podcast ends, and you add a small tip for the creators before going to make breakfast \u2014 people who don\u2019t tip creators are so rude, you think. The fridge displays the recommended breakfast items \u2014 based on your caloric history, the weather, and your previous meals \u2014 but you pick frozen waffles because it\u2019s Friday and it\u2019s been a long week. Quickly you project different outfits on *ARfit*, a closet assistant that shows you what you would look like in a range of outfit combinations \u2014 you only go into the office once a week, so you want to look good. *Ugh.* You forgot to order this week\u2019s fit, so you call the nearest warehouse listed on lastminute.com and ask for expedited shipping on item-number *JS823GJ.* Ten minutes and a two toasted waffles later, it is at your doorstep. The vacuum-packing inside the delivery drone left the shirt creased\u2026 you shrug. Nothing a bit of steam-ironing can\u2019t fix.\n\nYour phone beeps, the calendar app reminding you to call a driverless car for pickup. But a beautiful summer day awaits, and you can\u2019t think of a reason not to enjoy it. It is decided \u2014 you will walk to work.\n\nYou put on your AR-enabled glasses \u2014 they\u2019re fancier than what you would usually wear, but that they were solar-powered and DuckDuckGo-enabled justified the purchase. You see a homeless man across the street, outside the Safeway, an AR QR-code hovering above his head. You surreptitiously scan it with your phone, and it takes you directly to checkout, with a meal in the cart, ready for delivery to his precise geolocation. *Why not*, you reason, completing the anonymous one-click checkout.\n\nThe next street is lined with shops of all kinds, selling everything imaginable \u2014 groceries, clothes, shoes, antiques, toys\u2026 toys! It\u2019s your niece\u2019s birthday tomorrow, and the little AR Cryptopuppy bobbing up and down in the window is adorable. \u201cHow much for the doggy in the window,\u201d you chuckle, and click it to find out. \u201cEnjoy the little blockchain-based collectible,\u201d you write in the message at checkout, and schedule-send it to her for tomorrow.\n\nAs you continue your walk, the morning sun dances on the sidewalk in crescent-shadows, an omnipresent reminder of the massive coordinated effort between world superpowers to harness the energy of the sun to power the millions of servers and central-processing units that make the world go round. For a second it hits you \u2014 the scale at which humanity is operating, the audacity of the species to interface directly with the Sun, the technological prowess your generation has inherited from millennia of humans preparing for such conquests, and you are distracted by the wafting aroma of fresh bread.\n\n\u201cEnough capitalism for today\u201d, you decide, as you click off your AR-glasses, and get ready for a new day of work.\n\n![](https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F82169bc9-0781-4448-84ed-0882b7876ac8_500x350.jpeg)\n\n* * *\n\nThe purpose of this vignette is to provide a techno-optimistic vision of the future. Too often, futuristic fiction focuses on machines as the centerpiece of the narrative. Or human characters' lives are no longer relatable, because advanced technologies have radically transformed them. The disparity in experience and relatability between readers and characters can cast a dystopian shadow on the futuristic universe, making frontier-tech seem unattractive - almost creepy.\n\nThe vignette shows that advanced technology can substantially improve the quality of human life without radically disrupting it, and serves as a symbol for what can be achieved if we continue to prioritise the safe development of technological systems.\n\nWe need human-centered, techno-optimistic literature to frame the scope of possibility for future creators."
+        }
+      }
+    }
+  }
+}

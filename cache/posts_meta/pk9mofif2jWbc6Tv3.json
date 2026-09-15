@@ -1,0 +1,29 @@
+{
+  "_id": "pk9mofif2jWbc6Tv3",
+  "slug": "fiction-a-disneyland-without-children",
+  "title": "A Disneyland Without Children",
+  "postedAt": "2023-06-04T13:06:46.323Z",
+  "baseScore": 137,
+  "wordCount": 6039,
+  "commentCount": 12,
+  "user": {
+    "displayName": "L Rudolf L",
+    "slug": "l-rudolf-l"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

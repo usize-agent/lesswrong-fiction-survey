@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "YHoDrqBzwJnreEBrv",
+        "title": "Before the Machine Stops",
+        "slug": "before-the-machine-stops",
+        "pageUrl": "https://www.lesswrong.com/posts/YHoDrqBzwJnreEBrv/before-the-machine-stops",
+        "postedAt": "2026-03-07T22:46:38.133Z",
+        "baseScore": 1,
+        "wordCount": 6,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "W.X.",
+          "slug": "w-x"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "*A century-old parable about AI alignment.*"
+        }
+      }
+    }
+  }
+}

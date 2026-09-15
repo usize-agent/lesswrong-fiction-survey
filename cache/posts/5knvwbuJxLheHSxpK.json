@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "5knvwbuJxLheHSxpK",
+        "title": "Bayeswatch 6.5: Therapy",
+        "slug": "bayeswatch-6-5-therapy",
+        "pageUrl": "https://www.lesswrong.com/posts/5knvwbuJxLheHSxpK/bayeswatch-6-5-therapy",
+        "postedAt": "2022-04-04T01:20:20.862Z",
+        "baseScore": 27,
+        "wordCount": 177,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "\"What do you mean I need therapy?\" said Vi.\n\n\"Our records indicate you may have suffered psychological trauma on one of your recent missions,\" said Eliza.\n\n\"Which mission?\" said Vi.\n\n\"You know,\" said Eliza. She leaned close to whisper, \"Bangui.\"\n\n\"I can neither confirm nor deny whether I have ever been to Bangui,\" said Vi.\n\n\"You're too young to deal with the psychological impact of the psyop weapon the Bangui cloners deployed,\" said Eliza.\n\n\"I can neither confirm nor deny who was too young for Bangui. If you want me to go to therapy for psychological trauma then tell me, in writing, where I received the trauma and why. Otherwise, how can I prevent it in the future?\" said Vi.\n\n\"This isn't healthy. You should be on mandatory medical leave,\" said Eliza.\n\n\"Are you allowed to do that?\" said Vi.\n\n\"Not without a reason,\" said Eliza.\n\n\"Is that all?\" said Vi.\n\n\"There is one more thing. Miriam recommended you be promoted. All that remains is the psychiatric sign-off. I need to certify you're mentally stable enough for the job,\" said Eliza.\n\n\"Does that mean?\" said Vi.\n\n\"Congratulations, Agent,\" said Eliza.\n"
+        }
+      }
+    }
+  }
+}

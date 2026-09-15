@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "EXLvg6CccgD2iiAek",
+        "title": "How sci-fi can have drama without dystopia or doomerism",
+        "slug": "how-sci-fi-can-have-drama-without-dystopia-or-doomerism",
+        "pageUrl": "https://www.lesswrong.com/posts/EXLvg6CccgD2iiAek/how-sci-fi-can-have-drama-without-dystopia-or-doomerism",
+        "postedAt": "2025-01-17T15:22:00.414Z",
+        "baseScore": 19,
+        "wordCount": 902,
+        "commentCount": 3,
+        "noIndex": false,
+        "user": {
+          "displayName": "jasoncrawford",
+          "slug": "jasoncrawford"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sPpZRaxpNNJjw55eu",
+            "name": "Progress Studies",
+            "slug": "progress-studies"
+          },
+          {
+            "_id": "xexCWMyds6QLWognu",
+            "name": "World Optimization",
+            "slug": "world-optimization"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "sPpZRaxpNNJjw55eu": 2,
+          "xexCWMyds6QLWognu": 2
+        },
+        "contents": {
+          "markdown": "\u201cBut you can\u2019t have a story where everyone is happy and everything is perfect! Stories need *conflict!*\u201d\n\nI get this a lot in response to my idea that we need fewer dystopias in sci-fi, and more visions of a future we actually want to live in and are inspired to build.\n\nThe objection makes no sense to me. Here are several ways that you can write a compelling, exciting story without implying that technology makes the world worse on the whole, or that the main feature of new technology is doom:\n\n1.  **Tell a man vs. nature story.** *Seveneves*, *The Martian*, *Project Hail Mary*, *Lucifer\u2019s Hammer*. There\u2019s no villain necessarily, just a disaster situation that people have to overcome using brains and technology. Or tell a tale of exploration and discovery, such as space travelers encountering a strange new planet (much of *Star Trek*).\n2.  **Tell a story about discovery or invention.** There can be a lot of drama in R&D, especially if you montage through the daily grind of experiments and highlight the breakthroughs. But this kind of story is almost never told\u2014I don\u2019t know why, maybe because writers don\u2019t know anything about these processes, or don\u2019t know how to make them interesting. But I think it can totally be done. Why not put on the silver screen the moment when Norman Borlaug [strapped a plow to his own back](https://x.com/jasoncrawford/status/1841471096631025914) and pulled it like a draft animal, or when Gerhard Domagk used the antibiotics he had just developed to [save his own six-year-old daughter](https://x.com/jasoncrawford/status/1078113061561487360) from an infection? (See also [Anton Howes\u2019s comments on movies about invention](https://www.ageofinvention.xyz/p/age-of-invention-on-the-silver-screen).)\n3.  **Have the heroes be the builders who want to move technology forward, and the villains be those who want to stop them.** We\u2019ve had an endless series of greedy corporate villains; why not a few more Malthusian villains like Thanos, radical anti-human environmentalists like [Ra\u2019s al Ghul](https://en.wikipedia.org/wiki/Ra%27s_al_Ghul), or religious fanatics like the group from *Contact?*\n4.  **Tell a story of a classic human conflict, but set in a futuristic world.** *The Quantum Thief* is in part a detective story, set on Mars with nanotech and advanced cryptography. *The Moon is a Harsh Mistress* is a political epic of oppression and revolution, set on the Moon with AI and advanced space technology.\n5.  **Create a problem with technology, and then solve it with technology.** Maybe rogue AI tries to take over the world, and good AI helps prevent it. Maybe nanobots turn into gray goo, and a nanophage is invented to stop it. Maybe a new pandemic escapes from a lab, and genetic technology creates the vaccine for it (far-fetched, I know!)\n6.  **Create conflict over good vs. evil uses of technology.** Maybe the good guys are inventing a new energy source, or AI, or biotech, and the bad guys want to steal it to use it as a weapon. Or, depending on your worldview, maybe the good guys are making a weapon to make the world safe for democracy, and the bad guys want to steal the weapon for their oppressive totalitarian dictatorship. In either case, this kind of story could inspire better opsec in AI and bio labs!\n7.  **Create conflict between a utopian world, and another civilization that is less than utopian.** This theme comes up in the Culture novels and, again, in *Star Trek*. How might these civilizations interact? Could they understand each other? Could they engage peacefully? Should technologically advanced civilizations obey the Prime Directive?\n8.  **Explore the social implications of technological changes.** What kinds of human drama will arise when we cure aging, and the older generation doesn\u2019t die off to make way for the younger? Or what if some people are seeking immortality by transferring their consciousness to robot bodies or digital worlds, while other people think that this is suicide? ([*Anwar*](https://www.instagram.com/anwar.film/)) What controversies will emerge over the growing practice of embryo selection? (*Gattaca*) What happens when people start falling in love with AIs? (*Her*) What if society decides that AI is sentient and deserves legal rights? One variant of this is \u201cutopia\u2019s losers\u201d: in a utopia, who doesn\u2019t fit in? In a happy future, who is unhappy?\n\n(As a side note, even the standard \u201crobot rebellion\u201d story would be much more interesting if there were abolitionist humans who joined the robot side, and perhaps even traditionalist robots who wanted to keep their place as servants. The same is true for stories of first contact with aliens: rather than a straightforward human-vs.-alien war, you could have some humans and some aliens who want peace, others on both sides who are trying to foment war, and some traitors or crossovers from each side who go to help the other. Exploring all of their ideologies and motivations would be much more interesting than yet another war of the worlds. There was a bit of this in *The Three Body Problem*, which is one of the reasons I liked it, despite [my problems with its theme](https://blog.rootsofprogress.org/the-theme-of-the-three-body-problem-trilogy).)\n\nThe opposite of dystopia isn\u2019t utopia\u2014which doesn\u2019t exist. It\u2019s \u201c[protopia](https://kk.org/thetechnium/protopia/)\u201d: a world that is always getting better, but is never perfect. Such a world always has new problems to solve, including some problems created by the old solutions. There is plenty of conflict and intrigue in such a world, and plenty of room for heroes and villains.\n\n* * *\n\n*Thanks to Hannu Rajaniemi and Fawaz Al-Matrouk for commenting on a draft of this essay.*"
+        }
+      }
+    }
+  }
+}

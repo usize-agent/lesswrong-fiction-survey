@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "ZuHtxctZdWyLH4y4M",
+        "title": "What kind of AI god should we create?",
+        "slug": "what-kind-of-ai-god-should-we-create",
+        "pageUrl": "https://www.lesswrong.com/posts/ZuHtxctZdWyLH4y4M/what-kind-of-ai-god-should-we-create",
+        "postedAt": "2026-02-23T23:48:49.155Z",
+        "baseScore": 1,
+        "wordCount": 993,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Rick Moss",
+          "slug": "rick-moss"
+        },
+        "tags": [
+          {
+            "_id": "6zBEfFYJxhSEcchbR",
+            "name": "AI Alignment Fieldbuilding",
+            "slug": "ai-alignment-fieldbuilding"
+          },
+          {
+            "_id": "X8JsWEnBRPvs5Y99i",
+            "name": "Decision theory",
+            "slug": "decision-theory"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "5f5c37ee1b5cdee568cfb297",
+            "name": "Superintelligence",
+            "slug": "superintelligence"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "6zBEfFYJxhSEcchbR": 1,
+          "X8JsWEnBRPvs5Y99i": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "5f5c37ee1b5cdee568cfb297": 1
+        },
+        "contents": {
+          "markdown": "If we succeed at building aligned superintelligent AI, we'll have created something functionally indistinguishable from a god: an entity with vastly superior knowledge and problem-solving abilities and \u2014 if designed correctly \u2014 genuine concern for human welfare. It could prevent a great deal of human suffering, provide moral and ethical counsel, and deliver justice in a manner more evenhanded than humans can manage.\n\nAs a species, we\u2019re about to choose what kind of god we want. And yet our objectives for the human race remain unclear. What kind of human experience are we striving for? The ancient Greeks used the word\u00a0*eudaimonia* to refer to the concept of human flourishing that encompasses meaning, purpose, and actualization. It sounds like a noble goal for AI and for our species, but what are the chances of reaching it if an AI god emerges in an ad hoc manner?\n\n**Degrees of control**\n\nA\u00a0*singleton*, which Nick Bostrom, professor of philosophy at Oxford,\u00a0[defined](https://nickbostrom.com/fut/singleton) in this context as \u201ca world order in which there is a single decision-making agency at the highest level,\u201d\u00a0could in theory solve humanity's persistent coordination failures. But at what point does coordination become control? To what degree do we want to empower an omnipotent god?\u00a0\n\nIdeally, we might choose a role for our AI god based on what level of control we think is needed to, essentially, save us from ourselves \u2014 from our own incompetence:\n\n*   **The Optimizer**: Ensures human wellbeing, handling all significant decisions in order to eliminate suffering and conflict\n*   **The Caretaker**: Assures human agency for most choices while securing optimal outcomes for critical challenges\n*   **The Guide**: Advises us but never compels, allowing humans to make mistakes\n*   **The Parent**: Intervenes only to prevent catastrophic choices, otherwise grants autonomy\n\nMany might argue that The Optimizer would deliver the desired state of\u00a0*eudaimonia*\u00a0\u2014 freed from economic struggle and divisive decision-making, humans could focus on personal growth, creativity, and meaning. But would that life feel meaningful if an AI made all the important choices?\n\nThis tension may be culturally specific. The fierce resistance to ceding decision-making authority feels primarily Western. Many cultures have historically been more comfortable delegating authority to centralized powers in exchange for stability and collective welfare. Similarly, we disagree on what constitutes welfare. Not even Aristotle could bring people to a consensus on what a state of\u00a0*eudaimonia*\u00a0looks like because we often disagree on the meaning of \u201cdoing well\u201d and \u201cliving well.\u201d\n\nOur sense of personal fulfillment, in fact, may be closely connected with the perception of independence that comes from making our own decisions. If an AI god handles all the tough calls, do we surrender the opportunity to learn from our mistakes? Will we lose dignity along with the loss of self-determination? Are we still meaningfully human if we're no longer responsible for our own wellbeing?\n\n**Learn like a human**\n\nOne approach to the AI god design challenge: train the aligned superintelligence through simulated human experience. In\u00a0[*Once a Man*](https://rarebirdlit.com/once-a-man/), AI scientists embed a developing AI in a virtual narrative in which it believes itself to be human; growing up from childhood, learning to navigate moral and ethical choices from an embodied human perspective.\n\nThe theory explored in this story: if an AI experiences the world as humans do \u2014 full of confusion, misinformation, emotional stakes, puzzling relationships, and dire consequences \u2014 it might develop alignment with desired human values, not just through formal programming specification, but through empathy and genuine understanding. It learns not just what humans value in an academic sense, but why those values matter, in the same way a human would, because it lived them.\n\nThe risks are obvious. The AI would find it hard to avoid taking on human-like biases along with human values. It might conclude that human decision-making is too flawed to be useful for a functioning god.\n\nBut it might also develop something technical alignment research struggles with: sympathy for human flourishing that includes respect for human agency. An AI that understands what it means to struggle, to make mistakes, to grow through difficulty \u2014 that AI might choose to preserve those experiences for humanity rather than optimize them away.\n\n**The window is closing**\n\nWe may be entering the final few years when we can meaningfully influence what kind of superintelligence emerges. Current alignment research focuses heavily on technical questions \u2014 how to specify goals, ensure reliable pursuit, maintain control during scaling. But we're underweighting the foundational question: What control are we trying to preserve for humans?\n\nYudkowsky's\u00a0[*Coherent Extrapolated Volition*](https://www.lesswrong.com/w/coherent-extrapolated-volition) proposes building AI that optimizes for \u201cwhat we would want if we knew more, thought faster, were more the people we wished we were.\u201d But this leaves open whether \u201cwhat we would want\u201d includes preserving our role as moral agents, or whether we'd willingly accept a comfortable retirement from decision-making.\n\nThese aren't just philosophical questions. They're engineering specifications for the most consequential technology humans will ever create. We need answers very soon, because if a superintelligent singleton develops with the mandate to take over our decision-making authority, it may be impossible to wrest that control back to the human side.\n\nIt\u2019s optimistic to imagine we\u2019ll get the chance to choose. The current AI marketplace seems to be operating based on Darwinian principles, with altruism as an afterthought. We\u2019re likely to get whatever the first successful AI lab happens to build. Unless we can somehow take control of determining what kind of AI god we want, we may get a random one.\n\n**Your turn\u2026**\n\nHere\u2019s your challenge: How would you design the best AI god if you were in charge of the project? How can we design an AI god that aligns with our cherished human values if humans can\u2019t agree on what those are?\n\n*I explore these issues in*\u00a0[*Once a Man*](https://rarebirdlit.com/once-a-man/), releasing February 24. A teenager discovers he's part of a plan to shape humanity's relationship with superintelligent AI. See:\u00a0[*early reviews.*](https://www.goodreads.com/book/show/241949443-once-a-man)"
+        }
+      }
+    }
+  }
+}

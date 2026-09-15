@@ -1,0 +1,23 @@
+{
+  "_id": "Ke7DiT2DHMyGiv3s2",
+  "slug": "beauty-and-the-beast",
+  "title": "Beauty and the Beast",
+  "postedAt": "2022-06-11T18:59:58.412Z",
+  "baseScore": 57,
+  "wordCount": 1693,
+  "commentCount": 10,
+  "user": {
+    "displayName": "Tom\u00e1s B.",
+    "slug": "bjartur-tomas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 4
+  }
+}

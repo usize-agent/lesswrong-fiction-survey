@@ -1,0 +1,53 @@
+{
+  "_id": "sLyiud9rXfr9C4Mo8",
+  "slug": "can-we-simulate-meiosis-to-create-digital-gametes-and-are",
+  "title": "Can We Simulate Meiosis to Create Digital Gametes \u2014 and Are the Results Your Biological Offspring?",
+  "postedAt": "2025-10-17T03:55:28.468Z",
+  "baseScore": 2,
+  "wordCount": 238,
+  "commentCount": 8,
+  "user": {
+    "displayName": "GJ",
+    "slug": "gj-1"
+  },
+  "tags": [
+    {
+      "_id": "3nKzX4D7pCTFjBCcK",
+      "name": "Cyborgism",
+      "slug": "cyborgism"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "fkABsGCJZ6y9qConW",
+      "name": "Practical",
+      "slug": "practical"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "3nKzX4D7pCTFjBCcK": 1,
+    "3uE2pXvbcnS9nnZRE": 1,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "fkABsGCJZ6y9qConW": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

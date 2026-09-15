@@ -1,0 +1,26 @@
+{
+  "_id": "JGw75D5RZiCczdbrk",
+  "slug": "an-exercise-in-really-going-through-with-it",
+  "title": "An exercise in really going through with it",
+  "postedAt": "2012-04-23T23:17:47.972Z",
+  "baseScore": 35,
+  "wordCount": 1364,
+  "commentCount": 22,
+  "user": null,
+  "tags": [
+    {
+      "_id": "ZnHkaTkxukegSrZqE",
+      "name": "Cryonics",
+      "slug": "cryonics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "ZnHkaTkxukegSrZqE": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

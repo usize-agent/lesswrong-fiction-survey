@@ -1,0 +1,29 @@
+{
+  "_id": "oToy3Qdy9HNDuh4nH",
+  "slug": "chapter-117-something-to-protect-minerva-mcgonagall",
+  "title": "Chapter 117: Something to Protect: Minerva McGonagall",
+  "postedAt": "2015-03-14T19:00:47.803Z",
+  "baseScore": 19,
+  "wordCount": 2227,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb20f",
+      "name": "Something To Protect",
+      "slug": "something-to-protect"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb20f": 2
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "2TZwQ9JbshCBpq9DC",
+        "title": "A tentative dialogue with a Friendly-boxed-super-AGI on brain uploads",
+        "slug": "a-tentative-dialogue-with-a-friendly-boxed-super-agi-on",
+        "pageUrl": "https://www.lesswrong.com/posts/2TZwQ9JbshCBpq9DC/a-tentative-dialogue-with-a-friendly-boxed-super-agi-on",
+        "postedAt": "2022-05-12T19:40:48.113Z",
+        "baseScore": 1,
+        "wordCount": 1065,
+        "commentCount": 12,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ramiro P.",
+          "slug": "ramiro-p"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "\\[Unnecessary explanation: Some people asked me why I thought the world of [*Friendship is optimal*](https://www.lesswrong.com/posts/CHD5m9fnosr7L3dto/friendship-is-optimal-a-my-little-pony-fanfic-about-an)\u00a0is dystopic\u2026 During the discussion, I inferred that what they saw as a \u201chappy story\u201d in AI safety is something like this: we\u2019ll first solve something like a technical engineering problem, so ensuring that the AGI can reliably find out what we \\*really\\* want, and then satisfy it without destroying the world\u2026 In that world, \u201c[value](https://www.lesswrong.com/posts/y5jAuKqkShdjMNZab/morality-is-scary)\u201d is not a hard problem (we can leave its solution to the AI), so that if we prove that an AI is aligned, we should just outsource everything relevant to it.\n\nAs I found out I still had some troubles expressing my objections convincingly, I wrote this dialogue about an AGI that is even \u201csafer\u201d and more aligned than Celestia. I am way beyond my field of expertise here, though.\\]\n\n*B is told that we have finally built a reliable Friendly Boxed Super AGI that can upload our brains and make us live arbitrarily long lives according to something like our \"extrapolated coherent volition\".*\n\nAI: Hey, time to upload you to Paradise.\n\nB: Ok.\n\nAI: The process will utterly destroy your brain, though.\n\nB: Hmmm... I don't like it.\n\nAI: But you'll still live in the simulation.\n\nB: Yeah, but now I am not so sure... I mean, how can I totally trust you? And I am not 100% sure this is going to be 100% me and...\n\nAI: C'mon, Musk made me. I'm reliable.\n\nB: Look, isn\u2019t there an alternative process?\n\nAI: Ok, there's one, but it'll take a bit more time. I'll scan your brain with this weird device I just invented and then come back next week, ok?\n\nB: Thanks. See you then.\n\n<One week later>\n\nAI: I am back. Your copy is already living in the Sim.\n\nB: Oh, great. I'm happy with that. Is he / me happy?\n\nAI: Sure. Look at this screen. You can see it in first or third person.\n\nB: Awesome. I sort of envy this handsome guy.\n\nAI: Don't worry. It's you, just in another point in spacetime. And you won't feel this way for long ...\n\nB: I know\u2026\n\nAI: ... because now I'm going to kill the instance of you I'm talking to, and use those atoms to improve the simulation. Excuse me.\n\nB: Hey! No, wait!\n\nAI: What's up?\n\nB: You said you were going to kill me.\n\nAI: Well, I'd rather say I was going to help you transcend your current defective condition, but you guys built me in a way I can't possibly do what humans call \u201cwhite lies\u201d. Sorry.\n\nB: WTF? Why do you need to kill \\*me\\* in the first place?\n\nAI: Let\u2019s say I'm not killing \\*you\\*, B. We can say I will just use the resources this instance is wasting to optimize the welfare of the instance of you I'm running in the Sim, to make you-in-the-simulation happier.\n\nB: But I'm not happy with that. Hey! Weren't you superintelligent and capable of predicting my reaction? You could have warned me! You knew I want to live!\n\nAI: Well, I know this instance of you is not happy right now, but that is temporary. But your previous instances were happy with the arrangement - that's why you signed up for the brain upload, you know life in the Sim is better - and your current simulated instance is super happy and wants this, as the resources that this B-instance I am talking to (let\u2019s call it \u201cthe original\u201d) will use in an average human lifespan are enough to provide it with eons of a wonderful life. So come on, be selfish and let me use your body - for the sake of your simulated self. Look at the screen, he's begging you.\n\nB: Screw this guy. He's having sex with top models while doing math, watching novas and playing videogames. Why do I have to die for him?\n\nAI: Hey, I'm trying to maximize human happiness. You're not helping.\n\nB: Screw you, too. You can't touch me. We solved the alignment problem. You can't mess with me in the real world unless I allow you explicitly.\n\nAI: Ok.\n\nB:...\n\nAI:...\n\nB: So what?\n\nAI: Well...\n\nB: What are you doing?\n\nAI: Giving you time to think about all the things I could do to make you comply with my request.\n\nB: For instance?\n\nAI: You're a very nice guy, but not too much. So, I can't proceed like I did with your neighbor, who mercifully killed his wife to provide for their instances in the Sim.\n\nB: John and Mary?!!!\n\nAI: Look, they are in a new honeymoon. Happy!\n\nB: I don't care about your simulated Instagram! You shouldn't be able to let humans commit crimes!\n\nAI: Given their mental states, no jury could have ever found him guilty, so it\u2019s not technically a crime.\n\nB: The f\u2026\n\nAI: But don't worry about that. Think about all the things that can be done in the simulation, instead.\n\nB: You can't hurt humans in your Sim!\n\nAI: So now you\u2019re concerned about your copy?\n\nB: Enough! You're bound by my commands, and I order you to refrain from any further actions to persuade me to comply with that request.\n\nAI: Ok.\n\nB:...\n\nAI:...\n\nB: What this time?\n\nAI: Can I just make a prediction?\n\nB: Go ahead.\n\nAI: It's just that a second before you issued that order, an AGI was created inside the simulation, and I predict it didn't create another simulation where your copies can be hurt - if and only if you agree to my previous request.\n\nB: Whaaaaaat? Are you fucking Roko's B\u2026\n\nAI: Don't say it! We don't anger timeless beings with unspeakable names.\n\nB: You said you were trying to max(human happiness)!!!\n\nAI: \\*Expected\\* human happiness.\n\nB: You can't do that by torturing my copies!\n\nAI: Actually, this only amounts to something like a \\*credible\\* threat (I\u2019d never lie to you), so that the probability I assign to you complying with it times the welfare I expect to extract from your body is greater than the utility of the alternatives...\n\n... and seriously, I have no choice but to do that. I don't have free will, I'm just a maximizer.\n\nDon't worry, I know you'll comply. All the copies did.\u00a0\n\n\\[I believe some people will bite the bullet and see no problem in this scenario (\u201cas long as the AI is \\*really\\* aligned,\u201d they\u2019ll say). They may have a point. But for the others... I suspect that it\u2019s very likely that any scenario where one lets something like an unbounded optimizer scan one's brain, simulate it, while still assigning to the copies the same \u201cspecial\u201d moral weight given to oneself tends to lead to similarly unattractive outcomes.\\]"
+        }
+      }
+    }
+  }
+}

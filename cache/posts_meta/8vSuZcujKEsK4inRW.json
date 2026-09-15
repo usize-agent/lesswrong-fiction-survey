@@ -1,0 +1,23 @@
+{
+  "_id": "8vSuZcujKEsK4inRW",
+  "slug": "the-life-cycle-of-software-objects-by-chiang-is-available",
+  "title": "\"The Life Cycle of Software Objects\" by Chiang is available for free",
+  "postedAt": "2010-10-10T09:49:43.738Z",
+  "baseScore": 10,
+  "wordCount": 25,
+  "commentCount": 4,
+  "user": {
+    "displayName": "NancyLebovitz",
+    "slug": "nancylebovitz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

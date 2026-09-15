@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "mjRosxzqfkLBngKMs",
+        "title": "Coming of Age: Chapters 1 and 2",
+        "slug": "coming-of-age-chapters-1-and-2",
+        "pageUrl": "https://www.lesswrong.com/posts/mjRosxzqfkLBngKMs/coming-of-age-chapters-1-and-2",
+        "postedAt": "2026-03-24T09:15:37.251Z",
+        "baseScore": 13,
+        "wordCount": 334,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ihor Kendiukhov",
+          "slug": "ihor-kendiukhov-1"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "izp6eeJJEg9v5zcur",
+            "name": "Community",
+            "slug": "community"
+          },
+          {
+            "_id": "Ng8Gice9KNkncxqcj",
+            "name": "Rationality",
+            "slug": "rationality"
+          }
+        ],
+        "tagRelevance": {
+          "Ng8Gice9KNkncxqcj": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "izp6eeJJEg9v5zcur": 2
+        },
+        "contents": {
+          "markdown": "I am starting to release my fiction book. I am telling here, because it is a kind of rational fiction. Or, more precisely, I would frame the genre as a combination of:\n\n*   Rational fiction as it is commonly defined.\n*   Depiction of rationalist culture as a cultural phenomenon.\n*   Optimistic proud-human-spirit golden-age-style sci-fi, but very hard.\n*   Depiction of Eastern European (or, to be more precise, Ukrainian) science olympiad culture.\n\nNot a utopia, but what I call an *antiantiutopia*: a world from whose point of view our world looks like an antiutopia.\n\nSo you won't find there a lot of mind games and bayesian thinking embedded in the plot, but you will find many rationalist memes and references to existing culture. And I hope that, for a particular kind of people, this imagined world would be a pleasant place to be in.\n\nThe setting:\n\n*   Our time, but a parallel timeline that diverged from ours in the mid-20th century. This is a timeline where history has gone well. They have their equivalent of \"[What happened in 1971?](https://wtfhappenedin1971.com)\" but in the positive direction. Different pro-progress ideologies have basically won there (rationalism, transhumanism, general pro-science stance).\n*   It starts with slow pace, not much action, a lot of worldbuilding and multiverse-nostalgia about a better world; philosophy and culture. Action will come, but like after 5 chapters.\n*   Central topic: seriousness, civilizational adulthood, and cosmic responsibility.\n\nNote on AI usage:\n\nAround 60% of the book was written by the following process: I dictate the text to AI, then AI removes all the interjections and crooked phrases and fixes broken sentences when there are some, and then I polish the final text.\n\nAnother 40% are just written by me directly.\n\nI will publish on Royal Road 1-2 chapters each week. I will also make weekly posts with the links here on LessWrong, unless I see there is no interest from the community.\n\nAs for now, 2 chapters are published:\n\n1.  Chapter 1: [https://www.royalroad.com/fiction/158269/coming-of-age/chapter/3170876/an-improbable-morning](https://www.royalroad.com/fiction/158269/coming-of-age/chapter/3170876/an-improbable-morning)\n2.  Chapter 2: [https://www.royalroad.com/fiction/158269/coming-of-age/chapter/3186842/san-andreas](https://www.royalroad.com/fiction/158269/coming-of-age/chapter/3186842/san-andreas)"
+        }
+      }
+    }
+  }
+}

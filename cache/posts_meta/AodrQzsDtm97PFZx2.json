@@ -1,0 +1,35 @@
+{
+  "_id": "AodrQzsDtm97PFZx2",
+  "slug": "harry-potter-and-the-methods-of-psychomagic-or-chapter-1",
+  "title": "Harry Potter and the Methods of Psychomagic | Chapter 1: Affect",
+  "postedAt": "2021-09-15T17:03:06.901Z",
+  "baseScore": 64,
+  "wordCount": 1970,
+  "commentCount": 5,
+  "user": {
+    "displayName": "Henry Prowbell",
+    "slug": "henry-prowbell"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "dRfzy5kGZLoxTCSgr",
+      "name": "HPMOR Fanfiction",
+      "slug": "hpmor-fanfiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "dRfzy5kGZLoxTCSgr": 5,
+    "etDohXtBrXd8WqCtR": 8
+  }
+}

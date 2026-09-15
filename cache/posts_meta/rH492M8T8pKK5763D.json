@@ -1,0 +1,35 @@
+{
+  "_id": "rH492M8T8pKK5763D",
+  "slug": "agree-retort-or-ignore-a-post-from-the-future",
+  "title": "Agree, Retort, or Ignore? A Post From the Future",
+  "postedAt": "2009-11-24T22:29:23.608Z",
+  "baseScore": 38,
+  "wordCount": 607,
+  "commentCount": 88,
+  "user": {
+    "displayName": "Wei Dai",
+    "slug": "wei-dai"
+  },
+  "tags": [
+    {
+      "_id": "wzgcQCrwKfETcBpR9",
+      "name": "Disagreement",
+      "slug": "disagreement"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "wzgcQCrwKfETcBpR9": 1
+  }
+}

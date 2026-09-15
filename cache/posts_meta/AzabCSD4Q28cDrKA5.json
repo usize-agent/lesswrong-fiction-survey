@@ -1,0 +1,35 @@
+{
+  "_id": "AzabCSD4Q28cDrKA5",
+  "slug": "pygmalion-s-wafer",
+  "title": "Pygmalion's Wafer",
+  "postedAt": "2025-10-25T20:17:13.203Z",
+  "baseScore": 8,
+  "wordCount": 1319,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "F5gRQdEQHzi3tQ5Ay",
+      "name": "AI Control",
+      "slug": "ai-control"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "F5gRQdEQHzi3tQ5Ay": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

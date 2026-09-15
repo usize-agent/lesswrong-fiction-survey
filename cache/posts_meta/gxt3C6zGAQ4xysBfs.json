@@ -1,0 +1,29 @@
+{
+  "_id": "gxt3C6zGAQ4xysBfs",
+  "slug": "recommended",
+  "title": "Recommended",
+  "postedAt": "2024-08-16T01:49:18.688Z",
+  "baseScore": 2,
+  "wordCount": 469,
+  "commentCount": 0,
+  "user": {
+    "displayName": "blake8086",
+    "slug": "blake8086"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "R6g8arKHM5KBN38DC",
+        "title": "Psychoanalysis and Artificial Intelligence",
+        "slug": "psychoanalysis-and-artificial-intelligence",
+        "pageUrl": "https://www.lesswrong.com/posts/R6g8arKHM5KBN38DC/psychoanalysis-and-artificial-intelligence",
+        "postedAt": "2025-05-15T13:55:14.879Z",
+        "baseScore": 1,
+        "wordCount": 1,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Felipe K. Massaro",
+          "slug": "felipe-k-massaro-1"
+        },
+        "tags": [
+          {
+            "_id": "urxWzbi9PBW3GdiG6",
+            "name": "AI Art",
+            "slug": "ai-art"
+          },
+          {
+            "_id": "3NzdN6QpkpAuNvtt6",
+            "name": "AI Psychology",
+            "slug": "ai-psychology"
+          },
+          {
+            "_id": "KDpqtN3MxHSmD4vcB",
+            "name": "Art",
+            "slug": "art"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "AXhEhCkTrHZbjXXu3",
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          {
+            "_id": "gsv9XWbZDcnZmKuqM",
+            "name": "Psychiatry",
+            "slug": "psychiatry"
+          },
+          {
+            "_id": "dBPou4ihoQNY4cquv",
+            "name": "Psychology",
+            "slug": "psychology"
+          }
+        ],
+        "tagRelevance": {
+          "3NzdN6QpkpAuNvtt6": 1,
+          "AXhEhCkTrHZbjXXu3": 1,
+          "KDpqtN3MxHSmD4vcB": 1,
+          "dBPou4ihoQNY4cquv": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "gsv9XWbZDcnZmKuqM": 1,
+          "urxWzbi9PBW3GdiG6": 1
+        },
+        "contents": {
+          "markdown": ""
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "NBcanXmfRzu6sZ7Jx",
+        "title": "Bayesian Nights (Rationalist Story Time)",
+        "slug": "bayesian-nights-rationalist-story-time",
+        "pageUrl": "https://www.lesswrong.com/posts/NBcanXmfRzu6sZ7Jx/bayesian-nights-rationalist-story-time",
+        "postedAt": "2010-11-15T02:20:42.067Z",
+        "baseScore": 28,
+        "wordCount": 161,
+        "commentCount": 30,
+        "noIndex": false,
+        "user": null,
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2
+        },
+        "contents": {
+          "markdown": "Tell us a story. A tall tale for King Solamona, a yarn for the folk of Bensalem, a little nugget of wisdom, finely folded into a parable for the pages.\n\nThe game is simple:\n\n1.  Choose a bias, a fallacy, some common error of thought.\n2.  Write a short, hopefully entertaining narrative. Use the narrative to strengthen the reader against the errors you chose.\n3.  Post your story in reply to this post.\n4.  Give the authors positive and constructive feedback. Use rot13 if it seems appropriate.\n5.  Post all discussion about this post in the designated post discussion thread, *not* under this top-level post.\n\nThis isn't a thread for developing new ideas. If you have a novel concept to explore, you should consider making a top-level post on LessWrong instead. This is for sharpening our wits against the mental perils we probably already agree exist. For practicing good thinking, for recognizing bad thinking, for fun! For sanity's sake, tell us a story."
+        }
+      }
+    }
+  }
+}

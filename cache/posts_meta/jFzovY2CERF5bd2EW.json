@@ -1,0 +1,29 @@
+{
+  "_id": "jFzovY2CERF5bd2EW",
+  "slug": "a-story-with-zombies",
+  "title": "A Story With Zombies",
+  "postedAt": "2014-12-07T20:11:47.000Z",
+  "baseScore": 41,
+  "wordCount": 1020,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 13,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

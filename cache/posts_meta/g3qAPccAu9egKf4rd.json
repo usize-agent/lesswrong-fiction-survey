@@ -1,0 +1,35 @@
+{
+  "_id": "g3qAPccAu9egKf4rd",
+  "slug": "the-fear",
+  "title": "The Fear",
+  "postedAt": "2025-07-13T16:20:22.758Z",
+  "baseScore": 29,
+  "wordCount": 1401,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Niki Dupuis",
+    "slug": "niki-dupuis"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "8Xec73Ndz2F59AmGe",
+      "name": "Vulnerable World Hypothesis",
+      "slug": "vulnerable-world-hypothesis"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "8Xec73Ndz2F59AmGe": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

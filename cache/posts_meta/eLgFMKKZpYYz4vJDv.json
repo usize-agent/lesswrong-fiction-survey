@@ -1,0 +1,23 @@
+{
+  "_id": "eLgFMKKZpYYz4vJDv",
+  "slug": "sunsbeams",
+  "title": "sunsbeams",
+  "postedAt": "2026-02-14T21:19:38.362Z",
+  "baseScore": 4,
+  "wordCount": 507,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jared M.",
+    "slug": "jared-m"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

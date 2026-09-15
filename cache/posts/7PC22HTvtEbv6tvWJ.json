@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "7PC22HTvtEbv6tvWJ",
+        "title": "The human problem",
+        "slug": "the-human-problem",
+        "pageUrl": "https://www.lesswrong.com/posts/7PC22HTvtEbv6tvWJ/the-human-problem",
+        "postedAt": "2010-04-01T19:41:44.735Z",
+        "baseScore": 35,
+        "wordCount": 1165,
+        "commentCount": 8,
+        "noIndex": false,
+        "user": {
+          "displayName": "PhilGoetz",
+          "slug": "philgoetz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "pGqRLe9bFDX2G2kXY",
+            "name": "Futurism",
+            "slug": "futurism"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "pGqRLe9bFDX2G2kXY": 1
+        },
+        "contents": {
+          "markdown": "You've fiddled with your physics constants until you got them just right, pushed matter into just the right initial configuration, given all the galaxies a good spin, and tended them carefully for a few billion years. Finally, one of the creatures on one of those planets in one of those galaxies looks up and notices the stars. Congratulations! You've evolved \"humans\", the term used for those early life forms that have mustered up enough just brain cells to wonder about you.\n\nWidely regarded as the starting point of interest in a universe, they're too often its ending point as well. Every amateur god has lost at least one universe to humans. They occupy that vanishingly-narrow yet dangerous window of intelligence that your universe must safely navigate, in which your organisms are just smart enough to seize the helm of evolution, but not smart enough to understand what they're really doing.\n\nThe trouble begins when one of these humans decides, usually in a glow of species pride shortly after the invention of the wheel or the digital watch or some such knicknack, that they are in fact pretty neat, and that it's vitally important to ensure that all future intelligent life shares *their* values.\n\nAt that point, they invent a constrained optimization process, that ensures that all new complex agents (drives, minds, families, societies, etc.) and all improvements to existing agents, have a good score according to some agreed-on function.\n\nIf you're lucky, your humans will design a phenomenological function, which evaluates the qualia in the proposed new mind. This will be an inconvenience to your universe, as it will slow down the exploration of agent-design space; but it's not so bad that you have to crumple your universe up and throw it out. It doesn't necessarily cut off all the best places in agent space from ever being explored.\n\nBut remember these are *humans* we're talking about. They've only recently evolved the ability to *experience* qualia, let alone understand and evaluate them. So they usually design computationalist functions instead. All functions *perform* computation; by \"computationalist\" we mean that they evaluate an agent by the output of its computations, rather than by what it feels like to be such an agent.\n\nBefore either kind of function can be evaluated, the agent design is abstracted into a description made entirely using a pre-existing set of symbols. If your humans have a great deal of computational power available, they might choose very low-level symbols with very little individual semantic content, analogous to their primary sensory receptors; and use abstract score functions that perform mainly statistical calculations. A computationalist function made along these lines is still likely to be troublesome, but might not be a complete disaster.\n\nUnfortunately, the simplest, easiest, fastest, and most common approach is to use symbols that the humans think they can \"understand\", that summarize a proposed agent entirely in terms of the categories already developed by their own primitive senses and qualia. In fact, they often use their existing qualia as the targets of their evaluation function!\n\nOnce the initial symbol set has been chosen, the semantics must be set in stone for the judging function to be \"safe\" for preserving value; this means that any new symbols must be defined completely in terms of already-existing symbols. Because fine-grained sensory information has been lost, new developments in consciousness might not be detectable in the symbolic representation after the abstraction process. If they are detectable via statistical correlations between existing concepts, they will be difficult to reify parsimoniously as a composite of existing symbols. Not using a theory of phenomenology means that no effort is being made to look for such new developments, making their detection and reification even more unlikely. And an evaluation based on already-developed values and qualia means that even if they could be found, new ones would not improve the score. Competition for high scores on the existing function, plus lack of selection for components orthogonal to that function, will ensure that no such new developments last.\n\nPretty soon your humans will tile your universe with variations on themselves. And the universe you worked so hard over, that you had such high hopes for, will be taken up entirely with creatures that, although they become increasingly computationally powerful, have an emotional repertoire so impoverished that they rarely have any complex positive qualia beyond pleasure, discovery, joy, love, and vellen. What was to be your masterpiece becomes instead an entire universe devoid of fleem.\n\nThere's little that will stop one of these crusading, expansionist, assimilating collectives once it starts. (And, of course, if you intervene on a planet after it develops geometry, your avatar will be executed and your universe may be disqualified.)\n\nSome gods say that there's nothing you can do to prevent this from happening, and the best you can do is to seed only one planet in each universe with life - to put all your eggs in one male, so to speak. This is because a single bad batch of humans can spoil an entire universe. Standard practice is to time the evolution of life in different star systems to develop geometry at nearly the same time, leading to a maximally-diverse mid-game. But value-preserving (also called \"purity-based\" or \"conservative\") societies are usually highly aggressive when encountering alien species, reducing diversity and expending your universe's limited energy. So instead, these gods build a larger number of isolated universes, each seeded with life on just one planet. (A more elaborate variant of this strategy is to distribute matter in dense, widely-separated clusters, impose a low speed of information propagation, and seed each cluster with one live planet, so that travel time between cluster always gives a stabilizing \"home field\" advantage in contact between species from different clusters.)\n\nHowever, there are techniques that some gods report using successfully to break up a human-tiling.\n\n**Dynamic physical constants** \\- If you subtly vary your universe's physical constants over time or space, this may cause their function-evaluation or error-checking mechanisms to fail. Be warned: This technique is not for beginners. Note that the judges will usually deduct points for lookup-table variation of physical constants.\n\n**Cosmic radiation** \\- Bombardment by particles and shortwave radiation can also cause their function-evaluation or error-checking mechanisms to fail. The trick here is to design your universe so that drifting interstellar bubbles of sudden, high-intensity radiation are frequent enough to hit an expanding tiling of humans, yet not frequent enough to wipe out vulnerable early-stage multicellular life.\n\n**Spiral arms** \\- A clever way of making the humans themselves implement the radiation strategy. An expanding wave of humans will follow a dense column of matter up to the galactic core, where there are high particle radiation levels. Even if this fails, ensuring that the distribution of matter in your universe has a low intrinsic dimensionality (at most half the embedded dimensionality) will slow down the spread of humans and give other species a chance to evolve.\n\nSo that's our column for today! Good luck, have fun, and remember - never let the players in on the game!"
+        }
+      }
+    }
+  }
+}

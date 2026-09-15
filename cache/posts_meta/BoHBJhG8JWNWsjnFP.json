@@ -1,0 +1,23 @@
+{
+  "_id": "BoHBJhG8JWNWsjnFP",
+  "slug": "a-letter-to-his-highness-louis-xv-the-king-of-france",
+  "title": "A Letter to His Highness Louis XV, the King of France",
+  "postedAt": "2025-04-22T00:51:12.090Z",
+  "baseScore": 2,
+  "wordCount": 178,
+  "commentCount": 0,
+  "user": {
+    "displayName": "testingthewaters",
+    "slug": "testingthewaters"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

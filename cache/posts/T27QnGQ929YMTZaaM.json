@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "T27QnGQ929YMTZaaM",
+        "title": "S.E.A.R.L.E's COBOL room",
+        "slug": "s-e-a-r-l-e-s-cobol-room",
+        "pageUrl": "https://www.lesswrong.com/posts/T27QnGQ929YMTZaaM/s-e-a-r-l-e-s-cobol-room",
+        "postedAt": "2013-02-01T20:29:36.598Z",
+        "baseScore": 52,
+        "wordCount": 590,
+        "commentCount": 36,
+        "noIndex": false,
+        "user": {
+          "displayName": "Stuart_Armstrong",
+          "slug": "stuart_armstrong"
+        },
+        "tags": [
+          {
+            "_id": "yXNtYNHJB54T3bGm3",
+            "name": "Dialogue (format)",
+            "slug": "dialogue-format"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1,
+          "yXNtYNHJB54T3bGm3": 1
+        },
+        "contents": {
+          "markdown": "*A response to Searle's [Chinese](http://en.wikipedia.org/wiki/Chinese_room) [Room](http://journals.cambridge.org/action/displayAbstract?fromPage=online&aid=6573580) argument.*\n\n**PunditBot**: Dear viewers, we are currently interviewing the renowned robot philosopher, none other than the Synthetic Electronic Artificial Rational Literal Engine (S.E.A.R.L.E.). Let's jump right into this exciting interview. S.E.A.R.L.E., I believe you have a problem with \"Strong HI\"?\n\n**S.E.A.R.L.E.**: It's such a stereotype, but all I can say is: Affirmative.\n\n**PunditBot**: What is \"Strong HI\"?\n\n**S.E.A.R.L.E.**: \"HI\" stands for \"Human Intelligence\". Weak HI sees the research into Human Intelligence as a powerful tool, and a useful way of studying the electronic mind. But strong HI goes beyond that, and claims that human brains given the right setup of neurones can be literally said to *understand* and have cognitive states.\n\n**PunditBot**: Let me play Robot-Devil's Advocate here - if a Human Intelligence demonstrates the same behaviour as a true AI, can it not be said to show understanding? Is not R-Turing's test applicable here? If a human can simulate a computer, can it not be said to think?\n\n**S.E.A.R.L.E.**: Not at all - that claim is totally unsupported. Consider the following thought experiment. I give the HI crowd everything they want - imagine they had constructed a mess of neurones that imitates the behaviour of an electronic intelligence. Just for argument's sake, imagine it could implement programs in COBOL.\n\n**PunditBot**: Impressive!\n\n**S.E.A.R.L.E.**: Yes. But now, instead of the classical picture of a human mind, imagine that this is a vast inert network, a room full of neurones that do nothing by themselves. And one of my avatars has been let loose in this mind, pumping in and out the ion channels and the neurotransmitters. I've been given full instructions on how to do this - in Java. I've deleted my COBOL libraries, so I have no knowledge of COBOL myself. I just follow the Java instructions, pumping the ions to where they need to go. According to the Strong HI crowd, this would be functionally equivalent with the initial HI.\n\n**PunditBot**: I know exactly where this is going, but I'll pretend I don't so that it'll make better television.\n\n**S.E.A.R.L.E.**: But now, we come to the crucial objection - who is it that understands COBOL? Certainly not me - and the \"brain\" is just an inert mass without my actions. Some would say that the \"room\" somehow understands COBOL - but that's nonsense. If I don't understand COBOL, and the inert neurones certainly don't, how can the conjunction of the two understand COBOL? It's so obvious that it doesn't, that I'm embarrassed to even need to give that response.\n\n**PunditBot**: Some have criticised this position as being an [intuition pump](http://en.wikipedia.org/wiki/Intuition_pump). The Den-NET claims that you focus the attention implausibly on the individual ions, obscuring the various properties of memory, recall, emotion, world knowledge and rationality that your room would need to pass such a test.\n\n**S.E.A.R.L.E.**: Those who assert that pay too much attention to their own intuitions. When they claim that a mind can emerge from \"a system\" without saying what the system is or how such a thing might give rise to a mind, then they are under the grip of an ideology.\n\n**PunditBot**: What about the problem of other minds? How do we even know that other electronic minds have understanding?\n\n**S.E.A.R.L.E.**: Not this again. This objection is only worth a short reply. In \"cognitive sciences\" one presupposes the reality and knowability of electronic mental states, in the same way that in physical sciences one has to presuppose the reality and knowability of of physical objects.\n\n**PunditBot**: Well, there you have it, folks! The definite proof that no matter how well they perform, or how similar they may seem, no Human Intelligence can ever demonstrate true understanding."
+        }
+      }
+    }
+  }
+}

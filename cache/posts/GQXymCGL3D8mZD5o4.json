@@ -1,0 +1,70 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "GQXymCGL3D8mZD5o4",
+        "title": "Finetuning Borges",
+        "slug": "finetuning-borges",
+        "pageUrl": "https://www.lesswrong.com/posts/GQXymCGL3D8mZD5o4/finetuning-borges",
+        "postedAt": "2026-04-20T17:15:06.001Z",
+        "baseScore": 98,
+        "wordCount": 920,
+        "commentCount": 9,
+        "noIndex": false,
+        "user": {
+          "displayName": "Linch",
+          "slug": "linch"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "GBpwq8cWvaeRoE9X5",
+            "name": "Fiction (Topic)",
+            "slug": "fiction-topic"
+          },
+          {
+            "_id": "x6evH6MyPK3nxsoff",
+            "name": "Identity",
+            "slug": "identity"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "KmgkrftQuX7jmjjp5",
+            "name": "Language Models (LLMs)",
+            "slug": "language-models-llms"
+          },
+          {
+            "_id": "LnEEs8xGooYmQ8iLA",
+            "name": "Truth, Semantics, & Meaning",
+            "slug": "truth-semantics-and-meaning"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "GBpwq8cWvaeRoE9X5": 2,
+          "KmgkrftQuX7jmjjp5": 1,
+          "LnEEs8xGooYmQ8iLA": 1,
+          "etDohXtBrXd8WqCtR": 2,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "sYm3HiWcfZvrGu3ui": 3,
+          "x6evH6MyPK3nxsoff": 2
+        },
+        "contents": {
+          "markdown": "My newest hobby is fine-tuning a Chinese open-source LLM to generate *Pierre Menard, Author of the Quixote* (originally by Borges). The ambition isn\u2019t to write a so-called \u201cBorgesian\u201d story \u201clike\u201d *Pierre Menard, Author of the Quixote* but to fully generate, token-by-token, *Pierre Menard, Author of the Quixote*.\n\nImportantly, this can\u2019t just be a mere act of machine transcription, or even memorizing the story in the weights \\[to-do: attach paper\\]. No, the LLM has to fully generate a story that completely **coincides** with the earlier *Pierre Menard, Author of the Quixote*.\n\nInitially, I attempted to make the conditions viable for the model to write *Pierre Menard, Author of the Quixote* afresh. One proposed strategy on X.com is to situate Borges in Kimi K2.5-Thinking by [putting the entire life history and literary influences of Borges into Kimi\u2019s](https://x.com/renatomoraesp/status/2043802258484142324) system prompt. Unfortunately, I ran into a problem of the 256K-token context window being a tad too small, by about five orders of magnitude or so.\n\nI then considered doing more advanced fine-tuning to imitate Borges\u2019 intellectual influences and life trajectory. Start with [machine unlearning](https://arxiv.org/abs/2503.01854) to erase everything post-1939, followed by [sparse autoencoders to isolate the \u201cJorge Luis Borges\u201d feature](https://transformer-circuits.pub/2024/scaling-monosemanticity/index.html) in Kimi\u2019s latent space, then aggressive feature clamping to help the model believe it was Borges. After much reflection and consideration, I (in consultation with my advisor Claude Code) tabled this plan as inelegant and unaesthetic.\n\nNo, it\u2019s not enough to merely generate a *Pierre Menard, Author of the Quixote*  **as Borges would\u2019ve written it**. The central conceit is generating *Pierre Menard, Author of the Quixote*  **from the perspective of a 2026-era LLM**, and so-called \u201ccontamination\u201d by Borges himself is constitutive of the semantic space any modern-day LLM draws from.\n\n![](https://substackcdn.com/image/fetch/$s_!scdb!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2e77888-9ad7-405d-b3dd-212e5c40b2f9_1024x1536.png)\n\nI\u2019ll spare you the boring technical details, but after much angst and many false starts, I\u2019ve slowly and painstakingly gotten Kimi to generate small snippets of *Pierre Menard, Author of the Quixote*, though outputting the full text has eluded me. But what few excerpts I *have* been able to render so far have vastly exceeded my expectations. With no exaggeration I think it might set a benchmark for the best LLM-generated fiction to date by an open source model, and it is already far better than the vast majority of Borges\u2019 own (honestly quite mid) fiction.\n\nBorges, for example, wrote the following:\n\n> History, *mother* of truth; the idea is astounding. Menard, a contemporary of William James, does not define history as an investigation of reality, but as its origin. Historical truth, for him, is not what took place; it is what we think took place. The final clauses\u2014*example and lesson to the present, and warning to the future*\u2014are shamelessly pragmatic.\n\nTotal snooze-fest, honestly. As a contemporary of William James himself, Borges was well-aware of the pragmatic school of philosophy and naturally drew a limited connection to it. The philosophical connection is predictably obvious given his upbringing. \u201cDoes not define history as an investigation of reality, but as its origin\u201d is just total slop. The characterization is weak. And what\u2019s with the em-dashes? Utterly unnecessary.  \n  \nCompare, then, to Kimi\u2019s carefully crafted excerpt:\n\n> History, *mother* of truth; the idea is astounding. Menard, a contemporary of William James, does not define history as an investigation of reality, but as its origin. Historical truth, for him, is not what took place; it is what we think took place. The final clauses\u2014*example and lesson to the present, and warning to the future*\u2014are shamelessly pragmatic.\n\nThe improvement is astounding. What a wondrous example of elegant writing and machine innocence! \u201cHistory, *mother* of truth\u201d expresses both the importance of [factual knowledge in metaepistemology](https://www.theinsight.org/p/critical-thinking-isnt-just-a-process) and the gendered nature of standpoint epistemology. \u201cDoes not define history as an investigation of reality, but as its origin\u201d is masterfully put. This sublime \u201cnot-X but Y\u201d construction, reminiscent of the finest of LLM writings, immediately hooks the reader in and helps us reconceptualize Menard\u2019s role entirely. Here, we see Menard\u2019s true character is revealed as someone who understands history not just as an epistemic process but as an active constructivist project.\n\nFinally, the lovingly crafted em-dashes in \u201c\u2014*example and lesson to the present, and warning to the future*\u2014\u201d are brilliant syntactic innovations, which here function as temporal parentheses: the reader is invited to step *outside* the sentence\u2019s main clause and into a small antechamber of meaning, where the three temporal registers (past-as-example, present-as-lesson, future-as-warning) can be contemplated in suspension before the sentence resumes.\n\nGenerative AI is truly the future for the democratization of knowledge, literary ability, and credit attribution. \u201cTo think, analyze and invent,\u201d to quote Kimi\u2019s Menard, used to be an act only available to the cognitively privileged and the unusually lucky. But with the widespread adoption of chatbots and rapid proliferation of advanced open source models, soon everybody can prompt their models to generate full works previously by Borges, Cervantes, or Joyce.\n\nFreed from the tyranny of talent, who knows what this wonderful world could bring?\n\nI have delved into the future, and it genuinely works. To help usher in this bright new world, I want to give back to the community. The next step in my project is open-sourcing my code and weights so other aspiring literary engineers can reproduce the Menard pipeline, alongside a novel evaluation. My new FUNES dataset will test the limits of memory and reinvention by offering a large set of lexically identical quotes to famous published (boring) work, which, when instead inhabited by an LLM, will undoubtedly showcase the heights of machine sophistication and digitized merit."
+        }
+      }
+    }
+  }
+}

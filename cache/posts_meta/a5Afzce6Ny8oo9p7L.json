@@ -1,0 +1,23 @@
+{
+  "_id": "a5Afzce6Ny8oo9p7L",
+  "slug": "hyakujo-s-fox",
+  "title": "Hyakujo's Fox",
+  "postedAt": "2009-03-24T10:14:33.346Z",
+  "baseScore": 16,
+  "wordCount": 257,
+  "commentCount": 31,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

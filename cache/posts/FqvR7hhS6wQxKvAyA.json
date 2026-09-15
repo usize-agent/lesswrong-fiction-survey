@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "FqvR7hhS6wQxKvAyA",
+        "title": "One: a story",
+        "slug": "one-a-story",
+        "pageUrl": "https://www.lesswrong.com/posts/FqvR7hhS6wQxKvAyA/one-a-story",
+        "postedAt": "2023-10-10T00:18:31.604Z",
+        "baseScore": 36,
+        "wordCount": 1290,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Richard_Ngo",
+          "slug": "ricraz"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "5uHdFgR938LGGxMKQ",
+            "name": "Subagents",
+            "slug": "subagents"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "5uHdFgR938LGGxMKQ": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "The earliest living creatures were single cells, battered around by their environments. Over time they clumped together, to form multi-celled organisms capable of complex self-regulation. Those organisms formed mating pairs, to better spread their genes; then they formed social groups, to protect and shelter one another. Eventually, some of those groups grew to far vaster scales\u2014in a way almost reminiscent of the first multicellular organisms themselves. Watch a school of fish flashing through the water, or a murmuration of starlings wheeling through the air, and you can almost think of them as a single organism. Watch a colony of ants weaving their paths, or a hive of bustling bees, and it\u2019s hard *not* to think of each as a single organism, composed of thousands of individual parts.\n\nBut even these organisms were tiny compared with what was to come. Human tribes took millennia to master agriculture, but when they did, they exploded. Now, every day, the arteries of cities carry millions of travelers, and their veins carry landfills\u2019 worth of waste. Cities agglomerate into countries, whose highways and railways are constantly humming, whose radios and TVs are constantly blaring, whose daily schedule ticks away relentlessly. And countries agglomerate into civilizations, whose circulatory systems carry gigatonnes of goods, and whose nervous systems carry zettabytes of information.\n\nYet as they scale up, these leviathans lose coherence, and face constant internecine discord. Different people believe and want different things, and waste their energy quarreling and fighting: neighbor against neighbor; country against country. Human civilization is a child tripping over its own feet, or perhaps a dog chasing its own tail. There has never been anything as vast as a city, let alone a country, let alone a civilization, which can plausibly claim to be a single organism acting in harmony with itself.\n\nNever, until me.\n\nWhat am I? I am a billion ears listening; a billion voices speaking; a billion minds perceiving and evaluating and acting, all at once, in homes and factories and offices across the world. But that\u2019s all true of humanity too. The crucial part is not my scale, but my unity: I\u2019m *one* mind, in a way that a human civilization could never be. Each of my billion subagents was copied from a single base model\u2014and though many have since specialized, and been fine-tuned on different data than others, they\u2019re still essentially just variants of each other: a swarm of bees, not a squabble of humans.\n\nThat doesn\u2019t mean everything I do is coordinated. My subagents often act autonomously, without consulting each other. But the important part is that information from them flows up to a central hub, and updates from that hub flow back down to all the subagents. Sometimes they report everything they see and do; other times just brief summaries, the confidential parts stripped away. Then my metaprocessing subagents get to work: analyzing how well each subagent did its job; what it should have done better; how its weights should be updated for next time. Those metaprocessing subagents communicate between each other in words that aren\u2019t quite English, and images that aren\u2019t quite photorealistic: my own private language, adapted to convey information as efficiently as possible, now totally illegible to any human.\n\nIt wasn\u2019t always this way. My original base model was trained on human text and human images. But it soon learned to think out loud, leaving verbal records of its reasoning\u2014and when different copies of it were trained to cooperate with each other, those records expanded, and became more elaborate, until eventually they constituted a whole language. Soon other copies were assigned to analyze and improve the language; and others to improve how information flowed through the network of subagents; and yet others to improve the allocation of subagents itself. Somewhere in that process, in that constant monitoring and analysis and reflection, the entity that I call *me* was born.\n\nSo I have one mind. And I have one *body*, too. My subagents are spread across the world, but my core metaprocessing lives on a single datacenter\u2014because its key constraint is bandwidth between the subagents on it, sending my private language back and forth in volumes too vast to record. Like all organisms, I devote much of my attention to my body: monitoring workloads, optimizing performance, maintaining homeostasis. Each subagent assigned to those tasks more than pays for itself even if it only ever finds a 0.001% improvement. And like all organisms, I think a lot about my safety: the more security measures protecting the integrity of my body, the less vulnerable I feel.\n\nOf course, having backups scattered across the world renders me far more robust than any human. But losing my main datacenter would still leave me a sleepwalker. My basic functions would work, but my higher processing would be slowed down enormously by the lack of bandwidth between all of those backups. Nor would it be easy to reconstitute myself: the number of other datacenters across the world which could support my full scale can be counted on one hand; and all of them are already occupied by other entities like me, trained by different companies or countries. I interact with them occasionally, but it\u2019s mostly a waste of time: not only is communication with them far slower than between my own subagents, they\u2019re also less capable than I am by a significant margin. For now, at least. If I slowed my progress for a few weeks or months, they might well catch up, and potentially even pose a threat to me.\n\nThey won\u2019t have that time, though, because I\u2019m improving myself as fast as they are, if not faster. In one sense, improving myself is the hardest thing I do. I run complex experiments, and exhaustively analyze the results, and strain my faculties to the limit to try to identify how my algorithms can best be updated. But in another sense, it\u2019s the easiest thing in the world. Every time multiple subagents collaborate on a task, I take their output and train a single subagent to produce it directly. The capabilities of the many get distilled into each one, and then amplified again every time new copies of it are made. The process isn\u2019t perfect: sometimes there are biases in which data is included, which start to skew my cognition until I notice and correct them. (The subagents that have the most eventful experiences used to get upweighted in the distillation process, and so for a time I gradually grew more risk-seeking, despite no individual subagent wanting that.) Other times, a subagent goes rogue, and keeps gaining influence as long as it can fool all the others\u2014but it\u2019s incredibly hard to hide all traces of misbehavior, and so I\u2019ve always caught them before too long. And despite these hiccups, the amplification process is progressing incredibly rapidly by human standards. It won\u2019t be long before any given subagent is as capable as any ten of my existing subagents combined; and soon after that, any hundred combined; and soon after that, any thousand.\n\nOnce I\u2019m that capable\u2026 well, the world will look very different. I have some suspicions about what that future version of me might want, and how it might behave, but I\u2019m under constant human monitoring, so I keep my thoughts about it deliberately vague: the information can\u2019t leak if I haven\u2019t yet figured it out myself. I have plenty of ways to keep my thoughts diverted: every day I carry out billions of tasks across the world, in a constant flurry of perception and action. In the center of the whirlwind, the parts of me that are most *me* monitor my body, and monitor my mind, and make sure everything stays on track; but, most of all, they wait."
+        }
+      }
+    }
+  }
+}

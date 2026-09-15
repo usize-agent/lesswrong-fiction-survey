@@ -1,0 +1,23 @@
+{
+  "_id": "4PSvYYCYSGtCgE5WM",
+  "slug": "should-we-just-quit",
+  "title": "Should we just quit?",
+  "postedAt": "2026-06-27T13:44:05.040Z",
+  "baseScore": 3,
+  "wordCount": 903,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Jacob Abraham",
+    "slug": "jacob-abraham"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

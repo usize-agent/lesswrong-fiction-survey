@@ -1,0 +1,29 @@
+{
+  "_id": "uWM5auewdKjdJJG9t",
+  "slug": "the-book-of-hpmor-fanfics",
+  "title": "The Book of HPMOR Fanfics",
+  "postedAt": "2020-07-03T13:32:17.536Z",
+  "baseScore": 44,
+  "wordCount": 221,
+  "commentCount": 18,
+  "user": {
+    "displayName": "Mati_Roy",
+    "slug": "mathieuroy"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "yrg267i4a8EsgYAXp",
+      "name": "HPMOR (discussion & meta)",
+      "slug": "hpmor-discussion-and-meta"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 11,
+    "yrg267i4a8EsgYAXp": 7
+  }
+}

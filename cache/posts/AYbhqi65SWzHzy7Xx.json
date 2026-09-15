@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "AYbhqi65SWzHzy7Xx",
+        "title": "Transhumanist Fables",
+        "slug": "transhumanist-fables",
+        "pageUrl": "https://www.lesswrong.com/posts/AYbhqi65SWzHzy7Xx/transhumanist-fables",
+        "postedAt": "2013-05-28T01:55:20.000Z",
+        "baseScore": 137,
+        "wordCount": 800,
+        "commentCount": 7,
+        "noIndex": false,
+        "user": {
+          "displayName": "Scott Alexander",
+          "slug": "scottalexander"
+        },
+        "tags": [
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          },
+          {
+            "_id": "jiuackr7B5JAetbF6",
+            "name": "Transhumanism",
+            "slug": "transhumanism"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 2,
+          "hNFdS3rRiYgqqD8aM": 3,
+          "jiuackr7B5JAetbF6": 2
+        },
+        "contents": {
+          "markdown": "Once upon a time there were three little pigs who went out into the world to build their houses. The first pig was very lazy and built his house out of straw. The second pig was a little harder-working and built his house out of sticks. The third pig was the hardest-working of all, and built his house out of bricks. Then came the Big Bad Wolf. When he saw the house of straw, he huffed and he puffed and he blew the house down, eating the first little pig. When he saw the house of sticks, he huffed and he puffed and he blew the house down, eating the second little pig. When he saw the house of bricks, he got out a bazooka and blew the house to pieces, eating the third little pig.\n\n**Moral:** Reality doesn\u2019t grade on a curve.\n\n* * *\n\nOnce upon a time there was a big strong troll who lived under a bridge. A little goat went across the bridge, and the troll reached out to grab and eat the goat. \u201cWait, Mr. Troll!\u201d, the goat cried. \u201cSoon my brother is coming, and he is even bigger than I am!\u201d The troll let the goat pass, and soon came another goat, twice as big as the first. The troll reached out to grab and eat him, but the brother likewise objected, saying *his* brother was even bigger. Sure enough, a third goat arrived at the bridge, twice as big as the second, and the troll, now ready for a very hearty dinner, reached out to grab and eat him. \u201cWait!\u201d said the third goat. \u201cMy brother is the biggest of us all!\u201d. So the troll let the third goat pass. Then came the fourth goat, who was hundreds of miles tall and blotted out the sun, whose very steps caused earthquakes and made the rivers change course. Without even noticing, he stepped on bridge and troll, pulverizing both to bits.\n\n**Moral:** Sometimes growth is superexponential.\n\n* * *\n\nOnce upon a time, Chicken Little ran to her friend Henny Penny. \u201cThe sky is falling!\u201d she shouted. \u201cWe must tell the king!\u201d Henny Penny joined her, and together they headed toward the capital. On their way they run into their friend Goosey Loosey. \u201cThe sky is falling!\u201d they shouted. \u201cWe must tell the king!\u201d Goosey Loosey joined them, and together they headed toward the capital. On their way, they ran into the cunning Foxy Loxy. \u201cThe sky is falling!\u201d they shouted. \u201cWe must tell the king!\u201d \u201cOh,\u201d said Foxy Loxy. \u201cI know a shortcut to the palace. Follow me into my den.\u201d So the birds all followed Foxy Loxy into his den, where he ate them all, laughing all the while about how gullible they were. Then an asteroid hit Earth, killing everyone.\n\n**Moral:** Beware [the absurdity heuristic](http://wiki.lesswrong.com/wiki/Absurdity_heuristic).\n\n* * *\n\nOnce upon a time, a young boy named Jack lived with his mother. Their family was very poor and owned only a single cow. \u201cGo sell this cow at the market,\u201d Jack\u2019s mother told him, \u201cso we will have food to eat for the winter.\u201d Jack went to the market and came back with three beans. \u201cThese are magic beans!\u201d he told his mother. \u201cA man told me that when we plant them, they will grow into a beanstalk leading to a land of infinite riches.\u201d His mother pooh \u2013 poohed him and threw the beans in the ground angrily. That winter, they both died of hunger.\n\n**Moral:** Good decision theories should [be able to resist Pascal\u2019s Mugging](http://wiki.lesswrong.com/wiki/Pascal%27s_mugging).\n\n* * *\n\nOnce upon a time, there was an old woodcutter who had no son. He made a little marionette out of pine wood and named it Pinocchio. Then he wished upon a star that it could become a real boy. The star turned out to be the evil Red Fairy, who brought Pinocchio to life, but told him that if he wanted to be a real boy he must murder everyone in the village. That night, Pinocchio took his father\u2019s saw and killed Gepetto and everyone else in town.\n\n**Moral:** Never create an intelligence unless you are certain it will share your values.\n\n* * *\n\nOnce upon a time, an evil witch transformed a prince into a frog, telling him that only the kiss of a princess could restore him to his proper form. But although he searched around the world, he could find no princess who was willing to kiss a hideous little frog. Finally, he went to the Wise Wizard. \u201cGender is a social construct,\u201d said the Wise Wizard. \u201cJust declare your gender identity to be female, then kiss yourself on the hand or something.\u201d So the frog did that, returned to human form, and ruled the land for many years as a wise and benevolent queen.\n\n**Moral:** Ability to self-modify is just *ridiculously* powerful."
+        }
+      }
+    }
+  }
+}

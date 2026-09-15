@@ -1,0 +1,29 @@
+{
+  "_id": "MnHtQtzrLW3sshtqJ",
+  "slug": "chapter-119-something-to-protect-albus-dumbledore",
+  "title": "Chapter 119: Something to Protect: Albus Dumbledore",
+  "postedAt": "2015-03-14T19:00:59.687Z",
+  "baseScore": 26,
+  "wordCount": 9662,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb20f",
+      "name": "Something To Protect",
+      "slug": "something-to-protect"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb20f": 2
+  }
+}

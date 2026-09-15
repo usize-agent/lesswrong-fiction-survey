@@ -1,0 +1,29 @@
+{
+  "_id": "zGihqmASve7v5q7SX",
+  "slug": "tall-tales-and-long-odds",
+  "title": "Tall tales and long odds",
+  "postedAt": "2024-08-10T15:22:16.958Z",
+  "baseScore": 11,
+  "wordCount": 1419,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Solenoid_Entity",
+    "slug": "solenoid_entity"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

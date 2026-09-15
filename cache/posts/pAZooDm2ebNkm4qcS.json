@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "pAZooDm2ebNkm4qcS",
+        "title": "Living with Rats in College",
+        "slug": "living-with-rats-in-college",
+        "pageUrl": "https://www.lesswrong.com/posts/pAZooDm2ebNkm4qcS/living-with-rats-in-college",
+        "postedAt": "2024-12-25T10:44:13.085Z",
+        "baseScore": 34,
+        "wordCount": 263,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "pszEEb3ctztv3rozd": 2
+        },
+        "contents": {
+          "markdown": "When I was in college, I rented a group house with 5 other nerds. There were 5 bedrooms to divide among the 6 of us, so I negotiated an agreement where I paid less rent in exchange for sleeping in the hallway. This wasn't as bad as it sounds. My bedroom wasn't hallway-sized. It was bedroom-sized and even had a window, but a hallway ran through it, so the landlady put up a curtain between the \"hallway\" part of my room and the \"bedroom\" part of my room. Who needs 4/4 walls anyways?\n\nOne of my house-mates was named Emerson. Emerson had a friend named Stella who unintentionally bred pet rats. Stella's landlord wouldn't let Stella keep her pet rats in Stella's apartment, so Emerson offered to house them temporarily. \"Temporarily\" became \"until the end of our two-year lease\". Did our landlady allow caged rats? I don't know. I never asked.\n\nEmerson lived upstairs. Upstairs had two bathrooms. Emerson put the giant rat cage in the bathtub of one of the bathrooms. Sometimes the rats would escape the cage and Emerson would have to cajole the rats out from under the sink. That was fine by me because I lived downstars.\n\nWhen we had parties[^1], I always warned guests, \"Use the bathroom on the left. The bathroom on the right is full of rats\". They were always very confused, as if \"the bathroom is full of rats\" meant something other than \"the bathroom is full of rats\". Sometimes they would look inside anyway and be surprised that the bathroom was full of rats.\n\n[^1]: There was no music and no alcohol. These were \"college parties\" in the sense that the Zaatari Syrian War Refugee Camp, established in July 2012, is technically a summer home. My most vivid memory of these events was pausing *Primer (2004)* to examine the equations in the background. Our landlady loved us because we never damaged the property or provoked noise complaints."
+        }
+      }
+    }
+  }
+}

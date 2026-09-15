@@ -1,0 +1,23 @@
+{
+  "_id": "rKEgi2cBvBwbN2tfX",
+  "slug": "interdictor-ship",
+  "title": "Interdictor Ship",
+  "postedAt": "2024-08-19T04:59:18.487Z",
+  "baseScore": 63,
+  "wordCount": 1956,
+  "commentCount": 10,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

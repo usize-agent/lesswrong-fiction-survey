@@ -1,0 +1,23 @@
+{
+  "_id": "5e7hnJsgpCmvFdGnc",
+  "slug": "jacob-on-the-precipice",
+  "title": "Jacob on the Precipice",
+  "postedAt": "2023-09-26T21:16:39.590Z",
+  "baseScore": 48,
+  "wordCount": 3351,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

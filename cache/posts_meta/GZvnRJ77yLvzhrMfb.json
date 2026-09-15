@@ -1,0 +1,29 @@
+{
+  "_id": "GZvnRJ77yLvzhrMfb",
+  "slug": "short-story-who-is-nancygonzalez8451097",
+  "title": "Short story: Who is nancygonzalez8451097",
+  "postedAt": "2025-05-02T21:01:56.288Z",
+  "baseScore": 13,
+  "wordCount": 1482,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Anders Lindstr\u00f6m",
+    "slug": "anders-lindstroem"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

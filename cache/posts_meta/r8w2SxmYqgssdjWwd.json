@@ -1,0 +1,35 @@
+{
+  "_id": "r8w2SxmYqgssdjWwd",
+  "slug": "when-omnipotence-is-not-enough",
+  "title": "When Omnipotence is Not Enough",
+  "postedAt": "2023-08-25T19:50:51.038Z",
+  "baseScore": 74,
+  "wordCount": 561,
+  "commentCount": 4,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 3,
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

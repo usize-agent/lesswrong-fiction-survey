@@ -1,0 +1,35 @@
+{
+  "_id": "px8ha4wSXcmfejEF9",
+  "slug": "anti-corruption-market",
+  "title": "Anti-Corruption Market",
+  "postedAt": "2022-04-01T12:57:31.697Z",
+  "baseScore": 111,
+  "wordCount": 456,
+  "commentCount": 23,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "R6dqPii4cyNpuecLt",
+      "name": "Prediction Markets",
+      "slug": "prediction-markets"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "R6dqPii4cyNpuecLt": 2,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

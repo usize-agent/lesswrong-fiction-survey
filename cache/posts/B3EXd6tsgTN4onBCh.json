@@ -1,0 +1,58 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "B3EXd6tsgTN4onBCh",
+        "title": "Short story speculating on possible ramifications of AI on the art world",
+        "slug": "short-story-speculating-on-possible-ramifications-of-ai-on",
+        "pageUrl": "https://www.lesswrong.com/posts/B3EXd6tsgTN4onBCh/short-story-speculating-on-possible-ramifications-of-ai-on",
+        "postedAt": "2022-09-01T21:15:00.031Z",
+        "baseScore": 30,
+        "wordCount": 857,
+        "commentCount": 8,
+        "noIndex": false,
+        "user": {
+          "displayName": "Yitz",
+          "slug": "yitz"
+        },
+        "tags": [
+          {
+            "_id": "KDpqtN3MxHSmD4vcB",
+            "name": "Art",
+            "slug": "art"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "33BrBRSrRQS4jEHdk",
+            "name": "Forecasts (Specific Predictions)",
+            "slug": "forecasts-specific-predictions"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          },
+          {
+            "_id": "7mTviCYysGmLqiHai",
+            "name": "Writing (communication method)",
+            "slug": "writing-communication-method"
+          }
+        ],
+        "tagRelevance": {
+          "33BrBRSrRQS4jEHdk": 2,
+          "7mTviCYysGmLqiHai": 2,
+          "KDpqtN3MxHSmD4vcB": 2,
+          "etDohXtBrXd8WqCtR": 2,
+          "pszEEb3ctztv3rozd": 2
+        },
+        "contents": {
+          "markdown": "I did not write this, but randomly stumbled upon a link to this story on Twitter (I unfortunately cannot find the original tweet). It's written by an individual who is pessimistic about the impact AI-generated art will have on creatives, and I found some of the author's predictions to be thought-provoking (although I do not fully share their views, and am not sure what to make of the second half of the story). Some relevant excerpts:\n\n> No one wanted to read the human stuff anymore, or at least not the kind of thing that had been put on WattPad, AO3, and RoyalRoad by the thousands in the decade that preceded the AI revolution. There were attempts to make those sites human-only, but that was hard, with the models so readily available, and the AI didn\u2019t leave many fingerprints. There had been a relationship between writers and readers, and now the readers had all gone for greener pastures.\n> \n> If you were the average writer, there was no more audience for you.\n> \n> ....\n> \n> The balance of supply and demand had shifted, and everyone felt it. Readers could go get the good AI stuff, and writers were scrambling to pick up readers. Some writers didn\u2019t care, and just continued on, but others were desperate for any sign that what they were doing was meaningful or good or just something other than an irrelevant collection of squiggles on a computer screen.\n> \n> ....\n> \n> WattPad rolled out their Artificial Engagement program, where an AI would read your story and make some comments on each chapter. At the trial level, you\u2019d get five of those comments on every chapter. If you wanted to go premium, you\u2019d get unique personalities for the AE users and full paragraphs talking about what they liked and didn\u2019t like. At the ultra premium level, the AE would interact with each other and have their own little mock community with inside jokes and fanart and shitposting and memes. That was $50 a month. Of course, the technology was already there to do most of that yourself, if you wanted to live in a fantasy land. The real draw was that it was on one of the old websites that made it feel real.\n> \n> ....\n> \n> Charlotte saw the first ad on RoyalRoad. It said \u201cEager Readers in Your Area!\u201d She had thought that it was a joke, but she\u2019d clicked on it anyway....There were rates for different services. It had taken a moment to parse it: people would read your stuff if you paid them. In the past, readers had paid good money to commission work from writers, had even put up money on Patreon to make sure the stories would go on, but now the tables had turned, and apparently there were mercenary readers.\n> \n> \\[From later on:\\] But if you wanted to pay more money, you could have a Skype call. Those were harder to fake, at least with the current technology. Realtime video was a problem that might be solved in another month or in five years, it was hard to say, but with a high resolution stable connection where the other person was responding to your questions and comments, you could be certain that there was a real person on the other end.\n> \n> That didn\u2019t really mean anything though. A real person could read from a script that an AI had written, and the AI could write it in real time. The person might be real, but they might just be an actor who hadn\u2019t actually read anything.\n> \n> ....At the highest level on offer, you\u2019d meet in person. The reader would read your work in front of you, then you\u2019d spend an hour talking about it, or more, if you had the money. The website stressed that this was no joke, that they had readers in virtually every large city in America, that these were skilled, motivated readers who *actually would* read what you had written.\n\nI find the concrete projection of \"AI readers/reviewers-as-a-service\" highly plausible, and expect to see something of this sort developed and commercialized fairly soon. The author's insight about there being value in sticking to older platforms to give \"authenticity\" to bot reviewers strikes me as possible, possibly for the same reason that many popular memes will fake the look of private text messages.\n\nI agree with the author in that I strongly suspect AI to outcompete humans in terms of writing quality, though I don't think that will *completely* eliminate the market of readers, as some people will expressly only want to read human-written books. The idea of human-readers-for-hire is quite compelling, but what the author ends up describing just sounds like overly-flattering editors, or more generously paid beta readers, which already exist.\n\nWhat I think this story captures best is the sense of despair/worry that many artists are feeling right now, and that concern is something worth paying attention to. What can be done, if anything, to mitigate these fears?\n\n**EDIT**: The author also wrote this (nonfiction) article going over some core concerns they have, which I highly recommend reading, if you have the time: [https://alexanderwales.com/the-ai-art-apocalypse/](https://alexanderwales.com/the-ai-art-apocalypse/)"
+        }
+      }
+    }
+  }
+}

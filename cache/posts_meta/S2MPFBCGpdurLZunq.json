@@ -1,0 +1,23 @@
+{
+  "_id": "S2MPFBCGpdurLZunq",
+  "slug": "request-for-feedback-on-sample-blurbs-for-the-ea-fantasy",
+  "title": "Request for feedback on sample blurbs for the EA fantasy novel I wrote",
+  "postedAt": "2022-10-02T09:01:58.678Z",
+  "baseScore": 8,
+  "wordCount": 686,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Timothy Underwood",
+    "slug": "timothy-underwood-1"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

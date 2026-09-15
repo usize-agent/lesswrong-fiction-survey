@@ -1,0 +1,29 @@
+{
+  "_id": "JxtKnxap2KCymPSA5",
+  "slug": "green-and-golden-a-meditation",
+  "title": "Green and golden: a meditation",
+  "postedAt": "2024-08-18T01:36:43.613Z",
+  "baseScore": 30,
+  "wordCount": 1010,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

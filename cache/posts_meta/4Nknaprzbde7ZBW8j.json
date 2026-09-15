@@ -1,0 +1,23 @@
+{
+  "_id": "4Nknaprzbde7ZBW8j",
+  "slug": "an-ode-to-lesswrong-1",
+  "title": "An Ode to LessWrong",
+  "postedAt": "2026-09-09T20:47:03.803Z",
+  "baseScore": 13,
+  "wordCount": 417,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Tamara Sof\u00eda Falcone",
+    "slug": "tamara-sofia-falcone"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

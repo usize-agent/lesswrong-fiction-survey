@@ -1,0 +1,59 @@
+{
+  "_id": "hwQK2JtmtDfJo3Bxf",
+  "slug": "this-is-not-life",
+  "title": "This Is Not Life",
+  "postedAt": "2025-07-28T08:43:58.832Z",
+  "baseScore": 66,
+  "wordCount": 6813,
+  "commentCount": 4,
+  "user": {
+    "displayName": "samhealy",
+    "slug": "samhealy"
+  },
+  "tags": [
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "nSHiKwWyMZFdZg5qt",
+      "name": "Ethics & Morality",
+      "slug": "ethics-and-morality"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "PvridmTCj2qsugQCH",
+      "name": "Goodhart's Law",
+      "slug": "goodhart-s-law"
+    },
+    {
+      "_id": "xknvtHwqvqhwahW8Q",
+      "name": "Human Values",
+      "slug": "human-values"
+    },
+    {
+      "_id": "Wi3EopKJ2aNdtxSWg",
+      "name": "Neuroscience",
+      "slug": "neuroscience"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "PvridmTCj2qsugQCH": 1,
+    "Wi3EopKJ2aNdtxSWg": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "nSHiKwWyMZFdZg5qt": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xknvtHwqvqhwahW8Q": 1,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

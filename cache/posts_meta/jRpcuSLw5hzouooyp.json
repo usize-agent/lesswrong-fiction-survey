@@ -1,0 +1,41 @@
+{
+  "_id": "jRpcuSLw5hzouooyp",
+  "slug": "exploring-lily-s-world-with-chatgpt-things-an-ai-won-t-do",
+  "title": "Exploring Lily\u2019s world with ChatGPT [things an AI won\u2019t do] ",
+  "postedAt": "2023-02-19T16:39:03.803Z",
+  "baseScore": 5,
+  "wordCount": 5919,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Bill Benzon",
+    "slug": "bill-benzon"
+  },
+  "tags": [
+    {
+      "_id": "zJsG4caBHv3kSdT2a",
+      "name": "Conversations with AIs",
+      "slug": "conversations-with-ais"
+    },
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "GrHAiuzAjG2mDxvMB": 1,
+    "pszEEb3ctztv3rozd": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "zJsG4caBHv3kSdT2a": 2
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "_id": "Qr4MB9hFRzamuMRHJ",
+  "slug": "two-cult-koans",
+  "title": "Two Cult Koans",
+  "postedAt": "2007-12-21T05:45:31.000Z",
+  "baseScore": 165,
+  "wordCount": 610,
+  "commentCount": 100,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "PHPHovzkfjyap9FiK",
+      "name": "Cults",
+      "slug": "cults"
+    },
+    {
+      "_id": "ymWzfKxBchRvmCTNX",
+      "name": "Courage",
+      "slug": "courage"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "ALwRRZqvhaop8gxkT",
+      "name": "Groupthink",
+      "slug": "groupthink"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "ALwRRZqvhaop8gxkT": 1,
+    "PHPHovzkfjyap9FiK": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1,
+    "ymWzfKxBchRvmCTNX": 1
+  }
+}

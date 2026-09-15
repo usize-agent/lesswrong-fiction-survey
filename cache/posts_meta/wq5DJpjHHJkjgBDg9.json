@@ -1,0 +1,35 @@
+{
+  "_id": "wq5DJpjHHJkjgBDg9",
+  "slug": "patient-zero-1",
+  "title": "Patient Zero",
+  "postedAt": "2026-08-12T01:10:45.362Z",
+  "baseScore": 17,
+  "wordCount": 3510,
+  "commentCount": 0,
+  "user": {
+    "displayName": "LoopGameScrollMonkey",
+    "slug": "loopgamescrollmonkey"
+  },
+  "tags": [
+    {
+      "_id": "agnEHZTiXEyzBFPmF",
+      "name": "Orthogonality Thesis",
+      "slug": "orthogonality-thesis"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "agnEHZTiXEyzBFPmF": 2,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

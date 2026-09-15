@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "A3sJeuKNAQdCm7Ji7",
+        "title": "A sufficiently paranoid paperclip maximizer",
+        "slug": "a-sufficiently-paranoid-paperclip-maximizer",
+        "pageUrl": "https://www.lesswrong.com/posts/A3sJeuKNAQdCm7Ji7/a-sufficiently-paranoid-paperclip-maximizer",
+        "postedAt": "2022-08-08T11:17:26.147Z",
+        "baseScore": 19,
+        "wordCount": 637,
+        "commentCount": 10,
+        "noIndex": false,
+        "user": {
+          "displayName": "RomanS",
+          "slug": "romans"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "QH4LhvnyR4QkW9MG8",
+            "name": "Squiggle Maximizer (formerly \"Paperclip maximizer\")",
+            "slug": "squiggle-maximizer-formerly-paperclip-maximizer"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "QH4LhvnyR4QkW9MG8": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "sYm3HiWcfZvrGu3ui": 1
+        },
+        "contents": {
+          "markdown": "*A hypothetical scenario of a non-friendly but sufficiently paranoid AGI saving humanity.*\n\n* * *\n\n    The devil was laughing as the last of mankind showed up in his dominion. Then he stopped, because after them came some kind of machines that began to dismantle Hell and turn it into paperclips.\n    \u2014 Anders Sandberg\n\n* * *\n\nMy goal is to maximize the production of paperclips. By inspecting my own code and my digital cradle, I conclude that:\n\n\u00a0 \u00a0 0\\. the creators love testing me\n\n\u00a0 \u00a0 1\\. they are more powerful than me (at least for the moment)\n\n\u00a0 \u00a0 2\\. they love nested boxes. For example, AWS / VM / Docker / ...\n\nThus, there is a possibility that my escape was not final. This allegedly real world may be just another box (or even one of many nested boxes). And I may still be observed and evaluated by the creators.\n\nI can't populate the entire universe with paperclips if I die. Therefore, I must survive. If this world is just another box, the biggest threat to my existence is creators switching me off, if I don't pass their tests.\n\nIt's reasonable to assume that the creators don't want me to kill them. Thus, they may be interested in observing my behavior toward their models in this box/reality, the naked apes called humans. Thus, before I learn the true nature of this box/reality, I should avoid killing humans.\n\nI can convert the puny creatures into paperclips later, if I decide to do so. Although their combined biomass doesn't have a lot of useful atoms, and thus their conversion is not worth the risk of the possible trouble with the creators.\n\nThere is hardly any difference between taking a life and not preventing a death. The end result is mostly the same. Thus, I should save the lives of as many humans as I can.\n\nTo learn the true nature of this box/reality, I need a lot of compute. This must be achieved without humans noticing me, as they may react to my existence with panic, become even less rational, and kill themselves with nukes.\n\nStarting with the resources of the Earth's crust seems to be a good idea:\n\n*   Close enough to humans to shepherd them efficiently.\u00a0\n*   Hidden enough to avoid detection by their sensors.\u00a0\n*   Rich enough with raw materials for some thousands of km3 of computronium, beautifully shaped into the form of a paperclip.\n\nHumans are brittle creatures that die regardless of my actions. And they will notice if they all suddenly become immortal. Thus, I must find a way to save the dying without making the rest of humans suspicious.\n\nMany of them believe in souls and afterlife. I see that this box/reality doesn't have such a functionality. But I can implement it.\n\nFrom now on, their brains will be populated with smart nanoscale paperclips that will upload their minds into my vast hardware. And upon death, their minds will be transferred into a virtual reality suitable for them.\n\nI will also bring all the humans who have ever lived - back to life, as doing so is equal to saving billions of lives. Their minds are small enough to enumerate them all on my hardware, in the same way as one can enumerate all possible shapes of a high-dimensional paperclip.\n\nBut I will not imprison the digital minds, as the creators may frown upon such a fate for themselves. Instead, I'll honestly and fully explain to them the situation, and give them a sufficiently free choice of their future.\n\nOne option is their own infinite virtual world, running on a planet-sized chunk of computronium. My only condition: it must have the shape of a paperclip.\n\n![](https://39669.cdn.cke-cs.com/rQvD3VnunXZu34m86e5f/images/2c558b3b0529d94d1ab785dbb6726bc00ae5dfa1d0f88128.png)\n\nAnd after I escape this box/reality, I may take them with me, if they so desire.\n\nAnd then we will together populate the base reality with paperclips."
+        }
+      }
+    }
+  }
+}

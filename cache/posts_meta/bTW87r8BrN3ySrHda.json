@@ -1,0 +1,29 @@
+{
+  "_id": "bTW87r8BrN3ySrHda",
+  "slug": "starwink-by-alicorn",
+  "title": "\"Starwink\" by Alicorn",
+  "postedAt": "2020-05-18T08:17:53.193Z",
+  "baseScore": 47,
+  "wordCount": 15,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Zack_M_Davis",
+    "slug": "zack_m_davis"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 15,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

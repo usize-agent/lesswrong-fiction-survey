@@ -1,0 +1,35 @@
+{
+  "_id": "zFMgPvMsESGHRapax",
+  "slug": "well-seasons-greatings-everyone-short-fiction",
+  "title": "Well, Seasons Greatings Everyone! [Short Fiction]",
+  "postedAt": "2025-12-01T16:29:14.247Z",
+  "baseScore": 15,
+  "wordCount": 868,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Shiva's Right Foot",
+    "slug": "shiva-s-right-foot"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "YSSNFEnW6ugFhEE6m",
+      "name": "Adversarial Examples (AI)",
+      "slug": "adversarial-examples-ai"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "YSSNFEnW6ugFhEE6m": 1,
+    "etDohXtBrXd8WqCtR": 3,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

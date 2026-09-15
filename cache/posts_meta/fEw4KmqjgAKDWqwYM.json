@@ -1,0 +1,35 @@
+{
+  "_id": "fEw4KmqjgAKDWqwYM",
+  "slug": "worldbuilding-exercise-the-highwayverse",
+  "title": "Worldbuilding exercise: The Highwayverse.",
+  "postedAt": "2021-12-22T06:47:53.054Z",
+  "baseScore": 13,
+  "wordCount": 3397,
+  "commentCount": 13,
+  "user": {
+    "displayName": "Yair Halberstadt",
+    "slug": "yair-halberstadt"
+  },
+  "tags": [
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "X8JsWEnBRPvs5Y99i": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

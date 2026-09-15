@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "a5Afzce6Ny8oo9p7L",
+        "title": "Hyakujo's Fox",
+        "slug": "hyakujo-s-fox",
+        "pageUrl": "https://www.lesswrong.com/posts/a5Afzce6Ny8oo9p7L/hyakujo-s-fox",
+        "postedAt": "2009-03-24T10:14:33.346Z",
+        "baseScore": 16,
+        "wordCount": 257,
+        "commentCount": 31,
+        "noIndex": false,
+        "user": {
+          "displayName": "Eliezer Yudkowsky",
+          "slug": "eliezer_yudkowsky"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "From \"[Hyakujo's Fox](http://www.ibiblio.org/zen/gateless-gate/2.html)\", #2 of the 49 koans in *[The Gateless Gate:](http://www.ibiblio.org/zen/cgi-bin/koan-index.pl)*\n\n> Once when Hyakujo delivered some Zen lectures an old man attended them, unseen by the monks. At the end of each talk when the monks left so did he. But one day he remained after the had gone, and Hyakujo asked him: `Who are you?'\n> \n> The old man replied: `I am not a human being, but I was a human being when the Kashapa Buddha preached in this world. I was a Zen master and lived on this mountain. At that time one of my students asked me whether the enlightened man is subject to the law of causation. I answered him: \"The enlightened man is not subject to the law of causation.\" For this answer evidencing a clinging to absoluteness I became a fox for five hundred rebirths, and I am still a fox. Will you save me from this condition with your Zen words and let me get out of a fox's body? Now may I ask you: Is the enlightened man subject to the law of causation?'\n> \n> Hyakujo said: `The enlightened man is one with the law of causation.'\n> \n> At the words of Hyakujo the old man was enlightened.\n\nMumon's poem:\n\n> *Controlled or not controlled?  \n> The same dice shows two faces.  \n> Not controlled or controlled,  \n> Both are a grievous error.*\n\nIt really makes you wonder how the hell they got [that far](http://www.overcomingbias.com/2008/06/thou-art-physic.html) while still believing that the wrong answer could turn you into a fox."
+        }
+      }
+    }
+  }
+}

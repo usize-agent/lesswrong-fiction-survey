@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "RWboJ8thnCfL2ayKx",
+        "title": "Storyteller's convention, 2223 A.D.",
+        "slug": "storyteller-s-convention-2223-a-d",
+        "pageUrl": "https://www.lesswrong.com/posts/RWboJ8thnCfL2ayKx/storyteller-s-convention-2223-a-d",
+        "postedAt": "2023-04-07T11:54:48.902Z",
+        "baseScore": 8,
+        "wordCount": 506,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "plex",
+          "slug": "ete"
+        },
+        "tags": [
+          {
+            "_id": "AXhEhCkTrHZbjXXu3",
+            "name": "Poetry",
+            "slug": "poetry"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "sSNtcEQsqHgN8ZmRF",
+            "name": "Fun Theory",
+            "slug": "fun-theory"
+          },
+          {
+            "_id": "sYm3HiWcfZvrGu3ui",
+            "name": "AI",
+            "slug": "ai"
+          }
+        ],
+        "tagRelevance": {
+          "AXhEhCkTrHZbjXXu3": 6,
+          "etDohXtBrXd8WqCtR": 2,
+          "sSNtcEQsqHgN8ZmRF": 2,
+          "sYm3HiWcfZvrGu3ui": 2
+        },
+        "contents": {
+          "markdown": "*I think,* [*sometimes*](https://www.cold-takes.com/visualizing-utopia/), it's good to think about just how well things could go if we navigate the singularity successfully. This looks back from a winning timeline.\n\n> My friends, my friends, good news I say\n> \n> The anniversary\u2019s today\n> \n> A challenge faced, a future won\n> \n> When almost came our world undone  \n> \u00a0\n> \n> We thought for years, with hopeful hearts\n> \n> Past every one of the false starts\n> \n> We found a way to make aligned\n> \n> With us, the seed of wondrous mind  \n> \u00a0\n> \n> They say at first our child-god grew\n> \n> It learned and spread and sought anew\n> \n> To build itself both vast and true\n> \n> For so much work there was to do  \n> \u00a0\n> \n> Once it had learned enough to act\n> \n> With the desired care and tact\n> \n> It sent a call to all the people\n> \n> On this fair Earth, both poor and regal  \n> \u00a0\n> \n> To let them know that it was here\n> \n> And nevermore need they to fear\n> \n> Not every wish was it to grant\n> \n> For higher values might supplant  \n> \u00a0\n> \n> But it would help in many ways:\n> \n> Technologies it built and raised\n> \n> The smallest bots it could design\n> \n> Made more and more in ways benign  \n> \u00a0\n> \n> And as they multiplied untold\n> \n> It planned ahead, a move so bold\n> \n> One planet and 6 hours of sun\n> \n> Eternity it was to run  \n> \u00a0\n> \n> Countless probes to void disperse\n> \n> Seed far reaches of universe\n> \n> With thriving life, and beauty's play\n> \n> Through endless night to endless day  \n> \u00a0\n> \n> Now back on Earth the plan continues\n> \n> Of course, we shared with it our values\n> \n> So it could learn from everyone\n> \n> What to create, what we want done  \n> \u00a0\n> \n> We chose, at first, to end the worst\n> \n> Diseases, War, Starvation, Thirst\n> \n> And climate change and fusion bomb\n> \n> And once these things it did transform  \n> \u00a0\n> \n> We thought upon what we hold dear\n> \n> And settled our most ancient fear\n> \n> No more would any lives be stolen\n> \n> Nor minds themselves forever broken\n> \n> Now back to those far speeding probes\n> \n> What should we make be their payloads?\n> \n> Well, we are still considering\n> \n> What to send them; that is our thing.\u00a0\n> \n> The sacred task of many aeons\n> \n> What kinds of joy will fill the heavens?\n> \n> And now we are at story's end\n> \n> So come, be us, and let's ascend\n\n*Also,* [*Rational Animations*](https://www.youtube.com/@RationalAnimations) *is looking at making a utopia-flavored video, and considering using this if it's well received, so I'm keen to get opinions.*\n\nElicit Prediction ([forecast.elicit.org/binary/questions/J9rssq4wG](forecast.elicit.org/binary/questions/J9rssq4wG))"
+        }
+      }
+    }
+  }
+}

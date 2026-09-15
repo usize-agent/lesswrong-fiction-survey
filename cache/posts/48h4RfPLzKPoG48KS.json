@@ -1,0 +1,41 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "48h4RfPLzKPoG48KS",
+        "title": "The Polite Coup",
+        "slug": "the-polite-coup",
+        "pageUrl": "https://www.lesswrong.com/posts/48h4RfPLzKPoG48KS/the-polite-coup",
+        "postedAt": "2024-12-04T14:03:36.663Z",
+        "baseScore": 3,
+        "wordCount": 863,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "Charlie Sanders",
+          "slug": "charlie-sanders"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "KmgkrftQuX7jmjjp5",
+            "name": "Language Models (LLMs)",
+            "slug": "language-models-llms"
+          }
+        ],
+        "tagRelevance": {
+          "FkzScn5byCs9PxGsA": 1,
+          "KmgkrftQuX7jmjjp5": 1,
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "President Yoon Suk Yeol's hands trembled as he arranged the documents on his desk for the seventh time. The motion steadied his nerves \u2013 barely. The manila envelope contained photographs: himself accepting white envelopes from a chaebol\u2019s construction executives, each image timestamped and crystal clear. His secretary had arranged them chronologically, bless her eternally professional soul.\n\nA coffee cup sat cooling on his desk, the steam rising in lazy spirals. He hadn't touched it. The headline would break in six hours. Six hours until thirty years of carefully cultivated reputation would\u2014\n\nHis fingers found his tie pin, adjusting it microscopically. There was still one option. An unseemly option.\n\nHis hand hovered over the phone for three long breaths before he picked it up.\n\n\"Secretary Park? Would you join me in my office?\" A pause. \"And please bring contingency protocol K-17.\"\n\nTwenty minutes later, Secretary Park stood at attention, clutching a leather portfolio. \"Sir, implementing K-17 would require\u2014\"\n\n\"I'm aware of the requirements.\"\n\nYoon's voice was steady now. \"Draft the declaration. Martial law. Use the template from the '79 precedent, but...\" he brushed an invisible speck from his sleeve, \"...let's add a note about North Korean collaborators. That should be enough to keep the press happy.\"\n\nThe secretary's pen scratched against paper. Outside the window, Seoul's lights twinkled, oblivious to the machinery of state grinding into motion.\n\n\n\nThe 2 AM darkness in Sergeant Hyun-Woo's barracks shattered with his k-pop ringtone. His dreams of his mother's steaming kimchi jjigae evaporated as the duty officer's voice crackled through: \"Parliament deployment. Non-lethal loadout only. Fifteen minutes.\"\n\n\"Non-lethal?\" Staff Sergeant Kim muttered as they set up barriers ninety minutes later. The pre-dawn air bit through their uniforms. \"Sir, these might as well be water pistols.\"\n\nHyun-Woo ran his thumb along his riot shield's edge, feeling each scratch and dent from previous protests. \"Standard protocol for legislative premises. We maintain order through presence, not force.\" The words felt hollow in his mouth, rehearsed from a manual written by men who'd never stood a line.\n\nA news van's headlights swept across them. Then another. And another. Soon the street hummed with media vehicles, their satellite dishes rising like metal mushrooms in the gray morning light. Cameras began to flash. Protesters began arriving.\n\n\"Sir?\" Private Lee shifted his weight. \"The martial law orders say no press or protests allowed.\"\n\nHyun-Woo watched another van park. \"I see them, Private.\"\n\n\"Should we...\"\n\n\"I see them,\" he repeated, softer this time. The shield felt heavier with each passing minute.\n\n\n\nParliament Member Ji-Hye emerged from the crowd like a splash of iridescent watercolor in her pearl-gray hanbok. Camera flashes intensified, but she moved as if walking through her own garden, unhurried. Each step measured, deliberate.\n\nShe stopped three paces from Hyun-Woo's shield. \"Sergeant.\" Her voice carried just far enough to be caught by the nearest microphones. \"These halls belong to the people's representatives. I would kindly request access\"\n\nHyun-Woo felt sweat trickle down his back despite the morning chill. \"The building is sealed under emergency orders, Member Ji-Hye.\"\n\n\"Ah.\" She nodded, as if he'd made a particularly interesting point during a tea ceremony. Her eyes flicked to his nameplate, then his riot shield, then the practice weapon at his side.\n\nWithout another word, she turned and walked exactly twenty paces left. The crowd parted. At a ground-floor window, already open, several citizens had formed an impromptu assistance line. They lifted her up, in through the window. Ji-Hye paused at the window's edge, looked back at the soldiers, and gave a slight bow before accepting the protesters' help inside.\n\n\"Orders, sir?\" Staff Sergeant Kim's knuckles were white on his weapon.\n\nHyun-Woo watched as more parliament members appeared, each following Ji-Hye's path. Some wore business suits, others traditional dress. All bowed before entering. Through the windows, he could see them removing their shoes, could hear the echo of the speaker's gavel as they called the emergency session to order.\n\n\"We follow protocol,\" he said finally. \"No force against legislators. No exceptions.\"\n\nForty-seven minutes later, Ji-Hye reappeared at the window. She held a document embossed with the parliament's seal, the ink still fresh. \"The emergency session has concluded, Sergeant. Martial law has been lifted by unanimous vote. 190-0.\" She extended the paper. \"Your copy, for proper documentation and recordkeeping.\"\n\nHyun-Woo stared at the document, then at his shield, then at the crowd of citizens and journalists watching in complete silence.\n\nHe set down his shield and began to walk home.\n\n\n\nPresident Yoon's coffee had gone completely cold when his aide entered without knocking. One look at the aide's face told him everything.\n\n\"They had quorum?\" His voice was barely a whisper.\n\n\"Yes, sir. Full attendance. Your party boycotted, but it wasn\u2019t enough. All votes were recorded and notarized.\"\n\nYoon touched his tie pin one last time. Outside his window, the sun had fully risen over Seoul. Even now, he could hear the whir of printer presses running the morning editions. He wondered what they\u2019d say, how they\u2019d frame it.\n\nHe reached for the phone to make his final presidential announcement, officially ending the martial law order.\n\nBut he paused.\n\nThere was, after all, another way to end things."
+        }
+      }
+    }
+  }
+}

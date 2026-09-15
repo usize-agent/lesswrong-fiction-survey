@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "mWb2cCqjvjng7Pzcp",
+        "title": "[FICTION] Hamlet and the Philosopher's Stone",
+        "slug": "fiction-hamlet-and-the-philosopher-s-stone",
+        "pageUrl": "https://www.lesswrong.com/posts/mWb2cCqjvjng7Pzcp/fiction-hamlet-and-the-philosopher-s-stone",
+        "postedAt": "2011-10-25T22:31:15.700Z",
+        "baseScore": 52,
+        "wordCount": 511,
+        "commentCount": 61,
+        "noIndex": false,
+        "user": {
+          "displayName": "HonoreDB",
+          "slug": "honoredb"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "[So I did actually write it.](http://www.makefoil.com)\n\nIts first title was *Rationalist Hamlet*, back when it was a short fan contribution to the *[Alternate Parallels](http://www.fanfiction.net/s/5782108/64/Harry_Potter_and_the_Methods_of_Rationality)* section of *Harry Potter and the Methods of Rationality.* When I found myself actually trying to write the full thing, its working title became *A Will Most Incorrect to Heaven*. When I realized I was going to try to make it something approaching marketable, I saw that the only logical title was *Hamlet and the Philosopher's Stone*. But the actual, official title is, simply, *The Tragedy of Prince Hamlet and the Philosopher's Stone, or, A Will Most Incorrect to Heaven by William Shakespeare.*\n\nIt's a full-length play. I wrote it to be performable, but mostly I wrote it to be read. As of today, I'm self-publishing it and selling it as an e-book for $3.00 (that's the standard e-book price of $2.99, plus a cent to help people make a more rational purchasing decision). If you don't have a bank account **and** you have 50+ karma on this site, send me a private message with your email address. But I would prefer people paid for it ([here's the link again](http://www.makefoil.com), [and here's an excerpt](http://www.makefoil.com/excerpt.html)). Charging may seem gauche, but I suspect there's the illusion of a social norm against charging for fanfiction just because it's normally illegal. This work is an exception: the *Harry Potter* content is purely allusive, and Shakespeare won't be complaining.\n\nThe mission statement of the play is roughly the same as that of Methods of Rationality or Alicorn's Twilight re-imagining *[Luminosity](http://luminous.elcenia.com/).* The philosophy in it is of course my own, but I don't disagree on any major points with Eliezer. As with Methods, I've written it to be enjoyable to people who have no direct exposure to Shakespeare's *Hamlet* and also to Shakespeare aficionados who have never heard of Less Wrong or even of *Buffy the Vampire Slayer*. The play is a rewrite of *Hamlet* that preserves much of the original style, language, and plot, while injecting references to modern culture, epistemology, and ethics. It's perhaps what Shakespeare would have written, had he been simultaneously trying to appeal to audiences of both his time and our own. The Philosopher's Stone, for example, would be familiar to subjects of either Queen Elizabeth. The play's formatting is modeled after the way most of us encounter written Shakespeare: the spelling is updated and standardized, the stage directions are minimal and mostly of the sort that can be inferred from the dialogue, and the language is Elizabethan English from circa 1599; any anachronism is unintentional, aside from a certain wry punctuation mark and other allusions to future art. The only major change to the structure is the play's length: while unabridged productions of *Hamlet* can run up to five hours, the more concise *Tragedy of Prince Hamlet and the Philosopher's Stone, or, A Will Most Incorrect to Heaven by William Shakespeare* clocks in at well under two. Oh, and I changed all the words. There are only a few lines from the original in there.\n\nI'm eager, of course, for feedback. Hope you enjoy!"
+        }
+      }
+    }
+  }
+}

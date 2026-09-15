@@ -1,0 +1,41 @@
+{
+  "_id": "cxDvhqDKn5W3eubvA",
+  "slug": "the-dumbest-kid-in-the-world-joke",
+  "title": "The dumbest kid in the world (joke)",
+  "postedAt": "2021-06-06T02:57:05.230Z",
+  "baseScore": 21,
+  "wordCount": 138,
+  "commentCount": 9,
+  "user": {
+    "displayName": "CronoDAS",
+    "slug": "cronodas"
+  },
+  "tags": [
+    {
+      "_id": "X8JsWEnBRPvs5Y99i",
+      "name": "Decision theory",
+      "slug": "decision-theory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "WnnwytvzpKqJ3YChY",
+      "name": "Newcomb's Problem",
+      "slug": "newcomb-s-problem"
+    }
+  ],
+  "tagRelevance": {
+    "WnnwytvzpKqJ3YChY": 1,
+    "X8JsWEnBRPvs5Y99i": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2
+  }
+}

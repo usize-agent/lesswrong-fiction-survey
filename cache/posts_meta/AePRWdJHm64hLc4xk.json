@@ -1,0 +1,47 @@
+{
+  "_id": "AePRWdJHm64hLc4xk",
+  "slug": "why-read-novels-do-words-mean-much",
+  "title": "Why Read Novels? (Do Words Mean Much?)",
+  "postedAt": "2025-09-05T12:25:26.527Z",
+  "baseScore": 1,
+  "wordCount": 1128,
+  "commentCount": 0,
+  "user": {
+    "displayName": "ussy",
+    "slug": "ussy"
+  },
+  "tags": [
+    {
+      "_id": "EdRnMXBRbY5JDf5df",
+      "name": "Epistemology",
+      "slug": "epistemology"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    },
+    {
+      "_id": "FtT2T9bRbECCGYxrL",
+      "name": "Philosophy of Language",
+      "slug": "philosophy-of-language"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "EdRnMXBRbY5JDf5df": 1,
+    "FtT2T9bRbECCGYxrL": 1,
+    "KmgkrftQuX7jmjjp5": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

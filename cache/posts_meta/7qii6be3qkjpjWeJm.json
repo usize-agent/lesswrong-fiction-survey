@@ -1,0 +1,23 @@
+{
+  "_id": "7qii6be3qkjpjWeJm",
+  "slug": "a-brief-theology-of-d-and-d",
+  "title": "A Brief Theology of D&D",
+  "postedAt": "2022-04-01T12:47:19.394Z",
+  "baseScore": 24,
+  "wordCount": 738,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Gurkenglas",
+    "slug": "gurkenglas"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

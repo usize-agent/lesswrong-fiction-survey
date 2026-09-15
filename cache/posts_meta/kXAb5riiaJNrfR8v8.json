@@ -1,0 +1,35 @@
+{
+  "_id": "kXAb5riiaJNrfR8v8",
+  "slug": "the-ritual",
+  "title": "The Ritual",
+  "postedAt": "2008-10-11T23:52:10.000Z",
+  "baseScore": 132,
+  "wordCount": 1399,
+  "commentCount": 23,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hXTqT62YDTTiqJfxG",
+      "name": "Ritual",
+      "slug": "ritual"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "etDohXtBrXd8WqCtR": 3,
+    "hXTqT62YDTTiqJfxG": 2
+  }
+}

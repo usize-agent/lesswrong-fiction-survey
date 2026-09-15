@@ -1,0 +1,59 @@
+{
+  "_id": "kDEWtGopQKQFJCFZX",
+  "slug": "the-boat",
+  "title": "The boat",
+  "postedAt": "2024-11-22T12:56:45.050Z",
+  "baseScore": 6,
+  "wordCount": 492,
+  "commentCount": 0,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "vmvTYnmaKA73fYDe5",
+      "name": "Life Extension",
+      "slug": "life-extension"
+    },
+    {
+      "_id": "rHQ3xncraAyC8kqtX",
+      "name": "Lifelogging as life extension",
+      "slug": "lifelogging-as-life-extension"
+    },
+    {
+      "_id": "jiuackr7B5JAetbF6",
+      "name": "Transhumanism",
+      "slug": "transhumanism"
+    },
+    {
+      "_id": "5f5c37ee1b5cdee568cfb2b1",
+      "name": "Whole Brain Emulation",
+      "slug": "whole-brain-emulation"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "jiuackr7B5JAetbF6": 1,
+    "pGqRLe9bFDX2G2kXY": 1,
+    "rHQ3xncraAyC8kqtX": 1,
+    "vmvTYnmaKA73fYDe5": 1,
+    "xexCWMyds6QLWognu": 1,
+    "5f5c37ee1b5cdee568cfb2b1": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "_id": "rSiybWzeiG8agYtNr",
+  "slug": "virtua-a-novel-about-ai-alignment",
+  "title": "VIRTUA: a novel about AI alignment",
+  "postedAt": "2023-01-12T09:37:21.528Z",
+  "baseScore": 46,
+  "wordCount": 409,
+  "commentCount": 12,
+  "user": {
+    "displayName": "Karl von Wendt",
+    "slug": "karl-von-wendt"
+  },
+  "tags": [
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "uyBeAN5jPEATMqKkX",
+  "slug": "lies-told-to-children-1",
+  "title": "Lies Told To Children",
+  "postedAt": "2022-04-14T11:25:10.282Z",
+  "baseScore": 407,
+  "wordCount": 2095,
+  "commentCount": 99,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 19
+  }
+}

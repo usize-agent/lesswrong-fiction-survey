@@ -1,0 +1,29 @@
+{
+  "_id": "EKu66pFKDHFYPaZ6q",
+  "slug": "the-hero-with-a-thousand-chances",
+  "title": "The Hero With A Thousand Chances",
+  "postedAt": "2009-07-31T04:25:28.630Z",
+  "baseScore": 175,
+  "wordCount": 2605,
+  "commentCount": 170,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "PbShukhzpLsWpGXkM",
+      "name": "Anthropics",
+      "slug": "anthropics"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "PbShukhzpLsWpGXkM": 5,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

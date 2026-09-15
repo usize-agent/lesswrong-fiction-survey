@@ -1,0 +1,47 @@
+{
+  "_id": "WajiC3YWeJutyAXTn",
+  "slug": "where-physics-meets-experience",
+  "title": "Where Physics Meets Experience",
+  "postedAt": "2008-04-25T04:58:11.000Z",
+  "baseScore": 79,
+  "wordCount": 3361,
+  "commentCount": 38,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "PbShukhzpLsWpGXkM",
+      "name": "Anthropics",
+      "slug": "anthropics"
+    },
+    {
+      "_id": "XSryTypw5Hszpa4TS",
+      "name": "Consciousness",
+      "slug": "consciousness"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "csMv9MvvjYJyeHqoo",
+      "name": "Physics",
+      "slug": "physics"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 2,
+    "PbShukhzpLsWpGXkM": 2,
+    "XSryTypw5Hszpa4TS": 2,
+    "csMv9MvvjYJyeHqoo": 1,
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

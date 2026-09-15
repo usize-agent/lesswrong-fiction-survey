@@ -1,0 +1,35 @@
+{
+  "_id": "PAMEJ4KiBaCDGHjCf",
+  "slug": "luna-lavgud-i-komnata-tain-chast-2",
+  "title": "\u041b\u0443\u043d\u0430 \u041b\u0430\u0432\u0433\u0443\u0434 \u0438 \u041a\u043e\u043c\u043d\u0430\u0442\u0430 \u0422\u0430\u0439\u043d, \u0427\u0430\u0441\u0442\u044c 2",
+  "postedAt": "2025-04-11T12:42:28.253Z",
+  "baseScore": 2,
+  "wordCount": 903,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Kongo Landwalker",
+    "slug": "kongo-landwalker"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "aH2JHQiyyTFBr9Jjd",
+      "name": "In Russian",
+      "slug": "in-russian"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "aH2JHQiyyTFBr9Jjd": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

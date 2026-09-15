@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "PrSWKSFxEtFBZ7Xbj",
+        "title": "The Machine that Broke My Heart",
+        "slug": "the-machine-that-broke-my-heart",
+        "pageUrl": "https://www.lesswrong.com/posts/PrSWKSFxEtFBZ7Xbj/the-machine-that-broke-my-heart",
+        "postedAt": "2021-12-30T11:59:31.747Z",
+        "baseScore": 50,
+        "wordCount": 675,
+        "commentCount": 36,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "xHjy88N2uJvGdgzfw",
+            "name": "Health / Medicine / Disease",
+            "slug": "health-medicine-disease"
+          },
+          {
+            "_id": "NzSTgAtKwgivkfeYm",
+            "name": "Heroic Responsibility",
+            "slug": "heroic-responsibility"
+          },
+          {
+            "_id": "pszEEb3ctztv3rozd",
+            "name": "Narratives (stories)",
+            "slug": "narratives-stories"
+          }
+        ],
+        "tagRelevance": {
+          "NzSTgAtKwgivkfeYm": 2,
+          "pszEEb3ctztv3rozd": 2,
+          "xHjy88N2uJvGdgzfw": 5
+        },
+        "contents": {
+          "markdown": "Obesity is one of the world's greatest health problems. It contributes to everything from diabetes to cancer. Obesity is hard to prevent because tracking calories requires effort. It's too easy to eat absent-mindedly if you're a middle-aged woman in charge of your household's food. Manually logging your food intake is hard. Food tracking should be automatic, like a FitBit. If we had a cheap machine that could effortlessly track food intake it would save many lives and improve the quality of life of even more people.\n\nI talked to the lead engineer at company that is a leading manufacturer of wearable electronics. The company is worth tens of billions of dollars. His manager tasked his team to make a device that used IMU data to detect when a person is eating. He failed.\n\nMe and my team succeeded. Our device worked so well our test subjects thought we were cheating. They thought we had a man behind the curtain. It was all software. My friends and family would try to fake eating by pantomiming it and the device wouldn't go off until they took a bite for real. Our algorithm was so good it often detected when people were eating before they even lifted their fork. We had to program a delay into the alarm system so the predictive signal didn't disrupt the user's actual behavior.\n\nWe trained our machine learning model on six hours of annotated data. The algorithm we deployed was so small and efficient you could run it all day on a Nordic SoC the size of a fingernail. I trained the whole thing on a laptop from 2016.\n\nOur system was perfectly general. You could dump a different hand movement into it and the algorithm could detect the new behavior too. All you had to do was strap a sensor to your test subject, video record them and then tell the computer where in the video the new hand movements began and ended. Press one button and my toolkit would turn that training data into a binary executable ready to be deployed on your embedded system. It did not need to be customized for individual users (except left-handers). Just put it on and you're good to go. Individual units cost us $30 to produce. Large-scale manufacturing could drive the price much lower.\n\nYou might wonder \"Where is this magical machine?\" I threw it away.\n\nI could reconstruct it. Strap an IMU onto peoples' wrists. Manually annotate where fork movements begin and end. Apply a complimentary filter and a moving average filter. Normalize everything. Turn the continuous datastram into discrete symbols by feeding it into a random forest classifier[^1]. Dump the random forest classifier into the recently-invented WarpingLCSS algorithm[^2]. Add some threshold cutoffs for trigger and reset. Use Facebook's Adaptive Experimental Platform to tell you what hyperparameters to use. Port the whole thing to C. Deploy it on a microcontroller.\n\n[^1]: There's a tiny little trick we discovered here that makes a big difference.\n\n[^2]: There's a little more secret sauce here.\n\nWe had experience selling consumer electronics. We had the hardware for hundreds of these wearable food trackers just sitting in boxes.\n\nBut startups are [hard](https://www.lesswrong.com/posts/jWE5keEJuSXosHz99/this-war-of-mine). We had been working full-time for (basically) no pay for six years. We shut the project down and parted amicably. We all had different reasons for leaving. Personally, I didn't want to spend the rest of my life running a diabetes prevention program. The reason our algorithm could be trained on my laptop instead of a supercomputer was because I had invented a machine learning trick so new it had been invented independently and published in an academic journal within the previous two years. I had more tricks where that came from. I wanted to find out what would happen if I pushed my machine learning skills as hard as I could.\n\nI see obese people everywhere. People die every single day from a health problem I could have done something about. I was the only person on Planet Earth who could have built a passive eating tracker with the technology available in 2020. I didn't."
+        }
+      }
+    }
+  }
+}

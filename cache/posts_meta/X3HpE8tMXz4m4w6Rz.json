@@ -1,0 +1,53 @@
+{
+  "_id": "X3HpE8tMXz4m4w6Rz",
+  "slug": "the-simple-truth",
+  "title": "The Simple Truth",
+  "postedAt": "2008-01-01T20:00:44.147Z",
+  "baseScore": 193,
+  "wordCount": 6638,
+  "commentCount": 16,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "LnEEs8xGooYmQ8iLA",
+      "name": "Truth, Semantics, & Meaning",
+      "slug": "truth-semantics-and-meaning"
+    },
+    {
+      "_id": "wMPYFGmhcFg4bSb4Z",
+      "name": "Map and Territory",
+      "slug": "map-and-territory"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    },
+    {
+      "_id": "SJFsFfFhE6m2ThAYJ",
+      "name": "Anticipated Experiences",
+      "slug": "anticipated-experiences"
+    },
+    {
+      "_id": "cq69M9ceLNA35ShTR",
+      "name": "Causality",
+      "slug": "causality"
+    }
+  ],
+  "tagRelevance": {
+    "LnEEs8xGooYmQ8iLA": 13,
+    "SJFsFfFhE6m2ThAYJ": 1,
+    "cq69M9ceLNA35ShTR": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "hNFdS3rRiYgqqD8aM": 2,
+    "wMPYFGmhcFg4bSb4Z": 4
+  }
+}

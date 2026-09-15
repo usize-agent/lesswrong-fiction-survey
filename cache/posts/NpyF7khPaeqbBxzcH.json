@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "NpyF7khPaeqbBxzcH",
+        "title": "$500 bounty for best short-form fiction about our near future world; $100 for recommending winning piece: new \u201cArt of Near Future World\u201d quarterly art project",
+        "slug": "usd500-bounty-for-best-short-form-fiction-about-our-near",
+        "pageUrl": "https://www.lesswrong.com/posts/NpyF7khPaeqbBxzcH/usd500-bounty-for-best-short-form-fiction-about-our-near",
+        "postedAt": "2025-04-15T00:46:10.637Z",
+        "baseScore": 6,
+        "wordCount": 465,
+        "commentCount": 1,
+        "noIndex": false,
+        "user": {
+          "displayName": "Ramon Gonzalez",
+          "slug": "ramon-gonzalez"
+        },
+        "tags": [
+          {
+            "_id": "khReijeucXJTnsyMT",
+            "name": "Bounties (closed)",
+            "slug": "bounties-closed"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "izp6eeJJEg9v5zcur",
+            "name": "Community",
+            "slug": "community"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "izp6eeJJEg9v5zcur": 1,
+          "khReijeucXJTnsyMT": 2
+        },
+        "contents": {
+          "markdown": "I\u2019m launching a new project called \u201cArt of the Near Future World\u201d to celebrate and encourage short-form fiction about the world a few months to a few years from now. I thought the Less Wrong community might especially be interested in participating in it or improving my approach.\n\n**\\*\\* Prize information ****\n\n**$500 award** for the best short story published anywhere from January to March and set in the near future, the world a few months to a few years from now\n\n**$100 award** for the first referral of the winning story\n\n**$250 award** for the best flash friction fragment (< 1,000 words)\n\n**\\*\\* How to participate ****\n\nGo to\u00a0[artnearfuture.world](https://artnearfuture.world/) to\u00a0\n\n*   Submit your flash fiction fragment (by April 21)\n*   Recommend a short story (by April 21)\n*   Register for the selection event (April 24th in Brooklyn; in a church basement but not religiously affiliated)\n*   Follow along and share ideas\n\n**\\*\\* Motivation ****\n\n1.  The world can change very quickly and it may change especially quickly in the coming years.\n2.  Art is an especially powerful way to help communities and the broader public imagine and think through possible futures.\n3.  While of course there is a rich tradition of science fiction writing and movies, I think short form fiction writing is an ideal and undersupported form of art for imagining the near future world. Short form fiction writing can respond to a quickly changing present, a timeline on which movies or TV shows or novels can\u2019t keep up.\n4.  Short form fiction writing (and especially even briefer flash fiction) can be broadly made.\u00a0It can catch an experience, an emotion, a feeling of the future, a quick look around the bend. Short form fiction writing can encourage broader participation, as for example in [@Tenoke](https://www.lesswrong.com/users/tenoke?mention=user)'s post\u00a0[here](https://www.lesswrong.com/posts/kXPEJufmC4FHvLaWJ/my-day-in-2035-2) and [@Richard_Ngo](https://www.lesswrong.com/users/ricraz?mention=user)\u2019s writing\u00a0[here](https://www.lesswrong.com/sequences/dDMzozPbe4aJRkfTr).\n5.  Current gaps: In general, there is not much support or celebration of short-form fiction writing. And what short-form fiction exists is often fragmented across the web. And artistic awards proceed on an annual calendar (at best), so there is a further lag in the timeliness of their celebration.\n6.  A prize celebration focused on short stories and flash fiction set in our our near future world, the world a few months to a few years from now, can help recognize and encourage art that plays with the possible threads of the near future. It could bring to broader life some of the concerns around AI, etc. of LW and related communities.\n7.  And doing that quarterly can help encourage art staying up to date in its imagination. The quarterly pace follows the example of other fast-moving grant programs (like\u00a0[Fast Grants](https://fastgrants.org/) during COVID) and helps build further community.\n\n[Here\u2019s](https://spheresofpossibility.substack.com/p/art-near-future-world) a Substack post with further thinking and\u00a0[here\u2019s](https://x.com/ramonjgonzalez7/status/1911477539060568081) a Twitter post."
+        }
+      }
+    }
+  }
+}

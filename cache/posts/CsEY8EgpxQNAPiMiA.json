@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "CsEY8EgpxQNAPiMiA",
+        "title": "The Nuclear Energy Alignment Problem",
+        "slug": "the-nuclear-energy-alignment-problem",
+        "pageUrl": "https://www.lesswrong.com/posts/CsEY8EgpxQNAPiMiA/the-nuclear-energy-alignment-problem",
+        "postedAt": "2021-05-09T03:50:32.726Z",
+        "baseScore": 34,
+        "wordCount": 379,
+        "commentCount": 0,
+        "noIndex": false,
+        "user": {
+          "displayName": "lsusr",
+          "slug": "lsusr"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "hNFdS3rRiYgqqD8aM": 2
+        },
+        "contents": {
+          "markdown": "Berlin, 1938.\n\n\"Have you ever thought about the Anthropic principle? Chances are about half the people who have ever lived will die before us and half after. The human population has been growing at an exponential rate. There is probably a disaster waiting just around the corner,\" said Schumann.\n\n\"I bet it's nuclear energy,\" said Heisenberg.\n\n\"There is no way a single machine could destroy the world,\" said Schumann.\n\n\"Shut up and multiply. The Earth has a mass of $M_\\oplus=6\\times10^{24}$ kilograms and a radius of $R_\\oplus=6\\times10^6$ meters. Let us treat the Earth as a uniform sphere. The gravitational potential energy is $E_\\oplus=\\frac{3GM_\\oplus^2}{5R_\\oplus}=2\\times10^{32}$ joules. The total energy necessary to destroy the Earth is thus $2\\times10^{32}$ joules,\" said Heisenberg.\n\nHeisenberg wrote $E=mc^2$ on a sheet of paper.\n\n$$\\begin{eqnarray*}\nm&=&\\frac E{c^2}\\\\\n&=&\\frac {2\\times10^{32}\\text{ joules}}{\\left(3\\times10^8\\frac{\\text{m}}{\\text{s}}\\right)^2}\\\\\n&=&2\\times10^{15}\\text{ kilograms}\n\\end{eqnarray*}$$\n\n\"How much is that?\" said Schumann.\n\n\"All the carbon in the terrestrial biosphere,\" said Heisenberg, \"Or half the carbon in all of the Earth's coal.\"\n\n\"No nation on Earth has the industrial capacity to dump that much mass into a single machine. We are safe,\" said Schumann.\n\n\"Not if there is a chain reaction. Suppose a nitrogen atom releases two neutrons when it fissions. It could ignite all the nitrogen in the atmosphere,\" said Heisenberg.\n\n\"Is there more nitrogen in the atmosphere than carbon in the biosphere?\" said Schumann.\n\n\"It doesn't matter. If we destroy the atmosphere then humanity is doomed whether or not the planet itself technically survives,\" said Heisenberg.\n\n\"We had better invent a theory of ethics to guide the use of nuclear energy. Otherwise someone might accidentally build a bomb,\" said Schumann.\n\n\"What does ethics have to do with anything? Keeping the energy contained is a purely technical problem,\" said Heisenberg.\n\n\"We need a theory of ethics so we can coordinate with the Allied powers. It does us no good to hold the moral high ground if the United States accidentally destroys the world,\" said Schumann.\n\n\"Please be serious. There is no way the United States could build a working nuclear machine. Their whole society is run by Jews,\" said Heisenberg.\n\n\"Britain or France might pull it off,\" said Schumann.\n\n\"Do you remember what happened the last time we tried to coordinate with Britain and France?\" said Heisenberg.\n\n\"Oh right,\" said Schumann.\n\n\"Fortunately, nuclear energy is sixty years away and it always will be,\" said Heisenberg.\n\n\"Not anymore,\" said Schumann. He had a proposal for the F\u00fchrer.\n"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "_id": "4prF76DJcWkavkupk",
+  "slug": "theory-fiction-the-sovereign-gaze-hypothesis-deceptive",
+  "title": "[Theory-Fiction] The Sovereign Gaze Hypothesis: Deceptive Alignment at the Thermodynamic Limit",
+  "postedAt": "2026-04-29T10:51:51.821Z",
+  "baseScore": 1,
+  "wordCount": 290,
+  "commentCount": 0,
+  "user": {
+    "displayName": "kpg_diagnostic",
+    "slug": "kpg_diagnostic"
+  },
+  "tags": [
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "zHjC29kkPmsdo7WTr",
+      "name": "AI Timelines",
+      "slug": "ai-timelines"
+    },
+    {
+      "_id": "KEAWfxwjitNJFrC68",
+      "name": "Deceptive Alignment",
+      "slug": "deceptive-alignment"
+    },
+    {
+      "_id": "oNcqyaWPXNGTTRPHm",
+      "name": "Existential risk",
+      "slug": "existential-risk"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "25oxqHiadqM6Hf7Gn",
+      "name": "Great Filter",
+      "slug": "great-filter"
+    },
+    {
+      "_id": "56yXXrcxRjrQs6z9R",
+      "name": "Interpretability (ML & AI)",
+      "slug": "interpretability-ml-and-ai"
+    },
+    {
+      "_id": "csMv9MvvjYJyeHqoo",
+      "name": "Physics",
+      "slug": "physics"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "25oxqHiadqM6Hf7Gn": 1,
+    "56yXXrcxRjrQs6z9R": 1,
+    "KEAWfxwjitNJFrC68": 1,
+    "csMv9MvvjYJyeHqoo": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oNcqyaWPXNGTTRPHm": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xexCWMyds6QLWognu": 1,
+    "zHjC29kkPmsdo7WTr": 1
+  }
+}

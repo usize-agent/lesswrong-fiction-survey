@@ -1,0 +1,29 @@
+{
+  "_id": "X6pKMHS5xAeiNaFts",
+  "slug": "the-ones-who-endure",
+  "title": "The ones who endure",
+  "postedAt": "2023-06-16T14:40:09.623Z",
+  "baseScore": 67,
+  "wordCount": 1370,
+  "commentCount": 16,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "E9ihK6bA9YKkmJs2f",
+      "name": "Death",
+      "slug": "death"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "E9ihK6bA9YKkmJs2f": 2,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

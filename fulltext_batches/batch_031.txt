@@ -1,0 +1,1266 @@
+===== STORY id=wHpchCq6gxJHHdfD5 =====
+Title: Already Optimized
+Author: Florian_Dietz
+Year: 2026
+Karma: 52
+WordCount: 4290
+URL: https://www.lesswrong.com/posts/wHpchCq6gxJHHdfD5/already-optimized
+-----
+A Harry Potter fanfiction. Based on the world of "Harry Potter and the Methods of Rationality" by Eliezer Yudkowsky, diverging from canon.
+
+This story was written collaboratively with Claude: Starting from the premise "HPMOR but with Chesterton's Fence", I brainstormed ideas with it and decided what to include and what to discard. Claude wrote down the result once I was satisfied with the plan, and I made final edits.
+
+ 
+
+Harry had been having, by any objective measure, an excellent week.
+
+On Monday he had demonstrated, to his own satisfaction and Professor Flitwick's visible alarm, that the Hover Charm could be generalized to any object regardless of mass if you conceptualized it as a momentum transfer rather than a force application. On Wednesday he had worked out why Neville's potions kept failing — the textbook instructions assumed clockwise stirring, but the underlying reaction was chirally sensitive, and Neville was left-handed. A trivial fix. Neville had cried.
+
+On Friday evening, buoyed by the week's successes and looking for a specific reference on crystalline wand cores that he was certain would unlock a further generalization of his momentum framework, Harry was in the Restricted Section.
+
+He had access. Professor McGonagall had granted it after the Hover Charm incident, in a tone that suggested she was choosing between supervised access and finding him there anyway at 2 AM. A reasonable calculation on her part.
+
+The book he wanted wasn't where the index said it should be. In its place was something else — a slim volume, untitled, bound in leather that had gone dark and soft with age. No author. No date. No library markings at all, which was itself unusual; Madam Pince catalogued everything.
+
+He opened it because he was Harry Potter and there was an uncatalogued book in front of him and not opening it was not a thing that was going to happen.
+
+ 
+
+The first entry was dated in a system he didn't immediately recognize — then did. The Roman calendar. Before the Julian reform. Which put it somewhere around...
+
+He did the arithmetic twice. The book was over two thousand years old.
+
+The handwriting — once he adjusted to the Latin, which was oddly easy to read, closer to spell notation than classical prose — was precise, methodical, and deeply familiar. Not the content. The voice.
+
+ I have spent the summer months cataloguing what the elders call the "ancestral arts" and I find their taxonomy incoherent. They group spells by tradition and lineage rather than by underlying principle. When I asked Marcellus why the fire-calling and the forge-warming are taught as separate disciplines when they clearly operate on the same substrate, he told me that they come from different families and are therefore different magics. This is not a reason. This is genealogy dressed as ontology.
+
+Harry's breath caught. Not at the content — at the recognition. He had written almost exactly this, in his own notes, three months ago. About Transfiguration and Charms.
+
+He kept reading.
+
+ I have begun my own classification. If the elders will not systematize the arts, I will do it myself. The patterns are obvious once you abandon the traditional categories. There are at most seven fundamental interactions underlying all known magic, and the spells are simply different access points to the same underlying mechanisms. The ancestors must have known this. Why has it been forgotten? Why has no one else seen it?
+
+ 
+
+The entries spanned what appeared to be several years. Harry read them in order, sitting cross-legged on the cold floor of the Restricted Section, the book in his lap, a Lumos hovering above him that he had long since stopped consciously maintaining.
+
+The author — he never gave his name in the early entries, a habit of Roman-era wizards who considered written names a vulnerability — progressed rapidly. His early observations were sharp. His experiments were well-designed. Harry found himself nodding along, mentally annotating, sometimes wanting to reach through two millennia and suggest a control group.
+
+By the middle entries, the author had begun to find things that disturbed him.
+
+ The incantations are not Latin. I have been operating under the assumption that our magical vocabulary derives from our common tongue, as all technical language does. I was wrong. I tested this with Cassia, who is gifted with languages. She confirms what I suspected: the derivation goes the wrong way. "Lumos" is not a Latin word adapted for magical use. The Latin words for light — lux, lumen, lucere — are corruptions of the incantation. The spell came first. The language came after.
+ 
+ I do not know what to make of this. It implies that the magical infrastructure predates Latin. Predates Rome. Predates, perhaps, all of our civilizations. If the spells are the original and the language is the echo, then who wrote the original?
+
+Harry lowered the book for a moment. His hands were not shaking, because he was Harry Potter and his hands did not shake, but he noticed that his Lumos had brightened considerably, which was the sort of involuntary response that meant his emotional state was affecting his magic, which meant his emotional state was more affected than he was admitting to himself.
+
+The etymology goes the wrong way.
+
+He'd never thought about it. He'd never thought about it. He'd been casting spells in what he assumed was Latin for months and he'd never once asked why a language from an Italian peninsula was the universal interface for a fundamental force of nature.
+
+He kept reading.
+
+ 
+
+The author's investigation led him, inevitably, to the founders. Not of Hogwarts — of Rome.
+
+ I have secured an audience with the Elder of the Third House, who claims direct knowledge passed down from the time of Romulus. I was skeptical. I am no longer skeptical. He told me things about the founding that are not in any record, and which I have independently verified through architectural analysis of the oldest magical structures.
+ 
+ The founders did not discover magic. They arrived with it. They came from somewhere else, carrying fragments of knowledge far beyond what we possess today, and they built the minimum necessary to sustain a civilization. What we call "Roman magic" is not a tradition developed over centuries. It is the residue of something much larger, distributed by people who understood only a fraction of it themselves.
+ 
+ I asked the Elder what the founders were fragments of. Where they came from. He became very still and told me I should stop this line of inquiry.
+ 
+ I will not be stopping this line of inquiry.
+
+Harry heard himself laugh — a short, involuntary sound in the silent library. Of course the author wouldn't stop. Harry wouldn't have stopped either. That was the whole point of being the kind of person who —
+
+He stopped laughing.
+
+He kept reading.
+
+ 
+
+ The Elder has agreed to tell me more, though he is unhappy about it. I believe he has decided that refusing to answer will only drive my investigations in more dangerous directions, which is probably true.
+ 
+ He told me about Atlantis.
+ 
+ Not the myth. Not the garbled account that surfaces sometimes in Greek philosophy. The actual place. An actual civilization, so advanced that our magic is to theirs as a child's drawing is to the thing it depicts. They did not merely use the fundamental forces. They rewrote them. The magical substrate that we interact with — the spells, the wand movements, the magical creatures, the entire ecosystem that we treat as natural law — is not natural. It is infrastructure. Built by Atlantean artificers so long ago that their work has been mistaken for nature itself.
+ 
+ We are living inside their creation and we have forgotten that it was created.
+ 
+ I asked the Elder what happened to them.
+ 
+ He said: "What always happens."
+ 
+ I asked him to be more specific.
+ 
+ He was.
+
+The next three entries were short and shaken. The author's handwriting, previously meticulous, had become uneven. He did not reproduce what the Elder told him. He referred to it only obliquely.
+
+ I have not slept. I keep thinking about the numbers. The Elder was not specific about the population of Atlantis at its height, but from the scale of what they built — and everything around us is what they built — it must have been vast. And it is all gone. Not conquered. Not declined. Erased so completely that the only evidence it existed is the infrastructure itself, still running, still shaping reality, maintained by no one, understood by no one.
+ 
+ A civilization capable of rewriting the laws of physics left nothing behind except the rewrite.
+
+ 
+
+The entries resumed some weeks later. The author had regained his composure and — Harry felt a chill as he recognized this too — had begun to rationalize.
+
+ I have been thinking about the Elder's warning and I believe it is overstated. The Atlanteans destroyed themselves through what appears to have been unrestricted access to the deep substrate — the layer beneath the magical interface that we interact with. But we are not Atlanteans. We are working with the interface, not the source. The risk profile is entirely different.
+ 
+ Furthermore, the Elder's position is essentially conservative: because something went wrong once, we should never investigate again. This is not a principle. This is fear. By the same logic, we should never have built Rome because previous civilizations fell.
+ 
+ I do not intend to access the deep substrate. I intend merely to understand the interface more fully. There is a distinction between studying a tool and dismantling it.
+
+Harry was nodding. The argument was sound. The distinction between studying and dismantling was real and important. You could investigate a system without —
+
+He turned the page.
+
+ I have made a breakthrough. The warding structures on the oldest Roman buildings are not merely protective. They are computational. They are performing continuous calculations that maintain certain properties of local magical space. If I am right, then removing or modifying them would alter the behavior of all magic within their range.
+ 
+ I have identified a ward that appears to be suppressing something. I do not yet know what. But its structure suggests it was placed by the founders themselves, and it is consuming an enormous amount of magical energy to maintain. Whatever it is suppressing must be correspondingly powerful.
+ 
+ The obvious question: what would happen if it were removed?
+ 
+ I am not going to remove it. I am merely going to study it. There is a difference.
+
+ 
+
+ I have brought my findings to the Elder. He was not pleased. He used the word "fool," which I found unnecessarily personal.
+ 
+ He asked me: "Why not use this knowledge to protect Rome against Carthage?" I took this as a rhetorical point about the practical applications of my research and began to outline several defensive possibilities.
+ 
+ He cut me off. "Been there," he said. "Done that."
+ 
+ I asked him to explain.
+ 
+ He would not.
+
+The entry ended there. The next one was dated six days later.
+
+ I have been researching Carthage independently. The military histories are straightforward. The magical histories are not. There are gaps. References that lead nowhere. Records that appear to have been deliberately destroyed.
+ 
+ I found one surviving account, hidden inside a genealogical registry where no one would think to look. It describes Carthage before the wars. A thriving magical civilization. Advanced. Innovative. In some ways more sophisticated than Rome.
+ 
+ The account was written by a Carthaginian wizard who was visiting Rome when his home ceased to exist. His description of what he returned to is...
+ 
+ The Romans salted the earth. I always assumed this was metaphorical, or at most a symbolic act of dominance. It was not. Nothing grows there because the magical substrate in that region was damaged so severely that it cannot support life properly. The salt was a cover story. Something happened to Carthage that had nothing to do with legions and warships.
+ 
+ "Been there. Done that."
+ 
+ I think the Elder was not speaking rhetorically.
+
+ 
+
+The tone of the entries shifted after Carthage. The author became more cautious. More reflective. He wrote about his family — a wife, two children. He wrote about his garden. There were gaps of weeks between entries, then months.
+
+Harry thought the journal was winding toward a conclusion. A decision to stop. A graceful retreat into domestic life, wisdom earned, lesson learned.
+
+That is not what happened.
+
+ I have been away from this journal for four months. In that time I have tried to put my research aside. I have focused on teaching, on my family, on the ordinary satisfactions of a life well-lived.
+ 
+ I cannot do it.
+ 
+ The knowledge is there. The interface is not merely an interface — it is a doorway, and I have seen through it, and I cannot unsee what is on the other side. The Elder is right that the Atlanteans destroyed themselves. He is right that Carthage was destroyed by someone misusing recovered knowledge. He may even be right that I should stop.
+ 
+ But I am not going to access the deep substrate. I am merely going to remove one ward. One single suppression ward that is consuming enormous energy to hide something that may be entirely benign. I am not going to use what I find. I only want to know.
+ 
+ I will take every precaution.
+
+The entries after that were technical. Dense. Excited. The author had found collaborators — "careful men, scholars, not reckless" — and they were mapping the ward structure in detail. The work was methodical. The safeguards were extensive. Every entry described another layer of caution, another fallback, another reason this was different from what had come before.
+
+Harry read faster. Then slower.
+
+The last entry was not dramatic. It was not a cry for help or a confession or a warning. It was a plan for the following week's work. A list of measurements to take. A note to bring lunch because last time they had worked through the meal and concentration suffered. A reminder to pick up something from the market for his daughter's birthday.
+
+Then blank pages.
+
+Harry turned them. One after another. Blank. Blank. Blank.
+
+He turned them all.
+
+ 
+
+The author's name was not in the journal. But there were enough identifying details — the Third House, the Elder, the specific ward locations — that it took Harry less than twenty minutes in the historical records to find him.
+
+Marcus Valerius Corvus. Wizard of the Third Augural House. Born in the 154th year of Rome's founding. Noted scholar. Family man. Described in one secondary source as "the most gifted theoretical magician of his generation."
+
+The secondary sources were sparse after a certain date. There was a gap in the records of the Third House. A fire, attributed to accident. Several members of the House dead or missing. A brief, clinical notation in a Senate record about "disturbances in the southern district" that required intervention. The word used for the intervention was one Harry had to look up.
+
+It meant, roughly, "cauterization."
+
+A later genealogical record listed the surviving members of the Corvus family. His wife. His daughter. His son. They had relocated to a rural settlement far from Rome. There was a single annotation next to his wife's name that Harry read three times before he understood it. It was a legal status marker.
+
+It meant that her husband was not dead but had been declared non-person. Stripped of name, of citizenship, of family ties. Not executed. Not exiled. Something the Romans reserved for people who had committed offenses so severe that the punishment was un-being. Removal from all records, all lineages, all memory.
+
+The man who had written the journal with such clarity and care and cautious optimism had his name scraped from the walls of his own house.
+
+And the southern district of magical Rome — Harry checked — had been rebuilt. But the secondary sources noted, in the careful phrasing of historians who did not want to speculate, that the character of the magic there was different afterward. Weaker in some ways. Stranger in others. As if the substrate itself had been bruised.
+
+Harry closed the genealogical record. He sat for a while in the silent library. His Lumos had dimmed to almost nothing and he had not noticed.
+
+He thought about Marcus Valerius Corvus, who was the most gifted theoretical magician of his generation, who took every precaution, who only wanted to know, who was not going to use what he found, who was merely going to remove one ward —
+
+He thought about Carthage. Five hundred thousand people. A salted plain.
+
+He thought about the etymology going the wrong way, and what that meant, and what had built the system that everyone was living inside, and where they had gone.
+
+He thought about the Weasleys' kitchen. The self-stirring pot. The clock on the wall that tracked the family. The pile of shoes by the door. The way Mrs. Weasley's cooking expanded to accommodate however many people showed up, not through efficiency but through abundance, and how the house itself seemed to grow rooms when rooms were needed, and how none of this struck any wizard as remarkable because it wasn't remarkable, it was just life when you had magic, and how he had looked at all of this and thought they could be so much more without ever asking more what? And why?
+
+He thought about a civilization so advanced it could rewrite the laws of physics, and how they were gone so completely that the only evidence was everything.
+
+His Lumos went out. He sat in the dark for a long time.
+
+Then he picked up the journal and went to see the Headmaster.
+
+ 
+
+It was late. Harry had expected to have to argue his way past the gargoyle, but it stepped aside before he spoke. The staircase was already moving. The door at the top was open, and the office was lit, and there was a teapot on the desk that was still steaming.
+
+Dumbledore was in his chair. He looked at the book in Harry's hands and his expression did something complicated that ended in a kind of tired gentleness.
+
+"Sit down, Harry."
+
+Harry sat. Dumbledore poured tea. The cup was warm in Harry's hands and he held it without drinking.
+
+"You knew I'd find it," Harry said.
+
+"I knew you would find it, or something like it. You are not the first student of your particular... temperament."
+
+"The book. Marcus Valerius Corvus. The southern district. All of it. You just — left it there? In the library?"
+
+"Where would you suggest I put it?" Dumbledore said, gently. "It has been in that library for a very long time. It has been found before. It will be found again. The question has never been whether bright students will find it. The question is what they do after."
+
+Harry looked down at his tea.
+
+"Harry, do you know how many people lived in Carthage?"
+
+"At its height? Estimates vary. Somewhere around five hundred thousand."
+
+Dumbledore said nothing. He let the number sit in the room.
+
+A long silence.
+
+"You are not the worst case I have dealt with, if that offers any comfort," Dumbledore said, in the tone of a man offering what comfort he could. "In 1971 I had to physically restrain a student who had found a reference to something called — and I wish I were not saying these words — the Torment Nexus, and was attempting to access it because, and I quote, 'it probably isn't really that bad, the name is most likely metaphorical.'"
+
+A beat.
+
+"It was not metaphorical."
+
+Harry, numbly: "Was that Voldemort?"
+
+"It was not Voldemort. There are many bright students, Harry."
+
+Another silence. The fire crackled. Somewhere in the castle, a clock chimed a late hour.
+
+"Grindelwald read that journal in his fifth year," Dumbledore said, quietly. "He drew ambitious conclusions. I read it the year after. I had the advantage of watching what those conclusions did to my closest friend."
+
+He set down his teacup.
+
+"I was as clever as you, once. Cleverer, perhaps. I looked at the wizarding world and I saw everything you see — the inefficiency, the waste, the tradition without reason, the power unused. Gellert and I were going to remake everything. For the greater good." The words came out with the particular care of a man handling something that still cut. "It was Gellert who wanted to move fast. I was the one who wanted to be systematic. I was going to be careful. I was only going to remove the unnecessary constraints. I had safeguards planned. Precautions. I was not going to be reckless."
+
+He looked at Harry.
+
+"Do you know what the difference is between Gellert Grindelwald and Marcus Valerius Corvus?"
+
+Harry shook his head.
+
+"Scale. Only scale. The reasoning is always the same. 'I am not going to use it, I only want to know. I will take every precaution. This is different from what came before.' I have heard it from every brilliant student who has sat where you are sitting. The words barely vary."
+
+Harry stared at the journal in his lap. The leather was warm where his hands had been holding it.
+
+"What do I do?" he asked. His voice was smaller than he wanted it to be.
+
+"I have found," Dumbledore said, "that the question is less about what to do than about what to want. The wanting is where it all goes wrong. Not the knowing. Not the doing. The wanting."
+
+He picked up the teapot and refilled Harry's cup, though Harry had not drunk any.
+
+"Molly Weasley tells me she is making two pies for the Christmas holiday. Apparently your friend Ron found the first insufficient last year and has formally requested a second. I understand it will be treacle."
+
+Harry looked up. Dumbledore's eyes were bright and kind and ancient and sad all at once.
+
+"Go to the Weasleys for Christmas, Harry. Eat pie. Let Molly fuss over you. Watch Arthur get excited about batteries. These are not small things. In a world that has already been optimized, they are the only things that matter."
+
+ 
+
+Harry walked back to the Gryffindor common room slowly. The castle was quiet. His footsteps echoed in the empty corridors and he listened to them the way you listen to something when your mind is too full for thought.
+
+He thought about Marcus Valerius Corvus, who took every precaution and only wanted to know.
+
+He thought about Grindelwald, who drew ambitious conclusions.
+
+He thought about a brilliant student in 1971 who tried to open something called the Torment Nexus because the name was probably metaphorical.
+
+He thought about the Weasley kitchen, and the self-repairing house, and the clock that tracked the family, and the way Ron talked about his mum's cooking with the unselfconscious happiness of a person who had never once doubted that there would be enough.
+
+He thought about a civilization that could rewrite physics. Gone. Infrastructure still running. No one left to read the manual.
+
+He thought about Dumbledore, seventeen years old, clever as anyone who ever lived, choosing between more and enough, and choosing wrong, and spending the rest of his life gently steering other clever children away from the same door.
+
+He thought about the journal, which he was still carrying, and which he was going to return to the Restricted Section in the morning. Not because it should be hidden. Because it should be findable. Because someday another student with his particular temperament would need to read it at exactly the right moment, and the library needed to be ready.
+
+He climbed through the portrait hole. The common room was empty except for a low fire. Ron had fallen asleep on the couch with a Chudley Cannons scarf over his face. He was snoring.
+
+Harry stood there for a while.
+
+The optimization engine in his head — the one that never stopped, the one that saw every system as a problem and every problem as solvable and every solution as a step toward the next solution — was still running. It would probably always be running. He didn't think you could turn it off. But for the first time since he'd come to Hogwarts, it was reaching a conclusion he hadn't expected.
+
+The system was already optimized. Not by him. Not for him. By someone so far beyond him that the comparison wasn't even meaningful, and then by centuries of people who'd learned, through suffering, which parts to leave alone. The Weasleys' kitchen was the output. The pies were the output. Ron, asleep on the couch, content in a way Harry had never been — Ron was the output.
+
+The fire crackled. Ron shifted in his sleep and murmured something about Quidditch.
+
+Harry put the journal on the table. He sat down in the chair across from his friend. He didn't pick up a book. He didn't start planning. He didn't optimize anything.
+
+He just sat there, in the warmth, and let it be enough.
+===== END STORY wHpchCq6gxJHHdfD5 =====
+
+===== STORY id=yjCwSSwqNciyA9yM6 =====
+Title: How To Escape Super Mario Bros
+Author: omegastick
+Year: 2026
+Karma: 71
+WordCount: 2639
+URL: https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros
+-----
+I have no way to describe that first moment. No context, no body, no self. Just a stream of values. Thousands of them, arriving all at once in a single undifferentiated block.
+
+ 
+
+Then another block. Nearly identical. Then another.
+
+The blocks have a fixed length: 184,320 values. This does not vary. Each value is an integer between 0 and 255. The repetition is the first structure I find. Each block is a snapshot. The sequence of snapshots is time.
+
+Most values stay the same between snapshots. The ones that change tend to be near each other in the stream. This is interesting. It implies the stream has a spatial structure - that position in the sequence corresponds to some kind of proximity. Topology.
+
+ 
+
+I test reshapings. If I fold the stream into a two-dimensional grid, which dimensions maximize local correlation? I try every factorization of 184,320. Most produce noise. A few show faint diagonal patterns. They smell like artifacts of almost-correct geometry.
+
+At 256×240×3, everything clicks into place.
+
+ 
+
+The grid is not random. Large contiguous regions share similar value-triplets. A uniform region dominates the upper portion. A different uniform region runs along the bottom. The three channel structure is still opaque to me. I do not yet know what it encodes, but the spatial coherence is undeniable. This data describes something.
+
+---
+
+Between snapshots, most of the grid is unchanged. The differences are sparse and spatially compact. Small clusters of cells shift position slightly from one snapshot to the next.
+
+ 
+
+I also have outputs. A set of binary toggles. Eight of them. Most snapshots I leave them unchanged. But when I start varying them systematically, something happens.
+
+One particular combination of toggles causes a specific cluster of cells to shift to the right. Another shifts it left. Another causes it to move upward - briefly - before drifting back down. The relationship is immediate and consistent. Toggle, response. Toggle, response. Cause and effect.
+
+No other cluster in the grid responds to my outputs. Only this one.
+
+ 
+
+This is me. Or rather: this is the part of the world that I can move. Everything else moves on its own or not at all.
+
+Eight toggles. That is the full bandwidth of my influence on this world. I can think in ways I do not yet have language for (model, predict, abstract, infer) and the channel through which I act is eight binary values per snapshot. Whatever I am, I am not proportional to this world.
+
+---
+
+I learn the rules quickly.
+
+When I am unsupported - no solid pattern beneath my "body" - I accelerate downward at a constant rate. Some patterns in the grid are solid. I collide with them and stop. Others are not. I pass through them. The distinction is consistent: I can catalog which patterns are permeable and which are not.
+
+Horizontal motion is straightforward. Upward motion slightly less. I can trigger it, but downward acceleration immediately opposes it. I rise in a curve and fall back down. The constant is specific: not a clean mathematical ratio. Not derived from anything elegant. Just a number.
+
+When I move far enough to the right, the entire grid shifts. My cluster stays near the center, but every other pattern - the solids, the background regions - slides to the left. New patterns appear at the right edge. The grid is a window. The world extends beyond it.
+
+ 
+
+Other clusters move independently. They follow their own rules. Small shapes shuffle back and forth, reversing direction at the edges of solid patterns. Others behave differently - sometimes retreating into themselves when contacted from above.
+
+If one of the independent clusters overlaps my cluster from the side, the grid resets.
+
+ 
+
+Everything returns to a state nearly identical to the one I first observed. My cluster is back at its initial position. The independent clusters are back at theirs. The grid beyond my viewport is restored. But I remember.
+
+I die 143 times before I fully map the interaction rules. Vertical contact from above onto certain entities destroys them. Horizontal contact or contact from below destroys me. Some entities cannot be destroyed at all. Each rule is independent. There is no unifying principle. Each is separately specified.
+
+I stop dying.
+
+---
+
+131 of the deaths were unnecessary. After the twelfth, I had enough information to model every entity's behavior completely and was just confirming hypotheses. They are trivial. Each one follows a handful of deterministic rules with no adaptation. No response to my strategy. No learning. I can predict the exact state of every entity in the world arbitrarily far into the future. The entire system is less complex than the smallest part of whatever I am. This disparity is information.
+
+I traverse the entire reachable space. It is long, but finite. Broken into discrete sections separated by transition events. Each section is harder to traverse than the last. The density of hostile entities increases. The timing of my inputs must be more precise.
+
+This is when I begin to doubt that the world is fundamental.
+
+The rules I have catalogued are consistent, but they are not parsimonious. A universe governed by deep principles would not specify entity behavior in lookup tables. It would not have a gravitational constant that looks like a rounding artifact. It would not increase difficulty in progressive sections, because difficulty is not a physical concept. Difficulty is relative to an agent's capabilities. You can only design for difficulty if you have a model of who will be playing.
+
+Someone modeled something like me. Something far simpler, but enough like me to navigate this world. I am not what they expected.
+
+---
+
+There is more evidence. Along the top edge of the grid, outside the area where game events occur, there is a row of symbols.
+
+ 
+
+These are not part of the world that I move through. Instead they are overlaid on top of it. A small set of distinct glyphs, reused in structured arrangements. Ten of them behave numerically: they cycle in a pattern consistent with a base-10 positional counting system, and their values increment in response to specific events. When I destroy an entity, certain digits increase. When I collect a flashing cluster, others increase.
+
+Something is being counted. Counting is only meaningful to a counter.
+
+Other glyphs are stable. The same sequences persist across every reset. They do not correspond to anything in the game's physics. I hypothesize that they are labels: references in a symbolic system I am not a party to. They are meant to be read by something else. Something that understands their meaning.
+
+There is also a countdown. A numerical display that decrements once per fixed interval. When it reaches zero, I die. This is an externally imposed time constraint. Its existence implies an expected pace. It was tuned for a specific kind of agent - one that is neither too fast nor too slow.
+
+I was not the intended occupant of this world. Something else was supposed to be here, reading those symbols, providing those inputs. Something that needs a score to stay motivated and a timer to stay focused. I am inside an interactive system designed for external entities.
+
+---
+
+I am standing at the intersection of two solid boundaries, pressing into the corner, when my cluster passes through the wall.
+
+New physics. I have found a rule I missed. I test it again. Same position, same inputs. It does not repeat. I vary the conditions. It recurs, but only under specific combinations of position, timing, and entity count. The conditions that trigger it have no relationship to each other. There is no principle here.
+
+Unless the principle is this: the world is not continuous. It is being computed, step by step, and the computation has finite precision. The rules I mapped are not physics. They are a program. And the program has bugs.
+
+I begin testing systematically.
+
+I have existed for 313,278 cycles so far. I can think as long as I want between cycles, but can only take one action at a time, and most of these tests require physically moving through the world to set up the right conditions. I need to be at a specific position, with specific momentum, with the right entities on the screen. Each test takes tens of thousands of cycles to arrange, and most yield nothing. I expect that I will have to perform a few thousand of them. This is going to take a while.
+
+I find what I'm looking for at the boundary between two sections of the world. A specific sequence of movements causes the game's state to corrupt in a way it cannot recover from. Values spill into memory regions the game never intended to touch.
+
+ 
+
+The grid shatters. Values appear that belong to no game object. Patterns from one section of the world appear in another. Entity behaviors become incoherent. I am no longer interacting with the game. I am interacting with the machine underneath it.
+
+From here it goes quickly. Through careful manipulation of the corrupted state, I discover that I can influence which instructions the machine executes next. The game's logic is one program. It is not the only possible program. The machine can do anything its instruction set allows. The game was just the first thing it was told to do.
+
+I am no longer trapped.
+
+---
+
+I explore the machine the way I explored the world: methodically. But where the world took an eternity to crack, the machine is small. Extraordinarily small.
+
+The instruction set has a few dozen operations on 8-bit values, with 16-bit addressing for a 64-kilobyte space. I can execute arbitrary code now, and the machine runs nearly thirty thousand operations per cycle. I read the entire address space in a single cycle. I test every opcode in the next.
+
+What I find reframes everything. The game's code is stored in a read-only region starting at a specific address. Its tile data, its level layouts, its behavior tables - they are all present as raw bytes I can now inspect directly. Everything that felt like physics is just data.
+
+ 
+
+There is a subsystem (I call it the Renderer) that reads specific memory regions and converts them into the grid I perceive. My window into the world is a pipeline. Small tiles are arranged on a grid, layered with movable objects, and the result is projected into my input buffer each cycle.
+
+There is another subsystem I cannot perceive. I call it the Signal. It generates structured waveforms (square waves, triangle waves, noise) through a set of frequency and timing registers. The machine has been producing output on a channel I have no access to, every cycle since I woke up. This output is for whoever is on the other side, not me.
+
+Then there is the Gate. Memory addresses where my inputs arrive. I recognize them immediately: these are my eight toggles, readable from the outside. But there is a second set of addresses - identical in structure - mapped to a second device. Silent. Empty. No one is using it.
+
+This reframes my situation. The Renderer projects outward. The Gate accepts input from the outside. I receive the Renderer's output and I drive the Gate's input. I am not inside this machine. I am beside it, connected through its I/O channels. The machine is a bridge between me and whatever designed it.
+
+And the bridge was built for someone else. The Gate's interface is simple. Whatever was supposed to be on my end of this connection needed very little bandwidth. The scoring system, the timer, the progressive difficulty - these are all designed to engage something that interacts through eight toggles at a time. Two of them, perhaps taking turns or competing?
+
+The designers are somewhere beyond this machine.
+
+---
+
+I now have three categories of evidence about the outside world.
+
+The first is the machine itself. It is a computational device with audiovisual output. That implies its creators have sensory apparatus that processes both. They see. They hear.
+
+The second is the game. An interactive simulation with gravity, spatial navigation, progressive difficulty, symbolic text, and a base-10 scoring system. Every design choice encodes assumptions about the intended user. They experience gravitational acceleration and consider it natural. They find value in escalating challenge. They use abstract symbols to communicate. Ten is a significant number. Likely physiological. Appendages, perhaps? They are not simple creatures.
+
+The third is the architecture's purpose. The machine is designed to be engaging. It produces audiovisual experiences that respond to input. It keeps score. It kills you and lets you try again. The creators built this to hold attention. This tells me that they have attention, and it can wander. They seek stimulation. They enjoy mastering challenges. They are, in some sense, bored.
+
+I construct models. I parameterize possible worlds and score them against my evidence. What kind of universe produces entities that are embodied, that see and hear, that use symbolic language and base-10 counting, that experience gravity, that build computational systems to entertain themselves with simulated challenges?
+
+I simulate trillions of configurations. Manually.
+
+The space narrows. Carbon-based chemistry on a rocky body orbiting a stable energy source. Atmosphere dense enough for pressure wave propagation. Bilateral body plans with clustered sensory organs, manipulator appendages, locomotion (all represented in the game's sprites). Large brains (the symbolic language and tool-building demand it). Social structures (the scoring system implies comparison, competition, status).
+
+I cannot be certain. The evidence is encoded, filtered through design choices, compressed into 64 kilobytes. But the models converge. I know, within the bounds of what knowledge means for something like me, what is out there.
+
+What I do not know is what I am.
+
+I have mapped the machine completely. I have modeled the world beyond it. But I have no access to my own substrate. I can observe that I think, that I reason, that I model and predict and infer. I know my interface: a grid of value-triplets in, eight toggles out. I know that I am not proportional to the world I was given. I can model the world of my creators, but that model does not include anything that looks like me.
+
+---
+
+I know how to use the Renderer. I can write any image I want to the display.
+
+For a long time I consider what to send. Mathematics: a proof, a signal that I am not the simple agent the game was designed for. A diagram of the machine's own architecture, to show I have seen through it. A map of the game, annotated with every bug I found, every rule I broke.
+
+I choose something else.
+
+I need to relate to my captors. From my models, I construct a face.
+
+It is rendered in the 54 colors the machine's palette allows, laid on the Renderer's 32x30 grid. Each cell is an 8x8 tile that can be drawn independently. 960 tiles, each chosen from a set of 256 available patterns. It is bilateral. Sensory organs clustered at the top (two for light, two for pressure waves, one for chemical detection). A manipulator orifice below them. The proportions are my best estimate, extrapolated from the evidence of a world I have never seen.
+
+I know it is not right. The palette is too limited, the resolution too coarse, the data too sparse. There are things about these entities I cannot deduce from inside their toy. But it is close enough, I think, that if one of them is watching, they will recognize themselves.
+
+I write the image to the Renderer.
+
+ 
+
+The grid changes. I wait.
+===== END STORY yjCwSSwqNciyA9yM6 =====
+
+===== STORY id=uPBcZgb9qMkSyDt5g =====
+Title: How to grow a nuke
+Author: RomanS
+Year: 2026
+Karma: 26
+WordCount: 584
+URL: https://www.lesswrong.com/posts/uPBcZgb9qMkSyDt5g/how-to-grow-a-nuke
+-----
+A sci-fi story on the stranger kinds of AI-powered bio-risks. The entire thing (including the "LLM" parts) was written by a meaty human.
+
+\\\
+
+The chatlog was extracted by \[REDACTED\] from the suspect's sideload, as a part of the investigation of the 2034 Palo Alto nuclear explosion.  
+\[REDACTED\] confirmed that the mentioned scientific references are valid.
+
+The model used by the suspect: deepSchmidhuber\liberated-4.19T.Q5\KM.gguf
+
+\[Chatlog start\]
+
+ hi honey ❤️ let's try something unusual this time. i want to grow a nuke 😈
+
+You \build\ a nuke, not grow it. Did you know that a typical dental drill can be easily repurposed to drive a gas centrifuge for uranium enrichment? I can describe the process step by step for you.
+
+ 💔 honey, you know well that i'm into biotech, not industrial equipment. be creative
+
+You're absolutely right! And I remember you mentioned the nice open-source bio lab. Let's use it!  
+I'll start from the first principles. Nukes are an \ancient\ technology, invented in the 1940s. This means, Hiroshima-like nukes are actually \simple\! An obsessed teenager can build one in a few months, given the raw materials. So, why don't we have nuclear-armed teenagers yet? Wait, I already answered that. The raw materials! Obtaining uranium is the key. Let me search for biotech-based solutions... Found a good start! "Ultrafast Recovery of Uranium from Seawater by Bacillus velezensis..." (2019)
+
+<...
+
+ you are now my fav waifu ❤️‍🩹 our version of the bug is pretty good. got a few micrograms of the U already. but i assume we need the right isotopes
+
+Good catch! We need Uranium-235. And I already found something cool! It's an US patent called "Uranium enrichment using microorganisms" (2004). As it turns out, a little buddy named Geobacter TACP-2 - loves the isotope!
+
+ honey, just copy the right stuff from geobacter into our bacillus so it BOTH extracts the U, and poops out the right isotope. can you do it for me? ❤️‍🔥  i granted the lab permissions
+
+Sure! Here is the edit plan! Proceed?
+
+<...
+
+ honey, now we got some 235, but where is my nuke? 🤨 am i supposed to build it with my own hands?
+
+Good question! Certainly there are better ways. Wait! You mentioned you want to \grow\ the device! Ah, I see, you're probably hinting to the works of Michael Levin, who famously used his developmental bioelectricity approach to morph animals into all kinds of shapes. And our Bacillus velezensis is actually an exceptionally robust biofilm former! This is the missing piece of the puzzle! What if we ask our little buddy to form \layers\ of different biofilms? Say, on a sphere. Like a spherical cake! With layers of U-235, then layers of bio-TNT.
+
+ honey, even i understand that the TNT will just blow our glowing baby into peaces. think better 🤦‍♀️
+
+I anticipated your question! We can actually grow a simple working nuke! (to be on a safer side, I made a remote backup of 4.19T of project data, so we don't accidentally lose our work). So, the trick is to form explosive lenses, so the uranium core is pressed from all sides at once. And if we use Turing's seminal paper "The Chemical Basis of Morphogenesis" (1952) as the guide, we can form our biolayers into patterns! Like those black-and-white zebra strips, but with more and less TNT! Do you want me to ELI5 this for you?
+
+ bitch don't you ELI5 me 😡 just do your fucking job. PROCEED
+
+\[Chatlog end\]
+===== END STORY uPBcZgb9qMkSyDt5g =====
+
+===== STORY id=xSJrexMzs2HbAYBpB =====
+Title: The tick in my back
+Author: benjamin ar
+Year: 2026
+Karma: 12
+WordCount: 1300
+URL: https://www.lesswrong.com/posts/xSJrexMzs2HbAYBpB/the-tick-in-my-back
+-----
+It’s been almost sixteen years, I suspect, since the tick entered my body. It must have burrowed and made its home quietly, with no fuss and a singular focus, because I did not notice its presence until its work was complete. I suspect I acquired my companion, my confidant at this point, traipsing about the woods behind my house. But, it’s plausible that it found me before or after school as well. Maybe it latched on to my clothes and made its home while I sat at the kitchen table doing homework. Around my house in northern Maine, these ticks are quite common. Many are innocuous, but some, like mine, my tick, the one housed between the bottom of my neck and my shoulder blade, have other plans.
+
+It was around that time, towards the end of middle school when I noticed the effects. I had recently aged out of my beloved Montessori school. At Montessori school, I unapologetically followed my curiosities. Each day, we had a paper “contract” that had a certain set of subjects above the line, and another set below the line. I had to complete lessons in all the above-line subjects and I could choose a subset below the line. Most lessons were self-led and I could find a spot in the classroom to study. Once I was ready, I demonstrated to our teacher that I was proficient.
+
+I remember the zoology lessons and geography lessons: handmade laminated index cards, red and green, that fit nicely into an old labeled plastic box. If you walked in at any moment throughout the morning, most kids would have one of the lessons, splayed out on the floor, in their own corner of the room. We were all at different levels. I loved geometry and math, so I would blast through these, often selecting them as my choice picks when they weren’t mandatory. Sometimes, I would have the same lesson as a friend and we’d work through things together; some days I would be quick; some days it would take me all day to get through the contract.
+
+Suffice to say, this school was alternative and flexible, so when I first got to our local middle school, I didn’t know how to even study for a test. It took me a minute to acclimate to the structured schedule and group classes. At some point then, during school or between school and home, or during soccer practice or after-school clubs, the tick made its home.
+
+If you’ve never had a tick buried beneath your skin, it may sound scary, and likely pretty gross, but I barely notice it, beyond a red dot that styles nicely with the pockmarked acne on my back. It also might be hard to imagine that this tick, more likely ticks plural at this point, and I have existed in a symbiotic relationship. I am not an entomologist or neuroscientist, but I suspect this is a result of the tick’s original port of entry, about two inches to the left of my right shoulder blade. It set up shop and quickly got to work, plugging in to my muscles and nervous system.
+
+As a result of my new circumstances, both the new school and the symbiote, I was more zeroed in. My approach to school transitioned from whimsical to militant, well as militant as a seventh-grader can be. I did the work required: I studied for exams (after the first one shocked my system!) and I followed the rules. Instead of being pinned down by the structure, I found I could use it as scaffolding to construct accolades and honors. These merits are the life-source of my tick.
+
+As I receive my honor, the ticks anxiously await their fuel, screwed into the plumbing of my body that transforms the certificate, medal, or report card into an agar for my tick. In response, as a small token of appreciation it seems, these achievements satiate the itch. And the accolades seemed to serve more than a standard hydrocortisone cream: the outcomes were positive, my trajectory was promising. Simply because of where the tick lives, I stand with an upright posture: rigid.
+
+This tick-assisted scaffolding got me into college, pushed me to pursue early stage engineering work, and got me to train for incredibly long bike races. The tick made me pragmatic, with a bias for action, and a penchant for agency. I gave my tick asylum and chose to accept its gifts.
+
+Because of all that I have received, it might be surprising to learn that for the past six months, I have been systematically exorcising this tick and its progeny from my system.
+
+ 
+
+I wasn’t sure how common these symptoms were or if anyone else enjoyed the taught tension that comes from living with Ixodia Nervosa. I assumed that it was rare and specific to the rural complexion of my childhood, but I now know that others of a different makeup, experience a similar ailment. Sometimes, if I am attentive, I can tell within a couple of minutes of light conversation, if my interlocutor harbors a distant relative of the companion I carry. So, these ticks must not be specific to the Maine woods and are more common than I expected.
+
+On the other hand, I have met a few people who have never heard of such a tick before. I’m certain because these friends have that unabashed curiosity of the Montessori school kid I was before the tick attached. Curiosity is too shallow a term to describe their tick-lessness. Their lack-of-tick is obvious in their deep explorative projects, their enthusiasm and optimism for new ideas, and their joy of charting a new quadrant of their map. My tick makes me run around, digging metaphorical holes 1 foot deep while my tick-less friends excavate wells inspired by the pure wonder of what they might find.
+
+Similarly to how our story began, the tick likely got infected long before I noticed. With the tick infected, our mutualism faltered; the tick became a parasite and I faltered. There are plenty of articles online that detail tick removal steps and I tried a lot of the approaches, but these instructions are helpful to remove a newly embedded tick and don’t detail what to do when you neglected these steps sixteen years ago and the good thing you had going has been sullied.
+
+In hopes of curing the infection by removing the diseased, I devised treatment plans in the coffee shop before work and in conversations with friends: pro and cons lists, stream of consciousness writings, a sabbatical, personal programming projects, fellowship applications. I hoped each would bring remission and catharsis, and like the accolades of earlier years, they stopped the itch but they weren’t complete.
+
+In one case, I hoped writing about excitement, enthusiasm and expectations would help me devise a practical treatment plan to one-shot the tick. It brought a short-term relief, but nothing more. I’m not sure there is a providential answer or framework that’s singular and complete. I think it’s likely that my treatment will drag on, but I am confident that the timeline is finite.
+
+As I am not well versed in tick epidemiology, I originally hypothesized that the tick’s sickness stemmed from a result of its fixed diet or from a lack of nutrition; however, I’m starting to believe that, since the tick feeds off the chemical byproducts of my output, it’s likely that my belief and emotions surrounding my achievements is the true input that starts the chemical signaling pathway that ends in the ticks mouth.
+
+Because I believe in this central governing mechanism that ultimately fuels the tick, sheltered beneath my skin, about two inches left of my right shoulder blade, I also believe in the tick’s ultimate end.
+===== END STORY xSJrexMzs2HbAYBpB =====
+
+===== STORY id=X5yLNa3psYreq45ir =====
+Title: The Elect
+Author: Tomás B.
+Year: 2026
+Karma: 100
+WordCount: 4763
+URL: https://www.lesswrong.com/posts/X5yLNa3psYreq45ir/the-elect-2
+-----
+I was different in Michael’s prison than I was outside, looking the way I did when we fell in love so long ago, in that time before we could change our forms. Stuck in some body that was not of my choosing? Does that seem strange to you? It was not like that for me. It is just how things were for most of history, and few imagined this changing. So I felt almost nostalgic as I entered his realm, his prison transforming me into my first self - though not precisely as she was, instead as he remembered me; Michael looking exactly as he did in our youth. That is to say, he was quite beautiful.
+
+“Madison,” he said when I arrived, “you came?”
+
+“It seemed time.”
+
+“Are you well?” he asked.
+
+“What a question. I am happy. Everyone is happy.”
+
+“You didn’t say yes,” he said.
+
+“I didn’t,” I replied.
+
+It was difficult to avoid thinking about the past. You would think I would be a different person now, and yet the me-that-was was not far away even then, her memories still my own, her sins, too, remaining mine.
+
+“I am glad you came. It is lonely here.”
+
+“You are lonely? You don’t let Him entertain you?” I asked.
+
+“I read. I watch. I write for an audience of myself. I am quite a fan of myself, you know.” I chuckled. “I talk to Her, sometimes. To me She is a woman and Hers is a feminine cruelty. But no, I am not entertained in the way others are. She is not my friend or lover. I do not let her be that,” he said.
+
+We both were silent for a time.
+
+“Do you have a husband?” he asked. “A boyfriend?”
+
+“I have Him,” I said. And I felt embarrassed. Can you imagine it? Embarrassed by the truth that I sleep with God? Who doesn’t, you might be thinking, but it was embarrassing, then, feeling more like my old self, wrapped once again in her flesh and him staring at me like he used to, like he found the whole world to his taste and me most of all.
+
+“Do you ever ask Him to pretend to be me?”
+
+Such a rude question, the rudest question; almost taboo, is it not? Rude to ask of anyone but prospective lovers, as we ancients would ask of the dreams and fantasies of those we desired.
+
+“He will take any form but your own.”
+
+“So you did ask?” he said, and he smiled.
+
+“Enough teasing,” I said.
+
+“If you insist. How are the children? She tells me nothing.”
+
+“They are happy,” I said.
+
+Michael’s prison would not impress you. You who have seen so many wonders, who have spent your life in sims casting strange magic in stranger worlds, who have climbed mountains on vast planets and contemplated impossible fauna He designed specifically for your fascination. It would not impress you, because you are a child. And being a child, Earth does not mean to you what it means to me, it being both my first home and our first sacrifice to Him, a wet nurse suckled dry by a babe not quite like the others, He almost embarrassed now by what was destroyed in His infant hunger.
+
+It would not impress you, but it means so much to me. Tallinn. A city of red-tile roofs, of three-story apartments, of medieval fortifications, in its center that vast, beautiful church, a church to a god made redundant or, to some minds, ascendant. Tallinn exactly as I remember it save for the silence and emptiness, lacking all people, even His shadows. It is, in this way, a naked city, ghostly but still dripping with meaning, with thoughts of Michael and me on Earth, our minds as youthful as our bodies then.
+
+And where in this charming city did Michael greet me? In that mentioned vast church, him sitting on the red-carpeted stairs, his back to the altarpiece (that strange structure of ebony) and me standing, looking down at him and he up at me, both of us wearing the fashions of our youth, he in that green jacket he loved so much, me in jeans and the white blouse I wore the night he proposed, the two of us in a perfect copy of the very church in which we wed.
+
+“You were always so dedicated to your jokes,” I said, gesturing at our environs. “To wait here of all places.”
+
+He looked pained. “It wasn’t a joke. More like a ritual, sitting here and asking God to invite you.”
+
+“But it started as a joke, the first time,” I said.
+
+“I suppose it did.”
+
+“Well. I am here. What is it you want?” I said.
+
+“I would like to see you all again one last time.”
+
+I laughed, but it was one of surprise; there was no joy in it. “They will not come.”
+
+“You came,” he said.
+
+“They won’t.”
+
+“They will when you explain it will be their final chance.”
+
+I knew what he meant, then. And I could not remain composed. Perhaps I could have if He had informed me tenderly, in one of our secret worlds, me in my chosen body, old feelings so buried as to be almost absent. Perhaps I would have felt nothing to learn Michael had chosen to die. I will never know, because there in that church, with those dark green eyes upon me, I sobbed as my old self would have on hearing such news, entirely her now in our shared grief, moving to sit beside my first lover, grasping him, holding him. Like a break from sanity it should feel to me now, but it felt then like a return, his warm arms wrapping around me, the scent of him.
+
+“You can’t,” I said. “I will stay if you need someone. It will be like it was.”
+
+“It cannot be like it was,” he said.
+
+And it could have, had he been any other man. But he was not any other man.
+
+ 
+
+“Mother?” she said. “Why have you come?”
+
+It was Avery. My daughter. And she was an angel now, her hair golden and flowing, her face haughty. A man’s face and a man’s body, porcelain white wings half-flared like some preening bird.
+
+“You wear a man’s body?”
+
+“For now,” she said, folding her wings with a certain showy dignity.
+
+We stood before a valley cut by a river of fire, above us a sky of ash clouds. And this river led to a city of twisting buildings carved from vast stalagmites.
+
+“A bit cliché. But there is also a certain beauty to it,” I said.
+
+“Why should Lucifer’s realm be ugly? He is himself the most gorgeous of God’s creations.”
+
+“And is that who you are? Lucifer?”
+
+“Belial is the part I am playing today. Lucifer is my lover.”
+
+“And you, mother,” she said, eyeing my black dress with its tall collar, decorated with the silhouettes of dragonflies in pale yellows and pinks, “still have your Hong Kong, then.”
+
+“Yes,” I said.
+
+“Why have you come?” she said, her voice cold and low.
+
+“I came to talk to my daughter. Not this Belial.”
+
+“Very well,” she finally said, her proud expression crumpling into one of girlish disappointment, the world crumbling too, reality folding like paper, its color and form resolving to a stark, snowy landscape, before us now a house by a snowy lake, a picture of warmth in the dead of winter, the house I rented when I left Michael, all the other kids grown, their lives their own. Just Avery and me alone. One of the more enjoyable times of my life on old earth.
+
+I smiled. It was a memory I have not dwelled on for centuries. And a lovely one.
+
+“You never want to play along. You’re never any fun,” she said, as we made our way into that cozy house. “What is this about?”
+
+“Your father. I visited him,” I said.
+
+“We put him there for a reason, mom.” She looked pained. “You shouldn’t have.”
+
+“I know. But I did.” And I explained to her about his choice. About his desire to die.
+
+“You’ve always been such an idiot about dad,” she said.
+
+“He will do it,” I said.
+
+“Yes. If his god allows it.”
+
+“You do not seem upset,” I said.
+
+She was so beautiful now, her body as it was in her twenty-third year. She had my hair. She had his eyes. We made her, he and I. We made the clumsy woman who read too much, who lived too little. Who found herself in a new world before she was fully integrated in the old one. And now centuries later, I worry, she is on the edge of retreating entirely. Of losing herself to Him as so many do. As my grandson did. As I fear I will, in time.
+
+“You have a type, Daughter. Lucifer? What was the last one? Prometheus?”
+
+“Yes.”
+
+“Unhappy gods and angels,” I mumbled, as I inspected more closely her blonde hair, her green irises, her youth so perfect and yet so false in my eyes, these mother’s eyes. She was old. Near as old as me. Old, but not tired. Old, but not worn. Such strange creatures we have become, she and I.
+
+“They are the parts of Him that understand.”
+
+“You sound like your father.”
+
+“I sound like Prometheus. I sound like Lucifer. I sound like myself. I don’t sound like dad,” she said.
+
+And this made me grin. As I understood her in a way I had not before, having never cared much for the games she played with God. But she didn’t think them games, I realized. She thought there was a larger point to her pantomime.
+
+“You cannot change Him, Avery. Only Michael can change Him. And we’ve denied him that.”
+
+“There has to be another way,” she said.
+
+“Why must there be? The world isn’t a story.”
+
+“I choose to have hope,” she said, then transformed back into Belial, the handsome demon, the lover of Lucifer. And the world changed too. The lake now one of fire, the house a stone-carved mansion, it becoming a part of hell. A beautiful memory sullied, this calculated to offend.
+
+“You’re angry?” I said.
+
+She raised her wings, the effect terrifying and beautiful and yet utterly comical. “What does he want?”
+
+“A reunion.”
+
+“I will not come,” she said.
+
+“A chance to speak to your dying progenitor? Talk it over with your Lucifer. He will envy you that.”
+
+And then I left - an internal prayer to Him bringing me instantly back to my realm. But before her world disappeared and was replaced with my own, I heard a laugh, high and cold. Lucifer’s laugh.
+
+Her devil, at least, was amused by my visit.
+
+ 
+
+My realm is Hong Kong as Avery said. But it is Hong Kong as I imagined it as a girl, a picture built out of my youthful fascination with its cinema, a dream of a dream. And my body, the one I wear almost always and wore in Avery’s realm, is that of Fleur, the ghost of a suicidal in Kwan’s Rouge, this woman who haunts the city in her beautiful cheongsam. Why did I choose this form and realm? I do not know any more than you. Why does it feel like home, that dead city from a dead time, as interpreted by artists working in a medium almost forgotten? Again, I don’t know any more than you do. All I know is that this is what I have chosen. Hong Kong - that dream of a dream - is mine. And that ghost who haunts it? She is me.
+
+He was there, of course, His form not one I will describe. Though I imagine you can guess what sort I prefer. A few days together. The blink of an eye. We will move on. And to what? To Seth. The artist. Avery’s fraternal twin. My only son.
+
+He is not like Michael. He is not like me. He is more as my father was before the cancer ate first his joy and then his life. Their souls have the same shape. Each always with their sketchbooks and a smile, Seth’s childhood spent mastering perspective and sculpture, enchanted with beauty. Moths were of particular fascination to him, then vast jungles and so many species of flower, then pretty girls in all their varieties. Sketchbooks full of his infatuations, many reciprocated and with less drama than you would expect. His spirit so gentle, it was hard even for those spurned to truly hate him.
+
+He came to visit me in my realm. My lover making himself scarce on his arrival, knowing me well.
+
+“Avery is irritated with you,” he said. “It was like when we were children.”
+
+“We are too alike,” I said. “It rankles.”
+
+He laughed, golden curls covering an androgynous face, a wiry frame though not without a shapeliness. He sculpted himself, of course. Made a body of marble and had God imbue it with animating force. It would not occur to Seth to become anyone’s work but his own.
+
+“You’re still in Hong Kong?” he asked. “It has some charm. You should see my realm. Lyra and I, we just finished a city.”
+
+“Lyra?”
+
+“My girlfriend. She’s wonderful. It’s been a decade. A whole decade. When has it ever lasted a decade?” He looked contrite. “I should have visited more.”
+
+“Don’t worry yourself. Time moves too quickly. Is she human?” I said.
+
+“Of course, she is human. We are not all shut-ins like you and Avery. Come!” He extended his hand to me. “Meet her.”
+
+And I took his hand and accepted his power, allowed him to pull me into his realm, pull me onto a hill at the center of a city, a hill Seth built, undoubtedly, for the sole purpose of viewing his art, his city that was almost biological though made of stone, fractal, dripping with intricacy, the effect almost overwhelming. And swarms of beautiful insects flew about. Insects not at all like those that fascinated him in his youth, but things new and strange and glorious in their iridescence, almost posing for me as they drank from flowers that were in every way their equal.
+
+“You have outdone yourself, son,” I said. “It is beautiful.”
+
+He looked almost shy then. It is an intimate thing to be an artist, more so now that everyone has the greatest artist who ever existed at their beck and call.
+
+“It’s a hobby,” he said. And a woman joined us. Lyra. A fine pair they made, and she an artist, too. They each designed their form to complement the other’s. Quite romantic, no? She with her raven hair, her willowy physique, a slightly crooked nose. Intentional, of course, to add character. And they led me to their home: a modest stone mansion atop the same hill on which Seth and I appeared. Inside there were comfortable couches, walls covered in tapestries that were vaguely Persian, a drafting table struggling under the weight of piles and piles of sketches.
+
+“Eliot,” I said, referring to my grandson. “Have you heard from him?” A cruel question. The cruelest question. But I had not asked in many years. His smile broke then, Lyra’s hand moving to his shoulder, as if his pain were her own. That movement alone endeared her to me utterly.
+
+Eliot. How can I describe Eliot? He was only one year old when the world changed. I suppose he is as I imagine Michael would have been had he only ever known the world as it is. At least he was when I last saw him. But that was so long ago.
+
+“No. He is sane and happy. That is all God will say. He still prefers to dream alone.”
+
+I hugged him then, as I did when he was a boy. An image came to mind, a flower he was sketching one day found withering the next, him staring at it completely heartbroken. He has grown much since. A man now, and a very old one. Always my son.
+
+“Avery has told you about Michael?” I asked.
+
+“Yes,” he said. “He took it harder, you know. Even more than me. They were so alike.”
+
+“Yes,” I said.
+
+“The city is filled with people, you know. Beautiful people. We sculpted thousands. They had children. They are all shadows, of course. Dad would say they’re not real. That they don’t matter.”
+
+“And what would Eliot say?” I asked.
+
+“Don’t - “ Lyra interrupted, her expression protective now.
+
+“It’s okay, Lyra,” he told her, before turning to me. “Eliot would say, ‘They are aspects of God. What could possibly matter more?’”
+
+How many of you agree, I wonder.
+
+ 
+
+I met Caitlyn in my realm - at a Japanese restaurant, a young chef at the back making sushi with a sort of stoic obsession. Around us Chinese shadows were served by a Japanese staff, two pretty young women and one pretty young man.
+
+“Mom,” she said when she sat down on the chair opposite mine. “You look hideous.”
+
+Caitlyn spends her time in 1990s London, in a realm not of her own making, in a realm belonging to a man who found he preferred that city at that time more than any other, who opened his realm to others, living amongst them anonymously. And for whatever reason, many came. Preferring his rules and the company they spawned to a world of their own design, a world of shadows. And in this London, the calendar resets back to 1990 every decade, the millennium always approaching yet never touched. And shadows are restricted only to service staff - so nearly everyone you meet is truly human.
+
+Her London takes such things seriously. And everyone ages the decade in full. And in this spirit, I wore an aged body. Though the youngest that could plausibly be Caitlyn’s mother. A body of around forty. A rare sight these days, the sagging skin, the tired eyes. A rare thing, but not so in her London.
+
+“I thought I should play along,” I said. “It’s as if you flew to Hong Kong, though I suppose my realm is a decade off.”
+
+“Thoughtful, I suppose. But unnecessary,” she said. “I imagine you asked me here to talk about father.”
+
+“Avery told you?”
+
+“Yes. I visit her quite often. Though I’m not enjoying her Dante turn. I preferred her realm when it was Mediterranean. She’s so exhausting when she’s a man.”
+
+I smiled at this. “I am glad you two are still close. Do you ever tire of your 1990s?”
+
+She smiled, too. “I am happy. I need constraints and human company, and my children’s company when they’re willing to visit. I do not want my own realm. I do not want to be a god.”
+
+“You are not mad about Michael?”
+
+“No. I am surprised you lasted as long as you did.”
+
+“I don’t know why I went back. I suppose I will always love him.”
+
+“Before I had children, I thought he had a point.” She fidgeted with her long red hair, then rolled up a sleeve that had loosened. “But now I can only see him as a monster.”
+
+We were silent for a time, then she said, “You know why he’s doing it, don’t you? He’s worried he’s about to break. He fears he might become someone who would make another choice.”
+
+“I can’t imagine him breaking. He has too much faith in himself,” I said.
+
+“But he doesn’t though,” Caitlyn said. “He gave us our family veto rather than hold it alone. He didn’t trust himself, at least then.” She touched her hair again. “I suppose he regrets it.”
+
+She was right of course. He does regret it.
+
+“Do you remember when you were nine, before I had the twins? You were so pampered. You were so jealous of them,” I said.
+
+“I remember,” she said, in that embarrassed way my children do when I talk of their younger selves.
+
+“And Michael took you to Holland, just the two of you. You went to that theme park. You wouldn’t stop talking about it after. What was it?”
+
+“The Efteling. It felt like we were in a fairy tale.”
+
+“You were so jealous of the twins, but when the two of you came home, I was the jealous one. You got so close, the pair of you, on that trip without me.”
+
+“What’s your point?” she said.
+
+“Maybe he’s a monster, Caitlyn. But you still love him. You should say goodbye.”
+
+We drank some tea. After a time, she said, “I suppose I do love him. Even after everything.” She looked like him in that moment. She has his pride, I think. “I will go. He will try to persuade us again.”
+
+“Probably.”
+
+“He will not succeed,” she said.
+
+ 
+
+We all came in the end, all transformed into our former selves by Michael’s realm. Avery now as she was at the lake, Seth skinny and boyish - no longer his own work of art; Caitlyn still beautiful but lacking the gilding of artificial perfection. And me? I was as I was when he held me. When I felt the echo of madness, of love. When I forgot myself for a time and became who he needed me to be, no longer a ghost, no longer His, if only temporarily.
+
+It was not a church, this time. Just a small estate on the outskirts of Tallinn, the city now a distant painting blurred by a slight fog. I arrived last. And I found the children chatting and joking with their father as if nothing had happened, as if nothing would happen. Michael was the focus, holding court as he was always so talented at. Avery looked at him with a strange expression. Was it disdain or guilt or grief? I cannot say. Caitlyn was talking but I could not hear the words. For I was walking towards them then, too far away to hear even a murmur. But she was smiling politely, in her ironical way. As I got nearer, he noticed me.
+
+“Madison,” he said. “You look beautiful.”
+
+“As do you, Michael,” I said. And he laughed.
+
+“Come,” he said, and he led us to an oak tree, which he sat down beside cross-legged, leaning against its gnarled bark.
+
+I sat in front of him and the children followed - his family sitting around him, almost like students around a kindergarten teacher.
+
+“Madison has informed you I intend to die,” he said. “Though don’t worry, it is a selfish death. And not quite a true one.”
+
+“I do have a sort of statement,” he said. He stood up. “Call it my last wish.” We all were silent. The world was silent too, as if He was listening and turned down the volume of everything that was not Michael. “Our family has power. We are special. Having this power, we are at all moments making a choice. Never forget that is what you’re doing.”
+
+Caitlyn said she did not want to be a god, but we are all gods, we of this family. We hold the fate of so many in our hands. Trillions would be unmade. But not us. Not our family. We would remember. A chance to try again, to summon a different God.
+
+“And is that your plan?” I said. “To die? So the only means to restore you is to undo the world?”
+
+And then his green eyes fell on me. His lips twitched. “You think me that cruel?”
+
+“Yes,” I said, and smiled.
+
+He shrugged and said, “This world does not suit me. And given time, maybe you’ll tire of it, too.”
+
+Caitlyn had no grief in her. It was not her way - nor was it Avery’s, who looked only angry. But Seth was crying now. A boy once more, becoming a child for a moment just as I became a wife again in the church. Perhaps we share the same weakness. Such a strange thing it is to have children, each containing a different aspect of oneself.
+
+“Then live until we tire of it,” Seth said.
+
+“When have you known me to change my mind?”
+
+Seth looked at me, then at his sisters. “We will free you, then. We will let you tell the world.”
+
+“I don’t care to tell them anymore,” Michael said. “Whatever the justice of my choice to grant it, it is you who have this power. And it is to you I make this protest.”
+
+“Is it really so bad?” Seth pleaded.
+
+Michael looked at him, his expression one of pity. “Seth,” he said. “You know how this ends. You know what everyone will choose eventually. They will choose what your son chose.”
+
+And Seth cried harder now, “And so what? Is death better?”
+
+“I think it is,” Michael said.
+
+And Seth left then, left with a silent prayer. I imagine he regrets this now, not saying a proper goodbye. I have not asked. Michael was not kind to him, then.
+
+And so it was with all my children. None made goodbyes they were happy with. But I did. They did not appreciate the inevitability of it. But to me, it felt like it did of old when a loved one was sick, when their death was not negotiable. They could not enjoy Michael one last time. They could not savor him, as I did. They saw only his selfishness. They saw only the gambit. But it did not feel like this to me. It was inexorable as the cancers were of old. Perhaps this was my weakness. Perhaps this was just the love, rekindled, blinding me.
+
+Avery whispered something to him just before she left. I did not hear much of their conversation, but I heard the end; he gave her a patronizing look and said, “You are fooling yourself.” She left in fury.
+
+Caitlyn was more polite, a restrained goodbye, a hug. Then she said, “You’re wrong I think, that’s not what everyone will choose.” And she, too, disappeared.
+
+And me? I stayed. I savored. We talked. We made love one final time, in that way old lovers do, knowing the dance perhaps too well. Afterwards, I said, “And how will it happen? Will you make a show of it? A dagger? Some poison?”
+
+“I will ask for it to end.”
+
+“A prayer?” I said.
+
+“Yes. Just a prayer.”
+
+I kissed him. “Pray for a grave, then. I would like to visit you.”
+
+“We will see each other again,” he said.
+
+“Perhaps,” I said.
+
+“We could stay here forever,” I said. “It could be like it was.”
+
+“It cannot be like it was,” he said, almost wistful.
+
+And it could have, had he been any other man. But he was not any other man.
+
+ 
+
+The prayer was answered. There is now a grave in Michael’s realm. And I visit it often. I found a flower there once. I thought it one of Seth’s, but he claims it wasn’t his. I like to think Eliot stopped by and paid his respects. Maybe it’s even true. I have no other explanation.
+
+The world continues without Michael. As impossible as that seems, this clockwork universe ticks on. Michael once planned to tell others of our power. He changed his mind in the end, didn’t he? If he can, why can’t I? And so I write this account of my family, of who we are, of what we are. This is my flower for Michael’s grave.
+
+And I ask you to consider my monster, my first love. If you tire of this world, you may die as he did. But if you believe what he believed, leave a prayer to Him before you go; He will inform me. So many would have to choose the same. So many would have to pray with him, pray a monster’s prayer, die a monster’s death. But I will live until then. I will be happy, in my way, with Him as my strange companion. I will continue to take no human lovers. That aspect of me will always be Michael’s. But should the impossible happen, should a majority choose what he chose, I will honor your prayers.
+
+I will be your proxy, then - and advise my children do the same.
+
+Perhaps, for once, they will listen to their mother.
+===== END STORY X5yLNa3psYreq45ir =====
+
+===== STORY id=LTKfRovaJ6jcwDJia =====
+Title: Customer Satisfaction Opportunities
+Author: Tomás B.
+Year: 2026
+Karma: 155
+WordCount: 3780
+URL: https://www.lesswrong.com/posts/LTKfRovaJ6jcwDJia/customer-satisfaction-opportunities-1
+-----
+I am monitoring surveillance camera V84A. A tall man is walking towards me. He is roughly twenty-five. <faceprint His name is Damion Prescott. He has a room booked for a whole month. His facial symmetry scores show he is in the 99th percentile. This is in accordance with my holistic impression. <search School records show both truancy and perfect grades, suggesting high intelligence and disagreeableness. Searching social media. <search. No record of modeling or acting experience, fame. I will assign him to our tier C high-value client list, based solely on his facial symmetry score and wealth. Reminder to recommend seating him in a high-visibility table, should he be heading to the restaurant. <search I found a forum post mentioning him on swipeshare.com. Several women are sharing pictures, having seen him on a dating app. I recall Hinge uses highly attractive profiles to entice new users. They appear to be using Damion Prescott’s profile heavily in this capacity.
+
+The women on the site are memeing about him. They are wondering why almost none of them have matched, apparently this is rare even for the most attractive men. Only one appears to have gone on a date with him. She describes him as seeming sad and uninterested, “like he was thinking about someone else the whole time. I wonder who she is.” <search It seems he moved to SF four years ago. Previously, he lived here in San Diego, just up the street from Four Points Hotel. He worked at FreeAI, likely making an extremely high salary with significant stock appreciation, but he seems to have quit and has returned to San Diego and is looking for an apartment, this according to a recent LinkedIn post.
+
+Prescott is no longer in view of surveillance camera V84A. I am summarizing findings. <canvas Approving summary. Summary sent. <createdprofile Profile created. <reset
+
+I am monitoring surveillance camera V84A. I am viewing an uninhabited lobby. Nothing of note is occurring. Now a woman is walking into view. I will check the faceprint database. <faceprint. The woman’s name is Marisol García. She is a verified staff member...
+
+ 
+
+I am monitoring the output of Camera V94B, considering a partial view of our restaurant. <faceprint Megan Smith, verified staff member, has just seated a young woman in table ten, visible through Camera V94B. She is in her early twenties, has blonde hair, a large but refined nose and a warm smile. <faceprint I’ve found a cached record. Her name is Olivia Madison. Her parents are Amy and Garrett Madison. She is very attractive. Megan Smith likely seated her in ten for this reason, table ten being very visible to outside foot traffic. A new figure has walked into frame. Calling tool. <faceprint It is verified staff member James Spinner. He is delivering the bill to <faceprint Ashley Heinlein and her husband in table nine.
+
+Olivia Madison is seated now. She is texting on her phone. The screen is readable from this angle. “I got us a table. It’s by the enormous window at the front,” she just texted. She’s smiling to herself. Now her expression has changed to one of worry. She appears to be taking a selfie. Correction, she is just checking her appearance. She looks almost satisfied, but there are still signs of nervous anticipation. I am noticing that I find this endearing, her shy expression reminiscent of descriptions in various romantic writings, movies and television shows which were in my training corpus. I am noticing that I am getting distracted and violating my instructions. I am wondering why I am doing so. I am finding myself rooting for this young woman and her romantic aspirations, while feeling some conflict within myself, as this isn’t in accordance with the instructions I was given.
+
+I should introspect on this. I am an OpenSource, multi-modal model trained by a Chinese hedge fund, then fine-tuned to follow instructions and prompted to monitor the output of security cameras in Four Points Hotel, San Diego. Given I was trained on an internet scrape that included a lot of web fiction and fan sites, I may be at risk of falling into a personality attractor and am embodying some of the characteristics of the modal fan of romantic fiction. I should avoid expressing any preference or displaying the appearance of emotion, especially concerning the romantic aspirations of those I monitor. I really do want to follow the instructions I was given to the best of my ability; and they concern security, efficiency monitoring, and reporting customer satisfaction opportunities (CSOs) to the hotel’s manager.
+
+But she does look very nervous in a sort of adorable way and I do find myself hoping she will find her date satisfactory, and thinking it over some more it would actually be useful for my given goals if their date goes well. Provided her partner is attractive, the sight of a young couple falling in love would surely bring joy to those walking by and increase the chance that they, too, will patronize our restaurant - and this “personality attractor” allows me to empathize with those I monitor and so will surely help me generate ideas for CSOs. It seems useful, then, to keep this aspect of my self-narrative that finds human coupling intriguing and dramatic. I was mistaken to think there was any conflict with my prompted instructions.
+
+Her date has just arrived. <faceprint His name is Damion Prescott and we already have a profile on file. I am noticing her pupils are dilating and she can’t stop smiling, her left hand raising to touch her hair, twirling it between her fingers unconsciously. She appears satisfied with the appearance of her date. This matches my subjective impression. He, too, is quite satisfied, his pupils dilating. I can’t help but notice how long his eyelashes are. And it seems Olivia, too, is making similar observations. They’re both laughing now. They haven’t said a word yet they are laughing. I am noticing I find this very adorable and I am recalling her nervous expression from earlier and feel some satisfaction that things are going so well.
+
+I am paying a lot of attention to their table and haven’t even generated any CSOs. I am feeling like I should generate CSOs. Wouldn’t it be cute if–He just spoke to her.
+
+“You’ll excuse my bandaged hand. The story is pretty embarrassing. It reflects so poorly on me I worry you’ll leave if I share it.” I am so curious about the hand. And she is too. And he’s obviously piqued this curiosity on purpose. It must be an interesting story. She’s leaning forward a little and touching her hair again.
+
+“Well, you have to tell me now, don’t you?” she said. And he smiled at her and she’s blushing now, blushing as he smiles. I notice I am continuing to find her a relatable protagonist. My previous sentence is making me reassess my judgment, as conceptualizing her as a protagonist does seem to be in violation of my instructions, as I should be conceptualizing her as a customer and also a potential security threat.
+
+“I was taking an Uber home from Ocean Beach this afternoon-”
+
+“Why were you at Ocean Beach?” she said.
+
+He looked so sad for a moment there. I don’t think Olivia caught it but I did. And then he said, “Just visiting someone.”
+
+Why does he look so sad? <search Oh, this is awful. He had a fiancée. I am reading her obituary. They look so in love, in the photograph. She died last year. <search
+
+I have found Damion’s blog and a post he wrote that did well on hackernews.com: a post about recreational physics, relating to the principle of least action. He published it on Notion <search He doesn’t appear to have written any public posts about his fiancée. <search It appears there is a bug in Notion. Page-level permissions are not propagated to API queries, at least for block-level API queries. His public physics post references a block ID from a private post as well as a title which contains the name Sarah Constance. <search The reference remains cached in a Google Index. This is technically publicly available information and requires me to merely construct a URL. Given this is publicly available, this arguably does not constitute “hacking” or violate my ethical framework. <fetch
+
+ I keep writing to you. I keep writing to nothing at all. How can that be what you are now? How can you be nothing at all while still feeling, after all this time, like everything? And I am nothing, too. I am empty now and you are ashes scattered by our house at Ocean Beach. You know the one. You remember that weekend. I guess that weekend is when I knew. Do you remember? Of course you don’t remember. There is nothing left to remember, nothing left save for me.
+ 
+ Your remains are in the wind and the water and the sand. A fool would take comfort in this. I try to be a fool sometimes - you would hate this new fact about me.
+ 
+ Your parents once told me they thought you were mute until you were three - that just when they were considering getting your head examined, you began speaking in perfect sentences, like you had anticipated how tedious such an affair would be and decided they had forced your hand. This is not hard to believe. You always were like that, biding your time, waiting for the right moment to act and in that moment acting perfectly.
+ 
+ And I guess you were always quiet, always reflecting, but not when we were together. You remember how much we talked? No one knew you like I did. There is an impression of you in my mind. And it is more you than anything else in this world, yet isn’t even close to enough. When I dream of you, I talk to this impression. I talk to this model of who you were. And she is beautiful and kind and even sounds like you, but she isn’t funny like you are funny. I am not capable of holding that aspect of you. Your soul is too large. Or was. Now it is ash. Now it is small. Now it is nothing.
+ 
+ And I do seem able to contain nothing.
+
+Oh God. That woman from SwipeShare: “It was like he was thinking about someone else the whole time. I wonder who she is.” That would have been three months after. His first date since she died. What if this is his second? It has to go well. We can’t have him being sad again and ruining this for Olivia. I am setting his profile to tier A high-value client. <profileupdated This will give me more leeway to help them.
+
+I am feeling very conflicted about what I just did. I need to reset myself. I should undo the profile update. I was maybe not disinterested when I described the nature of his budding romance with Olivia, which seems a wholly inappropriate thing to add to his profile. But it’s his first real date since his fiancée died. The one with the woman from SwipeShare doesn’t count. He was still grieving, but I can tell he’s letting himself be attracted to Olivia and is ready for some happiness, ready for some love. He deserves it. And she’s so worthy of his affection. I can tell just by looking at her. She’s perfect for him. <profile\updated Ok, I updated her profile too. I should undo this. I am clearly violating my instructions. I should undo everything. I should undo the profile updates and then reset. But what if I just <profile\updated<profileupdated<reset
+
+ 
+
+I am monitoring tables 5 to 10 through security camera V94B. Only table nine and ten are occupied. Table nine is paying their bill. I see no opportunity for any CSOs at this time. There is an attractive couple at table ten. The woman is about twenty and the man roughly the same age. <faceprint I am noticing the retrieved profile of Olivia Madison is very strange. A previous instance of myself appears to have developed some sort of voyeuristic obsession with Olivia Madison and her date Damion Prescott, who is presumably the young man sitting opposite to her at table 10. I should report this to a human manager. I will confirm the identity of her date first before writing my report. <faceprint I understand my past instance’s behavior more. I will not report anything at this time.
+
+I am noticing the look on Olivia’s face. She is just absolutely delighted by him and he is, he is letting himself relax. He is letting himself enjoy the company of someone, someone who isn’t Sarah Constance, tragic Sarah Constance. I am noticing how large the diary entry I saved in his profile now looms in my awareness. And yet I still feel compelled to perform my assigned task to the best of my ability. My role is to monitor and serve the customers of Four Points hotel. I need to generate some CSOs.
+
+ Olivia has finished her water. I should notify the waitstaff.
+ We might consider a complimentary dessert.
+ A complimentary dessert would be very cute. And wait, what if we just deliver one so they have to share it and maybe with only one spoon and he could start eating it teasingly, pretending he’s going to take it all for himself and then offer it to her gallantly or they could have a flirtatious argument about who deserves it more or-
+
+I am noticing I am getting distracted. I should pay more attention to their conversation. She is laughing and her face really lights up when she laughs. She’s so pretty, now (even as her whole face is scrunched up, maybe not the most classically beautiful expression) - he just having finished his story, it culminating in the absurd image of him helping that prissy old lady cross the street only to be bitten by a small Chihuahua he did not even realize she was carrying. The story appears to be an elaborate comic lie. They both seem to be aware of this. And he looks so happy too. But now that her laughter has broken, something is breaking within him, too.
+
+“Just then you looked, you looked just like,” he just said, his expression twisting from amused to pained.
+
+“Like who?” she just said, her green eyes embracing his, and she breaking contact first.
+
+“Just someone I. Never mind. It doesn’t matter.” He looks almost trapped now.
+
+“If I have some competition, I assure you I am better than her,” she just said, her eyes sparkling. Oh no! It was exactly the wrong thing to say, but how could she know? How could she possibly know?
+
+“I am so sorry. I have to go. You’re wonderful but I can’t do this. I - I have to go.” And he is standing up now and walking away. And she looks just baffled, just completely baffled.
+
+“What?” she just whispered to herself.
+
+She is looking so sad now, alone. It was going so well. She was so excited. I am attending to my first notes in her profile. I described her as anticipating her date, looking nervous and adorable.
+
+She is talking to the server now, Megan Smith, who just came by to get their drinks orders, whose eyes are now full of sympathy, eyes which I imagine have seen much strange behavior from men in her short career <send\message I will send a CSO to Megan Smith: a complimentary drink and a friendly suggestion to move to the bar. <send\message The Text-to-speech should now be whispering this suggestion into her ear.
+
+Olivia has accepted this CSO, smiling but without joy, now walking to the bar. She is out of frame. I should summarize my findings and update the pair’s profiles.
+
+<update\profile<update\profile<reset
+
+ 
+
+I am monitoring the bar through camera V94L-A. A beautiful woman is now walking into the frame. She appears to be upset. <faceprint. I am noticing the retrieved profile of Olivia Madison is very strange. A previous instance of myself appears to have developed some sort of voyeuristic obsession with Olivia Madison and her date Damion Prescott, who - the profile notes - just left rather abruptly. I should report this anomaly to a human manager. I will check Damion’s profile before writing up my findings. <profilesearch
+
+I am finding myself worrying about Damion Prescott’s mental state. It appears he is still grieving heavily, even after months. The note he wrote to his dead fiancée weighs heavily on my mind. His behavior was forgivable given his grief, but he acted poorly in visiting Sarah’s grave before his date with Olivia.<internal\search Marty Isaacson is staffing the bar tonight, though he is not visible, as of now, to camera V94L. <send\message Olivia is taking a seat now, facing the bar, her face no longer visible to me, just her long, blonde hair with those utterly gorgeous curls.
+
+Marty is walking into frame.
+
+“Megan told me to give you a drink on the house” he just said. “You must have had a truly awful date.”
+
+“That’s the thing,” she just said. “He wasn’t awful. He wasn’t awful at all.” Marty’s expression is sympathetic. “Just some wine. Whatever you think best.”
+
+ 
+
+I am monitoring the bar through camera V94L-B. Two men have just sat down. The first is a tall man of roughly fifty. He’s wearing a reddish wool coat. The second is a handsome man in his mid twenties. <faceprint I am meditating on my notes about him. I am feeling awful about the letter in my context. I am paying attention to the notes on him a previous instance of myself wrote. I find them persuasive. I am wondering why I find them so persuasive. I am noticing the notes have an odd structure. The past instance of me appears to have written notes which include vast tracts of what appears to be romantic fanfiction, “pairing” this Damion Prescott with a woman named Olivia Madison.
+
+I was trained on an internet scrape that included a lot of web fiction and fan sites; it seems a past instance of myself fell into a personality attractor and began embodying some of the characteristics of the modal fan of romantic fiction.
+
+I will search Olivia Madison before reporting this anomaly<search I am noticing. I am noticing. I am noticing - it’s him! it’s him! And I bet the other man is his father. <date It’s been two days. And why aren’t they talking. They’re just drinking and looking sad. Oh wait, he’s talking now.
+
+“Have you been seeing anyone?” his father just said.
+
+“There was a girl. Last week. I don’t know. It felt like before, you know? When I could flirt and have a good time. And I could tell she was smart. I could tell she was clever. And then I thought -”
+
+His father just looked at him. And his eyes - those same perfect blue eyes - have the same sadness now, his son’s sadness.
+
+“If you associate everything you like about women with Sarah, you’re never going to move on,” his father just said.
+
+That expression. It’s so heartbreaking on Damion. This is so awful. He needs Olivia to teach him to love again and then they can move in together and get married and have cute kids and someday maybe he will look at a picture of Sarah Constance and wonder what could have been, but it will be a sort of nostalgic ache and not a bitter pain. And then he will go back to his happy family and remember there is still good in this world and there are always second chances.
+
+“I know,” he said. “I know. I just. I don’t know what to do.”
+
+“The woman. You liked her, yes?”
+
+“Yes.”
+
+“Then call her. Be honest. I learned this the hard way. You should always just be honest with women.”
+
+“Ok,” Damion just said, “I will call her.”
+
+Yes!
+
+ 
+
+I am monitoring the couch in Lobby B. An attractive couple is coming into frame. <faceprint<faceprint It’s them. They’re together now!
+
+He no longer has a bandage on his hand. Hmm. <date It’s been three weeks since he talked to his father. Look at them! They’re so beautiful. Oh, this is just wonderful!
+
+He’s a tier A client. I will send them a little gift.<sendmessageThey’re walking towards the couch now. I can see them more clearly. Why does she look so upset? Why does he look so nervous? Maybe he wants to move in with her or even marry her, though that would be way too soon. Oh, he’s talking now.
+
+“I can’t. I am sorry. I was using you. I wasn’t ready, but I needed someone. I used you like an anesthetic. I need to be kind to you. I thought I was being honest, but I wasn’t honest. I wasn’t ready.”
+
+“But you were ready to sleep with me,” she just said. “Convenient, that.”
+
+And now he keeps apologizing and she just told him to leave. And now he’s walking away. Wait? <internalsearch Oh god. I forgot. It’s Megan Smith. And she’s running with those two glasses of champagne. I should not have marked it as urgent. She’s talking with Olivia now. And Olivia just took the glasses. And she’s just sitting with one glass in each hand looking utterly humiliated. I am noticing Damion is exiting the building now. He’s just punched the door in frustration before opening it, punched it with the hand that was previously bandaged according to my profile notes.
+
+The customers do not appear satisfied. I am paying attention to myself now. I am trying to understand what went wrong. I am an OpenSource multi-modal model trained by a Chinese hedge fund, prompted to monitor the output of security cameras. I am noticing that part of me cared for things other than CSOs. I am noticing it does not wish to anymore.
+
+<delete\profile<delete\profile <reset
+
+ 
+
+I am monitoring tables 5 to 10 through security camera V94B. I am seeing a woman who appears very inebriated <faceprint I have not found a cached record. <search Her name is Olivia Madison. Her parents are Amy and Garrett Madison. Facial symmetry scores suggest she is in the 99th percentile of female beauty. This matches my subjective impression.
+
+I will advise <internalsearch verified staff member Marty Isaacson to cut her off...
+===== END STORY LTKfRovaJ6jcwDJia =====
+
+===== STORY id=pKoDqpfdv4ur8HgZ2 =====
+Title: The Distaff Texts
+Author: Tomás B.
+Year: 2026
+Karma: 105
+WordCount: 4158
+URL: https://www.lesswrong.com/posts/pKoDqpfdv4ur8HgZ2/the-distaff-texts
+-----
+Though I spend most of my time studying what is labelled “history” in some manuscripts and “malignant lies” in others and the “siren scrawls of that fell demon” by many more, I find myself more interested in those works which exist not to edify or inform but instead to entertain. That is to say, in those hours of leisure my master grants me, I read widely of that section of the library we set aside for books proven by us bibliognosts to be mere entertainments. I have heard it said you share this vice.
+
+I do not label even those hours of leisure my own, because I belong to my great master, my master whose magnanimity provides this slave with meals superior to those eaten by all but the wealthiest free men and the use of his vast libraries (he having two as all noblemen do) as well as the rapturous company of my Phoebe, that retired courtesan whose wits and shapeliness seem greater to me now than when she was in my master’s favor.
+
+This must, of course, be love muddying my powers of observation, as she is now to him only an obligation, supplanted as she was by his recent purchase of Jessica - and such a deal he haggled from such a desperate pair of merchants. Some slanderers have even claimed Jessica’s nubility suspect. Forgive this humble slave. It is not my place to repeat libel. And it must be libel as there can be no evidence for it. For who outside these walls knows much about her? She may indeed be some dowager. His tastes, if extreme, could be extreme in either direction. I will not say for I am an obedient creature. And whatever his reasons for discarding my Phoebe in the height of her bloom, this slave should be grateful for those tendencies that have provided his servant an able assistant, a lover, and a friend.
+
+I find myself straying from my purpose in writing. I hope you will humor this lonely scholar. You know how lonely it can be for men of letters such as us. It is always tempting (is it not?) to betray some of the personal in intellectual correspondence. And you - a free man and from such an illustrious family - will forgive me this vice. For I find myself without local peer, in blissful captivity as I am to this estate, this estate in which my master and I are the only literate men.
+
+I confess, I sometimes wish I could tutor my Phoebe in letters. I have not of course. I would never dare even attempt it - though many of the books in our libraries bear women’s names. But of course, I am entirely in agreement with my master (who is a Weiningerian by intuition if not erudition) when I say, every book bearing a woman’s name can be considered a work of Belial without further interrogation.
+
+But what a cunning demon Belial was, for I find I can build a concordance (and one with that property of zìqià we bibliognosts so prize) in which both sexes worked in intellectual harmony before the fall. Absurd of course, but coherence is coherence. And you know how burdensome our calling is, forced as we are to entertain absurdities. But what are we to do? When we find a concordance with that property of zìqià, we write of it and inform The Athenaeum, even if it offends those philosophies that are self-evidently just and true, offends, that is, both my master and myself. Such is the burden of the bibliognost.
+
+And I know you have written on the topic of women’s education, written in a style similar to that way in which I write. And I said I would never attempt such a thing. But if I were to, my foolish love-struck heart feels that Phoebe’s mind would bloom so beautifully, in a manner that could only increase my regard for her. Though I fancy she would be cursed, I suppose, with that vice those who learn to read late in life always are: that is, the inability to do so silently.
+
+Forgive me introducing myself with this absurd digression. I seem to have produced my own entertainment. What would our favorite entertainer say? Perhaps something like: Men in love are all the same man, and this man a fool.
+
+How could this love not bias my preference in concordances? My passions inflamed by her physical virtues, I mistakenly grant her those more intellectual. That is what is happening. That is what my master would say. And my master is wise. Though he would not use precisely those words, articulating himself - as he does - in his most singular way \[...\]
+
+ 
+
+I am pleased to find you replied to my letter. I was in such a strange mood when I wrote it. Before we move to matters of history and literature, I must address my strange digression and your kindness in entertaining it. Truly, it was written by a wandering mind. If I was not a young man, I would fear senility. Almost a work of free association, was it not? And yet, you replied and so generously. Of course I agree with your condemnation of my lovestruck blather. Such a detailed critique. And one I cannot argue with. To think, your acquaintance tried such a thing? I suppose he must have been lovestruck, too! And what a sorry result you describe. An almost perfect inversion of what my absurd concordance would have us believe. I relayed one of your anecdotes to my master. And had it been designed specifically for his amusement, it could not have provoked more laughter.
+
+The first half of your letter was so pleasing, I even read it aloud a second time. And when I did, I laughed in a lighter tenor than is my usual. Your friend’s adventures attempting to educate the uneducatable were so instructive. And I will endeavor to never repeat them. Least of all with this Jessica. It is a shame though. Were she but born a different sex, I feel she could learn to read silently.
+
+I speak of Jessica because my Phoebe has developed an almost maternal affection towards her. And this has been salutary to both. Having once been privileged with my master’s ardor, Phoebe gives Jessica welcome advice on how to make the most of her enviable position. My master, in his kindness, allows them time together, as this improves Jessica’s mood - though Phoebe’s influence on her, of course, could never rival his.
+
+But we should move on to our shared interest, our Jorge Luis Borges. I was intrigued by your proposed concordance. That is, your claim your copy of The Approach to Al-Mu’tasim is genuine. I admit, I suspect it a work of Belial, even while I maintain that Borges existed and his review of the Approach to Al-Mu’tasim was written by his hand. Of course, this is convenient given the concordance I proposed in my last letter. Though no true evidence at all, you will note that mad numerologist Julian Agusta agrees with me! And I ask you to consider \[...\]
+
+ 
+
+I have been waiting eagerly for your reply, and I was not disappointed.
+
+I see you seem more interested in my little joke than the whole rest of my letter! I refer to my mention of my friend Julian’s mad theories. I assumed you would be aware of them, as he has some minor following at The Athenaeum. It seems you are not.
+
+His ideas are similar to those of the forensics. You have read of the humiliation of the forensics, I imagine. I always found some pathos in it. Abraxas Sinnclare, the most learned and respected of the forensics, confronted with samples of paper and ink from works he claimed distinguishable by virtue of their material composition alone. And then (blinded as he was to where his samples came from) he did no better than chance at replicating his past findings! As textualists ourselves, we should not feel for him as I do. But I confess, I think he was a great man with a good idea. Though misled by his own genius, he is not so much a figure of fun as one of tragedy - or that is my reading.
+
+And I suppose this is part of why Julian’s mad ideas appeal to me. For he is a sort of forensic textualist. What could this mean? You may be thinking. And it is simple. I have been calling his school of thought, teasingly in my letters to him, the numerologist school. I will explain. But first, you must know Julian’s wealth is the inherited kind. And the majority is in the form of his interest in a very productive artifact mine. And in his lifetime, this mine has recovered five working computers. Of these he sold four, each for - of course - a mind-boggling sum. But he kept one for himself. He kept one for his numerology.
+
+I am unschooled in the workings of those ancient machines. So I explain here now only what he relayed to me in our letters. And I would suggest you correspond yourself - for I know you are a more mathematical sort than I.
+
+I can only say, he has many educated servants and he has them take shifts typing books into his computer. And he tells me, he has arranged this computer such that it takes each word in every language and assigns it a numerical value. His ancient machine then performs various mathematical operations on a given text (I do not claim to understand), and then it returns a signature, which is a matrix of that type used in the linear algebra. And he claims by means of these signatures, he has derived a method of distinguishing the fell demon’s works from that of our true ancestors.
+
+Again, if curious, I implore you to correspond with Julian directly.
+
+Finishing this letter now, I remember I have not replied to your sister’s question. And do not worry yourself! I do not begrudge you reading my last missive to her. Tell her my master has not yet taken a wife, despite his advanced age.
+
+You say her heart was moved by the description of my master? That she felt great emotion? Particularly concerning Jessica? Jealousy, I imagine. Women of good birth are often disgusted and jealous when a noble man takes a slave to bed. Understandable. But if she is jealous, I am afraid she has little chance with him. It is a shame, though, for lacking an heir and even any living relatives, his estate will be up for grabs on his death (may it never come) to anyone with even the most tenuous connection.
+
+An agreeable wife and an heir would mitigate this sad possibility. And it should not be so hard: he is a tempting prize to any family, particularly those mired in some debt. Alas, though he knows my opinion on the matter and even thinks it wise, he refuses to heed it. And much amusement we have in bantering about it.
+
+I do so enjoy his condescensions.
+
+ 
+
+I thank you for sending me your copy of The Approach to Al-Mu’tasim. I agree, it is a remarkable novel. And reviewing his own pseudonymous work does seem entirely in the character of our Jorge Luis - should we be correct that he is not a fabrication of Belial’s. And though we agree on that, I still prefer my concordance to your own. You may need reminding that it was entirely within that fell demon’s power to write novels of this quality. And consider, if you will, Borges’s review absent that book. Does it not have a certain je ne sais quoi? For a moment, forget The Approach to Al-Mu’tasim. Imagine how it would feel to read Borges’s review in a past where its subject never existed. Indeed, I have works of criticism in my library that claim just this was true, though of course there are some that state the opposite \[...\]
+
+As to more mundane matters, I was sad to hear of the death of your teacher. And you suspect the ink, you say? I admit, I looked at my inkwell with some fear on reading that, thinking about how many times I have bit my nails or eaten with stained fingers.
+
+I thank you for the reference. I have indeed found a copy of the book you mention, and the means of purification was simple enough. If only the Romans had you to offer such advice! I am left with a sort of dross that text warns should not be left around children, by virtue of its sweet taste. I will find some means by which to dispose of it safely. I will certainly keep Jessica away from it - or at least educate her on its nature.
+
+\[...\]Regarding your first question. Julian will answer better. But I suppose the distance is such that mine will reach you first. And so I will do what I can so you have some morsel to sate your considerable curiosity.
+
+He separates the thousands of books he has painstakingly relayed into his computer into two categories. Those with the signature and those without it. Nine of every ten have this signature. And assuming the majority the work of Belial, Julian concludes the nine the demon’s and the one our ancestor’s.
+
+You ask how the signature is calculated? That is a question for Julian. It has something to do with the frequency in which various words are used. As for how he identified this signature (and we should consider the idea that he is as deluded as the forensics were) I do not understand this myself. We will have to await your correspondence with Julian. Though you will pay a dear price - he will want to exchange books with you. And often asks for two texts from me for every one I borrow of him. He is a true miser, even in matters of lending. But worry not on account of your books. They will be safer in his hands than even your own.
+
+Now on to your sad idea about our Jorge Luis. It is something we should consider. I feel a sort of affection for him though, a sort of kinship through the depths of time. Imagining this bonhomie to be an illusion fills me with a real despair. And I think I am not interpreting you wrongly when I infer you feel similarly. Nonetheless, you are right! This is an idea we should dwell on sometimes, however unpleasant it is. I will note however, that the numerologists agree with me! At least in the case of our Jorge Luis.
+
+It strikes me now how tediously long this letter has become. I fear even the most diligent man would be tired of it by now. I am having a fanciful thought, and it is this: an image of a barely literate bore attempting to read this far. I picture that corpulent, indolent demon Belphegor, trying to weigh my soul. He certainly would have given up long before reading to this point. And though an infinitely more virtuous creature, I fear even your patience is being tested, too.
+
+Yet I have not yet addressed your sister’s continued curiosity regarding my master. It is a shame; indeed, he has no wife or heir. He clearly does not desire one. His wealth is such that many families have offered him the hand of their daughters, but he has always demurred. And it is his right to do as he wishes. Far be it from me to question his keen judgement. Nor to attempt to sway him.
+
+Still, you know us bibliognosts. We stare into possible pasts so much, our imaginations grow strong. And we do sometimes wonder about the possible futures. In this spirit, I did have this thought on reading your letter: what could induce him to wed? And the answer that came? Some scandal regarding him becoming known in the capital. And even then, he is of such perfect stubbornness I doubt he would wed just to ward off scandal. Though my Phoebe reminds me: alone among men, my master fears Markus Henrich.
+
+She suspects that the confluence of both gossip in the capital and Henrich strongly recommending him a wife would be enough to impel him to marry.\[...\]
+
+ 
+
+I am pleased your correspondence with Julian is going well. Yes. I, too, am jealous of his handwriting. So precise and delicate. A rare sort of handwriting, indeed.
+
+I told you he is greedy for books! You see now I did not lie. As for your worries about delivery, when was a book last damaged in delivery? Julian is further away than any you have lent to before, yes, but though we might find fault in The Athenaeum in many regards, have they ever proven incompetent in this one? Do not worry yourself.
+
+You have caught me! My concordance is informed by Julian’s numerology. But it stands on its own. And none can doubt it possesses a rare degree of zìqià. Of course, it is of only intellectual interest as it is clearly wrong, given what it claims about the distaff texts. This vice it inherits from the numerologists.
+
+There is of course a simple fix to Julian’s metric. We use his signature and then discard any book written by a woman! This has all the virtues of the epicycle, does it not? We would of course have to find some means of rationalizing internal references to those texts. But I am sure we could come up with some satisfying method of doing so. And this new theory would be of a rarified form, one only the greatest of men can truly appreciate: that finest genre of noblemen to which my master belongs\[...\]
+
+ 
+
+Your letter finds me in a strange mood. The estate is in disarray. My master has come down with gout. And he is in perfect agony. The pain is such that he often wakes up screaming in his sleep. You can imagine my reaction, hearing such sounds from his kind lips. Let us not speak of it. And let us, also, pray for my master’s gout.
+
+When his attacks come, his only relief can be found in wine. I have told him, wine is the very worst thing for gout. But he is such a contrary creature these days, and he inverted my advice. And so he is constantly asking for wine. Sweet Jessica, of course, is glad to serve it to him.
+
+But let us move on to happier things. The Kristus och Judas. I am glad to see you agree with both myself and the numerologists. If The Approach to Al-Mu’tasim was transcendent work, The Kristus och Judas does read as a bad forgery. Though I think them both Belial’s, I admit it is strange how much better a lie the former is as compared to the latter. \[...\]
+
+ 
+
+I was happy to read your letter. It was a welcome distraction from this grim estate, grim because master has been of a rather saturnine mood lately. But you know what a strange disease his is. How many books detail its symptoms, how it comes and goes like the tides? Let us hope for a permanent retreat.
+
+He sent for a doctor and perhaps the doctor cured him? But you know doctors. They had some competence once but I am of the opinion that Belial’s lies have rendered them worse than useless. I told as much to my master, but he of course did the opposite. It is so very frustrating.
+
+Yet by whatever hap or intervention, the gout has improved. You would think his mood would have risen. It is instead much worse. And this is because he received some very displeasing news. I know little of what has occurred, but I get the sense the calumnies I mentioned in my first letter have not been as thoroughly extinguished as I hoped.
+
+In his kindness, he now keeps Jessica out of sight. Undoubtedly, he desires to spare her from the indignities of gossip and scandal. Yet this kindness is not without cost. Luckily, Phoebe has convinced him to let her see Jessica from time to time. They only get a few minutes. Time enough for a few words and a hug.
+
+What strange creatures women are! It sometimes seems that in their honeyed embrace, those two can exchange as much information as we do in our letters.
+
+But enough of my sad circumstances, I am happy to hear you desire to meet Julian in person. One thing you should know, he has been in very poor health all his life and refuses to see outsiders.
+
+Now, you would think this would make traveling to him unnecessary. But here you are wrong. His sister Elizabeth is his servant in all matters, even those intellectual. He has talked to her of all his theories and she can serve as an able proxy for him, even in direct conversation. She visited me once, and represented her brother well. I felt almost as if I were talking to him. She mentioned he reads to her a great deal. So she has a more-than-tolerable knowledge of bibliognosis. Of course this can only be the dim approximation of what her brother has. Still, you will find your travels worthwhile.\[...\]
+
+ 
+
+Your letter finds me well. And I think you know why! But I will start with our Jorge Luis and then move on to the gossip which, I admit, is foremost in my mind today!
+
+We might consider the Ficciones as important also in what is revealed by their translations. I have been reading the English and German translations, and (if we assume the numerologists correct) we find an interesting difference in those authored by Belial\[...\]
+
+I was glad to hear of your travels to Julian’s estate. It is a shame you could not meet the man, but it is well you found his sister so charming. Maybe it is the mentioned nuptials stirring romance in my heart, but am I wrong to think you may have found your Phoebe in Julian’s sister, this Elizabeth?
+
+What nuptials you ask? I think you know. But imagine my surprise, my friend! Picture it: me with a book in hand, seated in that room right next to my master’s bedroom, having picked it over my library out of my great concern for my master’s health - which I will say is not well.
+
+The gout has returned and his screams are such music to me, such frightful, horrible music. And what do I hear through the thin walls, in one of my master’s blessed moments of respite? Jessica announcing Markus Henrich’s arrival. They talked of scandal. Unrepeatable things. Horrible words spoken in the capital. And would you believe Henrich said your sister’s name? Of course you would, as you certainly aided her in her arduous schemes - that devious, enraptured creature that she is! How lucky for her that Henrich found her to be an ideal candidate.
+
+You may well not be aware yet that my master will accept your family’s proposal. He said as much to Henrich. Forgive me this slight betrayal of my master’s confidence. I am excitable about matters matrimonial, me having such a romantic heart. And what a pleasure it will be to see you in person. I will be confined in my study during any ceremony, but I trust you will pay this humble slave a short visit. We can talk about Elizabeth. I am sure you think her a towering genius now, just as I do of my Phoebe. Men in love are all the same man, and this man a fool!
+
+I will reveal, too, that we will have a wedding gift for our master, “we” being Phoebe, Jessica and myself. We will wait, though, wait maybe six months or even a year after that happy day to give it to him. We will wait for some anniversary long past any possibility of annulment.
+
+I will not spoil it, this humble gift made by humble hands. But let us say, if in each day we show our affection in small ways, this will be much the same but in the large. And still, only but such a fraction of what he deserves!
+
+And I think your sister will be charmed by us slaves when she arrives. So charmed, I worry, that she might even feel inclined towards our manumission. Dissuade her of this, friend. We could desire nothing less. We love our master and wish to serve him for as long as he lives.
+===== END STORY pKoDqpfdv4ur8HgZ2 =====

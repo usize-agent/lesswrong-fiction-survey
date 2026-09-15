@@ -1,0 +1,35 @@
+{
+  "_id": "SfcWvA3M23A6yHdbd",
+  "slug": "frida-van-lisa-a-short-story-about-adversarial-ai-attacks-on",
+  "title": "Frida van Lisa, a short story about adversarial AI attacks on humans",
+  "postedAt": "2024-06-07T13:22:38.118Z",
+  "baseScore": 1,
+  "wordCount": 5253,
+  "commentCount": 0,
+  "user": {
+    "displayName": "arisAlexis",
+    "slug": "arisalexis"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "dBPou4ihoQNY4cquv",
+      "name": "Psychology",
+      "slug": "psychology"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "dBPou4ihoQNY4cquv": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

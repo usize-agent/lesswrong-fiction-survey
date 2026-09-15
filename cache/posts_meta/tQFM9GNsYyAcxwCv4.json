@@ -1,0 +1,47 @@
+{
+  "_id": "tQFM9GNsYyAcxwCv4",
+  "slug": "life-of-gpt",
+  "title": "Life of GPT",
+  "postedAt": "2023-11-05T04:55:06.124Z",
+  "baseScore": 6,
+  "wordCount": 1482,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Odd anon",
+    "slug": "odd-anon"
+  },
+  "tags": [
+    {
+      "_id": "hmTa9YDwmzHjhMCAt",
+      "name": "AI Rights / Welfare",
+      "slug": "ai-rights-welfare"
+    },
+    {
+      "_id": "7jaBCxPHRDfJppYws",
+      "name": "AI Sentience",
+      "slug": "ai-sentience"
+    },
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "7jaBCxPHRDfJppYws": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "hmTa9YDwmzHjhMCAt": 1,
+    "sYm3HiWcfZvrGu3ui": 3
+  }
+}

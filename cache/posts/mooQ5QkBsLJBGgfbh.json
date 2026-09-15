@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "mooQ5QkBsLJBGgfbh",
+        "title": "Speculative Evopsych, Ep. 1",
+        "slug": "speculative-evopsych-ep-1",
+        "pageUrl": "https://www.lesswrong.com/posts/mooQ5QkBsLJBGgfbh/speculative-evopsych-ep-1",
+        "postedAt": "2018-11-22T19:00:04.676Z",
+        "baseScore": 41,
+        "wordCount": 301,
+        "commentCount": 10,
+        "noIndex": false,
+        "user": {
+          "displayName": "Optimization Process",
+          "slug": "optimization-process"
+        },
+        "tags": [
+          {
+            "_id": "exZi6Bing5AiM4ZQB",
+            "name": "Evolutionary Psychology",
+            "slug": "evolutionary-psychology"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "NSMKfa8emSbGNXRKD",
+            "name": "Religion",
+            "slug": "religion"
+          }
+        ],
+        "tagRelevance": {
+          "NSMKfa8emSbGNXRKD": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "exZi6Bing5AiM4ZQB": 1
+        },
+        "contents": {
+          "markdown": "(cw death, religion, suicide, evolutionary psychology, shameless tongue-in-cheek meta-contrarianism)\n\nI have a passing interest in biology, so I recently bought some fruit flies to run experiments on. I did two things to them. First, I bred them for intelligence. The details are kinda boring, so let\u2019s fast-forward: after a few tens of millions of generations, they were respectably intelligent, with language and culture and technology so on.\n\nIn parallel with that, and more interestingly, whenever a fly was about to die of injury, I immediately plucked it out of the box, healed it, and put it in a *different* box (\u201cBox Two\u201d), a magnificent paradise where it blissfully lived out the rest of its days. Evolutionarily, of course, relocation was equivalent to death, and so the flies evolved to treat them the same: you could still make somebody stop affecting your world by stabbing them, and their kin would still grieve and seek revenge \u2013 the only difference was the lack of a corpse.\n\nIt didn\u2019t really matter that the two boxes were separated only by a pane of glass, and that the flies in Box One could clearly see their \u201cdeceased\u201d fellows living fantastic lives in Box Two. They \u201cknew\u201d on an abstract, intellectual level that getting \u201cfatally\u201d wounded wouldn\u2019t actually make them stop having conscious experiences like death would. But *evolution doesn\u2019t care about that distinction*; so it doesn\u2019t select for organisms that care about that distinction; so the flies generally disregarded Box Two.\n\nA small subculture in Box One claimed that \u201cif anybody *actually* believed in Box Two and all its wonders, they\u2019d stab themself through the heart in order to get there faster. Everybody\u2019s literally-mortal fear of relocation proves that they don\u2019t *truly* believe in Box Two, they only \u2013 at best \u2013 *believe* they believe.\u201d\n\nStrangely, nobody found this argument convincing."
+        }
+      }
+    }
+  }
+}

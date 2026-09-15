@@ -1,0 +1,29 @@
+{
+  "_id": "NencL9r3Y7MPiqEbS",
+  "slug": "the-devil-you-know",
+  "title": "The Devil You Know",
+  "postedAt": "2020-05-21T21:50:01.425Z",
+  "baseScore": 6,
+  "wordCount": 1005,
+  "commentCount": 1,
+  "user": {
+    "displayName": "Slimepriestess",
+    "slug": "hivewired"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "RLQumypPQGPYg9t6G",
+      "name": "Gaming (videogames/tabletop)",
+      "slug": "gaming-videogames-tabletop"
+    }
+  ],
+  "tagRelevance": {
+    "RLQumypPQGPYg9t6G": 3,
+    "etDohXtBrXd8WqCtR": 16
+  }
+}

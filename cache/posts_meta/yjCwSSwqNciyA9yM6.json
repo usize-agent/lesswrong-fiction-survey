@@ -1,0 +1,35 @@
+{
+  "_id": "yjCwSSwqNciyA9yM6",
+  "slug": "how-to-escape-super-mario-bros",
+  "title": "How To Escape Super Mario Bros",
+  "postedAt": "2026-02-20T11:54:04.235Z",
+  "baseScore": 71,
+  "wordCount": 2639,
+  "commentCount": 8,
+  "user": {
+    "displayName": "omegastick",
+    "slug": "omegastick"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

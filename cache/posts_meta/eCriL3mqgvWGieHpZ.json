@@ -1,0 +1,29 @@
+{
+  "_id": "eCriL3mqgvWGieHpZ",
+  "slug": "effective-evil-s-ai-misalignment-plan",
+  "title": "Effective Evil's AI Misalignment Plan",
+  "postedAt": "2024-12-15T07:39:34.046Z",
+  "baseScore": 84,
+  "wordCount": 790,
+  "commentCount": 9,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

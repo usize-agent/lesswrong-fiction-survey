@@ -1,0 +1,41 @@
+{
+  "_id": "7AKvSMavPZ8GjxFaa",
+  "slug": "charles-goodhart-elementary-school",
+  "title": "Charles Goodhart Elementary School",
+  "postedAt": "2026-08-05T17:06:07.208Z",
+  "baseScore": 43,
+  "wordCount": 499,
+  "commentCount": 3,
+  "user": {
+    "displayName": "Zack_M_Davis",
+    "slug": "zack_m_davis"
+  },
+  "tags": [
+    {
+      "_id": "fH8jPjHF2R27sRTTG",
+      "name": "Education",
+      "slug": "education"
+    },
+    {
+      "_id": "PvridmTCj2qsugQCH",
+      "name": "Goodhart's Law",
+      "slug": "goodhart-s-law"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "F2XfCTxXLQBGjbm8P": 2,
+    "PvridmTCj2qsugQCH": 2,
+    "fH8jPjHF2R27sRTTG": 2
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "rH492M8T8pKK5763D",
+        "title": "Agree, Retort, or Ignore? A Post From the Future",
+        "slug": "agree-retort-or-ignore-a-post-from-the-future",
+        "pageUrl": "https://www.lesswrong.com/posts/rH492M8T8pKK5763D/agree-retort-or-ignore-a-post-from-the-future",
+        "postedAt": "2009-11-24T22:29:23.608Z",
+        "baseScore": 38,
+        "wordCount": 607,
+        "commentCount": 88,
+        "noIndex": false,
+        "user": {
+          "displayName": "Wei Dai",
+          "slug": "wei-dai"
+        },
+        "tags": [
+          {
+            "_id": "wzgcQCrwKfETcBpR9",
+            "name": "Disagreement",
+            "slug": "disagreement"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "hNFdS3rRiYgqqD8aM": 1,
+          "wzgcQCrwKfETcBpR9": 1
+        },
+        "contents": {
+          "markdown": "My friend Sasha, the [software archaeology](http://everything2.com/title/Programmer+Archaeologist) major, informed me the other day that there was once a widely used operating system, which, when it encountered an error, would often get stuck in a loop and repeatedly present to its user the options [Abort, Retry, and Ignore](http://www.annoyances.org/exec/show/article09-122). I thought this was probably another one of her often incomprehensible jokes, and gave a nervous laugh. After all, what interface designer would present \"Ignore\" as a possible user response to a potentially catastrophic system error without any further explanation?\n\nSasha quickly assured me that she wasn't joking. She told me that early 21st century humans were quite different from us. Not only did they routinely create software like that, they could even ignore arguments that contradicted their positions or pointed out flaws in their ideas, and did so publicly without risking any negative social consequences. Discussions even among self-proclaimed truth-seekers would often conclude, not by reaching a rational consensus or an agreement to mutually reassess positions and approaches, or even by an unilateral claim that further debate would be unproductive, but when one party simply fails to respond to the arguments or questions of another without giving any [indication of the status of their disagreement](/lw/5/issues_bugs_and_requested_features/11mr).\n\nAt this point I was certain that she was just yanking my chain. Why didn't the injured party invoke rationality arbitration and get a judgment on the offender for failing to respond to a disagreement in a timely fashion, I asked? Or publicize the affair and cause the ignorer to become a social outcast? Or, if neither of these mechanisms existed or provided sufficient reparation, challenge the ignorer to a duel to the death? For that matter, how could those humans, only a few generations removed from us, not feel an intense moral revulsion at the very idea of ignoring an argument?\n\nAt that, she launched into a long and convoluted explanation. I recognized some of the phrases she used, like \"status signaling\", \"multiple equilibria\", and \"rationality-enhancing norms and institutions\", from the Theory of Rationality class that I took a couple of quarters ago, but couldn't follow most of it. (I have to admit I didn't pay much attention in that class. I mean, we've had the \"how\" of rationality drummed into us since kindergarten, so what's the point of spending so much time on the \"what\" and \"why\" of it now?) I told her to stop showing off, and just give me some evidence that this actually happened, because my readers and I will want to see it for ourselves.\n\nShe said that there are plenty of examples in the back archives of Google Scholar, but most of them are probably still quarantined for me. As it happens, one of her class projects is to reverse engineer a recently discovered \"blogging\" site called \"Less Wrong\", and to build a proper search index for it. She promised that once she is done with that she will run some queries against the index and show me the uncensored historical data.\n\nI still think this is just an elaborate joke, but I'm not so sure now. We're all familiar with the vastness of [mindspace](http://wiki.lesswrong.com/wiki/Mind_design_space) and have been warned against [anthropomorphism](http://wiki.lesswrong.com/wiki/Anthropomorphism) and the [mind projection fallacy](/lw/oi/mind_projection_fallacy/), so I have no doubt that minds this [alien](http://wiki.lesswrong.com/wiki/Alien_values) could exist, in theory. But our own ancestors, as recently as the 21st century? My dear readers, what do you think? She's just kidding... right?\n\n\\[Editor's note: I found this \"blog\" post sitting in my drafts folder today, perhaps the result of a temporal distortion caused by one of Sasha's reverse engineering tools. I have only replaced some of the hypertext links, which failed to resolve, for obvious reasons.\\]"
+        }
+      }
+    }
+  }
+}

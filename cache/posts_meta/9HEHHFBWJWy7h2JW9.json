@@ -1,0 +1,29 @@
+{
+  "_id": "9HEHHFBWJWy7h2JW9",
+  "slug": "murphy-s-quest-ch-1-exposure-therapy",
+  "title": "Murphy\u2019s Quest Ch 1: Exposure Therapy",
+  "postedAt": "2018-03-04T04:50:00.918Z",
+  "baseScore": 29,
+  "wordCount": 868,
+  "commentCount": 5,
+  "user": {
+    "displayName": "alkjash",
+    "slug": "alkjash"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "hNFdS3rRiYgqqD8aM",
+      "name": "Humor",
+      "slug": "humor"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "hNFdS3rRiYgqqD8aM": 1
+  }
+}

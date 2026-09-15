@@ -1,0 +1,29 @@
+{
+  "_id": "DT9mqFeWocnXiqt9L",
+  "slug": "a-story-of-kings-and-spies",
+  "title": "A Story of Kings and Spies",
+  "postedAt": "2014-06-11T23:54:42.282Z",
+  "baseScore": 38,
+  "wordCount": 1858,
+  "commentCount": 33,
+  "user": {
+    "displayName": "Joshua_Blaine",
+    "slug": "joshua_blaine"
+  },
+  "tags": [
+    {
+      "_id": "E8PHMuf7tsr8teXAe",
+      "name": "Betting",
+      "slug": "betting"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "E8PHMuf7tsr8teXAe": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

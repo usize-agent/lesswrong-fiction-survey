@@ -1,0 +1,35 @@
+{
+  "_id": "Rz4ijbeKgPAaedg3n",
+  "slug": "the-gentle-romance",
+  "title": "The Gentle Romance",
+  "postedAt": "2025-01-19T18:29:18.469Z",
+  "baseScore": 243,
+  "wordCount": 4416,
+  "commentCount": 46,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

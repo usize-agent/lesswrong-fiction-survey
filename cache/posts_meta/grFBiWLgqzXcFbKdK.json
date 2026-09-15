@@ -1,0 +1,29 @@
+{
+  "_id": "grFBiWLgqzXcFbKdK",
+  "slug": "notes-1-6",
+  "title": "notes, 1-6",
+  "postedAt": "2024-06-03T21:02:28.844Z",
+  "baseScore": 0,
+  "wordCount": 2101,
+  "commentCount": 0,
+  "user": {
+    "displayName": "marwood",
+    "slug": "marwood"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "kCrvmjZhsAZANnZL6",
+      "name": "Philosophy",
+      "slug": "philosophy-1"
+    }
+  ],
+  "tagRelevance": {
+    "kCrvmjZhsAZANnZL6": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "_id": "Qn6W8EK2X5ERkY5qg",
+  "slug": "chapter-121-something-to-protect-severus-snape",
+  "title": "Chapter 121: Something to Protect: Severus Snape",
+  "postedAt": "2015-03-14T19:00:13.233Z",
+  "baseScore": 23,
+  "wordCount": 1350,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb20f",
+      "name": "Something To Protect",
+      "slug": "something-to-protect"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "5f5c37ee1b5cdee568cfb20f": 2
+  }
+}

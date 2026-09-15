@@ -1,0 +1,23 @@
+{
+  "_id": "dJkNPgEQPqbhqfwAh",
+  "slug": "bayeswatch-2-puppy-muffins",
+  "title": "Bayeswatch 2: Puppy Muffins",
+  "postedAt": "2021-05-05T05:42:47.279Z",
+  "baseScore": 88,
+  "wordCount": 1040,
+  "commentCount": 11,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 3
+  }
+}

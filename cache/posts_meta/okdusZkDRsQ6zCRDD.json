@@ -1,0 +1,23 @@
+{
+  "_id": "okdusZkDRsQ6zCRDD",
+  "slug": "chapter-7-reciprocation",
+  "title": "Chapter 7: Reciprocation",
+  "postedAt": "2015-03-14T19:00:55.225Z",
+  "baseScore": 89,
+  "wordCount": 10715,
+  "commentCount": 16,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

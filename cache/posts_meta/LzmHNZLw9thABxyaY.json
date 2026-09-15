@@ -1,0 +1,29 @@
+{
+  "_id": "LzmHNZLw9thABxyaY",
+  "slug": "curriculum-of-ascension",
+  "title": "Curriculum of Ascension",
+  "postedAt": "2024-11-07T23:54:18.983Z",
+  "baseScore": 12,
+  "wordCount": 5414,
+  "commentCount": 0,
+  "user": {
+    "displayName": "andrew sauer",
+    "slug": "andrew-sauer"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2,
+    "xexCWMyds6QLWognu": 2
+  }
+}

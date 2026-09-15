@@ -1,0 +1,35 @@
+{
+  "_id": "nDzzxi3iXwNptRHJK",
+  "slug": "cancer-a-crime-story-and-other-tales-of-optimization-gone",
+  "title": "Cancer; A Crime Story (and other tales of optimization gone wrong)",
+  "postedAt": "2025-11-07T07:09:52.226Z",
+  "baseScore": 19,
+  "wordCount": 3550,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Jonas Hallgren",
+    "slug": "jonas-hallgren"
+  },
+  "tags": [
+    {
+      "_id": "Dw5Z6wtTgk4Fikz9f",
+      "name": "Inner Alignment",
+      "slug": "inner-alignment"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "Dw5Z6wtTgk4Fikz9f": 2,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

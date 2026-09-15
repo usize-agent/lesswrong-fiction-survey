@@ -1,0 +1,53 @@
+{
+  "_id": "zaFwokgn9MxtYd46E",
+  "slug": "fli-podcast-series-imagine-a-world-about-aspirational",
+  "title": "FLI podcast series, \"Imagine A World\", about aspirational futures with AGI",
+  "postedAt": "2023-10-13T16:07:39.001Z",
+  "baseScore": 9,
+  "wordCount": 1253,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Jackson Wagner",
+    "slug": "jackson-wagner"
+  },
+  "tags": [
+    {
+      "_id": "qHDus5MuMNqQxJbjD",
+      "name": "AI Governance",
+      "slug": "ai-governance"
+    },
+    {
+      "_id": "vjKs7Pvz3MbgMc75C",
+      "name": "Audio",
+      "slug": "audio"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "CL9NePP9FejkQo6jn",
+      "name": "Future of Life Institute",
+      "slug": "future-of-life-institute"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "xexCWMyds6QLWognu",
+      "name": "World Optimization",
+      "slug": "world-optimization"
+    }
+  ],
+  "tagRelevance": {
+    "CL9NePP9FejkQo6jn": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "qHDus5MuMNqQxJbjD": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "vjKs7Pvz3MbgMc75C": 1,
+    "xexCWMyds6QLWognu": 1
+  }
+}

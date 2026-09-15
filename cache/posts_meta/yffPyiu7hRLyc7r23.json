@@ -1,0 +1,23 @@
+{
+  "_id": "yffPyiu7hRLyc7r23",
+  "slug": "final-words",
+  "title": "Final Words",
+  "postedAt": "2009-04-27T21:12:02.966Z",
+  "baseScore": 193,
+  "wordCount": 2759,
+  "commentCount": 64,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

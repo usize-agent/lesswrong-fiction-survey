@@ -1,0 +1,35 @@
+{
+  "_id": "A3sJeuKNAQdCm7Ji7",
+  "slug": "a-sufficiently-paranoid-paperclip-maximizer",
+  "title": "A sufficiently paranoid paperclip maximizer",
+  "postedAt": "2022-08-08T11:17:26.147Z",
+  "baseScore": 19,
+  "wordCount": 637,
+  "commentCount": 10,
+  "user": {
+    "displayName": "RomanS",
+    "slug": "romans"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "QH4LhvnyR4QkW9MG8",
+      "name": "Squiggle Maximizer (formerly \"Paperclip maximizer\")",
+      "slug": "squiggle-maximizer-formerly-paperclip-maximizer"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "QH4LhvnyR4QkW9MG8": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_id": "i45GMZgheKTheF9nJ",
+  "slug": "chapter-8-positive-bias",
+  "title": "Chapter 8: Positive Bias",
+  "postedAt": "2015-03-14T19:00:06.581Z",
+  "baseScore": 77,
+  "wordCount": 5817,
+  "commentCount": 9,
+  "user": {
+    "displayName": "Eliezer Yudkowsky",
+    "slug": "eliezer_yudkowsky"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 2
+  }
+}

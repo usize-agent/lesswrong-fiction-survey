@@ -1,0 +1,34 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "HvjZxxtHnAucnaKn2",
+        "title": "Fiction: Letter from the End",
+        "slug": "fiction-letter-from-the-end",
+        "pageUrl": "https://www.lesswrong.com/posts/HvjZxxtHnAucnaKn2/fiction-letter-from-the-end",
+        "postedAt": "2011-08-09T23:04:59.534Z",
+        "baseScore": 32,
+        "wordCount": 8,
+        "commentCount": 13,
+        "noIndex": false,
+        "user": {
+          "displayName": "AlexMennen",
+          "slug": "alexmennen"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1
+        },
+        "contents": {
+          "markdown": "http://alex.mennen.org/LetterFromTheEnd.pdf\n\nI thought some LW-ers might find this interesting."
+        }
+      }
+    }
+  }
+}

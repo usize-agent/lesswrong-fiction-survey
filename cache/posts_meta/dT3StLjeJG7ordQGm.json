@@ -1,0 +1,47 @@
+{
+  "_id": "dT3StLjeJG7ordQGm",
+  "slug": "gpt-5-writing-a-singularity-scenario",
+  "title": "GPT-5 writing a Singularity scenario",
+  "postedAt": "2025-08-10T00:56:55.807Z",
+  "baseScore": 25,
+  "wordCount": 10261,
+  "commentCount": 7,
+  "user": {
+    "displayName": "Trevor Cappallo",
+    "slug": "trevor-cappallo"
+  },
+  "tags": [
+    {
+      "_id": "oiRp4T6u5poc8r9Tj",
+      "name": "AI Takeoff",
+      "slug": "ai-takeoff"
+    },
+    {
+      "_id": "GrHAiuzAjG2mDxvMB",
+      "name": "ChatGPT",
+      "slug": "chatgpt-1"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "CztjQPSTuaQcfbyh8",
+      "name": "Singularity",
+      "slug": "singularity"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "CztjQPSTuaQcfbyh8": 1,
+    "GrHAiuzAjG2mDxvMB": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "oiRp4T6u5poc8r9Tj": 1,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

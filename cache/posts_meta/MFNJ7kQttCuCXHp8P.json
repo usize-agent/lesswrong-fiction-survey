@@ -1,0 +1,35 @@
+{
+  "_id": "MFNJ7kQttCuCXHp8P",
+  "slug": "the-goddess-of-everything-else",
+  "title": "The Goddess of Everything Else",
+  "postedAt": "2015-08-17T20:59:40.000Z",
+  "baseScore": 102,
+  "wordCount": 2309,
+  "commentCount": 8,
+  "user": {
+    "displayName": "Scott Alexander",
+    "slug": "scottalexander"
+  },
+  "tags": [
+    {
+      "_id": "ai87fPyyT6mWb4YkT",
+      "name": "Eldritch Analogies",
+      "slug": "eldritch-analogies"
+    },
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    }
+  ],
+  "tagRelevance": {
+    "F2XfCTxXLQBGjbm8P": 4,
+    "ai87fPyyT6mWb4YkT": 11,
+    "etDohXtBrXd8WqCtR": 6
+  }
+}

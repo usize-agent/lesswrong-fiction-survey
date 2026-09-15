@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "zmXrKHZRQ3jsc9pER",
+        "title": "The Genetics of Space Amazons\n",
+        "slug": "the-genetics-of-space-amazons",
+        "pageUrl": "https://www.lesswrong.com/posts/zmXrKHZRQ3jsc9pER/the-genetics-of-space-amazons",
+        "postedAt": "2021-12-30T22:14:14.201Z",
+        "baseScore": 12,
+        "wordCount": 1500,
+        "commentCount": 12,
+        "noIndex": false,
+        "user": {
+          "displayName": "Jan Christian Refsgaard",
+          "slug": "jan-christian-refsgaard"
+        },
+        "tags": [
+          {
+            "_id": "nZCb9BSnmXZXSNA2u",
+            "name": "Evolution",
+            "slug": "evolution"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "e9wHzopbGCAFwp9Rw",
+            "name": "Human Genetics",
+            "slug": "human-genetics"
+          },
+          {
+            "_id": "6nS8oYmSMuFMaiowF",
+            "name": "Logic & Mathematics ",
+            "slug": "logic-and-mathematics"
+          }
+        ],
+        "tagRelevance": {
+          "6nS8oYmSMuFMaiowF": 1,
+          "e9wHzopbGCAFwp9Rw": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "nZCb9BSnmXZXSNA2u": 1
+        },
+        "contents": {
+          "markdown": "If you wanted to colonize other planets with meat suite humans, then females are the superior choice as they have lower nutritional needs. Here I imagine a fictional Amazon gene that could lead to a skewed sex ratio favoring females.\n\n### Background\n\n* Human Females need less food than males\n* Human Females silence a random X chromosome because otherwise every protein\n  from the X chromosome would be twice as abundant for XX females compared to\n  as for XY males\n* If Humans could be engineered to have a female biased sex ratio, then they would have an advantage when traveling to new worlds because:\n   - then they will need less food.\n   - their space ships would require slightly less fuel as females tend to be lighter.\n   - the could increase their population size faster as there are more\n     gestating members of the species.\n \nSo this is a cool premise for an egalitarian feminist spacefaring society... or a harem anime :)\n\n### Premise\n\nImagine a novel X chromosome mutation that allows the X chromosome to silence\nthe Y chromosome such that these XY mutants have a female phenotype and\nreproduction strategy, to make this less confusing we denote the mutated X\nchromosome as A, the Amazon chromosome\n\nIn this new society there are the following species with a male phenotype: XY,\nand the following with female phenotype XX, AX and AY (AA would also be female,\nbut cannot exist as the males have no A's)\n\nTry to stop up and guess the sex equilibrium ratio... Is it 1/4 of each one\nbecause there are now 4 sexes, is it 1/3 XY and 2/3 female genotypes?, or\nsomething completely different?\n\n\n### Amazon mating: The Next Generation\n\nLet's try to \"mate\" these new sex genotypes and see what would be produced\n\nXY and XX (the standard): XX has 100% chance of giving an X and XY has 50/50\nfor each, so the offspring will be 50% XY and 50% XX\n\nXY + XX -> 50% XX and 50% XY\n\nLet's try to mate XY with AX:\n\nXY + AX ->25% XY, 25% AX, 25% XY and 25% AY\n\nFinally XY with AY, if we assume that egg cells carrying a Y are nonviable, then AY amazons will always donate their A giving:\n\nXY + AY -> 50% AX + 50X AY\n\nWe can put this in a table where the columns are the mating pairs and the rows\nare offspring probabilities.\n(For mathematical reasons explained later we add a Male on Male columns with has 0% chance of getting offspring)\n\n|    |   XY + XY |   XX + XY |   AX + XY |   AY + XY |\n|:---|----------:|----------:|----------:|----------:|\n| XY |         0 |       0.5 |      0.25 |       0   |\n| XX |         0 |       0.5 |      0.25 |       0   |\n| AX |         0 |       0   |      0.25 |       0.5 |\n| AY |         0 |       0   |      0.25 |       0.5 |\n\n\n\n\nLooking at this table, do you now have a new guess for the equilibrium sex ratio?\n\nLets say the space ship starts with 2 XY males and 8 AX Amazons, let's\ncalculate the expected number for each of the 4 genotypes after 1 generation (assuming\neach female mates twice). We can express the 10 astronauts as a vector where\nitems of the vector corresponds to the index in the table above, so $[n_{XY},\nn_{XX}, n_{AX}, n_{AY}]^T$ like this $[2, 0, 8, 0]^T$\n\nIf we also consider the first row of the table as a vector, then we can multiply the\ntwo vectors as follows:\n\n$$\n\\text{XY} = \n[0, 0.5, 0.25, 0] \\times [2, 0, 8, 0]^T = \n[0 \\times 2 + 0.5 \\times 0 + 0.25 \\times 8 + 0 \\times 0] = 2\n$$ \n\nThis is called the vector dot product, if we \"keep sliding\" the vector down the\ntable, then it is called a matrix dot product, Thus to calculate \nthe next generation genotype vector we simply need to slide $[2, 0, 8, 0]^T$\ntrough the table (and multiply by the number of times the females mates, which\nis 2)\n\n$$\n\\begin{aligned}\n        2 \\times\n        \\begin{bmatrix}\n     0 & 0.5 & 0.25 & 0 \\\\\n     0 & 0.5 & 0.25 & 0 \\\\\n     0 & 0   & 0.25 & 0.5 \\\\ \n     0 & 0   & 0.25 & 0.5\n        \\end{bmatrix}\n        \\begin{bmatrix}\n                2 \\\\ 0 \\\\ 8 \\\\ 0\n        \\end{bmatrix} = \n        \\begin{bmatrix}\n                4 \\\\ 4 \\\\ 4 \\\\ 4\n        \\end{bmatrix}\n\\end{aligned}\n$$\n\nSo after 1 generation there are now 16 people and a sex ratio of 1:3, and a\n1:1:1:1 genotype distribution. One generation later we have:\n\n$$\n\\begin{aligned}\n        2 \\times\n        \\begin{bmatrix}\n     0 & 0.5 & 0.25 & 0 \\\\\n     0 & 0.5 & 0.25 & 0 \\\\\n     0 & 0   & 0.25 & 0.5 \\\\ \n     0 & 0   & 0.25 & 0.5\n        \\end{bmatrix}\n        \\begin{bmatrix}\n                4 \\\\ 4 \\\\ 4 \\\\ 4\n        \\end{bmatrix} = \n        \\begin{bmatrix}\n                6 \\\\ 6 \\\\ 6 \\\\ 6\n        \\end{bmatrix}\n\\end{aligned}\n$$\n\nInteresting The same distribution, thus if the Amazons decide to get only\n$\\frac{4}{3}$ kids per female they will have a stable population:\n\n$$\n\\begin{aligned}\n        \\frac{4}{3} \\times\n        \\begin{bmatrix}\n     0 & 0.5 & 0.25 & 0 \\\\\n     0 & 0.5 & 0.25 & 0 \\\\\n     0 & 0   & 0.25 & 0.5 \\\\ \n     0 & 0   & 0.25 & 0.5\n        \\end{bmatrix}\n        \\begin{bmatrix}\n                6 \\\\ 6 \\\\ 6 \\\\ 6\n        \\end{bmatrix} = \n        \\begin{bmatrix}\n                6 \\\\ 6 \\\\ 6 \\\\ 6\n        \\end{bmatrix}\n\\end{aligned}\n$$\n\nIf you are a scifi author and want to write an Amazons in space story, then you\ncan use this world building premise without needing to cite me :D\n\n### Optional: Other XY + AY offspring patterns\n\nAs mentioned above the rules for XY + AY are not clear. It all depends on how a female Sex cell handles lacking a X chromosome. Is the X chromosome vital for the viability of the cell? or is it only vital for cell proliferation? which happens after merging with a sperm cell. Under all circumstances YY are not viable as the X chromosome contains a lot of important genes.\n\nLet's game out all possible combinations\n\nIf egg cells containing a Y chromosome are viable from AY females then two other mating patterns are possible depending on what happens if a Y sperm tries to fuse with a Y egg cells.\n\n1. Y eggs 'reject' Y sperm Then:\n   * AY donates A -> 50% XY + 50% AX\n   * AY donates Y -> 100% XY\n   * Thus 75% XY + 25% AX\n\n2. Y eggs 'accept' Y sperm, but the cell fails to divide\n   * AY donates A -> 50% XY + 50% AX\n   * AY donates Y -> 50% XY + 50% egg fails to divide\n   * Thus 2/3 XY + 1/3 AX\n\n\n"
+        }
+      }
+    }
+  }
+}

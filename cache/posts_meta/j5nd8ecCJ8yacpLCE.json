@@ -1,0 +1,29 @@
+{
+  "_id": "j5nd8ecCJ8yacpLCE",
+  "slug": "flibertigibbeting",
+  "title": "Flibertigibbeting",
+  "postedAt": "2026-09-10T14:43:38.335Z",
+  "baseScore": 19,
+  "wordCount": 1940,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Philip Harker",
+    "slug": "philip-harker"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "etDohXtBrXd8WqCtR": 1,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

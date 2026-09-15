@@ -1,0 +1,30 @@
+{
+  "_id": "48h4RfPLzKPoG48KS",
+  "slug": "the-polite-coup",
+  "title": "The Polite Coup",
+  "postedAt": "2024-12-04T14:03:36.663Z",
+  "baseScore": 3,
+  "wordCount": 863,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Charlie Sanders",
+    "slug": "charlie-sanders"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "KmgkrftQuX7jmjjp5",
+      "name": "Language Models (LLMs)",
+      "slug": "language-models-llms"
+    }
+  ],
+  "tagRelevance": {
+    "FkzScn5byCs9PxGsA": 1,
+    "KmgkrftQuX7jmjjp5": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

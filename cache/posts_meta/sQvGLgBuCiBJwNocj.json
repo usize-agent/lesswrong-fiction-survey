@@ -1,0 +1,29 @@
+{
+  "_id": "sQvGLgBuCiBJwNocj",
+  "slug": "sorting-pebbles-into-correct-heaps-the-animation",
+  "title": "Sorting Pebbles Into Correct Heaps: The Animation",
+  "postedAt": "2023-01-10T15:58:20.865Z",
+  "baseScore": 26,
+  "wordCount": 97,
+  "commentCount": 2,
+  "user": {
+    "displayName": "Writer",
+    "slug": "writer"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "agnEHZTiXEyzBFPmF",
+      "name": "Orthogonality Thesis",
+      "slug": "orthogonality-thesis"
+    }
+  ],
+  "tagRelevance": {
+    "agnEHZTiXEyzBFPmF": 1,
+    "etDohXtBrXd8WqCtR": 1
+  }
+}

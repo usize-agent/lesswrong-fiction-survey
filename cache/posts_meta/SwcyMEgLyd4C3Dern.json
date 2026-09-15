@@ -1,0 +1,53 @@
+{
+  "_id": "SwcyMEgLyd4C3Dern",
+  "slug": "the-parable-of-predict-o-matic",
+  "title": "The Parable of Predict-O-Matic",
+  "postedAt": "2019-10-15T00:49:20.167Z",
+  "baseScore": 380,
+  "wordCount": 4322,
+  "commentCount": 43,
+  "user": {
+    "displayName": "abramdemski",
+    "slug": "abramdemski"
+  },
+  "tags": [
+    {
+      "_id": "5f5c37ee1b5cdee568cfb26d",
+      "name": "Oracle AI",
+      "slug": "oracle-ai"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "3Y4y9Kr8e24YWAEmD",
+      "name": "Myopia",
+      "slug": "myopia"
+    },
+    {
+      "_id": "kwBfWrepKEuZPnDCT",
+      "name": "Hyperstitions",
+      "slug": "hyperstitions"
+    },
+    {
+      "_id": "YyGDbZhGtws5hEPda",
+      "name": "Self Fulfilling/Refuting Prophecies",
+      "slug": "self-fulfilling-refuting-prophecies"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "3Y4y9Kr8e24YWAEmD": 2,
+    "F2XfCTxXLQBGjbm8P": 6,
+    "YyGDbZhGtws5hEPda": 1,
+    "kwBfWrepKEuZPnDCT": 1,
+    "sYm3HiWcfZvrGu3ui": 2,
+    "5f5c37ee1b5cdee568cfb26d": 6
+  }
+}

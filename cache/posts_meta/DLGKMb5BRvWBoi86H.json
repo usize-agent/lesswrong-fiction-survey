@@ -1,0 +1,53 @@
+{
+  "_id": "DLGKMb5BRvWBoi86H",
+  "slug": "goal-alignment-a-short-poem-about-a-llm-having-psychosis",
+  "title": "GOAL! Alignment - a short poem about a LLM having psychosis",
+  "postedAt": "2026-07-02T13:30:50.908Z",
+  "baseScore": 1,
+  "wordCount": 204,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Yoann B",
+    "slug": "yoann-b"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "xknvtHwqvqhwahW8Q",
+      "name": "Human Values",
+      "slug": "human-values"
+    },
+    {
+      "_id": "F2XfCTxXLQBGjbm8P",
+      "name": "Parables & Fables",
+      "slug": "parables-and-fables"
+    },
+    {
+      "_id": "AXhEhCkTrHZbjXXu3",
+      "name": "Poetry",
+      "slug": "poetry"
+    },
+    {
+      "_id": "kdbs6xBndPkmrYAxM",
+      "name": "Politics",
+      "slug": "politics"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    }
+  ],
+  "tagRelevance": {
+    "AXhEhCkTrHZbjXXu3": 1,
+    "F2XfCTxXLQBGjbm8P": 1,
+    "etDohXtBrXd8WqCtR": 1,
+    "kdbs6xBndPkmrYAxM": 1,
+    "sYm3HiWcfZvrGu3ui": 1,
+    "xknvtHwqvqhwahW8Q": 1
+  }
+}

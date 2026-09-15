@@ -1,0 +1,46 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "qMYjfAaYQddsqc3gS",
+        "title": "Fiction of interest",
+        "slug": "fiction-of-interest",
+        "pageUrl": "https://www.lesswrong.com/posts/qMYjfAaYQddsqc3gS/fiction-of-interest",
+        "postedAt": "2009-04-29T18:47:59.414Z",
+        "baseScore": 14,
+        "wordCount": 52,
+        "commentCount": 16,
+        "noIndex": false,
+        "user": {
+          "displayName": "dclayh",
+          "slug": "dclayh"
+        },
+        "tags": [
+          {
+            "_id": "wzgcQCrwKfETcBpR9",
+            "name": "Disagreement",
+            "slug": "disagreement"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "tTp6uCjAMJh66vZkc",
+            "name": "Moral uncertainty",
+            "slug": "moral-uncertainty"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 1,
+          "tTp6uCjAMJh66vZkc": 1,
+          "wzgcQCrwKfETcBpR9": 1
+        },
+        "contents": {
+          "markdown": "The [fiction piece](http://www.newyorker.com/fiction/features/2009/05/04/090504fi_fiction_hareven) in this week's *New Yorker* deals with some of the same themes as Eliezer's \"[Three Worlds Collide](http://www.overcomingbias.com/2009/01/three-worlds-collide.html)\"; viz., the clash of value systems (and the difficulty of seeing those with a different value system as rational), and the idea of humanity developing in ways that seem bizarre/grotesque/evil to us."
+        }
+      }
+    }
+  }
+}

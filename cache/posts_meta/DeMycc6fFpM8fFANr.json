@@ -1,0 +1,47 @@
+{
+  "_id": "DeMycc6fFpM8fFANr",
+  "slug": "my-1st-month-at-a-neurodivergent-gifted-school-called",
+  "title": "My 1st month at a \"neurodivergent gifted school\" called Minerva University",
+  "postedAt": "2023-10-10T03:34:12.879Z",
+  "baseScore": 4,
+  "wordCount": 60,
+  "commentCount": 1,
+  "user": {
+    "displayName": "exanova",
+    "slug": "exanova"
+  },
+  "tags": [
+    {
+      "_id": "AADZcNS24mmSfPp2w",
+      "name": "Communication Cultures",
+      "slug": "communication-cultures"
+    },
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "DigEmY3RrF3XL5cwe",
+      "name": "Q&A (format)",
+      "slug": "q-and-a-format"
+    },
+    {
+      "_id": "8SfkJYYMe75MwjHzN",
+      "name": "Summaries",
+      "slug": "summaries"
+    },
+    {
+      "_id": "Zz3HWyByyKF64Sfns",
+      "name": "The SF Bay Area",
+      "slug": "the-sf-bay-area"
+    }
+  ],
+  "tagRelevance": {
+    "8SfkJYYMe75MwjHzN": 1,
+    "AADZcNS24mmSfPp2w": 1,
+    "DigEmY3RrF3XL5cwe": 1,
+    "Zz3HWyByyKF64Sfns": 1,
+    "pszEEb3ctztv3rozd": 1
+  }
+}

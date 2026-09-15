@@ -1,0 +1,35 @@
+{
+  "_id": "czAfSQR3BYGcYbxiv",
+  "slug": "natural-intelligence-is-overhyped",
+  "title": "Natural Intelligence is Overhyped",
+  "postedAt": "2025-01-21T18:09:16.167Z",
+  "baseScore": 15,
+  "wordCount": 2115,
+  "commentCount": 0,
+  "user": {
+    "displayName": "Collisteru",
+    "slug": "collisteru"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 1,
+    "etDohXtBrXd8WqCtR": 2,
+    "sYm3HiWcfZvrGu3ui": 1
+  }
+}

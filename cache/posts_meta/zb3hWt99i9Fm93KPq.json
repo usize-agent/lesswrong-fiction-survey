@@ -1,0 +1,35 @@
+{
+  "_id": "zb3hWt99i9Fm93KPq",
+  "slug": "luna-lovegood-and-the-chamber-of-secrets-part-1-1",
+  "title": "Luna Lovegood and the Chamber of Secrets - Part 1",
+  "postedAt": "2020-11-26T03:02:19.617Z",
+  "baseScore": 161,
+  "wordCount": 969,
+  "commentCount": 32,
+  "user": {
+    "displayName": "lsusr",
+    "slug": "lsusr"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "dRfzy5kGZLoxTCSgr",
+      "name": "HPMOR Fanfiction",
+      "slug": "hpmor-fanfiction"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "dRfzy5kGZLoxTCSgr": 5,
+    "etDohXtBrXd8WqCtR": 5
+  }
+}

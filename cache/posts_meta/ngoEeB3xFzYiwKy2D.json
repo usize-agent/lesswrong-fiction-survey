@@ -1,0 +1,35 @@
+{
+  "_id": "ngoEeB3xFzYiwKy2D",
+  "slug": "telling-more-rational-stories",
+  "title": "Telling more rational stories",
+  "postedAt": "2020-07-17T17:47:31.831Z",
+  "baseScore": 26,
+  "wordCount": 989,
+  "commentCount": 21,
+  "user": {
+    "displayName": "DirectedEvolution",
+    "slug": "directedevolution"
+  },
+  "tags": [
+    {
+      "_id": "pszEEb3ctztv3rozd",
+      "name": "Narratives (stories)",
+      "slug": "narratives-stories"
+    },
+    {
+      "_id": "izp6eeJJEg9v5zcur",
+      "name": "Community",
+      "slug": "community"
+    },
+    {
+      "_id": "Ng8Gice9KNkncxqcj",
+      "name": "Rationality",
+      "slug": "rationality"
+    }
+  ],
+  "tagRelevance": {
+    "Ng8Gice9KNkncxqcj": 2,
+    "izp6eeJJEg9v5zcur": 2,
+    "pszEEb3ctztv3rozd": 2
+  }
+}

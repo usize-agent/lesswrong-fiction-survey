@@ -1,0 +1,40 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "dGwr3gJJuEvxwptHy",
+        "title": "April Fools - Harry Potter and the Methods of Rationality Joke Chapter",
+        "slug": "april-fools-harry-potter-and-the-methods-of-rationality-joke",
+        "pageUrl": "https://www.lesswrong.com/posts/dGwr3gJJuEvxwptHy/april-fools-harry-potter-and-the-methods-of-rationality-joke",
+        "postedAt": "2012-04-02T02:47:45.987Z",
+        "baseScore": 29,
+        "wordCount": 76,
+        "commentCount": 43,
+        "noIndex": false,
+        "user": {
+          "displayName": "shokwave",
+          "slug": "shokwave"
+        },
+        "tags": [
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "hNFdS3rRiYgqqD8aM",
+            "name": "Humor",
+            "slug": "humor"
+          }
+        ],
+        "tagRelevance": {
+          "etDohXtBrXd8WqCtR": 2,
+          "hNFdS3rRiYgqqD8aM": 2
+        },
+        "contents": {
+          "markdown": "**This was an april fools joke.**\n\nThis is a new thread to discuss <del>Eliezer Yudkowsky\u2019s</del> my chapter of *[Harry Potter and the Methods of Rationality](http://www.freefanfic.net/s/5782108/82/Harry_Potter_and_the_Methods_of_Rationality/)* and anything related to it. This thread is intended for discussing the fake April Fools chapter, which is now published. I suggest refraining from reading comments here **until you [read chapter 82](http://www.freefanfic.net/s/5782108/82/Harry_Potter_and_the_Methods_of_Rationality/).** After you've read chapter 82, I suggest all discussion of this chapter to be kept here, with links to comments in the previous thread."
+        }
+      }
+    }
+  }
+}

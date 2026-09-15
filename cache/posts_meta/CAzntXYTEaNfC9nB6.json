@@ -1,0 +1,41 @@
+{
+  "_id": "CAzntXYTEaNfC9nB6",
+  "slug": "succession",
+  "title": "Succession",
+  "postedAt": "2023-12-20T19:25:03.185Z",
+  "baseScore": 177,
+  "wordCount": 3227,
+  "commentCount": 48,
+  "user": {
+    "displayName": "Richard_Ngo",
+    "slug": "ricraz"
+  },
+  "tags": [
+    {
+      "_id": "etDohXtBrXd8WqCtR",
+      "name": "Fiction",
+      "slug": "fiction"
+    },
+    {
+      "_id": "pGqRLe9bFDX2G2kXY",
+      "name": "Futurism",
+      "slug": "futurism"
+    },
+    {
+      "_id": "sYm3HiWcfZvrGu3ui",
+      "name": "AI",
+      "slug": "ai"
+    },
+    {
+      "_id": "3uE2pXvbcnS9nnZRE",
+      "name": "World Modeling",
+      "slug": "world-modeling"
+    }
+  ],
+  "tagRelevance": {
+    "3uE2pXvbcnS9nnZRE": 2,
+    "etDohXtBrXd8WqCtR": 2,
+    "pGqRLe9bFDX2G2kXY": 2,
+    "sYm3HiWcfZvrGu3ui": 2
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "post": {
+      "result": {
+        "_id": "pfQXC4z6PbL4nxt9z",
+        "title": "The sailor's wife",
+        "slug": "the-sailor-s-wife",
+        "pageUrl": "https://www.lesswrong.com/posts/pfQXC4z6PbL4nxt9z/the-sailor-s-wife",
+        "postedAt": "2021-02-27T00:23:24.353Z",
+        "baseScore": 4,
+        "wordCount": 745,
+        "commentCount": 2,
+        "noIndex": false,
+        "user": {
+          "displayName": "krbouchard",
+          "slug": "krbouchard"
+        },
+        "tags": [
+          {
+            "_id": "nSHiKwWyMZFdZg5qt",
+            "name": "Ethics & Morality",
+            "slug": "ethics-and-morality"
+          },
+          {
+            "_id": "etDohXtBrXd8WqCtR",
+            "name": "Fiction",
+            "slug": "fiction"
+          },
+          {
+            "_id": "tTp6uCjAMJh66vZkc",
+            "name": "Moral uncertainty",
+            "slug": "moral-uncertainty"
+          },
+          {
+            "_id": "F2XfCTxXLQBGjbm8P",
+            "name": "Parables & Fables",
+            "slug": "parables-and-fables"
+          }
+        ],
+        "tagRelevance": {
+          "F2XfCTxXLQBGjbm8P": 1,
+          "etDohXtBrXd8WqCtR": 1,
+          "nSHiKwWyMZFdZg5qt": 1,
+          "tTp6uCjAMJh66vZkc": 1
+        },
+        "contents": {
+          "markdown": "The following text accompanies one section of a moral philosophy I'm writing. It's part of an attempt to find an a priori moral law in the vein of Kant. This story comes after the section exploring the moral plasticity of written law, even though the moral character of a particular action, like murder, is not always the same.  \n  \nI later adapted this parable into a novella exploring the psychology of the sailor's wife on the evening of her crime. Thanks for reading!  \n\u00a0\n\nPARABLE OF THE SAILOR'S WIFE\u00a0  \n  \nA sailing expedition to the arctic seas is trapped in ice. Low on resources, it becomes evident the crew will not survive the winter if things continue as they are. The hell-bent captain refuses to allow his men to reverse course.\u00a0\n\nThat night when the captain is sleeping, two crew members steal away from the ship, dragging a small lifeboat behind them across the ice and making their way south toward home.\n\nThe vastness of the icy expanse presents itself to them upon sunrise, and the men begin to wonder if they have made a mistake. Days pass and the rations they stole begin to dwindle. They had not wanted to take too many cans of food away from the fellow sailors they left behind, but the amount they stole for themselves is proving to have been too modest. By the eighth day the food is gone and the men continue marching in hunger.\n\nThe days are endless nightmares of brutal sunlight bouncing off the blinding ice, the nights a frozen hell of numbing darkness. The twelfth day passes thus, then the thirteenth day.\u00a0\n\nDriven to madness, one man accosts the other in the night, strangling and killing him. Blood spills over the white ice as the man is chopped up and stored in a canvas bag. Then a meal is cooked over a meager fire. For the first time in six days, the man has something to eat.\u00a0\n\nIn the morning he continues the trek, tired and cold but fed. Three days later he reaches the ocean and begins his long, dangerous journey across the waters. Storms rage, waves roll, but he is not capsized. His understanding of the stars leads him toward home.\n\nFinally, how many days later he knows not, land is sighted. He rows to shore and finds out he has reached the country neighboring his homeland. A compassionate governor hears the story of the man who sailed alone from the northern sea and arranges to help him return home.\n\nBack in his native city, the man\u2019s return makes headlines \u2014 but the grim nature of his adventure becomes evident not long after. An inquiry is conducted into the fate of the crew he left behind in the Arctic, and during questioning the man admits to the slaughter of his comrade. Although the public is disturbed, it is generally sympathetic. The man is put on trial, but released days later due to the nature of his crime.\n\nRelieved and grateful, the man finds a new appreciation for life, and his loved ones are happy to have him back. There is, however, at least one person who is unable to accept the judge\u2019s ruling \u2014 the wife of the murdered sailor. Each night she is unable to sleep, knowing that her husband\u2019s murderer has gone unpunished. It absorbs her entirely until she can think of nothing else.\n\nResolving her will, she takes a knife with her to the fishing shop where the sailor now works and, pretending to order, stabs the man when his back is turned, killing him. The sailor\u2019s wife is arrested, and the judge, disturbed by her remorselessness, sentences her to life in prison.\u00a0  \n  \n  \n\\*\\*\\*  \n  \nBoth the sailor's wife and the cannibalistic crew member committed murder, but they are judged very differently by society. This difference is reflected in their sentencing. The wife is sent to prison for life, whereas the crew member was let to walk free. Their action (murder) is met with a different result, suggesting that morality is not linked to actions but to circumstances.\n\nThis parable was inspired by [a real-life story](https://en.wikipedia.org/wiki/R_v_Dudley_and_Stephens) in which a young boy was cannibalized by his crewmates while stranded at sea. The men were found guilty of murder, meaning that they ought to be executed under the law; but the public and the judge sympathized with their special circumstances and their punishment was reduced to six months imprisonment."
+        }
+      }
+    }
+  }
+}
