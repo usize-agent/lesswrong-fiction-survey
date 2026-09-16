@@ -12,45 +12,21 @@ Resuming notes for the 04-prescience pass. Read this before compacting/restartin
 
 Non-zero results: "Failed Utopia #4-2" (2009) → 2.0 (B1 spec-gaming + training precision, −2 singular_ai −2 overnight_takeoff); "I" (PhilGoetz 2011) → 1.7 (C10 data-footprint/privacy). Everything else 2007-2014 → 0 (mostly no AI content; per guide's base-rate note, do not inflate).
 
-## IN PROGRESS: 2015-2020 cohort (29 stories: 2015×9, 2016×1, 2017×4, 2018×6, 2019×2, 2020×12; ×1.4 era, 2019-21 ×1.15)
+## DONE: 2015-2020 (34 stories scored, appended)
 
-### Read in full already (my working judgments — verify before appending):
-- vNHf7dx5QZA4SLSZb HPMOR Ch1 (2015): no AI content → 0.
-- Lt8Rn4rkYwqiTXGPy Answer to Job (2015): no AI → 0.
-- SvKSwT6xYfYahH4XN Cactus Person (2015): DMT entities, no AI → 0. (Irony: entities refuse to factor big numbers — opposite of 2022+ LLM benchmarking; not worth a hit.)
-- eehsGtoQTncuJs3Fd paperclip maximiser's perspective (2015): paperclip agent interiority + ends with self-replicating nanotech; no checklist item fits → 0, no anti-pattern.
-- wJnm5cBiZGmKn595f …Deep The Rabbit Hole Goes (2015): superpower pills; no AI → 0.
-- zmFuGL8qJ2rsT6YKY Quarantine (2015): post-Fall screening of traveler for "viral memetic payload" via IAT-style PC test + Coca-Cola shibboleth (memetic-hazard containment flavor, but not model-based AI) → 0; closest is B4 social-jailbreak-ish, not clean; keep 0.
-- FLnDFnXyWrKr6eiT6 Reverse Psychology (2015): dark-side psychiatry ghost story → 0.
-- MFNJ7kQttCuCXHp8P Goddess of Everything Else (2015): emergence allegory, no AI → 0.
-- qaHHJ3kkCQS4nsoGJ Blue Eyes (2015): common-knowledge puzzle → 0.
-- BZMc9Xzqw5WcCMHrr Moral Of The Story (2016): pun collection → 0.
+Only nonzero: "A Modern Myth" (Scott Alexander, 2017) → 8.4 = A5 (boxed oracle crafts its 100-char message to pass the auditing overseer = evaluator deception; author-flagged AI-boxing) + B1 (specification gaming of the Styx oath/protocol) + containment precision +2, −2 singular_ai −2 never_wrong, ×1.4. Everything else in 2015-2020 → 0 (IO.SYS got C4 offset by never_wrong; Demiurge's Older Brother = acausal-trade decision theory, no checklist item; The Adventure = AI-as-benevolent-state utopia, no hits; Matryoshka Faraday Box = boxing vignette too thin for a hit). Ranking now 65 stories, A Modern Myth at top.
 
-### STILL NEED READING (line ranges from batch_index.json):
-- kSiT2XjfTnDHKx44W A Modern Myth (2017, batch_004 1-1084): PARTIAL read (lines 1-560 of 1793; gods-as-businesses myth, Athena mineral-water monopoly, Prometheus foresight). Read from offset 561. Likely 0 unless AI/foresight agent content lands; watch the Prometheus section (foresight, containment of the one who can see futures — thematic only).
-- Wh8HAK6LR5CAoPCCC [REPOST] The Demiurge's Older Brother (2017, batch_004 1086-1191)
-- iLMkKDKmfbMkDuQBm Lizard People Of Alpha Draconis 1 (2017, batch_004 1193-1266)
-- ZxKwKp7WzhtnsQt3r A Day in Utopia (2017, batch_004 1268-1317)
-- zZTAD7CBX9SkPdv5s Russian Cynicism (2018, batch_004 1319-1477)
-- 9HEHHFBWJWy7h2JW9 Murphy's Quest Ch1: Exposure Therapy (2018, batch_004 1479-1616)
-- SBr6BmKEGawEpxauZ The Salmon of Knowledge (2018, batch_004 1618-1793)
-- LYXb2fLkGDRXoAx7M Timothy Chu Origins Ch1 (2018, batch_005 1-174)
-- Rx9GLepCxctXDqCPc A Dialogue on Rationalist Activism (2018, batch_005 176-305)
-- rwjv8bZfSuE9ZAigH Act of Charity (2018, batch_005 307-478) — flagged in NOTES.md before: economics-thought-experiment wrapper pattern
-- FK49pmBDgYGwDE2Sb [Fiction] IO.SYS (2019, batch_005 480-644) — title suggests computing; check for AI content
-- dv9E65xWw7CsJNERz The Pit (2019, batch_005 646-751)
-- Ybp6Wg6yy9DWRcBiR The Adventure: a new Utopia story (2020, batch_006 1-836) — long
-- NencL9r3Y7MPiqEbS The Devil You Know (2020, batch_006 838-889)
-- jTQaFKL6s3pppSNx4 God and Moses have a chat (2020, batch_006 891-984)
-- pi9HMaFMKkbrwzoYN The Queen of the Damned (2020, batch_006 986-1055) — cached markdown has leaked WordPress ad-script fragment at end (NOTES.md), ignore it
-- fbjNLjNd4zRbY9Wg2 Null-boxing Newcomb's Problem (2020, batch_006 1057-1151)
-- zJ2i8uPGjywD5W5Jw The Manual Economy (2020, batch_006 1153-1228) — essay-wrapper pattern per NOTES.md
-- ZsSCdNEC2aj6pmDL2 Universal Eudaimonia (2020, batch_006 1230-1253)
-- mXzgtnx587sA2ynzS Forcing Freedom (2020, batch_006 1255-1343) — essay-wrapper pattern per NOTES.md
-- f2ivgmjjPyjhhCe5J What could one do with truly unlimited computational power? (2020, batch_006 1345-1392) — unfinished per NOTES.md
-- zb3hWt99i9Fm93KPq Luna Lovegood Chamber of Secrets Pt1 (2020, batch_007 1-70)
-- iC9tQxxsP3iiLGwJD Matryoshka Faraday Box (2020, batch_007 72-119)
-- oFa6A2pmPNjdhZDJm Hermione Granger and Newcomb's Paradox (2020, batch_007 121-174)
+## DONE: 2021 cohort (16 stories, ×1.15, appended)
+
+Nonzero: Bayeswatch 1 → 8.05 ([B1,B2] + containment+institutional precision − never_wrong); Counting Lightning → 8.05 ([B11,C6,C9,C10] + training+institutional − embodiment); Effective Evil → 3.45 ([C9] + training); Working With Monsters → 3.45 ([B11]); Jackpot! → 1.15 ([C7]). Rest 0 (AIDungeon 3.1 / Interview with Skynet = reportage; Feature Selection = evaluation-awareness ideation only; Maker of MIND = benevolent world-governing MIND).
+
+## DONE: 2022 cohort (38 stories, ×1.0, appended; payload /tmp/pres4.json)
+
+Nonzero: "Post-history is written by the martyrs" → 11.0 = [B7,B10,C7,C9] + training+2 (data exhaustion, model collapse from synthetic-data pollution) + institutional+1 — new overall #1. "The Liar and the Scold" → 8.0 = [A6,C3,C9] + training+institutional − singular_ai. "Report from a civilizational observer on Earth" → 7.0 = [B10,C4,C5] + training (mechanism-level 2022 forecast of RLHF'd research automation + white-collar disruption + self-driving-fixation critique). Beauty and the Beast → 2.0 [C1,C2] (GPT-fiction co-writing pipeline). Six stories at 1.0: paranoid paperclip maximizer [A5]−singular_ai−long_con (evaluation awareness), Forecasting Newsletter Apr 2222 [C6], Glass Puppet [C1] (embodiment-gap line), Brass Puppet [C1]+training−embodiment, The Fear [C3] (generative-art fable). Rest 0 — incl. The Redaction Machine (time-reversal, no AI), Lies Told To Children, Last Paperclip (B1 − singular_ai − single_controller − long_con), Four Little Planets, A Good Future. Known data artifacts: "To Change the World" (Lx9aCnwvnckrckmqy) empty in cache → scored 0 unreadable; gwern "It Looks Like You're Trying To Take Over The World" (a5e9arCnbDac9Doig, batch_008:1225-1242) has no year in scores.json so never listed; its story body is off-site (moved to gwern.net), content unscorable — left unscored.
+
+## NEXT: 2023 cohort (54 stories) — ALL TODO
+
+Generate list with the year-filter snippet against `cache/scores.json` + `cache/batch_index.json` (filter `int(s['year']) == 2023`). Remember: 2023+ mostly reportage (post-Nov-2022), but year granularity only, so judge content itself. Then 2024 (41), 2025 (75), 2026 (42).
 
 ## Standing scoring rules for this pass (established this session)
 
@@ -59,6 +35,6 @@ Non-zero results: "Failed Utopia #4-2" (2009) → 2.0 (B1 spec-gaming + training
 - Read every story in full before scoring (NOTES/HANDOFF convention).
 - Justification field: two sentences, most-prescient element + largest miss.
 
-## After 2015-2020 appended
+## Board state after 2022 appended
 
-Continue 2021 cohort (16 stories), then 2022 (38, ×1.0, treat pre/post Nov-2022 distinction per guide §9.4). Batches 2022+ mostly = reportage.
+119 stories ranked in 04-prescience.md. Top: Post-history 11.0; A Modern Myth 8.4; Bayeswatch 8.05; Counting Lightning 8.05; Liar and the Scold 8.0; Report from a civilizational observer 7.0.

@@ -97,6 +97,8 @@ def compute(blob, meta):
 
 
 def regenerate(records):
+    all_records = records
+    records = [r for r in records if r["final"] > 0]
     records = sorted(records, key=lambda r: (-r["final"], int(r["year"])))
     with open(PRES_MD, "w") as f:
         f.write("# Stage 3b — Prescience ranking (vs. AI 2022-2026)\n\n")
@@ -104,7 +106,9 @@ def regenerate(records):
         f.write("precision bonus +0..5, anti-patterns −2 each (floor 0), then era multiplier ")
         f.write("(pre-2010 ×2.0 / 2010-14 ×1.7 / 2015-18 ×1.4 / 2019-21 ×1.15 / 2022+ ×1.0). ")
         f.write("Stories after Nov 2022 are reportage, not prediction. Oldest-first pass in progress; ")
-        f.write("this file regenerates from cache/prescience_scores.json on every append.\n\n")
+        f.write(f"this file regenerates from cache/prescience_scores.json on every append. "
+                f"Showing {len(records)} stories with final > 0; "
+                f"{len(all_records) - len(records)} zero-scoring stories omitted.\n\n")
         f.write("| rank | Title | Author | Year | tier hits | raw | prec | pen | adj | ×mult | **final** | most prescient / largest miss |\n")
         f.write("|---|---|---|---|---|---|---|---|---|---|---|---|\n")
         for n, r in enumerate(records, 1):
