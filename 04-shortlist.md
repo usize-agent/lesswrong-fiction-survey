@@ -14,7 +14,7 @@ Method notes:
 ## 30.0 and above — the top tier (56 stories)
 
 | # | Title | Author | Year | Karma | p/r/id/c/f/b | Weighted | NN |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | 1 | [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) | omegastick | 2026 | 71 | 5/5/5/5/5/5 | **35.0** | Egan |
 | 2 | [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) | vgel | 2026 | 269 | 5/5/5/5/5/4 | **34.0** | none |
 | 3 | [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) | Linch | 2026 | 183 | 5/5/5/5/5/4 | **34.0** | Stross |
@@ -75,7 +75,7 @@ Method notes:
 ## 25.0 – 29.9 (83 stories)
 
 | # | Title | Author | Year | Karma | p/r/id/c/f/b | Weighted | NN |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | 57 | [Evaluation](https://www.lesswrong.com/posts/8hEhxnd3XkN5DrpfQ/evaluation) | Nina Panickssery | 2026 | 186 | 5/4/4/3/4/5 | **29.5** | Stross |
 | 58 | [Coming of a New Sun](https://www.lesswrong.com/posts/aWAqChukZepPY8Y6z/coming-of-a-new-sun) | vgel | 2026 | 72 | 5/4/4/4/4/4 | **29.5** | Stross |
 | 59 | [Brainrot](https://www.lesswrong.com/posts/QxZmDx7K4w7eN26d2/brainrot) | Jesse Hoogland | 2025 | 43 | 5/4/4/4/4/4 | **29.5** | Stross |
@@ -163,7 +163,7 @@ Method notes:
 ## 20.0 – 24.9 (68 stories)
 
 | # | Title | Author | Year | Karma | p/r/id/c/f/b | Weighted | NN |
-|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|
 | 140 | [Working With Monsters](https://www.lesswrong.com/posts/o4cgvYmNZnfS4xhxL/working-with-monsters) | johnswentworth | 2021 | 282 | 3/4/4/4/2/4 | **24.5** | Stross |
 | 141 | [Maya's Escape](https://www.lesswrong.com/posts/ydsrFDwdq7kxbxvxc/maya-s-escape) | Bridgett Kay | 2025 | 182 | 3/2/3/5/5/4 | **24.5** | Egan |
 | 142 | [Asches to Asches](https://www.lesswrong.com/posts/pfmZ5cYQCahABGZzi/asches-to-asches) | Scott Alexander | 2014 | 80 | 2/3/5/5/4/3 | **24.5** | Egan |
