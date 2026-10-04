@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>LessWrong Science Fiction</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%238c3a1e'/%3E%3Ctext x='16' y='23' font-size='21' text-anchor='middle' fill='%23faf8f5'%3E%E2%98%85%3C/text%3E%3C/svg%3E">
 <style>
 :root{
   --bg:#faf8f5; --panel:#fff; --ink:#1a1a1a; --dim:#6b6560; --faint:#a8a29b;
@@ -534,7 +535,7 @@ function writeState(){
   if(picksOnly) p.set("picks", "1");
   if(active.size) p.set("tags", [...active].join(","));
   const s = p.toString();
-  history.replaceState(null, "", s ? "?" + s : location.pathname);
+  history.replaceState(null, "", (s ? "?" + s : location.pathname) + location.hash);
 }
 function readState(){
   const p = new URLSearchParams(location.search);
@@ -544,13 +545,23 @@ function readState(){
   if(p.get("tags")) p.get("tags").split(",").filter(Boolean).forEach(x => active.add(x));
 }
 
+const wanted = location.hash.startsWith("#w-") ? location.hash.slice(1) : null;
 readState();
 syncWeights();
 render();
-if(location.hash.startsWith("#w-")){
-  const el = document.getElementById(location.hash.slice(1));
-  if(el){ el.querySelector(".more")?.click(); el.scrollIntoView({block:"center"}); }
+if(wanted){
+  const el = document.getElementById(wanted);
+  if(el){
+    el.querySelector(".more")?.click();
+    el.scrollIntoView({block:"center"});
+    el.animate([{background:"var(--accent-soft)"},{background:"transparent"}], {duration:1600});
+  }
 }
+addEventListener("hashchange", () => {
+  if(!location.hash.startsWith("#w-")) return;
+  const el = document.getElementById(location.hash.slice(1));
+  if(el && !el.classList.contains("open")) el.querySelector(".more")?.click();
+});
 </script>
 </body>
 </html>
