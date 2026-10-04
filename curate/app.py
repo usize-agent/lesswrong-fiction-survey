@@ -461,19 +461,22 @@ def main():
     global DB
     args = sys.argv[1:]
     port = 8321
+    host = "0.0.0.0"
     while args:
         flag = args.pop(0)
         if flag == "--db":
             DB = args.pop(0)
         elif flag == "--port":
             port = int(args.pop(0))
+        elif flag == "--host":
+            host = str(args.pop(0))
         else:
             sys.exit(f"unknown flag: {flag}")
     if not os.path.exists(DB):
         print(f"no db at {DB}; seeding from {seedmod.DEFAULT_SCORES}…")
         seedmod.seed(DB, seedmod.DEFAULT_SCORES)
-    print(f"curate on http://127.0.0.1:{port}  (db: {DB}, reviewer: {REVIEWER})")
-    ThreadingHTTPServer(("127.0.0.1", port), Handler).serve_forever()
+    print(f"curate on http://{host}:{port}  (db: {DB}, reviewer: {REVIEWER})")
+    ThreadingHTTPServer((host, port), Handler).serve_forever()
 
 
 if __name__ == "__main__":
