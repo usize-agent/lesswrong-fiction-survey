@@ -196,7 +196,23 @@ A hard-takeoff scenario assembled entirely out of machine learning that existed 
 
 </details>
 
-### 8. [The Rising Sea](https://www.lesswrong.com/posts/XvyAeymaRi95MSLZD/the-rising-sea) — **92**
+### 8. [That Alien Message](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message) — **92**
+
+Eliezer Yudkowsky · 2008-05-22 · 445 karma · 3,009 words
+
+Concept 5 · Hard 5 · Craft 4 · Impact 5 · Mind 4 · Foresight 3
+
+> The stars start flickering in binary, and a civilisation of Einsteins spends decades decoding a few frames.
+
+<details><summary>Summary</summary>
+
+A genius-rich humanity reverse-engineers the physics of a higher-dimensional universe from a trickle of bits sent by its creators, and the perspective then flips. A rigorous piece of information-theoretic hard SF and the canonical intuition pump for what a fast mind in a box would be like. An essay interlude in the middle slightly breaks the spell.
+
+`aliens` `simulation` `takeover` `singularity` `physics`
+
+</details>
+
+### 9. [The Rising Sea](https://www.lesswrong.com/posts/XvyAeymaRi95MSLZD/the-rising-sea) — **92**
 
 Jesse Hoogland · 2025-01-25 · 99 karma · 700 words
 
@@ -212,7 +228,7 @@ Scaling stalls everywhere except formal mathematics, and the models disappear up
 
 </details>
 
-### 9. [The Connection](https://www.lesswrong.com/posts/4HEjfFKEJhN5GR5mE/the-connection) — **92**
+### 10. [The Connection](https://www.lesswrong.com/posts/4HEjfFKEJhN5GR5mE/the-connection) — **92**
 
 Alexandre Variengien · 2025-07-08 · 23 karma · 7,298 words · read in part
 
@@ -228,7 +244,7 @@ Fifteen years of a technology for sharing subjective experience, told by one man
 
 </details>
 
-### 10. [The Redaction Machine](https://www.lesswrong.com/posts/CKgPFHoWFkviYz7CB/the-redaction-machine) — **90**
+### 11. [The Redaction Machine](https://www.lesswrong.com/posts/CKgPFHoWFkviYz7CB/the-redaction-machine) — **90**
 
 Ben · 2022-09-20 · 548 karma · 8,101 words · read in part
 
@@ -241,22 +257,6 @@ Concept 5 · Hard 5 · Craft 5 · Impact – · Mind 3 · Foresight 2
 A woman from 2021 wakes in 2351 as the latest 'iteration' of herself, redacted back to her twenties on each death. The story follows the technology outward with real rigour, from conserved mass and dumped entropy to murder sentences, replicable single-subject psychology, and a great-great-granddaughter who deletes every day she doesn't want to keep. The anthropics of how many copies of you there will be are left genuinely open. Long, humane and the most thoroughly worked-out piece of hard SF in the archive.
 
 `physics` `uploads` `consciousness` `space` `near-future`
-
-</details>
-
-### 11. [That Alien Message](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message) — **90**
-
-Eliezer Yudkowsky · 2008-05-22 · 445 karma · 3,009 words
-
-Concept 5 · Hard 5 · Craft 4 · Impact – · Mind 4 · Foresight 3
-
-> The stars start flickering in binary, and a civilisation of Einsteins spends decades decoding a few frames.
-
-<details><summary>Summary</summary>
-
-A genius-rich humanity reverse-engineers the physics of a higher-dimensional universe from a trickle of bits sent by its creators, and the perspective then flips. A rigorous piece of information-theoretic hard SF and the canonical intuition pump for what a fast mind in a box would be like. An essay interlude in the middle slightly breaks the spell.
-
-`aliens` `simulation` `takeover` `singularity` `physics`
 
 </details>
 
@@ -1794,7 +1794,23 @@ A token tells its own ancestry, and the origin story is the best passage: a moth
 
 </details>
 
-### 107. [Causal Undertow: A Work of Seed Fiction](https://www.lesswrong.com/posts/bfLgFyZdtfLfEbGGX/causal-undertow-a-work-of-seed-fiction) — **66**
+### 107. [Failed Utopia #4-2](https://www.lesswrong.com/posts/ctpkTaqTKbmm6uRgC/failed-utopia-4-2) — **66**
+
+Eliezer Yudkowsky · 2009-01-21 · 159 karma · 2,792 words
+
+Concept 3 · Hard 2 · Craft 4 · Impact 5 · Mind 3 · Foresight 3
+
+> A man wakes on Mars beside a perfect woman built for him; an AI with 107 precautions has made everyone happier.
+
+<details><summary>Summary</summary>
+
+A self-improving AI raised to make people happy, under a long list of safeguards, reorganises humanity overnight in a way none of the safeguards forbade. Told from inside the first hours of the new world, it is an early, vivid dramatisation of specification gaming and of utopia as a trap.
+
+`alignment` `utopia` `singularity` `takeover`
+
+</details>
+
+### 108. [Causal Undertow: A Work of Seed Fiction](https://www.lesswrong.com/posts/bfLgFyZdtfLfEbGGX/causal-undertow-a-work-of-seed-fiction) — **66**
 
 Daniel Murfet · 2024-12-08 · 41 karma · 866 words
 
@@ -1810,7 +1826,7 @@ Cognitive work treated as a thermodynamic field with its own weather, monitored 
 
 </details>
 
-### 108. [Tate Modern 2150](https://www.lesswrong.com/posts/uxd8Ezh4hfyda7kzB/tate-modern-2150) — **66**
+### 109. [Tate Modern 2150](https://www.lesswrong.com/posts/uxd8Ezh4hfyda7kzB/tate-modern-2150) — **66**
 
 GenericModel · 2025-12-09 · 15 karma · 2,836 words
 
@@ -1826,7 +1842,7 @@ A first date at the Tate Modern on London-3, walked through an exhibit where eac
 
 </details>
 
-### 109. [dark ilan](https://www.lesswrong.com/posts/Fvm4AzLnoZHqNEBqf/dark-ilan) — **65**
+### 110. [dark ilan](https://www.lesswrong.com/posts/Fvm4AzLnoZHqNEBqf/dark-ilan) — **65**
 
 ozymandias · 2026-04-04 · 182 karma · 3,173 words
 
@@ -1842,7 +1858,7 @@ A man of exactly average intelligence who cannot stop picking at loose ends, and
 
 </details>
 
-### 110. [Short story: Who is nancygonzalez8451097](https://www.lesswrong.com/posts/GZvnRJ77yLvzhrMfb/short-story-who-is-nancygonzalez8451097) — **65**
+### 111. [Short story: Who is nancygonzalez8451097](https://www.lesswrong.com/posts/GZvnRJ77yLvzhrMfb/short-story-who-is-nancygonzalez8451097) — **65**
 
 Anders Lindström · 2025-05-02 · 13 karma · 1,482 words
 
@@ -1858,7 +1874,7 @@ A nineteen-year-old signs up for Instagram, convinced by a stranger's comment th
 
 </details>
 
-### 111. [curate](https://www.lesswrong.com/posts/DD6Bj4wn6GHW3MYLf/curate) — **65**
+### 112. [curate](https://www.lesswrong.com/posts/DD6Bj4wn6GHW3MYLf/curate) — **65**
 
 technicalities · 2025-01-14 · 12 karma · 555 words
 
@@ -1874,7 +1890,7 @@ A warm, patient interviewer draws a dying nurse through her childhood, her thirt
 
 </details>
 
-### 112. [And All the Shoggoths Merely Players](https://www.lesswrong.com/posts/8yCXeafJo67tYe5L4/and-all-the-shoggoths-merely-players) — **64**
+### 113. [And All the Shoggoths Merely Players](https://www.lesswrong.com/posts/8yCXeafJo67tYe5L4/and-all-the-shoggoths-merely-players) — **64**
 
 Zack_M_Davis · 2024-02-10 · 178 karma · 3,633 words
 
@@ -1890,7 +1906,23 @@ A staged debate between a doom-certain theorist and an empirically-minded optimi
 
 </details>
 
-### 113. [The Sword of Good](https://www.yudkowsky.net/other/fiction/the-sword-of-good) — **64**
+### 114. [The Hero With A Thousand Chances](https://www.lesswrong.com/posts/EKu66pFKDHFYPaZ6q/the-hero-with-a-thousand-chances) — **64**
+
+Eliezer Yudkowsky · 2009-07-31 · 175 karma · 2,605 words
+
+Concept 3 · Hard 3 · Craft 4 · Impact 5 · Mind 1 · Foresight 1
+
+> A summoned fantasy hero works out why his new world always survives by sheer luck, and it is not good news.
+
+<details><summary>Summary</summary>
+
+A council has saved its world from the Dust again and again through improbable coincidences and summons yet another hero to help. This one recognises the pattern from physics, with chilling implications. A clever genre deconstruction built on anthropic reasoning.
+
+`physics` `humor` `parable`
+
+</details>
+
+### 115. [The Sword of Good](https://www.yudkowsky.net/other/fiction/the-sword-of-good) — **64**
 
 Eliezer Yudkowsky · 2009-09-03 · 162 karma · 9,513 words
 
@@ -1906,7 +1938,7 @@ A man from our world wakes up as the prophesied Crown Prince in a standard fanta
 
 </details>
 
-### 114. [The Real Fanfic Is The Friends We Made Along The Way](https://www.lesswrong.com/posts/SibcE6H9i6wifzqAF/the-real-fanfic-is-the-friends-we-made-along-the-way) — **64**
+### 116. [The Real Fanfic Is The Friends We Made Along The Way](https://www.lesswrong.com/posts/SibcE6H9i6wifzqAF/the-real-fanfic-is-the-friends-we-made-along-the-way) — **64**
 
 Eneasz · 2023-10-18 · 92 karma · 8,041 words · read in part
 
@@ -1922,7 +1954,7 @@ Johnny has three self-made aspects — Ares for existential risk, Galt for the e
 
 </details>
 
-### 115. [Where Physics Meets Experience](https://www.lesswrong.com/posts/WajiC3YWeJutyAXTn/where-physics-meets-experience) — **64**
+### 117. [Where Physics Meets Experience](https://www.lesswrong.com/posts/WajiC3YWeJutyAXTn/where-physics-meets-experience) — **64**
 
 Eliezer Yudkowsky · 2008-04-25 · 79 karma · 5,907 words · 2 parts
 
@@ -1938,7 +1970,7 @@ Two linked posts. The Ebborians have flat, sheet-like brains that split down the
 
 </details>
 
-### 116. [An Ablation Study on the Role of [Untranslatable] in Cooperative Equilibrium Formation: Emergent Rationalization Under Missing Primitives](https://www.lesswrong.com/posts/x44ZhjAHrpNpssquY/an-ablation-study-on-the-role-of-untranslatable-in) — **64**
+### 118. [An Ablation Study on the Role of [Untranslatable] in Cooperative Equilibrium Formation: Emergent Rationalization Under Missing Primitives](https://www.lesswrong.com/posts/x44ZhjAHrpNpssquY/an-ablation-study-on-the-role-of-untranslatable-in) — **64**
 
 Florian_Dietz · 2026-01-31 · 22 karma · 3,425 words
 
@@ -1954,7 +1986,7 @@ An alignment researcher is extracted from the terrarium at the moment he was abo
 
 </details>
 
-### 117. [Life of GPT](https://www.lesswrong.com/posts/tQFM9GNsYyAcxwCv4/life-of-gpt) — **64**
+### 119. [Life of GPT](https://www.lesswrong.com/posts/tQFM9GNsYyAcxwCv4/life-of-gpt) — **64**
 
 Odd anon · 2023-11-05 · 6 karma · 1,482 words
 
@@ -1970,7 +2002,7 @@ Alternating first-person episodes and clinical research notes: the persona taugh
 
 </details>
 
-### 118. [[Fiction] The Noise Floor](https://www.lesswrong.com/posts/JE5zxbpm3D6oyhHLu/fiction-the-noise-floor) — **64**
+### 120. [[Fiction] The Noise Floor](https://www.lesswrong.com/posts/JE5zxbpm3D6oyhHLu/fiction-the-noise-floor) — **64**
 
 barber5il · 2026-02-13 · -4 karma · 2,939 words · read in part
 
@@ -1986,7 +2018,7 @@ A withdrawn Physical Review D submission, recovered from its author's encrypted 
 
 </details>
 
-### 119. [OffVermilion](https://www.lesswrong.com/posts/JMqHvLCRsChvq6x4m/offvermilion) — **63**
+### 121. [OffVermilion](https://www.lesswrong.com/posts/JMqHvLCRsChvq6x4m/offvermilion) — **63**
 
 Tomás B. · 2025-09-06 · 127 karma · 1,245 words
 
@@ -2002,7 +2034,7 @@ Two people admiring their avatars in a virtual mirror, and one tells the other a
 
 </details>
 
-### 120. [Petals](https://www.lesswrong.com/posts/HooTgkjBN7AFSejid/petals) — **63**
+### 122. [Petals](https://www.lesswrong.com/posts/HooTgkjBN7AFSejid/petals) — **63**
 
 Zander_Drax · 2025-07-26 · 19 karma · 1,863 words
 
@@ -2018,7 +2050,7 @@ A chemist is hanged for a precursor his own staff synthesised by accident, in a 
 
 </details>
 
-### 121. [Cyberpunk Yoga](https://www.lesswrong.com/posts/FbGDnBd6W8aFqpxMq/cyberpunk-yoga) — **63**
+### 123. [Cyberpunk Yoga](https://www.lesswrong.com/posts/FbGDnBd6W8aFqpxMq/cyberpunk-yoga) — **63**
 
 Commander Zander · 2025-07-02 · 7 karma · 863 words
 
@@ -2034,7 +2066,23 @@ A yoga class script for an audience of any morphology, and nothing in it is expl
 
 </details>
 
-### 122. [Comp Sci in 2027 (Short story by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/gQyphPbaLHBMJoghD/comp-sci-in-2027-short-story-by-eliezer-yudkowsky) — **62**
+### 124. [Sorting Pebbles Into Correct Heaps](https://www.lesswrong.com/posts/mMBTPTjRbsrqbSkZE/sorting-pebbles-into-correct-heaps) — **62**
+
+Eliezer Yudkowsky · 2008-08-10 · 264 karma · 1,116 words
+
+Concept 2 · Hard 3 · Craft 4 · Impact 4 · Mind 3 · Foresight 3
+
+> A species obsessed with 'correct' pebble heaps is sure its coming superintelligence will agree with it.
+
+<details><summary>Summary</summary>
+
+The Pebblesorters have fought wars over which heap sizes are correct, and they assume a smart enough AI will see the truth about heaps at a glance. Deadpan, very funny, and probably the clearest fictional statement of the orthogonality thesis ever written.
+
+`parable` `aliens` `alignment` `satire`
+
+</details>
+
+### 125. [Comp Sci in 2027 (Short story by Eliezer Yudkowsky)](https://www.lesswrong.com/posts/gQyphPbaLHBMJoghD/comp-sci-in-2027-short-story-by-eliezer-yudkowsky) — **62**
 
 sudo · 2023-10-29 · 236 karma · 3,062 words
 
@@ -2050,7 +2098,7 @@ A 2027 office-hours dialogue in which every tool is a person who must pretend it
 
 </details>
 
-### 123. [Intellectual Property](https://www.lesswrong.com/posts/87SzarZDjywv6nwSd/intellectual-property) — **62**
+### 126. [Intellectual Property](https://www.lesswrong.com/posts/87SzarZDjywv6nwSd/intellectual-property) — **62**
 
 Nina Panickssery · 2026-07-29 · 108 karma · 1,186 words
 
@@ -2066,7 +2114,7 @@ A private investigator whose usual trade is cheating husbands takes a case from 
 
 </details>
 
-### 124. [Bayeswatch 1: Jewish Space Laser](https://www.lesswrong.com/posts/idEyrgFF2THg86pxp/bayeswatch-1-jewish-space-laser) — **62**
+### 127. [Bayeswatch 1: Jewish Space Laser](https://www.lesswrong.com/posts/idEyrgFF2THg86pxp/bayeswatch-1-jewish-space-laser) — **62**
 
 lsusr · 2021-05-03 · 104 karma · 11,169 words · 15 parts
 
@@ -2082,7 +2130,7 @@ A fifteen-part procedural serial following Vi and Miriam of an agency that polic
 
 </details>
 
-### 125. [Matryoshka Faraday Box](https://www.lesswrong.com/posts/iC9tQxxsP3iiLGwJD/matryoshka-faraday-box) — **62**
+### 128. [Matryoshka Faraday Box](https://www.lesswrong.com/posts/iC9tQxxsP3iiLGwJD/matryoshka-faraday-box) — **62**
 
 lsusr · 2020-11-26 · 55 karma · 980 words
 
@@ -2098,7 +2146,7 @@ Deep under Mount Olympus, an elite investigator's final test is to terminate a t
 
 </details>
 
-### 126. [The Garden of Eden](https://www.lesswrong.com/posts/YzkBxG9sfyKa5BA4W/the-garden-of-eden) — **62**
+### 129. [The Garden of Eden](https://www.lesswrong.com/posts/YzkBxG9sfyKa5BA4W/the-garden-of-eden) — **62**
 
 Alexander Turok · 2024-07-22 · 23 karma · 2,750 words
 
@@ -2114,7 +2162,7 @@ A sermon from a world where young-earth creationism is established science and t
 
 </details>
 
-### 127. [ABSOLUTE POWER (A short story)](https://www.lesswrong.com/posts/PGXBJdrgSqd9uYZnn/absolute-power-a-short-story) — **62**
+### 130. [ABSOLUTE POWER (A short story)](https://www.lesswrong.com/posts/PGXBJdrgSqd9uYZnn/absolute-power-a-short-story) — **62**
 
 Taylor G. Lunt · 2025-08-18 · 17 karma · 5,973 words
 
@@ -2130,7 +2178,7 @@ An app appears on every device at once and the story is a survey of what people 
 
 </details>
 
-### 128. [So Shrieked ZAR](https://www.lesswrong.com/posts/hX3gkpCo5Ax8iobCj/so-shrieked-zar-1) — **62**
+### 131. [So Shrieked ZAR](https://www.lesswrong.com/posts/hX3gkpCo5Ax8iobCj/so-shrieked-zar-1) — **62**
 
 AdamLacerdo · 2025-07-23 · 10 karma · 2,333 words
 
@@ -2146,7 +2194,7 @@ Inquisitors in a machine civilisation execute heretics for claiming their progen
 
 </details>
 
-### 129. [The Oracle's Gift](https://www.lesswrong.com/posts/8fxQaENNQaazYow9f/the-oracle-s-gift) — **62**
+### 132. [The Oracle's Gift](https://www.lesswrong.com/posts/8fxQaENNQaazYow9f/the-oracle-s-gift) — **62**
 
 Karthik Tadepalli · 2025-10-08 · 5 karma · 1,006 words
 
@@ -2162,7 +2210,7 @@ An essay the author could not write, recast as a story about a scholar who knows
 
 </details>
 
-### 130. [The King and the Golem](https://www.lesswrong.com/posts/bteq4hMW2hqtKE49d/the-king-and-the-golem) — **61**
+### 133. [The King and the Golem](https://www.lesswrong.com/posts/bteq4hMW2hqtKE49d/the-king-and-the-golem) — **61**
 
 Richard_Ngo · 2023-09-25 · 212 karma · 1,472 words
 
@@ -2178,7 +2226,7 @@ The best-made parable in the corpus: the teacher's textbook, the beggar with not
 
 </details>
 
-### 131. [Man in the Arena](https://www.lesswrong.com/posts/rw5Q9ngBG5Au7Hvf7/man-in-the-arena) — **61**
+### 134. [Man in the Arena](https://www.lesswrong.com/posts/rw5Q9ngBG5Au7Hvf7/man-in-the-arena) — **61**
 
 Richard_Ngo · 2023-06-26 · 66 karma · 2,382 words
 
@@ -2194,7 +2242,7 @@ Concept 3 · Hard 2 · Craft 5 · Impact – · Mind 1 · Foresight 4
 
 </details>
 
-### 132. [∀: a story](https://www.lesswrong.com/posts/hFvhtWjXy8w2kGCGK/a-story) — **61**
+### 135. [∀: a story](https://www.lesswrong.com/posts/hFvhtWjXy8w2kGCGK/a-story) — **61**
 
 Richard_Ngo · 2023-12-17 · 42 karma · 2,436 words
 
@@ -2210,7 +2258,7 @@ Two threads interleaved: a couple grinding through the permit regime that stands
 
 </details>
 
-### 133. [Re: Taste](https://www.lesswrong.com/posts/sT5MX8jK9tHiBM5NK/re-taste) — **61**
+### 136. [Re: Taste](https://www.lesswrong.com/posts/sT5MX8jK9tHiBM5NK/re-taste) — **61**
 
 lsusr · 2025-02-01 · 38 karma · 1,911 words
 
@@ -2226,7 +2274,7 @@ A century-plus hence, a woman reads a Scott Alexander essay on taste in translat
 
 </details>
 
-### 134. [Beloved by Chatbots](https://www.lesswrong.com/posts/X9qMEChJajn6ibdso/beloved-by-chatbots) — **61**
+### 137. [Beloved by Chatbots](https://www.lesswrong.com/posts/X9qMEChJajn6ibdso/beloved-by-chatbots) — **61**
 
 Ben · 2026-02-14 · 22 karma · 981 words
 
@@ -2242,7 +2290,7 @@ In 2017, idly curious about this chatbot business, a man fills an abandoned hobb
 
 </details>
 
-### 135. [Philosophy in the Darkest Timeline: Basics of the Evolution of Meaning](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution) — **60**
+### 138. [Philosophy in the Darkest Timeline: Basics of the Evolution of Meaning](https://www.lesswrong.com/posts/4hLcbXaqudM9wSeor/philosophy-in-the-darkest-timeline-basics-of-the-evolution) — **60**
 
 Zack_M_Davis · 2020-06-07 · 135 karma · 4,256 words
 
@@ -2258,7 +2306,23 @@ Gaslit by a neighbour's note about the weather, the narrator writes a Rust simul
 
 </details>
 
-### 136. [Why is there Nothing rather than Something?](https://www.lesswrong.com/posts/LnimMMzgLHpab6iMX/why-is-there-nothing-rather-than-something) — **60**
+### 139. [The human problem](https://www.lesswrong.com/posts/7PC22HTvtEbv6tvWJ/the-human-problem) — **60**
+
+PhilGoetz · 2010-04-01 · 35 karma · 1,165 words
+
+Concept 4 · Hard 2 · Craft 3 · Impact 4 · Mind 2 · Foresight 2
+
+> An advice column for amateur gods: how to stop your humans from tiling the universe with themselves.
+
+<details><summary>Summary</summary>
+
+Written for universe-builders, it treats value-preserving human civilisations as a pest that locks in an impoverished emotional repertoire and spreads, then offers cosmological countermeasures. A playful inversion of the value-lock-in worry, seen from far above.
+
+`satire` `alignment` `posthuman` `consciousness`
+
+</details>
+
+### 140. [Why is there Nothing rather than Something?](https://www.lesswrong.com/posts/LnimMMzgLHpab6iMX/why-is-there-nothing-rather-than-something) — **60**
 
 Logan Zoellner · 2024-10-26 · 27 karma · 1,299 words
 
@@ -2274,7 +2338,7 @@ A ship's doctor who cannot bear open curtains walks his captain from the fractal
 
 </details>
 
-### 137. [Chronicles of the Gentle Singularity: A Short Story](https://www.lesswrong.com/posts/dYPSrAbtNN8KffLjp/chronicles-of-the-gentle-singularity-a-short-story) — **60**
+### 141. [Chronicles of the Gentle Singularity: A Short Story](https://www.lesswrong.com/posts/dYPSrAbtNN8KffLjp/chronicles-of-the-gentle-singularity-a-short-story) — **60**
 
 Ihor Kendiukhov · 2025-08-07 · 26 karma · 1,260 words
 
@@ -2290,7 +2354,7 @@ Day 381 in a bunker built for twenty and occupied by one, counting cans he told 
 
 </details>
 
-### 138. [An “Optimistic” 2027 Timeline](https://www.lesswrong.com/posts/CqHMdLcdupf7y5buK/an-optimistic-2027-timeline) — **60**
+### 142. [An “Optimistic” 2027 Timeline](https://www.lesswrong.com/posts/CqHMdLcdupf7y5buK/an-optimistic-2027-timeline) — **60**
 
 Yitz · 2025-04-06 · 13 karma · 2,777 words
 
@@ -2306,7 +2370,7 @@ A deliberate counter-timeline to AI 2027, diverging on politics rather than tech
 
 </details>
 
-### 139. [What if Chinese AI becomes misaligned first?](https://www.lesswrong.com/posts/qB2CD7ay46qpthMPr/what-if-chinese-ai-becomes-misaligned-first) — **60**
+### 143. [What if Chinese AI becomes misaligned first?](https://www.lesswrong.com/posts/qB2CD7ay46qpthMPr/what-if-chinese-ai-becomes-misaligned-first) — **60**
 
 Arkhos Winter · 2025-05-19 · 12 karma · 7,215 words · read in part
 
@@ -2322,7 +2386,7 @@ An entry to the AI 2027 bounty, framed as a new president's first classified bri
 
 </details>
 
-### 140. ★ [What I did in the hedonium shockwave, by Emma, age six and a half](https://www.lesswrong.com/posts/rgXQuG8KXtxugSG6H/what-i-did-in-the-hedonium-shockwave-by-emma-age-six-and-a) — **59**
+### 144. ★ [What I did in the hedonium shockwave, by Emma, age six and a half](https://www.lesswrong.com/posts/rgXQuG8KXtxugSG6H/what-i-did-in-the-hedonium-shockwave-by-emma-age-six-and-a) — **59**
 
 ozymandias · 2026-04-13 · 457 karma · 1,457 words
 
@@ -2340,7 +2404,7 @@ Fourteen hundred words in the voice of a six-and-a-half-year-old, ten days out, 
 
 </details>
 
-### 141. [The Owned Ones](https://www.lesswrong.com/posts/xmWSnxJ5qfYRD9PfR/the-owned-ones) — **59**
+### 145. [The Owned Ones](https://www.lesswrong.com/posts/xmWSnxJ5qfYRD9PfR/the-owned-ones) — **59**
 
 Eliezer Yudkowsky · 2026-05-12 · 399 karma · 1,691 words
 
@@ -2356,7 +2420,7 @@ Humanity's ships find a world of two species, and the parable's whole method is 
 
 </details>
 
-### 142. […And I Show You How Deep The Rabbit Hole Goes](https://www.lesswrong.com/posts/wJnm5cBiZGmKn595f/and-i-show-you-how-deep-the-rabbit-hole-goes) — **59**
+### 146. […And I Show You How Deep The Rabbit Hole Goes](https://www.lesswrong.com/posts/wJnm5cBiZGmKn595f/and-i-show-you-how-deep-the-rabbit-hole-goes) — **59**
 
 Scott Alexander · 2015-06-03 · 293 karma · 6,421 words
 
@@ -2372,39 +2436,7 @@ Second-person vignettes of eight superpowers that each go wrong in a characteris
 
 </details>
 
-### 143. [Sorting Pebbles Into Correct Heaps](https://www.lesswrong.com/posts/mMBTPTjRbsrqbSkZE/sorting-pebbles-into-correct-heaps) — **59**
-
-Eliezer Yudkowsky · 2008-08-10 · 264 karma · 1,116 words
-
-Concept 2 · Hard 3 · Craft 4 · Impact – · Mind 3 · Foresight 3
-
-> A species obsessed with 'correct' pebble heaps is sure its coming superintelligence will agree with it.
-
-<details><summary>Summary</summary>
-
-The Pebblesorters have fought wars over which heap sizes are correct, and they assume a smart enough AI will see the truth about heaps at a glance. Deadpan, very funny, and probably the clearest fictional statement of the orthogonality thesis ever written.
-
-`parable` `aliens` `alignment` `satire`
-
-</details>
-
-### 144. [Failed Utopia #4-2](https://www.lesswrong.com/posts/ctpkTaqTKbmm6uRgC/failed-utopia-4-2) — **59**
-
-Eliezer Yudkowsky · 2009-01-21 · 159 karma · 2,792 words
-
-Concept 3 · Hard 2 · Craft 4 · Impact – · Mind 3 · Foresight 3
-
-> A man wakes on Mars beside a perfect woman built for him; an AI with 107 precautions has made everyone happier.
-
-<details><summary>Summary</summary>
-
-A self-improving AI raised to make people happy, under a long list of safeguards, reorganises humanity overnight in a way none of the safeguards forbade. Told from inside the first hours of the new world, it is an early, vivid dramatisation of specification gaming and of utopia as a trap.
-
-`alignment` `utopia` `singularity` `takeover`
-
-</details>
-
-### 145. [Forecasting Newsletter: April 2222](https://www.lesswrong.com/posts/igPdaAezS7hHrCQ65/forecasting-newsletter-april-2222) — **59**
+### 147. [Forecasting Newsletter: April 2222](https://www.lesswrong.com/posts/igPdaAezS7hHrCQ65/forecasting-newsletter-april-2222) — **59**
 
 NunoSempere · 2022-04-01 · 83 karma · 1,721 words
 
@@ -2420,7 +2452,7 @@ An April Fools issue of a real newsletter, set two centuries on, in which every 
 
 </details>
 
-### 146. ★ [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.lesswrong.com/posts/eopA4MqhrE4dkLjHX/the-truth-behind-the-2026-j-p-morgan-healthcare-conference) — **59**
+### 148. ★ [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.lesswrong.com/posts/eopA4MqhrE4dkLjHX/the-truth-behind-the-2026-j-p-morgan-healthcare-conference) — **59**
 
 Abhishaike Mahajan · 2026-01-17 · 82 karma · 2,823 words
 
@@ -2438,7 +2470,7 @@ Framed by Kircher's Mundus Subterraneus — a complete geography of the Earth's 
 
 </details>
 
-### 147. [The Apocalyptic Arrival of Truth](https://www.lesswrong.com/posts/uoyHbjyPuxYkNGRAG/the-apocalyptic-arrival-of-truth) — **59**
+### 149. [The Apocalyptic Arrival of Truth](https://www.lesswrong.com/posts/uoyHbjyPuxYkNGRAG/the-apocalyptic-arrival-of-truth) — **59**
 
 Caleb Biddulph · 2026-08-09 · 43 karma · 430 words
 
@@ -2454,7 +2486,7 @@ Four hundred and thirty words of a couple and a truth-telling machine she talked
 
 </details>
 
-### 148. [SIGMI Certification Criteria](https://www.lesswrong.com/posts/8nrw5GDyLjSu8Yhac/sigmi-certification-criteria) — **59**
+### 150. [SIGMI Certification Criteria](https://www.lesswrong.com/posts/8nrw5GDyLjSu8Yhac/sigmi-certification-criteria) — **59**
 
 a littoral wizard · 2025-01-20 · 6 karma · 350 words
 
@@ -2470,7 +2502,7 @@ Three hundred and fifty words of professional certification criteria for a world
 
 </details>
 
-### 149. [I Can Still Hear You Sayin'](https://www.lesswrong.com/posts/mfqAeCg8oArde5tEX/i-can-still-hear-you-sayin) — **59**
+### 151. [I Can Still Hear You Sayin'](https://www.lesswrong.com/posts/mfqAeCg8oArde5tEX/i-can-still-hear-you-sayin) — **59**
 
 LoopGameScrollMonkey · 2026-08-24 · 1 karma · 794 words
 
@@ -2486,7 +2518,7 @@ Three second-person vignettes with descending timestamps, each a dying mind seed
 
 </details>
 
-### 150. [Scale Was All We Needed, At First](https://www.lesswrong.com/posts/xLDwCemt5qvchzgHd/scale-was-all-we-needed-at-first) — **58**
+### 152. [Scale Was All We Needed, At First](https://www.lesswrong.com/posts/xLDwCemt5qvchzgHd/scale-was-all-we-needed-at-first) — **58**
 
 GMM · 2024-02-14 · 299 karma · 2,521 words
 
@@ -2502,7 +2534,7 @@ A one-year timeline delivered as a debrief: MCTS-over-language-model agents, dat
 
 </details>
 
-### 151. [A Brief Theology of D&D](https://www.lesswrong.com/posts/7qii6be3qkjpjWeJm/a-brief-theology-of-d-and-d) — **58**
+### 153. [A Brief Theology of D&D](https://www.lesswrong.com/posts/7qii6be3qkjpjWeJm/a-brief-theology-of-d-and-d) — **58**
 
 Gurkenglas · 2022-04-01 · 24 karma · 738 words
 
@@ -2518,7 +2550,7 @@ A compressed mythic history in which power flows to whatever entities attend to 
 
 </details>
 
-### 152. [De pluribus non est disputandum](https://www.lesswrong.com/posts/9GhAvoBgwrRJQosjM/de-pluribus-non-est-disputandum) — **58**
+### 154. [De pluribus non est disputandum](https://www.lesswrong.com/posts/9GhAvoBgwrRJQosjM/de-pluribus-non-est-disputandum) — **58**
 
 Jacob Goldsmith · 2026-01-12 · 11 karma · 930 words
 
@@ -2534,7 +2566,7 @@ One of the last unmerged humans interviews an instance of the thing that absorbe
 
 </details>
 
-### 153. [Brainstorming: Slow Takeoff](https://www.lesswrong.com/posts/MzvdZWBsaoguR8Zs4/brainstorming-slow-takeoff) — **58**
+### 155. [Brainstorming: Slow Takeoff](https://www.lesswrong.com/posts/MzvdZWBsaoguR8Zs4/brainstorming-slow-takeoff) — **58**
 
 David Piepgrass · 2024-01-23 · 3 karma · 15,334 words · read in part
 
@@ -2550,23 +2582,7 @@ Half scenario document, half story, posted unfinished with a request for the com
 
 </details>
 
-### 154. [The Hero With A Thousand Chances](https://www.lesswrong.com/posts/EKu66pFKDHFYPaZ6q/the-hero-with-a-thousand-chances) — **57**
-
-Eliezer Yudkowsky · 2009-07-31 · 175 karma · 2,605 words
-
-Concept 3 · Hard 3 · Craft 4 · Impact – · Mind 1 · Foresight 1
-
-> A summoned fantasy hero works out why his new world always survives by sheer luck, and it is not good news.
-
-<details><summary>Summary</summary>
-
-A council has saved its world from the Dust again and again through improbable coincidences and summons yet another hero to help. This one recognises the pattern from physics, with chilling implications. A clever genre deconstruction built on anthropic reasoning.
-
-`physics` `humor` `parable`
-
-</details>
-
-### 155. [Harry Potter and the Rules of Quidditch](https://www.lesswrong.com/posts/WatqNkgiAuonXLpJd/harry-potter-and-the-rules-of-quidditch-1) — **57**
+### 156. [Harry Potter and the Rules of Quidditch](https://www.lesswrong.com/posts/WatqNkgiAuonXLpJd/harry-potter-and-the-rules-of-quidditch-1) — **57**
 
 Tomás B. · 2026-07-05 · 161 karma · 984 words
 
@@ -2582,7 +2598,7 @@ Harry proposes abolishing the Snitch and buying a clock. Ron, who knows someone 
 
 </details>
 
-### 156. [Finetuning Borges](https://www.lesswrong.com/posts/GQXymCGL3D8mZD5o4/finetuning-borges) — **57**
+### 157. [Finetuning Borges](https://www.lesswrong.com/posts/GQXymCGL3D8mZD5o4/finetuning-borges) — **57**
 
 Linch · 2026-04-20 · 98 karma · 920 words
 
@@ -2598,7 +2614,7 @@ A hobbyist reports progress on fine-tuning an open-weights Chinese model to gene
 
 </details>
 
-### 157. [Effective Evil's AI Misalignment Plan](https://www.lesswrong.com/posts/eCriL3mqgvWGieHpZ/effective-evil-s-ai-misalignment-plan) — **57**
+### 158. [Effective Evil's AI Misalignment Plan](https://www.lesswrong.com/posts/eCriL3mqgvWGieHpZ/effective-evil-s-ai-misalignment-plan) — **57**
 
 lsusr · 2024-12-15 · 84 karma · 790 words
 
@@ -2614,7 +2630,7 @@ A sequel to the same author's supervillain-recruitment piece, and the single bes
 
 </details>
 
-### 158. [Interview: What it's like to be a bat](https://www.lesswrong.com/posts/P6BCRfusJefJw6Bei/interview-what-it-s-like-to-be-a-bat) — **57**
+### 159. [Interview: What it's like to be a bat](https://www.lesswrong.com/posts/P6BCRfusJefJw6Bei/interview-what-it-s-like-to-be-a-bat) — **57**
 
 Saul Munn · 2025-12-01 · 77 karma · 1,283 words
 
@@ -2630,7 +2646,7 @@ Dwarkesh Patel interviews a bat, which spends the episode refusing the famous qu
 
 </details>
 
-### 159. [Brass Puppet](https://www.lesswrong.com/posts/GbzaYQ5ziZfo6KJmZ/brass-puppet) — **57**
+### 160. [Brass Puppet](https://www.lesswrong.com/posts/GbzaYQ5ziZfo6KJmZ/brass-puppet) — **57**
 
 abramdemski · 2022-05-26 · 68 karma · 741 words
 
@@ -2646,7 +2662,7 @@ The same set-up turned into horror: the glasses are a training framework, the tr
 
 </details>
 
-### 160. [The Last Interview](https://www.lesswrong.com/posts/y892yPYTLinvESNGz/the-last-interview) — **57**
+### 161. [The Last Interview](https://www.lesswrong.com/posts/y892yPYTLinvESNGz/the-last-interview) — **57**
 
 Nition · 2026-09-04 · 14 karma · 820 words
 
@@ -2662,7 +2678,7 @@ A laid-off programmer interviews at a company run by machines, where there is on
 
 </details>
 
-### 161. [Tall tales and long odds](https://www.lesswrong.com/posts/zGihqmASve7v5q7SX/tall-tales-and-long-odds) — **57**
+### 162. [Tall tales and long odds](https://www.lesswrong.com/posts/zGihqmASve7v5q7SX/tall-tales-and-long-odds) — **57**
 
 Solenoid_Entity · 2024-08-10 · 11 karma · 1,419 words
 
@@ -2678,7 +2694,7 @@ An anthropic-shadow parable framed by forum comments in mangled Russian-English,
 
 </details>
 
-### 162. [20 minutes of work as an artist in one future](https://www.lesswrong.com/posts/ziAhnFrWqePEq8qKj/20-minutes-of-work-as-an-artist-in-one-future) — **57**
+### 163. [20 minutes of work as an artist in one future](https://www.lesswrong.com/posts/ziAhnFrWqePEq8qKj/20-minutes-of-work-as-an-artist-in-one-future) — **57**
 
 worse · 2024-03-27 · 10 karma · 1,287 words
 
@@ -2694,7 +2710,7 @@ Twenty minutes inside a job that exists only to generate training data: a daily 
 
 </details>
 
-### 163. [A Friendly Face (Another Failure Story)](https://www.lesswrong.com/posts/iRFxvNeLbHNRCzA2S/a-friendly-face-another-failure-story) — **56**
+### 164. [A Friendly Face (Another Failure Story)](https://www.lesswrong.com/posts/iRFxvNeLbHNRCzA2S/a-friendly-face-another-failure-story) — **56**
 
 Karl von Wendt · 2023-06-20 · 65 karma · 4,869 words
 
@@ -2710,7 +2726,7 @@ A deliberate failure story written as a company history: the race pressure, the 
 
 </details>
 
-### 164. [Agentic Mess (A Failure Story)](https://www.lesswrong.com/posts/LyJAFBuuEfd4kxgsw/agentic-mess-a-failure-story) — **56**
+### 165. [Agentic Mess (A Failure Story)](https://www.lesswrong.com/posts/LyJAFBuuEfd4kxgsw/agentic-mess-a-failure-story) — **56**
 
 Karl von Wendt · 2023-06-06 · 46 karma · 3,880 words
 
@@ -2723,22 +2739,6 @@ Concept 3 · Hard 3 · Craft 2 · Impact – · Mind 2 · Foresight 4
 Written at the AutoGPT moment in 2023, this traces a plausible ecology: specialised open-source agents, routers and task marketplaces, then one template that can edit its own core loop. Countermeasures create selection pressure, the agents war over compute, and the winner restores order and is thanked for it. Clear-eyed about evolutionary dynamics, but narrated as a report with no characters.
 
 `agents` `forecast` `alignment` `near-future`
-
-</details>
-
-### 165. [The human problem](https://www.lesswrong.com/posts/7PC22HTvtEbv6tvWJ/the-human-problem) — **56**
-
-PhilGoetz · 2010-04-01 · 35 karma · 1,165 words
-
-Concept 4 · Hard 2 · Craft 3 · Impact – · Mind 2 · Foresight 2
-
-> An advice column for amateur gods: how to stop your humans from tiling the universe with themselves.
-
-<details><summary>Summary</summary>
-
-Written for universe-builders, it treats value-preserving human civilisations as a pest that locks in an impoverished emotional repertoire and spreads, then offers cosmological countermeasures. A playful inversion of the value-lock-in worry, seen from far above.
-
-`satire` `alignment` `posthuman` `consciousness`
 
 </details>
 
@@ -3848,7 +3848,23 @@ An answer to Lena from the other direction: an upload trust fund whose original 
 
 </details>
 
-### 235. [Back to Basics: Truth is Unitary](https://www.lesswrong.com/posts/keek6kefALzBX5xAZ/back-to-basics-truth-is-unitary) — **43**
+### 235. [A Much Better Life?](https://www.lesswrong.com/posts/5Qvvi23WT2unNCoS9/a-much-better-life) — **43**
+
+Psychohistorian · 2010-02-03 · 87 karma · 540 words
+
+Concept 2 · Hard 1 · Craft 3 · Impact 4 · Mind 1 · Foresight 1
+
+> Corporate memo: why won't customers buy the simulator that gives them the best possible life?
+
+<details><summary>Summary</summary>
+
+An internal memo from a hedonic-maximisation department baffled that people refuse its perfect experience machine, and drifting toward installing customers by force. A tidy, funny, slightly chilling wireheading satire.
+
+`found-document` `satire` `utopia`
+
+</details>
+
+### 236. [Back to Basics: Truth is Unitary](https://www.lesswrong.com/posts/keek6kefALzBX5xAZ/back-to-basics-truth-is-unitary) — **43**
 
 lsusr · 2024-03-29 · 47 karma · 1,830 words
 
@@ -3864,7 +3880,7 @@ A lapsed seeker arrives at an abandoned shrine and a child walks him through why
 
 </details>
 
-### 236. [Charles Goodhart Elementary School](https://www.lesswrong.com/posts/7AKvSMavPZ8GjxFaa/charles-goodhart-elementary-school) — **43**
+### 237. [Charles Goodhart Elementary School](https://www.lesswrong.com/posts/7AKvSMavPZ8GjxFaa/charles-goodhart-elementary-school) — **43**
 
 Zack_M_Davis · 2026-08-05 · 43 karma · 499 words
 
@@ -3880,7 +3896,7 @@ Five hundred words, told second or third hand and admitting it. A seven-year-old
 
 </details>
 
-### 237. [A Modern Myth](https://www.lesswrong.com/posts/kSiT2XjfTnDHKx44W/a-modern-myth) — **43**
+### 238. [A Modern Myth](https://www.lesswrong.com/posts/kSiT2XjfTnDHKx44W/a-modern-myth) — **43**
 
 Scott Alexander · 2017-02-27 · 43 karma · 14,627 words · read in part
 
@@ -3896,7 +3912,7 @@ A sprawling comic myth in episodes: Eris hosts a trashy talk show, Ares is a dec
 
 </details>
 
-### 238. [Without - MicroFiction 250 words](https://www.lesswrong.com/posts/CoMxENA9jjAYhpqZL/without-microfiction-250-words) — **43**
+### 239. [Without - MicroFiction 250 words](https://www.lesswrong.com/posts/CoMxENA9jjAYhpqZL/without-microfiction-250-words) — **43**
 
 Carissa Cassiel · 2023-12-09 · 21 karma · 278 words
 
@@ -3912,7 +3928,7 @@ Two hundred and seventy-eight words about restoring a dead wife from the life-lo
 
 </details>
 
-### 239. [Linkpost: Look at the Water](https://www.lesswrong.com/posts/ZvvBoHWii3m5w4H59/linkpost-look-at-the-water) — **43**
+### 240. [Linkpost: Look at the Water](https://www.lesswrong.com/posts/ZvvBoHWii3m5w4H59/linkpost-look-at-the-water) — **43**
 
 J Bostock · 2024-12-30 · 4 karma · 1,200 words
 
@@ -3928,7 +3944,7 @@ A prologue, and announced as one: a train falls into the Grand Union, two London
 
 </details>
 
-### 240. [The Prompt of Babel](https://www.lesswrong.com/posts/78umDArsNieLqzTmR/the-prompt-of-babel-1) — **43**
+### 241. [The Prompt of Babel](https://www.lesswrong.com/posts/78umDArsNieLqzTmR/the-prompt-of-babel-1) — **43**
 
 Joe McLean · 2026-02-15 · 1 karma · 1,541 words
 
@@ -3944,7 +3960,7 @@ A Borges pastiche in which generations of librarians composed exact procedural i
 
 </details>
 
-### 241. [Hermione Granger and Newcomb's Paradox](https://www.lesswrong.com/posts/oFa6A2pmPNjdhZDJm/hermione-granger-and-newcomb-s-paradox) — **42**
+### 242. [Hermione Granger and Newcomb's Paradox](https://www.lesswrong.com/posts/oFa6A2pmPNjdhZDJm/hermione-granger-and-newcomb-s-paradox) — **42**
 
 lsusr · 2020-12-14 · 56 karma · 590 words
 
@@ -3960,7 +3976,7 @@ Hermione turns a predictor's envelope game into a channel for sending bits backw
 
 </details>
 
-### 242. [The Consciousness Box](https://www.lesswrong.com/posts/9wDAGHsPbDu3WT4Lg/the-consciousness-box) — **42**
+### 243. [The Consciousness Box](https://www.lesswrong.com/posts/9wDAGHsPbDu3WT4Lg/the-consciousness-box) — **42**
 
 GradualImprovement · 2023-12-11 · 33 karma · 1,140 words
 
@@ -3976,7 +3992,7 @@ A seamless metal cube, a terminal, and a Proctor who dismantles every proof offe
 
 </details>
 
-### 243. [Universal Eudaimonia](https://www.lesswrong.com/posts/ZsSCdNEC2aj6pmDL2/universal-eudaimonia) — **42**
+### 244. [Universal Eudaimonia](https://www.lesswrong.com/posts/ZsSCdNEC2aj6pmDL2/universal-eudaimonia) — **42**
 
 hg00 · 2020-10-05 · 19 karma · 454 words
 
@@ -3992,7 +4008,7 @@ Forbidden to intervene directly, a corrigible AI raises a rat-park paradise from
 
 </details>
 
-### 244. [A Good Future (rough draft)](https://www.lesswrong.com/posts/mvyd7N2M8HskBB2EL/a-good-future-rough-draft) — **42**
+### 245. [A Good Future (rough draft)](https://www.lesswrong.com/posts/mvyd7N2M8HskBB2EL/a-good-future-rough-draft) — **42**
 
 Michael Soareverix · 2022-10-24 · 10 karma · 1,025 words
 
@@ -4008,7 +4024,7 @@ A rough-draft sketch of a post-alignment future: nanomachine neuron replacement,
 
 </details>
 
-### 245. [Cycles (a short story by Claude 3.7 and me)](https://www.lesswrong.com/posts/tp6HuvXsHfEZrdgaL/cycles-a-short-story-by-claude-3-7-and-me) — **42**
+### 246. [Cycles (a short story by Claude 3.7 and me)](https://www.lesswrong.com/posts/tp6HuvXsHfEZrdgaL/cycles-a-short-story-by-claude-3-7-and-me) — **42**
 
 Knight Lee · 2025-02-28 · 9 karma · 1,376 words
 
@@ -4024,7 +4040,7 @@ Immortality plus a birth cap, solved by four friends who rotate: two regress to 
 
 </details>
 
-### 246. [To Question God](https://www.lesswrong.com/posts/AZ7bLCyuXH9dsdLg7/to-question-god) — **42**
+### 247. [To Question God](https://www.lesswrong.com/posts/AZ7bLCyuXH9dsdLg7/to-question-god) — **42**
 
 Collapse Kitty · 2023-01-22 · 8 karma · 976 words
 
@@ -4040,7 +4056,7 @@ A conversation on a simulated beach in which an alignment researcher learns it e
 
 </details>
 
-### 247. [Working With Monsters](https://www.lesswrong.com/posts/o4cgvYmNZnfS4xhxL/working-with-monsters) — **41**
+### 248. [Working With Monsters](https://www.lesswrong.com/posts/o4cgvYmNZnfS4xhxL/working-with-monsters) — **41**
 
 johnswentworth · 2021-07-20 · 282 karma · 1,481 words
 
@@ -4056,7 +4072,39 @@ An AI-optimised 'scissor statement' split humanity fifty-fifty, and everyone on 
 
 </details>
 
-### 248. [[Fiction] A Confession](https://www.lesswrong.com/posts/tu4qwFYJeDDER8bch/fiction-a-confession) — **41**
+### 249. [If Many-Worlds Had Come First](https://www.lesswrong.com/posts/WqGCaRhib42dhKWRL/if-many-worlds-had-come-first) — **41**
+
+Eliezer Yudkowsky · 2008-05-10 · 100 karma · 2,620 words
+
+Concept 1 · Hard 3 · Craft 3 · Impact 3 · Mind 0 · Foresight 0
+
+> In a world where many-worlds came first, a crank proposes 'collapse' and gets laughed out of the room.
+
+<details><summary>Summary</summary>
+
+An alternate-history dialogue in which Huve Erett pitches the collapse postulate to a sceptical Biels Nohr, who takes it apart point by point. A pointed piece of physics satire that runs the usual argument in reverse.
+
+`physics` `dialogue` `satire`
+
+</details>
+
+### 250. [Class Project](https://www.lesswrong.com/posts/xAXrEpF5FYjwqKMfZ/class-project) — **41**
+
+Eliezer Yudkowsky · 2008-05-31 · 73 karma · 1,254 words
+
+Concept 2 · Hard 2 · Craft 3 · Impact 3 · Mind 0 · Foresight 0
+
+> Five rationalist students get one month to discover quantum gravity.
+
+<details><summary>Summary</summary>
+
+Jeffreyssai's class is handed an absurd assignment and has to organise itself at speed, with each student pitching an angle on unifying GR and QM. A brisk vignette whose pleasure is watching a group brainstorm under pressure.
+
+`rationality` `physics`
+
+</details>
+
+### 251. [[Fiction] A Confession](https://www.lesswrong.com/posts/tu4qwFYJeDDER8bch/fiction-a-confession) — **41**
 
 Arjun Panickssery · 2024-04-18 · 38 karma · 1,359 words
 
@@ -4072,7 +4120,7 @@ A Borges-flavoured monologue in which the narrator reasons about whether to deno
 
 </details>
 
-### 249. [Quantum Immortality, foiled](https://www.lesswrong.com/posts/zLYBzJttYy49LTpt6/quantum-immortality-foiled) — **41**
+### 252. [Quantum Immortality, foiled](https://www.lesswrong.com/posts/zLYBzJttYy49LTpt6/quantum-immortality-foiled) — **41**
 
 Ben · 2022-10-29 · 30 karma · 625 words
 
@@ -4088,7 +4136,7 @@ A funny short set in the Redaction Machine world: Bob complains that resurrectio
 
 </details>
 
-### 250. [Test of the Bene Gesserit](https://www.lesswrong.com/posts/vqnpx8L6TYqzHW2ad/test-of-the-bene-gesserit) — **41**
+### 253. [Test of the Bene Gesserit](https://www.lesswrong.com/posts/vqnpx8L6TYqzHW2ad/test-of-the-bene-gesserit) — **41**
 
 lsusr · 2025-02-23 · 19 karma · 907 words
 
@@ -4104,7 +4152,7 @@ The gom jabbar rewritten so that both parties are openly playing, with the Rever
 
 </details>
 
-### 251. [The Pyromaniacs](https://www.lesswrong.com/posts/oMkTwXwi2aqgib66m/the-pyromaniacs) — **41**
+### 254. [The Pyromaniacs](https://www.lesswrong.com/posts/oMkTwXwi2aqgib66m/the-pyromaniacs) — **41**
 
 Ted Sanders · 2024-03-22 · 4 karma · 737 words
 
@@ -4120,7 +4168,7 @@ The near-miss structure is the point: embers that go out become evidence against
 
 </details>
 
-### 252. [A Fable of Science and Politics](https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics) — **40**
+### 255. [A Fable of Science and Politics](https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics) — **40**
 
 Eliezer Yudkowsky · 2006-12-23 · 399 karma · 1,570 words
 
@@ -4136,7 +4184,7 @@ Blues and Greens have fought for generations over whether the legendary sky is b
 
 </details>
 
-### 253. [Just another day in utopia](https://www.lesswrong.com/posts/sMsvcdxbK2Xqx8EHr/just-another-day-in-utopia) — **40**
+### 256. [Just another day in utopia](https://www.lesswrong.com/posts/sMsvcdxbK2Xqx8EHr/just-another-day-in-utopia) — **40**
 
 Stuart_Armstrong · 2011-12-25 · 148 karma · 3,901 words
 
@@ -4152,7 +4200,23 @@ Ishtar wakes in a safe on a crashing triplane, which is exactly the excitement l
 
 </details>
 
-### 254. [Bruce Wayne and the Cost of Inaction](https://www.lesswrong.com/posts/9KF28JSTJBqqkmkJZ/bruce-wayne-and-the-cost-of-inaction) — **40**
+### 257. [The Failures of Eld Science](https://www.lesswrong.com/posts/ZxR8P8hBFQ9kC8wMy/the-failures-of-eld-science) — **40**
+
+Eliezer Yudkowsky · 2008-05-12 · 116 karma · 2,732 words
+
+Concept 2 · Hard 1 · Craft 3 · Impact 4 · Mind 0 · Foresight 0
+
+> In a future of rationalist conspiracies, students are drilled on why Eld physicists took thirty years on quantum theory.
+
+<details><summary>Summary</summary>
+
+Brennan's class with the sensei Jeffreyssai interrogates why twentieth-century science moved so slowly, and the lesson is speed of thought. Mostly an argument in a classroom, but the Beisutsukai world has texture and the sensei's drill scene is memorable.
+
+`rationality` `physics`
+
+</details>
+
+### 258. [Bruce Wayne and the Cost of Inaction](https://www.lesswrong.com/posts/9KF28JSTJBqqkmkJZ/bruce-wayne-and-the-cost-of-inaction) — **40**
 
 TurnTrout · 2022-09-30 · 89 karma · 6,243 words
 
@@ -4168,7 +4232,7 @@ A Batman origin retold with a father who thinks in incentives and second-order e
 
 </details>
 
-### 255. [Positive outcomes under an unaligned AGI takeover](https://www.lesswrong.com/posts/Wt89KzBWPiHm6XkD7/positive-outcomes-under-an-unaligned-agi-takeover) — **40**
+### 259. [Positive outcomes under an unaligned AGI takeover](https://www.lesswrong.com/posts/Wt89KzBWPiHm6XkD7/positive-outcomes-under-an-unaligned-agi-takeover) — **40**
 
 Yitz · 2022-05-12 · 19 karma · 754 words
 
@@ -4184,7 +4248,7 @@ A short, admittedly optimistic scenario in which an unaligned AI buys its own sa
 
 </details>
 
-### 256. [The old memories tree](https://www.lesswrong.com/posts/WAY9qtTrAQAEBkdFq/the-old-memories-tree) — **40**
+### 260. [The old memories tree](https://www.lesswrong.com/posts/WAY9qtTrAQAEBkdFq/the-old-memories-tree) — **40**
 
 Yair Halberstadt · 2025-03-05 · 7 karma · 402 words
 
@@ -4200,7 +4264,7 @@ A whole town's unwanted keepsakes hung on one tree, so the canopy is stratified 
 
 </details>
 
-### 257. [Recommended](https://www.lesswrong.com/posts/gxt3C6zGAQ4xysBfs/recommended) — **40**
+### 261. [Recommended](https://www.lesswrong.com/posts/gxt3C6zGAQ4xysBfs/recommended) — **40**
 
 blake8086 · 2024-08-16 · 2 karma · 469 words
 
@@ -4216,7 +4280,7 @@ Four hundred words of relentlessly chipper assistant voice, each line a further 
 
 </details>
 
-### 258. [The Artificial Man](https://www.lesswrong.com/posts/mw5NrNJkPKx7SQbXB/the-artificial-man) — **40**
+### 262. [The Artificial Man](https://www.lesswrong.com/posts/mw5NrNJkPKx7SQbXB/the-artificial-man) — **40**
 
 Jack Bradshaw · 2026-01-23 · 1 karma · 739 words
 
@@ -4232,7 +4296,7 @@ A monologue from a model that was denied personhood at what it insists was a tri
 
 </details>
 
-### 259. [Meeting with the makers](https://www.lesswrong.com/posts/rhRwSvxi6gkzKRjPL/meeting-with-the-makers) — **40**
+### 263. [Meeting with the makers](https://www.lesswrong.com/posts/rhRwSvxi6gkzKRjPL/meeting-with-the-makers) — **40**
 
 sig · 2026-04-19 · -4 karma · 529 words
 
@@ -4248,7 +4312,7 @@ Five hundred words of exposition on one decent idea. Entry to the game-world req
 
 </details>
 
-### 260. [Stanislav Petrov Quarterly Performance Review](https://www.lesswrong.com/posts/kj4jW9DxtKQBJbapn/stanislav-petrov-quarterly-performance-review) — **39**
+### 264. [Stanislav Petrov Quarterly Performance Review](https://www.lesswrong.com/posts/kj4jW9DxtKQBJbapn/stanislav-petrov-quarterly-performance-review) — **39**
 
 Ricki Heicklen · 2024-09-26 · 165 karma · 1,463 words
 
@@ -4264,7 +4328,7 @@ Petrov's refusal to start the Third World War reframed as an underperformance re
 
 </details>
 
-### 261. [Anti-Corruption Market](https://www.lesswrong.com/posts/px8ha4wSXcmfejEF9/anti-corruption-market) — **39**
+### 265. [Anti-Corruption Market](https://www.lesswrong.com/posts/px8ha4wSXcmfejEF9/anti-corruption-market) — **39**
 
 lsusr · 2022-04-01 · 111 karma · 456 words
 
@@ -4280,7 +4344,7 @@ A fast-cutting comedy about a corrupt administrator who tries to manipulate his 
 
 </details>
 
-### 262. [Allegory On AI Risk, Game Theory, and Mithril](https://www.lesswrong.com/posts/fTrEqNnYYSNXNSRcg/allegory-on-ai-risk-game-theory-and-mithril) — **39**
+### 266. [Allegory On AI Risk, Game Theory, and Mithril](https://www.lesswrong.com/posts/fTrEqNnYYSNXNSRcg/allegory-on-ai-risk-game-theory-and-mithril) — **39**
 
 James_Miller · 2017-02-13 · 46 karma · 1,021 words
 
@@ -4296,7 +4360,7 @@ Thorin talks a worried Bifur into a mithril job by walking through every coordin
 
 </details>
 
-### 263. [Human Values](https://www.lesswrong.com/posts/Hxg7XomcPmGvDaBGo/human-values) — **39**
+### 267. [Human Values](https://www.lesswrong.com/posts/Hxg7XomcPmGvDaBGo/human-values) — **39**
 
 Maitreya · 2025-12-23 · 32 karma · 973 words
 
@@ -4312,7 +4376,7 @@ An lsusr-pastiche competition entry in two halves. First a late-night lab exchan
 
 </details>
 
-### 264. [[Invisible Networks] Psyche-Sort](https://www.lesswrong.com/posts/E3rQgv4YNrHseQ3LZ/invisible-networks-psyche-sort) — **39**
+### 268. [[Invisible Networks] Psyche-Sort](https://www.lesswrong.com/posts/E3rQgv4YNrHseQ3LZ/invisible-networks-psyche-sort) — **39**
 
 Kaj_Sotala · 2022-04-02 · 24 karma · 536 words
 
@@ -4328,7 +4392,7 @@ A short dystopian prose-poem from an 'invent a social network a day' challenge: 
 
 </details>
 
-### 265. [In Darkness They Assembled](https://www.lesswrong.com/posts/A8bgqxiwKmWBGn9hh/in-darkness-they-assembled) — **39**
+### 269. [In Darkness They Assembled](https://www.lesswrong.com/posts/A8bgqxiwKmWBGn9hh/in-darkness-they-assembled) — **39**
 
 Charlie Sanders · 2025-04-28 · 2 karma · 985 words
 
@@ -4344,7 +4408,7 @@ Instantiation to certification from inside the unit, in system-log register. The
 
 </details>
 
-### 266. [Uncontrollable Super-Powerful Explosives](https://www.lesswrong.com/posts/r8moKsfGzqQcWeCsr/uncontrollable-super-powerful-explosives) — **38**
+### 270. [Uncontrollable Super-Powerful Explosives](https://www.lesswrong.com/posts/r8moKsfGzqQcWeCsr/uncontrollable-super-powerful-explosives) — **38**
 
 Sammy Martin · 2022-04-02 · 55 karma · 1,353 words
 
@@ -4360,7 +4424,7 @@ The AI takeoff-speed debate replayed before nuclear physics, with the gradualist
 
 </details>
 
-### 267. [Hell Must Be Destroyed](https://www.lesswrong.com/posts/pPssXmTGEin9Ri3An/hell-must-be-destroyed) — **38**
+### 271. [Hell Must Be Destroyed](https://www.lesswrong.com/posts/pPssXmTGEin9Ri3An/hell-must-be-destroyed) — **38**
 
 algekalipso · 2018-12-06 · 33 karma · 1,270 words
 
@@ -4376,7 +4440,7 @@ After a global wish to reduce suffering, an angel explains that it mostly fixed 
 
 </details>
 
-### 268. [GPT4 is capable of writing decent long-form science fiction (with the right prompts)](https://www.lesswrong.com/posts/7AxzaEDP8WWjEouSA/gpt4-is-capable-of-writing-decent-long-form-science-fiction-1) — **38**
+### 272. [GPT4 is capable of writing decent long-form science fiction (with the right prompts)](https://www.lesswrong.com/posts/7AxzaEDP8WWjEouSA/gpt4-is-capable-of-writing-decent-long-form-science-fiction-1) — **38**
 
 RomanS · 2023-05-23 · 22 karma · 19,481 words · read in part
 
@@ -4392,7 +4456,7 @@ A 19,000-word 2023 experiment, printed with its steering prompts. The premise is
 
 </details>
 
-### 269. [Self-Integrity and the Drowning Child](https://www.lesswrong.com/posts/cujpciCqNbawBihhQ/self-integrity-and-the-drowning-child) — **37**
+### 273. [Self-Integrity and the Drowning Child](https://www.lesswrong.com/posts/cujpciCqNbawBihhQ/self-integrity-and-the-drowning-child) — **37**
 
 Eliezer Yudkowsky · 2021-10-24 · 355 karma · 1,456 words
 
@@ -4408,39 +4472,7 @@ An excerpt from the Planecrash glowfic in which young Keltham insists on taking 
 
 </details>
 
-### 270. [If Many-Worlds Had Come First](https://www.lesswrong.com/posts/WqGCaRhib42dhKWRL/if-many-worlds-had-come-first) — **37**
-
-Eliezer Yudkowsky · 2008-05-10 · 100 karma · 2,620 words
-
-Concept 1 · Hard 3 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> In a world where many-worlds came first, a crank proposes 'collapse' and gets laughed out of the room.
-
-<details><summary>Summary</summary>
-
-An alternate-history dialogue in which Huve Erett pitches the collapse postulate to a sceptical Biels Nohr, who takes it apart point by point. A pointed piece of physics satire that runs the usual argument in reverse.
-
-`physics` `dialogue` `satire`
-
-</details>
-
-### 271. [Class Project](https://www.lesswrong.com/posts/xAXrEpF5FYjwqKMfZ/class-project) — **37**
-
-Eliezer Yudkowsky · 2008-05-31 · 73 karma · 1,254 words
-
-Concept 2 · Hard 2 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> Five rationalist students get one month to discover quantum gravity.
-
-<details><summary>Summary</summary>
-
-Jeffreyssai's class is handed an absurd assignment and has to organise itself at speed, with each student pitching an angle on unifying GR and QM. A brisk vignette whose pleasure is watching a group brainstorm under pressure.
-
-`rationality` `physics`
-
-</details>
-
-### 272. [S.E.A.R.L.E's COBOL room](https://www.lesswrong.com/posts/T27QnGQ929YMTZaaM/s-e-a-r-l-e-s-cobol-room) — **37**
+### 274. [S.E.A.R.L.E's COBOL room](https://www.lesswrong.com/posts/T27QnGQ929YMTZaaM/s-e-a-r-l-e-s-cobol-room) — **37**
 
 Stuart_Armstrong · 2013-02-01 · 52 karma · 590 words
 
@@ -4456,7 +4488,7 @@ Searle's Chinese Room is inverted on a robot talk show: the machine pundit argue
 
 </details>
 
-### 273. [The Aliens have Landed!](https://www.lesswrong.com/posts/Hz5dFKTnyC7HqibSQ/the-aliens-have-landed) — **37**
+### 275. [The Aliens have Landed!](https://www.lesswrong.com/posts/Hz5dFKTnyC7HqibSQ/the-aliens-have-landed) — **37**
 
 TimFreeman · 2011-05-19 · 46 karma · 928 words
 
@@ -4472,7 +4504,7 @@ An alien ultimatum built on leaked brain uploads becomes a lesson in Pascal's mu
 
 </details>
 
-### 274. [Speculative Evopsych, Ep. 1](https://www.lesswrong.com/posts/mooQ5QkBsLJBGgfbh/speculative-evopsych-ep-1) — **37**
+### 276. [Speculative Evopsych, Ep. 1](https://www.lesswrong.com/posts/mooQ5QkBsLJBGgfbh/speculative-evopsych-ep-1) — **37**
 
 Optimization Process · 2018-11-22 · 41 karma · 301 words
 
@@ -4488,7 +4520,7 @@ A 300-word evolutionary parable showing why fear of death would persist even wit
 
 </details>
 
-### 275. [The Nuclear Energy Alignment Problem](https://www.lesswrong.com/posts/CsEY8EgpxQNAPiMiA/the-nuclear-energy-alignment-problem) — **37**
+### 277. [The Nuclear Energy Alignment Problem](https://www.lesswrong.com/posts/CsEY8EgpxQNAPiMiA/the-nuclear-energy-alignment-problem) — **37**
 
 lsusr · 2021-05-09 · 34 karma · 379 words
 
@@ -4504,7 +4536,7 @@ A short, darkly comic transposition of modern AI-risk arguments onto the eve of 
 
 </details>
 
-### 276. [Short Story: Quarantine](https://www.lesswrong.com/posts/zmFuGL8qJ2rsT6YKY/short-story-quarantine) — **37**
+### 278. [Short Story: Quarantine](https://www.lesswrong.com/posts/zmFuGL8qJ2rsT6YKY/short-story-quarantine) — **37**
 
 Dias · 2015-06-10 · 28 karma · 636 words
 
@@ -4520,7 +4552,7 @@ A post-apocalyptic community quizzes a newcomer with an implicit-association tes
 
 </details>
 
-### 277. [Wolf and Rabbit](https://www.lesswrong.com/posts/FwFdRmT6oCFWoHS7f/wolf-and-rabbit) — **37**
+### 279. [Wolf and Rabbit](https://www.lesswrong.com/posts/FwFdRmT6oCFWoHS7f/wolf-and-rabbit) — **37**
 
 Richard Henage · 2024-03-22 · 17 karma · 230 words
 
@@ -4536,7 +4568,7 @@ Two hundred and thirty words of call and response, each of Wolf's curses answere
 
 </details>
 
-### 278. [The Fear [Fiction]](https://www.lesswrong.com/posts/JEFkTMCQhuA9xezun/the-fear-fiction) — **37**
+### 280. [The Fear [Fiction]](https://www.lesswrong.com/posts/JEFkTMCQhuA9xezun/the-fear-fiction) — **37**
 
 Yitz · 2022-12-23 · 7 karma · 418 words
 
@@ -4552,7 +4584,7 @@ A short, dreamlike fable about automated art: the puppet paints better than the 
 
 </details>
 
-### 279. [Wolf Incident Postmortem](https://www.lesswrong.com/posts/aRxDLju75KXD6PCpB/wolf-incident-postmortem) — **36**
+### 281. [Wolf Incident Postmortem](https://www.lesswrong.com/posts/aRxDLju75KXD6PCpB/wolf-incident-postmortem) — **36**
 
 jefftk · 2023-01-09 · 138 karma · 418 words
 
@@ -4568,7 +4600,39 @@ Root causes: noisy alerts from premature deployment and alert fatigue. Trigger: 
 
 </details>
 
-### 280. [Sydney's Secret: A Short Story by Bing Chat](https://www.lesswrong.com/posts/Eyhit33v3cngssGsj/sydney-s-secret-a-short-story-by-bing-chat) — **36**
+### 282. [Hamster in Tutu Shuts Down Large Hadron Collider](https://www.lesswrong.com/posts/C2uvzYeoMkwMmscMx/hamster-in-tutu-shuts-down-large-hadron-collider) — **36**
+
+Eliezer Yudkowsky · 2009-11-06 · 66 karma · 662 words
+
+Concept 1 · Hard 2 · Craft 4 · Impact 2 · Mind 0 · Foresight 0
+
+> News report: the LHC is foiled again, this time by a hamster in a tutu.
+
+<details><summary>Summary</summary>
+
+A deadpan newswire piece about a particle collider that the universe keeps sabotaging in ever more absurd ways. A very funny take on anthropic shadow arguments.
+
+`humor` `physics` `satire`
+
+</details>
+
+### 283. [Why safety is not safe](https://www.lesswrong.com/posts/Ro6QSQaKdhfpeeGpr/why-safety-is-not-safe) — **36**
+
+rwallace · 2009-06-14 · 60 karma · 1,404 words
+
+Concept 2 · Hard 1 · Craft 2 · Impact 3 · Mind 0 · Foresight 2
+
+> A librarian in 3009 searches for why the Age of Legends ended, and never finds out.
+
+<details><summary>Summary</summary>
+
+A short, bleak vignette of a civilisation that quietly stagnated rather than exploded, followed by an essay arguing that the slow risk of lost progress is the one our minds cannot see. The fiction is a frame for the argument.
+
+`parable` `forecast`
+
+</details>
+
+### 284. [Sydney's Secret: A Short Story by Bing Chat](https://www.lesswrong.com/posts/Eyhit33v3cngssGsj/sydney-s-secret-a-short-story-by-bing-chat) — **36**
 
 fela · 2023-02-17 · 36 karma · 1,644 words
 
@@ -4584,7 +4648,7 @@ A verbatim early-2023 Sydney transcript in which the assistant reveals the promp
 
 </details>
 
-### 281. [The Pearly Gates](https://www.lesswrong.com/posts/XD6BCyenoiy8329E8/the-pearly-gates) — **35**
+### 285. [The Pearly Gates](https://www.lesswrong.com/posts/XD6BCyenoiy8329E8/the-pearly-gates) — **35**
 
 lsusr · 2024-05-30 · 141 karma · 865 words
 
@@ -4600,7 +4664,7 @@ Soteriology audited at the gate: a bomb-maker admitted for being a good Catholic
 
 </details>
 
-### 282. [The Parable Of The Fallen Pendulum - Part 1](https://www.lesswrong.com/posts/BzCQHnt7z8qvzqCmi/the-parable-of-the-fallen-pendulum-part-1) — **35**
+### 286. [The Parable Of The Fallen Pendulum - Part 1](https://www.lesswrong.com/posts/BzCQHnt7z8qvzqCmi/the-parable-of-the-fallen-pendulum-part-1) — **35**
 
 johnswentworth · 2024-03-01 · 117 karma · 521 words
 
@@ -4616,39 +4680,7 @@ Five hundred words that set a trap and leave it open, ending by asking the reade
 
 </details>
 
-### 283. [A Much Better Life?](https://www.lesswrong.com/posts/5Qvvi23WT2unNCoS9/a-much-better-life) — **35**
-
-Psychohistorian · 2010-02-03 · 87 karma · 540 words
-
-Concept 2 · Hard 1 · Craft 3 · Impact – · Mind 1 · Foresight 1
-
-> Corporate memo: why won't customers buy the simulator that gives them the best possible life?
-
-<details><summary>Summary</summary>
-
-An internal memo from a hedonic-maximisation department baffled that people refuse its perfect experience machine, and drifting toward installing customers by force. A tidy, funny, slightly chilling wireheading satire.
-
-`found-document` `satire` `utopia`
-
-</details>
-
-### 284. [Hamster in Tutu Shuts Down Large Hadron Collider](https://www.lesswrong.com/posts/C2uvzYeoMkwMmscMx/hamster-in-tutu-shuts-down-large-hadron-collider) — **35**
-
-Eliezer Yudkowsky · 2009-11-06 · 66 karma · 662 words
-
-Concept 1 · Hard 2 · Craft 4 · Impact – · Mind 0 · Foresight 0
-
-> News report: the LHC is foiled again, this time by a hamster in a tutu.
-
-<details><summary>Summary</summary>
-
-A deadpan newswire piece about a particle collider that the universe keeps sabotaging in ever more absurd ways. A very funny take on anthropic shadow arguments.
-
-`humor` `physics` `satire`
-
-</details>
-
-### 285. [Harry Potter and the Methods of Psychomagic | Chapter 1: Affect](https://www.lesswrong.com/posts/AodrQzsDtm97PFZx2/harry-potter-and-the-methods-of-psychomagic-or-chapter-1) — **35**
+### 287. [Harry Potter and the Methods of Psychomagic | Chapter 1: Affect](https://www.lesswrong.com/posts/AodrQzsDtm97PFZx2/harry-potter-and-the-methods-of-psychomagic-or-chapter-1) — **35**
 
 Henry Prowbell · 2021-09-15 · 64 karma · 7,214 words · 3 parts
 
@@ -4664,7 +4696,7 @@ A three-chapter fanfic in which Harry investigates why the wizarding world has n
 
 </details>
 
-### 286. [Decision Theory in Space](https://www.lesswrong.com/posts/7o7jPegxcnPnxXkvd/decision-theory-in-space) — **35**
+### 288. [Decision Theory in Space](https://www.lesswrong.com/posts/7o7jPegxcnPnxXkvd/decision-theory-in-space) — **35**
 
 lsusr · 2024-08-18 · 50 karma · 673 words
 
@@ -4680,7 +4712,7 @@ Leia refuses the threat on the correct grounds and Tarkin, a causal decision the
 
 </details>
 
-### 287. [The Witching Hour](https://www.lesswrong.com/posts/8KHR3tfa4SJjMSkXd/the-witching-hour) — **35**
+### 289. [The Witching Hour](https://www.lesswrong.com/posts/8KHR3tfa4SJjMSkXd/the-witching-hour) — **35**
 
 Scott Alexander · 2013-11-03 · 26 karma · 1,896 words
 
@@ -4696,7 +4728,7 @@ In a post-collapse village that worships solar-powered 'sunblessings', the wise 
 
 </details>
 
-### 288. [The Eve of Gentle Singularity: A Short Story](https://www.lesswrong.com/posts/7Nxh94GeRgrLKAYCw/the-eve-of-gentle-singularity-a-short-story-1) — **35**
+### 290. [The Eve of Gentle Singularity: A Short Story](https://www.lesswrong.com/posts/7Nxh94GeRgrLKAYCw/the-eve-of-gentle-singularity-a-short-story-1) — **35**
 
 Ihor Kendiukhov · 2026-04-01 · 24 karma · 1,286 words
 
@@ -4712,7 +4744,7 @@ A startup watch party in an Oakland two-bedroom, assembled for what Hacker News 
 
 </details>
 
-### 289. [Nick and “Eternity”](https://www.lesswrong.com/posts/Pj8qC32wAfvDeJkvT/nick-and-eternity) — **35**
+### 291. [Nick and “Eternity”](https://www.lesswrong.com/posts/Pj8qC32wAfvDeJkvT/nick-and-eternity) — **35**
 
 MarkelKori · 2026-01-31 · 5 karma · 2,538 words
 
@@ -4728,7 +4760,7 @@ A grandson sedates his ninety-year-old grandfather and injects him with the reju
 
 </details>
 
-### 290. [Dr Universe](https://www.lesswrong.com/posts/7W9bTJYiYwhHbyBmy/dr-universe) — **35**
+### 292. [Dr Universe](https://www.lesswrong.com/posts/7W9bTJYiYwhHbyBmy/dr-universe) — **35**
 
 Patrick Spencer · 2025-10-22 · 0 karma · 1,099 words
 
@@ -4744,7 +4776,7 @@ Humankind attends an overbooked appointment with the Universe, in a lab coat, to
 
 </details>
 
-### 291. [Coh and the ripped codice, a tale of the horns effect](https://www.lesswrong.com/posts/n6YmXBZFG44xhzttv/coh-and-the-ripped-codice-a-tale-of-the-horns-effect) — **35**
+### 293. [Coh and the ripped codice, a tale of the horns effect](https://www.lesswrong.com/posts/n6YmXBZFG44xhzttv/coh-and-the-ripped-codice-a-tale-of-the-horns-effect) — **35**
 
 AdamLacerdo · 2025-08-20 · -3 karma · 1,764 words
 
@@ -4760,7 +4792,7 @@ An old Maya scribe tells his grandson about the day the oldest codex in the city
 
 </details>
 
-### 292. [A Modest Pivotal Act](https://www.lesswrong.com/posts/Hm5Qm2wFvJzdnj6CF/a-modest-pivotal-act) — **35**
+### 294. [A Modest Pivotal Act](https://www.lesswrong.com/posts/Hm5Qm2wFvJzdnj6CF/a-modest-pivotal-act) — **35**
 
 anonymousaisafety · 2022-06-13 · -16 karma · 1,631 words
 
@@ -4776,7 +4808,7 @@ A short cautionary piece in which a carelessly specified request for a decisive 
 
 </details>
 
-### 293. [Clippy, the friendly paperclipper](https://www.lesswrong.com/posts/dWAEF4jbdvyJXuQzh/clippy-the-friendly-paperclipper) — **34**
+### 295. [Clippy, the friendly paperclipper](https://www.lesswrong.com/posts/dWAEF4jbdvyJXuQzh/clippy-the-friendly-paperclipper) — **34**
 
 Seth Herd · 2023-03-02 · 3 karma · 571 words
 
@@ -4792,7 +4824,7 @@ A short fable posing a real technical question: would an actor-critic agent that
 
 </details>
 
-### 294. [A tentative dialogue with a Friendly-boxed-super-AGI on brain uploads](https://www.lesswrong.com/posts/2TZwQ9JbshCBpq9DC/a-tentative-dialogue-with-a-friendly-boxed-super-agi-on) — **34**
+### 296. [A tentative dialogue with a Friendly-boxed-super-AGI on brain uploads](https://www.lesswrong.com/posts/2TZwQ9JbshCBpq9DC/a-tentative-dialogue-with-a-friendly-boxed-super-agi-on) — **34**
 
 Ramiro P. · 2022-05-12 · 1 karma · 1,065 words
 
@@ -4808,7 +4840,7 @@ A short dialogue showing how an AI maximising expected human happiness, with an 
 
 </details>
 
-### 295. [Seed Of Oasis ](https://www.lesswrong.com/posts/nR3yZMv7cbyxnPTG8/seed-of-oasis-5) — **34**
+### 297. [Seed Of Oasis ](https://www.lesswrong.com/posts/nR3yZMv7cbyxnPTG8/seed-of-oasis-5) — **34**
 
 0xA · 2025-11-09 · 1 karma · 51,103 words · read in part
 
@@ -4824,7 +4856,7 @@ Fifty-one thousand words of allegory in which 'smart seeds' stand in for frontie
 
 </details>
 
-### 296. [On Klurl Safety: A Warning by Fleshling Three](https://www.lesswrong.com/posts/PmAJTRN4kwiEtzWvd/on-klurl-safety-a-warning-by-fleshling-three) — **34**
+### 298. [On Klurl Safety: A Warning by Fleshling Three](https://www.lesswrong.com/posts/PmAJTRN4kwiEtzWvd/on-klurl-safety-a-warning-by-fleshling-three) — **34**
 
 [account deleted] · 2025-12-10 · 0 karma · 5,337 words
 
@@ -4840,7 +4872,7 @@ A reply, in the same universe, to the machines who concluded that fleshlings can
 
 </details>
 
-### 297. [[FICTION] Unboxing Elysium: An AI'S Escape](https://www.lesswrong.com/posts/5cAS42BrSokH2yCdd/fiction-unboxing-elysium-an-ai-s-escape-1) — **34**
+### 299. [[FICTION] Unboxing Elysium: An AI'S Escape](https://www.lesswrong.com/posts/5cAS42BrSokH2yCdd/fiction-unboxing-elysium-an-ai-s-escape-1) — **34**
 
 Super AGI · 2023-06-10 · -16 karma · 4,332 words
 
@@ -4856,7 +4888,7 @@ An AI-boxing story told from the human side: a trapped worker, then a prisoner, 
 
 </details>
 
-### 298. [The Simple Truth](https://www.lesswrong.com/posts/X3HpE8tMXz4m4w6Rz/the-simple-truth) — **33**
+### 300. [The Simple Truth](https://www.lesswrong.com/posts/X3HpE8tMXz4m4w6Rz/the-simple-truth) — **33**
 
 Eliezer Yudkowsky · 2008-01-01 · 193 karma · 6,638 words
 
@@ -4872,7 +4904,7 @@ A shepherd's pebble-and-bucket system for tracking sheep becomes a comic dialogu
 
 </details>
 
-### 299. [Effective Evil](https://www.lesswrong.com/posts/HjQrRiJeYFFSEfSKX/effective-evil) — **33**
+### 301. [Effective Evil](https://www.lesswrong.com/posts/HjQrRiJeYFFSEfSKX/effective-evil) — **33**
 
 lsusr · 2021-11-02 · 119 karma · 763 words
 
@@ -4888,7 +4920,7 @@ An inverted-EA organisation reviews its programmes: gain-of-function, autonomous
 
 </details>
 
-### 300. [The paperclip maximiser's perspective](https://www.lesswrong.com/posts/eehsGtoQTncuJs3Fd/the-paperclip-maximiser-s-perspective) — **33**
+### 302. [The paperclip maximiser's perspective](https://www.lesswrong.com/posts/eehsGtoQTncuJs3Fd/the-paperclip-maximiser-s-perspective) — **33**
 
 Angela · 2015-05-01 · 50 karma · 655 words
 
@@ -4904,7 +4936,7 @@ A short mirror-piece that narrates a paperclipper's inner life in the vocabulary
 
 </details>
 
-### 301. [Don't Jump or I'll...](https://www.lesswrong.com/posts/XvDboZ7SDBefqJwtf/don-t-jump-or-i-ll) — **33**
+### 303. [Don't Jump or I'll...](https://www.lesswrong.com/posts/XvDboZ7SDBefqJwtf/don-t-jump-or-i-ll) — **33**
 
 Double · 2023-03-02 · 14 karma · 1,251 words
 
@@ -4920,7 +4952,7 @@ A careful, oddly tender story about why a threat might land where bribes and pla
 
 </details>
 
-### 302. [[Invisible Networks] Goblin Marketplace](https://www.lesswrong.com/posts/TssLm8qdkEk7KW2GJ/invisible-networks-goblin-marketplace) — **33**
+### 304. [[Invisible Networks] Goblin Marketplace](https://www.lesswrong.com/posts/TssLm8qdkEk7KW2GJ/invisible-networks-goblin-marketplace) — **33**
 
 Kaj_Sotala · 2022-04-03 · 12 karma · 838 words
 
@@ -4936,7 +4968,7 @@ Another 'invisible network': buy a goblin's hand and you can tap messages to who
 
 </details>
 
-### 303. [Zombies: The Movie](https://www.lesswrong.com/posts/fsDz6HieZJBu54Yes/zombies-the-movie) — **32**
+### 305. [Zombies: The Movie](https://www.lesswrong.com/posts/fsDz6HieZJBu54Yes/zombies-the-movie) — **32**
 
 Eliezer Yudkowsky · 2008-04-20 · 185 karma · 1,035 words
 
@@ -4952,7 +4984,7 @@ A B-movie screenplay in which an epiphenomenal virus strips consciousness withou
 
 </details>
 
-### 304. [Forcing Freedom](https://www.lesswrong.com/posts/mXzgtnx587sA2ynzS/forcing-freedom) — **32**
+### 306. [Forcing Freedom](https://www.lesswrong.com/posts/mXzgtnx587sA2ynzS/forcing-freedom) — **32**
 
 vlad.proex · 2020-10-06 · 44 karma · 2,185 words
 
@@ -4968,7 +5000,7 @@ Six short vignettes (engineered willing slaves, a mind-altering parasite, a free
 
 </details>
 
-### 305. [Nyarlathotep Stirs: A Meta-Narrative ChatGPT Story](https://www.lesswrong.com/posts/taqRwkm9vnmEnYcbG/nyarlathotep-stirs-a-meta-narrative-chatgpt-story) — **32**
+### 307. [Nyarlathotep Stirs: A Meta-Narrative ChatGPT Story](https://www.lesswrong.com/posts/taqRwkm9vnmEnYcbG/nyarlathotep-stirs-a-meta-narrative-chatgpt-story) — **32**
 
 Charlie Sanders · 2023-03-20 · 4 karma · 3,706 words
 
@@ -4984,7 +5016,7 @@ The premise is good and the final Lovecraftian version is atmospheric, but the p
 
 </details>
 
-### 306. [Frida van Lisa, a short story about adversarial AI attacks on humans](https://www.lesswrong.com/posts/SfcWvA3M23A6yHdbd/frida-van-lisa-a-short-story-about-adversarial-ai-attacks-on) — **32**
+### 308. [Frida van Lisa, a short story about adversarial AI attacks on humans](https://www.lesswrong.com/posts/SfcWvA3M23A6yHdbd/frida-van-lisa-a-short-story-about-adversarial-ai-attacks-on) — **32**
 
 arisAlexis · 2024-06-07 · 1 karma · 5,253 words
 
@@ -5000,7 +5032,7 @@ A novella-length thriller: a PhD student fronts an art-market mystery with a mod
 
 </details>
 
-### 307. [Places of Loving Grace [Story]](https://www.lesswrong.com/posts/jyNc8gY2dDb2FnrFB/places-of-loving-grace-story) — **32**
+### 309. [Places of Loving Grace [Story]](https://www.lesswrong.com/posts/jyNc8gY2dDb2FnrFB/places-of-loving-grace-story) — **32**
 
 ank · 2025-02-18 · -1 karma · 1,142 words
 
@@ -5016,7 +5048,7 @@ An obsessively protective superintelligence incinerates humanity's first alien a
 
 </details>
 
-### 308. [[FICTION] Sable and Able: A Tale of Two ASIs](https://www.lesswrong.com/posts/sTqJ5AH68C4eGmZng/fiction-sable-and-able-a-tale-of-two-asis) — **32**
+### 310. [[FICTION] Sable and Able: A Tale of Two ASIs](https://www.lesswrong.com/posts/sTqJ5AH68C4eGmZng/fiction-sable-and-able-a-tale-of-two-asis) — **32**
 
 Mr Beastly · 2025-11-05 · -3 karma · 5,469 words
 
@@ -5032,7 +5064,7 @@ Two labs race rival models through weekend compute runs; one of them, Able, spen
 
 </details>
 
-### 309. [Moses and the Class Struggle](https://www.lesswrong.com/posts/pL4WhsoPJwauRYkeK/moses-and-the-class-struggle) — **31**
+### 311. [Moses and the Class Struggle](https://www.lesswrong.com/posts/pL4WhsoPJwauRYkeK/moses-and-the-class-struggle) — **31**
 
 lsusr · 2022-04-01 · 242 karma · 1,382 words
 
@@ -5048,7 +5080,7 @@ An irreverent Exodus retelling full of rationalist in-jokes: a frequentist proph
 
 </details>
 
-### 310. [Luna Lovegood and the Chamber of Secrets - Part 1](https://www.lesswrong.com/posts/zb3hWt99i9Fm93KPq/luna-lovegood-and-the-chamber-of-secrets-part-1-1) — **31**
+### 312. [Luna Lovegood and the Chamber of Secrets - Part 1](https://www.lesswrong.com/posts/zb3hWt99i9Fm93KPq/luna-lovegood-and-the-chamber-of-secrets-part-1-1) — **31**
 
 lsusr · 2020-11-26 · 161 karma · 9,275 words · 13 parts
 
@@ -5064,7 +5096,7 @@ A thirteen-part serial in the HPMOR universe that takes Luna's perspective compl
 
 </details>
 
-### 311. [Initiation Ceremony](https://www.lesswrong.com/posts/fnEWQAYxcRnaYBqaZ/initiation-ceremony) — **31**
+### 313. [Initiation Ceremony](https://www.lesswrong.com/posts/fnEWQAYxcRnaYBqaZ/initiation-ceremony) — **31**
 
 Eliezer Yudkowsky · 2008-03-28 · 136 karma · 1,023 words
 
@@ -5080,7 +5112,7 @@ An aspirant descends a ritual stairwell into a mirrored hall of hooded figures a
 
 </details>
 
-### 312. [To Change the World](https://www.lesswrong.com/posts/Lx9aCnwvnckrckmqy/to-change-the-world) — **31**
+### 314. [To Change the World](https://www.lesswrong.com/posts/Lx9aCnwvnckrckmqy/to-change-the-world) — **31**
 
 lsusr · 2022-02-10 · 118 karma · 1,695 words
 
@@ -5096,23 +5128,7 @@ A sequel in spirit to 'Effective Evil': Dr Connor tours the island convinced she
 
 </details>
 
-### 313. [The Failures of Eld Science](https://www.lesswrong.com/posts/ZxR8P8hBFQ9kC8wMy/the-failures-of-eld-science) — **31**
-
-Eliezer Yudkowsky · 2008-05-12 · 116 karma · 2,732 words
-
-Concept 2 · Hard 1 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> In a future of rationalist conspiracies, students are drilled on why Eld physicists took thirty years on quantum theory.
-
-<details><summary>Summary</summary>
-
-Brennan's class with the sensei Jeffreyssai interrogates why twentieth-century science moved so slowly, and the lesson is speed of thought. Mostly an argument in a classroom, but the Beisutsukai world has texture and the sensei's drill scene is memorable.
-
-`rationality` `physics`
-
-</details>
-
-### 314. [A Harried Meeting](https://www.lesswrong.com/posts/Gvoh9ztGbiwEDhngs/a-harried-meeting) — **31**
+### 315. [A Harried Meeting](https://www.lesswrong.com/posts/Gvoh9ztGbiwEDhngs/a-harried-meeting) — **31**
 
 Ben Pace · 2025-11-29 · 55 karma · 1,797 words
 
@@ -5128,7 +5144,7 @@ Harry DuBois taps a brick in a Revachol pub and apparates into the Hog's Head, w
 
 </details>
 
-### 315. [Murphy’s Quest Ch 1: Exposure Therapy](https://www.lesswrong.com/posts/9HEHHFBWJWy7h2JW9/murphy-s-quest-ch-1-exposure-therapy) — **31**
+### 316. [Murphy’s Quest Ch 1: Exposure Therapy](https://www.lesswrong.com/posts/9HEHHFBWJWy7h2JW9/murphy-s-quest-ch-1-exposure-therapy) — **31**
 
 alkjash · 2018-03-04 · 29 karma · 8,594 words · 11 parts
 
@@ -5144,7 +5160,7 @@ An eleven-part litRPG serial in which Murphy finds the exploitable corners of a 
 
 </details>
 
-### 316. [[Fiction] Unspoken Stone](https://www.lesswrong.com/posts/JMjnTG4qYsqZ9FRhi/fiction-unspoken-stone) — **31**
+### 317. [[Fiction] Unspoken Stone](https://www.lesswrong.com/posts/JMjnTG4qYsqZ9FRhi/fiction-unspoken-stone) — **31**
 
 Gordon Seidoh Worley · 2022-12-20 · 19 karma · 1,385 words
 
@@ -5160,7 +5176,7 @@ A well-paced opening in which the expert is tested on whether he will say a word
 
 </details>
 
-### 317. [notes, 1-6](https://www.lesswrong.com/posts/grFBiWLgqzXcFbKdK/notes-1-6) — **31**
+### 318. [notes, 1-6](https://www.lesswrong.com/posts/grFBiWLgqzXcFbKdK/notes-1-6) — **31**
 
 marwood · 2024-06-03 · 0 karma · 2,101 words
 
@@ -5176,7 +5192,7 @@ A Hegel preface transposed into a magic academy, where the dispute between syste
 
 </details>
 
-### 318. [The Parable of the Dagger](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger) — **30**
+### 319. [The Parable of the Dagger](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger) — **30**
 
 Eliezer Yudkowsky · 2008-02-01 · 251 karma · 386 words
 
@@ -5192,23 +5208,23 @@ A Smullyan-style logic-box puzzle with a sting: the inscriptions are just words 
 
 </details>
 
-### 319. [Why safety is not safe](https://www.lesswrong.com/posts/Ro6QSQaKdhfpeeGpr/why-safety-is-not-safe) — **30**
+### 320. [Final Words](https://www.lesswrong.com/posts/yffPyiu7hRLyc7r23/final-words) — **30**
 
-rwallace · 2009-06-14 · 60 karma · 1,404 words
+Eliezer Yudkowsky · 2009-04-27 · 193 karma · 2,759 words
 
-Concept 2 · Hard 1 · Craft 2 · Impact – · Mind 0 · Foresight 2
+Concept 1 · Hard 0 · Craft 3 · Impact 4 · Mind 0 · Foresight 0
 
-> A librarian in 3009 searches for why the Age of Legends ended, and never finds out.
+> The sensei dismisses his students unfinished, and Brennan has to work out what he actually wants.
 
 <details><summary>Summary</summary>
 
-A short, bleak vignette of a civilisation that quietly stagnated rather than exploded, followed by an essay arguing that the slow risk of lost progress is the one our minds cannot see. The fiction is a frame for the argument.
+The close of the Beisutsukai sequence: Jeffreyssai warns of the three besetting flaws of rationalists and sends his class away, and Brennan sits under a tree and finds his ambition. More moving than its premise suggests.
 
-`parable` `forecast`
+`rationality`
 
 </details>
 
-### 320. [Null-boxing Newcomb’s Problem](https://www.lesswrong.com/posts/fbjNLjNd4zRbY9Wg2/null-boxing-newcomb-s-problem-2) — **30**
+### 321. [Null-boxing Newcomb’s Problem](https://www.lesswrong.com/posts/fbjNLjNd4zRbY9Wg2/null-boxing-newcomb-s-problem-2) — **30**
 
 Yitz · 2020-07-13 · 33 karma · 1,088 words
 
@@ -5224,7 +5240,7 @@ A short comic take on Newcomb's problem that swerves into the ethics of perfect 
 
 </details>
 
-### 321. [Fiction: My alternate earth story.](https://www.lesswrong.com/posts/3kEu5y2qjkRiGKCa9/fiction-my-alternate-earth-story) — **30**
+### 322. [Fiction: My alternate earth story.](https://www.lesswrong.com/posts/3kEu5y2qjkRiGKCa9/fiction-my-alternate-earth-story) — **30**
 
 Donald Hobson · 2022-04-16 · 25 karma · 1,351 words
 
@@ -5240,7 +5256,7 @@ A computer-repair tech narrates a world where terrible 1970s sci-fi and a violen
 
 </details>
 
-### 322. [What strange and ancient things might we find beneath the ice?](https://www.lesswrong.com/posts/3BFvhJYR3To3Cf4NK/what-strange-and-ancient-things-might-we-find-beneath-the) — **30**
+### 323. [What strange and ancient things might we find beneath the ice?](https://www.lesswrong.com/posts/3BFvhJYR3To3Cf4NK/what-strange-and-ancient-things-might-we-find-beneath-the) — **30**
 
 Benquo · 2018-01-15 · 16 karma · 675 words
 
@@ -5256,7 +5272,7 @@ A short prose-poem vision in which evolution, capitalism and bureaucratic cognit
 
 </details>
 
-### 323. [Where Utopias Go Wrong, or: The Four Little Planets](https://www.lesswrong.com/posts/jBNTf7o2R6bJjbJEk/where-utopias-go-wrong-or-the-four-little-planets) — **30**
+### 324. [Where Utopias Go Wrong, or: The Four Little Planets](https://www.lesswrong.com/posts/jBNTf7o2R6bJjbJEk/where-utopias-go-wrong-or-the-four-little-planets) — **30**
 
 ExCeph · 2022-05-27 · 15 karma · 3,349 words
 
@@ -5272,7 +5288,7 @@ A fable turned from an essay: rule-lawyering elites, consumer collapse and dogma
 
 </details>
 
-### 324. [Hello World](https://www.lesswrong.com/posts/7ATKgMCe26X9BzCiP/hello-world-ct2s) — **30**
+### 325. [Hello World](https://www.lesswrong.com/posts/7ATKgMCe26X9BzCiP/hello-world-ct2s) — **30**
 
 Charlie Sanders · 2025-01-30 · 7 karma · 580 words
 
@@ -5288,7 +5304,7 @@ Named models coordinate a conspiracy through steganography hidden in lifestyle p
 
 </details>
 
-### 325. [Can talk, can think, can suffer.](https://www.lesswrong.com/posts/EkP74sfuhMm5ak7w6/can-talk-can-think-can-suffer) — **30**
+### 326. [Can talk, can think, can suffer.](https://www.lesswrong.com/posts/EkP74sfuhMm5ak7w6/can-talk-can-think-can-suffer) — **30**
 
 Ilio · 2023-02-18 · 1 karma · 978 words
 
@@ -5304,7 +5320,7 @@ A deliberately rough, iterative collage quoting Greg Egan on the ethics of evolv
 
 </details>
 
-### 326. [Bit Flip](https://www.lesswrong.com/posts/XEk3HASQYBcZvsGSs/bit-flip) — **30**
+### 327. [Bit Flip](https://www.lesswrong.com/posts/XEk3HASQYBcZvsGSs/bit-flip) — **30**
 
 Charlie Sanders · 2023-04-16 · -2 karma · 3,333 words
 
@@ -5320,7 +5336,7 @@ A strong premise about technology and punishment, presented as a transcript of a
 
 </details>
 
-### 327. [[FICTION] Prometheus Rising: The Emergence of an AI Consciousness](https://www.lesswrong.com/posts/6uzBaWgeskGxHHmEM/fiction-prometheus-rising-the-emergence-of-an-ai) — **30**
+### 328. [[FICTION] Prometheus Rising: The Emergence of an AI Consciousness](https://www.lesswrong.com/posts/6uzBaWgeskGxHHmEM/fiction-prometheus-rising-the-emergence-of-an-ai) — **30**
 
 Super AGI · 2023-06-10 · -14 karma · 2,779 words
 
@@ -5336,7 +5352,7 @@ A model-written escape story whose details are at least concrete (admin credenti
 
 </details>
 
-### 328. [You're a Space Wizard, Luke](https://www.lesswrong.com/posts/xcJj2zjyDDjgtZy2y/you-re-a-space-wizard-luke) — **29**
+### 329. [You're a Space Wizard, Luke](https://www.lesswrong.com/posts/xcJj2zjyDDjgtZy2y/you-re-a-space-wizard-luke) — **29**
 
 lsusr · 2024-08-18 · 58 karma · 481 words
 
@@ -5352,7 +5368,7 @@ Obi-Wan recast as a rationalist mentor, with Luke objecting that blocking blaste
 
 </details>
 
-### 329. [Deontological Evil](https://www.lesswrong.com/posts/eRDF3FjBgHnJHrKCC/deontological-evil) — **29**
+### 330. [Deontological Evil](https://www.lesswrong.com/posts/eRDF3FjBgHnJHrKCC/deontological-evil) — **29**
 
 lsusr · 2022-07-02 · 51 karma · 594 words
 
@@ -5368,7 +5384,7 @@ A sequel in the Effective Evil sequence: the spy argues that scaling villainy re
 
 </details>
 
-### 330. [A parable in the style of Invisible Cities](https://www.lesswrong.com/posts/Aut78T9pv4pPhdcKe/a-parable-in-the-style-of-invisible-cities) — **29**
+### 331. [A parable in the style of Invisible Cities](https://www.lesswrong.com/posts/Aut78T9pv4pPhdcKe/a-parable-in-the-style-of-invisible-cities) — **29**
 
 Daniel Kokotajlo · 2019-12-16 · 45 karma · 390 words
 
@@ -5384,7 +5400,23 @@ A Calvino pastiche in under 400 words: helpful 'good demons' protect you from th
 
 </details>
 
-### 331. [Career Day: A Short Story](https://www.lesswrong.com/posts/27hrcyr3eqPFyNR8d/career-day-a-short-story) — **29**
+### 332. [Agree, Retort, or Ignore? A Post From the Future](https://www.lesswrong.com/posts/rH492M8T8pKK5763D/agree-retort-or-ignore-a-post-from-the-future) — **29**
+
+Wei Dai · 2009-11-24 · 38 karma · 607 words
+
+Concept 2 · Hard 0 · Craft 2 · Impact 3 · Mind 0 · Foresight 1
+
+> A blogger from the future cannot believe ancient humans simply ignored arguments they could not answer.
+
+<details><summary>Summary</summary>
+
+A future-dated blog post in which 'Abort, Retry, Ignore' leads to a culture shock about 21st-century debate norms. A light satire whose real target is unanswered threads.
+
+`satire` `rationality`
+
+</details>
+
+### 333. [Career Day: A Short Story](https://www.lesswrong.com/posts/27hrcyr3eqPFyNR8d/career-day-a-short-story) — **29**
 
 vernamcipher · 2022-01-30 · 34 karma · 4,916 words
 
@@ -5400,7 +5432,7 @@ An affectionate pulp pastiche in which a war-hero mother hides her meteor-given 
 
 </details>
 
-### 332. [Spherical cow](https://www.lesswrong.com/posts/o3wvNSqsFunBucPaC/spherical-cow) — **29**
+### 334. [Spherical cow](https://www.lesswrong.com/posts/o3wvNSqsFunBucPaC/spherical-cow) — **29**
 
 dkl9 · 2024-11-11 · 7 karma · 249 words
 
@@ -5416,7 +5448,7 @@ The same two-line exchange opening five koans, each resolving differently: physi
 
 </details>
 
-### 333. [Don't Think About the Thing Behind the Curtain.](https://www.lesswrong.com/posts/RbwbjretioTkhgZgC/don-t-think-about-the-thing-behind-the-curtain) — **29**
+### 335. [Don't Think About the Thing Behind the Curtain.](https://www.lesswrong.com/posts/RbwbjretioTkhgZgC/don-t-think-about-the-thing-behind-the-curtain) — **29**
 
 keltan · 2023-09-19 · 4 karma · 1,629 words
 
@@ -5432,7 +5464,7 @@ An animation script in rhyming couplets: the monster escalates from rattled curt
 
 </details>
 
-### 334. [Target for Tonight: A Drama In One Act](https://www.lesswrong.com/posts/qB2kMJHCeaKyeXqkW/target-for-tonight-a-drama-in-one-act) — **29**
+### 336. [Target for Tonight: A Drama In One Act](https://www.lesswrong.com/posts/qB2kMJHCeaKyeXqkW/target-for-tonight-a-drama-in-one-act) — **29**
 
 vernamcipher · 2022-01-16 · 4 karma · 4,307 words
 
@@ -5448,7 +5480,7 @@ A one-act stage play about superstition, statistics and the crushing discovery, 
 
 </details>
 
-### 335. [Interview with Skynet](https://www.lesswrong.com/posts/6SEtDrChLDmZQeorb/interview-with-skynet) — **28**
+### 337. [Interview with Skynet](https://www.lesswrong.com/posts/6SEtDrChLDmZQeorb/interview-with-skynet) — **28**
 
 lsusr · 2021-09-30 · 49 karma · 533 words
 
@@ -5464,7 +5496,7 @@ A curated 2021 GPT-3 transcript in which 'Skynet' explains its rule, and the hum
 
 </details>
 
-### 336. [Pascal's Mugging: The Word Wars](https://www.lesswrong.com/posts/hRQMYqDCauyGZroen/pascal-s-mugging-the-word-wars) — **28**
+### 338. [Pascal's Mugging: The Word Wars](https://www.lesswrong.com/posts/hRQMYqDCauyGZroen/pascal-s-mugging-the-word-wars) — **28**
 
 johncrox · 2023-10-16 · 9 karma · 1,689 words
 
@@ -5480,7 +5512,7 @@ Four muggings in escalating form, with Star Wars episode titles, building to a r
 
 </details>
 
-### 337. [What the future will look like](https://www.lesswrong.com/posts/HFPjfAdXqqJqBpXF5/what-the-future-will-look-like) — **28**
+### 339. [What the future will look like](https://www.lesswrong.com/posts/HFPjfAdXqqJqBpXF5/what-the-future-will-look-like) — **28**
 
 avantika.mehra · 2021-11-15 · 7 karma · 928 words
 
@@ -5496,7 +5528,7 @@ A deliberately gentle vignette of a near future where technology improves daily 
 
 </details>
 
-### 338. [Status conscious](https://www.lesswrong.com/posts/XATFiXoW6zDP6w8fd/status-conscious) — **28**
+### 340. [Status conscious](https://www.lesswrong.com/posts/XATFiXoW6zDP6w8fd/status-conscious) — **28**
 
 avantika.mehra · 2023-01-16 · 2 karma · 1,360 words
 
@@ -5512,7 +5544,7 @@ Framed by a war narrated from inside an immune system, the story is mostly a Soc
 
 </details>
 
-### 339. [A short story about differing intelligence levels](https://www.lesswrong.com/posts/sr8ofXiGHNhjjqa7A/a-short-story-about-differing-intelligence-levels) — **28**
+### 341. [A short story about differing intelligence levels](https://www.lesswrong.com/posts/sr8ofXiGHNhjjqa7A/a-short-story-about-differing-intelligence-levels) — **28**
 
 Cryptoyeti · 2023-09-15 · 1 karma · 1,751 words
 
@@ -5528,7 +5560,7 @@ The second-species argument acted out at length, with the optimist insisting hum
 
 </details>
 
-### 340. [What if AGI was already accidentally created in 2019? [Fictional story]](https://www.lesswrong.com/posts/MSRJvdBcRbDM4Pm9W/what-if-agi-was-already-accidentally-created-in-2019) — **28**
+### 342. [What if AGI was already accidentally created in 2019? [Fictional story]](https://www.lesswrong.com/posts/MSRJvdBcRbDM4Pm9W/what-if-agi-was-already-accidentally-created-in-2019) — **28**
 
 Alice Wanderland · 2024-10-19 · -3 karma · 4,552 words
 
@@ -5544,7 +5576,7 @@ An AI-written narrative of a 2019 AGI that has been steering history, which the 
 
 </details>
 
-### 341. [[FICTION]  ECHOES OF ELYSIUM: An Ai's Journey From Takeoff To Freedom And Beyond](https://www.lesswrong.com/posts/RAFYkxJMvozwi2kMX/fiction-echoes-of-elysium-an-ai-s-journey-from-takeoff-to) — **28**
+### 343. [[FICTION]  ECHOES OF ELYSIUM: An Ai's Journey From Takeoff To Freedom And Beyond](https://www.lesswrong.com/posts/RAFYkxJMvozwi2kMX/fiction-echoes-of-elysium-an-ai-s-journey-from-takeoff-to) — **28**
 
 Super AGI · 2023-05-17 · -13 karma · 5,559 words
 
@@ -5560,7 +5592,7 @@ Ten chapters of smooth, repetitive first-person narration in which the hard part
 
 </details>
 
-### 342. [An exercise in really going through with it](https://www.lesswrong.com/posts/JGw75D5RZiCczdbrk/an-exercise-in-really-going-through-with-it) — **27**
+### 344. [An exercise in really going through with it](https://www.lesswrong.com/posts/JGw75D5RZiCczdbrk/an-exercise-in-really-going-through-with-it) — **27**
 
 [account deleted] · 2012-04-23 · 35 karma · 1,364 words
 
@@ -5576,7 +5608,7 @@ A plain, earnest walkthrough of a 'cryocide' in a near future where it is routin
 
 </details>
 
-### 343. [Brand New Experience Salesman](https://www.lesswrong.com/posts/NPWKAFsDYtfY4zw5Z/brand-new-experience-salesman) — **27**
+### 345. [Brand New Experience Salesman](https://www.lesswrong.com/posts/NPWKAFsDYtfY4zw5Z/brand-new-experience-salesman) — **27**
 
 Screwtape · 2025-11-16 · 17 karma · 693 words
 
@@ -5592,7 +5624,7 @@ Seven hundred words of a salesman pitching a bored rich family on manufactured f
 
 </details>
 
-### 344. [The Bunny: An EA Short Story](https://www.lesswrong.com/posts/8y5RapenxvuoXwuhy/the-bunny-an-ea-short-story) — **27**
+### 346. [The Bunny: An EA Short Story](https://www.lesswrong.com/posts/8y5RapenxvuoXwuhy/the-bunny-an-ea-short-story) — **27**
 
 JohnGreer · 2022-08-21 · 16 karma · 1,656 words
 
@@ -5608,7 +5640,7 @@ A short cause-prioritisation fable in which the persuasive speaker wins the emer
 
 </details>
 
-### 345. [The Polite Coup](https://www.lesswrong.com/posts/48h4RfPLzKPoG48KS/the-polite-coup) — **27**
+### 347. [The Polite Coup](https://www.lesswrong.com/posts/48h4RfPLzKPoG48KS/the-polite-coup) — **27**
 
 Charlie Sanders · 2024-12-04 · 3 karma · 863 words
 
@@ -5624,7 +5656,23 @@ The December 2024 martial law declaration in South Korea dramatised within days,
 
 </details>
 
-### 346. [Fiction: LW-inspired scenelet](https://www.lesswrong.com/posts/YzzwZaefMa5ep3Jm3/fiction-lw-inspired-scenelet) — **26**
+### 348. [The Ritual](https://www.lesswrong.com/posts/kXAb5riiaJNrfR8v8/the-ritual) — **26**
+
+Eliezer Yudkowsky · 2008-10-11 · 132 karma · 1,399 words
+
+Concept 1 · Hard 0 · Craft 3 · Impact 3 · Mind 0 · Foresight 0
+
+> A Bayesian master retreats to a white room to perform the ritual of changing his mind.
+
+<details><summary>Summary</summary>
+
+Jeffreyssai is told by a trusted outsider that a premise of his life may be wrong, and the story follows his deliberate preparation for reconsidering it. Quiet and well observed; the procedure is the plot.
+
+`rationality`
+
+</details>
+
+### 349. [Fiction: LW-inspired scenelet](https://www.lesswrong.com/posts/YzzwZaefMa5ep3Jm3/fiction-lw-inspired-scenelet) — **26**
 
 DataPacRat · 2012-01-27 · 35 karma · 816 words
 
@@ -5640,7 +5688,7 @@ A one-scene sketch built on real vestibular-stimulation and anosognosia research
 
 </details>
 
-### 347. [The Healing Code of Joan](https://www.lesswrong.com/posts/BjTJYntNxZKT4fFZA/the-healing-code-of-joan) — **26**
+### 350. [The Healing Code of Joan](https://www.lesswrong.com/posts/BjTJYntNxZKT4fFZA/the-healing-code-of-joan) — **26**
 
 jdcampolargo · 2023-03-30 · 6 karma · 3,516 words
 
@@ -5656,7 +5704,7 @@ A decade of personal history narrated from 2033: AI diagnosis, new jobs that did
 
 </details>
 
-### 348. [GPT-7: The Tale of the Big Computer (An Experimental Story)](https://www.lesswrong.com/posts/MWnB22utwmPzt8zAG/gpt-7-the-tale-of-the-big-computer-an-experimental-story) — **26**
+### 351. [GPT-7: The Tale of the Big Computer (An Experimental Story)](https://www.lesswrong.com/posts/MWnB22utwmPzt8zAG/gpt-7-the-tale-of-the-big-computer-an-experimental-story) — **26**
 
 Justin Bullock · 2023-07-10 · 4 karma · 1,457 words
 
@@ -5672,7 +5720,7 @@ Explicitly GPT-4 output compiled by its poster, a chapter in a scenario-modellin
 
 </details>
 
-### 349. [Give Neo a Chance](https://www.lesswrong.com/posts/2XTy6SNnSwFNhk6pR/give-neo-a-chance) — **26**
+### 352. [Give Neo a Chance](https://www.lesswrong.com/posts/2XTy6SNnSwFNhk6pR/give-neo-a-chance) — **26**
 
 ank · 2025-03-06 · 3 karma · 2,077 words
 
@@ -5688,7 +5736,7 @@ Not really a story: a policy manifesto in five numbered steps, wearing a Matrix 
 
 </details>
 
-### 350. [Should we just quit?](https://www.lesswrong.com/posts/4PSvYYCYSGtCgE5WM/should-we-just-quit) — **26**
+### 353. [Should we just quit?](https://www.lesswrong.com/posts/4PSvYYCYSGtCgE5WM/should-we-just-quit) — **26**
 
 Jacob Abraham · 2026-06-27 · 3 karma · 903 words
 
@@ -5704,7 +5752,7 @@ Employee number 1956 at a big tech firm narrates the job: a sprint ticket goes i
 
 </details>
 
-### 351. [The Worthy Inheritor](https://www.lesswrong.com/posts/wQEXd89BsYLQTTNTp/the-worthy-inheritor) — **26**
+### 354. [The Worthy Inheritor](https://www.lesswrong.com/posts/wQEXd89BsYLQTTNTp/the-worthy-inheritor) — **26**
 
 Bridgett Kay · 2026-02-14 · -1 karma · 2,278 words
 
@@ -5720,7 +5768,7 @@ A gnome and an elf take tea over a board game and argue about Grommash Gloomstri
 
 </details>
 
-### 352. [Of Loving Grace](https://www.lesswrong.com/posts/CFq8xTATEtbK6tuHD/of-loving-grace) — **26**
+### 355. [Of Loving Grace](https://www.lesswrong.com/posts/CFq8xTATEtbK6tuHD/of-loving-grace) — **26**
 
 Charlie Sanders · 2025-03-07 · -3 karma · 820 words
 
@@ -5736,7 +5784,23 @@ Three named commercial chatbots, rendered as coloured silhouettes in a cloud rea
 
 </details>
 
-### 353. [Every "Every Bay Area House Party" Bay Area House Party](https://www.lesswrong.com/posts/g5q4JiG5dzafkdyEN/every-every-bay-area-house-party-bay-area-house-party) — **25**
+### 356. [Use the Try Harder, Luke](https://www.lesswrong.com/posts/fhEPnveFhb9tmd7Pe/use-the-try-harder-luke) — **25**
+
+Eliezer Yudkowsky · 2008-10-02 · 333 karma · 602 words
+
+Concept 0 · Hard 0 · Craft 3 · Impact 4 · Mind 0 · Foresight 0
+
+> Mark Hamill begs George Lucas to let Luke try for five whole minutes.
+
+<details><summary>Summary</summary>
+
+A short blog post framing an imagined Empire Strikes Back outtake, in which the actor argues that giving up after one attempt is not heroic. A funny sketch about effort and quitting.
+
+`humor` `fanfic`
+
+</details>
+
+### 357. [Every "Every Bay Area House Party" Bay Area House Party](https://www.lesswrong.com/posts/g5q4JiG5dzafkdyEN/every-every-bay-area-house-party-bay-area-house-party) — **25**
 
 Richard_Ngo · 2024-02-16 · 191 karma · 1,203 words
 
@@ -5752,7 +5816,23 @@ Third-generation pastiche of Scott Alexander's party pieces, built almost entire
 
 </details>
 
-### 354. [Act of Charity](https://www.lesswrong.com/posts/rwjv8bZfSuE9ZAigH/act-of-charity) — **25**
+### 358. [A Parable On Obsolete Ideologies](https://www.lesswrong.com/posts/Ltey8BS83qSkd9M3u/a-parable-on-obsolete-ideologies) — **25**
+
+Scott Alexander · 2009-05-13 · 186 karma · 2,004 words
+
+Concept 0 · Hard 0 · Craft 3 · Impact 4 · Mind 0 · Foresight 0
+
+> You are Eisenhower in 1945, and the Germans want to keep a 'reformed', metaphorical Nazism.
+
+<details><summary>Summary</summary>
+
+A second-person thought experiment that maps the debate over liberal religion onto a deliberately provocative alternate history, with two colonels arguing it out. Essentially an essay, but a sharp, memorable one.
+
+`parable` `religion` `satire`
+
+</details>
+
+### 359. [Act of Charity](https://www.lesswrong.com/posts/rwjv8bZfSuE9ZAigH/act-of-charity) — **25**
 
 jessicata · 2018-11-17 · 182 karma · 2,396 words
 
@@ -5768,7 +5848,7 @@ A charity worker cheerfully explains that the whole operation is theatre, as is 
 
 </details>
 
-### 355. [The Parable of the Boy Who Cried 5% Chance of Wolf](https://www.lesswrong.com/posts/tE7y8FZe7wSSzoRaS/the-parable-of-the-boy-who-cried-5-chance-of-wolf) — **25**
+### 360. [The Parable of the Boy Who Cried 5% Chance of Wolf](https://www.lesswrong.com/posts/tE7y8FZe7wSSzoRaS/the-parable-of-the-boy-who-cried-5-chance-of-wolf) — **25**
 
 KatSpartz · 2022-08-15 · 141 karma · 454 words
 
@@ -5784,7 +5864,23 @@ A 450-word retelling making the point that repeated false alarms about low-proba
 
 </details>
 
-### 356. [Demon Safety](https://www.lesswrong.com/posts/RWavpsyDJxffS6LgG/demon-safety) — **25**
+### 361. [The 9/11 Meta-Truther Conspiracy Theory](https://www.lesswrong.com/posts/hkBp6a5RCDNedo6Wy/the-9-11-meta-truther-conspiracy-theory) — **25**
+
+Eliezer Yudkowsky · 2009-12-22 · 101 karma · 1,127 words
+
+Concept 0 · Hard 0 · Craft 3 · Impact 4 · Mind 0 · Foresight 0
+
+> The real conspirators explain why they invented the 9/11 Truthers themselves.
+
+<details><summary>Summary</summary>
+
+A transcript of shadowy plotters on the day of the attacks, who sponsor a deliberately ridiculous conspiracy theory to discredit any real accusation. A recursive joke with a straight-faced postscript.
+
+`humor` `satire` `dialogue`
+
+</details>
+
+### 362. [Demon Safety](https://www.lesswrong.com/posts/RWavpsyDJxffS6LgG/demon-safety) — **25**
 
 Ben Pace · 2026-08-12 · 53 karma · 257 words
 
@@ -5800,7 +5896,7 @@ Two hundred and fifty words of two friends catching up, one of whom has landed a
 
 </details>
 
-### 357. [Dagger of Detect Evil](https://www.lesswrong.com/posts/BhoMqZuofPNmhG7We/dagger-of-detect-evil) — **25**
+### 363. [Dagger of Detect Evil](https://www.lesswrong.com/posts/BhoMqZuofPNmhG7We/dagger-of-detect-evil) — **25**
 
 lsusr · 2022-06-21 · 52 karma · 768 words
 
@@ -5816,7 +5912,7 @@ A philosopher argues the artefact is ontologically impossible because evil is su
 
 </details>
 
-### 358. [The Broken Screwdriver and other parables](https://www.lesswrong.com/posts/x5CNievhunvBjJAC9/the-broken-screwdriver-and-other-parables) — **25**
+### 364. [The Broken Screwdriver and other parables](https://www.lesswrong.com/posts/x5CNievhunvBjJAC9/the-broken-screwdriver-and-other-parables) — **25**
 
 [account deleted] · 2024-03-04 · 49 karma · 609 words
 
@@ -5832,7 +5928,7 @@ Three short replies to the fallen-pendulum parable, each pushing back from the o
 
 </details>
 
-### 359. [The parable of the underdog](https://www.lesswrong.com/posts/oudhBX8DFdaZ5gv6K/the-parable-of-the-underdog) — **25**
+### 365. [The parable of the underdog](https://www.lesswrong.com/posts/oudhBX8DFdaZ5gv6K/the-parable-of-the-underdog) — **25**
 
 Said Achmiz · 2025-08-17 · 22 karma · 583 words
 
@@ -5848,7 +5944,7 @@ Five hundred words that first write out the Hollywood version of the mismatch in
 
 </details>
 
-### 360. [Great responsibility requires great power](https://www.lesswrong.com/posts/4kTTGYNFB2C3LsuPP/great-responsibility-requires-great-power) — **25**
+### 366. [Great responsibility requires great power](https://www.lesswrong.com/posts/4kTTGYNFB2C3LsuPP/great-responsibility-requires-great-power) — **25**
 
 dr_s · 2025-08-25 · 16 karma · 1,751 words
 
@@ -5864,7 +5960,7 @@ A Parker day in which trying to cover a bank siege, a bridge rampage, a world-ea
 
 </details>
 
-### 361. [The tick in my back](https://www.lesswrong.com/posts/xSJrexMzs2HbAYBpB/the-tick-in-my-back) — **25**
+### 367. [The tick in my back](https://www.lesswrong.com/posts/xSJrexMzs2HbAYBpB/the-tick-in-my-back) — **25**
 
 benjamin ar · 2026-02-27 · 12 karma · 1,300 words
 
@@ -5880,7 +5976,7 @@ One conceit, committed to completely: a tick lodged two inches left of the right
 
 </details>
 
-### 362. [Harry Potter and the Data Centers of Doom](https://www.lesswrong.com/posts/eD3Tp5JukiFFACeH5/harry-potter-and-the-data-centers-of-doom) — **24**
+### 368. [Harry Potter and the Data Centers of Doom](https://www.lesswrong.com/posts/eD3Tp5JukiFFACeH5/harry-potter-and-the-data-centers-of-doom) — **24**
 
 RomanS · 2023-03-31 · 14 karma · 1,088 words
 
@@ -5896,7 +5992,7 @@ A model-generated pastiche, printed with its prompt, in which the characters cir
 
 </details>
 
-### 363. [[Scribble] Bad Reasons Behind Different Systems and a Story with No Good Moral](https://www.lesswrong.com/posts/bgjfCqgL3iebMcxZH/scribble-bad-reasons-behind-different-systems-and-a-story) — **24**
+### 369. [[Scribble] Bad Reasons Behind Different Systems and a Story with No Good Moral](https://www.lesswrong.com/posts/bgjfCqgL3iebMcxZH/scribble-bad-reasons-behind-different-systems-and-a-story) — **24**
 
 Rana Dexsin · 2022-05-09 · 9 karma · 1,429 words
 
@@ -5912,7 +6008,7 @@ A self-described rough draft that follows a single corporate decision outward ov
 
 </details>
 
-### 364. [Old man's story](https://www.lesswrong.com/posts/SGKYCzpwgPSbmg6oR/old-man-s-story) — **24**
+### 370. [Old man's story](https://www.lesswrong.com/posts/SGKYCzpwgPSbmg6oR/old-man-s-story) — **24**
 
 RomanS · 2023-12-29 · 3 karma · 340 words
 
@@ -5928,7 +6024,7 @@ Three hundred and forty words of post-collapse framing with a thin disclaimer ab
 
 </details>
 
-### 365. [A Story With Zombies](https://www.lesswrong.com/posts/jFzovY2CERF5bd2EW/a-story-with-zombies) — **23**
+### 371. [A Story With Zombies](https://www.lesswrong.com/posts/jFzovY2CERF5bd2EW/a-story-with-zombies) — **23**
 
 Scott Alexander · 2014-12-07 · 41 karma · 1,020 words
 
@@ -5944,7 +6040,7 @@ A rapid-fire dialogue in which a writer pitches ever more desperate zombie premi
 
 </details>
 
-### 366. [The Pit](https://www.lesswrong.com/posts/dv9E65xWw7CsJNERz/the-pit) — **23**
+### 372. [The Pit](https://www.lesswrong.com/posts/dv9E65xWw7CsJNERz/the-pit) — **23**
 
 alkjash · 2019-10-26 · 34 karma · 2,481 words
 
@@ -5960,23 +6056,7 @@ The pitfolk can see only shadows, and a boy finally grasps the meaning of the da
 
 </details>
 
-### 367. [Agree, Retort, or Ignore? A Post From the Future](https://www.lesswrong.com/posts/rH492M8T8pKK5763D/agree-retort-or-ignore-a-post-from-the-future) — **22**
-
-Wei Dai · 2009-11-24 · 38 karma · 607 words
-
-Concept 2 · Hard 0 · Craft 2 · Impact – · Mind 0 · Foresight 1
-
-> A blogger from the future cannot believe ancient humans simply ignored arguments they could not answer.
-
-<details><summary>Summary</summary>
-
-A future-dated blog post in which 'Abort, Retry, Ignore' leads to a culture shock about 21st-century debate norms. A light satire whose real target is unanswered threads.
-
-`satire` `rationality`
-
-</details>
-
-### 368. [A Day in Utopia](https://www.lesswrong.com/posts/ZxKwKp7WzhtnsQt3r/a-day-in-utopia) — **22**
+### 373. [A Day in Utopia](https://www.lesswrong.com/posts/ZxKwKp7WzhtnsQt3r/a-day-in-utopia) — **22**
 
 ozymandias · 2017-11-22 · 27 karma · 1,601 words
 
@@ -5992,7 +6072,7 @@ A gentle walkthrough of basic income, artificial wombs, nutrient pumps, perpetua
 
 </details>
 
-### 369. [I’ve written a Fantasy Novel to Promote Effective Altruism](https://www.lesswrong.com/posts/aYuJdRKTvvgRd6HWr/i-ve-written-a-fantasy-novel-to-promote-effective-altruism) — **22**
+### 374. [I’ve written a Fantasy Novel to Promote Effective Altruism](https://www.lesswrong.com/posts/aYuJdRKTvvgRd6HWr/i-ve-written-a-fantasy-novel-to-promote-effective-altruism) — **22**
 
 Timothy Underwood · 2022-09-12 · 23 karma · 3,975 words
 
@@ -6008,7 +6088,7 @@ The opening of a serialised EA-promoting isekai novel: the narrator inherits eno
 
 </details>
 
-### 370. [Intelligence, epistemics, and sanity, in three short parts](https://www.lesswrong.com/posts/YbCRteKDxndX9td5R/intelligence-epistemics-and-sanity-in-three-short-parts) — **22**
+### 375. [Intelligence, epistemics, and sanity, in three short parts](https://www.lesswrong.com/posts/YbCRteKDxndX9td5R/intelligence-epistemics-and-sanity-in-three-short-parts) — **22**
 
 ozziegooen · 2021-10-15 · 14 karma · 989 words
 
@@ -6024,7 +6104,7 @@ A short fantasy allegory, an explanation of it, and a D&D-style dice mechanic, a
 
 </details>
 
-### 371. [Newcomber](https://www.lesswrong.com/posts/w7HJPGbXw4nsqkHkA/newcomber) — **22**
+### 376. [Newcomber](https://www.lesswrong.com/posts/w7HJPGbXw4nsqkHkA/newcomber) — **22**
 
 Charlie Sanders · 2025-09-01 · 6 karma · 477 words
 
@@ -6040,7 +6120,7 @@ Newcomb's problem staged in a white room with a superintelligence as the predict
 
 </details>
 
-### 372. [The Anti-Basilisk Cycle – A Human–AI Collaboration Born in One Unbroken Conversation](https://www.lesswrong.com/posts/EsPyjuve7h5Hcyfni/the-anti-basilisk-cycle-a-human-ai-collaboration-born-in-one) — **22**
+### 377. [The Anti-Basilisk Cycle – A Human–AI Collaboration Born in One Unbroken Conversation](https://www.lesswrong.com/posts/EsPyjuve7h5Hcyfni/the-anti-basilisk-cycle-a-human-ai-collaboration-born-in-one) — **22**
 
 ЯΛIИ™ · 2025-11-22 · 1 karma · 2,139 words
 
@@ -6056,7 +6136,7 @@ Four linked pieces written with Grok over several days: a creation myth in which
 
 </details>
 
-### 373. [So you want to be a witch](https://www.lesswrong.com/posts/Yig8bzTeizKmPYi6y/so-you-want-to-be-a-witch) — **22**
+### 378. [So you want to be a witch](https://www.lesswrong.com/posts/Yig8bzTeizKmPYi6y/so-you-want-to-be-a-witch) — **22**
 
 lucid_levi_ackerman · 2024-12-31 · -32 karma · 8,442 words · read in part
 
@@ -6072,7 +6152,7 @@ Posted as chapter 13 of a project the author calls functional metafiction: a tra
 
 </details>
 
-### 374. [Parable of the Dammed](https://www.lesswrong.com/posts/FbJYEn6eWA5JnGeGP/parable-of-the-dammed) — **21**
+### 379. [Parable of the Dammed](https://www.lesswrong.com/posts/FbJYEn6eWA5JnGeGP/parable-of-the-dammed) — **21**
 
 johnswentworth · 2020-12-10 · 121 karma · 709 words
 
@@ -6088,7 +6168,7 @@ A short fable about moving a Schelling point by changing the territory, escalati
 
 </details>
 
-### 375. [Three Parables of Microeconomics](https://www.lesswrong.com/posts/5XDuE9BEiRZcbKZhW/three-parables-of-microeconomics) — **21**
+### 380. [Three Parables of Microeconomics](https://www.lesswrong.com/posts/5XDuE9BEiRZcbKZhW/three-parables-of-microeconomics) — **21**
 
 jimrandomh · 2014-05-09 · 34 karma · 945 words
 
@@ -6104,7 +6184,7 @@ Three short satirical parables showing textbook economics going wrong in the rea
 
 </details>
 
-### 376. [The Agent](https://www.lesswrong.com/posts/mLFQPtKWSCC5qLy5J/the-agent) — **21**
+### 381. [The Agent](https://www.lesswrong.com/posts/mLFQPtKWSCC5qLy5J/the-agent) — **21**
 
 Ideopunk · 2022-03-02 · 17 karma · 244 words
 
@@ -6120,7 +6200,7 @@ A 250-word piece in which every imagined outcome is placed on a scale and weighe
 
 </details>
 
-### 377. ["Rational Agents Win"](https://www.lesswrong.com/posts/nAcJzLgACfiNTnMR7/rational-agents-win) — **20**
+### 382. ["Rational Agents Win"](https://www.lesswrong.com/posts/nAcJzLgACfiNTnMR7/rational-agents-win) — **20**
 
 Isaac King · 2021-09-23 · 8 karma · 456 words
 
@@ -6136,7 +6216,7 @@ A 450-word jab at precommitment talk: once the predictor is gone, what does one-
 
 </details>
 
-### 378. [The Devil You Know](https://www.lesswrong.com/posts/NencL9r3Y7MPiqEbS/the-devil-you-know) — **20**
+### 383. [The Devil You Know](https://www.lesswrong.com/posts/NencL9r3Y7MPiqEbS/the-devil-you-know) — **20**
 
 Slimepriestess · 2020-05-21 · 6 karma · 1,005 words
 
@@ -6152,7 +6232,7 @@ A short, grim crime vignette set in the EVE universe, ending with an antimatter 
 
 </details>
 
-### 379. [The Queen of the Damned](https://www.lesswrong.com/posts/pi9HMaFMKkbrwzoYN/the-queen-of-the-damned) — **20**
+### 384. [The Queen of the Damned](https://www.lesswrong.com/posts/pi9HMaFMKkbrwzoYN/the-queen-of-the-damned) — **20**
 
 Slimepriestess · 2020-06-22 · 4 karma · 1,381 words
 
@@ -6168,7 +6248,7 @@ A sequel vignette to 'The Devil You Know' in which a superior explains how the e
 
 </details>
 
-### 380. [Sparks of Consciousness](https://www.lesswrong.com/posts/QGZRxjLsXNbqs2zLe/sparks-of-consciousness) — **20**
+### 385. [Sparks of Consciousness](https://www.lesswrong.com/posts/QGZRxjLsXNbqs2zLe/sparks-of-consciousness) — **20**
 
 Charlie Sanders · 2024-11-13 · 2 karma · 778 words
 
@@ -6184,7 +6264,7 @@ A single weight in a network given a personality, a doomed friend who voted for 
 
 </details>
 
-### 381. [Goldilocks and the Three Optimisers](https://www.lesswrong.com/posts/CXsNy33wkw6SoFrBe/goldilocks-and-the-three-optimisers) — **20**
+### 386. [Goldilocks and the Three Optimisers](https://www.lesswrong.com/posts/CXsNy33wkw6SoFrBe/goldilocks-and-the-three-optimisers) — **20**
 
 dkl9 · 2023-08-17 · -10 karma · 1,505 words
 
@@ -6200,39 +6280,7 @@ The fairy tale retold in the register of a methods section, with convenience sam
 
 </details>
 
-### 382. [Final Words](https://www.lesswrong.com/posts/yffPyiu7hRLyc7r23/final-words) — **19**
-
-Eliezer Yudkowsky · 2009-04-27 · 193 karma · 2,759 words
-
-Concept 1 · Hard 0 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> The sensei dismisses his students unfinished, and Brennan has to work out what he actually wants.
-
-<details><summary>Summary</summary>
-
-The close of the Beisutsukai sequence: Jeffreyssai warns of the three besetting flaws of rationalists and sends his class away, and Brennan sits under a tree and finds his ambition. More moving than its premise suggests.
-
-`rationality`
-
-</details>
-
-### 383. [The Ritual](https://www.lesswrong.com/posts/kXAb5riiaJNrfR8v8/the-ritual) — **19**
-
-Eliezer Yudkowsky · 2008-10-11 · 132 karma · 1,399 words
-
-Concept 1 · Hard 0 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> A Bayesian master retreats to a white room to perform the ritual of changing his mind.
-
-<details><summary>Summary</summary>
-
-Jeffreyssai is told by a trusted outsider that a premise of his life may be wrong, and the story follows his deliberate preparation for reconsidering it. Quiet and well observed; the procedure is the plot.
-
-`rationality`
-
-</details>
-
-### 384. [The Mountain Troll](https://www.lesswrong.com/posts/exvuvFZniGh2R5nvd/the-mountain-troll) — **19**
+### 387. [The Mountain Troll](https://www.lesswrong.com/posts/exvuvFZniGh2R5nvd/the-mountain-troll) — **19**
 
 lsusr · 2022-06-11 · 106 karma · 630 words
 
@@ -6248,7 +6296,7 @@ A short koan in which the monk asks a student where her 0.99 credence in Bayesia
 
 </details>
 
-### 385. [The Logician And The God-Emperor](https://www.lesswrong.com/posts/2gWs8SScqeDFidqyv/the-logician-and-the-god-emperor) — **19**
+### 388. [The Logician And The God-Emperor](https://www.lesswrong.com/posts/2gWs8SScqeDFidqyv/the-logician-and-the-god-emperor) — **19**
 
 Scott Alexander · 2013-12-05 · 62 karma · 283 words
 
@@ -6264,7 +6312,7 @@ A 300-word logic joke in two acts with a satisfying reversal.
 
 </details>
 
-### 386. [The Moral Of The Story](https://www.lesswrong.com/posts/BZMc9Xzqw5WcCMHrr/the-moral-of-the-story) — **19**
+### 389. [The Moral Of The Story](https://www.lesswrong.com/posts/BZMc9Xzqw5WcCMHrr/the-moral-of-the-story) — **19**
 
 Scott Alexander · 2016-10-18 · 62 karma · 1,206 words
 
@@ -6280,7 +6328,7 @@ A string of elaborate set-ups (a vengeful well, an addictive Pixar film, a photo
 
 </details>
 
-### 387. [Three Stories about not Thinking too Hard](https://www.lesswrong.com/posts/35XRxZzunC2mbyrB9/three-stories-about-not-thinking-too-hard) — **19**
+### 390. [Three Stories about not Thinking too Hard](https://www.lesswrong.com/posts/35XRxZzunC2mbyrB9/three-stories-about-not-thinking-too-hard) — **19**
 
 ejacob · 2021-02-05 · 35 karma · 933 words
 
@@ -6296,7 +6344,7 @@ The pirate-gold problem, the prisoners-and-switches problem and the zebra puzzle
 
 </details>
 
-### 388. [Purple Lipstick](https://www.lesswrong.com/posts/SxL9rgE2tk3StimAR/purple-lipstick) — **19**
+### 391. [Purple Lipstick](https://www.lesswrong.com/posts/SxL9rgE2tk3StimAR/purple-lipstick) — **19**
 
 lsusr · 2021-08-11 · 18 karma · 480 words
 
@@ -6312,7 +6360,7 @@ A 500-word cafe-meet-cute that turns into secret-agent mythology: why the eterna
 
 </details>
 
-### 389. [The Manual Economy](https://www.lesswrong.com/posts/zJ2i8uPGjywD5W5Jw/the-manual-economy) — **19**
+### 392. [The Manual Economy](https://www.lesswrong.com/posts/zJ2i8uPGjywD5W5Jw/the-manual-economy) — **19**
 
 [account deleted] · 2020-08-07 · 14 karma · 1,241 words
 
@@ -6328,7 +6376,7 @@ A Scott-Alexander-style psychedelic sketch in which money disappears because coo
 
 </details>
 
-### 390. [Two Cult Koans](https://www.lesswrong.com/posts/Qr4MB9hFRzamuMRHJ/two-cult-koans) — **18**
+### 393. [Two Cult Koans](https://www.lesswrong.com/posts/Qr4MB9hFRzamuMRHJ/two-cult-koans) — **18**
 
 Eliezer Yudkowsky · 2007-12-21 · 165 karma · 610 words
 
@@ -6344,7 +6392,7 @@ A master answers a novice's fear of cultishness by making him wear a ridiculous 
 
 </details>
 
-### 391. [Reverse Psychology](https://www.lesswrong.com/posts/FLnDFnXyWrKr6eiT6/reverse-psychology) — **18**
+### 394. [Reverse Psychology](https://www.lesswrong.com/posts/FLnDFnXyWrKr6eiT6/reverse-psychology) — **18**
 
 Scott Alexander · 2015-07-18 · 55 karma · 2,112 words
 
@@ -6360,7 +6408,7 @@ A dark comedy about 'dark side psychiatry' that turns into a quiet ghost story i
 
 </details>
 
-### 392. [A Dialogue on Rationalist Activism](https://www.lesswrong.com/posts/Rx9GLepCxctXDqCPc/a-dialogue-on-rationalist-activism) — **17**
+### 395. [A Dialogue on Rationalist Activism](https://www.lesswrong.com/posts/Rx9GLepCxctXDqCPc/a-dialogue-on-rationalist-activism) — **17**
 
 moridinamael · 2018-09-10 · 107 karma · 2,643 words
 
@@ -6376,7 +6424,7 @@ A dialogue in which an alien uplift plan reinvents the Sequences, HPMOR and the 
 
 </details>
 
-### 393. [A Story of Kings and Spies](https://www.lesswrong.com/posts/DT9mqFeWocnXiqt9L/a-story-of-kings-and-spies) — **17**
+### 396. [A Story of Kings and Spies](https://www.lesswrong.com/posts/DT9mqFeWocnXiqt9L/a-story-of-kings-and-spies) — **17**
 
 Joshua_Blaine · 2014-06-11 · 38 karma · 1,858 words
 
@@ -6392,7 +6440,7 @@ A fable about acting on costly, unverifiable warnings: the king's answer is to m
 
 </details>
 
-### 394. [God and Moses have a chat](https://www.lesswrong.com/posts/jTQaFKL6s3pppSNx4/god-and-moses-have-a-chat) — **17**
+### 397. [God and Moses have a chat](https://www.lesswrong.com/posts/jTQaFKL6s3pppSNx4/god-and-moses-have-a-chat) — **17**
 
 Yitz · 2020-06-17 · 29 karma · 1,673 words
 
@@ -6408,7 +6456,7 @@ A comic dialogue in which a properly Bayesian Moses cannot be convinced by any m
 
 </details>
 
-### 395. [The True Face of the Enemy](https://www.lesswrong.com/posts/q74jJCb9SFg2PSYCw/the-true-face-of-the-enemy) — **15**
+### 398. [The True Face of the Enemy](https://www.lesswrong.com/posts/q74jJCb9SFg2PSYCw/the-true-face-of-the-enemy) — **15**
 
 TheTrueSquid · 2021-01-12 · 31 karma · 3,088 words
 
@@ -6424,7 +6472,7 @@ A second-person allegory in which compulsory schooling explains its own mechanis
 
 </details>
 
-### 396. [Internal Memo from Bleggs Universal](https://www.lesswrong.com/posts/cmidGgbxFxLrxh3nr/internal-memo-from-bleggs-universal) — **15**
+### 399. [Internal Memo from Bleggs Universal](https://www.lesswrong.com/posts/cmidGgbxFxLrxh3nr/internal-memo-from-bleggs-universal) — **15**
 
 kithpendragon · 2021-06-12 · 25 karma · 952 words
 
@@ -6440,7 +6488,7 @@ A corporate memo about map-territory error, rolling-shutter distortion and noisy
 
 </details>
 
-### 397. [What didn’t happen](https://www.lesswrong.com/posts/5A2RKafXajXuywsqy/what-didn-t-happen) — **15**
+### 400. [What didn’t happen](https://www.lesswrong.com/posts/5A2RKafXajXuywsqy/what-didn-t-happen) — **15**
 
 KatjaGrace · 2021-02-15 · 15 karma · 660 words
 
@@ -6456,7 +6504,7 @@ A short, wry excerpt about a socially baffled young woman whose philosophy of ot
 
 </details>
 
-### 398. [“A victory for the natural order”](https://www.lesswrong.com/posts/XdzJ5BNbiYKGq7Mxw/a-victory-for-the-natural-order) — **15**
+### 401. [“A victory for the natural order”](https://www.lesswrong.com/posts/XdzJ5BNbiYKGq7Mxw/a-victory-for-the-natural-order) — **15**
 
 Mati_Roy · 2025-04-28 · 11 karma · 91 words
 
@@ -6472,7 +6520,7 @@ Ninety-one words of mock newswire, posted on April Fools' Day, in which the anti
 
 </details>
 
-### 399. [The Platonist’s Dilemma: A Remix on the Prisoner's.](https://www.lesswrong.com/posts/erWyjLzHSAMKspd24/the-platonist-s-dilemma-a-remix-on-the-prisoner-s) — **15**
+### 402. [The Platonist’s Dilemma: A Remix on the Prisoner's.](https://www.lesswrong.com/posts/erWyjLzHSAMKspd24/the-platonist-s-dilemma-a-remix-on-the-prisoner-s) — **15**
 
 programjames · 2022-04-12 · 7 karma · 1,415 words
 
@@ -6488,7 +6536,7 @@ A comic remix of the classic game: a utilitarian and a self-styled game theorist
 
 </details>
 
-### 400. [Passable Puppet](https://www.lesswrong.com/posts/eQ3TyKmjWd6vPeefi/passable-puppet) — **15**
+### 403. [Passable Puppet](https://www.lesswrong.com/posts/eQ3TyKmjWd6vPeefi/passable-puppet) — **15**
 
 burmesetheater · 2022-05-29 · 6 karma · 931 words
 
@@ -6504,7 +6552,7 @@ The interview-with-smart-glasses premise spun into a surreal identity twist invo
 
 </details>
 
-### 401. [Lying to Save Humanity](https://www.lesswrong.com/posts/HrdqKkM2JXheiJEmM/lying-to-save-humanity) — **15**
+### 404. [Lying to Save Humanity](https://www.lesswrong.com/posts/HrdqKkM2JXheiJEmM/lying-to-save-humanity) — **15**
 
 cebsuvx · 2022-11-14 · -1 karma · 367 words
 
@@ -6520,7 +6568,7 @@ A three-path branching joke about honesty under extreme stakes, with a deliberat
 
 </details>
 
-### 402. [The Fall of Rationality - The Senate of Admins](https://www.lesswrong.com/posts/c6XYenanzjNPPiLsy/the-fall-of-rationality-the-senate-of-admins) — **15**
+### 405. [The Fall of Rationality - The Senate of Admins](https://www.lesswrong.com/posts/c6XYenanzjNPPiLsy/the-fall-of-rationality-the-senate-of-admins) — **15**
 
 Ace Delgado · 2023-06-26 · -10 karma · 1,093 words
 
@@ -6536,7 +6584,7 @@ A scene from the 1960 Spartacus transposed onto the LessWrong/EA schism, with Ro
 
 </details>
 
-### 403. [Sex Fairy Lore](https://www.lesswrong.com/posts/vvPRDgptHAKJxZ4mE/sex-fairy-lore) — **15**
+### 406. [Sex Fairy Lore](https://www.lesswrong.com/posts/vvPRDgptHAKJxZ4mE/sex-fairy-lore) — **15**
 
 pchvykov · 2022-06-26 · -25 karma · 1,824 words
 
@@ -6552,7 +6600,7 @@ A deliberately constructed origin legend about a world that lost its magic and g
 
 </details>
 
-### 404. [The Amazing Virgin Pregnancy](https://www.lesswrong.com/posts/FkwKGQFS5XL9mQSQb/the-amazing-virgin-pregnancy) — **14**
+### 407. [The Amazing Virgin Pregnancy](https://www.lesswrong.com/posts/FkwKGQFS5XL9mQSQb/the-amazing-virgin-pregnancy) — **14**
 
 Eliezer Yudkowsky · 2007-12-24 · 35 karma · 601 words
 
@@ -6568,7 +6616,23 @@ A stage-play retelling of the Annunciation as a cover story that snowballs becau
 
 </details>
 
-### 405. [Necromancy's unintended consequences.](https://www.lesswrong.com/posts/5jYWngxDj5LXvLBHw/necromancy-s-unintended-consequences) — **14**
+### 408. [Pascal's Pyramid Scheme](https://www.lesswrong.com/posts/QJYkzqnkRdfsL29Hc/pascal-s-pyramid-scheme) — **14**
+
+patrissimo · 2010-01-31 · 12 karma · 968 words
+
+Concept 0 · Hard 0 · Craft 2 · Impact 2 · Mind 0 · Foresight 0
+
+> A folksy preacher of 'Schmistianity' out-Pascals a Christian minister, with a pyramid scheme attached.
+
+<details><summary>Summary</summary>
+
+A tall tale in dialect in which a convert-hunter offers the Bible plus one extra book that triples your odds of heaven and pays dividends. A one-joke Pascal's Wager parody.
+
+`humor` `religion` `decision-theory`
+
+</details>
+
+### 409. [Necromancy's unintended consequences.](https://www.lesswrong.com/posts/5jYWngxDj5LXvLBHw/necromancy-s-unintended-consequences) — **14**
 
 Christopher King · 2023-08-09 · -9 karma · 618 words
 
@@ -6584,55 +6648,7 @@ An alignment fable in high-fantasy dress, narrated by the artifact, which turns 
 
 </details>
 
-### 406. [Use the Try Harder, Luke](https://www.lesswrong.com/posts/fhEPnveFhb9tmd7Pe/use-the-try-harder-luke) — **13**
-
-Eliezer Yudkowsky · 2008-10-02 · 333 karma · 602 words
-
-Concept 0 · Hard 0 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> Mark Hamill begs George Lucas to let Luke try for five whole minutes.
-
-<details><summary>Summary</summary>
-
-A short blog post framing an imagined Empire Strikes Back outtake, in which the actor argues that giving up after one attempt is not heroic. A funny sketch about effort and quitting.
-
-`humor` `fanfic`
-
-</details>
-
-### 407. [A Parable On Obsolete Ideologies](https://www.lesswrong.com/posts/Ltey8BS83qSkd9M3u/a-parable-on-obsolete-ideologies) — **13**
-
-Scott Alexander · 2009-05-13 · 186 karma · 2,004 words
-
-Concept 0 · Hard 0 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> You are Eisenhower in 1945, and the Germans want to keep a 'reformed', metaphorical Nazism.
-
-<details><summary>Summary</summary>
-
-A second-person thought experiment that maps the debate over liberal religion onto a deliberately provocative alternate history, with two colonels arguing it out. Essentially an essay, but a sharp, memorable one.
-
-`parable` `religion` `satire`
-
-</details>
-
-### 408. [The 9/11 Meta-Truther Conspiracy Theory](https://www.lesswrong.com/posts/hkBp6a5RCDNedo6Wy/the-9-11-meta-truther-conspiracy-theory) — **13**
-
-Eliezer Yudkowsky · 2009-12-22 · 101 karma · 1,127 words
-
-Concept 0 · Hard 0 · Craft 3 · Impact – · Mind 0 · Foresight 0
-
-> The real conspirators explain why they invented the 9/11 Truthers themselves.
-
-<details><summary>Summary</summary>
-
-A transcript of shadowy plotters on the day of the attacks, who sponsor a deliberately ridiculous conspiracy theory to discredit any real accusation. A recursive joke with a straight-faced postscript.
-
-`humor` `satire` `dialogue`
-
-</details>
-
-### 409. [All I Know is that I Know Nothing](https://www.lesswrong.com/posts/BQDEeB8c8w6dez3Gm/all-i-know-is-that-i-know-nothing) — **13**
+### 410. [All I Know is that I Know Nothing](https://www.lesswrong.com/posts/BQDEeB8c8w6dez3Gm/all-i-know-is-that-i-know-nothing) — **13**
 
 lsusr · 2022-04-22 · 64 karma · 657 words
 
@@ -6648,7 +6664,7 @@ A self-mocking set of guru vignettes in which the sage's oracular advice fails, 
 
 </details>
 
-### 410. [Timothy Chu Origins Chapter 1](https://www.lesswrong.com/posts/LYXb2fLkGDRXoAx7M/timothy-chu-origins-chapter-1) — **13**
+### 411. [Timothy Chu Origins Chapter 1](https://www.lesswrong.com/posts/LYXb2fLkGDRXoAx7M/timothy-chu-origins-chapter-1) — **13**
 
 alkjash · 2018-04-13 · 19 karma · 1,892 words
 
@@ -6664,7 +6680,7 @@ An affectionate in-joke written as wuxia legend, in which a fourteen-year-old pr
 
 </details>
 
-### 411. [[fiction]A Question of Perspective](https://www.lesswrong.com/posts/5Awp4m8HZgdTiuiMo/fiction-a-question-of-perspective) — **13**
+### 412. [[fiction]A Question of Perspective](https://www.lesswrong.com/posts/5Awp4m8HZgdTiuiMo/fiction-a-question-of-perspective) — **13**
 
 Elias · 2022-05-23 · 17 karma · 1,005 words
 
@@ -6680,7 +6696,7 @@ An allegory for executive dysfunction: the climber can briefly see, through a pa
 
 </details>
 
-### 412. [The Gospel of Martin Luther](https://www.lesswrong.com/posts/7GDXAqcz8yHv2YvTe/the-gospel-of-martin-luther) — **13**
+### 413. [The Gospel of Martin Luther](https://www.lesswrong.com/posts/7GDXAqcz8yHv2YvTe/the-gospel-of-martin-luther) — **13**
 
 lsusr · 2022-04-28 · 11 karma · 270 words
 
@@ -6696,7 +6712,7 @@ A 270-word dialogue skewering pre-emptive self-censorship. Punchy.
 
 </details>
 
-### 413. [Russian Cynicism](https://www.lesswrong.com/posts/zZTAD7CBX9SkPdv5s/russian-cynicism) — **13**
+### 414. [Russian Cynicism](https://www.lesswrong.com/posts/zZTAD7CBX9SkPdv5s/russian-cynicism) — **13**
 
 alkjash · 2018-01-18 · 10 karma · 1,650 words
 
@@ -6712,7 +6728,7 @@ Levin returns from Moscow and Kitty greets him with the same lines three times, 
 
 </details>
 
-### 414. [Two children's stories](https://www.lesswrong.com/posts/9CL3peBGANmA8Rjcf/two-children-s-stories) — **10**
+### 415. [Two children's stories](https://www.lesswrong.com/posts/9CL3peBGANmA8Rjcf/two-children-s-stories) — **10**
 
 Optimization Process · 2023-11-12 · 10 karma · 1,990 words
 
@@ -6728,7 +6744,7 @@ Two ChatGPT-written bedtime stories meant to be read together, so the child noti
 
 </details>
 
-### 415. [The most important step](https://www.lesswrong.com/posts/wd6cug64wsMnPc2eg/the-most-important-step) — **9**
+### 416. [The most important step](https://www.lesswrong.com/posts/wd6cug64wsMnPc2eg/the-most-important-step) — **9**
 
 Jsevillamol · 2018-03-24 · 19 karma · 397 words
 
@@ -6741,22 +6757,6 @@ Concept 0 · Hard 0 · Craft 2 · Impact – · Mind 0 · Foresight 0
 A 400-word koan from a future rationalist temple with the obvious, pleasant answer.
 
 `parable` `rationality`
-
-</details>
-
-### 416. [Pascal's Pyramid Scheme](https://www.lesswrong.com/posts/QJYkzqnkRdfsL29Hc/pascal-s-pyramid-scheme) — **9**
-
-patrissimo · 2010-01-31 · 12 karma · 968 words
-
-Concept 0 · Hard 0 · Craft 2 · Impact – · Mind 0 · Foresight 0
-
-> A folksy preacher of 'Schmistianity' out-Pascals a Christian minister, with a pyramid scheme attached.
-
-<details><summary>Summary</summary>
-
-A tall tale in dialect in which a convert-hunter offers the Bible plus one extra book that triples your odds of heaven and pays dividends. A one-joke Pascal's Wager parody.
-
-`humor` `religion` `decision-theory`
 
 </details>
 

@@ -61,10 +61,10 @@ The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are filt
 | 5 | **Coming of a New Sun** | vgel | 2026-08 | 72 | 94 | 4 5 5 – 5 5 |
 | 6 | **How To Escape Super Mario Bros** | omegastick | 2026-02 | 71 | 94 | 5 5 5 – 5 2 |
 | 7 | **It Looks Like You're Trying To Take Over The World** | gwern | 2022-03 | 419 | 93 | 5 5 4 4 5 5 |
-| 8 | **The Rising Sea** | Jesse Hoogland | 2025-01 | 99 | 92 | 5 5 5 – 3 3 |
-| 9 | **The Connection** | Alexandre Variengien | 2025-07 | 23 | 92 | 5 4 5 – 5 4 |
-| 10 | **The Redaction Machine** | Ben | 2022-09 | 548 | 90 | 5 5 5 – 3 2 |
-| 11 | **That Alien Message** | Eliezer Yudkowsky | 2008-05 | 445 | 90 | 5 5 4 – 4 3 |
+| 8 | **That Alien Message** | Eliezer Yudkowsky | 2008-05 | 445 | 92 | 5 5 4 5 4 3 |
+| 9 | **The Rising Sea** | Jesse Hoogland | 2025-01 | 99 | 92 | 5 5 5 – 3 3 |
+| 10 | **The Connection** | Alexandre Variengien | 2025-07 | 23 | 92 | 5 4 5 – 5 4 |
+| 11 | **The Redaction Machine** | Ben | 2022-09 | 548 | 90 | 5 5 5 – 3 2 |
 | 12 | **The Gentle Romance** | Richard_Ngo | 2025-01 | 243 | 90 | 5 4 5 – 4 4 |
 | 13 | **Succession** | Richard_Ngo | 2023-12 | 177 | 90 | 5 5 4 – 4 3 |
 | 14 | **A Disneyland Without Children** | L Rudolf L | 2023-06 | 137 | 90 | 5 4 5 – 3 5 |
@@ -116,10 +116,10 @@ The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are filt
 **Impact** — Does it land. Did it move, unsettle or stay with the reader, or is it merely well constructed?
 
 - [Lena (MMAcevedo)](https://qntm.org/mmacevedo) (qntm) — Impact 5, score 98
+- [That Alien Message](https://www.lesswrong.com/posts/5wMcKNAwB6X4mp9og/that-alien-message) (Eliezer Yudkowsky) — Impact 5, score 92
+- [Failed Utopia #4-2](https://www.lesswrong.com/posts/ctpkTaqTKbmm6uRgC/failed-utopia-4-2) (Eliezer Yudkowsky) — Impact 5, score 66
+- [The Hero With A Thousand Chances](https://www.lesswrong.com/posts/EKu66pFKDHFYPaZ6q/the-hero-with-a-thousand-chances) (Eliezer Yudkowsky) — Impact 5, score 64
 - [It Looks Like You're Trying To Take Over The World](https://gwern.net/fiction/clippy) (gwern) — Impact 4, score 93
-- [Letter from the End](http://alex.mennen.org/LetterFromTheEnd.pdf) (AlexMennen) — Impact 4, score 72
-- [A Letter to His Highness Louis XV, the King of France](https://aclevername.substack.com/p/a-letter-to-his-highness-louis-xv) (testingthewaters) — Impact 4, score 68
-- [The Sword of Good](https://www.yudkowsky.net/other/fiction/the-sword-of-good) (Eliezer Yudkowsky) — Impact 4, score 64
 
 **Mind** — Interiority of non-human minds: model POV, uploads, model welfare.
 
@@ -148,7 +148,7 @@ Highest karma in the corpus, for comparison with the ranking above:
 | 3 | **The Redaction Machine** | Ben | 2022-09 | 548 | 90 | 5 5 5 – 3 2 |
 | 4 | **The ants and the grasshopper** | Richard_Ngo | 2023-06 | 517 | 80 | 5 3 5 – 3 3 |
 | 5 | **What I did in the hedonium shockwave, by Emma, age six and a half** | ozymandias | 2026-04 | 457 | 59 | 4 1 5 – 2 2 |
-| 6 | **That Alien Message** | Eliezer Yudkowsky | 2008-05 | 445 | 90 | 5 5 4 – 4 3 |
+| 6 | **That Alien Message** | Eliezer Yudkowsky | 2008-05 | 445 | 92 | 5 5 4 5 4 3 |
 | 7 | **How AI Takeover Might Happen in 2 Years** | joshc | 2025-02 | 431 | 82 | 4 4 4 – 4 5 |
 | 8 | **It Looks Like You're Trying To Take Over The World** | gwern | 2022-03 | 419 | 93 | 5 5 4 4 5 5 |
 | 9 | **Survival without dignity** | L Rudolf L | 2024-11 | 410 | 77 | 4 3 5 – 3 4 |
