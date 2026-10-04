@@ -10,7 +10,7 @@ import os
 import re
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-PACK_CHARS = 80_000
+PACK_CHARS = 60_000
 LONG = 7_000
 HEAD, TAIL = 5_500, 1_200
 

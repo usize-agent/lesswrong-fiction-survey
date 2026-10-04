@@ -1532,6 +1532,10 @@
   "status": "work"
  },
  "WajiC3YWeJutyAXTn": {
+  "parts": [
+   "WajiC3YWeJutyAXTn",
+   "vGbHKfgFNDeJohfeN"
+  ],
   "reason": "v1 borderline",
   "status": "work"
  },
@@ -1607,8 +1611,11 @@
   "status": "work"
  },
  "XuLG6M7sHuenYWbfC": {
-  "reason": "v1 keep",
-  "status": "work"
+  "author": "Eliezer Yudkowsky",
+  "blurb": "A fantasy-quest hero discovers what the 'good' side is actually doing; LW carries only the opening and afterword.",
+  "status": "elsewhere",
+  "title": "The Sword of Good",
+  "url": "https://www.yudkowsky.net/other/fiction/the-sword-of-good"
  },
  "XvDboZ7SDBefqJwtf": {
   "reason": "v1 keep",
@@ -2888,8 +2895,8 @@
   "status": "work"
  },
  "vGbHKfgFNDeJohfeN": {
-  "reason": "v1 borderline",
-  "status": "work"
+  "status": "serial-part",
+  "work": "WajiC3YWeJutyAXTn"
  },
  "vNHf7dx5QZA4SLSZb": {
   "parts": [

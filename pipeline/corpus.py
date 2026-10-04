@@ -41,6 +41,11 @@ EXCLUDE = {
     "AEkMJeE7Cdexge2Lq": "verse / slang poem",
 }
 
+# Serials v1 missed: part id -> first part id.
+MANUAL_SERIALS = {
+    "vGbHKfgFNDeJohfeN": "WajiC3YWeJutyAXTn",  # Ebborians, part 2
+}
+
 # Link-only posts that point at significant SF hosted elsewhere.
 ELSEWHERE = {
     "a5e9arCnbDac9Doig": ("gwern", "It Looks Like You're Trying To Take Over The World", "https://gwern.net/fiction/clippy",
@@ -55,6 +60,8 @@ ELSEWHERE = {
                           "Novella about raising digital minds over years; an early, serious treatment of AI moral patienthood."),
     "BoHBJhG8JWNWsjnFP": ("testingthewaters", "A Letter to His Highness Louis XV, the King of France", "https://aclevername.substack.com/p/a-letter-to-his-highness-louis-xv",
                           "AI-risk parable as an Enlightenment advisor's letter; LW has only the opening, the rest is on Substack."),
+    "XuLG6M7sHuenYWbfC": ("Eliezer Yudkowsky", "The Sword of Good", "https://www.yudkowsky.net/other/fiction/the-sword-of-good",
+                          "A fantasy-quest hero discovers what the 'good' side is actually doing; LW carries only the opening and afterword."),
     "HvjZxxtHnAucnaKn2": ("AlexMennen", "Letter from the End", "http://alex.mennen.org/LetterFromTheEnd.pdf",
                           "Short fiction hosted as a PDF."),
     "JuzXhkm3spN6egzyu": ("Andrew Hickey", "Jeeves and the Singularity", "http://andrewhickey.info/2010/12/31/jeeves-and-the-singularity",
@@ -79,6 +86,8 @@ def main():
             rep = r["reason"].split("(")[-1].split(")")[0].split()[-1].strip(",")
             if rep in cands:
                 serial_of[pid] = rep
+
+    serial_of.update(MANUAL_SERIALS)
 
     out = {}
     for pid, p in cands.items():
