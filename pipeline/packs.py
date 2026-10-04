@@ -16,6 +16,11 @@ HEAD, TAIL = 5_500, 1_200
 
 
 def body(pid):
+    # A few posts came back with null contents.markdown; their htmlBody was
+    # fetched once by hand and stored as plain text.
+    fallback = os.path.join(ROOT, f"cache/fallback/{pid}.md")
+    if os.path.exists(fallback):
+        return open(fallback).read()
     p = json.load(open(os.path.join(ROOT, f"cache/posts/{pid}.json")))
     r = ((p.get("data") or {}).get("post") or {}).get("result") or {}
     return (r.get("contents") or {}).get("markdown") or ""
