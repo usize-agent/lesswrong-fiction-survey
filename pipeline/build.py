@@ -7,46 +7,17 @@ Writes:
     ARCHIVE.md        every work, ranked, summaries collapsed
     README.md         repo front page: rubric, top 30, the lists
 """
-import html
 import json
 import os
+import sys
 from collections import Counter
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
-DIMS = ("hard", "vision", "mind", "foresight", "craft")
-DIM_LABEL = {
-    "hard": "Hard",
-    "vision": "Vision",
-    "mind": "Mind",
-    "foresight": "Foresight",
-    "craft": "Craft",
-}
-DIM_BLURB = {
-    "hard": "Rigour of mechanism. Does the story's machinery actually work, and is it load-bearing?",
-    "vision": "Scale and strangeness of the central idea.",
-    "mind": "Interiority of non-human minds: model POV, uploads, model welfare.",
-    "foresight": "Quality as prediction or warning. Would this change what you expect?",
-    "craft": "Prose, structure, and whether the thing is a pleasure to read.",
-}
-
-# Default weights: a taste match, not a quality score. Hard SF and prose carry
-# the most, then non-human interiority, then forecasting, then raw idea.
-WEIGHTS = {"hard": 0.25, "vision": 0.15, "mind": 0.20, "foresight": 0.15, "craft": 0.25}
-
-PICKER = "Opus 5.5"
-
-PRESETS = {
-    "Taste match": WEIGHTS,
-    "Hard SF": {"hard": 0.45, "vision": 0.20, "mind": 0.05, "foresight": 0.10, "craft": 0.20},
-    "Model minds": {"hard": 0.10, "vision": 0.15, "mind": 0.50, "foresight": 0.05, "craft": 0.20},
-    "Forecasting": {"hard": 0.20, "vision": 0.15, "mind": 0.05, "foresight": 0.45, "craft": 0.15},
-    "Prose": {"hard": 0.05, "vision": 0.15, "mind": 0.10, "foresight": 0.05, "craft": 0.65},
-}
-
-
-def score(r, w=WEIGHTS):
-    return round(sum(w[d] * r[d] for d in DIMS) / 5 * 100)
+sys.path.insert(0, ROOT)
+from pipeline.rubric import (  # noqa: E402
+    DIMS, DIM_BLURB, DIM_LABEL, PICKER, PRESETS, WEIGHTS, score,
+)
 
 
 def load():
@@ -56,6 +27,15 @@ def load():
     picks = json.load(open(os.path.join(ROOT, "data/picks.json")))["picks"]
     notes = {p["id"]: p["note"] for p in picks}
     order = {p["id"]: i for i, p in enumerate(picks)}
+    second = {}
+    ip = os.path.join(ROOT, "data/impact.jsonl")
+    if os.path.exists(ip):
+        for line in open(ip):
+            if line.strip():
+                r2 = json.loads(line)
+                second[r2["id"]] = r2
+    ap = os.path.join(ROOT, "data/audio.json")
+    audio = json.load(open(ap)) if os.path.exists(ap) else {}
     works, excluded = [], []
     for line in open(os.path.join(ROOT, "data/reviews.jsonl")):
         if not line.strip():
@@ -80,7 +60,16 @@ def load():
             continue
         rec["note"] = notes.get(r["id"])
         rec["pick"] = order.get(r["id"])
-        rec.update({d: r[d] for d in DIMS})
+        # Second pass supplies impact, and may revise a first-pass call.
+        r = {**r, **{k: v for k, v in second.get(r["id"], {}).items()
+                     if k not in ("id", "why")}}
+        rec["why"] = second.get(r["id"], {}).get("why")
+        rec["reread"] = r["id"] in second
+        rec.update({d: r[d] for d in DIMS if d in r})
+        a = audio.get(r["id"])
+        if a:
+            rec["mp3"] = a["mp3"]
+            rec["secs"] = a["duration"]
         rec["tags"] = r["tags"]
         rec["line"] = r["line"]
         rec["summary"] = r["summary"]
@@ -107,14 +96,15 @@ def md_row(i, r):
     return (
         f"| {i} | **{esc(r['title'])}** | {esc(r['author'])} | {r['date'][:7]} | "
         f"{r['karma']} | {r['score']} | "
-        + " ".join(str(r[d]) for d in DIMS)
+        + " ".join(str(r.get(d, "–")) for d in DIMS)
         + " |"
     )
 
 
 def md_table(rows, start=1):
     out = [
-        "| # | Work | Author | Date | Karma | Score | H V M F C |",
+        "| # | Work | Author | Date | Karma | Score | "
+        + " ".join(DIM_LABEL[d][0] for d in DIMS) + " |",
         "| --: | --- | --- | --- | --: | --: | --- |",
     ]
     out += [md_row(i, r) for i, r in enumerate(rows, start)]
@@ -123,7 +113,7 @@ def md_table(rows, start=1):
 
 def md_entry(i, r):
     tags = " ".join(f"`{t}`" for t in r["tags"])
-    dims = " · ".join(f"{DIM_LABEL[d]} {r[d]}" for d in DIMS)
+    dims = " · ".join(f"{DIM_LABEL[d]} {r.get(d, '–')}" for d in DIMS)
     part = f" · {r['parts']} parts" if r["parts"] > 1 else ""
     partial = " · read in part" if r["read"] == "partial" else ""
     star = "★ " if r["note"] else ""
@@ -206,7 +196,8 @@ def write_readme(works, excluded, elsewhere, preface):
     tagc = Counter(t for r in works for t in r["tags"])
     best = {}
     for d in DIMS:
-        best[d] = sorted(works, key=lambda r: (-r[d], -r["score"]))[:5]
+        best[d] = sorted((w for w in works if d in w),
+                         key=lambda r: (-r[d], -r["score"]))[:5]
     hi_karma = sorted(works, key=lambda r: -r["karma"])[:10]
     picks = sorted((r for r in works if r["note"]), key=lambda r: r["pick"])
     # Works the crowd missed: high score, low karma.

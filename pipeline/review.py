@@ -1,9 +1,9 @@
-"""Append validated reviews to data/reviews.jsonl.
+"""First pass: append validated reviews to data/reviews.jsonl.
 
     python3 pipeline/review.py path/to/batch.json   # list of review objects
     python3 pipeline/review.py --status             # progress by pack
 
-A review: {"id", "hard", "vision", "mind", "foresight", "craft",  (0-5 ints)
+A review: {"id", + every dimension in pipeline.rubric.DIMS (0-5 ints),
            "tags": [...], "line": one-line hook, "summary": 2-3 sentences}
 Optional: "exclude": reason  (on reading, the post turned out not to be fiction)
 Re-adding an id replaces the earlier review.
@@ -14,14 +14,8 @@ import sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 PATH = os.path.join(ROOT, "data/reviews.jsonl")
-DIMS = ("hard", "vision", "mind", "foresight", "craft")
-TAGS = {
-    "ai-pov", "model-welfare", "uploads", "alignment", "takeover", "agents", "near-future",
-    "forecast", "singularity", "posthuman", "aliens", "physics", "math", "decision-theory",
-    "simulation", "biotech", "space", "economics", "institutions", "satire", "humor",
-    "horror", "parable", "dialogue", "found-document", "fanfic", "utopia", "rationality",
-    "consciousness", "war", "religion", "time",
-}
+sys.path.insert(0, ROOT)
+from pipeline.rubric import DIMS, TAGS  # noqa: E402
 
 
 def load():

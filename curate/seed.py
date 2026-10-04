@@ -23,8 +23,7 @@ DEFAULT_DB = HERE / "curate.sqlite3"
 DEFAULT_REVIEWS = REPO / "data/reviews.jsonl"
 
 sys.path.insert(0, str(REPO))
-from pipeline.build import DIMS, DIM_BLURB, DIM_LABEL, PICKER, score  # noqa: E402
-from pipeline.review import TAGS  # noqa: E402
+from pipeline.rubric import DIMS, DIM_BLURB, PICKER, TAGS, score  # noqa: E402
 
 CRITERIA_SEED = [(d, DIM_BLURB[d], i) for i, d in enumerate(DIMS, 1)]
 TAG_SEED = sorted(TAGS)
