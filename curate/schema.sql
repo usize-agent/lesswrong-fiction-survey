@@ -12,7 +12,8 @@ CREATE TABLE IF NOT EXISTS stories (
   year INTEGER,
   url TEXT,
   karma INTEGER,                    -- as of the Sep 2026 survey crawl
-  survey_rank INTEGER,              -- 1 = top of 03-scores.md
+  words INTEGER,                    -- serial parts summed
+  survey_rank INTEGER,              -- 1 = top of ARCHIVE.md; NULL = dropped from the archive
   nearest_neighbor TEXT,            -- Egan/Vinge/Stross/Chiang/Watts/qntm/none
   added_at TEXT DEFAULT (datetime('now'))
 );
@@ -38,14 +39,15 @@ CREATE TABLE IF NOT EXISTS story_tags (
   PRIMARY KEY (story_id, tag_id)
 );
 
--- Scores authored by the LLM-assisted survey, seeded from 03-scores.md.
+-- Scores authored by the LLM-assisted survey, seeded from data/reviews.jsonl.
 CREATE TABLE IF NOT EXISTS llm_curations (
   id INTEGER PRIMARY KEY,
   story_id INTEGER UNIQUE NOT NULL REFERENCES stories(id) ON DELETE CASCADE,
   scorer TEXT NOT NULL,             -- provenance, e.g. 'survey-2026 (LLM-assisted)'
-  weighted REAL,                    -- 0..35, the survey's double-weighted total
-  subscores TEXT,                   -- JSON {"posthuman":5, "rigor":5, ...}
-  review TEXT,                      -- the scoring note (CONTAINS SPOILERS)
+  weighted REAL,                    -- 0..100, the taste-match total
+  subscores TEXT,                   -- JSON {"hard":5, "vision":5, ...}
+  hook TEXT,                        -- one-line pull quote
+  review TEXT,                      -- the summary (CONTAINS SPOILERS)
   source_doc TEXT,
   scored_at TEXT
 );

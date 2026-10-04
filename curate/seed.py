@@ -1,152 +1,171 @@
 #!/usr/bin/env python3
-"""Seed (or reseed) curate.sqlite3 from the survey's 03-scores.md.
+"""Seed (or reseed) curate.sqlite3 from data/reviews.jsonl.
 
-Safe to re-run: inserts are idempotent (INSERT OR IGNORE / upserts keyed on
-slug). Human-created rows (reviews, tags, new criteria) are never deleted.
+Safe to re-run. Inserts are idempotent (upserts keyed on slug), and nothing a
+human made is ever deleted: reviews, review_scores, story_tags and any criteria
+or tags added through the UI all survive a reseed.
+
+Stories that were scored by an older survey pass and are no longer in the
+archive keep their row and their human review, but lose their survey rank and
+their stale machine curation.
 
 Usage:
-    python3 seed.py [--db path] [--scores path]
+    python3 seed.py [--db path] [--reviews path]
 """
 import json
-import re
 import sqlite3
 import sys
-import urllib.parse
 from pathlib import Path
 
 HERE = Path(__file__).resolve().parent
 REPO = HERE.parent
 DEFAULT_DB = HERE / "curate.sqlite3"
-DEFAULT_SCORES = REPO / "03-scores.md"
+DEFAULT_REVIEWS = REPO / "data/reviews.jsonl"
 
-DIMENSIONS = ["posthuman", "rigor", "idea_density", "craft", "form", "brevity"]
+sys.path.insert(0, str(REPO))
+from pipeline.build import DIMS, DIM_BLURB, DIM_LABEL, score  # noqa: E402
+from pipeline.review import TAGS  # noqa: E402
 
-CRITERIA_SEED = [
-    ("posthuman", "How central a genuinely non-human mind is (AI agents, uploads, hiveminds, alien optimizers).", 1),
-    ("rigor", "Central mechanism followed consistently to its consequences, with technical literacy.", 2),
-    ("idea_density", "Distinct, load-bearing ideas per word; ideas the plot cannot move without.", 3),
-    ("craft", "Prose quality: voice, control, earned emotional payoff.", 4),
-    ("form", "Whether the chosen form (transcript, chat log, found document) does narrative work.", 5),
-    ("brevity", "Length discipline; as long as it needs to be scores 5.", 6),
-]
-
-TAG_SEED = [
-    "posthuman", "ai", "uploaded-minds", "hivemind", "alignment", "simulation",
-    "first-contact", "consciousness", "dystopia", "humor", "found-form",
-    "hard-sf", "time", "vignette", "serial",
-]
-
-LLM_SCORER = "survey-2026 (LLM-assisted, see README.md)"
+CRITERIA_SEED = [(d, DIM_BLURB[d], i) for i, d in enumerate(DIMS, 1)]
+TAG_SEED = sorted(TAGS)
+LLM_SCORER = "archive-v2 (LLM-assisted, one pass, see README.md)"
 
 
-def unescape(cell):
-    return cell.replace("\\|", "|").strip()
-
-
-def split_row(line):
-    s = line.strip()
-    body = s[1:]
-    if body.endswith("|") and not body.endswith("\\|"):
-        body = body[:-1]
-    return [unescape(c) for c in re.split(r"(?<!\\)\|", body)]
-
-
-def slug_from_url(url):
-    # https://www.lesswrong.com/posts/<slug>/<title-slug>
-    path = urllib.parse.urlparse(url).path
-    parts = [p for p in path.split("/") if p]
-    return parts[2] if len(parts) >= 3 and parts[1] == "posts" else parts[-1]
-
-
-def parse_scores(path):
-    """Yield dicts for each scored row of 03-scores.md."""
+def load(reviews_path):
+    corpus = json.load(open(REPO / "data/corpus.json"))
+    cands = json.load(open(REPO / "cache/candidates.json"))["candidates"]
     rows = []
-    link = re.compile(r"^\[(?P<title>.*?)\]\((?P<url>https?://[^)]+)\)$", re.S)
-    for line in Path(path).read_text().splitlines():
-        s = line.strip()
-        if not s.startswith("|"):
+    for line in open(reviews_path):
+        if not line.strip():
             continue
-        cells = split_row(s)
-        if len(cells) != 9:
+        r = json.loads(line)
+        if "exclude" in r:
             continue
-        rank_txt = cells[0]
-        if not rank_txt.isdigit():  # header/other rows
-            continue
-        m = link.match(cells[1].replace("\\|", "|"))
-        if not m:
-            print(f"WARN: no link in row {rank_txt}: {cells[1][:60]}", file=sys.stderr)
-            continue
-        subs = re.fullmatch(r"(\d)/(\d)/(\d)/(\d)/(\d)/(\d)", cells[5])
-        weighted = re.fullmatch(r"\*\*(\d+(?:\.\d+)?)\*\*", cells[6])
+        c = cands[r["id"]]
+        parts = corpus[r["id"]].get("parts", [r["id"]])
         rows.append({
-            "rank": int(rank_txt),
-            "title": m.group("title"),
-            "url": m.group("url"),
-            "author": cells[2],
-            "year": int(cells[3]) if cells[3].isdigit() else None,
-            "karma": int(cells[4]) if cells[4].isdigit() else None,
-            "subscores": {d: int(g) for d, g in zip(DIMENSIONS, subs.groups())} if subs else None,
-            "weighted": float(weighted.group(1)) if weighted else None,
-            "nn": cells[7],
-            "note": cells[8],
+            "slug": r["id"],
+            "title": c["title"],
+            "author": c["author"] or "[account deleted]",
+            "year": int(c["postedAt"][:4]),
+            "url": f"https://www.lesswrong.com/posts/{r['id']}/{c['slug']}",
+            "karma": c["baseScore"],
+            "words": sum(cands[p]["wordCount"] for p in parts),
+            "subscores": {d: r[d] for d in DIMS},
+            "weighted": score(r),
+            "hook": r["line"],
+            "summary": r["summary"],
+            "tags": r["tags"],
         })
+    rows.sort(key=lambda r: (-r["weighted"], -r["karma"]))
+    for i, r in enumerate(rows, 1):
+        r["rank"] = i
     return rows
 
 
-def seed(db_path, scores_path):
+def migrate(conn):
+    """Bring an older curate.sqlite3 up to the current shape.
+
+    Columns added since the first schema, and a rekey: v1 stored stories under
+    the URL's title slug, which changes if a post is retitled. The stable key is
+    the LessWrong post id, so rows are rekeyed and any duplicate pair is merged
+    onto the surviving row, human work first.
+    """
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(stories)")}
+    if "words" not in cols:
+        conn.execute("ALTER TABLE stories ADD COLUMN words INTEGER")
+    cols = {r[1] for r in conn.execute("PRAGMA table_info(llm_curations)")}
+    if "hook" not in cols:
+        conn.execute("ALTER TABLE llm_curations ADD COLUMN hook TEXT")
+
+    by_slug = {s: i for i, s in conn.execute("SELECT id, slug FROM stories")}
+    rekeyed = merged = 0
+    for sid, slug, url in list(conn.execute("SELECT id, slug, url FROM stories")):
+        parts = [p for p in (url or "").split("/") if p]
+        if "posts" not in parts:
+            continue
+        post_id = parts[parts.index("posts") + 1]
+        if post_id == slug:
+            continue
+        keeper = by_slug.get(post_id)
+        if keeper is None:
+            conn.execute("UPDATE stories SET slug=? WHERE id=?", (post_id, sid))
+            by_slug[post_id] = sid
+            rekeyed += 1
+            continue
+        # Duplicate: fold this row's human work into the keeper, then drop it.
+        for table in ("reviews", "story_tags"):
+            conn.execute(
+                f"UPDATE OR IGNORE {table} SET story_id=? WHERE story_id=?", (keeper, sid))
+        conn.execute("DELETE FROM stories WHERE id=?", (sid,))
+        merged += 1
+    if rekeyed or merged:
+        print(f"migrated: {rekeyed} stories rekeyed to post ids, {merged} duplicates merged")
+
+
+def seed(db_path, reviews_path):
     conn = sqlite3.connect(db_path)
     conn.executescript((HERE / "schema.sql").read_text())
+    rows = load(reviews_path)
     with conn:
+        migrate(conn)
         for name, blurb, order in CRITERIA_SEED:
             conn.execute(
                 "INSERT INTO criteria (name, blurb, sort_order) VALUES (?,?,?) "
-                "ON CONFLICT(name) DO NOTHING",
+                "ON CONFLICT(name) DO UPDATE SET blurb=excluded.blurb, "
+                "sort_order=excluded.sort_order",
                 (name, blurb, order),
             )
         for tag in TAG_SEED:
             conn.execute("INSERT INTO tags (name) VALUES (?) ON CONFLICT(name) DO NOTHING", (tag,))
 
-        rows = parse_scores(scores_path)
-        inserted = 0
         for r in rows:
-            slug = slug_from_url(r["url"])
-            cur = conn.execute(
-                """INSERT INTO stories (slug, title, author, year, url, karma, survey_rank, nearest_neighbor)
+            conn.execute(
+                """INSERT INTO stories (slug, title, author, year, url, karma, words, survey_rank)
                    VALUES (?,?,?,?,?,?,?,?)
                    ON CONFLICT(slug) DO UPDATE SET
                      title=excluded.title, author=excluded.author, year=excluded.year,
-                     url=excluded.url, karma=excluded.karma, survey_rank=excluded.survey_rank,
-                     nearest_neighbor=excluded.nearest_neighbor""",
-                (slug, r["title"], r["author"], r["year"], r["url"], r["karma"], r["rank"],
-                 None if r["nn"] in ("none", "") else r["nn"]),
+                     url=excluded.url, karma=excluded.karma, words=excluded.words,
+                     survey_rank=excluded.survey_rank""",
+                (r["slug"], r["title"], r["author"], r["year"], r["url"], r["karma"],
+                 r["words"], r["rank"]),
             )
-            story_id = conn.execute("SELECT id FROM stories WHERE slug=?", (slug,)).fetchone()[0]
+            sid = conn.execute("SELECT id FROM stories WHERE slug=?", (r["slug"],)).fetchone()[0]
             conn.execute(
-                """INSERT INTO llm_curations (story_id, scorer, weighted, subscores, review, source_doc)
-                   VALUES (?,?,?,?,?,?)
+                """INSERT INTO llm_curations
+                     (story_id, scorer, weighted, subscores, hook, review, source_doc)
+                   VALUES (?,?,?,?,?,?,?)
                    ON CONFLICT(story_id) DO UPDATE SET
                      scorer=excluded.scorer, weighted=excluded.weighted,
-                     subscores=excluded.subscores, review=excluded.review,
-                     source_doc=excluded.source_doc""",
-                (story_id, LLM_SCORER, r["weighted"],
-                 json.dumps(r["subscores"]) if r["subscores"] else None,
-                 r["note"], Path(scores_path).name),
+                     subscores=excluded.subscores, hook=excluded.hook,
+                     review=excluded.review, source_doc=excluded.source_doc""",
+                (sid, LLM_SCORER, r["weighted"], json.dumps(r["subscores"]),
+                 r["hook"], r["summary"], "data/reviews.jsonl"),
             )
-            inserted += 1
+
+        live = {r["slug"] for r in rows}
+        stale = [sid for sid, slug in conn.execute("SELECT id, slug FROM stories")
+                 if slug not in live]
+        for sid in stale:
+            conn.execute("UPDATE stories SET survey_rank=NULL WHERE id=?", (sid,))
+            conn.execute("DELETE FROM llm_curations WHERE story_id=?", (sid,))
+
     n = conn.execute("SELECT count(*) FROM stories").fetchone()[0]
+    h = conn.execute("SELECT count(*) FROM reviews").fetchone()[0]
     conn.close()
-    print(f"seeded {len(rows)} rows from {scores_path} ({inserted} upserts); stories in db: {n}")
+    print(f"seeded {len(rows)} works from {reviews_path}")
+    print(f"{n} stories in db ({len(stale)} no longer in the archive), {h} human reviews kept")
 
 
 if __name__ == "__main__":
     args = sys.argv[1:]
-    db, scores = DEFAULT_DB, DEFAULT_SCORES
+    db, reviews = DEFAULT_DB, DEFAULT_REVIEWS
     while args:
         flag = args.pop(0)
         if flag == "--db":
             db = args.pop(0)
-        elif flag == "--scores":
-            scores = args.pop(0)
+        elif flag in ("--reviews", "--scores"):
+            reviews = args.pop(0)
         else:
             sys.exit(f"unknown flag: {flag}")
-    seed(db, scores)
+    seed(db, reviews)

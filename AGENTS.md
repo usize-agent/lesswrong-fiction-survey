@@ -15,10 +15,16 @@ end. Stage only intended files; never commit generated artifacts (see `.gitignor
 
 ## Repo layout
 
-- `00..04-*.md` — the survey documents (markdown tables; keep tables GFM-valid:
-  header/delimiter/row column counts must match, escape literal pipes in cells as `\|`).
+- `data/` — the archive's two sources of truth: `corpus.json` (what counts as a
+  work) and `reviews.jsonl` (one line per work: scores, tags, hook, summary).
+  Append reviews only through `pipeline/review.py`, which validates them.
+- `pipeline/` — `corpus.py` → `packs.py` → `review.py` → `build.py`. `build.py`
+  regenerates `README.md`, `ARCHIVE.md` and `docs/index.html`; never hand-edit
+  those three, edit the builder. Keep generated tables GFM-valid: header,
+  delimiter and row column counts must match, and escape literal pipes as `\|`.
 - `curate/` — local rating app (stdlib-only Python + sqlite3). Run
-  `python3 curate/app.py`; it seeds `curate/curate.sqlite3` from `03-scores.md`
-  on first launch. The db file is gitignored.
+  `python3 curate/app.py`; `python3 curate/seed.py` refreshes it from
+  `data/reviews.jsonl` without touching human reviews. The db file is gitignored.
+- `archive/v1/` — the first pass. Historical; don't build on it.
 - LLM-produced curation lives in the `llm_curations` table, separate from human
   `reviews`. Do not mix the two; the UI labels provenance.

@@ -72,13 +72,13 @@ def stories(conn, params, reviewer):
     if params.get("unreviewed") == "1":
         where.append("r.id IS NULL")
     sort = {
-        "rank": "s.survey_rank",
+        "rank": "s.survey_rank IS NULL, s.survey_rank",
         "weighted": "l.weighted DESC",
         "karma": "s.karma DESC",
         "title": "s.title COLLATE NOCASE",
         "year": "s.year DESC",
         "mine": "r.overall IS NULL, r.overall DESC",
-    }.get(params.get("sort"), "s.survey_rank")
+    }.get(params.get("sort"), "s.survey_rank IS NULL, s.survey_rank")
     sql = STORY_SELECT
     if where:
         sql += " WHERE " + " AND ".join(where)
@@ -320,7 +320,7 @@ async function openStory(id) {
     <div class="dim">${esc(s.author)} · ${s.year ?? ''} · karma ${s.karma ?? ''} · survey #${s.survey_rank ?? ''}${s.nearest_neighbor ? ' · ~' + esc(s.nearest_neighbor) : ''} ·
       <a href="${esc(s.url)}" target="_blank" rel="noopener">read on LessWrong ↗</a></div>
     ${l ? `<div class="llm">
-      <div class="src">LLM curation — ${esc(l.scorer)} · weighted <b>${l.weighted}</b>/35</div>
+      <div class="src">LLM curation — ${esc(l.scorer)} · weighted <b>${l.weighted}</b>/100</div>
       <div class="sub">${subs.map(([k, v]) => `<span class="dim">${esc(k)}</span><div class="bar"><div style="width:${v*20}%"></div></div><span class="num">${v}</span>`).join('')}</div>
       <button type="button" id="spoilerbtn">show scoring note (spoilers)</button>
       <div class="spoiler" hidden>${esc(l.review)}</div>
