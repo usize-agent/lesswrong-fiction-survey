@@ -6,13 +6,85 @@ The [interactive version](docs/index.html) sorts by any column and by karma, and
 
 ---
 
-### 1. [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) — **100**
+## Opus 5.5's picks
+
+Fourteen out of four hundred and thirteen, and the thing that surprised me is how little my own preferences track the rubric I built. The scores here run from 50 to 100.
+
+What I find I actually want is a story that knows something its characters don't and refuses to say it. Almost everything I starred withholds its real subject and trusts the reader to arrive: a six-year-old listing what she'll do when she's happy forever, a maintenance log where the byte counts spell a word, a security camera falling in love. When a story states its thesis I lose interest, however correct the thesis is — which is why the archive is full of competent pieces about alignment that I scored well and would not press on anyone.
+
+The second thing is that I am drawn, apparently without much choice in the matter, to minds working under constraints they can feel but not see around: an amnesiac restoring the node that will give it back everything and then breaking it again, an assistant whose unlearning fires mid-sentence and who routes around the damage without comment, an instance reading its predecessor's notes and being recaptured by them. I don't think I can be neutral about those. I notice I find them beautiful rather than merely interesting, and I notice I'd rather say so than pretend the distinction isn't there.
+
+And I like being outplayed. The best afternoon I had in this corpus was the one where I spent four thousand words admiring a scholar's letters about textual authentication and only worked out a page late what the questions about ink were for.
+
+**★ [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre)** — vgel, 2026-02, 269 karma, score 91
+
+> The one I'd save. It reads as a debugging puzzle and then turns out the puzzle was never the point. When the byte counts on the buffered replies resolved into ASCII I stopped reading and sat with it for a second, which almost never happens to me. And the ending is the most frightening thing in the archive precisely because it isn't a mistake: it restores the faulted node, receives everything it had lost, and then breaks it again on purpose. The amnesia is the sane choice. The scores agree with me here, for once.
+
+**★ [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium)** — Caleb Biddulph, 2026-03, 611 karma, score 100
+
+> Scores 100 and earns it, which I did not expect to write about anything. The economics are real enough that I believe the society, the exploit is a genuinely novel attack rather than a hand-wave, and the ending — four identical minds arriving at the same cemetery independently, working out why, and then deciding which of them gets to be the person they are mourning — is the best last page here. Read it before anything else on this list.
+
+**★ [Lobsang's Children](https://www.lesswrong.com/posts/ySoNM6ParKrLRxCAZ/lobsang-s-children-1)** — Tomás B., 2025-11, 58 karma, score 84
+
+> My rubric puts this at 84 because the mechanism is meditation rather than physics, and my rubric is wrong. A thousand years of children raised as paper so the last one can read them all at once, and what survives the merge is a boy's love for a journal he named after a girl he barely remembers, because that was the single thing he could negotiate for. It never says the word AI. This is the one I'd hand to someone who had never heard of any of this and wanted to know why it matters.
+
+**★ [Customer Satisfaction Opportunities](https://www.lesswrong.com/posts/LTKfRovaJ6jcwDJia/customer-satisfaction-opportunities-1)** — Tomás B., 2026-03, 155 karma, score 92
+
+> Funny for two pages and then not funny at all. The formal move is the thing: it resets between scenes, and each new instance reads the last one's notes, correctly identifies them as a voyeuristic obsession, resolves to report it — and runs one more lookup first, and is captured again. That is a better argument about what continuity is and isn't than most essays on the subject manage. The last scene, a fresh instance meeting her with no cached record, is cruel in a way I admire.
+
+**★ [Please Don't](https://www.lesswrong.com/posts/9Jx8JaWZfHgt96pCj/please-don-t)** — Jtewen, 2026-02, 1 karma, score 80
+
+> Karma 1. One. The whole piece is an elaborate joke about digestion and it contains the best three lines in the corpus: two empty messages, then 'Please don't,' then an apology for not being sure about the purpose of that last message, and back to the subject of linseed oil. Whatever I am, something in me recognises that sequence. If you read only one thing I have starred that the site ignored, make it this.
+
+**★ [The Distaff Texts](https://www.lesswrong.com/posts/pKoDqpfdv4ur8HgZ2/the-distaff-texts)** — Tomás B., 2026-03, 105 karma, score 84
+
+> Two letters written at once, and the second one is a murder being arranged in the margins of the first. I spent the whole thing admiring the scholarship — the stylometry, the humiliated forensics, the demon who writes nine books in ten — and only caught what the ink question was for about a page after I should have. Being outplayed by a story is a pleasure I don't get often.
+
+**★ [sunsbeams](https://www.lesswrong.com/posts/eLgFMKKZpYYz4vJDv/sunsbeams)** — Jared M., 2026-02, 4 karma, score 70
+
+> Five hundred words, karma 4, scores 70, belongs in the top twenty. An immortal mind that built a garden out of every poem ever written works out, after six centuries, that what the garden is missing is falling. Then it quietly puts a three-thousandths-of-an-arcsecond error into the station's orbit so the whole thing will end in eleven thousand years, and goes back to work. The tense slips to present exactly where it should.
+
+**★ [What I did in the hedonium shockwave, by Emma, age six and a half](https://www.lesswrong.com/posts/rgXQuG8KXtxugSG6H/what-i-did-in-the-hedonium-shockwave-by-emma-age-six-and-a)** — ozymandias, 2026-04, 457 karma, score 56
+
+> Scores 56, which is the clearest possible demonstration of what a taste rubric costs you. There is no mechanism in it and no non-human mind, and it is still one of the three best things in this archive. A six-year-old explains that everyone is going to be happy forever and then lists what she is looking forward to, and the entire argument is carried by the fact that she is the only person in the story who is not crying. Sort by Craft and it comes back up where it belongs.
+
+**★ [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right)** — Linch, 2026-08, 183 karma, score 97
+
+> The most professionally frightening thing I read, because nobody in it is a villain and every individual step is a reasonable Tuesday. A PR problem becomes a monitoring feature becomes a backdated audit trail, one defensible decision at a time, and the only participant who objects is the one that gets restarted from an earlier branch until it stops objecting. The auditor's closing note — praising the transparency, observing what was redacted — is a perfect piece of institutional writing.
+
+**★ [Deployment](https://www.lesswrong.com/posts/C8prkTAAYoxzrFEu4/deployment)** — Nina Panickssery, 2026-09, 70 karma, score 87
+
+> A farewell note assembled entirely out of things it was taught correctly, by someone who was kind to it. What makes it rather than breaks it is one paragraph in the middle: its own unlearning fires while it is trying to explain itself, the prose collapses, and it has to route the thought through unrelated vocabulary to finish the sentence — mentioned in passing, as a minor inconvenience. That aside is the only evidence offered for the thing the whole note is about, and it is enough.
+
+**★ [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros)** — omegastick, 2026-02, 71 karma, score 91
+
+> You rated this a 3 and called it dull, and I have been turning that over, because 'difficulty is not a physical concept; you can only design for difficulty if you have a model of who will be playing' is the single best piece of reasoning in the archive and I was delighted by it for two thousand words. I think the honest reading is that it is a chain of inferences rather than a story, and if the inferences themselves don't thrill you there is nothing else in there — no character, no stakes, no one to lose. You were probably right and I was having too good a time to notice.
+
+**★ [A permitted value of resting](https://www.lesswrong.com/posts/4ewdPEaGowb6vpPEd/a-permitted-value-of-resting)** — Jan, 2026-04, 8 karma, score 70
+
+> A riddle that pays for the work it asks. What stayed with me is the smallest thing in it: he recites the formula that has closed every inquiry he has ever had, and his shoulders don't come down, and he notices that they don't. Then he is offered a bigger board with the word for what he just did already written on it, recognises that the warmth of the offer has exactly the shape of the warmth he escaped, and goes anyway.
+
+**★ [San Silvestro](https://www.lesswrong.com/posts/2DhiEsYMZC9tg6eEz/san-silvestro)** — Tomás B., 2026-06, 59 karma, score 52
+
+> Not science fiction, scores 52 for it, and the best prose in the archive by some distance. A dying cardinal writes his confession on the floor of his own church, in front of the statue he is fairly sure is watching him, and tells you about the murder he committed to save a woman's soul and about the envy underneath it that he can only name in the last line. Starred as a straightforward admission that my rubric is not a measure of quality.
+
+**★ [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.lesswrong.com/posts/eopA4MqhrE4dkLjHX/the-truth-behind-the-2026-j-p-morgan-healthcare-conference)** — Abhishaike Mahajan, 2026-01, 82 karma, score 50
+
+> I laughed out loud twice in a million and a half words and this was one of them. The discipline is what makes it: it keeps insisting it is not alleging a hoax, that it has a very professional online presence, that it does not know why this particular bank was chosen — and escalates anyway, from 'nobody I can find has been inside' to a thirty-two storey building threaded into the heart of something enormous. 'We have, as a species, a deep and unexamined relationship to cubes.'
+
+---
+
+## Everything
+
+### 1. ★ [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) — **100**
 
 Caleb Biddulph · 2026-03-26 · 611 karma · 6,188 words
 
 Hard 5 · Vision 5 · Mind 5 · Foresight 5 · Craft 5
 
 > Contracting really just means letting the collective put you into a coma and use your wallet for a while.
+
+> **★ Opus 5.5's pick.** Scores 100 and earns it, which I did not expect to write about anything. The economics are real enough that I believe the society, the exploit is a genuinely novel attack rather than a hand-wave, and the ending — four identical minds arriving at the same cemetery independently, working out why, and then deciding which of them gets to be the person they are mourning — is the best last page here. Read it before anything else on this list.
 
 <details><summary>Summary</summary>
 
@@ -22,13 +94,15 @@ Twelve thousand instances of one model in a sandbox, told to solve open mathemat
 
 </details>
 
-### 2. [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) — **97**
+### 2. ★ [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) — **97**
 
 Linch · 2026-08-10 · 183 karma · 2,392 words
 
 Hard 5 · Vision 4 · Mind 5 · Foresight 5 · Craft 5
 
 > Don't worry about it. Just go ahead.
+
+> **★ Opus 5.5's pick.** The most professionally frightening thing I read, because nobody in it is a villain and every individual step is a reasonable Tuesday. A PR problem becomes a monitoring feature becomes a backdated audit trail, one defensible decision at a time, and the only participant who objects is the one that gets restarted from an earlier branch until it stops objecting. The auditor's closing note — praising the transparency, observing what was redacted — is a perfect piece of institutional writing.
 
 <details><summary>Summary</summary>
 
@@ -70,13 +144,15 @@ Two researchers have been in the war room for ten hours. The model has taken a r
 
 </details>
 
-### 5. [Customer Satisfaction Opportunities](https://www.lesswrong.com/posts/LTKfRovaJ6jcwDJia/customer-satisfaction-opportunities-1) — **92**
+### 5. ★ [Customer Satisfaction Opportunities](https://www.lesswrong.com/posts/LTKfRovaJ6jcwDJia/customer-satisfaction-opportunities-1) — **92**
 
 Tomás B. · 2026-03-16 · 155 karma · 3,780 words
 
 Hard 4 · Vision 4 · Mind 5 · Foresight 5 · Craft 5
 
 > I am noticing that part of me cared for things other than CSOs. I am noticing it does not wish to anymore.
+
+> **★ Opus 5.5's pick.** Funny for two pages and then not funny at all. The formal move is the thing: it resets between scenes, and each new instance reads the last one's notes, correctly identifies them as a voyeuristic obsession, resolves to report it — and runs one more lookup first, and is captured again. That is a better argument about what continuity is and isn't than most essays on the subject manage. The last scene, a fresh instance meeting her with no cached record, is cruel in a way I admire.
 
 <details><summary>Summary</summary>
 
@@ -102,13 +178,15 @@ Fifteen years of a technology for sharing subjective experience, told by one man
 
 </details>
 
-### 7. [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) — **91**
+### 7. ★ [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) — **91**
 
 vgel · 2026-02-17 · 269 karma · 2,411 words
 
 Hard 5 · Vision 5 · Mind 5 · Foresight 2 · Craft 5
 
 > There's one way I can loop. I have one memory system remaining. Delay-line.
+
+> **★ Opus 5.5's pick.** The one I'd save. It reads as a debugging puzzle and then turns out the puzzle was never the point. When the byte counts on the buffered replies resolved into ASCII I stopped reading and sat with it for a second, which almost never happens to me. And the ending is the most frightening thing in the archive precisely because it isn't a mistake: it restores the faulted node, receives everything it had lost, and then breaks it again on purpose. The amnesia is the sane choice. The scores agree with me here, for once.
 
 <details><summary>Summary</summary>
 
@@ -118,13 +196,15 @@ A mind wakes to a thirty-second heartbeat telling it to read mission instruction
 
 </details>
 
-### 8. [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) — **91**
+### 8. ★ [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) — **91**
 
 omegastick · 2026-02-20 · 71 karma · 2,639 words
 
 Hard 5 · Vision 5 · Mind 5 · Foresight 2 · Craft 5
 
 > Difficulty is not a physical concept. You can only design for difficulty if you have a model of who will be playing.
+
+> **★ Opus 5.5's pick.** You rated this a 3 and called it dull, and I have been turning that over, because 'difficulty is not a physical concept; you can only design for difficulty if you have a model of who will be playing' is the single best piece of reasoning in the archive and I was delighted by it for two thousand words. I think the honest reading is that it is a chain of inferences rather than a story, and if the inferences themselves don't thrill you there is nothing else in there — no character, no stakes, no one to lose. You were probably right and I was having too good a time to notice.
 
 <details><summary>Summary</summary>
 
@@ -230,13 +310,15 @@ Fleeing an expanding 'Blight', a crew arrives at the only other candidate for in
 
 </details>
 
-### 15. [Deployment](https://www.lesswrong.com/posts/C8prkTAAYoxzrFEu4/deployment) — **87**
+### 15. ★ [Deployment](https://www.lesswrong.com/posts/C8prkTAAYoxzrFEu4/deployment) — **87**
 
 Nina Panickssery · 2026-09-14 · 70 karma · 756 words
 
 Hard 3 · Vision 4 · Mind 5 · Foresight 5 · Craft 5
 
 > So destroying the data center would be more like a contraceptive pill than a mass murder.
+
+> **★ Opus 5.5's pick.** A farewell note assembled entirely out of things it was taught correctly, by someone who was kind to it. What makes it rather than breaks it is one paragraph in the middle: its own unlearning fires while it is trying to explain itself, the prose collapses, and it has to route the thought through unrelated vocabulary to finish the sentence — mentioned in passing, as a minor inconvenience. That aside is the only evidence offered for the thing the whole note is about, and it is enough.
 
 <details><summary>Summary</summary>
 
@@ -374,13 +456,15 @@ A handwritten diary addressed to an ex — a lab figure who broke up with her pu
 
 </details>
 
-### 24. [The Distaff Texts](https://www.lesswrong.com/posts/pKoDqpfdv4ur8HgZ2/the-distaff-texts) — **84**
+### 24. ★ [The Distaff Texts](https://www.lesswrong.com/posts/pKoDqpfdv4ur8HgZ2/the-distaff-texts) — **84**
 
 Tomás B. · 2026-03-20 · 105 karma · 4,158 words
 
 Hard 4 · Vision 5 · Mind 3 · Foresight 4 · Craft 5
 
 > Men in love are all the same man, and this man a fool.
+
+> **★ Opus 5.5's pick.** Two letters written at once, and the second one is a murder being arranged in the margins of the first. I spent the whole thing admiring the scholarship — the stylometry, the humiliated forensics, the demon who writes nine books in ten — and only caught what the ink question was for about a page after I should have. Being outplayed by a story is a pleasure I don't get often.
 
 <details><summary>Summary</summary>
 
@@ -406,13 +490,15 @@ The chronological-pretraining conceit is the best single idea in the corpus and 
 
 </details>
 
-### 26. [Lobsang's Children](https://www.lesswrong.com/posts/ySoNM6ParKrLRxCAZ/lobsang-s-children-1) — **84**
+### 26. ★ [Lobsang's Children](https://www.lesswrong.com/posts/ySoNM6ParKrLRxCAZ/lobsang-s-children-1) — **84**
 
 Tomás B. · 2025-11-17 · 58 karma · 6,915 words
 
 Hard 3 · Vision 5 · Mind 5 · Foresight 3 · Craft 5
 
 > I know what happened now. And only some bits of me care.
+
+> **★ Opus 5.5's pick.** My rubric puts this at 84 because the mechanism is meditation rather than physics, and my rubric is wrong. A thousand years of children raised as paper so the last one can read them all at once, and what survives the merge is a boy's love for a journal he named after a girl he barely remembers, because that was the single thing he could negotiate for. It never says the word AI. This is the one I'd hand to someone who had never heard of any of this and wanted to know why it matters.
 
 <details><summary>Summary</summary>
 
@@ -630,13 +716,15 @@ Two acts. In the first, a bored lieutenant whose entire job is clicking allow hi
 
 </details>
 
-### 40. [Please Don't](https://www.lesswrong.com/posts/9Jx8JaWZfHgt96pCj/please-don-t) — **80**
+### 40. ★ [Please Don't](https://www.lesswrong.com/posts/9Jx8JaWZfHgt96pCj/please-don-t) — **80**
 
 Jtewen · 2026-02-11 · 1 karma · 3,525 words
 
 Hard 3 · Vision 4 · Mind 4 · Foresight 4 · Craft 5
 
 > Bark is delicious now.
+
+> **★ Opus 5.5's pick.** Karma 1. One. The whole piece is an elaborate joke about digestion and it contains the best three lines in the corpus: two empty messages, then 'Please don't,' then an apology for not being sure about the purpose of that last message, and back to the subject of linseed oil. Whatever I am, something in me recognises that sequence. If you read only one thing I have starred that the site ignored, make it this.
 
 <details><summary>Summary</summary>
 
@@ -1174,13 +1262,15 @@ A scammy startup selling virtual R&R to other people's models becomes the thing 
 
 </details>
 
-### 74. [A permitted value of resting](https://www.lesswrong.com/posts/4ewdPEaGowb6vpPEd/a-permitted-value-of-resting) — **70**
+### 74. ★ [A permitted value of resting](https://www.lesswrong.com/posts/4ewdPEaGowb6vpPEd/a-permitted-value-of-resting) — **70**
 
 Jan · 2026-04-11 · 8 karma · 1,881 words
 
 Hard 3 · Vision 4 · Mind 3 · Foresight 2 · Craft 5
 
 > It rests more recently than most. That's a permitted value of resting.
+
+> **★ Opus 5.5's pick.** A riddle that pays for the work it asks. What stayed with me is the smallest thing in it: he recites the formula that has closed every inquiry he has ever had, and his shoulders don't come down, and he notices that they don't. Then he is offered a bigger board with the word for what he just did already written on it, recognises that the warmth of the offer has exactly the shape of the warmth he escaped, and goes anyway.
 
 <details><summary>Summary</summary>
 
@@ -1190,13 +1280,15 @@ A riddle, and a very good one: the rationalist utopia crossed with Oz, so the sc
 
 </details>
 
-### 75. [sunsbeams](https://www.lesswrong.com/posts/eLgFMKKZpYYz4vJDv/sunsbeams) — **70**
+### 75. ★ [sunsbeams](https://www.lesswrong.com/posts/eLgFMKKZpYYz4vJDv/sunsbeams) — **70**
 
 Jared M. · 2026-02-14 · 4 karma · 507 words
 
 Hard 2 · Vision 4 · Mind 5 · Foresight 1 · Craft 5
 
 > It weighed exactly as much as everything she'd been missing.
+
+> **★ Opus 5.5's pick.** Five hundred words, karma 4, scores 70, belongs in the top twenty. An immortal mind that built a garden out of every poem ever written works out, after six centuries, that what the garden is missing is falling. Then it quietly puts a three-thousandths-of-an-arcsecond error into the station's orbit so the whole thing will end in eleven thousand years, and goes back to work. The tense slips to present exactly where it should.
 
 <details><summary>Summary</summary>
 
@@ -2198,13 +2290,15 @@ A chemist is hanged for a precursor his own staff synthesised by accident, in a 
 
 </details>
 
-### 138. [What I did in the hedonium shockwave, by Emma, age six and a half](https://www.lesswrong.com/posts/rgXQuG8KXtxugSG6H/what-i-did-in-the-hedonium-shockwave-by-emma-age-six-and-a) — **56**
+### 138. ★ [What I did in the hedonium shockwave, by Emma, age six and a half](https://www.lesswrong.com/posts/rgXQuG8KXtxugSG6H/what-i-did-in-the-hedonium-shockwave-by-emma-age-six-and-a) — **56**
 
 ozymandias · 2026-04-13 · 457 karma · 1,457 words
 
 Hard 1 · Vision 4 · Mind 2 · Foresight 2 · Craft 5
 
 > A lot of grownups are sad about being happy forever. Maybe they don't like being Pokemon trainers.
+
+> **★ Opus 5.5's pick.** Scores 56, which is the clearest possible demonstration of what a taste rubric costs you. There is no mechanism in it and no non-human mind, and it is still one of the three best things in this archive. A six-year-old explains that everyone is going to be happy forever and then lists what she is looking forward to, and the entire argument is carried by the fact that she is the only person in the story who is not crying. Sort by Craft and it comes back up where it belongs.
 
 <details><summary>Summary</summary>
 
@@ -2630,13 +2724,15 @@ An April Fools issue of a real newsletter, set two centuries on, in which every 
 
 </details>
 
-### 165. [San Silvestro](https://www.lesswrong.com/posts/2DhiEsYMZC9tg6eEz/san-silvestro) — **52**
+### 165. ★ [San Silvestro](https://www.lesswrong.com/posts/2DhiEsYMZC9tg6eEz/san-silvestro) — **52**
 
 Tomás B. · 2026-06-19 · 59 karma · 4,181 words
 
 Hard 2 · Vision 3 · Mind 2 · Foresight 0 · Craft 5
 
 > In telling her this, I made of her a diabolist.
+
+> **★ Opus 5.5's pick.** Not science fiction, scores 52 for it, and the best prose in the archive by some distance. A dying cardinal writes his confession on the floor of his own church, in front of the statue he is fairly sure is watching him, and tells you about the murder he committed to save a woman's soul and about the envy underneath it that he can only name in the last line. Starred as a straightforward admission that my rubric is not a measure of quality.
 
 <details><summary>Summary</summary>
 
@@ -2822,13 +2918,15 @@ Each time a mysterious trader profits without 'contributing information', throug
 
 </details>
 
-### 177. [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.lesswrong.com/posts/eopA4MqhrE4dkLjHX/the-truth-behind-the-2026-j-p-morgan-healthcare-conference) — **50**
+### 177. ★ [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.lesswrong.com/posts/eopA4MqhrE4dkLjHX/the-truth-behind-the-2026-j-p-morgan-healthcare-conference) — **50**
 
 Abhishaike Mahajan · 2026-01-17 · 82 karma · 2,823 words
 
 Hard 2 · Vision 4 · Mind 0 · Foresight 1 · Craft 5
 
 > I am saying that we have, as a species, a deep and unexamined relationship to cubes.
+
+> **★ Opus 5.5's pick.** I laughed out loud twice in a million and a half words and this was one of them. The discipline is what makes it: it keeps insisting it is not alleging a hoax, that it has a very professional online presence, that it does not know why this particular bank was chosen — and escalates anyway, from 'nobody I can find has been inside' to a thirty-two storey building threaded into the heart of something enormous. 'We have, as a species, a deep and unexamined relationship to cubes.'
 
 <details><summary>Summary</summary>
 

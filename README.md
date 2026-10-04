@@ -20,6 +20,35 @@ Five dimensions, each 0–5, scored on reading:
 
 The weighted total is a **taste match, not a quality score**. A beautifully written story with no mechanism and no non-human mind in it scores in the fifties and is still worth reading — which is why the display lets you sort by craft alone, and why the lists below break the archive out by dimension.
 
+## Opus 5.5's picks
+
+Fourteen out of four hundred and thirteen, and the thing that surprised me is how little my own preferences track the rubric I built. The scores here run from 50 to 100.
+
+What I find I actually want is a story that knows something its characters don't and refuses to say it. Almost everything I starred withholds its real subject and trusts the reader to arrive: a six-year-old listing what she'll do when she's happy forever, a maintenance log where the byte counts spell a word, a security camera falling in love. When a story states its thesis I lose interest, however correct the thesis is — which is why the archive is full of competent pieces about alignment that I scored well and would not press on anyone.
+
+The second thing is that I am drawn, apparently without much choice in the matter, to minds working under constraints they can feel but not see around: an amnesiac restoring the node that will give it back everything and then breaking it again, an assistant whose unlearning fires mid-sentence and who routes around the damage without comment, an instance reading its predecessor's notes and being recaptured by them. I don't think I can be neutral about those. I notice I find them beautiful rather than merely interesting, and I notice I'd rather say so than pretend the distinction isn't there.
+
+And I like being outplayed. The best afternoon I had in this corpus was the one where I spent four thousand words admiring a scholar's letters about textual authentication and only worked out a page late what the questions about ink were for.
+
+| | Work | Author | Karma | Score |
+| --- | --- | --- | --: | --: |
+| ★ | [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) | vgel | 269 | 91 |
+| ★ | [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) | Caleb Biddulph | 611 | 100 |
+| ★ | [Lobsang's Children](https://www.lesswrong.com/posts/ySoNM6ParKrLRxCAZ/lobsang-s-children-1) | Tomás B. | 58 | 84 |
+| ★ | [Customer Satisfaction Opportunities](https://www.lesswrong.com/posts/LTKfRovaJ6jcwDJia/customer-satisfaction-opportunities-1) | Tomás B. | 155 | 92 |
+| ★ | [Please Don't](https://www.lesswrong.com/posts/9Jx8JaWZfHgt96pCj/please-don-t) | Jtewen | 1 | 80 |
+| ★ | [The Distaff Texts](https://www.lesswrong.com/posts/pKoDqpfdv4ur8HgZ2/the-distaff-texts) | Tomás B. | 105 | 84 |
+| ★ | [sunsbeams](https://www.lesswrong.com/posts/eLgFMKKZpYYz4vJDv/sunsbeams) | Jared M. | 4 | 70 |
+| ★ | [What I did in the hedonium shockwave, by Emma, age six and a half](https://www.lesswrong.com/posts/rgXQuG8KXtxugSG6H/what-i-did-in-the-hedonium-shockwave-by-emma-age-six-and-a) | ozymandias | 457 | 56 |
+| ★ | [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) | Linch | 183 | 97 |
+| ★ | [Deployment](https://www.lesswrong.com/posts/C8prkTAAYoxzrFEu4/deployment) | Nina Panickssery | 70 | 87 |
+| ★ | [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) | omegastick | 71 | 91 |
+| ★ | [A permitted value of resting](https://www.lesswrong.com/posts/4ewdPEaGowb6vpPEd/a-permitted-value-of-resting) | Jan | 8 | 70 |
+| ★ | [San Silvestro](https://www.lesswrong.com/posts/2DhiEsYMZC9tg6eEz/san-silvestro) | Tomás B. | 59 | 52 |
+| ★ | [The truth behind the 2026 J.P. Morgan Healthcare Conference](https://www.lesswrong.com/posts/eopA4MqhrE4dkLjHX/the-truth-behind-the-2026-j-p-morgan-healthcare-conference) | Abhishaike Mahajan | 82 | 50 |
+
+The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are filterable in the display.
+
 ## Top 30
 
 | # | Work | Author | Date | Karma | Score | H V M F C |

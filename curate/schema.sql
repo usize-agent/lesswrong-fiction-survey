@@ -48,6 +48,7 @@ CREATE TABLE IF NOT EXISTS llm_curations (
   subscores TEXT,                   -- JSON {"hard":5, "vision":5, ...}
   hook TEXT,                        -- one-line pull quote
   review TEXT,                      -- the summary (CONTAINS SPOILERS)
+  pick_note TEXT,                   -- set only on starred picks: the shelf card
   source_doc TEXT,
   scored_at TEXT
 );

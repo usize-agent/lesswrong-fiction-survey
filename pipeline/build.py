@@ -34,6 +34,8 @@ DIM_BLURB = {
 # the most, then non-human interiority, then forecasting, then raw idea.
 WEIGHTS = {"hard": 0.25, "vision": 0.15, "mind": 0.20, "foresight": 0.15, "craft": 0.25}
 
+PICKER = "Opus 5.5"
+
 PRESETS = {
     "Taste match": WEIGHTS,
     "Hard SF": {"hard": 0.45, "vision": 0.20, "mind": 0.05, "foresight": 0.10, "craft": 0.20},
@@ -51,6 +53,9 @@ def load():
     corpus = json.load(open(os.path.join(ROOT, "data/corpus.json")))
     cands = json.load(open(os.path.join(ROOT, "cache/candidates.json")))["candidates"]
     idx = json.load(open(os.path.join(ROOT, "data/pack_index.json")))
+    picks = json.load(open(os.path.join(ROOT, "data/picks.json")))["picks"]
+    notes = {p["id"]: p["note"] for p in picks}
+    order = {p["id"]: i for i, p in enumerate(picks)}
     works, excluded = [], []
     for line in open(os.path.join(ROOT, "data/reviews.jsonl")):
         if not line.strip():
@@ -73,6 +78,8 @@ def load():
             rec["why"] = r["exclude"]
             excluded.append(rec)
             continue
+        rec["note"] = notes.get(r["id"])
+        rec["pick"] = order.get(r["id"])
         rec.update({d: r[d] for d in DIMS})
         rec["tags"] = r["tags"]
         rec["line"] = r["line"]
@@ -85,7 +92,8 @@ def load():
         ({"id": k, **v} for k, v in corpus.items() if v["status"] == "elsewhere"),
         key=lambda r: r["title"],
     )
-    return works, excluded, elsewhere
+    preface = json.load(open(os.path.join(ROOT, "data/picks.json")))["_preface"]
+    return works, excluded, elsewhere, preface
 
 
 # ---------------------------------------------------------------- markdown
@@ -118,17 +126,20 @@ def md_entry(i, r):
     dims = " · ".join(f"{DIM_LABEL[d]} {r[d]}" for d in DIMS)
     part = f" · {r['parts']} parts" if r["parts"] > 1 else ""
     partial = " · read in part" if r["read"] == "partial" else ""
+    star = "★ " if r["note"] else ""
+    note = (f"\n> **★ {PICKER}'s pick.** {r['note']}\n" if r["note"] else "")
     return (
-        f"### {i}. [{r['title']}]({r['url']}) — **{r['score']}**\n\n"
+        f"### {i}. {star}[{r['title']}]({r['url']}) — **{r['score']}**\n\n"
         f"{r['author']} · {r['date']} · {r['karma']} karma · "
         f"{r['words']:,} words{part}{partial}\n\n"
         f"{dims}\n\n"
-        f"> {r['line']}\n\n"
+        f"> {r['line']}\n"
+        f"{note}\n"
         f"<details><summary>Summary</summary>\n\n{r['summary']}\n\n{tags}\n\n</details>\n"
     )
 
 
-def write_archive(works, excluded, elsewhere):
+def write_archive(works, excluded, elsewhere, preface):
     L = [
         "# The archive",
         "",
@@ -141,6 +152,24 @@ def write_archive(works, excluded, elsewhere):
         "dimensions mean.",
         "",
         "---",
+        "",
+        f"## {PICKER}'s picks",
+        "",
+        preface,
+        "",
+    ]
+    for r in sorted((r for r in works if r["note"]), key=lambda r: r["pick"]):
+        L += [
+            f"**★ [{r['title']}]({r['url']})** — {r['author']}, {r['date'][:7]}, "
+            f"{r['karma']} karma, score {r['score']}",
+            "",
+            f"> {r['note']}",
+            "",
+        ]
+    L += [
+        "---",
+        "",
+        "## Everything",
         "",
     ]
     for i, r in enumerate(works, 1):
@@ -173,12 +202,13 @@ def write_archive(works, excluded, elsewhere):
     open(os.path.join(ROOT, "ARCHIVE.md"), "w").write("\n".join(L))
 
 
-def write_readme(works, excluded, elsewhere):
+def write_readme(works, excluded, elsewhere, preface):
     tagc = Counter(t for r in works for t in r["tags"])
     best = {}
     for d in DIMS:
         best[d] = sorted(works, key=lambda r: (-r[d], -r["score"]))[:5]
     hi_karma = sorted(works, key=lambda r: -r["karma"])[:10]
+    picks = sorted((r for r in works if r["note"]), key=lambda r: r["pick"])
     # Works the crowd missed: high score, low karma.
     buried = [r for r in works if r["karma"] < 30][:10]
 
@@ -215,6 +245,23 @@ def write_readme(works, excluded, elsewhere):
         "story with no mechanism and no non-human mind in it scores in the fifties and is "
         "still worth reading — which is why the display lets you sort by craft alone, and "
         "why the lists below break the archive out by dimension.",
+        "",
+        f"## {PICKER}'s picks",
+        "",
+        preface,
+        "",
+        "| | Work | Author | Karma | Score |",
+        "| --- | --- | --- | --: | --: |",
+    ]
+    for r in picks:
+        L.append(
+            f"| ★ | [{esc(r['title'])}]({r['url']}) | {esc(r['author'])} | "
+            f"{r['karma']} | {r['score']} |"
+        )
+    L += [
+        "",
+        "The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are "
+        "filterable in the display.",
         "",
         "## Top 30",
         "",
@@ -288,7 +335,7 @@ def write_readme(works, excluded, elsewhere):
 # ---------------------------------------------------------------- display
 
 
-def write_html(works, excluded, elsewhere):
+def write_html(works, excluded, elsewhere, preface):
     tmpl = open(os.path.join(ROOT, "pipeline/display.html")).read()
     payload = {
         "works": works,
@@ -299,6 +346,8 @@ def write_html(works, excluded, elsewhere):
         "blurbs": DIM_BLURB,
         "weights": WEIGHTS,
         "presets": PRESETS,
+        "preface": preface,
+        "picker": PICKER,
     }
     blob = json.dumps(payload, ensure_ascii=False).replace("</", "<\\/")
     out = tmpl.replace("/*DATA*/null/*DATA*/", blob)
@@ -307,10 +356,10 @@ def write_html(works, excluded, elsewhere):
 
 
 def main():
-    works, excluded, elsewhere = load()
-    write_archive(works, excluded, elsewhere)
-    write_readme(works, excluded, elsewhere)
-    write_html(works, excluded, elsewhere)
+    works, excluded, elsewhere, preface = load()
+    write_archive(works, excluded, elsewhere, preface)
+    write_readme(works, excluded, elsewhere, preface)
+    write_html(works, excluded, elsewhere, preface)
     print(f"{len(works)} works, {len(excluded)} not-fiction, {len(elsewhere)} elsewhere")
     print(f"score range {works[-1]['score']}-{works[0]['score']}")
     print("wrote README.md ARCHIVE.md docs/index.html")

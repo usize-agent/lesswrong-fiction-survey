@@ -321,6 +321,7 @@ async function openStory(id) {
       <a href="${esc(s.url)}" target="_blank" rel="noopener">read on LessWrong ↗</a></div>
     ${l ? `<div class="llm">
       <div class="src">LLM curation — ${esc(l.scorer)} · weighted <b>${l.weighted}</b>/100</div>
+    ${l.pick_note ? `<div class="src" style="border-left:3px solid currentColor;padding-left:10px;margin-top:8px">★ pick — ${esc(l.pick_note)}</div>` : ''}
       <div class="sub">${subs.map(([k, v]) => `<span class="dim">${esc(k)}</span><div class="bar"><div style="width:${v*20}%"></div></div><span class="num">${v}</span>`).join('')}</div>
       <button type="button" id="spoilerbtn">show scoring note (spoilers)</button>
       <div class="spoiler" hidden>${esc(l.review)}</div>

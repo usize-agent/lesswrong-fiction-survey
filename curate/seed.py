@@ -23,7 +23,7 @@ DEFAULT_DB = HERE / "curate.sqlite3"
 DEFAULT_REVIEWS = REPO / "data/reviews.jsonl"
 
 sys.path.insert(0, str(REPO))
-from pipeline.build import DIMS, DIM_BLURB, DIM_LABEL, score  # noqa: E402
+from pipeline.build import DIMS, DIM_BLURB, DIM_LABEL, PICKER, score  # noqa: E402
 from pipeline.review import TAGS  # noqa: E402
 
 CRITERIA_SEED = [(d, DIM_BLURB[d], i) for i, d in enumerate(DIMS, 1)]
@@ -34,6 +34,7 @@ LLM_SCORER = "archive-v2 (LLM-assisted, one pass, see README.md)"
 def load(reviews_path):
     corpus = json.load(open(REPO / "data/corpus.json"))
     cands = json.load(open(REPO / "cache/candidates.json"))["candidates"]
+    notes = {p["id"]: p["note"] for p in json.load(open(REPO / "data/picks.json"))["picks"]}
     rows = []
     for line in open(reviews_path):
         if not line.strip():
@@ -55,6 +56,7 @@ def load(reviews_path):
             "weighted": score(r),
             "hook": r["line"],
             "summary": r["summary"],
+            "pick_note": notes.get(r["id"]),
             "tags": r["tags"],
         })
     rows.sort(key=lambda r: (-r["weighted"], -r["karma"]))
@@ -77,6 +79,8 @@ def migrate(conn):
     cols = {r[1] for r in conn.execute("PRAGMA table_info(llm_curations)")}
     if "hook" not in cols:
         conn.execute("ALTER TABLE llm_curations ADD COLUMN hook TEXT")
+    if "pick_note" not in cols:
+        conn.execute("ALTER TABLE llm_curations ADD COLUMN pick_note TEXT")
 
     by_slug = {s: i for i, s in conn.execute("SELECT id, slug FROM stories")}
     rekeyed = merged = 0
@@ -133,14 +137,16 @@ def seed(db_path, reviews_path):
             sid = conn.execute("SELECT id FROM stories WHERE slug=?", (r["slug"],)).fetchone()[0]
             conn.execute(
                 """INSERT INTO llm_curations
-                     (story_id, scorer, weighted, subscores, hook, review, source_doc)
-                   VALUES (?,?,?,?,?,?,?)
+                     (story_id, scorer, weighted, subscores, hook, review, pick_note,
+                      source_doc)
+                   VALUES (?,?,?,?,?,?,?,?)
                    ON CONFLICT(story_id) DO UPDATE SET
                      scorer=excluded.scorer, weighted=excluded.weighted,
                      subscores=excluded.subscores, hook=excluded.hook,
-                     review=excluded.review, source_doc=excluded.source_doc""",
+                     review=excluded.review, pick_note=excluded.pick_note,
+                     source_doc=excluded.source_doc""",
                 (sid, LLM_SCORER, r["weighted"], json.dumps(r["subscores"]),
-                 r["hook"], r["summary"], "data/reviews.jsonl"),
+                 r["hook"], r["summary"], r["pick_note"], "data/reviews.jsonl"),
             )
 
         live = {r["slug"] for r in rows}
@@ -153,7 +159,8 @@ def seed(db_path, reviews_path):
     n = conn.execute("SELECT count(*) FROM stories").fetchone()[0]
     h = conn.execute("SELECT count(*) FROM reviews").fetchone()[0]
     conn.close()
-    print(f"seeded {len(rows)} works from {reviews_path}")
+    picked = sum(1 for r in rows if r["pick_note"])
+    print(f"seeded {len(rows)} works from {reviews_path} ({picked} {PICKER} picks)")
     print(f"{n} stories in db ({len(stale)} no longer in the archive), {h} human reviews kept")
 
 

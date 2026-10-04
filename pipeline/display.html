@@ -131,6 +131,28 @@ ol.list{list-style:none; margin:0; padding:0}
 }
 .item.open .body{display:block}
 .item.open .hook{display:none}
+.star{color:var(--accent); font-size:15px; margin-right:5px}
+.card{
+  margin:12px 0 0 53px; max-width:62ch; background:var(--accent-soft);
+  border:1px solid var(--accent); border-left-width:3px; border-radius:0 8px 8px 0;
+  padding:12px 14px;
+}
+.card .who{
+  font:600 11px/1 ui-sans-serif,system-ui,sans-serif; letter-spacing:.09em;
+  text-transform:uppercase; color:var(--accent); margin:0 0 7px;
+}
+.card p{margin:0; font:15.5px/1.6 Georgia,"Iowan Old Style",serif; color:var(--ink)}
+.item .card{display:none}
+.item.open .card{display:block}
+.item.pick .card{display:block}
+.preface{
+  background:var(--panel); border:1px solid var(--rule); border-radius:12px;
+  padding:18px 20px; margin:16px 0 4px; box-shadow:var(--shadow); max-width:68ch;
+}
+.preface h2{font-size:18px; margin:0 0 10px; letter-spacing:-.01em}
+.preface p{margin:0 0 11px; font:15.5px/1.62 Georgia,"Iowan Old Style",serif; color:var(--dim)}
+.preface p:last-child{margin-bottom:0}
+@media (max-width:620px){ .card{margin-left:0} }
 .itags{display:flex; gap:5px; flex-wrap:wrap; margin-top:11px}
 .itag{font:inherit; font-size:11.5px; color:var(--faint); background:var(--chip); border-radius:99px; padding:2px 8px}
 
@@ -166,6 +188,7 @@ footer{color:var(--faint); font-size:13px; padding:34px 0 50px; margin-top:28px;
   <div class="row">
     <input type="search" id="q" placeholder="Search title, author, summary…" autocomplete="off">
     <div class="seg" id="sortseg"></div>
+    <button id="picksonly" title="Show only the picks">★ Picks</button>
     <button id="theme" title="Toggle dark mode">◐</button>
   </div>
   <div class="row toggles">
@@ -185,6 +208,7 @@ footer{color:var(--faint); font-size:13px; padding:34px 0 50px; margin-top:28px;
   </div>
 </div>
 
+<div class="preface" id="preface" hidden></div>
 <p class="meta" id="meta"></p>
 <ol class="list" id="list"></ol>
 
@@ -212,9 +236,9 @@ footer{color:var(--faint); font-size:13px; padding:34px 0 50px; margin-top:28px;
 </div>
 <script>
 const DATA = /*DATA*/null/*DATA*/;
-const {works, elsewhere, excluded, dims, labels, blurbs, presets} = DATA;
+const {works, elsewhere, excluded, dims, labels, blurbs, presets, preface, picker} = DATA;
 let W = {...DATA.weights};
-let sort = "score", q = "", active = new Set();
+let sort = "score", q = "", active = new Set(), picksOnly = false;
 
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
@@ -266,6 +290,7 @@ function render(){
   works.forEach(r => r.score = score(r));
   const needle = q.toLowerCase();
   let rows = works.filter(r =>
+    (!picksOnly || r.note) &&
     (!active.size || [...active].every(t => r.tags.includes(t))) &&
     (!needle || (r.title+" "+r.author+" "+r.summary+" "+r.line+" "+r.tags.join(" "))
       .toLowerCase().includes(needle)));
@@ -277,11 +302,14 @@ function render(){
     words: (a,b) => b.words - a.words,
   };
   dims.forEach(d => cmp[d] = (a,b) => b[d] - a[d] || b.score - a.score);
-  rows.sort(cmp[sort]);
+  rows.sort(picksOnly && sort === "score" ? (a,b) => a.pick - b.pick : cmp[sort]);
 
   $("#meta").textContent = rows.length === works.length
     ? `${works.length} works, ${labelFor(sort)}`
-    : `${rows.length} of ${works.length} works, ${labelFor(sort)}`;
+    : `${rows.length} of ${works.length} works, ${picksOnly && sort === "score"
+        ? "in " + picker + "'s order" : labelFor(sort)}`;
+  $("#preface").hidden = !picksOnly;
+  $("#picksonly").classList.toggle("on", picksOnly);
 
   $("#list").innerHTML = rows.length ? rows.map((r,i) => item(r, i+1)).join("")
     : `<li class="empty">Nothing matches that.</li>`;
@@ -304,23 +332,27 @@ function item(r, rank){
   const pips = d => `<span class="bar" title="${esc(labels[d])}: ${esc(blurbs[d])}">${labels[d][0]}<span class="pips">`
     + [1,2,3,4,5].map(n => `<span class="pip${n<=r[d]?" f":""}"></span>`).join("")
     + `</span></span>`;
-  return `<li class="item" data-id="${r.id}">
+  return `<li class="item${r.note && picksOnly ? " pick" : ""}" data-id="${r.id}">
     <div class="head">
       <div class="rank">${sort === "score" ? rank : ""}</div>
       <div>
-        <h3 class="title"><a href="${r.url}" target="_blank" rel="noopener">${esc(r.title)}</a></h3>
+        <h3 class="title">${r.note ? '<span class="star" title="'+esc(picker)+'\'s pick">★</span>' : ""}<a href="${r.url}" target="_blank" rel="noopener">${esc(r.title)}</a></h3>
         <div class="byline">${esc(r.author)}<span class="sep">·</span>${r.date}<span class="sep">·</span>${r.karma} karma<span class="sep">·</span>${fmt(r.words)} words${r.parts>1?`<span class="sep">·</span>${r.parts} parts`:""}${r.read==="partial"?`<span class="sep">·</span>read in part`:""}</div>
       </div>
       <div class="score"><b>${r.score}</b><span>${sort in labels ? labels[sort]+" "+r[sort] : "score"}</span></div>
     </div>
     <p class="hook">${esc(r.line)}</p>
     <div class="bars">${dims.map(pips).join("")}</div>
+    ${r.note ? `<div class="card"><p class="who">${esc(picker)}&rsquo;s pick</p><p>${esc(r.note)}</p></div>` : ""}
     <button class="more">Show summary</button>
     <div class="body">${esc(r.summary)}
       <div class="itags">${r.tags.map(t => `<span class="itag">${esc(t)}</span>`).join("")}</div>
     </div>
   </li>`;
 }
+
+$("#preface").innerHTML = `<h2>${esc(picker)}&rsquo;s picks</h2>`
+  + preface.split("\n\n").map(s => `<p>${esc(s)}</p>`).join("");
 
 $("#elsewhere").innerHTML = elsewhere.map(r =>
   `<li><a href="${r.url}" target="_blank" rel="noopener">${esc(r.title)}</a> — ${esc(r.author)}
@@ -367,6 +399,8 @@ $("#presets").addEventListener("click", e => {
   W = {...presets[b.dataset.preset]};
   syncWeights(); sort = "score"; render();
 });
+$("#picksonly").addEventListener("click", () => { picksOnly = !picksOnly; render();
+  if(picksOnly) window.scrollTo({top:0, behavior:"smooth"}); });
 $("#theme").addEventListener("click", () => {
   const dark = matchMedia("(prefers-color-scheme:dark)").matches;
   const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
