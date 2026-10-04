@@ -16,7 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 sys.path.insert(0, ROOT)
 from pipeline.rubric import (  # noqa: E402
-    DIMS, DIM_BLURB, DIM_LABEL, PICKER, PRESETS, WEIGHTS, score,
+    DIMS, DIM_ABBR, DIM_BLURB, DIM_LABEL, PICKER, PRESETS, WEIGHTS, score,
 )
 
 
@@ -104,7 +104,7 @@ def md_row(i, r):
 def md_table(rows, start=1):
     out = [
         "| # | Work | Author | Date | Karma | Score | "
-        + " ".join(DIM_LABEL[d][0] for d in DIMS) + " |",
+        + " ".join(DIM_ABBR[d] for d in DIMS) + " |",
         "| --: | --- | --- | --- | --: | --: | --- |",
     ]
     out += [md_row(i, r) for i, r in enumerate(rows, start)]
@@ -334,6 +334,7 @@ def write_html(works, excluded, elsewhere, preface):
         "excluded": excluded,
         "dims": list(DIMS),
         "labels": DIM_LABEL,
+        "abbr": DIM_ABBR,
         "blurbs": DIM_BLURB,
         "weights": WEIGHTS,
         "presets": PRESETS,

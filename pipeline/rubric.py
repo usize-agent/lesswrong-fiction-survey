@@ -19,6 +19,15 @@ DIM_LABEL = {
     "foresight": "Foresight",
 }
 
+DIM_ABBR = {
+    "concept": "Co",
+    "hard": "Hd",
+    "craft": "Cr",
+    "impact": "Im",
+    "mind": "Mi",
+    "foresight": "Fo",
+}
+
 DIM_BLURB = {
     "concept": "High concept: the scale, originality and strangeness of the central idea. "
                "Does it propose something, and is the something big?",

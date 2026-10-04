@@ -52,7 +52,7 @@ The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are filt
 
 ## Top 30
 
-| # | Work | Author | Date | Karma | Score | C H C I M F |
+| # | Work | Author | Date | Karma | Score | Co Hd Cr Im Mi Fo |
 | --: | --- | --- | --- | --: | --: | --- |
 | 1 | **The Terrarium** | Caleb Biddulph | 2026-03 | 611 | 100 | 5 5 5 – 5 5 |
 | 2 | **Gyre** | vgel | 2026-02 | 269 | 94 | 5 5 5 – 5 2 |
@@ -115,6 +115,11 @@ The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are filt
 
 **Impact** — Does it land. Did it move, unsettle or stay with the reader, or is it merely well constructed?
 
+- [Where Physics Meets Experience](https://www.lesswrong.com/posts/WajiC3YWeJutyAXTn/where-physics-meets-experience) (Eliezer Yudkowsky) — Impact 4, score 64
+- [A Fable of Science and Politics](https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics) (Eliezer Yudkowsky) — Impact 4, score 40
+- [The Parable of the Dagger](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger) (Eliezer Yudkowsky) — Impact 4, score 30
+- [The Simple Truth](https://www.lesswrong.com/posts/X3HpE8tMXz4m4w6Rz/the-simple-truth) (Eliezer Yudkowsky) — Impact 3, score 33
+- [Zombies: The Movie](https://www.lesswrong.com/posts/fsDz6HieZJBu54Yes/zombies-the-movie) (Eliezer Yudkowsky) — Impact 3, score 32
 
 **Mind** — Interiority of non-human minds: model POV, uploads, model welfare.
 
@@ -136,7 +141,7 @@ The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are filt
 
 Highest karma in the corpus, for comparison with the ranking above:
 
-| # | Work | Author | Date | Karma | Score | C H C I M F |
+| # | Work | Author | Date | Karma | Score | Co Hd Cr Im Mi Fo |
 | --: | --- | --- | --- | --: | --: | --- |
 | 1 | **The Company Man** | Tomás B. | 2025-09 | 852 | 77 | 4 3 5 – 3 4 |
 | 2 | **The Terrarium** | Caleb Biddulph | 2026-03 | 611 | 100 | 5 5 5 – 5 5 |
@@ -153,7 +158,7 @@ Highest karma in the corpus, for comparison with the ranking above:
 
 Scored well, finished under 30 karma. The clearest case for doing this at all:
 
-| # | Work | Author | Date | Karma | Score | C H C I M F |
+| # | Work | Author | Date | Karma | Score | Co Hd Cr Im Mi Fo |
 | --: | --- | --- | --- | --: | --: | --- |
 | 1 | **The Connection** | Alexandre Variengien | 2025-07 | 23 | 92 | 5 4 5 – 5 4 |
 | 2 | **Models of life** | Abhishaike Mahajan | 2024-09 | 8 | 90 | 5 5 4 – 2 5 |

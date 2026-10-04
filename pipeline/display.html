@@ -119,6 +119,7 @@ ol.list{list-style:none; margin:0; padding:0}
 }
 .bars{display:flex; gap:12px; margin:9px 0 0 53px; flex-wrap:wrap}
 .bar{display:flex; gap:5px; align-items:center; font-size:11.5px; color:var(--faint)}
+.bar.pend{opacity:.45}
 .pips{display:flex; gap:2px}
 .pip{width:5px; height:5px; border-radius:1px; background:var(--rule)}
 .pip.f{background:var(--accent)}
@@ -168,6 +169,38 @@ ol.list{list-style:none; margin:0; padding:0}
 }
 .hint{color:var(--faint); font-size:12.5px; display:flex; gap:6px; align-items:center}
 @media (max-width:620px){ .hint{display:none} }
+.listen{
+  display:inline-flex; align-items:center; gap:5px; border:1px solid var(--rule);
+  background:var(--panel); color:var(--dim); border-radius:99px; padding:3px 10px 3px 8px;
+  font:inherit; font-size:12px; cursor:pointer; white-space:nowrap;
+}
+.listen:hover{border-color:var(--accent); color:var(--accent)}
+.listen svg{width:11px; height:11px}
+.listen.playing{background:var(--accent); border-color:var(--accent); color:var(--bg)}
+
+#player{
+  position:fixed; left:0; right:0; bottom:0; z-index:60; display:none;
+  background:var(--panel); border-top:1px solid var(--rule);
+  box-shadow:0 -4px 24px rgba(0,0,0,.10);
+  padding:9px max(16px, calc(50vw - 474px)); gap:14px; align-items:center;
+}
+#player.on{display:flex}
+#player .meta2{min-width:0; flex:0 1 270px}
+#player .pt{font-size:13.5px; font-weight:650; white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+#player .pa{font-size:12px; color:var(--faint); white-space:nowrap; overflow:hidden; text-overflow:ellipsis}
+#player audio{flex:1 1 auto; min-width:0; height:36px}
+#player .x{
+  border:0; background:none; color:var(--faint); font-size:17px; cursor:pointer;
+  padding:4px 7px; border-radius:6px; flex:none;
+}
+#player .x:hover{color:var(--accent); background:var(--chip)}
+body.playing{padding-bottom:62px}
+@media (max-width:620px){
+  #player{flex-wrap:wrap; padding:8px 12px; gap:7px}
+  #player .meta2{flex:1 1 100%}
+  #player audio{flex:1 1 100%}
+  body.playing{padding-bottom:104px}
+}
 #top{
   position:fixed; right:18px; bottom:18px; z-index:40; width:40px; height:40px;
   border-radius:50%; border:1px solid var(--rule); background:var(--panel);
@@ -255,6 +288,11 @@ footer{color:var(--faint); font-size:13px; padding:34px 0 50px; margin-top:28px;
 <div class="preface" id="preface" hidden></div>
 <div id="tip"></div>
 <button id="top" title="Back to top">↑</button>
+<div id="player">
+  <div class="meta2"><div class="pt" id="ptitle"></div><div class="pa" id="pauthor"></div></div>
+  <audio id="au" controls preload="none"></audio>
+  <button class="x" id="pclose" data-tip="Stop and close the player">✕</button>
+</div>
 <p class="meta" id="meta"></p>
 <ol class="list" id="list"></ol>
 
@@ -282,19 +320,23 @@ footer{color:var(--faint); font-size:13px; padding:34px 0 50px; margin-top:28px;
 </div>
 <script>
 const DATA = /*DATA*/null/*DATA*/;
-const {works, elsewhere, excluded, dims, labels, blurbs, presets, preface, picker} = DATA;
+const {works, elsewhere, excluded, dims, labels, abbr, blurbs, presets, preface, picker} = DATA;
 let W = {...DATA.weights};
 let sort = "score", q = "", active = new Set(), picksOnly = false;
 
 const $ = s => document.querySelector(s);
 const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
-const score = r => Math.round(dims.reduce((a,d) => a + W[d]*r[d], 0) / 5 * 100);
+const score = r => {
+  const have = dims.filter(d => r[d] !== undefined && r[d] !== null);
+  const tot = have.reduce((a,d) => a + W[d], 0) || 1;
+  return Math.round(have.reduce((a,d) => a + W[d]*r[d], 0) / (5*tot) * 100);
+};
 const fmt = n => n.toLocaleString();
 
 /* ---- counts ---- */
 $("#counts").innerHTML =
   `<b>${works.length}</b> works scored · <b>${fmt(works.reduce((a,r)=>a+r.words,0))}</b> words read · `
-  + `<b>${elsewhere.length}</b> elsewhere · <b>${excluded.length}</b> set aside`;
+  + `<b>${works.filter(w=>w.mp3).length}</b> with narration · <b>${excluded.length}</b> set aside`;
 
 /* ---- sort control ---- */
 const SORTS = [["score","Score"],["karma","Karma"],["date","Newest"],["words","Longest"]];
@@ -365,6 +407,7 @@ function render(){
     b.classList.toggle("on", b.dataset.sort === sort));
   document.querySelectorAll("[data-tag]").forEach(b =>
     b.classList.toggle("on", active.has(b.dataset.tag)));
+  if(typeof markButtons === "function") markButtons();
   $("#tagsum").textContent = active.size ? `Filter by tag (${active.size})` : "Filter by tag";
   $("#activebar").innerHTML = [...active]
     .map(t => `<button data-drop="${esc(t)}">${esc(t)}</button>`).join("");
@@ -380,14 +423,23 @@ const ICON = {
   clock: '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="8" cy="8" r="6"/><path d="M8 4.6V8l2.4 1.6" stroke-linecap="round"/></svg>',
   cal:   '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2.2" y="3.2" width="11.6" height="10.6" rx="1.6"/><path d="M2.2 6.4h11.6M5.6 1.8v2.6M10.4 1.8v2.6" stroke-linecap="round"/></svg>',
   parts: '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="2.4" width="8.4" height="9.6" rx="1.3"/><path d="M5.6 13.6h6a1.4 1.4 0 0 0 1.4-1.4v-7"/></svg>',
+  play:  '<svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.5 3.2v9.6l8-4.8z"/></svg>',
 };
 const readMin = w => Math.max(1, Math.round(w / 230));
 
 function item(r, rank){
-  const pips = d => `<span class="bar" data-tip="<b>${esc(labels[d])} ${r[d]}/5</b><span class='k'>${esc(blurbs[d])}</span>">${labels[d][0]}<span class="pips">`
-    + [1,2,3,4,5].map(n => `<span class="pip${n<=r[d]?" f":""}"></span>`).join("")
-    + `</span></span>`;
-  const breakdown = dims.map(d => `${labels[d]} ${r[d]}&times;${Math.round(W[d]*100)}%`).join(" &middot; ");
+  const pips = d => {
+    const v = r[d], pend = (v === undefined || v === null);
+    const tip = pend
+      ? `<b>${esc(labels[d])} — not yet scored</b><span class='k'>${esc(blurbs[d])} This work is still awaiting its second-pass read.</span>`
+      : `<b>${esc(labels[d])} ${v}/5</b><span class='k'>${esc(blurbs[d])}</span>`;
+    return `<span class="bar${pend?" pend":""}" data-tip="${tip}">${abbr[d]}<span class="pips">`
+      + [1,2,3,4,5].map(n => `<span class="pip${!pend && n<=v?" f":""}"></span>`).join("")
+      + `</span></span>`;
+  };
+  const breakdown = dims.filter(d => r[d] != null)
+    .map(d => `${labels[d]} ${r[d]}&times;${Math.round(W[d]*100)}%`).join(" &middot; ")
+    + (dims.some(d => r[d] == null) ? " &middot; <i>rescaled, impact pending</i>" : "");
   return `<li class="item${r.note && picksOnly ? " pick" : ""}" id="w-${r.id}" data-id="${r.id}">
     <div class="head">
       <div class="rank">${sort === "score" ? rank : ""}</div>
@@ -400,6 +452,7 @@ function item(r, rank){
           <span class="f" data-tip="<b>${fmt(r.words)} words</b><span class='k'>About ${readMin(r.words)} minutes at 230 wpm.</span>">${ICON.clock}${readMin(r.words)} min</span>
           ${r.parts>1?`<span class="f" data-tip="A serial, counted as one work.">${ICON.parts}${r.parts} parts</span>`:""}
           ${r.read==="partial"?`<span class="f" data-tip="Long enough that it was read head and tail rather than straight through.">read in part</span>`:""}
+          ${r.mp3 ? `<button class="listen" data-play="${r.id}" data-tip="<b>Listen</b><span class='k'>LessWrong's own text-to-speech narration, ${Math.round(r.secs/60)} minutes. Plays here.</span>">${ICON.play}${Math.round(r.secs/60)} min</button>` : ""}
           <button class="permalink" data-copy="${r.id}" data-tip="Copy a link to this entry">link</button>
         </div>
       </div>
@@ -511,6 +564,35 @@ $("#list").addEventListener("click", async e => {
   try { await navigator.clipboard.writeText(url); } catch(_) {}
   b.textContent = "copied"; b.classList.add("done");
   setTimeout(() => { b.textContent = "link"; b.classList.remove("done"); }, 1400);
+});
+
+/* ---- audio player ---- */
+const au = $("#au"), player = $("#player");
+let nowPlaying = null;
+function markButtons(){
+  document.querySelectorAll("[data-play]").forEach(b =>
+    b.classList.toggle("playing", b.dataset.play === nowPlaying && !au.paused));
+}
+function play(id){
+  const r = works.find(w => w.id === id); if(!r || !r.mp3) return;
+  if(nowPlaying === id){ au.paused ? au.play() : au.pause(); markButtons(); return; }
+  nowPlaying = id;
+  $("#ptitle").textContent = r.title;
+  $("#pauthor").textContent = r.author + " · LessWrong text-to-speech · " + Math.round(r.secs/60) + " min";
+  au.src = r.mp3;
+  player.classList.add("on"); document.body.classList.add("playing");
+  au.play().catch(() => {});
+  markButtons();
+}
+$("#list").addEventListener("click", e => {
+  const b = e.target.closest("[data-play]"); if(!b) return;
+  play(b.dataset.play);
+});
+["play","pause","ended"].forEach(ev => au.addEventListener(ev, markButtons));
+$("#pclose").addEventListener("click", () => {
+  au.pause(); au.removeAttribute("src"); au.load();
+  nowPlaying = null; player.classList.remove("on");
+  document.body.classList.remove("playing"); markButtons();
 });
 
 /* ---- back to top ---- */
