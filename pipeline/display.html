@@ -1,0 +1,391 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LessWrong Science Fiction</title>
+<style>
+:root{
+  --bg:#faf8f5; --panel:#fff; --ink:#1a1a1a; --dim:#6b6560; --faint:#a8a29b;
+  --rule:#e6e1da; --accent:#8c3a1e; --accent-soft:#f3e7e1; --chip:#f0ece6;
+  --good:#2f6b4f; --shadow:0 1px 2px rgba(0,0,0,.04),0 8px 24px rgba(0,0,0,.04);
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --bg:#15130f; --panel:#1d1a16; --ink:#ece7e0; --dim:#9c948a; --faint:#6b645c;
+    --rule:#2d2821; --accent:#e08a63; --accent-soft:#2e241e; --chip:#272219;
+    --good:#7fb79a; --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
+  }
+}
+:root[data-theme="dark"]{
+  --bg:#15130f; --panel:#1d1a16; --ink:#ece7e0; --dim:#9c948a; --faint:#6b645c;
+  --rule:#2d2821; --accent:#e08a63; --accent-soft:#2e241e; --chip:#272219;
+  --good:#7fb79a; --shadow:0 1px 2px rgba(0,0,0,.3),0 8px 24px rgba(0,0,0,.25);
+}
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--bg); color:var(--ink);
+  font:16px/1.55 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Helvetica,Arial,sans-serif;
+  -webkit-text-size-adjust:100%;
+}
+.wrap{max-width:980px; margin:0 auto; padding:0 16px}
+a{color:var(--accent); text-decoration-thickness:1px; text-underline-offset:2px}
+
+header{padding:44px 0 18px}
+h1{font-size:clamp(26px,4.4vw,38px); line-height:1.1; margin:0 0 10px; letter-spacing:-.02em}
+.lede{color:var(--dim); max-width:62ch; margin:0 0 4px}
+.counts{color:var(--faint); font-size:13.5px; margin-top:12px}
+.counts b{color:var(--dim); font-weight:600}
+
+.controls{
+  position:sticky; top:0; z-index:20; background:var(--bg);
+  border-bottom:1px solid var(--rule); padding:10px 0 11px; margin-bottom:6px;
+}
+.row{display:flex; gap:8px; align-items:center; flex-wrap:wrap}
+input[type=search],select,button{
+  font:inherit; font-size:14px; color:var(--ink); background:var(--panel);
+  border:1px solid var(--rule); border-radius:7px; padding:7px 10px;
+}
+input[type=search]{flex:1 1 180px; min-width:0}
+button{cursor:pointer}
+button:hover{border-color:var(--accent)}
+button.on{background:var(--accent-soft); border-color:var(--accent); color:var(--accent)}
+.seg{display:flex; gap:0; border:1px solid var(--rule); border-radius:7px; overflow:hidden}
+.seg button{border:0; border-radius:0; border-left:1px solid var(--rule); font-size:13px; padding:7px 9px}
+.seg button:first-child{border-left:0}
+.ghost{border:0; background:none; color:var(--dim); font-size:13px; padding:6px 4px; text-decoration:underline}
+
+.toggles{margin-top:8px; gap:14px; align-items:baseline}
+details.tune{min-width:0}
+details.tune>summary{
+  cursor:pointer; color:var(--dim); font-size:13px; list-style:none; display:inline-block;
+  padding:2px 0; user-select:none; white-space:nowrap;
+}
+details.tune>summary:hover{color:var(--accent)}
+details.tune>summary::-webkit-details-marker{display:none}
+details.tune>summary::before{content:"▸ "; color:var(--faint)}
+details.tune[open]>summary::before{content:"▾ "}
+.tunebody{
+  position:absolute; left:0; right:0; z-index:30;
+  background:var(--panel); border:1px solid var(--rule); border-radius:10px;
+  padding:13px 14px; margin-top:8px; box-shadow:var(--shadow);
+}
+.active{display:flex; gap:5px; flex-wrap:wrap; align-items:center; min-width:0}
+.active button{
+  font-size:12px; background:var(--accent); border:0; color:var(--bg);
+  border-radius:99px; padding:3px 9px; line-height:1.3;
+}
+.active button::after{content:" ×"; opacity:.7}
+.sliders{display:grid; gap:9px}
+.sl{display:grid; grid-template-columns:78px 1fr 42px; gap:10px; align-items:center}
+.sl label{font-size:13.5px; font-weight:600; cursor:pointer; text-decoration:underline; text-decoration-color:var(--rule); text-underline-offset:3px}
+.sl label:hover{color:var(--accent); text-decoration-color:var(--accent)}
+.defs{margin:12px 0 0; padding:11px 0 0; border-top:1px solid var(--rule); font-size:12.5px; color:var(--faint); line-height:1.5}
+.defs div{margin-bottom:3px}
+.defs b{color:var(--dim); font-weight:600}
+.sl output{font-size:13px; color:var(--dim); text-align:right; font-variant-numeric:tabular-nums}
+.sl input{width:100%; accent-color:var(--accent); margin:0}
+.presets{display:flex; gap:6px; flex-wrap:wrap; margin-bottom:11px}
+.tunenote{color:var(--faint); font-size:12.5px; margin:11px 0 0}
+
+.tags{display:flex; gap:5px; flex-wrap:wrap; margin-top:9px}
+.tag{
+  font:inherit; font-size:12px; background:var(--chip); border:1px solid transparent;
+  color:var(--dim); border-radius:99px; padding:3px 9px; cursor:pointer;
+}
+.tag:hover{border-color:var(--accent)}
+.tag.on{background:var(--accent); border-color:var(--accent); color:var(--bg)}
+
+.meta{color:var(--faint); font-size:13px; padding:10px 0 2px}
+
+ol.list{list-style:none; margin:0; padding:0}
+.item{border-bottom:1px solid var(--rule); padding:15px 0}
+.head{display:grid; grid-template-columns:40px 1fr auto; gap:13px; align-items:baseline}
+.rank{color:var(--faint); font-size:13px; font-variant-numeric:tabular-nums; padding-top:3px}
+.title{font-size:17.5px; font-weight:650; letter-spacing:-.01em; margin:0}
+.title a{color:inherit; text-decoration:none}
+.title a:hover{color:var(--accent); text-decoration:underline}
+.byline{color:var(--dim); font-size:13.5px; margin-top:3px}
+.byline .sep{color:var(--faint); padding:0 5px}
+.score{
+  text-align:right; font-variant-numeric:tabular-nums; line-height:1;
+}
+.score b{font-size:23px; font-weight:650; letter-spacing:-.02em}
+.score span{display:block; color:var(--faint); font-size:10.5px; letter-spacing:.07em; text-transform:uppercase; margin-top:3px}
+.hook{
+  font:italic 15.5px/1.5 Georgia,"Iowan Old Style",serif; color:var(--dim);
+  margin:9px 0 0 53px; padding-left:12px; border-left:2px solid var(--rule);
+}
+.bars{display:flex; gap:12px; margin:9px 0 0 53px; flex-wrap:wrap}
+.bar{display:flex; gap:5px; align-items:center; font-size:11.5px; color:var(--faint)}
+.pips{display:flex; gap:2px}
+.pip{width:5px; height:5px; border-radius:1px; background:var(--rule)}
+.pip.f{background:var(--accent)}
+.more{
+  margin:9px 0 0 53px; border:0; background:none; padding:0; cursor:pointer;
+  color:var(--accent); font:inherit; font-size:13.5px; text-decoration:underline;
+}
+.body{
+  display:none; margin:11px 0 2px 53px; font:16.5px/1.62 Georgia,"Iowan Old Style",serif;
+  max-width:68ch;
+}
+.item.open .body{display:block}
+.item.open .hook{display:none}
+.itags{display:flex; gap:5px; flex-wrap:wrap; margin-top:11px}
+.itag{font:inherit; font-size:11.5px; color:var(--faint); background:var(--chip); border-radius:99px; padding:2px 8px}
+
+section.aux{padding:34px 0 0}
+section.aux h2{font-size:21px; margin:0 0 6px; letter-spacing:-.01em}
+section.aux p{color:var(--dim); font-size:14.5px; max-width:66ch; margin:0 0 14px}
+ul.aux{list-style:none; margin:0; padding:0}
+ul.aux li{padding:9px 0; border-bottom:1px solid var(--rule); font-size:14.5px}
+ul.aux .why{color:var(--dim); display:block; margin-top:2px; font-size:13.5px}
+footer{color:var(--faint); font-size:13px; padding:34px 0 50px; margin-top:28px; border-top:1px solid var(--rule)}
+.empty{color:var(--dim); padding:40px 0; text-align:center}
+
+@media (max-width:620px){
+  .head{grid-template-columns:1fr auto; gap:9px}
+  .rank{display:none}
+  .hook,.bars,.more,.body{margin-left:0}
+  .score b{font-size:20px}
+}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header>
+  <h1>LessWrong science fiction</h1>
+  <p class="lede">Every post ever tagged fiction, read end to end and scored against one
+  particular taste: hard SF in the Egan and early-Stross sense, stories told from inside a
+  non-human mind, and honest attempts to forecast what is coming.</p>
+  <p class="counts" id="counts"></p>
+</header>
+
+<div class="controls">
+  <div class="row">
+    <input type="search" id="q" placeholder="Search title, author, summary…" autocomplete="off">
+    <div class="seg" id="sortseg"></div>
+    <button id="theme" title="Toggle dark mode">◐</button>
+  </div>
+  <div class="row toggles">
+    <details class="tune" id="tune-w">
+      <summary>Re-weight the rubric</summary>
+      <div class="tunebody">
+        <div class="presets" id="presets"></div>
+        <div class="sliders" id="sliders"></div>
+        <div class="defs" id="tunenote"></div>
+      </div>
+    </details>
+    <details class="tune" id="tune-t">
+      <summary id="tagsum">Filter by tag</summary>
+      <div class="tunebody"><div class="tags" id="tagbar"></div></div>
+    </details>
+    <span class="active" id="activebar"></span>
+  </div>
+</div>
+
+<p class="meta" id="meta"></p>
+<ol class="list" id="list"></ol>
+
+<section class="aux" id="elsewhere-sec">
+  <h2>Elsewhere</h2>
+  <p>Link-only posts pointing at science fiction hosted off LessWrong. Listed, not scored,
+  because the work is not here.</p>
+  <ul class="aux" id="elsewhere"></ul>
+</section>
+
+<section class="aux" id="excluded-sec">
+  <h2>Read, then set aside</h2>
+  <p>These survived the corpus filter and were read, and turned out not to be fiction after
+  all — an essay in the author's own voice, an abstract for something hosted elsewhere, a
+  synopsis where the story should have been.</p>
+  <ul class="aux" id="excluded"></ul>
+</section>
+
+<footer>
+  Scored on reading, one pass, by a single reader. The weighted total is a taste match, not a
+  quality score — sort by Craft to see what that costs. Built from
+  <code>data/reviews.jsonl</code>.
+</footer>
+
+</div>
+<script>
+const DATA = /*DATA*/null/*DATA*/;
+const {works, elsewhere, excluded, dims, labels, blurbs, presets} = DATA;
+let W = {...DATA.weights};
+let sort = "score", q = "", active = new Set();
+
+const $ = s => document.querySelector(s);
+const esc = s => s.replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const score = r => Math.round(dims.reduce((a,d) => a + W[d]*r[d], 0) / 5 * 100);
+const fmt = n => n.toLocaleString();
+
+/* ---- counts ---- */
+$("#counts").innerHTML =
+  `<b>${works.length}</b> works scored · <b>${fmt(works.reduce((a,r)=>a+r.words,0))}</b> words read · `
+  + `<b>${elsewhere.length}</b> elsewhere · <b>${excluded.length}</b> set aside`;
+
+/* ---- sort control ---- */
+const SORTS = [["score","Score"],["karma","Karma"],["date","Newest"],["words","Longest"]];
+$("#sortseg").innerHTML = SORTS.map(([k,l]) =>
+  `<button data-sort="${k}">${l}</button>`).join("");
+
+/* ---- weight sliders ---- */
+$("#sliders").innerHTML = dims.map(d => `
+  <div class="sl" title="${esc(blurbs[d])}">
+    <label for="w-${d}">${labels[d]}</label>
+    <input id="w-${d}" type="range" min="0" max="100" step="5" value="${W[d]*100}" data-dim="${d}">
+    <output id="o-${d}">${Math.round(W[d]*100)}%</output>
+  </div>`).join("");
+$("#presets").innerHTML = Object.keys(presets).map(p =>
+  `<button class="tag" data-preset="${esc(p)}">${esc(p)}</button>`).join("");
+
+function syncWeights(){
+  const total = dims.reduce((a,d) => a + W[d], 0) || 1;
+  dims.forEach(d => {
+    $("#w-"+d).value = Math.round(W[d]*100);
+    $("#o-"+d).textContent = Math.round(W[d]/total*100) + "%";
+  });
+  $("#tunenote").innerHTML = dims.map(d => `<div><b>${labels[d]}.</b> ${esc(blurbs[d])}</div>`).join("")
+    + `<div style="margin-top:7px">Click a dimension name to rank by it alone.</div>`;
+  Object.keys(presets).forEach(p => {
+    const on = dims.every(d => Math.abs(presets[p][d] - W[d]/total) < 0.005);
+    document.querySelector(`[data-preset="${CSS.escape(p)}"]`).classList.toggle("on", on);
+  });
+}
+
+/* ---- tag bar ---- */
+const tagCount = {};
+works.forEach(r => r.tags.forEach(t => tagCount[t] = (tagCount[t]||0)+1));
+$("#tagbar").innerHTML = Object.entries(tagCount).sort((a,b)=>b[1]-a[1])
+  .map(([t,n]) => `<button class="tag" data-tag="${esc(t)}">${esc(t)} <span style="opacity:.6">${n}</span></button>`).join("");
+
+/* ---- render ---- */
+function render(){
+  works.forEach(r => r.score = score(r));
+  const needle = q.toLowerCase();
+  let rows = works.filter(r =>
+    (!active.size || [...active].every(t => r.tags.includes(t))) &&
+    (!needle || (r.title+" "+r.author+" "+r.summary+" "+r.line+" "+r.tags.join(" "))
+      .toLowerCase().includes(needle)));
+
+  const cmp = {
+    score: (a,b) => b.score - a.score || b.karma - a.karma,
+    karma: (a,b) => b.karma - a.karma || b.score - a.score,
+    date:  (a,b) => (a.date < b.date) - (a.date > b.date) || b.score - a.score,
+    words: (a,b) => b.words - a.words,
+  };
+  dims.forEach(d => cmp[d] = (a,b) => b[d] - a[d] || b.score - a.score);
+  rows.sort(cmp[sort]);
+
+  $("#meta").textContent = rows.length === works.length
+    ? `${works.length} works, ${labelFor(sort)}`
+    : `${rows.length} of ${works.length} works, ${labelFor(sort)}`;
+
+  $("#list").innerHTML = rows.length ? rows.map((r,i) => item(r, i+1)).join("")
+    : `<li class="empty">Nothing matches that.</li>`;
+
+  document.querySelectorAll("[data-sort]").forEach(b =>
+    b.classList.toggle("on", b.dataset.sort === sort));
+  document.querySelectorAll("[data-tag]").forEach(b =>
+    b.classList.toggle("on", active.has(b.dataset.tag)));
+  $("#tagsum").textContent = active.size ? `Filter by tag (${active.size})` : "Filter by tag";
+  $("#activebar").innerHTML = [...active]
+    .map(t => `<button data-drop="${esc(t)}">${esc(t)}</button>`).join("");
+}
+
+function labelFor(k){
+  const s = SORTS.find(([x]) => x === k);
+  return s ? "by " + s[1].toLowerCase() : "by " + labels[k].toLowerCase();
+}
+
+function item(r, rank){
+  const pips = d => `<span class="bar" title="${esc(labels[d])}: ${esc(blurbs[d])}">${labels[d][0]}<span class="pips">`
+    + [1,2,3,4,5].map(n => `<span class="pip${n<=r[d]?" f":""}"></span>`).join("")
+    + `</span></span>`;
+  return `<li class="item" data-id="${r.id}">
+    <div class="head">
+      <div class="rank">${sort === "score" ? rank : ""}</div>
+      <div>
+        <h3 class="title"><a href="${r.url}" target="_blank" rel="noopener">${esc(r.title)}</a></h3>
+        <div class="byline">${esc(r.author)}<span class="sep">·</span>${r.date}<span class="sep">·</span>${r.karma} karma<span class="sep">·</span>${fmt(r.words)} words${r.parts>1?`<span class="sep">·</span>${r.parts} parts`:""}${r.read==="partial"?`<span class="sep">·</span>read in part`:""}</div>
+      </div>
+      <div class="score"><b>${r.score}</b><span>${sort in labels ? labels[sort]+" "+r[sort] : "score"}</span></div>
+    </div>
+    <p class="hook">${esc(r.line)}</p>
+    <div class="bars">${dims.map(pips).join("")}</div>
+    <button class="more">Show summary</button>
+    <div class="body">${esc(r.summary)}
+      <div class="itags">${r.tags.map(t => `<span class="itag">${esc(t)}</span>`).join("")}</div>
+    </div>
+  </li>`;
+}
+
+$("#elsewhere").innerHTML = elsewhere.map(r =>
+  `<li><a href="${r.url}" target="_blank" rel="noopener">${esc(r.title)}</a> — ${esc(r.author)}
+   <span class="why">${esc(r.blurb)}</span></li>`).join("");
+$("#excluded").innerHTML = excluded.map(r =>
+  `<li><a href="${r.url}" target="_blank" rel="noopener">${esc(r.title)}</a> — ${esc(r.author)}, ${r.date}
+   <span class="why">${esc(r.why)}</span></li>`).join("");
+
+/* ---- events ---- */
+$("#list").addEventListener("click", e => {
+  const b = e.target.closest(".more"); if(!b) return;
+  const li = b.closest(".item"); const open = li.classList.toggle("open");
+  b.textContent = open ? "Hide summary" : "Show summary";
+});
+$("#q").addEventListener("input", e => { q = e.target.value; render(); });
+$("#sortseg").addEventListener("click", e => {
+  const b = e.target.closest("[data-sort]"); if(!b) return;
+  sort = b.dataset.sort; render();
+});
+$("#tagbar").addEventListener("click", e => {
+  const b = e.target.closest("[data-tag]"); if(!b) return;
+  const t = b.dataset.tag;
+  active.has(t) ? active.delete(t) : active.add(t);
+  render();
+});
+$("#activebar").addEventListener("click", e => {
+  const b = e.target.closest("[data-drop]"); if(!b) return;
+  active.delete(b.dataset.drop); render();
+});
+/* close the popover panels on outside click */
+document.addEventListener("click", e => {
+  document.querySelectorAll("details.tune[open]").forEach(d => {
+    if(!d.contains(e.target)) d.open = false;
+  });
+});
+$("#sliders").addEventListener("input", e => {
+  const d = e.target.dataset.dim; if(!d) return;
+  W[d] = +e.target.value / 100;
+  const total = dims.reduce((a,x) => a + W[x], 0);
+  if(total > 0) { syncWeights(); if(!(sort in labels)) sort = "score"; render(); }
+});
+$("#presets").addEventListener("click", e => {
+  const b = e.target.closest("[data-preset]"); if(!b) return;
+  W = {...presets[b.dataset.preset]};
+  syncWeights(); sort = "score"; render();
+});
+$("#theme").addEventListener("click", () => {
+  const dark = matchMedia("(prefers-color-scheme:dark)").matches;
+  const cur = document.documentElement.dataset.theme || (dark ? "dark" : "light");
+  document.documentElement.dataset.theme = cur === "dark" ? "light" : "dark";
+  try { localStorage.setItem("lwsf-theme", document.documentElement.dataset.theme); } catch(e){}
+});
+try {
+  const t = localStorage.getItem("lwsf-theme");
+  if(t) document.documentElement.dataset.theme = t;
+} catch(e){}
+
+/* dimension sorts live on the sliders panel labels */
+$("#sliders").addEventListener("click", e => {
+  const l = e.target.closest("label"); if(!l) return;
+  sort = l.htmlFor.slice(2); render();
+});
+
+syncWeights();
+render();
+</script>
+</body>
+</html>

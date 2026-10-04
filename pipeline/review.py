@@ -51,8 +51,8 @@ def main():
     works = {k for k, v in corpus.items() if v["status"] == "work"}
     have = load()
     if sys.argv[1:] == ["--status"]:
-        idx = json.load(open(os.path.join(ROOT, "work/pack_index.json")))
-        todo = sorted({v["pack"] for k, v in idx.items() if k not in have})
+        idx = json.load(open(os.path.join(ROOT, "data/pack_index.json")))
+        todo = sorted({v["pack"] for k, v in idx.items() if k in works and k not in have})
         print(f"{len(have)}/{len(works)} reviewed; packs with work left: {todo[:10]}{'...' if len(todo) > 10 else ''}")
         return
     batch = json.load(open(sys.argv[1]))

@@ -76,7 +76,7 @@ def main():
         buf.append(block)
         index[pid] = {"pack": pack, "read": read}
     flush()
-    json.dump(index, open(os.path.join(ROOT, "work/pack_index.json"), "w"), indent=1)
+    json.dump(index, open(os.path.join(ROOT, "data/pack_index.json"), "w"), indent=1)
     print(f"{len(works)} works in {pack} packs")
 
 
