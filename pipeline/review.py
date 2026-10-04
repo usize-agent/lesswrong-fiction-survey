@@ -17,6 +17,9 @@ PATH = os.path.join(ROOT, "data/reviews.jsonl")
 sys.path.insert(0, ROOT)
 from pipeline.rubric import DIMS, TAGS  # noqa: E402
 
+# impact is scored on the second pass, by pipeline/impact.py
+FIRST_PASS = tuple(d for d in DIMS if d != "impact")
+
 
 def load():
     out = {}
@@ -32,7 +35,7 @@ def validate(r, works):
     assert r["id"] in works, f"{r['id']} is not a work in data/corpus.json"
     if "exclude" in r:
         return
-    for d in DIMS:
+    for d in FIRST_PASS:
         assert isinstance(r[d], int) and 0 <= r[d] <= 5, f"{r['id']}: bad {d}"
     bad = set(r["tags"]) - TAGS
     assert not bad, f"{r['id']}: unknown tags {bad}"

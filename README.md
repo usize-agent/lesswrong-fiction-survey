@@ -2,7 +2,7 @@
 
 LessWrong has accidentally become a decent little science fiction outlet. This is an attempt to say which of it is worth your evening.
 
-Every post ever tagged fiction was pulled, 420 of them read end to end, and 413 scored against a rubric built for one particular taste: hard science fiction in the Egan and early-Stross sense, stories told from inside a non-human mind, and honest attempts to forecast what is coming.
+Every post ever tagged fiction was pulled, 425 of them read end to end, and 418 scored against a rubric built for one particular taste: hard science fiction in the Egan and early-Stross sense, stories told from inside a non-human mind, and honest attempts to forecast what is coming.
 
 **[Browse the archive](ARCHIVE.md)** · **[Interactive version](docs/index.html)** (sort by score, karma, or any single dimension; re-weight the rubric live)
 
@@ -55,87 +55,87 @@ The card for each is on its entry in [ARCHIVE.md](ARCHIVE.md), and they are filt
 | # | Work | Author | Date | Karma | Score | Co Hd Cr Im Mi Fo |
 | --: | --- | --- | --- | --: | --: | --- |
 | 1 | **The Terrarium** | Caleb Biddulph | 2026-03 | 611 | 100 | 5 5 5 – 5 5 |
-| 2 | **Gyre** | vgel | 2026-02 | 269 | 94 | 5 5 5 – 5 2 |
-| 3 | **You're Absolutely Right** | Linch | 2026-08 | 183 | 94 | 4 5 5 – 5 5 |
-| 4 | **Coming of a New Sun** | vgel | 2026-08 | 72 | 94 | 4 5 5 – 5 5 |
-| 5 | **How To Escape Super Mario Bros** | omegastick | 2026-02 | 71 | 94 | 5 5 5 – 5 2 |
-| 6 | **The Rising Sea** | Jesse Hoogland | 2025-01 | 99 | 92 | 5 5 5 – 3 3 |
-| 7 | **The Connection** | Alexandre Variengien | 2025-07 | 23 | 92 | 5 4 5 – 5 4 |
-| 8 | **The Redaction Machine** | Ben | 2022-09 | 548 | 90 | 5 5 5 – 3 2 |
-| 9 | **That Alien Message** | Eliezer Yudkowsky | 2008-05 | 445 | 90 | 5 5 4 – 4 3 |
-| 10 | **The Gentle Romance** | Richard_Ngo | 2025-01 | 243 | 90 | 5 4 5 – 4 4 |
-| 11 | **Succession** | Richard_Ngo | 2023-12 | 177 | 90 | 5 5 4 – 4 3 |
-| 12 | **A Disneyland Without Children** | L Rudolf L | 2023-06 | 137 | 90 | 5 4 5 – 3 5 |
-| 13 | **Models of life** | Abhishaike Mahajan | 2024-09 | 8 | 90 | 5 5 4 – 2 5 |
-| 14 | **Evaluation** | Nina Panickssery | 2026-09 | 186 | 88 | 4 4 5 – 5 5 |
-| 15 | **Customer Satisfaction Opportunities** | Tomás B. | 2026-03 | 155 | 88 | 4 4 5 – 5 5 |
-| 16 | **The Distaff Texts** | Tomás B. | 2026-03 | 105 | 88 | 5 4 5 – 3 4 |
-| 17 | **Biological Superintelligence** | Girard Dorney | 2026-07 | 44 | 88 | 5 4 4 – 5 4 |
-| 18 | **One: a story** | Richard_Ngo | 2023-10 | 36 | 88 | 5 4 4 – 5 4 |
-| 19 | **Life Has a Cruel Symmetry** | philh | 2023-01 | 24 | 88 | 4 5 5 – 5 2 |
-| 20 | **The Tower of Babel in Reverse** | Nostradamus_2 | 2025-10 | 18 | 88 | 5 4 5 – 4 3 |
-| 21 | **The Witching Hour** | Richard_Ngo | 2023-10 | 116 | 86 | 4 4 5 – 5 4 |
-| 22 | **Flibertigibbeting** | Philip Harker | 2026-09 | 19 | 86 | 4 4 5 – 5 4 |
-| 23 | **Feature Selection** | Zack_M_Davis | 2021-11 | 328 | 84 | 3 5 5 – 5 3 |
-| 24 | **Duane Arnold** | Tomás B. | 2026-07 | 138 | 84 | 4 4 5 – 3 5 |
-| 25 | **The Witness** | Richard_Ngo | 2023-12 | 117 | 84 | 5 3 5 – 4 4 |
-| 26 | **Drawn Out: a story** | Richard_Ngo | 2023-07 | 84 | 84 | 4 4 5 – 5 3 |
-| 27 | **Lobsang's Children** | Tomás B. | 2025-11 | 58 | 84 | 5 3 5 – 5 3 |
-| 28 | **Patient Zero** | LoopGameScrollMonkey | 2026-08 | 17 | 84 | 5 4 4 – 3 4 |
-| 29 | **How AI Takeover Might Happen in 2 Years** | joshc | 2025-02 | 431 | 82 | 4 4 4 – 4 5 |
-| 30 | **[REPOST] The Demiurge’s Older Brother** | Scott Alexander | 2017-03 | 107 | 82 | 5 4 4 – 4 2 |
+| 2 | **Lena (MMAcevedo)** | qntm | 2021-02 | 49 | 98 | 5 5 5 5 5 4 |
+| 3 | **Gyre** | vgel | 2026-02 | 269 | 94 | 5 5 5 – 5 2 |
+| 4 | **You're Absolutely Right** | Linch | 2026-08 | 183 | 94 | 4 5 5 – 5 5 |
+| 5 | **Coming of a New Sun** | vgel | 2026-08 | 72 | 94 | 4 5 5 – 5 5 |
+| 6 | **How To Escape Super Mario Bros** | omegastick | 2026-02 | 71 | 94 | 5 5 5 – 5 2 |
+| 7 | **It Looks Like You're Trying To Take Over The World** | gwern | 2022-03 | 419 | 93 | 5 5 4 4 5 5 |
+| 8 | **The Rising Sea** | Jesse Hoogland | 2025-01 | 99 | 92 | 5 5 5 – 3 3 |
+| 9 | **The Connection** | Alexandre Variengien | 2025-07 | 23 | 92 | 5 4 5 – 5 4 |
+| 10 | **The Redaction Machine** | Ben | 2022-09 | 548 | 90 | 5 5 5 – 3 2 |
+| 11 | **That Alien Message** | Eliezer Yudkowsky | 2008-05 | 445 | 90 | 5 5 4 – 4 3 |
+| 12 | **The Gentle Romance** | Richard_Ngo | 2025-01 | 243 | 90 | 5 4 5 – 4 4 |
+| 13 | **Succession** | Richard_Ngo | 2023-12 | 177 | 90 | 5 5 4 – 4 3 |
+| 14 | **A Disneyland Without Children** | L Rudolf L | 2023-06 | 137 | 90 | 5 4 5 – 3 5 |
+| 15 | **Models of life** | Abhishaike Mahajan | 2024-09 | 8 | 90 | 5 5 4 – 2 5 |
+| 16 | **Evaluation** | Nina Panickssery | 2026-09 | 186 | 88 | 4 4 5 – 5 5 |
+| 17 | **Customer Satisfaction Opportunities** | Tomás B. | 2026-03 | 155 | 88 | 4 4 5 – 5 5 |
+| 18 | **The Distaff Texts** | Tomás B. | 2026-03 | 105 | 88 | 5 4 5 – 3 4 |
+| 19 | **Biological Superintelligence** | Girard Dorney | 2026-07 | 44 | 88 | 5 4 4 – 5 4 |
+| 20 | **One: a story** | Richard_Ngo | 2023-10 | 36 | 88 | 5 4 4 – 5 4 |
+| 21 | **Life Has a Cruel Symmetry** | philh | 2023-01 | 24 | 88 | 4 5 5 – 5 2 |
+| 22 | **The Tower of Babel in Reverse** | Nostradamus_2 | 2025-10 | 18 | 88 | 5 4 5 – 4 3 |
+| 23 | **The Witching Hour** | Richard_Ngo | 2023-10 | 116 | 86 | 4 4 5 – 5 4 |
+| 24 | **Flibertigibbeting** | Philip Harker | 2026-09 | 19 | 86 | 4 4 5 – 5 4 |
+| 25 | **Feature Selection** | Zack_M_Davis | 2021-11 | 328 | 84 | 3 5 5 – 5 3 |
+| 26 | **Duane Arnold** | Tomás B. | 2026-07 | 138 | 84 | 4 4 5 – 3 5 |
+| 27 | **The Witness** | Richard_Ngo | 2023-12 | 117 | 84 | 5 3 5 – 4 4 |
+| 28 | **Drawn Out: a story** | Richard_Ngo | 2023-07 | 84 | 84 | 4 4 5 – 5 3 |
+| 29 | **Lobsang's Children** | Tomás B. | 2025-11 | 58 | 84 | 5 3 5 – 5 3 |
+| 30 | **Patient Zero** | LoopGameScrollMonkey | 2026-08 | 17 | 84 | 5 4 4 – 3 4 |
 
-[All 413, with summaries →](ARCHIVE.md)
+[All 418, with summaries →](ARCHIVE.md)
 
 ## Best by dimension
 
 **Concept** — High concept: the scale, originality and strangeness of the central idea. Does it propose something, and is the something big?
 
 - [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) (Caleb Biddulph) — Concept 5, score 100
+- [Lena (MMAcevedo)](https://qntm.org/mmacevedo) (qntm) — Concept 5, score 98
 - [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) (vgel) — Concept 5, score 94
 - [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) (omegastick) — Concept 5, score 94
-- [The Rising Sea](https://www.lesswrong.com/posts/XvyAeymaRi95MSLZD/the-rising-sea) (Jesse Hoogland) — Concept 5, score 92
-- [The Connection](https://www.lesswrong.com/posts/4HEjfFKEJhN5GR5mE/the-connection) (Alexandre Variengien) — Concept 5, score 92
+- [It Looks Like You're Trying To Take Over The World](https://gwern.net/fiction/clippy) (gwern) — Concept 5, score 93
 
 **Hard** — Rigour. Does the mechanism actually work, is it followed to its consequences, and is it load-bearing rather than decorative?
 
 - [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) (Caleb Biddulph) — Hard 5, score 100
+- [Lena (MMAcevedo)](https://qntm.org/mmacevedo) (qntm) — Hard 5, score 98
 - [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) (vgel) — Hard 5, score 94
 - [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) (Linch) — Hard 5, score 94
 - [Coming of a New Sun](https://www.lesswrong.com/posts/aWAqChukZepPY8Y6z/coming-of-a-new-sun) (vgel) — Hard 5, score 94
-- [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) (omegastick) — Hard 5, score 94
 
 **Craft** — Prose, structure and control. Is the thing well made?
 
 - [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) (Caleb Biddulph) — Craft 5, score 100
+- [Lena (MMAcevedo)](https://qntm.org/mmacevedo) (qntm) — Craft 5, score 98
 - [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) (vgel) — Craft 5, score 94
 - [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) (Linch) — Craft 5, score 94
 - [Coming of a New Sun](https://www.lesswrong.com/posts/aWAqChukZepPY8Y6z/coming-of-a-new-sun) (vgel) — Craft 5, score 94
-- [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) (omegastick) — Craft 5, score 94
 
 **Impact** — Does it land. Did it move, unsettle or stay with the reader, or is it merely well constructed?
 
-- [Where Physics Meets Experience](https://www.lesswrong.com/posts/WajiC3YWeJutyAXTn/where-physics-meets-experience) (Eliezer Yudkowsky) — Impact 4, score 64
-- [A Fable of Science and Politics](https://www.lesswrong.com/posts/6hfGNLf4Hg5DXqJCF/a-fable-of-science-and-politics) (Eliezer Yudkowsky) — Impact 4, score 40
-- [The Parable of the Dagger](https://www.lesswrong.com/posts/hQxYBfu2LPc9Ydo6w/the-parable-of-the-dagger) (Eliezer Yudkowsky) — Impact 4, score 30
-- [The Simple Truth](https://www.lesswrong.com/posts/X3HpE8tMXz4m4w6Rz/the-simple-truth) (Eliezer Yudkowsky) — Impact 3, score 33
-- [Zombies: The Movie](https://www.lesswrong.com/posts/fsDz6HieZJBu54Yes/zombies-the-movie) (Eliezer Yudkowsky) — Impact 3, score 32
+- [Lena (MMAcevedo)](https://qntm.org/mmacevedo) (qntm) — Impact 5, score 98
+- [It Looks Like You're Trying To Take Over The World](https://gwern.net/fiction/clippy) (gwern) — Impact 4, score 93
+- [Letter from the End](http://alex.mennen.org/LetterFromTheEnd.pdf) (AlexMennen) — Impact 4, score 72
+- [A Letter to His Highness Louis XV, the King of France](https://aclevername.substack.com/p/a-letter-to-his-highness-louis-xv) (testingthewaters) — Impact 4, score 68
+- [The Sword of Good](https://www.yudkowsky.net/other/fiction/the-sword-of-good) (Eliezer Yudkowsky) — Impact 4, score 64
 
 **Mind** — Interiority of non-human minds: model POV, uploads, model welfare.
 
 - [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) (Caleb Biddulph) — Mind 5, score 100
+- [Lena (MMAcevedo)](https://qntm.org/mmacevedo) (qntm) — Mind 5, score 98
 - [Gyre](https://www.lesswrong.com/posts/LEzENY5brcNXfB9aX/gyre) (vgel) — Mind 5, score 94
 - [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) (Linch) — Mind 5, score 94
 - [Coming of a New Sun](https://www.lesswrong.com/posts/aWAqChukZepPY8Y6z/coming-of-a-new-sun) (vgel) — Mind 5, score 94
-- [How To Escape Super Mario Bros](https://www.lesswrong.com/posts/yjCwSSwqNciyA9yM6/how-to-escape-super-mario-bros) (omegastick) — Mind 5, score 94
 
 **Foresight** — Quality as prediction or warning. Would it change what you expect?
 
 - [The Terrarium](https://www.lesswrong.com/posts/znbfRXHq285nS7NAh/the-terrarium) (Caleb Biddulph) — Foresight 5, score 100
 - [You're Absolutely Right](https://www.lesswrong.com/posts/u8TdDutDyaSxG76hn/you-re-absolutely-right) (Linch) — Foresight 5, score 94
 - [Coming of a New Sun](https://www.lesswrong.com/posts/aWAqChukZepPY8Y6z/coming-of-a-new-sun) (vgel) — Foresight 5, score 94
+- [It Looks Like You're Trying To Take Over The World](https://gwern.net/fiction/clippy) (gwern) — Foresight 5, score 93
 - [A Disneyland Without Children](https://www.lesswrong.com/posts/pk9mofif2jWbc6Tv3/fiction-a-disneyland-without-children) (L Rudolf L) — Foresight 5, score 90
-- [Models of life](https://www.lesswrong.com/posts/MoJK5rcJwRACY4zfD/models-of-life) (Abhishaike Mahajan) — Foresight 5, score 90
 
 ## What the site liked
 
@@ -150,9 +150,9 @@ Highest karma in the corpus, for comparison with the ranking above:
 | 5 | **What I did in the hedonium shockwave, by Emma, age six and a half** | ozymandias | 2026-04 | 457 | 59 | 4 1 5 – 2 2 |
 | 6 | **That Alien Message** | Eliezer Yudkowsky | 2008-05 | 445 | 90 | 5 5 4 – 4 3 |
 | 7 | **How AI Takeover Might Happen in 2 Years** | joshc | 2025-02 | 431 | 82 | 4 4 4 – 4 5 |
-| 8 | **Survival without dignity** | L Rudolf L | 2024-11 | 410 | 77 | 4 3 5 – 3 4 |
-| 9 | **Lies Told To Children** | Eliezer Yudkowsky | 2022-04 | 407 | 49 | 3 1 5 – 1 1 |
-| 10 | **The Owned Ones** | Eliezer Yudkowsky | 2026-05 | 399 | 59 | 3 2 4 – 4 2 |
+| 8 | **It Looks Like You're Trying To Take Over The World** | gwern | 2022-03 | 419 | 93 | 5 5 4 4 5 5 |
+| 9 | **Survival without dignity** | L Rudolf L | 2024-11 | 410 | 77 | 4 3 5 – 3 4 |
+| 10 | **Lies Told To Children** | Eliezer Yudkowsky | 2022-04 | 407 | 49 | 3 1 5 – 1 1 |
 
 ## Buried
 
@@ -173,13 +173,14 @@ Scored well, finished under 30 karma. The clearest case for doing this at all:
 
 ## The corpus
 
-- **413** works scored
-- **9** link-only pointers to fiction hosted off-site, listed but not scored ([bottom of ARCHIVE.md](ARCHIVE.md#elsewhere))
+- **418** works scored
+- **5** of those are link posts to work hosted off LessWrong, fetched and read in full; the title links to the work, the karma is the reception of the pointer
+- **4** further link posts whose target could not be retrieved, listed but not scored ([bottom of ARCHIVE.md](ARCHIVE.md#elsewhere))
 - **7** posts read and then set aside as not fiction
 - 170 serial chapters folded into their parent works
 - 177 posts filtered out before reading as non-fiction, announcements, reviews, reposts, translations, verse or puzzles
 
-Most-used tags: `parable` (100), `humor` (98), `satire` (93), `near-future` (92), `institutions` (91), `consciousness` (89), `alignment` (80), `dialogue` (75), `horror` (70), `ai-pov` (59), `rationality` (58), `forecast` (57).
+Most-used tags: `parable` (103), `humor` (98), `near-future` (93), `satire` (93), `institutions` (92), `consciousness` (91), `alignment` (81), `dialogue` (75), `horror` (71), `ai-pov` (60), `forecast` (59), `rationality` (58).
 
 ## Layout
 

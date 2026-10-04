@@ -42,18 +42,25 @@ def load():
             continue
         r = json.loads(line)
         c = cands[r["id"]]
-        parts = corpus[r["id"]].get("parts", [r["id"]])
+        meta = corpus[r["id"]]
+        parts = meta.get("parts", [r["id"]])
+        lw = f"https://www.lesswrong.com/posts/{r['id']}/{c['slug']}"
         rec = {
             "id": r["id"],
-            "title": c["title"],
-            "author": c["author"] or "[account deleted]",
+            "title": meta.get("title") or c["title"],
+            "author": meta.get("author") or c["author"] or "[account deleted]",
             "date": c["postedAt"][:10],
             "karma": c["baseScore"],
-            "words": sum(cands[p]["wordCount"] for p in parts),
+            "words": meta.get("words") or sum(cands[p]["wordCount"] for p in parts),
             "parts": len(parts),
-            "url": f"https://www.lesswrong.com/posts/{r['id']}/{c['slug']}",
+            "url": meta.get("url", lw),
             "read": idx.get(r["id"], {}).get("read", "full"),
         }
+        if meta.get("external"):
+            # The work lives off LessWrong; the post there is a link, and its
+            # karma is the community's reception of the pointer.
+            rec["external"] = True
+            rec["lw"] = lw
         if "exclude" in r:
             rec["why"] = r["exclude"]
             excluded.append(rec)
@@ -169,8 +176,10 @@ def write_archive(works, excluded, elsewhere, preface):
         "",
         "## Elsewhere",
         "",
-        "Nine posts are link-only pointers to science fiction hosted off LessWrong. "
-        "They are listed but not scored, because the work is not here.",
+        "Link posts whose target could not be retrieved: two sites refuse automated "
+        "requests, one novella's link is dead, and one blog no longer exists. Listed "
+        "but not scored. The five link posts that could be fetched were read in full "
+        "and are ranked with everything else.",
         "",
     ]
     for r in elsewhere:
@@ -288,8 +297,11 @@ def write_readme(works, excluded, elsewhere, preface):
         "## The corpus",
         "",
         f"- **{len(works)}** works scored",
-        f"- **{len(elsewhere)}** link-only pointers to fiction hosted off-site, listed but "
-        "not scored ([bottom of ARCHIVE.md](ARCHIVE.md#elsewhere))",
+        f"- **{sum(1 for r in works if r.get('external'))}** of those are link posts to "
+        "work hosted off LessWrong, fetched and read in full; the title links to the "
+        "work, the karma is the reception of the pointer",
+        f"- **{len(elsewhere)}** further link posts whose target could not be retrieved, "
+        "listed but not scored ([bottom of ARCHIVE.md](ARCHIVE.md#elsewhere))",
         f"- **{len(excluded)}** posts read and then set aside as not fiction",
         "- 170 serial chapters folded into their parent works",
         "- 177 posts filtered out before reading as non-fiction, announcements, reviews, "

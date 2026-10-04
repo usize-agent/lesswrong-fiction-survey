@@ -654,10 +654,12 @@
  },
  "BoHBJhG8JWNWsjnFP": {
   "author": "testingthewaters",
-  "blurb": "AI-risk parable as an Enlightenment advisor's letter; LW has only the opening, the rest is on Substack.",
-  "status": "elsewhere",
+  "external": true,
+  "reason": "link post; the work itself is hosted off LessWrong and was fetched and read",
+  "status": "work",
   "title": "A Letter to His Highness Louis XV, the King of France",
-  "url": "https://aclevername.substack.com/p/a-letter-to-his-highness-louis-xv"
+  "url": "https://aclevername.substack.com/p/a-letter-to-his-highness-louis-xv",
+  "words": 2153
  },
  "BwAt8C365BzaPBfrk": {
   "status": "serial-part",
@@ -1007,10 +1009,12 @@
  },
  "HvjZxxtHnAucnaKn2": {
   "author": "AlexMennen",
-  "blurb": "Short fiction hosted as a PDF.",
-  "status": "elsewhere",
+  "external": true,
+  "reason": "link post; the work itself is hosted off LessWrong and was fetched and read",
+  "status": "work",
   "title": "Letter from the End",
-  "url": "http://alex.mennen.org/LetterFromTheEnd.pdf"
+  "url": "http://alex.mennen.org/LetterFromTheEnd.pdf",
+  "words": 1112
  },
  "Hxg7XomcPmGvDaBGo": {
   "reason": "v1 keep",
@@ -1612,10 +1616,12 @@
  },
  "XuLG6M7sHuenYWbfC": {
   "author": "Eliezer Yudkowsky",
-  "blurb": "A fantasy-quest hero discovers what the 'good' side is actually doing; LW carries only the opening and afterword.",
-  "status": "elsewhere",
+  "external": true,
+  "reason": "link post; the work itself is hosted off LessWrong and was fetched and read",
+  "status": "work",
   "title": "The Sword of Good",
-  "url": "https://www.yudkowsky.net/other/fiction/the-sword-of-good"
+  "url": "https://www.yudkowsky.net/other/fiction/the-sword-of-good",
+  "words": 9513
  },
  "XvDboZ7SDBefqJwtf": {
   "reason": "v1 keep",
@@ -1707,10 +1713,12 @@
  },
  "a5e9arCnbDac9Doig": {
   "author": "gwern",
-  "blurb": "Hard-takeoff scenario built only from known neural-net scaling effects; the LW post carries just the opening.",
-  "status": "elsewhere",
+  "external": true,
+  "reason": "link post; the work itself is hosted off LessWrong and was fetched and read",
+  "status": "work",
   "title": "It Looks Like You're Trying To Take Over The World",
-  "url": "https://gwern.net/fiction/clippy"
+  "url": "https://gwern.net/fiction/clippy",
+  "words": 8835
  },
  "a69T4d5L8Mbzna7WY": {
   "reason": "nonfiction essay/reflection about the writing process, meta-discussion",
@@ -3216,10 +3224,12 @@
  },
  "yWMKQBnTwFAPFdN6S": {
   "author": "qntm",
-  "blurb": "Wiki article on the most-copied human brain image; the definitive upload-welfare story.",
-  "status": "elsewhere",
+  "external": true,
+  "reason": "link post; the work itself is hosted off LessWrong and was fetched and read",
+  "status": "work",
   "title": "Lena (MMAcevedo)",
-  "url": "https://qntm.org/mmacevedo"
+  "url": "https://qntm.org/mmacevedo",
+  "words": 1951
  },
  "yYq3dysgWrBWQrycm": {
   "status": "serial-part",

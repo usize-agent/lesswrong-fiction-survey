@@ -152,6 +152,8 @@ ol.list{list-style:none; margin:0; padding:0}
 .byline .who{color:var(--ink); font-weight:600}
 .f{display:inline-flex; align-items:center; gap:4px; white-space:nowrap}
 .f svg{width:12px; height:12px; flex:none; opacity:.75}
+a.ext{color:var(--dim); text-decoration:none}
+a.ext:hover{color:var(--accent)}
 .item{transition:background .12s; border-radius:8px; padding-left:8px; padding-right:8px; margin:0 -8px}
 .item:hover{background:var(--panel)}
 .permalink{
@@ -298,8 +300,9 @@ footer{color:var(--faint); font-size:13px; padding:34px 0 50px; margin-top:28px;
 
 <section class="aux" id="elsewhere-sec">
   <h2>Elsewhere</h2>
-  <p>Link-only posts pointing at science fiction hosted off LessWrong. Listed, not scored,
-  because the work is not here.</p>
+  <p>Link-only posts whose target could not be retrieved — two sites refuse automated
+  requests, one novella's link is dead, and one blog no longer exists. Listed, not
+  scored. The five link posts that could be fetched were read and are ranked above.</p>
   <ul class="aux" id="elsewhere"></ul>
 </section>
 
@@ -424,6 +427,7 @@ const ICON = {
   cal:   '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2.2" y="3.2" width="11.6" height="10.6" rx="1.6"/><path d="M2.2 6.4h11.6M5.6 1.8v2.6M10.4 1.8v2.6" stroke-linecap="round"/></svg>',
   parts: '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><rect x="2" y="2.4" width="8.4" height="9.6" rx="1.3"/><path d="M5.6 13.6h6a1.4 1.4 0 0 0 1.4-1.4v-7"/></svg>',
   play:  '<svg viewBox="0 0 16 16" fill="currentColor"><path d="M4.5 3.2v9.6l8-4.8z"/></svg>',
+  ext:   '<svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M9.2 2.6h4.2v4.2M13.4 2.6 7.6 8.4" stroke-linecap="round"/><path d="M11.4 9.6v3a1.4 1.4 0 0 1-1.4 1.4H3.4A1.4 1.4 0 0 1 2 12.6V6a1.4 1.4 0 0 1 1.4-1.4h3" stroke-linecap="round"/></svg>',
 };
 const readMin = w => Math.max(1, Math.round(w / 230));
 
@@ -452,6 +456,7 @@ function item(r, rank){
           <span class="f" data-tip="<b>${fmt(r.words)} words</b><span class='k'>About ${readMin(r.words)} minutes at 230 wpm.</span>">${ICON.clock}${readMin(r.words)} min</span>
           ${r.parts>1?`<span class="f" data-tip="A serial, counted as one work.">${ICON.parts}${r.parts} parts</span>`:""}
           ${r.read==="partial"?`<span class="f" data-tip="Long enough that it was read head and tail rather than straight through.">read in part</span>`:""}
+          ${r.external?`<a class="f ext" href="${r.lw}" target="_blank" rel="noopener" data-tip="<b>Hosted off LessWrong</b><span class='k'>The title links to the work itself; this links to the LessWrong post that pointed at it, whose karma is shown.</span>">${ICON.ext}LW post</a>`:""}
           ${r.mp3 ? `<button class="listen" data-play="${r.id}" data-tip="<b>Listen</b><span class='k'>LessWrong's own text-to-speech narration, ${Math.round(r.secs/60)} minutes. Plays here.</span>">${ICON.play}${Math.round(r.secs/60)} min</button>` : ""}
           <button class="permalink" data-copy="${r.id}" data-tip="Copy a link to this entry">link</button>
         </div>
