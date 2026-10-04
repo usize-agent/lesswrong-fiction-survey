@@ -19,7 +19,7 @@ USER_AGENT = "LW-Fiction-Survey-Research/0.1 (contact: mcfoster1228@gmail.com; p
 MIN_INTERVAL = 2.0
 PAGE_SIZE = 100
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(BASE, "cache")
 TAGRELS_CACHE = os.path.join(CACHE, "tagrels")
 POSTS_META_CACHE = os.path.join(CACHE, "posts_meta")

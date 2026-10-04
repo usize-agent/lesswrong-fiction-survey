@@ -2,8 +2,9 @@
 """Stage 1: fetch markdown bodies for every Stage 0 candidate.
 
 Resumable: checks cache/posts/<id>.json before every request. Appends one
-line to 01-fetch-log.md immediately after each post (cached-hit or freshly
-fetched), so an interrupted run is visible on resume just by reading the log.
+line to work/fetch-log.md immediately after each post (cached-hit or
+freshly fetched), so an interrupted run is visible on resume just by reading
+the log.
 """
 import json
 import os
@@ -17,10 +18,10 @@ ENDPOINT = "https://www.lesswrong.com/graphql"
 USER_AGENT = "LW-Fiction-Survey-Research/0.1 (contact: mcfoster1228@gmail.com; personal research project cataloguing LessWrong fiction)"
 MIN_INTERVAL = 2.0
 
-BASE = os.path.dirname(os.path.abspath(__file__))
+BASE = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CACHE = os.path.join(BASE, "cache")
 POSTS_CACHE = os.path.join(CACHE, "posts")
-LOG_PATH = os.path.join(BASE, "01-fetch-log.md")
+LOG_PATH = os.path.join(BASE, "work/fetch-log.md")
 
 _last_request_time = [0.0]
 

@@ -25,6 +25,7 @@ end. Stage only intended files; never commit generated artifacts (see `.gitignor
 - `curate/` — local rating app (stdlib-only Python + sqlite3). Run
   `python3 curate/app.py`; `python3 curate/seed.py` refreshes it from
   `data/reviews.jsonl` without touching human reviews. The db file is gitignored.
-- `archive/v1/` — the first pass. Historical; don't build on it.
+- An earlier pass with a different rubric is in the git history up to `1b784c9`.
+  Nothing in the tree depends on it; don't restore it.
 - LLM-produced curation lives in the `llm_curations` table, separate from human
   `reviews`. Do not mix the two; the UI labels provenance.

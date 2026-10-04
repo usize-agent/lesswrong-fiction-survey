@@ -146,14 +146,17 @@ Most-used tags: `parable` (100), `humor` (98), `satire` (93), `near-future` (92)
 ## Layout
 
 ```
-data/corpus.json      what counts as a work, and why
-data/reviews.jsonl    one line per work: scores, tags, hook, summary
-pipeline/corpus.py    inclusion policy      -> data/corpus.json
-pipeline/packs.py     reading packs         -> work/packs/
-pipeline/review.py    validate and append   -> data/reviews.jsonl
-pipeline/build.py     this archive          -> docs/, *.md
-curate/               local rating app (stdlib + sqlite3)
-archive/v1/           the first pass, kept for the record
+cache/                     every post tagged fiction, as fetched
+data/corpus.json           what counts as a work, and why
+data/reviews.jsonl         one line per work: scores, tags, hook, summary
+pipeline/fetch_*.py        LessWrong GraphQL          -> cache/
+pipeline/corpus.py         inclusion policy           -> data/corpus.json
+pipeline/packs.py          reading packs              -> work/packs/
+pipeline/review.py         validate and append        -> data/reviews.jsonl
+pipeline/build.py          this archive               -> docs/, *.md
+curate/                    local rating app (stdlib + sqlite3)
 ```
 
 Rebuild the outputs with `python3 pipeline/build.py`. Rate things yourself with `python3 curate/app.py`.
+
+An earlier pass over the same corpus, with a different rubric and a weaker reader, is in the git history up to `1b784c9`. Nothing here depends on it.
